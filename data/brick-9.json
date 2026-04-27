@@ -1,0 +1,421 @@
+{
+  "id": 9,
+  "title": "Nephron Segmental Physiology",
+  "questions": [
+    {
+      "id": 1,
+      "stem": "A researcher microperfuses a rat proximal convoluted tubule and measures the fraction of filtered sodium remaining at the end of the segment. Under normal conditions, what approximate percentage of filtered Na+ has been reabsorbed by the end of the PCT?",
+      "choices": ["5-8%", "20-25%", "40-50%", "65-70%", "90-95%"],
+      "explanations": [
+        "Incorrect. 5-8% reflects the fraction of filtered Na+ reabsorbed by the distal convoluted tubule via NCC.",
+        "Incorrect. This underestimates PCT reabsorption; the PCT is the nephron's workhorse for bulk reabsorption.",
+        "Incorrect. This is too low; the PCT reabsorbs the majority of filtered Na+ before downstream segments handle the remainder.",
+        "Correct. The PCT reabsorbs approximately 65-70% of filtered Na+, Cl-, water, bicarbonate, and K+ along with nearly 100% of filtered glucose and amino acids.",
+        "Incorrect. This would leave virtually nothing for downstream regulation; final reclamation requires further segments."
+      ],
+      "answer": 3
+    },
+    {
+      "id": 2,
+      "stem": "A 58-year-old man with heart failure with reduced ejection fraction is started on empagliflozin. The drug exerts its therapeutic effect by inhibiting an apical cotransporter expressed primarily in which nephron segment?",
+      "choices": ["Thick ascending limb", "Distal convoluted tubule", "Cortical collecting duct", "Proximal convoluted tubule", "Thin descending limb"],
+      "explanations": [
+        "Incorrect. The TAL is the target of furosemide (NKCC2), not SGLT2 inhibitors.",
+        "Incorrect. The DCT contains NCC, the target of thiazides, not SGLT2.",
+        "Incorrect. The cortical collecting duct contains ENaC, regulated by aldosterone, not SGLT2.",
+        "Correct. SGLT2 is expressed on the apical membrane of the early proximal convoluted tubule; SGLT2 inhibitors block sodium-glucose reabsorption here, producing mild natriuresis and osmotic diuresis that reduce preload.",
+        "Incorrect. The thin descending limb is highly water-permeable but does not express SGLT2."
+      ],
+      "answer": 3
+    },
+    {
+      "id": 3,
+      "stem": "A laboratory studies a fluorescent dye that selectively labels apical aquaporin-1 channels. Which nephron segment will demonstrate the most abundant apical AQP1 expression, enabling isosmotic reabsorption?",
+      "choices": ["Thick ascending limb", "Early distal convoluted tubule", "Proximal convoluted tubule", "Type A intercalated cells", "Cortical collecting duct principal cells"],
+      "explanations": [
+        "Incorrect. The TAL completely lacks water channels, making it water-impermeable.",
+        "Incorrect. The early DCT is relatively impermeable to water and does not express abundant AQP1.",
+        "Correct. The PCT expresses abundant AQP1 on both apical and basolateral membranes, making it constitutively highly water-permeable and allowing water to follow solutes osmotically (isosmotic reabsorption).",
+        "Incorrect. Intercalated cells regulate acid-base balance, not bulk water transport via AQP1.",
+        "Incorrect. Principal cells use AQP2 (apical, ADH-regulated), not constitutive AQP1."
+      ],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "stem": "A patient is given a drug that selectively blocks NKCC2 in the thick ascending limb. Which downstream change in tubular fluid composition is most expected as filtrate enters the distal convoluted tubule?",
+      "choices": ["Decreased glucose in filtrate", "Increased HCO3- reabsorption", "Increased osmolality entering DCT", "Reduced urea in medullary interstitium", "Increased water reabsorption in TAL"],
+      "explanations": [
+        "Incorrect. Glucose handling occurs in the PCT and is not affected by NKCC2 blockade.",
+        "Incorrect. HCO3- reabsorption occurs primarily in the PCT and is not directly enhanced by TAL inhibition.",
+        "Correct. Normally, the TAL actively reabsorbs NaCl without water, diluting tubular fluid to ~100 mOsm/kg before it reaches the DCT; blocking NKCC2 prevents this dilution, so fluid entering the DCT remains at higher osmolality.",
+        "Incorrect. While medullary gradient washout does occur, the most direct downstream filtrate change is increased osmolality entering the DCT.",
+        "Incorrect. The TAL is completely impermeable to water; blocking NKCC2 does not enable water reabsorption there."
+      ],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "stem": "A 56-year-old man (JM) presents with severe dehydration and confusion after 48 hours of gastroenteritis. Labs reveal hypokalemia, hyponatremia, and unexpectedly, glucosuria despite a normal serum glucose. Which mechanism best explains his glucosuria?",
+      "choices": [
+        "Saturation of normal SGLT transporters by elevated filtered glucose",
+        "Increased glucose secretion by the proximal tubule",
+        "Ischemic or toxic injury to the PCT reducing the effective Tm for glucose",
+        "Aldosterone-mediated suppression of SGLT2",
+        "Defective ADH-mediated AQP2 insertion"
+      ],
+      "explanations": [
+        "Incorrect. With normal serum glucose the filtered load does not exceed normal Tm; the issue is reduced transporter capacity.",
+        "Incorrect. The kidney does not secrete glucose; tubular glucose reflects filtration minus reabsorption.",
+        "Correct. Severe gastroenteritis can cause ischemic or toxic PCT injury, reducing the effective Tm for glucose so SGLT transporters cannot fully reabsorb the filtered load even at normal plasma glucose, producing glucosuria without hyperglycemia.",
+        "Incorrect. Aldosterone regulates ENaC/ROMK in the collecting duct, not SGLT2.",
+        "Incorrect. AQP2 dysfunction would cause polyuria from impaired water reabsorption, not glucosuria."
+      ],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "stem": "A nephrology fellow studies bicarbonate handling in the PCT. Filtered HCO3- is reabsorbed via carbonic anhydrase-mediated conversion to which intermediate that diffuses into the tubular cell?",
+      "choices": ["H2O", "CO2", "H2CO3 directly", "HCO3- by paracellular diffusion", "Na+ via SGLT2"],
+      "explanations": [
+        "Incorrect. Water is generated in the reaction but is not the diffusing intermediate that re-enters the cell as the bicarbonate carrier.",
+        "Correct. In the PCT lumen, carbonic anhydrase converts filtered HCO3- (with secreted H+) to CO2, which diffuses into the cell and is reconverted to HCO3- for basolateral export.",
+        "Incorrect. Carbonic acid is unstable and rapidly dehydrates to CO2 and water before diffusing.",
+        "Incorrect. HCO3- itself does not move directly across the apical membrane in this pathway.",
+        "Incorrect. SGLT2 transports glucose, not bicarbonate."
+      ],
+      "answer": 1
+    },
+    {
+      "id": 7,
+      "stem": "A patient receives furosemide. The drug's primary inhibitory action on NKCC2 most directly disrupts which physiologic process?",
+      "choices": [
+        "Glucose reabsorption in the early proximal tubule",
+        "Generation of the medullary osmotic gradient",
+        "Aldosterone-mediated K+ secretion",
+        "PTH-mediated calcium reabsorption in the DCT",
+        "Urea recycling in the medullary collecting duct"
+      ],
+      "explanations": [
+        "Incorrect. Glucose reabsorption depends on SGLT transporters, not NKCC2.",
+        "Correct. The TAL's NaCl reabsorption without water generates the hypertonic medullary interstitium; loop diuretics that block NKCC2 disrupt countercurrent multiplication, impairing both urinary dilution and concentration.",
+        "Incorrect. Aldosterone regulates ENaC and ROMK in principal cells of the collecting duct.",
+        "Incorrect. PTH acts on TRPV5 channels in the DCT, independent of NKCC2.",
+        "Incorrect. Urea recycling depends on ADH-regulated urea permeability in the medullary collecting duct."
+      ],
+      "answer": 1
+    },
+    {
+      "id": 8,
+      "stem": "A patient with familial hypomagnesemia and hypercalciuria is found to harbor a claudin-16 mutation. The defective protein is a component of which transport pathway in the thick ascending limb?",
+      "choices": [
+        "Apical NKCC2 cotransporter",
+        "Basolateral Na+/K+-ATPase",
+        "Apical ROMK channel",
+        "Cation-selective paracellular pathway",
+        "Apical NHE-3 exchanger"
+      ],
+      "explanations": [
+        "Incorrect. NKCC2 is a transcellular cotransporter, not a tight junction component.",
+        "Incorrect. The basolateral pump establishes the Na+ gradient but is not made of claudins.",
+        "Incorrect. ROMK is a transcellular K+ channel, not a tight junction protein.",
+        "Correct. Claudin-16 (and claudin-19) form the cation-selective paracellular pathway in the TAL that drives Mg2+ and Ca2+ reabsorption; mutations cause familial hypomagnesemia with hypercalciuria.",
+        "Incorrect. NHE-3 is an apical transcellular Na+/H+ exchanger, not a paracellular tight junction protein."
+      ],
+      "answer": 3
+    },
+    {
+      "id": 9,
+      "stem": "A 70 kg adult has a GFR of 125 mL/min and a plasma glucose of 100 mg/dL. The filtered load of glucose is approximately 125 mg/min, well below the Tm of 375 mg/min. Why does glucosuria nonetheless begin clinically at a plasma glucose of approximately 180-200 mg/dL rather than at the theoretical Tm?",
+      "choices": [
+        "Glucose is actively secreted at high plasma concentrations",
+        "Splay reflects nephron heterogeneity and transporter Km, so some nephrons saturate before others",
+        "GFR rises proportionally with plasma glucose",
+        "ADH stimulates glucose excretion at high osmolality",
+        "Aldosterone reduces SGLT2 activity at high glucose"
+      ],
+      "explanations": [
+        "Incorrect. Glucose is reabsorbed, not secreted, by the nephron.",
+        "Correct. Splay is the curved transition between complete reabsorption and linear excretion; it occurs because individual nephrons have different Tm values and GFRs (glomerulotubular heterogeneity) and transporters have a finite Km, so glucosuria begins at ~180 mg/dL—below the theoretical Tm.",
+        "Incorrect. GFR does not rise linearly with plasma glucose to explain splay.",
+        "Incorrect. ADH controls water reabsorption in the collecting duct, not glucose excretion.",
+        "Incorrect. Aldosterone does not directly regulate SGLT2."
+      ],
+      "answer": 1
+    },
+    {
+      "id": 10,
+      "stem": "A medical student measures tubular fluid osmolality at four sites in a normally hydrated rat. Which value is closest to the osmolality of fluid reaching the early distal convoluted tubule?",
+      "choices": ["50 mOsm/kg", "100 mOsm/kg", "300 mOsm/kg", "600 mOsm/kg", "1200 mOsm/kg"],
+      "explanations": [
+        "Incorrect. ~50 mOsm/kg reflects final dilute urine excreted in the absence of ADH, after the entire collecting duct.",
+        "Correct. Active NaCl reabsorption without water in the TAL drops tubular fluid osmolality to ~100 mOsm/kg, the hypotonic 'dilute' fluid entering the DCT.",
+        "Incorrect. ~300 mOsm/kg is the isosmotic value at the end of the PCT, not the early DCT.",
+        "Incorrect. ~600 mOsm/kg does not correspond to a defined point along the nephron in this brick.",
+        "Incorrect. ~1200 mOsm/kg is the osmolality at the loop tip and the maximum concentrated urine."
+      ],
+      "answer": 1
+    },
+    {
+      "id": 11,
+      "stem": "A patient with central diabetes insipidus excretes large volumes of dilute urine. In the absence of ADH action on principal cells, which channel fails to insert into the apical membrane of the medullary collecting duct?",
+      "choices": ["AQP1", "AQP2", "ENaC", "ROMK", "NKCC2"],
+      "explanations": [
+        "Incorrect. AQP1 is a constitutive water channel in the PCT and thin descending limb, not regulated by ADH.",
+        "Correct. ADH binds the V2 receptor, activating cAMP/PKA signaling that inserts AQP2 into the apical membrane of collecting duct principal cells; without this, water cannot follow the medullary osmotic gradient and dilute urine is excreted.",
+        "Incorrect. ENaC is regulated by aldosterone, not ADH, and mediates Na+ rather than water transport.",
+        "Incorrect. ROMK secretes K+ and is not the ADH-regulated water channel.",
+        "Incorrect. NKCC2 is a TAL transporter, not present in the medullary collecting duct."
+      ],
+      "answer": 1
+    },
+    {
+      "id": 12,
+      "stem": "A 62-year-old woman with primary hyperparathyroidism has elevated PTH driving renal calcium reabsorption. PTH most directly stimulates which apical channel in the distal convoluted tubule?",
+      "choices": ["NCC", "TRPV5", "TRPM6", "ENaC", "ROMK"],
+      "explanations": [
+        "Incorrect. NCC is the apical Na+/Cl- cotransporter (thiazide target), not regulated by PTH for Ca2+ uptake.",
+        "Correct. PTH stimulates apical TRPV5 channels and basolateral NCX exchangers in the DCT, increasing transcellular Ca2+ reabsorption (the primary site of regulated Ca2+ handling).",
+        "Incorrect. TRPM6 mediates Mg2+ entry in the DCT, not Ca2+ entry.",
+        "Incorrect. ENaC is in the principal cells of the collecting duct and is regulated by aldosterone.",
+        "Incorrect. ROMK secretes K+ in principal cells and the TAL."
+      ],
+      "answer": 1
+    },
+    {
+      "id": 13,
+      "stem": "A 28-year-old woman with primary hyperaldosteronism has hypokalemia. Aldosterone increases K+ secretion through which apical channel in collecting duct principal cells?",
+      "choices": ["TRPV5", "ENaC", "ROMK", "Na+/K+-ATPase", "NKCC2"],
+      "explanations": [
+        "Incorrect. TRPV5 is a calcium channel in the DCT.",
+        "Incorrect. ENaC reabsorbs Na+; it is not the K+ secretion channel itself.",
+        "Correct. Principal cells secrete K+ via apical ROMK channels (renal outer medullary K+); aldosterone increases ENaC-mediated Na+ uptake, raising the lumen-negative voltage that drives K+ exit through ROMK.",
+        "Incorrect. The Na+/K+-ATPase is basolateral, not apical, and pumps K+ into the cell.",
+        "Incorrect. NKCC2 is in the TAL and reclaims K+, not secretes it."
+      ],
+      "answer": 2
+    },
+    {
+      "id": 14,
+      "stem": "A patient with severe metabolic acidosis upregulates type A intercalated cells of the collecting duct. These cells contribute to acid handling primarily by which mechanism?",
+      "choices": [
+        "Apical H+-ATPase secretion of H+ and basolateral HCO3- reabsorption",
+        "Apical HCO3- secretion via Cl-/HCO3- exchanger",
+        "Apical Na+ reabsorption via ENaC",
+        "Apical AQP2-mediated water uptake",
+        "Apical NCC-mediated NaCl uptake"
+      ],
+      "explanations": [
+        "Correct. Type A (alpha) intercalated cells secrete H+ via apical H+-ATPase (and H+/K+-ATPase) and reabsorb HCO3- basolaterally—the response to acidosis.",
+        "Incorrect. Apical HCO3- secretion via Cl-/HCO3- exchange is the action of type B intercalated cells, active in alkalosis.",
+        "Incorrect. ENaC-mediated Na+ uptake is the role of principal cells, not intercalated cells.",
+        "Incorrect. AQP2 is in principal cells and mediates ADH-dependent water reabsorption.",
+        "Incorrect. NCC is in the DCT, not in collecting duct intercalated cells."
+      ],
+      "answer": 0
+    },
+    {
+      "id": 15,
+      "stem": "A patient with chronic dehydration has high circulating ADH levels. Beyond inserting AQP2 in the collecting duct, ADH increases urea permeability in which segment, allowing urea recycling to maintain the medullary gradient?",
+      "choices": [
+        "Proximal convoluted tubule",
+        "Thin descending limb",
+        "Thick ascending limb",
+        "Cortical collecting duct",
+        "Medullary collecting duct"
+      ],
+      "explanations": [
+        "Incorrect. The PCT handles bulk reabsorption but is not the site of ADH-regulated urea recycling.",
+        "Incorrect. The thin descending limb is highly water-permeable but is not the ADH-regulated urea recycling segment.",
+        "Incorrect. The TAL is impermeable to water and does not perform ADH-regulated urea recycling.",
+        "Incorrect. The cortical collecting duct does not perform the medullary urea recycling step.",
+        "Correct. ADH increases urea permeability in the medullary collecting duct, allowing urea to enter the medullary interstitium and contribute to the osmotic gradient that drives water reabsorption."
+      ],
+      "answer": 4
+    },
+    {
+      "id": 16,
+      "stem": "A renal physiologist studies the thin descending limb in vitro. Compared with the thin ascending limb, the thin descending limb is best characterized by which permeability profile?",
+      "choices": [
+        "Highly water-permeable, relatively solute-impermeable",
+        "Water-impermeable, allows passive NaCl diffusion",
+        "Highly water- and solute-permeable",
+        "Water-impermeable, no solute movement",
+        "ADH-dependent water permeability only"
+      ],
+      "explanations": [
+        "Correct. The thin descending limb (tDL) is highly permeable to water but relatively impermeable to solutes; as filtrate descends into the hypertonic medulla, water exits osmotically, concentrating tubular fluid.",
+        "Incorrect. This describes the thin ascending limb, not the descending limb.",
+        "Incorrect. The tDL is selective: water moves freely, but solutes do not.",
+        "Incorrect. Water clearly moves out of the tDL osmotically.",
+        "Incorrect. Water permeability in the tDL is constitutive (not ADH-regulated, unlike the collecting duct)."
+      ],
+      "answer": 0
+    },
+    {
+      "id": 17,
+      "stem": "Daily filtered volume in an adult is approximately 180 L, of which the proximal convoluted tubule reclaims roughly two-thirds. Approximately how many liters of water are reabsorbed by the PCT each day?",
+      "choices": ["20 L", "60 L", "90 L", "120 L", "180 L"],
+      "explanations": [
+        "Incorrect. 20 L would represent only ~11% of the filtered load.",
+        "Incorrect. 60 L would represent only one-third reabsorption, far below the actual 60-70%.",
+        "Incorrect. 90 L is exactly half, still below the PCT's typical reclamation.",
+        "Correct. The PCT reabsorbs ~120 L of water per day (about 67% of the ~180 L filtered), reflecting its dominant role in bulk water and solute reclamation.",
+        "Incorrect. 180 L would equal the entire filtered load, leaving nothing to be excreted or processed downstream."
+      ],
+      "answer": 3
+    },
+    {
+      "id": 18,
+      "stem": "A patient with poorly controlled type 2 diabetes mellitus has a plasma glucose of 400 mg/dL and develops polyuria with electrolyte disturbances. Which mechanism most directly explains the polyuria?",
+      "choices": [
+        "Decreased GFR from glucose toxicity",
+        "Aldosterone deficiency",
+        "Osmotic diuresis from glucose remaining in tubular fluid after Tm is exceeded",
+        "Direct stimulation of ADH release by glucose",
+        "Increased AQP2 trafficking by hyperglycemia"
+      ],
+      "explanations": [
+        "Incorrect. Acute hyperglycemia typically increases, not decreases, GFR; polyuria is driven by tubular events.",
+        "Incorrect. Aldosterone is not deficient in poorly controlled diabetes; volume losses come from osmotic diuresis.",
+        "Correct. When filtered glucose exceeds Tm, unreabsorbed glucose retains water osmotically in the tubular lumen, increasing urine volume and producing urinary losses of Na+, K+, and water (osmotic diuresis).",
+        "Incorrect. Glucose does not directly stimulate ADH release.",
+        "Incorrect. Hyperglycemia does not directly enhance AQP2 trafficking; it does the opposite functionally by overwhelming reabsorption."
+      ],
+      "answer": 2
+    },
+    {
+      "id": 19,
+      "stem": "A 9-year-old boy with cystinosis develops Fanconi syndrome with glucosuria, aminoaciduria, phosphaturia, and uricosuria at normal plasma concentrations. Which underlying mechanism best explains these findings?",
+      "choices": [
+        "Selective SGLT2 deficiency",
+        "Generalized PCT dysfunction reducing the effective Tm of multiple proximal transporters",
+        "Selective NKCC2 dysfunction",
+        "Aldosterone resistance in principal cells",
+        "Selective AQP2 channelopathy"
+      ],
+      "explanations": [
+        "Incorrect. Isolated SGLT2 deficiency would cause glucosuria alone, not the broad pattern seen here.",
+        "Correct. Fanconi syndrome reflects generalized PCT dysfunction: all proximal transporters have reduced effective Tm, so glucose, amino acids, phosphate, and urate appear in urine even at normal plasma concentrations.",
+        "Incorrect. NKCC2 dysfunction (Bartter-like) affects TAL function and urinary dilution/concentration, not proximal solutes.",
+        "Incorrect. Aldosterone resistance affects Na+/K+ exchange in the collecting duct, not proximal solute handling.",
+        "Incorrect. AQP2 defects cause nephrogenic diabetes insipidus (water handling), not the proximal pattern described."
+      ],
+      "answer": 1
+    },
+    {
+      "id": 20,
+      "stem": "A renal physiologist measures urine osmolality in two healthy subjects: one fluid-deprived (high ADH) and one given 2 L of water (low ADH). Which pair of values best matches the urine osmolalities of these two subjects?",
+      "choices": [
+        "1200 and 50-100 mOsm/kg",
+        "300 and 300 mOsm/kg",
+        "100 and 600 mOsm/kg",
+        "600 and 1200 mOsm/kg",
+        "50 and 100 mOsm/kg"
+      ],
+      "explanations": [
+        "Correct. With ADH present, the medullary collecting duct reabsorbs water against the gradient producing concentrated urine up to ~1200 mOsm/kg; without ADH, dilute urine ~50-100 mOsm/kg is excreted in large volumes (as in diabetes insipidus).",
+        "Incorrect. Both values being isosmotic to plasma would imply no concentrating or diluting capacity.",
+        "Incorrect. The fluid-deprived subject would not have the lower osmolality.",
+        "Incorrect. Neither value reflects the dilute urine expected in the water-loaded subject.",
+        "Incorrect. Both values are dilute; the fluid-deprived subject should produce concentrated urine."
+      ],
+      "answer": 0
+    },
+    {
+      "id": 21,
+      "stem": "A pharmacology student investigates the differential leakiness of tight junctions along the nephron. Which segment has the leakiest paracellular pathway, mediated by claudin-2, that facilitates bulk Na+ and water reabsorption?",
+      "choices": [
+        "Proximal convoluted tubule",
+        "Thick ascending limb",
+        "Distal convoluted tubule",
+        "Cortical collecting duct",
+        "Medullary collecting duct"
+      ],
+      "explanations": [
+        "Correct. The PCT has 'leaky' tight junctions containing claudin-2, permitting paracellular movement of Na+, Cl-, and water; this leakiness enables efficient bulk reabsorption of large filtered loads.",
+        "Incorrect. The TAL has cation-selective junctions (claudin-16/19) for Mg2+/Ca2+, not bulk leakiness.",
+        "Incorrect. The DCT has tighter junctions and water-impermeable epithelium.",
+        "Incorrect. The cortical collecting duct has highly restrictive ('tight') junctions to prevent back-leak.",
+        "Incorrect. The medullary collecting duct also has tight junctions to maintain steep gradients."
+      ],
+      "answer": 0
+    },
+    {
+      "id": 22,
+      "stem": "A toxin selectively renders the thick ascending limb water-permeable while preserving its NKCC2 activity. What is the most likely consequence?",
+      "choices": [
+        "Glucosuria develops",
+        "Impaired urinary concentration",
+        "Increased HCO3- secretion",
+        "Enhanced urinary dilution",
+        "Increased K+ secretion"
+      ],
+      "explanations": [
+        "Incorrect. Glucose handling occurs in the PCT and is not affected.",
+        "Correct. The TAL's water impermeability is essential to dissociate solute from water—diluting tubular fluid while concentrating the medullary interstitium; making it water-permeable would dissipate the medullary gradient and impair urinary concentration.",
+        "Incorrect. HCO3- handling is primarily in the PCT and intercalated cells, unaffected here.",
+        "Incorrect. Allowing water to follow NaCl reabsorption would prevent the dilution that normally occurs—urinary dilution would be impaired, not enhanced.",
+        "Incorrect. K+ secretion is regulated in the collecting duct by aldosterone/ROMK, not by TAL water permeability."
+      ],
+      "answer": 1
+    },
+    {
+      "id": 23,
+      "stem": "A pharmacology question stem describes a thiazide diuretic acting on a specific apical cotransporter. Which transporter is the target, and approximately what fraction of filtered Na+ is normally reabsorbed at this site?",
+      "choices": [
+        "NKCC2; 25%",
+        "NCC; 5-8%",
+        "ENaC; 65-70%",
+        "SGLT2; 20%",
+        "NHE-3; 10%"
+      ],
+      "explanations": [
+        "Incorrect. NKCC2 is the loop diuretic target in the TAL, reabsorbing roughly 25% of filtered Na+.",
+        "Correct. Thiazides inhibit the NCC cotransporter in the distal convoluted tubule, which accounts for roughly 5-8% of filtered Na+ reabsorption.",
+        "Incorrect. ENaC is in collecting duct principal cells and handles only ~2-5% of filtered Na+; it is the target of amiloride, not thiazides.",
+        "Incorrect. SGLT2 transports glucose with Na+, not the thiazide target.",
+        "Incorrect. NHE-3 is an apical Na+/H+ exchanger in the PCT, not the thiazide target."
+      ],
+      "answer": 1
+    },
+    {
+      "id": 24,
+      "stem": "A renal physiology graph (Figure 9) plots glucose handling against plasma glucose concentration. Filtered load rises linearly with plasma glucose, while reabsorption rises linearly until ~375 mg/min and then plateaus. Which of the following best describes the relationship represented?",
+      "choices": [
+        "Excretion = Filtration + Reabsorption",
+        "Reabsorption saturates at the renal threshold of 50 mg/dL",
+        "Filtration of glucose saturates at high plasma concentrations",
+        "Excretion = Filtration - Reabsorption + Secretion",
+        "Glucose is actively secreted into the tubule above Tm"
+      ],
+      "explanations": [
+        "Incorrect. Reabsorption is subtracted from filtration, not added, when calculating excretion.",
+        "Incorrect. The renal threshold for glucose is approximately 180-200 mg/dL plasma glucose, not 50 mg/dL.",
+        "Incorrect. Filtration of glucose does not saturate—it rises linearly with plasma glucose because glomerular filtration is not transporter-mediated.",
+        "Correct. Excretion of any solute equals filtered load minus tubular reabsorption plus tubular secretion (E = F - R + S), the master equation governing renal handling.",
+        "Incorrect. Glucose is reabsorbed only; once Tm is exceeded, the unreabsorbed fraction is excreted, not actively secreted."
+      ],
+      "answer": 3
+    },
+    {
+      "id": 25,
+      "stem": "A pediatrician evaluates a child with persistent volume depletion from chronic vomiting whose medullary osmotic gradient has 'washed out.' Which physiologic consequence is most directly expected from this medullary washout?",
+      "choices": [
+        "Increased glucose reabsorption in the PCT",
+        "Impaired ability to concentrate urine despite ADH",
+        "Increased aldosterone-mediated K+ excretion",
+        "Glucosuria at normal plasma glucose",
+        "Increased PTH-mediated Ca2+ reabsorption"
+      ],
+      "explanations": [
+        "Incorrect. PCT glucose handling is independent of the medullary gradient.",
+        "Correct. Urinary concentration depends on the hypertonic medullary interstitium driving water reabsorption from the medullary collecting duct under ADH; if the gradient is washed out (as with dehydration-induced TAL/medullary compromise), urinary concentration is impaired even when ADH is present.",
+        "Incorrect. Aldosterone-mediated K+ secretion depends on cortical collecting duct function, not the medullary gradient per se.",
+        "Incorrect. Glucosuria at normal plasma glucose reflects PCT injury (reduced Tm), not medullary washout.",
+        "Incorrect. PTH action on TRPV5 in the DCT is independent of the medullary osmotic gradient."
+      ],
+      "answer": 1
+    }
+  ]
+}

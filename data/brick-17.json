@@ -1,0 +1,409 @@
+{
+  "id": 17,
+  "title": "Water Regulation",
+  "questions": [
+    {
+      "id": 1,
+      "stem": "A 20-year-old hiker is lost in a desert and runs out of water for hours. After returning to her car, she drinks a small amount and notes a low-volume, dark-yellow urine. Which mechanism BEST explains the small, concentrated urine?",
+      "choices": [
+        "Decreased GFR from renal vasodilation",
+        "Increased ADH causing aquaporin insertion in the collecting duct",
+        "Inhibition of the Na+/K+-ATPase",
+        "Loss of the medullary concentration gradient",
+        "Reduced thirst response"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Renal vasodilation does not explain concentrated urine.",
+        "Correct. High serum osmolality and low blood volume both stimulate ADH; aquaporins are inserted in the collecting duct, increasing water reabsorption and producing concentrated urine.",
+        "Incorrect. Na+/K+-ATPase inhibition is not the mechanism.",
+        "Incorrect. The medullary gradient is preserved and being used to concentrate urine.",
+        "Incorrect. Thirst response is increased, not reduced, in dehydration."
+      ]
+    },
+    {
+      "id": 2,
+      "stem": "What is the main purpose of countercurrent multiplication in the loop of Henle?",
+      "choices": [
+        "Creation of the inner medullary concentration gradient",
+        "Erythropoietin production for red cell synthesis",
+        "Potassium reabsorption to prevent wasting",
+        "Reabsorption of amino acids for glutamine metabolism",
+        "Regulation of glomerular filtration rate"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Countercurrent multiplication establishes a concentration gradient in the inner medulla, enabling the kidney to produce concentrated or dilute urine.",
+        "Incorrect. Erythropoietin is produced by interstitial cells and unrelated.",
+        "Incorrect. Potassium handling is not the primary purpose.",
+        "Incorrect. Amino acid reabsorption is in the proximal tubule.",
+        "Incorrect. GFR regulation is not the primary purpose of countercurrent multiplication."
+      ]
+    },
+    {
+      "id": 3,
+      "stem": "Where is ADH released?",
+      "choices": ["Anterior pituitary", "Heart atrium", "Juxtaglomerular apparatus", "Posterior pituitary", "Proximal tubule"],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. The anterior pituitary releases other hormones (ACTH, TSH, FSH, LH, prolactin, GH).",
+        "Incorrect. Heart atria release ANP/BNP, not ADH.",
+        "Incorrect. The JGA releases renin.",
+        "Correct. ADH is synthesized in the supraoptic and paraventricular nuclei of the hypothalamus and released from the posterior pituitary.",
+        "Incorrect. The proximal tubule does not release ADH."
+      ]
+    },
+    {
+      "id": 4,
+      "stem": "Which clinical disorder is caused only by lack of ADH production or lack of kidney response to ADH?",
+      "choices": ["Diabetes insipidus", "Diabetes mellitus", "Hyponatremia", "Hypokalemia", "SIADH"],
+      "answer": 0,
+      "explanations": [
+        "Correct. Diabetes insipidus results from insufficient ADH (central) or insufficient kidney response (nephrogenic).",
+        "Incorrect. Diabetes mellitus is a glucose disorder.",
+        "Incorrect. Hyponatremia has many causes besides ADH abnormalities.",
+        "Incorrect. Hypokalemia is unrelated to ADH availability.",
+        "Incorrect. SIADH involves excess ADH, not deficiency."
+      ]
+    },
+    {
+      "id": 5,
+      "stem": "How does ADH cause water reabsorption in the kidney?",
+      "choices": [
+        "It blocks ROMK channels",
+        "It increases renal blood flow",
+        "It increases water reabsorption in the proximal tubule",
+        "It triggers aquaporin insertion in the collecting duct",
+        "It upregulates NKCC2"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. ADH does not block ROMK channels.",
+        "Incorrect. Increased renal blood flow is not the mechanism.",
+        "Incorrect. The collecting duct, not the proximal tubule, is the site of ADH-driven water reabsorption.",
+        "Correct. ADH activates vasopressin receptors in the collecting duct, causing aquaporin channel insertion that allows water reabsorption.",
+        "Incorrect. ADH does not principally upregulate NKCC2."
+      ]
+    },
+    {
+      "id": 6,
+      "stem": "How do loop diuretics affect countercurrent multiplication?",
+      "choices": [
+        "Block carbonic anhydrase in proximal tubule",
+        "Block ENaC channels, preventing sodium reabsorption",
+        "Block NKCC2, preventing the medullary gradient from forming",
+        "Block sodium chloride co-transporter (NCC)",
+        "Stimulate aquaporin insertion"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. That describes acetazolamide.",
+        "Incorrect. ENaC blockade is the mechanism of amiloride/triamterene.",
+        "Correct. Loop diuretics block NKCC2 in the thick ascending limb, preventing salt reabsorption and disrupting the medullary concentration gradient.",
+        "Incorrect. NCC blockade is the mechanism of thiazides in the DCT.",
+        "Incorrect. ADH, not loop diuretics, drives aquaporin insertion."
+      ]
+    },
+    {
+      "id": 7,
+      "stem": "Within the loop of Henle, which segment is permeable to water but cannot reabsorb sodium?",
+      "choices": [
+        "Distal convoluted tubule",
+        "Proximal convoluted tubule",
+        "Thick ascending limb",
+        "Thin ascending limb",
+        "Thin descending limb"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. The DCT actively transports sodium under thiazide-sensitive mechanisms.",
+        "Incorrect. The PCT reabsorbs both water and sodium.",
+        "Incorrect. The thick ascending limb actively reabsorbs sodium and is impermeable to water.",
+        "Incorrect. The thin ascending limb does reabsorb some sodium passively.",
+        "Correct. The thin descending limb is permeable to water but cannot actively reabsorb sodium."
+      ]
+    },
+    {
+      "id": 8,
+      "stem": "A normal serum osmolality range cited in the brick for adults is approximately:",
+      "choices": ["100-150 mOsm/kg", "200-250 mOsm/kg", "275-300 mOsm/kg", "350-400 mOsm/kg", "500-600 mOsm/kg"],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. This is far below physiologic range.",
+        "Incorrect. Below physiologic range.",
+        "Correct. The brick states normal adult plasma osmolality is approximately 285-300 mOsm/kg, with concerning ranges below 265 or above 320.",
+        "Incorrect. This is markedly elevated.",
+        "Incorrect. This is much higher than normal."
+      ]
+    },
+    {
+      "id": 9,
+      "stem": "Approximately what percentage of GFR can humans excrete as free water?",
+      "choices": ["1%", "5%", "20%", "50%", "75%"],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Underestimates free water capacity.",
+        "Incorrect. Underestimates free water capacity.",
+        "Correct. Humans can excrete about 20% of GFR as free water; a high GFR is needed to handle large intermittent water intake.",
+        "Incorrect. Overestimates free water excretion.",
+        "Incorrect. Greatly overestimates free water excretion."
+      ]
+    },
+    {
+      "id": 10,
+      "stem": "Which factor does NOT trigger thirst?",
+      "choices": [
+        "Decreased blood volume",
+        "Decreased serum osmolality",
+        "Hemorrhage",
+        "Increased angiotensin II",
+        "Increased serum osmolality"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Decreased blood volume triggers thirst.",
+        "Correct. Thirst is triggered by INCREASED serum osmolality, decreased blood volume, and increased angiotensin II — not by decreased osmolality.",
+        "Incorrect. Hemorrhage decreases blood volume, triggering thirst.",
+        "Incorrect. Increased angiotensin II is a known thirst stimulus.",
+        "Incorrect. Increased osmolality is a major thirst stimulus."
+      ]
+    },
+    {
+      "id": 11,
+      "stem": "What is the maximum osmotic gradient that the thick ascending limb can produce between tubular fluid and interstitium during a single pass?",
+      "choices": ["50 mOsm/kg", "100 mOsm/kg", "200 mOsm/kg", "400 mOsm/kg", "1200 mOsm/kg"],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. The single-step gradient is larger than 50.",
+        "Incorrect. The single-step gradient is 200, not 100.",
+        "Correct. The TAL produces a maximum 200 mOsm/L gradient between tubular fluid and the interstitium per single step in countercurrent multiplication.",
+        "Incorrect. 400 is the cumulative interstitial value after one cycle, not the per-step gradient.",
+        "Incorrect. 1200 is roughly the maximal medullary osmolality, not the per-step gradient."
+      ]
+    },
+    {
+      "id": 12,
+      "stem": "Approximately what fraction of the renal medullary osmolality is contributed by urea?",
+      "choices": ["1-2%", "10%", "25%", "50%", "75%"],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. 1-2% reflects urea's contribution to total serum osmolality.",
+        "Incorrect. Underestimates the medullary urea contribution.",
+        "Incorrect. Underestimates the medullary urea contribution.",
+        "Correct. Urea makes up approximately 50% of the medullary interstitial osmolality; ADH-driven urea reabsorption in the collecting duct contributes to the gradient.",
+        "Incorrect. Overestimates urea's contribution."
+      ]
+    },
+    {
+      "id": 13,
+      "stem": "A 35-year-old man has a serum sodium of 154 mEq/L after running a marathon and inadequate water intake. Which best summarizes hypernatremia?",
+      "choices": [
+        "An ADH overproduction disorder",
+        "A salt problem unrelated to water",
+        "A water problem from net free-water loss",
+        "Caused by a defect in renin secretion",
+        "Caused by aldosterone deficiency"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. ADH is typically elevated in dehydration; the underlying issue is water deficit.",
+        "Incorrect. The brick emphasizes that hypernatremia and hyponatremia are water problems, not salt problems.",
+        "Correct. Hypernatremia is a water problem caused by net loss of free water (or inadequate intake), concentrating sodium in less water.",
+        "Incorrect. Renin defects are not the primary mechanism described here.",
+        "Incorrect. Aldosterone deficiency does not directly produce hypernatremia."
+      ]
+    },
+    {
+      "id": 14,
+      "stem": "A patient with severe hypokalemia has dilute urine and resists ADH effect. Which best explains the resistance?",
+      "choices": [
+        "Excessive sodium delivery distally",
+        "Impaired ammonia synthesis",
+        "Increased proximal tubule reabsorption",
+        "Severe hypokalemia blunts countercurrent multiplication",
+        "Vasa recta vasoconstriction"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Excess distal sodium delivery is not the mechanism described.",
+        "Incorrect. Ammonia synthesis affects acid-base, not concentrating ability.",
+        "Incorrect. Proximal reabsorption is not the issue here.",
+        "Correct. Severe hypokalemia (and hypercalcemia) can blunt countercurrent multiplication, impairing concentrating ability despite adequate ADH.",
+        "Incorrect. Vasa recta vasoconstriction is not the cited mechanism."
+      ]
+    },
+    {
+      "id": 15,
+      "stem": "Where in the brain are osmoreceptors that sense plasma osmolality located?",
+      "choices": ["Cerebellum", "Hypothalamus", "Medulla", "Pons", "Posterior pituitary"],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. The cerebellum is involved in motor coordination.",
+        "Correct. Osmoreceptors are located in the hypothalamus; they shrink in dehydration and trigger ADH release.",
+        "Incorrect. The medulla houses cardiorespiratory centers, not osmoreceptors for ADH.",
+        "Incorrect. The pons is not the site for osmoreceptors.",
+        "Incorrect. The posterior pituitary stores and releases ADH but does not sense osmolality."
+      ]
+    },
+    {
+      "id": 16,
+      "stem": "Which nuclei of the hypothalamus synthesize ADH?",
+      "choices": [
+        "Arcuate and ventromedial",
+        "Dorsomedial and lateral",
+        "Mammillary and infundibular",
+        "Suprachiasmatic and arcuate",
+        "Supraoptic and paraventricular"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. These nuclei are not the ADH synthesizers.",
+        "Incorrect. These nuclei do not synthesize ADH.",
+        "Incorrect. These structures do not produce ADH.",
+        "Incorrect. These do not produce ADH.",
+        "Correct. The supraoptic and paraventricular nuclei synthesize ADH, which is then stored in the posterior pituitary."
+      ]
+    },
+    {
+      "id": 17,
+      "stem": "A 50-year-old woman with small cell lung cancer has serum Na+ 122 mEq/L, low serum osmolality, and concentrated urine. Which disorder is most consistent?",
+      "choices": ["Central DI", "Hypernatremia", "Nephrogenic DI", "Primary polydipsia", "SIADH"],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. Central DI presents with hypernatremia and dilute urine.",
+        "Incorrect. The patient is hyponatremic, not hypernatremic.",
+        "Incorrect. Nephrogenic DI presents with hypernatremia and dilute urine.",
+        "Incorrect. Primary polydipsia presents with low serum osmolality and dilute urine, not concentrated urine.",
+        "Correct. SIADH is inappropriate ADH release in the setting of low serum osmolality, causing water retention and hyponatremia with inappropriately concentrated urine."
+      ]
+    },
+    {
+      "id": 18,
+      "stem": "After a normal water intake (no ADH release), the urine osmolality from the collecting duct can be as low as approximately:",
+      "choices": ["50 mOsm/kg", "300 mOsm/kg", "600 mOsm/kg", "900 mOsm/kg", "1250 mOsm/kg"],
+      "answer": 0,
+      "explanations": [
+        "Correct. With no ADH release, the collecting duct is impermeable to water and urine osmolality can be as low as ~50 mOsm/kg.",
+        "Incorrect. 300 is the isotonic value seen in the proximal tubule.",
+        "Incorrect. 600 is an intermediate value; not the dilute extreme.",
+        "Incorrect. 900 is closer to a more concentrated state.",
+        "Incorrect. 1250 is approximately the maximally concentrated value with maximal ADH."
+      ]
+    },
+    {
+      "id": 19,
+      "stem": "Acute tubular necrosis can impair urine concentrating ability despite adequate ADH because it:",
+      "choices": [
+        "Acutely raises serum potassium only",
+        "Causes hypocalcemia",
+        "Destroys the medullary osmotic gradient",
+        "Inhibits aquaporin synthesis",
+        "Reduces aldosterone production"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. While potassium may rise, that is not the cause of impaired concentration.",
+        "Incorrect. Hypocalcemia is not the mechanism.",
+        "Correct. ATN impairs sodium and urea reabsorption in the loop of Henle, destroying the medullary concentration gradient and disrupting countercurrent multiplication.",
+        "Incorrect. Aquaporin synthesis is not directly inhibited by ATN.",
+        "Incorrect. Aldosterone is not the central issue."
+      ]
+    },
+    {
+      "id": 20,
+      "stem": "A patient with congenital nephrogenic diabetes insipidus has unresponsive vasopressin receptors. After a water deprivation test followed by desmopressin administration, what is the expected response?",
+      "choices": [
+        "Both fail to concentrate urine",
+        "Concentrates with deprivation alone",
+        "Concentrates with desmopressin only",
+        "Concentrates with neither",
+        "Polyuria stops with deprivation"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Both maneuvers fail; the answer that the kidneys 'concentrate with neither' is more precise.",
+        "Incorrect. Water deprivation cannot concentrate the urine.",
+        "Incorrect. Nephrogenic DI does not respond to desmopressin (ADH analog) since receptors are unresponsive.",
+        "Correct. In nephrogenic DI, the kidneys cannot concentrate urine in response to water deprivation OR desmopressin because the kidneys cannot respond to ADH.",
+        "Incorrect. Polyuria persists despite water deprivation in DI."
+      ]
+    },
+    {
+      "id": 21,
+      "stem": "After 2/3 of glomerular filtrate is reabsorbed by the proximal tubule, what is the approximate osmolality of the tubular fluid entering the loop of Henle?",
+      "choices": ["100 mOsm/kg", "200 mOsm/kg", "300 mOsm/kg", "600 mOsm/kg", "1200 mOsm/kg"],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. 100 is closer to early DCT after thick ascending limb dilution.",
+        "Incorrect. 200 is the per-step ascending gradient, not the entering fluid.",
+        "Correct. After proximal tubule reabsorption, tubular fluid is isotonic to plasma at approximately 300 mOsm/kg.",
+        "Incorrect. 600 is interstitial outer medullary value.",
+        "Incorrect. 1200 is the deepest medullary osmolality."
+      ]
+    },
+    {
+      "id": 22,
+      "stem": "Approximately how many liters of plasma are filtered each day by the kidneys, much of which is reabsorbed by the proximal tubule?",
+      "choices": ["1.8 L/day", "18 L/day", "60 L/day", "180 L/day", "1800 L/day"],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. This greatly underestimates daily filtration.",
+        "Incorrect. This underestimates daily filtration.",
+        "Incorrect. 60 L is roughly the remaining filtrate after 2/3 proximal reabsorption.",
+        "Correct. With a normal GFR of 120-130 mL/min/1.73 m^2, approximately 180 L of filtrate is produced per day, mostly reabsorbed by downstream nephron segments.",
+        "Incorrect. This greatly overestimates daily filtration."
+      ]
+    },
+    {
+      "id": 23,
+      "stem": "Aquaporin channels inserted via ADH stimulation are placed at which membrane of the principal cell in the collecting duct?",
+      "choices": [
+        "Apical (luminal) membrane only",
+        "Basement membrane",
+        "Both apical and basolateral membranes",
+        "Mitochondrial membrane",
+        "Nuclear membrane"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. ADH triggers aquaporin insertion in the apical (luminal) membrane of principal cells, allowing water to enter from the tubular fluid.",
+        "Incorrect. The basement membrane is not the site of regulated insertion.",
+        "Incorrect. While there are different aquaporins basolaterally, regulated insertion is luminal.",
+        "Incorrect. Mitochondrial membrane is not relevant here.",
+        "Incorrect. Nuclear membrane insertion is not the ADH mechanism."
+      ]
+    },
+    {
+      "id": 24,
+      "stem": "A 25-year-old man has copious dilute urine and high serum sodium. He is given desmopressin and urine osmolality rises markedly. The likely diagnosis is:",
+      "choices": ["Central diabetes insipidus", "Hyperaldosteronism", "Nephrogenic diabetes insipidus", "Primary polydipsia", "SIADH"],
+      "answer": 0,
+      "explanations": [
+        "Correct. In central DI, the kidneys can respond to exogenous ADH (desmopressin), so urine osmolality rises markedly.",
+        "Incorrect. Hyperaldosteronism is not characterized by dilute urine and DDAVP responsiveness.",
+        "Incorrect. Nephrogenic DI does not respond to desmopressin.",
+        "Incorrect. Primary polydipsia presents with low serum sodium, not high.",
+        "Incorrect. SIADH presents with hyponatremia, not hypernatremia."
+      ]
+    },
+    {
+      "id": 25,
+      "stem": "Which best summarizes the relationship between sodium balance and water balance per the brick?",
+      "choices": [
+        "Sodium and water balance are identical processes",
+        "Sodium balance affects volume status; water balance affects osmolality",
+        "Water balance regulates serum potassium",
+        "Sodium balance is regulated only by ADH",
+        "Water balance does not affect plasma osmolality"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. They are related but distinct processes.",
+        "Correct. Sodium balance principally affects volume status (e.g., heart failure when retained), while water balance affects plasma osmolality (e.g., hypo/hypernatremia).",
+        "Incorrect. Water balance does not directly regulate potassium.",
+        "Incorrect. Sodium balance is regulated by aldosterone and other RAAS components, not ADH.",
+        "Incorrect. Water balance is the primary determinant of plasma osmolality."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,463 @@
+{
+  "id": 14,
+  "title": "Osmotic Diuretics",
+  "questions": [
+    {
+      "id": 1,
+      "stem": "A 56-year-old man falls from a ladder, strikes his head on concrete, and is brought to the ED confused with BP 162/86 mm Hg. CT shows a subdural hematoma with evidence of elevated intracranial pressure. Which medication is most appropriate to administer urgently?",
+      "choices": ["Hydrochlorothiazide", "Mannitol", "Spironolactone", "Torsemide", "Triamterene"],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Hydrochlorothiazide is a thiazide diuretic and is not used for elevated ICP.",
+        "Correct. Mannitol is the osmotic agent used to draw water out of the brain into the bloodstream, reducing ICP.",
+        "Incorrect. Spironolactone is a potassium-sparing diuretic without a role in acute ICP reduction.",
+        "Incorrect. Torsemide is a loop diuretic and is not the agent for acute elevated ICP.",
+        "Incorrect. Triamterene is a potassium-sparing diuretic and is not used for ICP."
+      ]
+    },
+    {
+      "id": 2,
+      "stem": "A 65-year-old man with traumatic brain injury and papilledema is given IV mannitol with rapid clinical improvement. Which mechanism best explains this benefit?",
+      "choices": [
+        "Blocked angiotensin II receptors",
+        "Competition at aldosterone receptor",
+        "Increased serum osmolality",
+        "Inhibited ACE activity",
+        "Inhibited distal Na/Cl reabsorption"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Mannitol does not act on angiotensin II receptors.",
+        "Incorrect. Aldosterone receptor antagonism describes spironolactone, not mannitol.",
+        "Correct. Mannitol increases serum osmolality, drawing water out of brain cells into blood and lowering ICP.",
+        "Incorrect. Mannitol is not an ACE inhibitor.",
+        "Incorrect. Distal tubule Na/Cl inhibition is the action of thiazides."
+      ]
+    },
+    {
+      "id": 3,
+      "stem": "A neuroscience laboratory studies how mannitol shrinks brain tissue. Which property of mannitol allows it to exert sustained osmotic pressure within the renal tubule?",
+      "choices": [
+        "Active reabsorption proximally",
+        "Free filtration with poor membrane diffusion",
+        "Inhibition of aquaporin channels",
+        "Reabsorption via NKCC2",
+        "Tight binding to plasma albumin"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Mannitol is not actively reabsorbed; it is retained in the tubule.",
+        "Correct. Mannitol is filtered freely across the glomerulus but diffuses poorly across cell membranes, so it exerts osmotic pressure within the tubule.",
+        "Incorrect. Mannitol does not block aquaporin channels.",
+        "Incorrect. NKCC2 reabsorption is the target of loop diuretics, not mannitol.",
+        "Incorrect. Albumin binding would limit filtration, the opposite of mannitol's behavior."
+      ]
+    },
+    {
+      "id": 4,
+      "stem": "A 42-year-old woman with chronic euvolemic hyponatremia from SIADH is started on an oral osmotic agent that increases free water excretion in the urine. Which agent was most likely prescribed?",
+      "choices": ["Acetazolamide", "Furosemide", "Mannitol", "Spironolactone", "Urea"],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. Acetazolamide is a carbonic anhydrase inhibitor, not an osmotic agent for SIADH.",
+        "Incorrect. Furosemide is a loop diuretic; it is not the oral osmotic agent described.",
+        "Incorrect. Mannitol is given IV, not orally, and is not the typical agent for SIADH.",
+        "Incorrect. Spironolactone is a potassium-sparing diuretic, not an osmotic agent.",
+        "Correct. Oral urea is filtered into the nephron and increases free water excretion, helping treat the water excess of SIADH."
+      ]
+    },
+    {
+      "id": 5,
+      "stem": "A 58-year-old man with severe head trauma develops elevated ICP. The treating team selects an osmotic agent based on its ability to draw water from intracellular to extracellular space. Where in the brain does this water shift principally occur?",
+      "choices": [
+        "Across astrocyte foot processes into blood",
+        "From CSF into ventricles",
+        "From dural sinuses into venous blood",
+        "From subarachnoid space into bone",
+        "From neurons into the pineal gland"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Mannitol increases blood osmolarity, drawing water from intracranial cells (across astrocyte foot processes and endothelium) into the blood, shrinking brain volume.",
+        "Incorrect. Mannitol does not function by shifting CSF into ventricles.",
+        "Incorrect. Dural venous sinus drainage is not the mechanism of mannitol's action.",
+        "Incorrect. Water does not shift into bone in the mannitol mechanism.",
+        "Incorrect. Mannitol does not move water into the pineal gland."
+      ]
+    },
+    {
+      "id": 6,
+      "stem": "A 72-year-old patient receives IV mannitol for elevated ICP. Within hours of infusion, the patient becomes tachycardic, hypotensive, and has signs of poor peripheral perfusion. Which adverse effect of mannitol is most likely responsible?",
+      "choices": [
+        "Acute glaucoma",
+        "Hyperkalemia",
+        "Severe volume depletion",
+        "Urinary retention",
+        "Volume overload"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Mannitol can reduce intraocular pressure, not cause acute glaucoma.",
+        "Incorrect. Mannitol typically causes hypokalemia, not hyperkalemia.",
+        "Correct. Powerful osmotic diuresis from mannitol risks severe volume depletion presenting as tachycardia, hypotension, and hypoperfusion.",
+        "Incorrect. Mannitol increases urine output rather than causing retention.",
+        "Incorrect. Volume overload occurs with mannitol mainly in patients with reduced renal excretion, not the typical diuretic effect."
+      ]
+    },
+    {
+      "id": 7,
+      "stem": "A 70-year-old man with anuric end-stage renal disease is mistakenly given IV mannitol. Within hours he develops worsening dyspnea and pulmonary edema. Which mechanism best explains this complication?",
+      "choices": [
+        "Direct cardiotoxicity of mannitol",
+        "Drug-induced bronchospasm",
+        "Hypersensitivity pneumonitis",
+        "Plasma volume expansion from retained drug",
+        "Renal artery vasodilation"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Mannitol does not cause direct cardiotoxicity.",
+        "Incorrect. Bronchospasm is not the mechanism of mannitol-induced pulmonary edema in anuria.",
+        "Incorrect. Hypersensitivity pneumonitis is not the typical adverse mechanism here.",
+        "Correct. With minimal urine output, mannitol cannot be excreted, so it remains intravascular, draws water from the ICF, and causes plasma volume expansion with pulmonary edema.",
+        "Incorrect. Mannitol can cause renal vasoconstriction, not vasodilation."
+      ]
+    },
+    {
+      "id": 8,
+      "stem": "A patient with cystic fibrosis and recurrent airway obstruction is prescribed inhaled mannitol. Which therapeutic effect is sought?",
+      "choices": [
+        "Bronchodilation via beta-2 agonism",
+        "Drawing water into mucus to thin secretions",
+        "Killing airway bacteria",
+        "Relaxing airway smooth muscle",
+        "Stimulating ciliary motion"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Mannitol is not a beta-2 agonist.",
+        "Correct. Inhaled mannitol draws water osmotically into thick bronchial secretions to thin them, helping clear airways in cystic fibrosis.",
+        "Incorrect. Mannitol is not antibacterial.",
+        "Incorrect. Mannitol does not directly relax airway smooth muscle.",
+        "Incorrect. Mannitol does not act by stimulating cilia."
+      ]
+    },
+    {
+      "id": 9,
+      "stem": "A patient with acute angle-closure glaucoma develops markedly elevated intraocular pressure. As an alternative therapy, mannitol can be given. Through which mechanism does it lower IOP?",
+      "choices": [
+        "Constricting ciliary blood vessels",
+        "Drawing water out of the eye via raised plasma osmolality",
+        "Inhibiting carbonic anhydrase in the ciliary body",
+        "Opening the trabecular meshwork mechanically",
+        "Stimulating uveoscleral outflow via prostaglandins"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Mannitol does not lower IOP via ciliary vessel constriction.",
+        "Correct. By raising plasma osmolality, mannitol pulls water out of intraocular fluid, lowering intraocular pressure.",
+        "Incorrect. Carbonic anhydrase inhibition is the mechanism of acetazolamide.",
+        "Incorrect. Mannitol does not mechanically open the trabecular meshwork.",
+        "Incorrect. Prostaglandin-mediated uveoscleral outflow is the mechanism of latanoprost, not mannitol."
+      ]
+    },
+    {
+      "id": 10,
+      "stem": "An ICU patient on mannitol therapy has labs drawn 12 hours after infusion. The principal driving force for sodium and water diuresis with mannitol is generated in which nephron segment?",
+      "choices": [
+        "Collecting duct",
+        "Distal convoluted tubule",
+        "Proximal tubule",
+        "Thick ascending limb",
+        "Thin descending limb"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. While the process occurs throughout the nephron, the most marked osmotic effect is not in the collecting duct.",
+        "Incorrect. The DCT is not the segment most strongly affected by mannitol.",
+        "Correct. Mannitol's osmotic effect is most marked in the proximal tubule, where it prevents water reabsorption and increases sodium and water diuresis.",
+        "Incorrect. The thick ascending limb is the action site of loop diuretics, not osmotic agents predominantly.",
+        "Incorrect. The thin descending limb is part of the loop of Henle but not the primary site for mannitol's main effect."
+      ]
+    },
+    {
+      "id": 11,
+      "stem": "Which patient is the BEST candidate for treatment with an osmotic diuretic?",
+      "choices": [
+        "Acute kidney injury with anuria",
+        "Acute traumatic brain injury with elevated ICP",
+        "Chronic kidney disease, oliguric",
+        "Decompensated congestive heart failure",
+        "Severe dehydration with hypotension"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Anuria with AKI is a contraindication because the drug cannot be excreted.",
+        "Correct. Acute traumatic brain injury with elevated intracranial pressure is the principal indication for mannitol.",
+        "Incorrect. CKD with low urine output is a contraindication.",
+        "Incorrect. CHF is contraindicated due to risk of plasma volume expansion and pulmonary edema.",
+        "Incorrect. Severe dehydration is a contraindication because of hypotension and shock risk."
+      ]
+    },
+    {
+      "id": 12,
+      "stem": "Which of the following is a known side effect of osmotic diuretics?",
+      "choices": ["Acute glaucoma", "Hematuria", "Increased intracranial pressure", "Pulmonary edema", "Urinary stone formation"],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Osmotic agents lower IOP and can be used to treat acute glaucoma.",
+        "Incorrect. Hematuria is not a typical adverse effect.",
+        "Incorrect. Mannitol lowers, not raises, ICP.",
+        "Correct. In patients with poor renal function, osmotic diuretics can cause volume overload with consequent pulmonary edema.",
+        "Incorrect. Urinary stone formation is not a recognized adverse effect of osmotic diuretics."
+      ]
+    },
+    {
+      "id": 13,
+      "stem": "A nephrologist warns about giving mannitol to a patient with diabetic nephropathy and reduced urine output. Which complication is most likely?",
+      "choices": [
+        "Acute glaucoma",
+        "Hypoglycemia",
+        "Metabolic alkalosis",
+        "Pulmonary edema from volume overload",
+        "Renal cortical necrosis"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Mannitol does not precipitate acute glaucoma.",
+        "Incorrect. Hypoglycemia is not a typical mannitol effect.",
+        "Incorrect. Metabolic alkalosis is not the principal expected adverse effect.",
+        "Correct. With reduced GFR, mannitol is retained in the intravascular space, expanding plasma volume and causing pulmonary edema.",
+        "Incorrect. Renal cortical necrosis is not the typical effect described in the brick."
+      ]
+    },
+    {
+      "id": 14,
+      "stem": "A patient with overdose of an unspecified ingested toxin is given mannitol in the ED. The intended use of mannitol in this scenario is best described as:",
+      "choices": [
+        "Antagonizing the toxin's receptor",
+        "Binding the toxin in plasma",
+        "Increasing urinary excretion of the toxin",
+        "Inducing emesis",
+        "Reducing toxin absorption from the gut"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Mannitol does not act as a receptor antagonist for ingested toxins.",
+        "Incorrect. Mannitol does not bind toxins in plasma.",
+        "Correct. Mannitol can be used to increase renal excretion of certain ingested toxins by enhancing urine flow.",
+        "Incorrect. Mannitol is not an emetic.",
+        "Incorrect. Mannitol does not affect GI absorption of toxins."
+      ]
+    },
+    {
+      "id": 15,
+      "stem": "A 60-year-old man on mannitol for ICP develops a serum sodium of 130 mEq/L and hypokalemia. These electrolyte abnormalities are best attributed to which effect of the drug?",
+      "choices": [
+        "Aldosterone antagonism",
+        "Carbonic anhydrase inhibition",
+        "Direct kaliuretic effect at NKCC2",
+        "Powerful diuresis with electrolyte losses",
+        "Suppressed ADH release"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Mannitol does not antagonize aldosterone.",
+        "Incorrect. Mannitol is not a carbonic anhydrase inhibitor.",
+        "Incorrect. Mannitol does not act directly on NKCC2.",
+        "Correct. Mannitol's potent diuresis carries water and electrolytes out, leading to hypokalemia and hyponatremia.",
+        "Incorrect. Suppressed ADH release is not the principal mechanism for these electrolyte changes."
+      ]
+    },
+    {
+      "id": 16,
+      "stem": "Mannitol is sometimes implicated in causing acute kidney injury. Which mechanisms most directly contribute? Choose the BEST single answer.",
+      "choices": [
+        "Direct ENaC blockade",
+        "Glomerular thrombosis",
+        "Renal cortical infection",
+        "Tubular obstruction by casts",
+        "Volume depletion plus renal vasoconstriction"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. Mannitol does not act on ENaC.",
+        "Incorrect. Glomerular thrombosis is not the described mechanism.",
+        "Incorrect. Mannitol does not cause renal infection.",
+        "Incorrect. Cast-mediated obstruction is not the mechanism described in the brick.",
+        "Correct. Mannitol-induced volume depletion plus renal vasoconstriction can together cause acute kidney injury."
+      ]
+    },
+    {
+      "id": 17,
+      "stem": "Why is hypertonic (3% or higher) saline often preferred over mannitol when ICP control is required for more than 24 hours?",
+      "choices": [
+        "Hypertonic saline is potassium-sparing",
+        "Hypertonic saline lacks ICP-lowering effect",
+        "Mannitol is contraindicated in hypovolemia",
+        "Mannitol's adverse effects can limit prolonged use",
+        "Mannitol works only enterally"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Potassium-sparing properties are not the basis for choosing hypertonic saline over mannitol.",
+        "Incorrect. Hypertonic saline does lower ICP through similar osmotic mechanisms.",
+        "Incorrect. While volume status is considered, the brick emphasizes that mannitol's adverse effects limit prolonged use.",
+        "Correct. Mannitol has side effects that can limit its use, particularly when therapy is needed for longer than 24 hours; hypertonic saline is increasingly preferred for prolonged ICP management.",
+        "Incorrect. Mannitol is given intravenously, not enterally."
+      ]
+    },
+    {
+      "id": 18,
+      "stem": "Which of the following is a contraindication to osmotic diuretic usage?",
+      "choices": [
+        "Diabetic nephropathy with reduced urine output",
+        "Hepatitis",
+        "Increased intracranial pressure",
+        "Pneumonia",
+        "Sickle cell disease"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Diabetic nephropathy with reduced urine output represents severe renal impairment with low output, a contraindication to osmotic diuretics.",
+        "Incorrect. Hepatitis is not a contraindication described in the brick.",
+        "Incorrect. Increased ICP is the main indication, not a contraindication.",
+        "Incorrect. Pneumonia is not a listed contraindication.",
+        "Incorrect. Sickle cell disease is not listed as a contraindication."
+      ]
+    },
+    {
+      "id": 19,
+      "stem": "A pregnant woman with eclamptic seizures has elevated ICP. Per FDA classification, mannitol is pregnancy category C. What is the implication for its use?",
+      "choices": [
+        "Absolutely contraindicated in all trimesters",
+        "Approved for routine use throughout pregnancy",
+        "Only used if benefits outweigh risks",
+        "Restricted to the first trimester",
+        "Safe only during labor"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Mannitol is not absolutely contraindicated; it has not been adequately studied.",
+        "Incorrect. It is not approved for routine use in pregnancy.",
+        "Correct. Mannitol is pregnancy category C and is recommended only when potential benefits outweigh risks.",
+        "Incorrect. There is no first-trimester-only restriction described.",
+        "Incorrect. Use is not restricted to labor."
+      ]
+    },
+    {
+      "id": 20,
+      "stem": "An ICU clinician explains that osmotic diuretics are administered with close monitoring. What feature of these drugs primarily justifies the ICU setting?",
+      "choices": [
+        "Allergic reactions are common",
+        "High oral bioavailability requires titration",
+        "Marked effects on water and electrolyte movement",
+        "Risk of malignant arrhythmias",
+        "They are radioactive"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Allergic reactions are not the principal reason for ICU monitoring.",
+        "Incorrect. Mannitol is given IV, not oral.",
+        "Correct. Their potent effects on water and electrolyte movement require close ICU monitoring.",
+        "Incorrect. Malignant arrhythmia is not the central concern emphasized.",
+        "Incorrect. Mannitol is not radioactive."
+      ]
+    },
+    {
+      "id": 21,
+      "stem": "A patient with a renal pyramid is studied to evaluate the contribution of mannitol's intratubular effect. Mannitol increases urine output principally because it:",
+      "choices": [
+        "Activates aldosterone",
+        "Activates aquaporin channels",
+        "Constricts renal artery",
+        "Prevents reabsorption of filtered water",
+        "Stimulates ENaC channels"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Mannitol does not activate aldosterone.",
+        "Incorrect. Mannitol does not directly activate aquaporins.",
+        "Incorrect. Renal vasoconstriction reduces filtration but is not the mechanism of increased urine output.",
+        "Correct. Increased intratubular osmotic pressure prevents filtered water from being reabsorbed, so it stays within the tubule and is excreted.",
+        "Incorrect. Mannitol does not stimulate ENaC channels."
+      ]
+    },
+    {
+      "id": 22,
+      "stem": "An astrocyte-endothelial junction is depicted in a brick figure illustrating mannitol's mechanism in elevated ICP. Mannitol's effect at this junction depends on which property of the blood-brain barrier?",
+      "choices": [
+        "Active uptake of mannitol into astrocytes",
+        "Free passage of mannitol into brain cells",
+        "Mannitol restriction to the vascular compartment",
+        "Selective metabolism of mannitol by astrocytes",
+        "Strong binding of mannitol to neurons"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Astrocytes do not actively take up mannitol.",
+        "Incorrect. Mannitol does not freely cross into brain cells; that's why it works.",
+        "Correct. Tight junctions restrict mannitol to the vascular side, so it raises blood osmolarity and pulls water from brain into blood.",
+        "Incorrect. Astrocytes do not selectively metabolize mannitol.",
+        "Incorrect. Mannitol does not bind strongly to neurons."
+      ]
+    },
+    {
+      "id": 23,
+      "stem": "A 50-year-old man with chronic kidney disease (GFR 18 mL/min) is prescribed mannitol. Which underlying problem makes him especially prone to volume overload?",
+      "choices": [
+        "Decreased aquaporin expression",
+        "Excessive aldosterone secretion",
+        "Inability to filter the agent for excretion",
+        "Reduced collecting duct capacity",
+        "Reduced thirst response"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Aquaporin expression is not the principal mechanism.",
+        "Incorrect. Aldosterone is not the issue described.",
+        "Correct. Decreased GFR means mannitol cannot be sufficiently filtered into urine; it stays intravascular and expands plasma volume.",
+        "Incorrect. Collecting duct capacity is not the mechanism emphasized in the brick.",
+        "Incorrect. Thirst response is not the explanation."
+      ]
+    },
+    {
+      "id": 24,
+      "stem": "Which BEST describes the rationale for previously using mannitol in oliguric acute kidney injury?",
+      "choices": [
+        "Direct repair of tubular cells",
+        "Enhanced excretion of nephrotoxic drugs only",
+        "Increased urine output via osmotic diuresis",
+        "Stimulation of erythropoietin",
+        "Suppression of ADH release"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Mannitol does not directly repair tubular cells.",
+        "Incorrect. While it can enhance excretion of some toxins, the historical AKI use was for diuresis broadly.",
+        "Correct. Mannitol was historically used to increase urine output in oliguric AKI by inducing osmotic diuresis, though now rare due to adverse effects.",
+        "Incorrect. Mannitol does not stimulate erythropoietin.",
+        "Incorrect. Suppression of ADH is not the rationale."
+      ]
+    },
+    {
+      "id": 25,
+      "stem": "A 45-year-old man with severe dehydration after prolonged exertion presents with BP 80/50 mm Hg and signs of shock. Why would mannitol be a poor therapeutic choice for him?",
+      "choices": [
+        "It would cause hyperkalemia",
+        "It would cause urinary retention",
+        "It would precipitate elevated ICP",
+        "It would worsen hypovolemia and shock",
+        "It would worsen liver function"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Mannitol typically lowers, not raises, potassium.",
+        "Incorrect. Mannitol increases urine output rather than retention.",
+        "Incorrect. Mannitol lowers ICP, not raises it.",
+        "Correct. Severely dehydrated patients are already hypovolemic; further diuresis with mannitol risks hypotension and shock.",
+        "Incorrect. Hepatic effects are not the principal concern in this scenario."
+      ]
+    }
+  ]
+}

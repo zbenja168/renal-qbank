@@ -1,0 +1,427 @@
+{
+  "id": 15,
+  "title": "Potassium-Sparing Diuretics",
+  "questions": [
+    {
+      "id": 1,
+      "stem": "A 58-year-old man with cirrhosis and refractory ascites is maintained on spironolactone. He asks why he must continue taking it. Which mechanism BEST explains the drug's principal benefit in his condition?",
+      "choices": [
+        "Blocks angiotensin II receptors",
+        "Blocks aldosterone receptors",
+        "Blocks NKCC2 in the loop",
+        "Blocks sodium/chloride co-transporter",
+        "Inhibits carbonic anhydrase"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Angiotensin II receptor blockade describes ARBs, not spironolactone.",
+        "Correct. Spironolactone competitively inhibits the mineralocorticoid (aldosterone) receptor in the collecting duct, inducing sodium and water diuresis useful in cirrhotic ascites.",
+        "Incorrect. Loop diuretics target NKCC2.",
+        "Incorrect. Thiazides target the Na/Cl co-transporter.",
+        "Incorrect. Acetazolamide inhibits carbonic anhydrase."
+      ]
+    },
+    {
+      "id": 2,
+      "stem": "A 50-year-old man with HFrEF on furosemide and enalapril continues to have worsening edema and pulmonary congestion. Adding which agent would most likely reduce morbidity and mortality?",
+      "choices": ["Acetazolamide", "Amiloride", "Lisinopril", "Spironolactone", "Triamterene"],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Acetazolamide is not the mortality-reducing agent in HFrEF.",
+        "Incorrect. Amiloride is an ENaC blocker; it lacks the cardiac mortality benefit shown for aldosterone antagonists.",
+        "Incorrect. The patient is already on enalapril, an ACE inhibitor.",
+        "Correct. Aldosterone antagonists like spironolactone reduce morbidity and mortality in NYHA II-IV HFrEF and reduce cardiac fibrosis.",
+        "Incorrect. Triamterene is an ENaC blocker without proven mortality benefit in HFrEF."
+      ]
+    },
+    {
+      "id": 3,
+      "stem": "A 55-year-old man with bilateral adrenal hyperplasia treated with spironolactone develops gynecomastia, decreased libido, and erectile dysfunction. Which drug should he be switched to?",
+      "choices": ["Amiloride", "Eplerenone", "Furosemide", "Thiazide", "Triamterene"],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Amiloride is potassium-sparing but does not specifically address aldosterone-driven hypertension as effectively.",
+        "Correct. Eplerenone is an aldosterone receptor antagonist with fewer or absent antiandrogen effects compared with spironolactone.",
+        "Incorrect. Furosemide is a loop diuretic; it does not block aldosterone action.",
+        "Incorrect. Thiazides do not block aldosterone receptors.",
+        "Incorrect. Triamterene blocks ENaC and does not antagonize aldosterone receptors."
+      ]
+    },
+    {
+      "id": 4,
+      "stem": "Which medication should NOT be combined with potassium-sparing diuretics due to risk of hyperkalemia?",
+      "choices": ["Acetazolamide", "Aspirin", "Hydrochlorothiazide", "Losartan", "Penicillin"],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Acetazolamide does not raise serum potassium.",
+        "Incorrect. Aspirin is not noted in the brick to cause hyperkalemia in this combination.",
+        "Incorrect. Hydrochlorothiazide is potassium-wasting; it is sometimes combined with K-sparing agents.",
+        "Correct. Losartan is an ARB; combining it with potassium-sparing diuretics impairs RAAS further and raises potassium dangerously.",
+        "Incorrect. Penicillin does not have this interaction."
+      ]
+    },
+    {
+      "id": 5,
+      "stem": "Which mechanism is shared by ENaC blockers and aldosterone receptor antagonists?",
+      "choices": [
+        "Decreasing apical H+-ATPase activity",
+        "Decreasing basolateral Na+/K+-ATPase activity",
+        "Decreasing influx of sodium into principal cells",
+        "Decreasing basolateral ENaC numbers",
+        "Increasing apical ENaC numbers"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. They do not target apical H+-ATPase.",
+        "Incorrect. Only aldosterone antagonists block the basolateral Na+/K+-ATPase; ENaC blockers do not.",
+        "Correct. Both classes ultimately decrease sodium influx from the tubular fluid into principal cells of the collecting duct.",
+        "Incorrect. ENaC is apical, not basolateral.",
+        "Incorrect. They decrease, not increase, functional ENaC activity at the apical membrane."
+      ]
+    },
+    {
+      "id": 6,
+      "stem": "A 40-year-old woman with acne, hirsutism, and oligomenorrhea is diagnosed with PCOS. Which potassium-sparing diuretic is most appropriate to address her hyperandrogenic symptoms?",
+      "choices": ["Amiloride", "Eplerenone", "Furosemide", "Spironolactone", "Triamterene"],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Amiloride lacks antiandrogen activity.",
+        "Incorrect. Eplerenone has minimal antiandrogen effect.",
+        "Incorrect. Furosemide is a loop diuretic without antiandrogen effect.",
+        "Correct. Spironolactone has antiandrogen activity due to structural similarity to sex steroid hormones, treating acne, hirsutism, and PCOS.",
+        "Incorrect. Triamterene lacks antiandrogen activity."
+      ]
+    },
+    {
+      "id": 7,
+      "stem": "Combination tablets such as hydrochlorothiazide/triamterene are commonly prescribed for which clinical reason?",
+      "choices": [
+        "Achieve loop-level diuresis",
+        "Block aldosterone receptors directly",
+        "Counteract thiazide-induced hypokalemia",
+        "Lower LDL cholesterol synergistically",
+        "Treat acute angle-closure glaucoma"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. The combination does not produce loop-level diuresis.",
+        "Incorrect. Triamterene blocks ENaC and does not block the aldosterone receptor.",
+        "Correct. Pairing thiazide with an ENaC blocker like triamterene mitigates thiazide-induced hypokalemia in patients on long-term thiazide therapy.",
+        "Incorrect. Lipid effects are not the rationale.",
+        "Incorrect. The combination is not used for glaucoma."
+      ]
+    },
+    {
+      "id": 8,
+      "stem": "A 62-year-old woman with hypertension, hypokalemia, and metabolic alkalosis is found to have bilateral adrenal hyperplasia with elevated aldosterone. Which agent is the preferred medical therapy?",
+      "choices": ["Amiloride", "Furosemide", "Hydrochlorothiazide", "Spironolactone", "Triamterene"],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Amiloride does not block aldosterone receptors.",
+        "Incorrect. Furosemide would worsen hypokalemia.",
+        "Incorrect. HCTZ would worsen hypokalemia.",
+        "Correct. Aldosterone receptor antagonists (e.g., spironolactone) are preferred for hyperaldosteronism due to bilateral adrenal hyperplasia.",
+        "Incorrect. Triamterene blocks ENaC but does not address the aldosterone receptor."
+      ]
+    },
+    {
+      "id": 9,
+      "stem": "A patient on spironolactone develops hyperkalemia and a normal anion gap metabolic acidosis. Which mechanism explains the acidosis?",
+      "choices": [
+        "Direct H+-ATPase inhibition",
+        "Excessive bicarbonate excretion",
+        "Hyperkalemia-induced impaired ammonia synthesis",
+        "Lactic acid accumulation from tissue hypoxia",
+        "Renal vasoconstriction"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Spironolactone does not directly inhibit H+-ATPase.",
+        "Incorrect. Bicarbonate wasting is more characteristic of acetazolamide.",
+        "Correct. Chronic hyperkalemia suppresses proximal ammonia synthesis, causing hyperkalemic type IV RTA — a normal anion gap acidosis.",
+        "Incorrect. Lactic acidosis would create an anion gap acidosis.",
+        "Incorrect. Vasoconstriction is not the mechanism."
+      ]
+    },
+    {
+      "id": 10,
+      "stem": "Which characteristic distinguishes ENaC blockers from aldosterone receptor antagonists?",
+      "choices": [
+        "ENaC blockers are first-line for HFrEF",
+        "ENaC blockers are stronger antihypertensives",
+        "ENaC blockers do not affect aldosterone receptor signaling",
+        "ENaC blockers reduce cardiac fibrosis chronically",
+        "ENaC blockers have antiandrogen effects"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Aldosterone antagonists, not ENaC blockers, are used in HFrEF.",
+        "Incorrect. Both classes are weak antihypertensives; ENaC blockers are not stronger.",
+        "Correct. ENaC blockers act only at the apical sodium channel and do not affect the aldosterone receptor or basolateral Na+/K+-ATPase.",
+        "Incorrect. Aldosterone antagonists reduce cardiac fibrosis; ENaC blockers do not.",
+        "Incorrect. Antiandrogen effects are characteristic of spironolactone, not ENaC blockers."
+      ]
+    },
+    {
+      "id": 11,
+      "stem": "A 30-year-old woman taking spironolactone becomes pregnant. What is the recommended action?",
+      "choices": [
+        "Continue at the same dose",
+        "Discontinue spironolactone",
+        "Increase the dose to maintain effect",
+        "Replace with hydrochlorothiazide alone",
+        "Switch to lithium"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Spironolactone should be discontinued; it crosses the placenta with possible fetal harm.",
+        "Correct. Spironolactone should be discontinued in pregnancy because it is believed to cross the placenta and may harm the fetus.",
+        "Incorrect. Increasing the dose is not appropriate.",
+        "Incorrect. Replacement is a clinical decision but the brick simply states discontinuation in pregnancy.",
+        "Incorrect. Lithium is not used as a substitute and has its own teratogenicity."
+      ]
+    },
+    {
+      "id": 12,
+      "stem": "Which adverse effect is MOST specific to spironolactone but minimized with eplerenone?",
+      "choices": [
+        "Antiandrogen effects",
+        "Hyperkalemia",
+        "Mild metabolic acidosis",
+        "Sodium diuresis",
+        "Worsened renal function"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Spironolactone causes antiandrogen effects (gynecomastia, decreased libido, sexual dysfunction); eplerenone produces less or no antiandrogen effect.",
+        "Incorrect. Hyperkalemia occurs with both drugs.",
+        "Incorrect. Type IV RTA can occur with both, especially aldosterone antagonists.",
+        "Incorrect. Sodium diuresis is the intended effect of both.",
+        "Incorrect. Renal effects are similar between the agents."
+      ]
+    },
+    {
+      "id": 13,
+      "stem": "A 65-year-old man with cirrhosis is treated with spironolactone for ascites. Which secondary benefit makes this drug particularly suitable for cirrhotic patients?",
+      "choices": [
+        "Caloric supplementation",
+        "Improvement in hepatic synthesis",
+        "Potassium-sparing nature in malnourished patients",
+        "Reduced ammonia production",
+        "Selective hepatic vein diuresis"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Spironolactone is not a calorie source.",
+        "Incorrect. It does not improve hepatic synthetic function.",
+        "Correct. End-stage liver disease patients are often malnourished and prone to hypokalemia, so the potassium-sparing effect is helpful.",
+        "Incorrect. It does not directly reduce ammonia production.",
+        "Incorrect. Spironolactone does not act selectively on hepatic veins."
+      ]
+    },
+    {
+      "id": 14,
+      "stem": "A 65-year-old man with chronic kidney disease (eGFR 25) and hypertension is started on spironolactone. Which adverse effect is of particular concern?",
+      "choices": ["Anion gap acidosis", "Hyperkalemia", "Hypocalcemia", "Hyponatremia", "Volume overload"],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Spironolactone is associated with normal-anion-gap acidosis, not high-anion-gap.",
+        "Correct. Patients with chronic kidney disease are prone to hyperkalemia, and potassium-sparing diuretics may worsen it; caution is required.",
+        "Incorrect. Hypocalcemia is not a typical concern with spironolactone.",
+        "Incorrect. Hyponatremia is not the principal hazard described.",
+        "Incorrect. Volume overload is not the most concerning effect for K-sparing diuretics in CKD."
+      ]
+    },
+    {
+      "id": 15,
+      "stem": "A 70-year-old man on lisinopril, spironolactone, and an oral potassium supplement presents with a serum K+ of 6.8 mEq/L and EKG changes. Which mechanism BEST explains his hyperkalemia?",
+      "choices": [
+        "Cellular potassium release from rhabdomyolysis",
+        "Combined renin-angiotensin-aldosterone system inhibition with K supplement",
+        "Hemolysis from blood draw",
+        "Renal tubular acidosis type 1",
+        "Tumor lysis syndrome"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. There is no clinical evidence of rhabdomyolysis in the vignette.",
+        "Correct. Combining ACE inhibitors with K-sparing diuretics and oral potassium supplements compounds RAAS suppression and dangerously raises serum potassium.",
+        "Incorrect. Pseudohyperkalemia from hemolysis is not the issue depicted.",
+        "Incorrect. Type 1 RTA is associated with hypokalemia, not hyperkalemia.",
+        "Incorrect. Tumor lysis is not described."
+      ]
+    },
+    {
+      "id": 16,
+      "stem": "Which segment of the nephron is the principal site of action for potassium-sparing diuretics?",
+      "choices": [
+        "Distal convoluted tubule",
+        "Glomerulus",
+        "Principal cells of the collecting duct",
+        "Proximal convoluted tubule",
+        "Thick ascending limb of Henle"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. The DCT is the site of thiazide action.",
+        "Incorrect. The glomerulus filters but is not the action site.",
+        "Correct. Both ENaC blockers and aldosterone antagonists act on principal cells of the collecting duct.",
+        "Incorrect. Acetazolamide acts in the proximal tubule.",
+        "Incorrect. Loop diuretics act at the thick ascending limb."
+      ]
+    },
+    {
+      "id": 17,
+      "stem": "A 35-year-old woman has secondary hypertension diagnosed as primary hyperaldosteronism. Which lab pattern is MOST expected?",
+      "choices": [
+        "Hypertension, hyperkalemia, metabolic acidosis",
+        "Hypertension, hypokalemia, metabolic alkalosis",
+        "Hypotension, hyperkalemia, metabolic acidosis",
+        "Hypotension, hypokalemia, metabolic alkalosis",
+        "Normal BP, normokalemia, normal pH"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Primary hyperaldosteronism causes hypokalemia, not hyperkalemia.",
+        "Correct. Excess aldosterone drives sodium retention (hypertension), urinary potassium wasting (hypokalemia), and metabolic alkalosis.",
+        "Incorrect. Hypotension is not a feature of hyperaldosteronism.",
+        "Incorrect. Hypotension is not seen in primary hyperaldosteronism.",
+        "Incorrect. The disease is characterized by abnormal lab findings."
+      ]
+    },
+    {
+      "id": 18,
+      "stem": "Why are potassium-sparing diuretics generally NOT used as first-line antihypertensives?",
+      "choices": [
+        "They are too expensive",
+        "They cause hyponatremia commonly",
+        "They cause severe orthostatic hypotension",
+        "They contain dangerous excipients",
+        "They produce only mild diuresis and weak BP lowering"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. Cost is not the cited reason.",
+        "Incorrect. Hyponatremia is not the principal limitation.",
+        "Incorrect. They are not associated with severe orthostatic effects.",
+        "Incorrect. Dangerous excipients are not the issue.",
+        "Correct. Most sodium has been reabsorbed proximally, so collecting duct-acting K-sparing diuretics produce only mild diuresis and are not first-line antihypertensives."
+      ]
+    },
+    {
+      "id": 19,
+      "stem": "A figure illustrates aldosterone antagonist action. Aldosterone antagonists inhibit which basolateral pump in the principal cell?",
+      "choices": ["Apical ENaC", "Apical K+ channel", "Basolateral H+/K+-ATPase", "Basolateral Na+/K+-ATPase", "NKCC2"],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. ENaC is apical and is the target of ENaC blockers.",
+        "Incorrect. Apical K channel is also blocked but is not basolateral.",
+        "Incorrect. H+/K+-ATPase is not the principal pump described.",
+        "Correct. Aldosterone antagonists block the basolateral Na+/K+-ATPase, preventing potassium from entering and sodium from exiting the cell.",
+        "Incorrect. NKCC2 is in the thick ascending limb, not the collecting duct."
+      ]
+    },
+    {
+      "id": 20,
+      "stem": "An ENaC blocker (amiloride) reduces urinary potassium loss because:",
+      "choices": [
+        "It activates Na+/K+-ATPase",
+        "It directly closes apical potassium channels by binding K+",
+        "It enhances aldosterone secretion",
+        "Lower intracellular Na+ makes the cell electronegative, reducing K+ loss",
+        "It opens basolateral Cl- channels"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Amiloride does not activate the Na+/K+-ATPase.",
+        "Incorrect. Amiloride does not bind potassium directly.",
+        "Incorrect. It does not enhance aldosterone secretion.",
+        "Correct. Blocking ENaC lowers intracellular sodium, making the cell more electronegative and inhibiting K+ loss through apical potassium channels.",
+        "Incorrect. Cl- channel modulation is not the described mechanism."
+      ]
+    },
+    {
+      "id": 21,
+      "stem": "A 40-year-old man on hydrochlorothiazide for hypertension develops persistent hypokalemia. Which agent is most appropriate to add?",
+      "choices": ["Acetazolamide", "Furosemide", "Lisinopril alone", "Mannitol", "Triamterene"],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. Acetazolamide can worsen hypokalemia.",
+        "Incorrect. Furosemide is potassium-wasting.",
+        "Incorrect. While ACE inhibitors raise potassium, the brick highlights potassium-sparing diuretic adjuncts for thiazide-induced hypokalemia.",
+        "Incorrect. Mannitol is not used to correct thiazide-induced hypokalemia.",
+        "Correct. Triamterene (an ENaC blocker) is commonly combined with thiazides to spare potassium and counter thiazide-induced hypokalemia."
+      ]
+    },
+    {
+      "id": 22,
+      "stem": "Spironolactone is structurally similar to which class of molecules, accounting for its off-target effects?",
+      "choices": ["Amino acids", "Catecholamines", "Cytokines", "Nucleotides", "Steroid hormones"],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. Spironolactone is not similar to amino acids.",
+        "Incorrect. It is not similar to catecholamines.",
+        "Incorrect. Cytokines are unrelated structurally.",
+        "Incorrect. Nucleotides are not the structural basis.",
+        "Correct. Spironolactone resembles sex steroid hormones, conferring antiandrogen and estrogen-like effects."
+      ]
+    },
+    {
+      "id": 23,
+      "stem": "A 28-year-old woman is on spironolactone for facial acne and hirsutism. Aside from antiandrogen action, which mechanism makes spironolactone useful in this setting?",
+      "choices": [
+        "Beta-2 receptor agonism",
+        "Inhibits 5-alpha-reductase",
+        "Inhibits aromatase",
+        "Mineralocorticoid receptor antagonism with estrogen-like activity",
+        "Stimulates GnRH release"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. It is not a beta-2 agonist.",
+        "Incorrect. The brick attributes effects to antiandrogen and estrogen-like activity, not 5-alpha-reductase inhibition.",
+        "Incorrect. It is not described as an aromatase inhibitor.",
+        "Correct. Spironolactone has antiandrogen and estrogen-like activity related to its structural similarity to sex steroid hormones, in addition to its mineralocorticoid receptor antagonism.",
+        "Incorrect. It does not stimulate GnRH."
+      ]
+    },
+    {
+      "id": 24,
+      "stem": "Which statement BEST contrasts spironolactone with hydrochlorothiazide?",
+      "choices": [
+        "Both are first-line antihypertensives",
+        "Both are potent loop-equivalent diuretics",
+        "HCTZ wastes potassium; spironolactone spares it",
+        "Spironolactone acts at the proximal tubule",
+        "Spironolactone is used acutely for severe pulmonary edema"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Spironolactone is not a first-line antihypertensive.",
+        "Incorrect. Neither is loop-equivalent in potency.",
+        "Correct. HCTZ is potassium-wasting; spironolactone is potassium-sparing — combinations leverage this contrast.",
+        "Incorrect. Spironolactone acts in the collecting duct, not proximal tubule.",
+        "Incorrect. Spironolactone is not used acutely for pulmonary edema; loop diuretics are preferred."
+      ]
+    },
+    {
+      "id": 25,
+      "stem": "An aldosterone receptor antagonist's net renal effect is BEST summarized as:",
+      "choices": [
+        "Block bicarbonate reabsorption proximally",
+        "Block sodium reabsorption and potassium secretion in the collecting duct",
+        "Increase potassium excretion and decrease sodium excretion",
+        "Increase urea reabsorption in the medulla",
+        "Promote calcium reabsorption distally"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. That describes acetazolamide.",
+        "Correct. The net effect of aldosterone antagonists is to block sodium reabsorption and potassium secretion in the collecting duct.",
+        "Incorrect. They decrease, not increase, potassium excretion.",
+        "Incorrect. They do not directly drive medullary urea reabsorption.",
+        "Incorrect. Distal calcium reabsorption is enhanced by thiazides, not aldosterone antagonists."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,457 @@
+{
+  "id": 1,
+  "title": "Anatomy of the Urinary System",
+  "questions": [
+    {
+      "id": 1,
+      "stem": "A 32-year-old woman undergoes abdominal CT for right flank pain. The radiologist notes that the right kidney lies approximately 1 cm inferior to the left kidney, a finding considered normal. Which adjacent structure is most directly responsible for this anatomic asymmetry?",
+      "choices": ["Adrenal gland", "Diaphragm", "Liver", "Psoas major", "Quadratus lumborum"],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Adrenal glands sit superior to both kidneys but do not displace them.",
+        "Incorrect. The diaphragm overlaps the upper third of both kidneys symmetrically.",
+        "Correct. The liver occupies space superior to the right kidney, displacing it inferiorly relative to the left.",
+        "Incorrect. The medial aspect of psoas lies posterior to both kidneys; it does not displace either inferiorly.",
+        "Incorrect. The lateral aspect of the quadratus lumborum lies posterior to both kidneys."
+      ]
+    },
+    {
+      "id": 2,
+      "stem": "During a posterior surgical approach to the kidney, a surgeon retracts the 12th rib superiorly and identifies the muscle lying immediately posterior to the lower pole of the kidney along its lateral aspect. Which muscle is the surgeon most likely identifying?",
+      "choices": ["Diaphragm", "Iliopsoas", "Latissimus dorsi", "Psoas major", "Quadratus lumborum"],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. The diaphragm overlaps the superior third of the kidney, not the lower pole.",
+        "Incorrect. Iliopsoas is not described as a posterior relation of the kidney in this context.",
+        "Incorrect. Latissimus dorsi is a superficial back muscle, not in direct contact with the kidney.",
+        "Incorrect. The medial aspect of psoas major lies posterior to the lower kidney, not the lateral aspect.",
+        "Correct. The lateral aspect of the quadratus lumborum lies immediately posterior to the lower portion of the kidney."
+      ]
+    },
+    {
+      "id": 3,
+      "stem": "A 24-year-old man with a low body mass index is involved in a high-speed motor vehicle collision and sustains a renal contusion despite a properly worn lap belt. His low body fat is thought to have contributed to the injury. The structure that normally minimizes such injury performs which primary function?",
+      "choices": [
+        "Concentrates urine",
+        "Cushions and protects the kidney",
+        "Filters plasma proteins",
+        "Produces aldosterone",
+        "Provides voluntary control of micturition"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Urine concentration occurs in the renal medulla via loops of Henle and collecting ducts.",
+        "Correct. Perinephric fat acts as a cushion that supports and protects the kidneys, which receive little support from the ribs.",
+        "Incorrect. Filtration is performed by the renal corpuscle, not perinephric fat.",
+        "Incorrect. Aldosterone is produced by the adrenal cortex.",
+        "Incorrect. Voluntary micturition control is provided by the external urethral sphincter."
+      ]
+    },
+    {
+      "id": 4,
+      "stem": "A pathologist examining a renal biopsy identifies cone-shaped structures containing loops of Henle and collecting ducts. These structures are the primary site of which renal function?",
+      "choices": [
+        "Erythropoietin secretion",
+        "Filtration of plasma",
+        "Hormone synthesis",
+        "Reabsorption of glucose",
+        "Urine concentration"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. Erythropoietin is produced by interstitial cells of the cortex, not by the medullary pyramids.",
+        "Incorrect. Filtration occurs in the renal corpuscle within the cortex.",
+        "Incorrect. Hormone synthesis (e.g., aldosterone) is an adrenal function, not a function of the renal pyramids.",
+        "Incorrect. Glucose reabsorption occurs in the proximal convoluted tubule, located in the cortex.",
+        "Correct. Renal pyramids contain the loops of Henle and collecting ducts, which are critical for urine concentration."
+      ]
+    },
+    {
+      "id": 5,
+      "stem": "A 55-year-old man passes a renal calculus that originated in a renal pyramid. Imaging just before passage demonstrates the stone lodged at the most proximal site within the renal pelvis. Through which structure did urine most recently flow before reaching this location?",
+      "choices": ["Major calyx", "Minor calyx", "Renal capsule", "Renal column", "Renal cortex"],
+      "answer": 0,
+      "explanations": [
+        "Correct. The drainage path is renal papilla → minor calyx → major calyx → renal pelvis → ureter, so urine most recently passed through a major calyx before reaching the renal pelvis.",
+        "Incorrect. Minor calyces drain papillae and empty into major calyces; they do not feed directly into the renal pelvis.",
+        "Incorrect. The renal capsule is fibrous connective tissue surrounding the kidney and does not transmit urine.",
+        "Incorrect. Renal columns are extensions of cortical tissue between pyramids; they carry vessels, not urine.",
+        "Incorrect. The renal cortex contains corpuscles and convoluted tubules, not collecting structures that feed the renal pelvis."
+      ]
+    },
+    {
+      "id": 6,
+      "stem": "A 48-year-old man presents with severe right flank pain radiating to the groin and gross hematuria. CT shows a 5-mm calculus impacted along the course of the right ureter. At which site is the calculus most likely lodged?",
+      "choices": [
+        "Just distal to the renal hilum",
+        "Mid-abdominal segment overlying psoas major",
+        "Pelvic segment posterior to the rectum",
+        "Where the ureter crosses the common iliac vessels",
+        "Where the ureter is crossed by the gonadal artery"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. The hilum itself is not one of the three classic anatomic narrowings; the ureteropelvic junction is the proximal one.",
+        "Incorrect. The ureter overlies psoas without anatomic narrowing along this stretch.",
+        "Incorrect. The ureter does not pass posterior to the rectum.",
+        "Correct. The three classic ureteral narrowings are the ureteropelvic junction, the pelvic brim where the ureter crosses the common iliac vessels, and the ureterovesical junction.",
+        "Incorrect. Crossing by the gonadal artery is not a classic site of stone impaction."
+      ]
+    },
+    {
+      "id": 7,
+      "stem": "A 52-year-old woman undergoes total abdominal hysterectomy for symptomatic uterine fibroids. On postoperative day 2 she develops left flank pain and elevated creatinine. CT urography reveals left ureteral obstruction near the cervix. Injury most likely occurred where the ureter passes in which relation to which adjacent structure?",
+      "choices": [
+        "Anterior to the common iliac artery",
+        "Anterior to the uterine artery",
+        "Inferior to the ovarian artery",
+        "Inferior to the uterine artery",
+        "Posterior to the bladder"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. The ureter crosses anterior to the common iliac vessels at the pelvic brim, but this is well above the cervix.",
+        "Incorrect. The ureter passes inferior—not anterior—to the uterine artery.",
+        "Incorrect. The ovarian artery does not have a defining relationship with the ureter near the cervix.",
+        "Correct. In females, the pelvic ureter passes inferior to the uterine artery (“water under the bridge”), making it vulnerable to injury during hysterectomy.",
+        "Incorrect. The ureter enters the posterior wall of the bladder, not posterior to it."
+      ]
+    },
+    {
+      "id": 8,
+      "stem": "A 4-year-old girl has recurrent febrile UTIs. Voiding cystourethrography demonstrates retrograde flow of contrast from the bladder into the right ureter during voiding. The anti-reflux mechanism that has failed in this patient normally depends on which anatomic feature?",
+      "choices": [
+        "A muscular valve at the ureteropelvic junction",
+        "Active dilation of the ureteric orifices during voiding",
+        "Bladder neck closure by the external urethral sphincter",
+        "Oblique passage of the ureter through the bladder wall",
+        "Peristaltic activity of ureteral smooth muscle"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. There is no discrete valve at the ureteropelvic junction.",
+        "Incorrect. Ureteric orifices are compressed during voiding, not dilated.",
+        "Incorrect. The external urethral sphincter does not close the bladder neck and does not prevent ureteral reflux.",
+        "Correct. The ureters pass obliquely through the bladder wall; bladder contraction compresses these orifices and prevents reflux during voiding.",
+        "Incorrect. Peristalsis propels urine antegrade but does not itself prevent retrograde flow at the bladder wall."
+      ]
+    },
+    {
+      "id": 9,
+      "stem": "A 67-year-old man with painless gross hematuria undergoes cystoscopy. The urologist identifies a smooth triangular region on the posterior internal bladder wall whose three corners are formed by which structures?",
+      "choices": [
+        "Apex, body, and neck of the bladder",
+        "Two ureteric orifices and the apex",
+        "Two ureteric orifices and the internal urethral orifice",
+        "Internal and external urethral orifices and the apex",
+        "Median umbilical ligament and the two ureteric orifices"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Apex, body, and neck describe regions of the bladder, not the corners of the trigone.",
+        "Incorrect. The trigone does not include the apex.",
+        "Correct. The trigone is bounded by the two ureteric orifices and the internal urethral orifice.",
+        "Incorrect. The external urethral orifice lies at the distal end of the urethra, not within the bladder.",
+        "Incorrect. The median umbilical ligament marks the apex externally and is not a corner of the trigone."
+      ]
+    },
+    {
+      "id": 10,
+      "stem": "A 78-year-old woman has urinary frequency and urge incontinence. Urodynamic studies reveal involuntary contractions of the muscle responsible for emptying the bladder. This muscle has which characteristic?",
+      "choices": [
+        "Skeletal muscle under voluntary control",
+        "Smooth muscle that contracts during micturition",
+        "Smooth muscle that contracts during filling",
+        "A sling extending from the pubic bone to the coccyx",
+        "Located only within the trigone"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. The detrusor is smooth muscle and is not under direct voluntary control.",
+        "Correct. The detrusor is smooth muscle that relaxes during filling and contracts during micturition.",
+        "Incorrect. The detrusor relaxes during filling, not contracts.",
+        "Incorrect. That description applies to the levator ani muscles, not the detrusor.",
+        "Incorrect. The detrusor surrounds the entire bladder; the trigone is a discrete posterior region."
+      ]
+    },
+    {
+      "id": 11,
+      "stem": "A 24-year-old woman presents with her third uncomplicated UTI in the past year. Compared with males, females have an increased predisposition to UTIs primarily because of which anatomic feature?",
+      "choices": [
+        "More acidic urine pH",
+        "Absence of a prostate gland",
+        "Absence of an internal urethral sphincter",
+        "Shorter urethra located closer to the rectum",
+        "Wider bladder neck"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Urine pH does not differ in a way that explains increased female UTI risk.",
+        "Incorrect. Absence of a prostate is not the anatomic feature emphasized for female UTI predisposition.",
+        "Incorrect. Both sexes possess an internal urethral sphincter at the bladder neck.",
+        "Correct. The female urethra is short (~4 cm) and located close to the rectum, allowing easier bacterial ascent.",
+        "Incorrect. Bladder neck caliber is not the primary explanation for female UTI risk."
+      ]
+    },
+    {
+      "id": 12,
+      "stem": "A 68-year-old man reports a 6-month history of urinary hesitancy and a sensation of incomplete bladder emptying. Digital rectal exam reveals a symmetrically enlarged, smooth, rubbery prostate. His symptoms are most directly caused by compression of which structure?",
+      "choices": [
+        "Bladder neck only",
+        "External urethral sphincter",
+        "Membranous urethra",
+        "Prostatic urethra",
+        "Spongy urethra"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. While the bladder neck is adjacent, BPH-related obstruction is mediated through compression of the urethral segment passing through the prostate.",
+        "Incorrect. The external urethral sphincter is distal to the prostate and is not compressed by BPH.",
+        "Incorrect. The membranous urethra passes through the perineal membrane, distal to the prostate.",
+        "Correct. BPH compresses the prostatic urethra, producing hesitancy and incomplete emptying.",
+        "Incorrect. The spongy urethra runs through the penis, well beyond the prostate."
+      ]
+    },
+    {
+      "id": 13,
+      "stem": "A 35-year-old man undergoes attempted transurethral catheterization in the emergency department. During forceful advancement of the catheter the patient develops perineal pain. Imaging demonstrates extravasation of contrast deep to the perineal membrane. Rupture of which urethral segment is most likely responsible?",
+      "choices": [
+        "Bladder neck",
+        "External urethral orifice",
+        "Membranous urethra",
+        "Prostatic urethra",
+        "Spongy urethra"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. The bladder neck is proximal to the perineal membrane; injury here would not extravasate deep to it.",
+        "Incorrect. The external urethral orifice is the distal opening, not the site of perineal extravasation.",
+        "Correct. The membranous urethra passes through the perineal membrane and is relatively fixed and narrow, making it vulnerable to forceful catheterization with extravasation deep to the membrane.",
+        "Incorrect. The prostatic urethra is proximal to the perineal membrane.",
+        "Incorrect. Spongy urethral injury would not extravasate deep to the perineal membrane."
+      ]
+    },
+    {
+      "id": 14,
+      "stem": "A 28-year-old man undergoing pelvic floor rehabilitation after pelvic trauma is asked to voluntarily start and stop his urine stream. Which structure mediates this volitional control?",
+      "choices": [
+        "Detrusor muscle",
+        "External urethral sphincter (skeletal muscle)",
+        "Internal urethral sphincter (smooth muscle)",
+        "Levator ani at the bladder neck",
+        "Trigonal muscle"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. The detrusor is smooth muscle under autonomic control.",
+        "Correct. The external urethral sphincter is skeletal muscle and is under voluntary control, allowing conscious starting and stopping of urination.",
+        "Incorrect. The internal urethral sphincter is smooth muscle under involuntary (autonomic) control.",
+        "Incorrect. Levator ani provides pelvic floor support but is not the urethral sphincter that controls urinary stream.",
+        "Incorrect. The trigone is a sensory region, not a voluntary motor sphincter."
+      ]
+    },
+    {
+      "id": 15,
+      "stem": "A 49-year-old woman is found to have a 4-cm renal cell carcinoma with vascular invasion of the renal artery. The renal artery is a direct branch of which vessel?",
+      "choices": [
+        "Abdominal aorta",
+        "Celiac trunk",
+        "Common iliac artery",
+        "Inferior mesenteric artery",
+        "Superior mesenteric artery"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Both renal arteries arise directly from the abdominal aorta.",
+        "Incorrect. The celiac trunk supplies foregut structures, not the kidney.",
+        "Incorrect. The common iliac arteries supply pelvic and lower limb structures.",
+        "Incorrect. The inferior mesenteric artery supplies hindgut structures.",
+        "Incorrect. The superior mesenteric artery supplies the midgut; the renal artery does not arise from it."
+      ]
+    },
+    {
+      "id": 16,
+      "stem": "A 30-year-old man undergoing CT angiography for unrelated trauma is incidentally noted to have a longer left renal vein than right renal vein. This length difference reflects which anatomic relationship?",
+      "choices": [
+        "The left renal vein receives the left adrenal vein",
+        "The left renal vein crosses anterior to the aorta to reach the IVC",
+        "The left renal vein passes posterior to the aorta",
+        "The right kidney lies inferior to the left",
+        "The right renal artery is shorter than the left"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. The left renal vein does receive the adrenal vein, but this does not explain its greater length.",
+        "Correct. The IVC lies to the right of the aorta, so the left renal vein must cross anterior to the aorta (passing under the SMA) to reach it, accounting for its greater length.",
+        "Incorrect. The left renal vein passes anterior, not posterior, to the aorta in standard anatomy.",
+        "Incorrect. Vertical kidney position does not determine renal vein length.",
+        "Incorrect. The right renal artery is actually longer than the left because the aorta lies to the left."
+      ]
+    },
+    {
+      "id": 17,
+      "stem": "A 22-year-old man presents with intermittent left flank pain, gross hematuria, and a new left-sided varicocele. Imaging demonstrates compression of the left renal vein. Compression by which two structures is most likely responsible?",
+      "choices": [
+        "Abdominal aorta and inferior vena cava",
+        "Celiac trunk and left crus of the diaphragm",
+        "Inferior mesenteric artery and aorta",
+        "Liver and right renal artery",
+        "Superior mesenteric artery and aorta"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. The IVC does not compress the left renal vein.",
+        "Incorrect. The celiac trunk is well above the level of the renal veins.",
+        "Incorrect. The IMA arises below the renal arteries and is not the artery implicated in nutcracker syndrome.",
+        "Incorrect. The liver and right renal artery do not compress the left renal vein.",
+        "Correct. Nutcracker syndrome results from compression of the left renal vein between the SMA and aorta, producing flank pain, hematuria, and left-sided varicocele."
+      ]
+    },
+    {
+      "id": 18,
+      "stem": "A 26-year-old man with primary infertility is found on physical exam to have a left-sided varicocele. The differential drainage that contributes to this side-specific finding is best explained by which fact?",
+      "choices": [
+        "The left gonadal vein drains directly into the IVC at right angles",
+        "The left gonadal vein drains into the higher-pressure left renal vein",
+        "The right gonadal vein drains into the lower-pressure left renal vein",
+        "The right gonadal vein drains into the portal venous system",
+        "The right gonadal vein drains into the SMA"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. It is the right gonadal vein that drains directly into the IVC.",
+        "Correct. The left gonadal vein drains into the left renal vein, which is at higher pressure and can be externally compressed, predisposing to left-sided varicocele.",
+        "Incorrect. The right gonadal vein drains into the IVC, not the left renal vein.",
+        "Incorrect. Gonadal venous drainage is systemic, not portal.",
+        "Incorrect. The SMA is an artery; gonadal veins do not drain into arteries."
+      ]
+    },
+    {
+      "id": 19,
+      "stem": "A 34-year-old multiparous woman reports a 2-year history of dull, chronic pelvic pain that worsens with prolonged standing and immediately before menses. Pelvic ultrasound shows dilated, tortuous pelvic veins. This finding most commonly results from incompetent valves in veins that drain into which vessel?",
+      "choices": [
+        "Inferior mesenteric vein",
+        "Internal pudendal vein",
+        "Left renal vein",
+        "Portal vein",
+        "Right common iliac vein"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. The IMV is part of the portal system and is not implicated in pelvic congestion syndrome.",
+        "Incorrect. The internal pudendal vein is not the principal route involved.",
+        "Correct. Pelvic congestion syndrome most commonly arises from incompetent ovarian vein valves; left-sided predominance reflects drainage of the left ovarian vein into the higher-pressure left renal vein.",
+        "Incorrect. Pelvic congestion involves systemic, not portal, venous drainage.",
+        "Incorrect. The right common iliac vein is not the typical refluxing vessel in pelvic congestion."
+      ]
+    },
+    {
+      "id": 20,
+      "stem": "A vascular surgeon ligates the umbilical artery during a complex pelvic procedure. Branches of the umbilical artery primarily supply the superior aspect of the urinary bladder. The umbilical artery itself is a branch of which vessel?",
+      "choices": [
+        "External iliac artery",
+        "Inferior epigastric artery",
+        "Inferior mesenteric artery",
+        "Internal iliac artery",
+        "Median sacral artery"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. The external iliac artery supplies the lower limb, not pelvic viscera.",
+        "Incorrect. The inferior epigastric artery is a branch of the external iliac and does not give rise to the umbilical artery.",
+        "Incorrect. The inferior mesenteric supplies hindgut, not the bladder.",
+        "Correct. The superior vesical arteries arise from the umbilical artery, which itself is a branch of the internal iliac artery.",
+        "Incorrect. The median sacral artery supplies sacrum and coccyx, not the bladder."
+      ]
+    },
+    {
+      "id": 21,
+      "stem": "A 58-year-old woman undergoes radical nephrectomy for renal cell carcinoma. Which lymph node group is the primary first-echelon site of drainage from the kidney?",
+      "choices": [
+        "Common iliac",
+        "External iliac",
+        "Inguinal",
+        "Internal iliac",
+        "Para-aortic (lumbar)"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. Common iliac nodes drain the middle and lower ureter, not the kidney directly.",
+        "Incorrect. External iliac nodes receive drainage from the superior bladder and lower limb, not the kidney.",
+        "Incorrect. Inguinal nodes drain the lower limb, perineum, and external genitalia, not the kidney.",
+        "Incorrect. Internal iliac nodes drain the inferior bladder and pelvic viscera, not the kidney.",
+        "Correct. Kidney lymphatics drain primarily into the para-aortic (lumbar) and paracaval nodes."
+      ]
+    },
+    {
+      "id": 22,
+      "stem": "A 64-year-old man undergoes radical cystectomy for high-grade urothelial carcinoma localized to the dome (superior aspect) of the bladder. Which lymph node group is the primary first-echelon drainage site for this tumor location?",
+      "choices": [
+        "Common iliac",
+        "External iliac",
+        "Internal iliac",
+        "Para-aortic",
+        "Superficial inguinal"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Common iliac nodes are second-echelon for bladder drainage.",
+        "Correct. Lymph from the superior bladder drains primarily to the external iliac nodes; the inferior bladder drains to the internal iliac nodes.",
+        "Incorrect. Internal iliac nodes are the first-echelon site for the inferior, not superior, bladder.",
+        "Incorrect. Para-aortic nodes are the primary drainage for the kidneys, not the bladder.",
+        "Incorrect. Superficial inguinal nodes drain perineal skin and external genitalia, not the bladder."
+      ]
+    },
+    {
+      "id": 23,
+      "stem": "A 38-year-old man with a complete spinal cord transection at T8 retains intact sympathetic outflow that mediates bladder storage. These sympathetic preganglionic fibers most likely arise from which spinal cord segments?",
+      "choices": ["T6–T8", "T10–T12", "L1–L2", "S2–S4", "S5–Co1"],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. T6–T8 sympathetic outflow does not innervate the bladder.",
+        "Incorrect. T10–L1 supplies the kidney; bladder sympathetic outflow is one segment lower.",
+        "Correct. Sympathetic fibers to the bladder arise from L1–L2 and promote bladder relaxation and internal urethral sphincter contraction (storage).",
+        "Incorrect. S2–S4 carry parasympathetic fibers that promote voiding, not storage.",
+        "Incorrect. S5–Co1 do not provide bladder autonomic innervation."
+      ]
+    },
+    {
+      "id": 24,
+      "stem": "A 65-year-old man develops urinary retention after a cauda equina injury. Loss of which fibers most directly explains his inability to contract the detrusor muscle?",
+      "choices": [
+        "Parasympathetic fibers from S2–S4",
+        "Parasympathetic fibers from the vagus nerve",
+        "Somatic fibers from the pudendal nerve",
+        "Sympathetic fibers from L1–L2",
+        "Sympathetic fibers from T10–L1"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Parasympathetic fibers from S2–S4 (carried by pelvic splanchnic nerves) stimulate detrusor contraction; cauda equina injury disrupts these fibers.",
+        "Incorrect. Vagal parasympathetic fibers do not innervate the bladder.",
+        "Incorrect. The pudendal nerve provides voluntary control of the external urethral sphincter, not detrusor contraction.",
+        "Incorrect. Sympathetic fibers from L1–L2 promote bladder relaxation and urine storage.",
+        "Incorrect. T10–L1 sympathetics innervate the kidney, not the detrusor."
+      ]
+    },
+    {
+      "id": 25,
+      "stem": "A 62-year-old multiparous woman reports involuntary urine leakage when she coughs, laughs, or sneezes. Weakness of the muscle innervated by which nerve is most directly responsible for her symptoms?",
+      "choices": [
+        "Genitofemoral nerve",
+        "Hypogastric nerve",
+        "Iliohypogastric nerve",
+        "Pelvic splanchnic nerves",
+        "Pudendal nerve"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. The genitofemoral nerve is not involved in urethral sphincter control.",
+        "Incorrect. The hypogastric nerve carries sympathetic fibers to the internal urethral sphincter and is not associated with stress incontinence.",
+        "Incorrect. The iliohypogastric nerve innervates the lower abdominal wall, not the urethral sphincter.",
+        "Incorrect. Pelvic splanchnics carry parasympathetic fibers that promote voiding rather than continence.",
+        "Correct. The pudendal nerve provides somatic motor innervation to the external urethral sphincter; weakness manifests as stress incontinence with rises in intra-abdominal pressure."
+      ]
+    }
+  ]
+}

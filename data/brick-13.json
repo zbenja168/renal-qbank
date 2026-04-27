@@ -1,0 +1,481 @@
+{
+  "id": 13,
+  "title": "Thiazide Diuretics",
+  "questions": [
+    {
+      "id": 1,
+      "stem": "A 36-year-old man with newly diagnosed primary hypertension (BP 140/92 mm Hg) is started on hydrochlorothiazide. Which transporter does this medication directly inhibit?",
+      "choices": [
+        "Na+/K+/2Cl- cotransporter (TAL)",
+        "Na+/Cl- symporter (DCT)",
+        "ENaC (collecting duct)",
+        "Carbonic anhydrase (PCT)",
+        "Aquaporin-2 (collecting duct)"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. NKCC2 in the TAL is the target of loop diuretics.",
+        "Correct. Thiazides inhibit the Na+/Cl- symporter (NCC) in the luminal membrane of the distal convoluted tubule.",
+        "Incorrect. ENaC is targeted by potassium-sparing diuretics like amiloride.",
+        "Incorrect. Carbonic anhydrase is the target of acetazolamide.",
+        "Incorrect. Aquaporin-2 is regulated by ADH, not directly by thiazides."
+      ]
+    },
+    {
+      "id": 2,
+      "stem": "Which of the following is a thiazide diuretic, per the brick?",
+      "choices": [
+        "Furosemide",
+        "Bumetanide",
+        "Hydrochlorothiazide",
+        "Acetazolamide",
+        "Spironolactone"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Furosemide is a loop diuretic.",
+        "Incorrect. Bumetanide is a loop diuretic.",
+        "Correct. Hydrochlorothiazide (HCTZ), along with chlorthalidone, metolazone, and indapamide, are thiazide diuretics.",
+        "Incorrect. Acetazolamide is a carbonic anhydrase inhibitor.",
+        "Incorrect. Spironolactone is a K+-sparing/aldosterone antagonist."
+      ]
+    },
+    {
+      "id": 3,
+      "stem": "A 50-year-old woman with calcium oxalate stones is started on a thiazide for stone prevention. Which mechanism best explains the protective effect?",
+      "choices": [
+        "Decreased serum calcium",
+        "Decreased glomerular filtration of calcium",
+        "Increased calcium reabsorption in the renal tubules, lowering urinary calcium",
+        "Inhibition of oxalate transport",
+        "Direct chelation of calcium in the tubular lumen"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Thiazides do not primarily lower serum calcium; they may slightly increase it.",
+        "Incorrect. Glomerular filtration of calcium is not the targeted mechanism.",
+        "Correct. Thiazides increase calcium reabsorption in the renal tubules (especially the PCT, secondary to mild volume depletion), reducing urinary calcium and preventing calcium-containing stones.",
+        "Incorrect. Thiazides do not inhibit oxalate transport.",
+        "Incorrect. Thiazides do not chelate calcium."
+      ]
+    },
+    {
+      "id": 4,
+      "stem": "A patient with nephrogenic diabetes insipidus (polyuria, hypernatremia) is started on a thiazide. Which best explains the paradoxical reduction in urine output?",
+      "choices": [
+        "Direct ADH-receptor agonism",
+        "Increase in aquaporin-2 expression in the collecting duct",
+        "Mild volume depletion activates RAAS, increasing PCT Na+/H2O reabsorption and reducing distal water delivery",
+        "Stimulation of free water reabsorption in the TAL",
+        "Inhibition of ADH-degrading enzymes"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Thiazides are not ADH agonists.",
+        "Incorrect. Thiazides do not increase AQP-2 expression.",
+        "Correct. Thiazides cause mild volume depletion that activates RAAS; elevated angiotensin II increases proximal tubule Na+ and water reabsorption, reducing free water delivery distally and decreasing urine output by up to 50% in nephrogenic DI.",
+        "Incorrect. The TAL is impermeable to water.",
+        "Incorrect. They do not affect ADH-degrading enzymes."
+      ]
+    },
+    {
+      "id": 5,
+      "stem": "A patient with refractory edema in CHF is on a maximal-dose loop diuretic but still has edema. A thiazide (e.g., metolazone) is added. Which best explains the rationale per the brick?",
+      "choices": [
+        "Thiazide blocks distal Na+ absorption that escapes the loop, enhancing diuresis",
+        "Thiazide increases ADH and reduces edema",
+        "Thiazide directly chelates Na+ in the lumen",
+        "Thiazide is more potent than the loop alone",
+        "Thiazide blocks the Na+/K+/2Cl- cotransporter"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Adding a thiazide blocks distal Na+ absorption that escaped the loop, enhancing the diuretic action of the loop in patients with refractory edema.",
+        "Incorrect. Thiazides do not increase ADH to reduce edema.",
+        "Incorrect. They do not chelate Na+.",
+        "Incorrect. Thiazides are not more potent than loops; the synergy is from sequential blockade.",
+        "Incorrect. NKCC2 blockade is the loop's mechanism."
+      ]
+    },
+    {
+      "id": 6,
+      "stem": "A 60-year-old man on long-term HCTZ for hypertension presents with podagra (acute great-toe arthritis). Workup shows hyperuricemia. Which mechanism best explains this adverse effect?",
+      "choices": [
+        "Thiazides directly synthesize uric acid",
+        "Volume depletion increases proximal tubular reabsorption of uric acid, and thiazides competitively block uric acid secretion through the same transporter",
+        "Thiazides stimulate xanthine oxidase",
+        "Thiazides cause renal failure with uremia",
+        "Thiazides increase intestinal absorption of urate"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Thiazides do not synthesize uric acid.",
+        "Correct. Mild volume depletion increases PCT uric acid reabsorption; thiazides also competitively block uric acid secretion via the same transporter, leading to hyperuricemia and gout flares.",
+        "Incorrect. Thiazides do not affect xanthine oxidase.",
+        "Incorrect. They do not cause uremia.",
+        "Incorrect. They do not increase intestinal urate absorption."
+      ]
+    },
+    {
+      "id": 7,
+      "stem": "A 65-year-old woman on HCTZ presents with serum Na+ 122 mEq/L. She drinks lots of water and eats little food. Which mechanism best explains thiazide-induced hyponatremia per the brick?",
+      "choices": [
+        "Thiazides increase ADH receptor antagonism",
+        "Thiazides block urinary dilution at the DCT and stimulate ADH/thirst from mild volume depletion, increasing total body water",
+        "Thiazides inhibit renal NaCl reabsorption in the TAL",
+        "Thiazides increase intestinal Na+ loss only",
+        "Thiazides cause SIADH directly"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Thiazides do not antagonize ADH.",
+        "Correct. Thiazides block the diluting segment (DCT), preventing maximal urine dilution; mild volume depletion also stimulates ADH and thirst, increasing total body water and producing euvolemic hyponatremia—especially in patients drinking water with poor solute intake.",
+        "Incorrect. The TAL is unaffected; thiazides act in the DCT.",
+        "Incorrect. Intestinal Na+ loss is not the mechanism.",
+        "Incorrect. Thiazides do not directly cause SIADH."
+      ]
+    },
+    {
+      "id": 8,
+      "stem": "Which of the following is a contraindication to thiazide diuretic use, per the brick?",
+      "choices": [
+        "Penicillin allergy",
+        "Sulfa drug allergy",
+        "Hypertension",
+        "Osteoporosis",
+        "Recurrent calcium kidney stones"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Penicillin allergy does not contraindicate thiazides.",
+        "Correct. Thiazides are sulfonamides and should be avoided in patients with sulfa allergy.",
+        "Incorrect. Hypertension is the main indication, not a contraindication.",
+        "Incorrect. Osteoporosis can actually be a relative reason to favor thiazides given Ca2+ retention.",
+        "Incorrect. Recurrent calcium stones are an indication, not a contraindication."
+      ]
+    },
+    {
+      "id": 9,
+      "stem": "A 55-year-old man with type 2 diabetes is being considered for HCTZ for hypertension. Per the brick, which guidance is appropriate?",
+      "choices": [
+        "Thiazides are first-line over ACE inhibitors in diabetics",
+        "Thiazides may impair glucose tolerance and unmask diabetes; ACE inhibitors are often preferred",
+        "Thiazides are contraindicated in all diabetics",
+        "Thiazides treat hyperglycemia",
+        "Thiazides do not affect glucose"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Thiazides may worsen glucose control; ACE-Is are often preferred.",
+        "Correct. Thiazides impair glucose tolerance via reduced insulin secretion and altered glucose metabolism; some guidelines recommend ACE inhibitors over thiazides in patients with diabetes or prediabetes.",
+        "Incorrect. They are not absolutely contraindicated.",
+        "Incorrect. Thiazides cause hyperglycemia.",
+        "Incorrect. They do affect glucose tolerance."
+      ]
+    },
+    {
+      "id": 10,
+      "stem": "Which adverse effect set is most characteristic of thiazide diuretics, per the brick's summary?",
+      "choices": [
+        "Volume depletion, hypokalemia, metabolic alkalosis, hyponatremia, hyperglycemia, hyperlipidemia, hyperuricemia, hypercalcemia",
+        "Hyperkalemia, hypernatremia, hypocalcemia, hypoglycemia",
+        "Ototoxicity, hypocalcemia, hypomagnesemia, contraction alkalosis",
+        "Tachycardia, hyperthyroidism, weight gain",
+        "Hyperphosphatemia, hypoglycemia, hypocalcemia"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Common side effects include volume depletion, hypokalemia, metabolic alkalosis, hyponatremia, hyperglycemia, hyperlipidemia, hyperuricemia, and hypercalcemia.",
+        "Incorrect. Thiazides cause hypokalemia (not hyperkalemia) and hypercalcemia (not hypocalcemia).",
+        "Incorrect. Ototoxicity is a loop diuretic effect; thiazides cause hypercalcemia, not hypocalcemia.",
+        "Incorrect. These are not thiazide effects.",
+        "Incorrect. These do not match the thiazide profile."
+      ]
+    },
+    {
+      "id": 11,
+      "stem": "A patient with familial Gitelman syndrome has hypokalemic metabolic alkalosis and clinical features mimicking chronic thiazide use. Which mutation explains this?",
+      "choices": [
+        "ENaC gain-of-function",
+        "Loss-of-function mutation in the Na+/Cl- symporter (NCC) of the DCT",
+        "Aldosterone receptor mutation",
+        "NKCC2 mutation in the TAL",
+        "Aquaporin-2 mutation"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. ENaC gain-of-function causes Liddle syndrome.",
+        "Correct. Mutations in the Na+/Cl- symporter (the same target inhibited by thiazides) cause Gitelman syndrome—hypokalemic alkalosis mimicking chronic thiazide use.",
+        "Incorrect. Aldosterone receptor mutations cause different syndromes.",
+        "Incorrect. NKCC2 mutations cause Bartter syndrome.",
+        "Incorrect. Aquaporin-2 mutations cause nephrogenic DI."
+      ]
+    },
+    {
+      "id": 12,
+      "stem": "Why are thiazide diuretics relatively weak diuretics compared with loop diuretics, per the brick?",
+      "choices": [
+        "They have no effect on Na+ reabsorption",
+        "Approximately 90% of filtered Na+ has already been reabsorbed before reaching the DCT",
+        "They block Na+ secretion only",
+        "They are excreted unchanged in stool",
+        "They only work in the medulla"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. They do affect Na+ reabsorption, but at a downstream segment.",
+        "Correct. Because ~90% of filtered Na+ has already been reabsorbed before reaching the DCT, thiazides can act on only ~10%, making them moderately potent at best.",
+        "Incorrect. There is no Na+ secretion to block in human nephrons.",
+        "Incorrect. They are renally excreted, not stool-excreted.",
+        "Incorrect. They act in the cortex (DCT)."
+      ]
+    },
+    {
+      "id": 13,
+      "stem": "A pregnant patient with hypertension is being considered for HCTZ. Per the brick, what is the appropriate consideration?",
+      "choices": [
+        "Use HCTZ as first-line",
+        "Avoid thiazides in pregnancy because they may cause fetal/neonatal jaundice or low platelets",
+        "Use thiazides only in the first trimester",
+        "Switch to a loop diuretic for safety",
+        "Use thiazides only with concomitant calcium"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Thiazides should not be used in pregnant patients.",
+        "Correct. The brick states thiazides should not be used in pregnant patients due to risks of fetal/neonatal jaundice or low platelets.",
+        "Incorrect. They should be avoided across pregnancy per the brick.",
+        "Incorrect. Loop diuretics are not described in the brick as safer in pregnancy; the focus is to avoid thiazides.",
+        "Incorrect. Calcium co-administration does not make thiazides safe in pregnancy."
+      ]
+    },
+    {
+      "id": 14,
+      "stem": "A 70-year-old woman with osteoporosis and primary hypertension is being considered for an antihypertensive. Which consideration regarding thiazides is supported by the brick?",
+      "choices": [
+        "Thiazides increase urinary calcium loss and worsen osteoporosis",
+        "Thiazides reduce urinary calcium and may help maintain bone density",
+        "Thiazides cause acute hypocalcemia",
+        "Thiazides chelate dietary calcium",
+        "Thiazides are bone-toxic"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. The opposite is true—thiazides reduce urinary calcium.",
+        "Correct. Thiazides reduce urinary calcium and may help maintain bone density, which can be advantageous in postmenopausal osteoporosis—although they are not primary drugs for bone disorders.",
+        "Incorrect. Thiazides may cause hypercalcemia, not hypocalcemia.",
+        "Incorrect. They do not chelate dietary calcium.",
+        "Incorrect. They are not bone-toxic."
+      ]
+    },
+    {
+      "id": 15,
+      "stem": "A 45-year-old man on HCTZ with serum Ca2+ 11.4 mg/dL is found to have multiple myeloma. Which best explains the hypercalcemia?",
+      "choices": [
+        "Thiazide alone caused severe hypercalcemia",
+        "Thiazide-induced reduction in urinary Ca2+ excretion combined with the underlying malignancy/inflammation",
+        "Thiazides synthesize calcium",
+        "Thiazides destroy bone",
+        "Thiazides bind PTH receptor"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Per the brick, thiazide-alone hypercalcemia is rarely severe.",
+        "Correct. Thiazide-induced decreased urinary Ca2+ excretion combined with another condition (malignancy, inflammation, or other hypercalcemic medications) typically produces clinically significant hypercalcemia.",
+        "Incorrect. Thiazides do not synthesize calcium.",
+        "Incorrect. They do not destroy bone.",
+        "Incorrect. They do not bind PTH receptors."
+      ]
+    },
+    {
+      "id": 16,
+      "stem": "A patient on HCTZ for 6 months develops fatigue and muscle weakness; serum K+ is 3.0 mEq/L. Which intervention best matches the brick's guidance?",
+      "choices": [
+        "Stop the thiazide and start a loop diuretic",
+        "Increase potassium intake or add a potassium-sparing diuretic",
+        "Add a second thiazide",
+        "Reduce sodium intake",
+        "Begin spironolactone monotherapy and discontinue all antihypertensives"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Switching to a loop is not the brick-recommended approach.",
+        "Correct. Many patients taking a thiazide for hypertension will need to increase K+ intake or use a combined pill pairing a thiazide with a potassium-sparing diuretic.",
+        "Incorrect. A second thiazide would deepen K+ loss.",
+        "Incorrect. Sodium reduction does not directly correct K+.",
+        "Incorrect. Discontinuing all antihypertensives is inappropriate; combination strategies are described."
+      ]
+    },
+    {
+      "id": 17,
+      "stem": "A clinician explains to a patient that thiazide diuretics increase urinary frequency. Per the brick's clinical pearl, when should the patient take the medication?",
+      "choices": [
+        "At bedtime",
+        "Mid-afternoon",
+        "In the morning",
+        "Before meals only",
+        "Every 6 hours around the clock"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Bedtime dosing causes nocturia.",
+        "Incorrect. The brick recommends morning dosing.",
+        "Correct. Thiazides should be taken in the morning so the diuretic effect wanes by night, avoiding nocturia.",
+        "Incorrect. The brick specifies morning dosing, not pre-meal.",
+        "Incorrect. Around-the-clock dosing is not standard for a once-daily thiazide."
+      ]
+    },
+    {
+      "id": 18,
+      "stem": "Per the brick, what are the two main mechanisms by which thiazides lower BP in primary hypertension?",
+      "choices": [
+        "Direct ENaC blockade and renal vasodilation",
+        "Mild volume depletion and mild systemic vasodilation",
+        "Aldosterone receptor antagonism and arterial constriction",
+        "ADH antagonism and bradycardia",
+        "Inhibition of NKCC2 and venoconstriction"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. ENaC blockade is the K+-sparing mechanism, not thiazides.",
+        "Correct. Thiazides lower BP via mild volume depletion and mild vasodilatory effect—a combination that makes them effective and well tolerated for hypertension.",
+        "Incorrect. They are not aldosterone antagonists; they don't constrict arteries.",
+        "Incorrect. ADH antagonism and bradycardia are not the mechanism.",
+        "Incorrect. NKCC2 inhibition is the loop mechanism."
+      ]
+    },
+    {
+      "id": 19,
+      "stem": "A 58-year-old man with metabolic syndrome (impaired glucose tolerance, low HDL, high triglycerides, hypertension, abdominal obesity) needs antihypertensive therapy. Per the brick, which is best?",
+      "choices": [
+        "First-line HCTZ given low cost",
+        "Avoid thiazides because they may worsen glucose tolerance and lipids",
+        "Use a thiazide-loop combination",
+        "Use a thiazide plus a beta-blocker for synergy",
+        "Use HCTZ at high doses"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Cost alone does not justify thiazides given the metabolic risks.",
+        "Correct. The brick advises avoiding thiazides in metabolic syndrome because they decrease glucose tolerance and may promote hyperlipidemia.",
+        "Incorrect. Combining loops/thiazides is for refractory edema, not metabolic syndrome management.",
+        "Incorrect. The brick does not recommend this combination for metabolic syndrome.",
+        "Incorrect. Higher doses worsen the dose-dependent metabolic effects."
+      ]
+    },
+    {
+      "id": 20,
+      "stem": "Why is hyperlipidemia thought to develop in some patients on thiazides, per the brick?",
+      "choices": [
+        "Direct inhibition of HMG-CoA reductase",
+        "Reduced insulin secretion and possibly increased insulin resistance, leading to increased triglyceride breakdown and lipoprotein synthesis",
+        "Increased intestinal cholesterol absorption",
+        "Induction of CYP3A4",
+        "Direct suppression of LDL receptors"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. They do not inhibit HMG-CoA reductase.",
+        "Correct. Mechanistically, thiazide-related hyperlipidemia may relate to lower insulin secretion and increased insulin resistance, increasing triglyceride breakdown in adipose tissue and lipoprotein synthesis in the liver; the effect appears dose-dependent.",
+        "Incorrect. Increased absorption is not the brick's mechanism.",
+        "Incorrect. CYP induction is not described.",
+        "Incorrect. LDL receptor suppression is not described."
+      ]
+    },
+    {
+      "id": 21,
+      "stem": "A patient on HCTZ for hypertension is also prescribed a loop diuretic for new CHF-related edema. Which adverse outcome should the clinician anticipate per the brick?",
+      "choices": [
+        "Significant hypokalemia",
+        "Severe hyperkalemia",
+        "Hypocalcemia",
+        "Hyperuricemia is corrected",
+        "Hypoglycemia"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Combining thiazides with other potassium-wasting diuretics (such as loops) can result in significant hypokalemia—an important caution per the brick.",
+        "Incorrect. The combination causes K+ loss, not retention.",
+        "Incorrect. Thiazides cause hypercalcemia, and loops cause hypocalcemia—the net effect is variable but the dominant brick concern is K+.",
+        "Incorrect. Combination tends to worsen, not correct, hyperuricemia.",
+        "Incorrect. Hypoglycemia is not the expected outcome."
+      ]
+    },
+    {
+      "id": 22,
+      "stem": "A patient with chronic interstitial renal disease is taking lithium, develops nephrogenic DI, and is started on HCTZ. Polyuria decreases by ~40%. Which intracellular/luminal change best explains the reduced urine output per the brick?",
+      "choices": [
+        "Direct stimulation of ADH receptor",
+        "Volume contraction → RAAS activation → Ang II–driven proximal Na+ and water reabsorption → less free water delivered distally",
+        "Decreased proximal tubule reabsorption",
+        "Increased free water clearance",
+        "Closure of ENaC channels"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. They do not stimulate ADH receptors.",
+        "Correct. Mild hypovolemia activates RAAS; elevated angiotensin II increases proximal tubule Na+ and water reabsorption, decreasing free water delivered distally and reducing urine output.",
+        "Incorrect. Proximal reabsorption increases, not decreases.",
+        "Incorrect. Free water clearance is reduced, not increased.",
+        "Incorrect. ENaC closure is not the mechanism."
+      ]
+    },
+    {
+      "id": 23,
+      "stem": "Which transporter on the basolateral side of DCT cells creates the driving force that allows thiazide-sensitive Na+/Cl- entry from the lumen?",
+      "choices": [
+        "ENaC",
+        "Na+/K+/2Cl- cotransporter",
+        "Na+/K+-ATPase",
+        "H+/K+-ATPase",
+        "Aquaporin-2"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. ENaC is in the collecting duct, not the basolateral DCT.",
+        "Incorrect. NKCC2 is in the TAL.",
+        "Correct. The basolateral Na+/K+-ATPase pumps Na+ out of the DCT cell, lowering intracellular [Na+] and driving Na+/Cl- entry from the lumen via the apical NCC—the transporter blocked by thiazides.",
+        "Incorrect. The H+/K+-ATPase is on alpha-intercalated cells.",
+        "Incorrect. AQP-2 is in the collecting duct."
+      ]
+    },
+    {
+      "id": 24,
+      "stem": "A clinician explaining HCTZ to a hypertensive patient says, \"This medication helps the body get rid of extra salt and water, which lowers blood pressure.\" Which downstream effect is also expected at the patient's 2-week follow-up, per the brick's case?",
+      "choices": [
+        "Increased urine output",
+        "Decreased urine output",
+        "Increased serum K+",
+        "Reduced calcium reabsorption",
+        "Acute renal failure"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. As in CW's case, the patient reports increased urine output at follow-up, with reduced BP and no major adverse effects.",
+        "Incorrect. Thiazides increase, not decrease, urine output.",
+        "Incorrect. Serum K+ tends to fall on thiazides, not rise.",
+        "Incorrect. Thiazides increase calcium reabsorption.",
+        "Incorrect. Acute renal failure is not the expected outcome at routine follow-up."
+      ]
+    },
+    {
+      "id": 25,
+      "stem": "Which combination of features distinguishes thiazide-induced hyponatremia from typical hypovolemic hyponatremia?",
+      "choices": [
+        "Patients appear obviously volume-depleted",
+        "Patients usually appear euvolemic despite ECF reduction; hypotonic urine is often impossible to make",
+        "Urine osmolality is always <50 mOsm/kg",
+        "Serum sodium rises with thiazides",
+        "Patients are typically hypernatremic"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Patients with thiazide-induced hyponatremia generally do not appear volume-depleted.",
+        "Correct. Thiazide-induced hyponatremia commonly appears euvolemic, even though ECF volume is mildly reduced; the kidney cannot make maximally dilute urine because the diluting segment (DCT) is blocked.",
+        "Incorrect. The kidney cannot dilute to its minimum 50 mOsm/kg under thiazides—that is the point.",
+        "Incorrect. Thiazides cause hyponatremia, not hypernatremia.",
+        "Incorrect. Hyponatremia, not hypernatremia, is described."
+      ]
+    }
+  ]
+}

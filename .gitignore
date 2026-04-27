@@ -1,0 +1,12 @@
+# Source PDFs (copyrighted material — do not redistribute)
+week1_sourcebricks/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local logs / temp
+*.log
+.tmp/

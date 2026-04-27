@@ -1,0 +1,481 @@
+{
+  "id": 20,
+  "title": "Antidiuretic Hormone Agonists",
+  "questions": [
+    {
+      "id": 1,
+      "stem": "A 36-year-old woman in the rehab unit after a head injury has urine output increasing to 10 L/24 h with high serum sodium and low urine osmolality. Glucose is normal. Her physician plans to use a synthetic ADH analogue. Which best describes the basic action of these agents?",
+      "choices": [
+        "They block aquaporin insertion",
+        "They inhibit V2 receptors",
+        "They mimic native ADH at its receptors, promoting water reabsorption and vasoconstriction",
+        "They prevent ADH degradation",
+        "They stimulate the proximal tubule directly"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Blocking aquaporins would worsen DI.",
+        "Incorrect. ADH antagonists, not agonists, block V2.",
+        "Correct. ADH agonists are synthetic analogues of vasopressin that mimic the native hormone's effects: renal water reabsorption (V2) and arterial vasoconstriction (V1).",
+        "Incorrect. The brick describes direct receptor agonism, not protection from degradation.",
+        "Incorrect. The proximal tubule is not the site of ADH action."
+      ]
+    },
+    {
+      "id": 2,
+      "stem": "A 40-year-old patient with central DI is given an ADH agonist. Which renal cell type is the principal target for the water-conserving effect?",
+      "choices": [
+        "Distal convoluted tubule cells",
+        "Macula densa cells",
+        "Principal cells of the cortical collecting duct",
+        "Proximal tubule cells",
+        "Thick ascending limb cells"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. The DCT does not host the V2 receptor target for ADH agonists.",
+        "Incorrect. The macula densa senses NaCl delivery; it is not the target of ADH agonists.",
+        "Correct. ADH agonists bind V2 receptors on the principal cells in the renal cortical collecting duct, leading to migration of aquaporins (AQP2) to the membrane and water reabsorption.",
+        "Incorrect. Proximal tubule water reabsorption is not ADH-driven.",
+        "Incorrect. Thick ascending limb is not the principal site of ADH action."
+      ]
+    },
+    {
+      "id": 3,
+      "stem": "Following V2 receptor activation, what cellular event most directly enables water reabsorption in the collecting duct?",
+      "choices": [
+        "Active transport of water by Na/K-ATPase",
+        "Apical insertion of aquaporin channels making the membrane permeable to water",
+        "Increased epithelial sodium channel activity",
+        "Increased paracellular calcium absorption",
+        "Inhibition of carbonic anhydrase"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Water moves passively along osmotic gradients; Na/K-ATPase does not actively transport water.",
+        "Correct. V2 stimulation triggers translocation of aquaporins (AQP2) to the apical/luminal membrane of principal cells, making them permeable to water and allowing osmotic reabsorption.",
+        "Incorrect. ENaC activity is regulated by aldosterone, not the principal water-permeability effect of ADH.",
+        "Incorrect. Calcium absorption is not the brick's described mechanism.",
+        "Incorrect. Carbonic anhydrase inhibition is not involved."
+      ]
+    },
+    {
+      "id": 4,
+      "stem": "A 21-year-old in septic shock is started on IV vasopressin. Which receptor mediates its blood pressure-raising effect?",
+      "choices": [
+        "Alpha-1 adrenergic",
+        "Beta-1 adrenergic",
+        "V1 receptor on vascular endothelial cells",
+        "V2 receptor on principal cells",
+        "V3 receptor on the pituitary"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Vasopressin does not act through alpha-1 adrenergic receptors (although epinephrine and norepinephrine do).",
+        "Incorrect. Beta-1 receptors are not the brick's described target of vasopressin.",
+        "Correct. Vasopressin binds V1 receptors on vascular endothelial cells, stimulating smooth muscle contraction and arteriolar constriction, raising blood pressure.",
+        "Incorrect. V2 receptors mediate water reabsorption, not vasoconstriction.",
+        "Incorrect. V3 receptors are not the brick's described target for the pressor effect."
+      ]
+    },
+    {
+      "id": 5,
+      "stem": "A 12-year-old with severe von Willebrand disease has bleeding gums and easy bruising. The physician administers desmopressin. Which mechanism best explains its hemostatic effect?",
+      "choices": [
+        "Direct activation of clotting factor X",
+        "Increased platelet release of von Willebrand factor from vascular endothelial cells",
+        "Inhibition of fibrinolysis at the liver",
+        "Stimulation of new platelet production",
+        "Vasoconstriction reducing blood flow only"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. The brick does not describe direct factor X activation.",
+        "Correct. ADH agonists stimulate release of von Willebrand factor from vascular endothelial cells, which then promotes platelet adhesion to vessel walls and clot formation.",
+        "Incorrect. Fibrinolysis inhibition is not the described mechanism.",
+        "Incorrect. ADH agonists do not stimulate thrombopoiesis.",
+        "Incorrect. While vasoconstriction occurs with vasopressin, desmopressin's hemostatic effect is via vWF release."
+      ]
+    },
+    {
+      "id": 6,
+      "stem": "A 24-year-old woman is being treated for central DI. Which agent is the preferred long-term outpatient ADH agonist?",
+      "choices": [
+        "Atosiban",
+        "Demeclocycline",
+        "Desmopressin",
+        "Octreotide",
+        "Vasopressin (IV)"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Atosiban is not described in this brick.",
+        "Incorrect. Demeclocycline acts as an ADH antagonist (used for SIADH).",
+        "Correct. Desmopressin can be given nasally, orally, or IV and is used for central DI and von Willebrand disease; its minimal vascular effects make it the practical outpatient choice.",
+        "Incorrect. Octreotide is not an ADH agonist.",
+        "Incorrect. Vasopressin is given IV and is generally reserved for shock, not chronic outpatient DI."
+      ]
+    },
+    {
+      "id": 7,
+      "stem": "A 9-year-old boy with severe nocturnal enuresis is prescribed desmopressin. Which statement best explains this use?",
+      "choices": [
+        "His ADH levels are typically very low",
+        "It corrects an underlying renal tubular acidosis",
+        "It causes him to sleep more deeply",
+        "It prevents bladder contractions",
+        "It promotes urinary concentration regardless of his endogenous ADH level"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. The brick states ADH levels are usually normal in children with enuresis.",
+        "Incorrect. RTA is unrelated to enuresis treatment with DDAVP.",
+        "Incorrect. Desmopressin does not work as a sleep aid.",
+        "Incorrect. The mechanism is renal water concentration, not bladder contraction inhibition.",
+        "Correct. Although ADH levels are normal, desmopressin helps these children concentrate their urine, decreasing the chance of bedwetting."
+      ]
+    },
+    {
+      "id": 8,
+      "stem": "A 60-year-old man with cirrhosis presents with bleeding esophageal varices. Which medication may be injected to vasoconstrict the dilated veins and stop bleeding?",
+      "choices": [
+        "Demeclocycline",
+        "Desmopressin",
+        "Furosemide",
+        "Tolvaptan",
+        "Vasopressin"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. Demeclocycline is not used for variceal bleeding.",
+        "Incorrect. Desmopressin has minimal vasoconstrictive effect.",
+        "Incorrect. Furosemide is a diuretic without role in variceal hemorrhage in this brick.",
+        "Incorrect. Tolvaptan is a V2 antagonist; it does not vasoconstrict.",
+        "Correct. Vasopressin can be injected to vasoconstrict bleeding gastric/esophageal varices in patients with portal hypertension."
+      ]
+    },
+    {
+      "id": 9,
+      "stem": "A 50-year-old man with septic shock is started on IV vasopressin in addition to other vasopressors. The agent supplements which class of drugs already used to reverse vasodilation?",
+      "choices": [
+        "Antihistamines",
+        "Beta-blockers",
+        "Calcium channel blockers",
+        "Insulin",
+        "Vasoconstrictors such as epinephrine and norepinephrine"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. Antihistamines do not reverse distributive shock.",
+        "Incorrect. Beta-blockers reduce, not raise, blood pressure.",
+        "Incorrect. Calcium channel blockers may lower blood pressure.",
+        "Incorrect. Insulin manages hyperglycemia, not shock-related vasodilation.",
+        "Correct. Vasopressin acts as a vasoconstrictor used alongside epinephrine and norepinephrine to reverse vasodilation in distributive shock."
+      ]
+    },
+    {
+      "id": 10,
+      "stem": "A 35-year-old woman with central DI is given IV desmopressin. Which adverse effect should the clinician monitor for most carefully?",
+      "choices": [
+        "Hyperglycemia",
+        "Hyperkalemia",
+        "Hypernatremia",
+        "Hyponatremia from excess renal water reabsorption",
+        "Mesenteric ischemia"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Desmopressin does not raise blood glucose.",
+        "Incorrect. Hyperkalemia is not a major concern with DDAVP.",
+        "Incorrect. The drug treats hypernatremia in DI; overcorrection produces hyponatremia.",
+        "Correct. IV desmopressin can cause hyponatremia by promoting renal water reabsorption.",
+        "Incorrect. Mesenteric ischemia is associated with vasopressin's V1 effects, not desmopressin."
+      ]
+    },
+    {
+      "id": 11,
+      "stem": "A 67-year-old woman receiving high-dose IV vasopressin develops abdominal pain and bloody stools. Imaging shows mesenteric ischemia. Which mechanism best explains this complication?",
+      "choices": [
+        "Direct cytotoxic effect on the bowel",
+        "Excess water reabsorption in the gut",
+        "Hypoglycemia-induced bowel ischemia",
+        "Stimulation of the renal V2 receptor",
+        "V1-mediated splanchnic vasoconstriction reducing blood flow"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. Vasopressin is not directly cytotoxic.",
+        "Incorrect. Gut water reabsorption is not the mechanism.",
+        "Incorrect. Hypoglycemia is not a vasopressin effect described here.",
+        "Incorrect. V2 stimulation in the kidney does not cause mesenteric ischemia.",
+        "Correct. Vasopressin's V1-mediated vasoconstriction can reduce blood flow to the gut, causing mesenteric (gut) ischemia."
+      ]
+    },
+    {
+      "id": 12,
+      "stem": "A 55-year-old man on IV vasopressin develops new dyspnea, hypoxia, and elevated pulmonary artery pressures. Which adverse effect is most likely?",
+      "choices": [
+        "Anaphylaxis",
+        "Hypothyroidism",
+        "Pulmonary edema from heart failure",
+        "Pulmonary hypertension from vasoconstriction",
+        "SIADH"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Anaphylaxis is not the brick's described complication.",
+        "Incorrect. Hypothyroidism is not associated with vasopressin in this brick.",
+        "Incorrect. Pulmonary edema is not the brick's main vascular complication of vasopressin.",
+        "Correct. Vasopressin's V1-mediated vasoconstriction can cause pulmonary hypertension; mesenteric ischemia and skin necrosis are also recognized complications.",
+        "Incorrect. SIADH is treated by ADH antagonists, not caused by ADH agonists in the manner described here."
+      ]
+    },
+    {
+      "id": 13,
+      "stem": "A patient is being chosen between desmopressin and vasopressin. The physician notes that desmopressin has fewer vascular adverse effects. Which receptor selectivity best explains this?",
+      "choices": [
+        "Desmopressin antagonizes V1 receptors",
+        "Desmopressin has selective V2 stimulation with little V1 effect",
+        "Desmopressin is a complete V1 and V2 antagonist",
+        "Desmopressin selectively activates V1 only",
+        "Vasopressin lacks V1 activity"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Desmopressin agonizes (rather than antagonizes) ADH receptors.",
+        "Correct. Desmopressin acts mainly at V2 receptors and has minimal effect on blood vessels (V1), so it has fewer vasoconstrictive adverse effects than vasopressin.",
+        "Incorrect. Desmopressin is an agonist, not an antagonist.",
+        "Incorrect. Desmopressin's selectivity is V2, not V1.",
+        "Incorrect. Vasopressin has prominent V1 (vasoconstrictive) activity."
+      ]
+    },
+    {
+      "id": 14,
+      "stem": "A 70-year-old man develops dark, ischemic patches on the fingertips while receiving IV vasopressin in the ICU. Which underlying mechanism best explains this finding?",
+      "choices": [
+        "Anti-platelet effect",
+        "Direct toxicity to skin keratinocytes",
+        "Embolic phenomena",
+        "Platelet aggregation in skin vessels",
+        "V1-mediated peripheral vasoconstriction reducing skin perfusion"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. Vasopressin has prohemostatic, not antiplatelet, effects.",
+        "Incorrect. Direct keratinocyte toxicity is not the mechanism.",
+        "Incorrect. The brick attributes skin necrosis to vasoconstriction-induced ischemia rather than embolism.",
+        "Incorrect. The mechanism is vasoconstriction-induced reduced perfusion.",
+        "Correct. V1-mediated vasoconstriction can reduce blood flow to peripheral tissues, leading to skin necrosis."
+      ]
+    },
+    {
+      "id": 15,
+      "stem": "A patient with traumatic brain injury develops central DI. After 2 weeks, urine output normalizes and ADH secretion returns. Which next step is most appropriate per the brick?",
+      "choices": [
+        "Add a thiazide for life",
+        "Continue desmopressin lifelong regardless of recovery",
+        "Discontinue desmopressin once symptoms resolve, since postsurgical/post-traumatic central DI often resolves",
+        "Increase the desmopressin dose to reach a target sodium",
+        "Switch to oral vasopressin"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Thiazides are used in nephrogenic DI.",
+        "Incorrect. Many cases of post-traumatic/postsurgical central DI resolve.",
+        "Correct. Desmopressin is used until symptoms resolve, not to a particular sodium value; many cases resolve and outpatient therapy is often unnecessary.",
+        "Incorrect. Dosing is symptom-driven rather than aimed at a specific sodium target.",
+        "Incorrect. Vasopressin is generally not used for chronic ambulatory DI."
+      ]
+    },
+    {
+      "id": 16,
+      "stem": "Which phrase best summarizes the THREE main effects of ADH/vasopressin agonists?",
+      "choices": [
+        "Diuresis, vasodilation, and bronchodilation",
+        "Renal water reabsorption, arteriolar vasoconstriction, and vWF release/platelet adhesion",
+        "Renal water reabsorption, sodium reabsorption, and immune suppression",
+        "Renal water secretion, vasoconstriction, and platelet inhibition",
+        "Sodium excretion, vasoconstriction, and vWF release"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. ADH agonists produce antidiuresis, not diuresis, and are not bronchodilators.",
+        "Correct. The three actions are: V2-mediated renal water reabsorption, V1-mediated arterial vasoconstriction, and platelet-related vWF release leading to platelet adhesion and clot formation.",
+        "Incorrect. Sodium reabsorption is not the brick's listed action; immune effects are not described.",
+        "Incorrect. ADH agonists promote water REABSORPTION and clot formation, not the opposites.",
+        "Incorrect. ADH agonists do not promote sodium excretion."
+      ]
+    },
+    {
+      "id": 17,
+      "stem": "A patient asks why ADH agonists cannot just be administered as plain water IV to correct DI symptoms. The clinician explains the medication's purpose. Which best summarizes how ADH agonists treat central DI?",
+      "choices": [
+        "They damage tubular cells, reducing urine output",
+        "They directly remove glucose from urine",
+        "They increase the GFR",
+        "They reduce the medullary concentrating gradient",
+        "They replace deficient ADH, restoring renal water reabsorption"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. ADH agonists are not cytotoxic to tubules.",
+        "Incorrect. They do not affect glucose handling.",
+        "Incorrect. They do not act through GFR changes.",
+        "Incorrect. The medullary gradient is not affected by ADH agonists.",
+        "Correct. Central DI involves deficient ADH; ADH agonists replace the missing hormone, allowing principal cells to reabsorb water through inserted aquaporins."
+      ]
+    },
+    {
+      "id": 18,
+      "stem": "A patient on vasopressin for distributive shock has uremic platelet dysfunction with ongoing bleeding. The medication is also being considered to address this defect. Which mechanism best explains its effect?",
+      "choices": [
+        "Bone marrow stimulation",
+        "Direct binding to fibrin",
+        "Promotion of vWF release, correcting platelet adhesion defect",
+        "Stimulation of erythropoiesis",
+        "Suppression of clotting factor degradation"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. ADH agonists do not stimulate bone marrow.",
+        "Incorrect. The drug does not directly bind fibrin.",
+        "Correct. Per the clinical correlation, vasopressin/desmopressin enhances vWF release, correcting platelet adhesion defects in von Willebrand disease and uremic platelet dysfunction.",
+        "Incorrect. ADH agonists do not stimulate erythropoiesis (EPO does).",
+        "Incorrect. They do not suppress clotting factor degradation."
+      ]
+    },
+    {
+      "id": 19,
+      "stem": "A 30-year-old man with type 1 von Willebrand disease scheduled for tooth extraction is given desmopressin preoperatively. Which best describes the rationale?",
+      "choices": [
+        "It directly cauterizes the surgical site",
+        "It enhances release of vWF from endothelial cells, improving platelet adhesion",
+        "It increases liver clotting factor synthesis",
+        "It is a long-acting anesthetic adjunct",
+        "It reduces bleeding by raising blood pressure"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. The drug has no cauterizing effect.",
+        "Correct. Desmopressin promotes vWF release from endothelial cells, improving platelet adhesion and reducing bleeding in vWD.",
+        "Incorrect. It does not stimulate hepatic clotting factor synthesis.",
+        "Incorrect. It is not an anesthetic.",
+        "Incorrect. Desmopressin has minimal vasoconstrictive activity; the hemostatic effect is platelet-mediated."
+      ]
+    },
+    {
+      "id": 20,
+      "stem": "A 55-year-old man undergoing therapy for shock is on IV vasopressin. The physician notes elevated systemic and pulmonary vascular resistances. The agent's signaling occurs through which sequence in vascular smooth muscle?",
+      "choices": [
+        "ADH binds V1 on vascular endothelial cells; smooth muscle contracts; arteriole constricts",
+        "ADH binds V2 on smooth muscle and inhibits contraction",
+        "ADH directly opens calcium channels on platelets",
+        "ADH inhibits adenylyl cyclase in cardiac myocytes",
+        "ADH stimulates beta receptors on heart muscle"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. The brick states vasopressin binds V1 receptors on vascular endothelial cells, stimulating smooth muscle contraction, constricting the arteriole, and raising blood pressure.",
+        "Incorrect. V2 receptors are renal and do not mediate vasoconstriction.",
+        "Incorrect. ADH does not directly open calcium channels on platelets.",
+        "Incorrect. The brick does not describe an inhibitory cardiac effect.",
+        "Incorrect. Vasopressin does not act on beta-adrenergic receptors."
+      ]
+    },
+    {
+      "id": 21,
+      "stem": "A patient with anaphylactic shock develops profound hypotension. The physician considers an ADH agonist. Which agent is most appropriate?",
+      "choices": [
+        "Demeclocycline",
+        "Desmopressin (DDAVP)",
+        "Insulin",
+        "Tolvaptan",
+        "Vasopressin"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. Demeclocycline is an ADH antagonist used for SIADH.",
+        "Incorrect. Desmopressin lacks strong vasoconstrictive effect.",
+        "Incorrect. Insulin is not the brick's recommended therapy for distributive shock.",
+        "Incorrect. Tolvaptan blocks V2 receptors and would not raise BP.",
+        "Correct. Vasopressin (IV) is appropriate for distributive shock; its V1-mediated vasoconstriction reverses pathologic vasodilation."
+      ]
+    },
+    {
+      "id": 22,
+      "stem": "Which laboratory finding pattern is MOST consistent with central DI being treated effectively with desmopressin?",
+      "choices": [
+        "Increasing urine output and decreasing urine osmolality",
+        "Rising serum sodium with low urine osmolality",
+        "Stable glucose and potassium changes only",
+        "Stable serum sodium with very low urine output",
+        "Urine osmolality rising and urine output falling toward normal, with serum sodium normalizing"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. This describes worsening DI, not successful treatment.",
+        "Incorrect. Rising sodium and low urine osmolality describe untreated DI.",
+        "Incorrect. The brick does not describe DDAVP-related glucose/potassium effects.",
+        "Incorrect. Urine output should normalize, not become very low (an over-treatment risk).",
+        "Correct. Effective treatment of central DI with desmopressin is reflected by rising urine osmolality, falling urine volume, and normalization of serum sodium toward normal."
+      ]
+    },
+    {
+      "id": 23,
+      "stem": "A 36-year-old patient suffered a head injury and developed central DI. After 2 months, she is discharged on a synthetic ADH analogue. Which best describes how the analogue is being delivered?",
+      "choices": [
+        "Continuous IV infusion only",
+        "Inhaled bronchodilator",
+        "Intramuscular injection only",
+        "Nasally, orally, or IV",
+        "Topical ointment"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Outpatient continuous IV is impractical and not the brick's described route.",
+        "Incorrect. ADH agonists are not inhaled bronchodilators.",
+        "Incorrect. The brick lists nasal, oral, and IV routes for desmopressin, not IM.",
+        "Correct. Desmopressin can be given nasally, orally, or IV, supporting outpatient management.",
+        "Incorrect. There is no topical ointment formulation described."
+      ]
+    },
+    {
+      "id": 24,
+      "stem": "A 20-year-old marathon runner with rhabdomyolysis has been refractory to IV fluids and develops shock. Vasopressin is added. Which adverse effect should be specifically monitored given his myoglobinuria?",
+      "choices": [
+        "Hypoglycemia",
+        "Hypothyroidism",
+        "Mesenteric and skin necrosis from vasoconstriction",
+        "Pseudohyponatremia",
+        "Pulmonary edema"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Hypoglycemia is not a brick-recognized vasopressin adverse effect.",
+        "Incorrect. Hypothyroidism is not described.",
+        "Correct. Vasopressin's V1-mediated vasoconstriction can lead to mesenteric (gut) and skin (peripheral) ischemia/necrosis, which the brick highlights as key adverse effects.",
+        "Incorrect. Pseudohyponatremia is not a vasopressin effect.",
+        "Incorrect. Pulmonary HTN, not pulmonary edema, is the listed pulmonary adverse effect."
+      ]
+    },
+    {
+      "id": 25,
+      "stem": "Which receptor binding profile best distinguishes vasopressin from desmopressin in clinical effect?",
+      "choices": [
+        "Both are pure V2 antagonists",
+        "Desmopressin has strong V1 effects; vasopressin has only V2 effects",
+        "Vasopressin and desmopressin are identical in effect",
+        "Vasopressin has strong V1 (vasoconstriction) effects, desmopressin has minimal V1 effect",
+        "Vasopressin lacks V2 activity"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. They are agonists, not antagonists.",
+        "Incorrect. The opposite is true.",
+        "Incorrect. They differ in their vascular effects.",
+        "Correct. Vasopressin has strong vasoconstrictive (V1) effects (used for shock); desmopressin has minimal V1 activity, making it preferred for central DI and von Willebrand disease.",
+        "Incorrect. Vasopressin retains V2 activity."
+      ]
+    }
+  ]
+}

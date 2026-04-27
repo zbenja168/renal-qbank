@@ -1,0 +1,481 @@
+{
+  "id": 6,
+  "title": "Glomerular Filtration Rate (GFR)",
+  "questions": [
+    {
+      "id": 1,
+      "stem": "A research team is screening candidate molecules to use as exogenous markers for measuring GFR in a clinical study. Which property is most essential for the candidate to accurately reflect glomerular filtration alone?",
+      "choices": [
+        "Extensive plasma protein binding",
+        "Freely filtered, not reabsorbed/secreted, and metabolically inert",
+        "Active reabsorption in the proximal tubule",
+        "Endogenous production proportional to muscle mass",
+        "High molecular weight to minimize filtration variability"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Protein-bound molecules are partially excluded from filtration and underestimate true GFR.",
+        "Correct. The three ideal properties are free filtration at the glomerulus, no tubular reabsorption or secretion, and metabolic/physiologic inertness.",
+        "Incorrect. Tubular reabsorption reduces urinary excretion below the filtered load and underestimates GFR.",
+        "Incorrect. Endogenous production tied to muscle mass introduces variability and is a limitation of creatinine, not an ideal property.",
+        "Incorrect. Large molecules are restricted by the filtration barrier; ideal markers are small and freely filtered."
+      ]
+    },
+    {
+      "id": 2,
+      "stem": "An investigator administers a candidate filtration marker that is 60% bound to plasma albumin. Compared with the patient's true GFR, the calculated clearance using this marker would most likely:",
+      "choices": [
+        "Overestimate true GFR",
+        "Underestimate true GFR",
+        "Equal true GFR",
+        "Vary unpredictably with renal blood flow",
+        "Equal renal plasma flow"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. A protein-bound marker is partially excluded from filtration, so it cannot overestimate GFR through this mechanism.",
+        "Correct. Markers bound to plasma proteins are not freely filtered, so urinary appearance is less than expected, underestimating true GFR.",
+        "Incorrect. Equality requires free filtration with no other interference; protein binding violates this property.",
+        "Incorrect. The error from protein binding is systematic underestimation, not unpredictable variation with blood flow.",
+        "Incorrect. Renal plasma flow is measured by markers cleared on first pass (e.g., PAH), not by filtration markers."
+      ]
+    },
+    {
+      "id": 3,
+      "stem": "A pharmacology team wants to use a small, water-soluble plant-derived fructose polymer to define a reference GFR in a study. Which molecule best fits this description and serves as the gold-standard exogenous filtration marker?",
+      "choices": [
+        "Creatinine",
+        "Cystatin C",
+        "Inulin",
+        "Beta-2-microglobulin",
+        "Albumin"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Creatinine is an endogenous metabolite of muscle creatine phosphate, not a plant polymer, and is secreted by tubules.",
+        "Incorrect. Cystatin C is a 13 kDa protein produced by nucleated cells, not a fructose polymer.",
+        "Correct. Inulin is a small plant-derived fructose polymer that is freely filtered, neither reabsorbed nor secreted, and metabolically inert, defining the gold-standard reference.",
+        "Incorrect. Beta-2-microglobulin is a low molecular weight protein investigated as an alternative marker but is not the gold standard.",
+        "Incorrect. Albumin is a large plasma protein largely excluded from filtration and would underestimate GFR."
+      ]
+    },
+    {
+      "id": 4,
+      "stem": "A 58-year-old man presents with hypovolemia from gastroenteritis. Sympathetic activation constricts the afferent arteriole. Compared with baseline, what change in renal blood flow (RBF), GFR, and filtration fraction (FF) is most likely?",
+      "choices": [
+        "RBF decreased, GFR decreased, FF often decreased",
+        "RBF increased, GFR increased, FF increased",
+        "RBF decreased, GFR increased, FF increased",
+        "RBF increased, GFR decreased, FF decreased",
+        "RBF unchanged, GFR decreased, FF decreased"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Afferent constriction reduces both renal blood flow and glomerular hydrostatic pressure, decreasing GFR; FF is variable but often decreases.",
+        "Incorrect. Afferent constriction reduces, not increases, blood flow into the glomerulus.",
+        "Incorrect. Afferent constriction reduces glomerular hydrostatic pressure, so GFR falls rather than rises.",
+        "Incorrect. RBF falls with afferent constriction, not increases.",
+        "Incorrect. Constricting the afferent arteriole alters resistance and reduces RBF."
+      ]
+    },
+    {
+      "id": 5,
+      "stem": "A 70-year-old woman with congestive heart failure has reduced renal blood flow. Angiotensin II preferentially constricts the efferent arteriole to maintain GFR. Compared with baseline, what is the expected change in GFR and filtration fraction?",
+      "choices": [
+        "Both GFR and FF decrease",
+        "GFR decreases, FF increases",
+        "GFR increases, FF increases",
+        "GFR increases, FF decreases",
+        "GFR unchanged, FF decreases"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Efferent constriction raises glomerular hydrostatic pressure, supporting rather than reducing GFR.",
+        "Incorrect. Although RBF falls with efferent constriction, the increased hydrostatic pressure raises GFR.",
+        "Correct. Efferent constriction increases glomerular hydrostatic pressure, raising GFR; with reduced RBF, a greater fraction of plasma is filtered, raising FF.",
+        "Incorrect. With efferent constriction, FF rises because filtration takes a larger share of the reduced plasma flow.",
+        "Incorrect. GFR is not unchanged; it rises with efferent constriction."
+      ]
+    },
+    {
+      "id": 6,
+      "stem": "A 65-year-old man with osteoarthritis takes ibuprofen daily. He develops a modest decline in GFR. The drug most likely reduced GFR by altering which mechanism?",
+      "choices": [
+        "Inhibition of vasodilatory prostaglandins, leading to afferent constriction",
+        "Direct inhibition of angiotensin II at the efferent arteriole",
+        "Increased plasma oncotic pressure",
+        "Mesangial cell relaxation, increasing Kf",
+        "Selective dilation of the efferent arteriole"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. NSAIDs inhibit vasodilatory prostaglandins, allowing afferent constriction that reduces glomerular hydrostatic pressure and GFR.",
+        "Incorrect. NSAIDs do not directly block angiotensin II at the efferent arteriole; that is the mechanism of ACE inhibitors/ARBs.",
+        "Incorrect. NSAIDs do not raise plasma oncotic pressure.",
+        "Incorrect. NSAIDs do not relax mesangial cells; if anything, mesangial contraction would reduce Kf.",
+        "Incorrect. NSAIDs do not selectively dilate the efferent arteriole."
+      ]
+    },
+    {
+      "id": 7,
+      "stem": "A 30-year-old man with nephrotic syndrome develops severe hypoalbuminemia. Considering only the change in plasma protein concentration on glomerular filtration dynamics, what is the immediate effect on GFR and filtration fraction?",
+      "choices": [
+        "Increased GFR, increased FF",
+        "Decreased GFR, increased FF",
+        "Increased GFR, decreased FF",
+        "Decreased GFR, decreased FF",
+        "No change in either"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Lower oncotic pressure raises GFR, but FF decreases because RBF is unchanged while filtration tends to be a smaller relative share of plasma flow per the brick table.",
+        "Incorrect. Hypoproteinemia tends to raise, not lower, GFR by reducing the opposing oncotic pressure.",
+        "Correct. Per the brick, decreased plasma proteins raise GFR (less opposing oncotic pressure) while filtration fraction decreases.",
+        "Incorrect. Hypoproteinemia raises rather than lowers GFR initially.",
+        "Incorrect. Plasma protein changes directly alter the net filtration force and therefore GFR."
+      ]
+    },
+    {
+      "id": 8,
+      "stem": "A 4-year-old girl with severe nephrotic syndrome develops marked anasarca. Her clinician notes that despite expected hypoproteinemia, her GFR is now decreasing. Which mechanism best explains the GFR decline?",
+      "choices": [
+        "Direct mesangial relaxation",
+        "Fluid shifts to the interstitium reduce effective circulating volume, triggering compensatory responses",
+        "Increased filtration coefficient from glomerular hypertrophy",
+        "Efferent arteriolar dilation from low oncotic pressure",
+        "Loss of tubular secretion of creatinine"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Mesangial relaxation would raise Kf and GFR, not reduce it.",
+        "Correct. In severe hypoproteinemia, plasma fluid shifts into the interstitium, lowering effective circulating volume and triggering responses (e.g., sympathetic activation) that ultimately reduce GFR.",
+        "Incorrect. Glomerular hypertrophy is associated with early diabetic nephropathy, not nephrotic-state volume depletion.",
+        "Incorrect. Hypoproteinemia does not selectively dilate the efferent arteriole.",
+        "Incorrect. Loss of tubular secretion of creatinine alters creatinine-based estimates but does not lower true GFR."
+      ]
+    },
+    {
+      "id": 9,
+      "stem": "A patient with multiple myeloma has marked hyperproteinemia. Considering only the effect on glomerular filtration dynamics, what change in GFR and filtration fraction is expected?",
+      "choices": [
+        "Increased GFR, increased FF",
+        "Decreased GFR, increased FF",
+        "Increased GFR, decreased FF",
+        "Decreased GFR, decreased FF",
+        "No change in GFR or FF"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Higher oncotic pressure opposes filtration, lowering GFR.",
+        "Correct. Per the brick, increased plasma proteins decrease GFR and increase filtration fraction.",
+        "Incorrect. GFR decreases with elevated plasma proteins, not increases.",
+        "Incorrect. The brick notes that filtration fraction increases with increased plasma proteins.",
+        "Incorrect. Plasma protein concentration directly alters net filtration force."
+      ]
+    },
+    {
+      "id": 10,
+      "stem": "A researcher describes glomerular Kf as the product of hydraulic permeability and available filtration surface area. Which pathologic change is most likely to acutely decrease Kf and lower GFR through reduced filtration surface area?",
+      "choices": [
+        "Mesangial cell contraction driven by angiotensin II",
+        "Afferent arteriolar dilation",
+        "Decreased plasma oncotic pressure",
+        "Glomerular hypertrophy of early diabetic nephropathy",
+        "Efferent arteriolar constriction"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Mesangial contraction (driven by angiotensin II and other vasoconstrictors) reduces filtration surface area, decreasing Kf and GFR.",
+        "Incorrect. Afferent dilation increases RBF and GFR but does not directly reduce Kf.",
+        "Incorrect. Lower oncotic pressure increases net filtration force; it does not change Kf.",
+        "Incorrect. Glomerular hypertrophy in early diabetic nephropathy increases Kf, not decreases it.",
+        "Incorrect. Efferent constriction raises glomerular hydrostatic pressure but does not reduce filtration surface area."
+      ]
+    },
+    {
+      "id": 11,
+      "stem": "A patient with early diabetic nephropathy demonstrates glomerular hypertrophy and hyperfiltration. Compared with baseline, the change in filtration coefficient (Kf) and filtration fraction (FF) is best described as:",
+      "choices": [
+        "Kf decreased, FF decreased",
+        "Kf increased, FF increased",
+        "Kf decreased, FF increased",
+        "Kf increased, FF decreased",
+        "Kf unchanged, FF decreased"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Early diabetic nephropathy increases Kf via glomerular hypertrophy, not decreases it.",
+        "Correct. Glomerular hypertrophy raises Kf, and because RBF is unchanged, GFR and FF rise together with Kf.",
+        "Incorrect. Kf increases (not decreases) in early diabetic nephropathy.",
+        "Incorrect. As Kf rises, FF rises with it.",
+        "Incorrect. Kf does change in early diabetic nephropathy due to glomerular hypertrophy."
+      ]
+    },
+    {
+      "id": 12,
+      "stem": "A patient with advanced glomerulonephritis has chronic glomerular inflammation, scarring, and nephron loss. The expected change in Kf, GFR, and FF is best described as:",
+      "choices": [
+        "Kf decreased, GFR decreased, FF decreased",
+        "Kf increased, GFR increased, FF increased",
+        "Kf decreased, GFR increased, FF increased",
+        "Kf unchanged, GFR decreased, FF decreased",
+        "Kf increased, GFR decreased, FF decreased"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Advanced glomerulonephritis decreases Kf via inflammation, scarring, and nephron loss; with no change in RBF, GFR and FF fall in the same direction as Kf.",
+        "Incorrect. Chronic inflammation and nephron loss decrease, not increase, Kf.",
+        "Incorrect. A reduced Kf produces decreased GFR and FF, not increased.",
+        "Incorrect. Kf is reduced in this setting due to scarring and nephron loss.",
+        "Incorrect. Kf decreases rather than increases with chronic glomerular damage."
+      ]
+    },
+    {
+      "id": 13,
+      "stem": "A clinician reviews labs for a 57-year-old man with gradual fatigue and ankle swelling and considers using endogenous creatinine to estimate GFR. Which property of creatinine is an advantage that has made it the routine clinical marker?",
+      "choices": [
+        "It requires intravenous infusion to maintain stable plasma levels",
+        "It is produced continuously at a relatively constant rate from muscle creatine phosphate",
+        "It is heavily protein-bound, simplifying assays",
+        "It is metabolized by the kidney, allowing direct measurement",
+        "It is undetectable in early kidney disease"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Inulin requires IV infusion; creatinine is endogenous and only requires a blood draw.",
+        "Correct. Creatinine is a metabolic byproduct of muscle creatine phosphate produced at a relatively constant rate, eliminating the need for exogenous administration.",
+        "Incorrect. Creatinine has minimal protein binding, which is why it is freely filtered.",
+        "Incorrect. Creatinine is neither reabsorbed nor metabolized by the kidney.",
+        "Incorrect. Creatinine is detectable in early kidney disease, although it is insensitive at GFR >60 mL/min/1.73m squared."
+      ]
+    },
+    {
+      "id": 14,
+      "stem": "A 55-year-old man's creatinine clearance is calculated and compared to a measured inulin clearance. Because of an additional renal handling pathway, his creatinine clearance most likely:",
+      "choices": [
+        "Underestimates true GFR by about 10-20%",
+        "Equals true GFR exactly",
+        "Overestimates true GFR by about 10-20%",
+        "Is independent of muscle mass",
+        "Equals renal plasma flow"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Creatinine is secreted by the proximal tubule, so its clearance overestimates rather than underestimates true GFR.",
+        "Incorrect. Tubular secretion makes creatinine clearance differ from true GFR.",
+        "Correct. About 10-20% of urinary creatinine comes from tubular secretion, so creatinine clearance systematically overestimates true GFR by a similar percentage.",
+        "Incorrect. Creatinine production depends strongly on muscle mass.",
+        "Incorrect. Renal plasma flow is measured by first-pass clearance (e.g., PAH), not by creatinine."
+      ]
+    },
+    {
+      "id": 15,
+      "stem": "A 75-year-old man with stable chronic kidney disease has a measured inulin clearance of 35 mL/min. His creatinine clearance is most likely:",
+      "choices": [
+        "Greater than 35 mL/min",
+        "Equal to 35 mL/min",
+        "Less than 35 mL/min",
+        "Equal to renal plasma flow",
+        "Indeterminable without urine volume"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Tubular secretion adds ~10-20% to urinary creatinine, so creatinine clearance exceeds true GFR (here, the inulin clearance).",
+        "Incorrect. Equality would require no tubular secretion of creatinine, but creatinine is secreted in the proximal tubule.",
+        "Incorrect. Creatinine clearance is greater than, not less than, true GFR because of secretion.",
+        "Incorrect. Creatinine clearance is unrelated to renal plasma flow.",
+        "Incorrect. The systematic relationship is predictable: creatinine clearance overestimates true GFR."
+      ]
+    },
+    {
+      "id": 16,
+      "stem": "A 60-year-old man with stable CKD is started on cimetidine for reflux. His next serum creatinine rises modestly even though his measured inulin clearance has not changed. The most likely explanation is that cimetidine:",
+      "choices": [
+        "Increases endogenous creatinine production",
+        "Reduces glomerular filtration of creatinine",
+        "Competes with creatinine for tubular secretion, lowering its secretory component",
+        "Causes rhabdomyolysis with increased creatinine release",
+        "Increases non-renal (GI) creatinine elimination"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Cimetidine does not increase muscle creatinine production.",
+        "Incorrect. Cimetidine does not impair glomerular filtration of creatinine.",
+        "Correct. Cimetidine (and trimethoprim) competes with creatinine for the same tubular transport systems, reducing secretion and raising serum creatinine independent of true GFR.",
+        "Incorrect. Cimetidine does not cause rhabdomyolysis.",
+        "Incorrect. Cimetidine does not enhance GI elimination of creatinine."
+      ]
+    },
+    {
+      "id": 17,
+      "stem": "A 28-year-old man is found unconscious after several hours pinned under a heavy object. Labs show markedly elevated serum creatinine and CK. His creatinine elevation is best explained by:",
+      "choices": [
+        "Reduced tubular secretion of creatinine",
+        "Massive muscle breakdown releasing creatine and increasing creatinine production",
+        "Hyperalbuminemia decreasing GFR",
+        "Increased glomerular Kf",
+        "Decreased non-renal creatinine elimination"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Reduced secretion would raise creatinine modestly, but the brick highlights rhabdomyolysis as a state of increased production.",
+        "Correct. In rhabdomyolysis, increased muscle breakdown raises creatinine production and can elevate serum creatinine independent of true GFR changes.",
+        "Incorrect. Hyperalbuminemia is not the mechanism described in this scenario.",
+        "Incorrect. Increased Kf would raise GFR and tend to lower serum creatinine.",
+        "Incorrect. Decreased non-renal elimination is more relevant in advanced kidney disease, not in acute rhabdomyolysis."
+      ]
+    },
+    {
+      "id": 18,
+      "stem": "A frail 82-year-old woman with severe muscle wasting has a serum creatinine of 0.6 mg/dL. Her clinician is concerned that creatinine-based estimates overstate her true kidney function. The most likely reason is that:",
+      "choices": [
+        "Tubular secretion is markedly increased in cachexia",
+        "Reduced muscle mass lowers creatinine production, yielding a falsely low serum creatinine",
+        "Albuminuria spuriously raises serum creatinine assays",
+        "Non-renal creatinine elimination is suppressed in older adults",
+        "Glomerular Kf is increased by sarcopenia"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Cachexia does not specifically increase tubular secretion of creatinine.",
+        "Correct. Creatinine production depends on muscle mass; in muscle wasting, less creatinine is produced, lowering serum creatinine and overestimating true GFR.",
+        "Incorrect. Albuminuria does not falsely elevate creatinine assays in this scenario.",
+        "Incorrect. Non-renal creatinine elimination becomes more (not less) significant in advanced kidney disease.",
+        "Incorrect. Sarcopenia does not raise glomerular Kf."
+      ]
+    },
+    {
+      "id": 19,
+      "stem": "A 35-year-old prospective living kidney donor must have her GFR determined with high accuracy before donation. Which approach is most appropriate?",
+      "choices": [
+        "Single random serum creatinine",
+        "Estimated GFR from creatinine alone",
+        "Direct measurement using an exogenous marker such as iohexol or iothalamate",
+        "Trend in BUN over time",
+        "Spot urine albumin-to-creatinine ratio"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. A single random creatinine is insufficient when high accuracy is required.",
+        "Incorrect. Creatinine-based eGFR is insufficient in scenarios such as kidney donor evaluation.",
+        "Correct. When high accuracy is required (e.g., kidney donor evaluation, narrow-window drug dosing), direct GFR measurement using exogenous markers like iohexol, iothalamate, DTPA, or EDTA is preferred.",
+        "Incorrect. BUN trend does not provide an accurate measured GFR.",
+        "Incorrect. Albumin-to-creatinine ratio assesses albuminuria, not GFR."
+      ]
+    },
+    {
+      "id": 20,
+      "stem": "A 6-year-old boy with cancer is starting a chemotherapeutic agent with a narrow therapeutic window and renal clearance. Why might creatinine-based estimated GFR be inadequate, and what marker offers improved accuracy that is less influenced by muscle mass?",
+      "choices": [
+        "Albumin",
+        "Hemoglobin A1c",
+        "Cystatin C",
+        "Beta-hCG",
+        "Sodium"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Albumin is a large plasma protein that is not used as a filtration marker.",
+        "Incorrect. Hemoglobin A1c reflects glycemic control, not GFR.",
+        "Correct. Cystatin C is a 13 kDa protein produced at a constant rate by all nucleated cells, less influenced by muscle mass than creatinine, and improves GFR estimation in such settings.",
+        "Incorrect. Beta-hCG is a pregnancy marker, not a filtration marker.",
+        "Incorrect. Serum sodium reflects volume/osmolality status, not GFR."
+      ]
+    },
+    {
+      "id": 21,
+      "stem": "A 50-year-old woman is admitted with septic shock and develops acute kidney injury. Her serum creatinine over the first 12 hours is nearly unchanged despite hourly urine output declining sharply. Which limitation of creatinine best explains this finding?",
+      "choices": [
+        "Tubular secretion is suppressed in sepsis",
+        "Creatinine kinetics lag behind acute GFR changes by 24-48 hours",
+        "Creatinine is metabolized rapidly during inflammation",
+        "Sepsis increases muscle mass acutely",
+        "Cystatin C interferes with creatinine assays"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Although secretion can vary, the brick emphasizes the kinetic lag, not loss of secretion in sepsis.",
+        "Correct. In acute kidney injury, serum creatinine rises slowly and lags behind actual GFR changes by 24-48 hours, limiting its real-time utility.",
+        "Incorrect. Creatinine is not metabolized; the limitation is delayed kinetics.",
+        "Incorrect. Sepsis does not acutely increase muscle mass.",
+        "Incorrect. The brick does not describe cystatin C interference with creatinine assays."
+      ]
+    },
+    {
+      "id": 22,
+      "stem": "A 40-year-old healthy woman has a baseline GFR of 140 mL/min and serum creatinine of 1.0 mg/dL. According to the brick's predictable relationship, when her GFR falls to 70 mL/min, her plasma creatinine is expected to be approximately:",
+      "choices": [
+        "0.5 mg/dL",
+        "1.0 mg/dL",
+        "2.0 mg/dL",
+        "4.0 mg/dL",
+        "8.0 mg/dL"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Creatinine doubles for each halving of GFR; it does not fall.",
+        "Incorrect. Halving GFR changes the steady-state creatinine; it does not remain at 1.0 mg/dL.",
+        "Correct. Per the brick, plasma creatinine doubles for each halving of GFR; halving from 140 to 70 mL/min raises creatinine from 1 to 2 mg/dL.",
+        "Incorrect. 4 mg/dL would correspond to GFR around 35 mL/min, a further halving.",
+        "Incorrect. 8 mg/dL would correspond to GFR around 17-18 mL/min, far below the stated 70."
+      ]
+    },
+    {
+      "id": 23,
+      "stem": "A 45-year-old woman has an eGFR of 80 mL/min/1.73m squared but persistent albuminuria on multiple occasions. According to the KDIGO framework described in the brick, this finding is best characterized as:",
+      "choices": [
+        "Normal kidney function with no diagnosis",
+        "End-stage renal disease",
+        "Chronic kidney disease, because GFR >60 with evidence of kidney damage qualifies as CKD",
+        "Acute kidney injury",
+        "Stage G5 CKD requiring dialysis"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. With evidence of kidney damage (e.g., albuminuria), GFR >60 is classified as CKD per the brick.",
+        "Incorrect. End-stage renal disease corresponds to GFR <15 mL/min/1.73m squared.",
+        "Correct. Per the brick, GFR reductions in the >60 range represent CKD only when accompanied by other evidence of kidney damage such as albuminuria, structural abnormalities, or genetic disorders.",
+        "Incorrect. Persistent albuminuria suggests chronic, not acute, injury in this context.",
+        "Incorrect. Stage G5 corresponds to GFR <15, not 80."
+      ]
+    },
+    {
+      "id": 24,
+      "stem": "A 70-year-old man with diabetes has a GFR of 25 mL/min/1.73m squared and develops acute weakness after eating a banana with his ACE inhibitor. ECG shows peaked T waves. Which homeostatic disturbance from advancing CKD best explains this presentation?",
+      "choices": [
+        "Hypokalemia from increased tubular secretion",
+        "Hyperkalemia exacerbated by reduced nephron mass, RAAS inhibition, and metabolic acidosis",
+        "Metabolic alkalosis from sodium retention",
+        "Hypocalcemia from increased renal clearance",
+        "Respiratory acidosis from decreased ammonium excretion"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Advanced CKD predisposes to hyperkalemia, not hypokalemia.",
+        "Correct. As GFR declines, potassium handling fails; RAAS inhibitors, high-potassium foods, and acidosis (causing transcellular K+ shift) precipitate hyperkalemia, manifesting as peaked T waves.",
+        "Incorrect. Advanced CKD typically produces metabolic acidosis, not alkalosis.",
+        "Incorrect. The brick attributes the hyperkalemic presentation to potassium imbalance, not hypocalcemia.",
+        "Incorrect. Reduced ammonium excretion produces metabolic, not respiratory, acidosis."
+      ]
+    },
+    {
+      "id": 25,
+      "stem": "A 68-year-old man with CKD has a GFR of 30 mL/min/1.73m squared and serum bicarbonate of 18 mEq/L with a normal anion gap. Which mechanism and treatment best fit the brick's description?",
+      "choices": [
+        "Increased ammonium excretion; treat with potassium binders",
+        "Failure of ammonium excretion compensation when GFR <40, leading to net acid retention; treat with oral sodium bicarbonate or citrate",
+        "Excess bicarbonate loss in urine due to increased Kf; treat with diuretics",
+        "Respiratory alkalosis from hyperventilation; treat with rebreathing",
+        "Volume overload alone; treat with sodium restriction only"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. The problem in advanced CKD is failure of ammonium excretion compensation, not excess.",
+        "Correct. Once GFR falls below ~40 mL/min/1.73m squared, compensation via increased ammonium excretion fails, producing net acid retention and metabolic acidosis (initially normal anion gap), treated with oral alkali (sodium bicarbonate or citrate) when serum bicarbonate falls below 22 mEq/L.",
+        "Incorrect. Increased Kf and bicarbonate wasting are not described as the mechanism.",
+        "Incorrect. The disturbance is metabolic acidosis, not respiratory alkalosis.",
+        "Incorrect. Volume overload is a separate consequence of advanced CKD; the acidosis is treated with oral alkali per the brick."
+      ]
+    }
+  ]
+}

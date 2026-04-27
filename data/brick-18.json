@@ -1,0 +1,481 @@
+{
+  "id": 18,
+  "title": "Hyponatremia",
+  "questions": [
+    {
+      "id": 1,
+      "stem": "An 84-year-old nursing home resident develops 2 days of vomiting and diarrhea during a stomach bug outbreak. She is increasingly confused and lightheaded on standing. Serum sodium is 123 mEq/L. Which fundamental abnormality best explains the patient's low sodium?",
+      "choices": [
+        "Disordered water metabolism",
+        "Excess dietary salt loss",
+        "Loss of renal sodium reabsorption",
+        "Plasma protein dilution",
+        "Reduced intestinal sodium absorption"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Hyponatremia is fundamentally a water problem, not a salt problem; an increase in total body water dilutes existing serum sodium.",
+        "Incorrect. Although she has GI losses, hyponatremia results from disordered water handling, not from net dietary sodium loss alone.",
+        "Incorrect. The brick frames hyponatremia as a water problem rather than an isolated tubular sodium reabsorption defect.",
+        "Incorrect. Plasma protein dilution is not the mechanism of true hyponatremia; pseudohyponatremia involves the opposite (excess lipids/proteins).",
+        "Incorrect. The pathophysiology is not impaired intestinal sodium absorption."
+      ]
+    },
+    {
+      "id": 2,
+      "stem": "A 70-year-old hospitalized woman has a serum sodium of 118 mEq/L that developed over 12 hours after vigorous IV fluid administration. She becomes increasingly confused and has a brief seizure. Which mechanism most directly explains her neurologic deterioration?",
+      "choices": [
+        "Cerebral hemorrhage from hypertension",
+        "Cerebral edema from osmotic water shift into brain cells",
+        "Demyelination of the pons",
+        "Hypoxic injury from hypoperfusion",
+        "Sodium accumulation in neurons"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Hypertensive hemorrhage is not the proposed mechanism of acute hyponatremic encephalopathy.",
+        "Correct. A lower serum sodium reduces serum osmolality, causing water to shift from extracellular fluid into cells; in the confined skull, this produces cerebral edema and severe neurologic symptoms.",
+        "Incorrect. Pontine demyelination (osmotic demyelination) is associated with overly rapid CORRECTION of hyponatremia, not the hyponatremia itself.",
+        "Incorrect. The brick attributes severe symptoms to osmotic shifts and cerebral edema, not hypoperfusion.",
+        "Incorrect. Sodium accumulation in neurons is not the described mechanism."
+      ]
+    },
+    {
+      "id": 3,
+      "stem": "A 60-year-old woman with chronic uncontrolled diabetes has a serum sodium of 128 mEq/L and a serum glucose of 600 mg/dL. Measured serum osmolality is 310 mOsm/kg. Which type of hyponatremia best classifies her presentation?",
+      "choices": [
+        "Euvolemic hypotonic hyponatremia",
+        "Hypertonic hyponatremia",
+        "Hypervolemic hypotonic hyponatremia",
+        "Hypovolemic hypotonic hyponatremia",
+        "Isotonic (pseudo) hyponatremia"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Euvolemic hypotonic hyponatremia involves low serum osmolality, but this patient's osmolality is elevated.",
+        "Correct. In severe hyperglycemia, glucose pulls water out of cells, diluting serum sodium while raising osmolality; this is hypertonic hyponatremia.",
+        "Incorrect. Hypervolemic hypotonic hyponatremia presents with edema and low osmolality; her osmolality is high.",
+        "Incorrect. Hypovolemic hypotonic hyponatremia would also feature low serum osmolality.",
+        "Incorrect. Pseudohyponatremia is isotonic (normal osmolality) and is caused by hyperlipidemia or hyperproteinemia, not hyperglycemia."
+      ]
+    },
+    {
+      "id": 4,
+      "stem": "A 65-year-old man has a serum sodium of 130 mEq/L. His serum osmolality is 285 mOsm/kg, triglycerides are markedly elevated, and he is asymptomatic. Which next step is most appropriate?",
+      "choices": [
+        "Administer 3% hypertonic saline",
+        "Begin a fluid restriction",
+        "No specific sodium treatment is required",
+        "Start a loop diuretic",
+        "Start tolvaptan"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Hypertonic saline is reserved for symptomatic hypotonic hyponatremia.",
+        "Incorrect. Fluid restriction is used for hypotonic euvolemic hyponatremia (e.g., SIADH), not pseudohyponatremia.",
+        "Correct. Pseudohyponatremia is a lab artifact from hyperlipidemia (or hyperproteinemia); plasma water sodium is normal and the patient requires no treatment for the sodium itself.",
+        "Incorrect. Loop diuretics are used for hypervolemic hypotonic hyponatremia, not pseudohyponatremia.",
+        "Incorrect. Tolvaptan is an ADH antagonist used for SIADH or hypervolemic hyponatremia, not for pseudohyponatremia."
+      ]
+    },
+    {
+      "id": 5,
+      "stem": "A 78-year-old woman with new-onset diarrhea has orthostatic hypotension, dry mucous membranes, and a serum sodium of 126 mEq/L with low serum osmolality. Urine sodium is 12 mEq/L. Which mechanism best explains her hyponatremia?",
+      "choices": [
+        "Decreased ADH secretion",
+        "Loss of ADH regulation only",
+        "Low effective circulating volume triggering ADH",
+        "Renal tubular insensitivity to ADH",
+        "Suppression of RAAS"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. ADH is increased, not decreased, in hypovolemic hyponatremia.",
+        "Incorrect. Pure loss of ADH regulation describes euvolemic (e.g., SIADH) hyponatremia, but this patient is volume-depleted.",
+        "Correct. GI losses and other causes of low effective circulating volume trigger ADH release; patients keep drinking water but have reduced solute intake, producing hypovolemic hypotonic hyponatremia.",
+        "Incorrect. Renal insensitivity to ADH causes hypernatremia (nephrogenic diabetes insipidus), not hyponatremia.",
+        "Incorrect. Hypovolemia activates, not suppresses, RAAS."
+      ]
+    },
+    {
+      "id": 6,
+      "stem": "A 72-year-old man with cirrhosis has ascites, peripheral edema, and a serum sodium of 124 mEq/L. Urine sodium is 10 mEq/L. Which best describes the underlying physiology?",
+      "choices": [
+        "Excess sodium intake with normal water handling",
+        "High ADH and high RAAS with low effective circulating volume",
+        "Low ADH and low RAAS in an overhydrated state",
+        "Normal ADH with renal salt wasting",
+        "Suppressed ADH and aldosterone"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Hypervolemic hyponatremia is not driven by sodium intake.",
+        "Correct. In cirrhosis, splanchnic pooling underfills the systemic circulation; low effective circulating volume activates RAAS and ADH, with water reabsorption exceeding sodium reabsorption to produce hyponatremia.",
+        "Incorrect. Both ADH and RAAS are inappropriately elevated, not suppressed.",
+        "Incorrect. The defect is dysregulated ADH/RAAS, not isolated renal salt wasting.",
+        "Incorrect. Both hormones are increased in hypervolemic hyponatremia."
+      ]
+    },
+    {
+      "id": 7,
+      "stem": "A 68-year-old man with a 30-pack-year smoking history is incidentally found to have a serum sodium of 121 mEq/L. He is euvolemic on exam. Serum osmolality is low; urine osmolality is 480 mOsm/kg with urine sodium 60 mEq/L. Which underlying lesion is most likely?",
+      "choices": [
+        "Adenocarcinoma of the colon",
+        "Renal cell carcinoma",
+        "Small cell carcinoma of the lung",
+        "Squamous cell carcinoma of the skin",
+        "Thyroid medullary carcinoma"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Colon adenocarcinoma is not the classic neoplasm associated with ectopic ADH secretion.",
+        "Incorrect. RCC is not the prototypical SIADH-causing tumor in this brick.",
+        "Correct. Small cell lung cancer is the most important neoplastic cause of SIADH due to ectopic ADH production.",
+        "Incorrect. Squamous skin cancer is not the prototypical cause of SIADH.",
+        "Incorrect. Medullary thyroid cancer is associated with calcitonin, not ADH."
+      ]
+    },
+    {
+      "id": 8,
+      "stem": "A 45-year-old woman started on sertraline for depression presents one month later with confusion. Serum sodium is 122 mEq/L, serum osmolality is low, and she appears euvolemic. Urine osmolality is 520 mOsm/kg, urine sodium 50 mEq/L. Which mechanism most likely caused her hyponatremia?",
+      "choices": [
+        "Diuretic-induced volume depletion",
+        "Drug-induced increase in pituitary ADH release",
+        "Ectopic ADH secretion from a tumor",
+        "Inhibition of ADH receptors",
+        "Stimulation of aldosterone secretion"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. SSRIs are not diuretics; she is euvolemic.",
+        "Correct. SSRIs are listed as drugs that cause SIADH by increasing posterior pituitary ADH secretion.",
+        "Incorrect. Ectopic ADH secretion is a feature of tumors such as small cell lung cancer, not SSRI use.",
+        "Incorrect. SSRIs do not block ADH receptors; ADH receptor antagonists (e.g., tolvaptan) treat SIADH.",
+        "Incorrect. SSRI-induced hyponatremia is not mediated through aldosterone."
+      ]
+    },
+    {
+      "id": 9,
+      "stem": "A 25-year-old man develops confusion and a serum sodium of 116 mEq/L several hours after taking MDMA at a music festival. Exam shows no edema and no orthostatic changes. Which mechanism best accounts for his hyponatremia?",
+      "choices": [
+        "CNS injury directly damaging the kidney",
+        "Drug-induced increase in ADH causing SIADH",
+        "Ecstasy-induced osmotic diuresis",
+        "Hypoaldosteronism from drug effect",
+        "Profuse extrarenal salt loss from sweating"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. The mechanism is centrally mediated ADH excess, not direct renal injury.",
+        "Correct. MDMA (Ecstasy) is listed as a drug that triggers SIADH, leading to euvolemic hypotonic hyponatremia.",
+        "Incorrect. Osmotic diuresis tends to cause water loss and hypernatremia, not hyponatremia.",
+        "Incorrect. Hypoaldosteronism is not the brick's mechanism for MDMA-induced hyponatremia.",
+        "Incorrect. While he may sweat, the brick attributes MDMA-induced hyponatremia to SIADH, not extrarenal salt loss alone."
+      ]
+    },
+    {
+      "id": 10,
+      "stem": "A 32-year-old woman with schizophrenia drinks more than 10 L of water per day and presents with a serum sodium of 121 mEq/L. She appears euvolemic. Which combination of urine findings most strongly supports the diagnosis?",
+      "choices": [
+        "Urine osmolality <100 mOsm/kg and urine sodium <20 mEq/L",
+        "Urine osmolality >600 mOsm/kg and urine sodium <10 mEq/L",
+        "Urine osmolality >600 mOsm/kg and urine sodium >40 mEq/L",
+        "Urine osmolality 300 mOsm/kg and urine sodium 30 mEq/L",
+        "Urine osmolality 500 mOsm/kg and urine sodium <10 mEq/L"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. In primary (psychogenic) polydipsia, water intake overwhelms renal excretion; the kidneys appropriately suppress ADH, producing very dilute urine (<100 mOsm/kg) and low urine sodium (<20 mEq/L).",
+        "Incorrect. Concentrated urine with low urine sodium suggests hypovolemic hyponatremia, not psychogenic polydipsia.",
+        "Incorrect. High urine osmolality with high urine sodium suggests SIADH.",
+        "Incorrect. These intermediate values do not match the dilute, low-sodium urine of psychogenic polydipsia.",
+        "Incorrect. Concentrated urine is inconsistent with appropriate ADH suppression in primary polydipsia."
+      ]
+    },
+    {
+      "id": 11,
+      "stem": "A 64-year-old hypertensive woman taking hydrochlorothiazide is admitted with a serum sodium of 119 mEq/L. She appears euvolemic. Which paired mechanism best explains thiazide-induced hyponatremia?",
+      "choices": [
+        "Aldosterone excess and impaired free water clearance",
+        "Direct stimulation of ADH receptors by the drug",
+        "Increased GFR and increased sodium excretion only",
+        "Loss of medullary concentrating gradient like loop diuretics",
+        "Volume depletion stimulating ADH plus blockade of distal sodium transport"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. Aldosterone excess does not explain thiazide-induced hyponatremia.",
+        "Incorrect. Thiazides do not directly agonize ADH receptors.",
+        "Incorrect. Increased GFR is not the mechanism; loss of dilute urine production is.",
+        "Incorrect. Loop diuretics deplete the medullary gradient and therefore do NOT typically cause hyponatremia; thiazides act on the distal convoluted tubule.",
+        "Correct. Thiazides cause volume depletion (stimulating thirst and ADH) plus block sodium reabsorption in the diluting segment, impairing the kidney's ability to excrete dilute urine."
+      ]
+    },
+    {
+      "id": 12,
+      "stem": "A 55-year-old woman with treated hypertension on furosemide develops worsening congestive heart failure. Her serum sodium falls to 128 mEq/L. Compared with thiazides, why are loop diuretics LESS likely to be the primary cause of hyponatremia?",
+      "choices": [
+        "Loop diuretics deplete the medullary concentrating gradient needed for water reabsorption",
+        "Loop diuretics lower ADH directly",
+        "Loop diuretics promote sodium retention",
+        "Loop diuretics work in the proximal convoluted tubule",
+        "Loops cause more aldosterone-mediated sodium reabsorption"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Loop diuretics blunt the inner medullary concentration gradient, which is required to reabsorb water from the collecting duct; this impairs the kidney's ability to retain water and protects against hyponatremia.",
+        "Incorrect. Loop diuretics do not directly lower ADH.",
+        "Incorrect. Loop diuretics promote sodium loss, not retention.",
+        "Incorrect. Loops act primarily on the thick ascending limb of Henle, not the proximal convoluted tubule.",
+        "Incorrect. The brick attributes the protective effect to medullary gradient depletion, not aldosterone."
+      ]
+    },
+    {
+      "id": 13,
+      "stem": "A 70-year-old man on no medications has a serum sodium of 124 mEq/L, low serum osmolality, urine osmolality 480 mOsm/kg, and urine sodium 55 mEq/L. He is euvolemic. Which serum lab pattern is most consistent with SIADH?",
+      "choices": [
+        "Elevated BUN and elevated uric acid",
+        "Elevated BUN and low uric acid",
+        "High glucose and low BUN",
+        "Low BUN and high serum lipids",
+        "Low BUN and low/low-normal uric acid"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. Elevations of BUN are not characteristic of SIADH and would suggest dehydration.",
+        "Incorrect. SIADH is not associated with elevated BUN; both BUN and uric acid tend to be low.",
+        "Incorrect. High glucose suggests hypertonic (hyperglycemic) hyponatremia, not SIADH.",
+        "Incorrect. High lipids would suggest pseudohyponatremia.",
+        "Correct. In SIADH, water retention dilutes serum constituents, producing low or low-normal BUN and uric acid."
+      ]
+    },
+    {
+      "id": 14,
+      "stem": "A 50-year-old man has a serum glucose of 600 mg/dL and a measured serum sodium of 132 mEq/L. Using the brick's correction factor (1.6 mEq/L per 100 mg/dL above normal), what is his approximately corrected serum sodium?",
+      "choices": [
+        "120 mEq/L",
+        "128 mEq/L",
+        "136 mEq/L",
+        "140 mEq/L",
+        "144 mEq/L"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Correction adds (not subtracts) sodium; the result should be higher than the measured value.",
+        "Incorrect. This is below the measured value; the corrected sodium must be higher.",
+        "Incorrect. This is too low; (600-100)/100 x 1.6 = 8 mEq/L, added to 132, equals 140.",
+        "Correct. (600-100)/100 x 1.6 = 8 mEq/L, so corrected sodium = 132 + 8 = 140 mEq/L (essentially normal despite the measured value of 132).",
+        "Incorrect. This is too high based on the brick's formula."
+      ]
+    },
+    {
+      "id": 15,
+      "stem": "Which physical exam combination best fits HYPOVOLEMIC hypotonic hyponatremia?",
+      "choices": [
+        "Ascites and jugular venous distention",
+        "Edema, S3, and pulmonary crackles",
+        "Normal volume exam with history of malignancy",
+        "Normal volume exam with thiazide use",
+        "Orthostatic hypotension and poor skin turgor"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. Ascites and JVD point to hypervolemic hyponatremia from cirrhosis or CHF.",
+        "Incorrect. These findings characterize hypervolemic hyponatremia from heart failure.",
+        "Incorrect. Malignancy with apparent normal volume suggests euvolemic SIADH.",
+        "Incorrect. Thiazide-related hyponatremia is classically euvolemic.",
+        "Correct. Hypovolemic hyponatremia presents with orthostatic hypotension and poor skin turgor from volume depletion (e.g., vomiting, diarrhea, diuretics)."
+      ]
+    },
+    {
+      "id": 16,
+      "stem": "A 22-year-old marathon runner collapses after a cool-day race. He drank only plain water and ate no food during the race. Serum sodium is 120 mEq/L. What mechanism best explains his hyponatremia?",
+      "choices": [
+        "Aldosterone deficiency",
+        "Excess water intake without solute, plus exercise-induced ADH",
+        "Insensible water loss exceeding intake",
+        "Severe sweat sodium loss",
+        "Underlying SIADH from a tumor"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Aldosterone deficiency is not the brick's described mechanism for marathon hyponatremia.",
+        "Correct. The brick states marathon runners drinking pure water without solutes can develop severe hyponatremia, particularly on cool days, partly because of high ADH levels.",
+        "Incorrect. On cool days insensible losses are reduced; the issue is excess intake plus high ADH.",
+        "Incorrect. Massive sweat losses normally produce hypernatremia or volume depletion, not hyponatremia in this context.",
+        "Incorrect. Exercise-induced ADH is itself a cause of SIADH-like state but is not from a tumor."
+      ]
+    },
+    {
+      "id": 17,
+      "stem": "A 60-year-old woman is found to have hypotonic hyponatremia. The clinician follows a stepwise diagnostic approach. After confirming low serum osmolality, what is the next most useful clinical step?",
+      "choices": [
+        "Administer hypertonic saline empirically",
+        "Assess extracellular volume status",
+        "Check serum lipids and proteins",
+        "Measure cortisol and TSH",
+        "Order CT of the chest"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Empirical hypertonic saline without further evaluation is inappropriate.",
+        "Correct. After establishing hypotonic hyponatremia, the next step is to assess volume status (hypovolemic, euvolemic, hypervolemic), then use urine studies.",
+        "Incorrect. Lipids and proteins are checked in isotonic (pseudo) hyponatremia, not after low osmolality is confirmed.",
+        "Incorrect. Cortisol/TSH are useful in select euvolemic patients later in the workup, not as the immediate next step.",
+        "Incorrect. Imaging may be useful later (e.g., to find a small cell lung cancer) but is not the next step."
+      ]
+    },
+    {
+      "id": 18,
+      "stem": "A 75-year-old man with euvolemic hypotonic hyponatremia (Na 124 mEq/L) is being evaluated for SIADH versus psychogenic polydipsia. Which urine finding most clearly distinguishes psychogenic polydipsia from SIADH?",
+      "choices": [
+        "Urine osmolality <100 mOsm/kg",
+        "Urine osmolality >300 mOsm/kg",
+        "Urine sodium >40 mEq/L",
+        "Urine sodium 30 mEq/L",
+        "Urine specific gravity 1.020"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. In psychogenic polydipsia ADH is appropriately suppressed, producing very dilute urine (<100 mOsm/kg) with urine sodium <20 mEq/L; SIADH shows higher urine osmolality and urine sodium >40 mEq/L.",
+        "Incorrect. Urine osmolality >300 favors SIADH (or other causes of inappropriate ADH activity).",
+        "Incorrect. Urine sodium >40 mEq/L is the SIADH pattern.",
+        "Incorrect. Urine sodium of 30 mEq/L is intermediate and does not clearly distinguish polydipsia.",
+        "Incorrect. A specific gravity of 1.020 reflects concentrated urine, not the dilute polydipsia pattern."
+      ]
+    },
+    {
+      "id": 19,
+      "stem": "A 70-year-old man with severe heart failure has a serum sodium of 126 mEq/L. He has bilateral pitting edema, S3, and JVD. He continues taking lisinopril. What is the most appropriate first-line treatment of his hyponatremia?",
+      "choices": [
+        "Administer 3% hypertonic saline",
+        "Administer demeclocycline",
+        "Administer normal saline rapidly",
+        "Initiate water restriction with concurrent loop diuretic",
+        "Stop lisinopril"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Hypertonic saline is reserved for symptomatic acute hyponatremia, not chronic hypervolemic CHF-related hyponatremia.",
+        "Incorrect. Demeclocycline is not the recommended initial therapy for hypervolemic hyponatremia in CHF.",
+        "Incorrect. Giving normal saline to a hypervolemic CHF patient would worsen volume overload.",
+        "Correct. The brick recommends loop diuretics to diurese patients with hypervolemic hyponatremia from CHF; this lowers ADH and resolves hyponatremia along with optimizing heart failure.",
+        "Incorrect. Stopping the ACE inhibitor is not the brick's stated initial step and could worsen heart failure."
+      ]
+    },
+    {
+      "id": 20,
+      "stem": "An 84-year-old woman with hypovolemic hyponatremia (Na 123 mEq/L) and ongoing GI losses is admitted. She has dry mucous membranes and orthostatic hypotension. Which IV fluid is most appropriate as first-line therapy?",
+      "choices": [
+        "0.45% saline",
+        "0.9% normal saline",
+        "3% hypertonic saline",
+        "5% dextrose in water",
+        "Tap water enterally"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Half-normal saline is hypotonic and inappropriate for active volume depletion in this setting.",
+        "Correct. Hypovolemic hyponatremia is treated with normal (isotonic) saline to correct volume depletion; this also turns off the ADH stimulus.",
+        "Incorrect. 3% hypertonic saline is reserved for symptomatic, acute hyponatremia, not asymptomatic chronic GI-loss cases.",
+        "Incorrect. D5W lowers serum sodium and is used to correct hypernatremia.",
+        "Incorrect. Free water enterally would worsen hyponatremia."
+      ]
+    },
+    {
+      "id": 21,
+      "stem": "A 28-year-old man presents with confusion and a serum sodium of 116 mEq/L 6 hours after taking MDMA. He is euvolemic. Which treatment is most appropriate in addition to free water restriction?",
+      "choices": [
+        "Chlorthalidone",
+        "Demeclocycline",
+        "IV hypertonic saline (3%)",
+        "IV isotonic saline",
+        "No additional therapy"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Thiazide diuretics can themselves cause hyponatremia and are not used acutely.",
+        "Incorrect. Demeclocycline is for chronic management of SIADH, not acute symptomatic hyponatremia.",
+        "Correct. Acute symptomatic euvolemic hyponatremia (here MDMA-induced SIADH with neurologic symptoms over <48 hours) is treated with 3% hypertonic saline, with carefully limited correction.",
+        "Incorrect. Isotonic saline can paradoxically worsen SIADH-related hyponatremia and is not used here.",
+        "Incorrect. Doing nothing risks progression to seizures or death given the neurologic symptoms."
+      ]
+    },
+    {
+      "id": 22,
+      "stem": "A 35-year-old woman with chronic SIADH (Na 128 mEq/L) is treated with IV hypertonic saline overnight. Within 18 hours, her serum sodium rises to 144 mEq/L. Several days later she develops dysarthria, quadriparesis, and dysphagia. Which complication has most likely occurred?",
+      "choices": [
+        "Cerebral edema",
+        "Hepatic encephalopathy",
+        "Hypoxic encephalopathy",
+        "Osmotic demyelination syndrome",
+        "Stroke from hypertensive crisis"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Cerebral edema occurs with acute hyponatremia or rapid hypernatremia correction, not overcorrection of hyponatremia.",
+        "Incorrect. There is no provided history of liver disease or precipitating event for hepatic encephalopathy.",
+        "Incorrect. Hypoxic injury is not the mechanism described; her sodium rose too quickly.",
+        "Correct. Sodium rising more than 4-6 mEq/L per 24 hours risks osmotic demyelination syndrome, characterized by central pontine demyelination with neurologic deficits.",
+        "Incorrect. The clinical picture is osmotic demyelination, not stroke."
+      ]
+    },
+    {
+      "id": 23,
+      "stem": "A 50-year-old woman with chronic SIADH (Na 130 mEq/L) is being managed as an outpatient. Which strategies are appropriate per the brick?",
+      "choices": [
+        "Aggressive normal saline boluses",
+        "Hypotonic IV fluids and free water encouragement",
+        "Loop diuretic with saline replacement, ADH antagonist, or increased solute intake",
+        "Mannitol diuresis",
+        "Spironolactone monotherapy"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Saline can paradoxically worsen SIADH and is not the chronic management strategy.",
+        "Incorrect. Hypotonic fluids and free water worsen hyponatremia in SIADH.",
+        "Correct. Chronic SIADH is managed by limiting water intake, avoiding hypotonic fluids, reducing renal water reabsorption (loop diuretic with saline, ADH antagonists like tolvaptan/conivaptan), or increasing solute intake (urea, salt tablets, protein).",
+        "Incorrect. Mannitol is not part of standard SIADH management.",
+        "Incorrect. Spironolactone is not listed as a recommended chronic therapy for SIADH."
+      ]
+    },
+    {
+      "id": 24,
+      "stem": "A 60-year-old woman is found to have a serum sodium of 130 mEq/L during a routine clinic visit. She has a history of multiple myeloma. Serum osmolality is 285 mOsm/kg. Which condition is most likely responsible?",
+      "choices": [
+        "Hyperglycemia-induced hypertonic hyponatremia",
+        "Hypervolemic hyponatremia",
+        "Hypovolemic hyponatremia",
+        "Pseudohyponatremia from hyperproteinemia",
+        "SIADH"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Hyperglycemia would produce a HIGH serum osmolality, not normal.",
+        "Incorrect. Hypervolemic hyponatremia produces a low (not normal) serum osmolality.",
+        "Incorrect. Hypovolemic hyponatremia is also hypotonic with low osmolality.",
+        "Correct. Multiple myeloma can cause hyperproteinemia, which expands the non-aqueous phase of plasma and produces an artificially low sodium with normal serum osmolality (isotonic pseudohyponatremia).",
+        "Incorrect. SIADH causes hypotonic (low osmolality) hyponatremia."
+      ]
+    },
+    {
+      "id": 25,
+      "stem": "A 45-year-old man with adrenal insufficiency presents with hyponatremia. Which mechanism described in this brick best explains his low sodium?",
+      "choices": [
+        "Excess aldosterone causing water retention",
+        "Loss of cortisol releasing CRH and increasing ADH",
+        "Mineralocorticoid excess",
+        "Pseudohyponatremia from elevated proteins",
+        "Renal tubular ADH resistance"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Adrenal insufficiency reduces aldosterone, not increases it.",
+        "Correct. Per the brick, low cortisol both directly stimulates pituitary ADH release and increases hypothalamic CRH, which further elevates ADH; this drives euvolemic hyponatremia in adrenal insufficiency.",
+        "Incorrect. Mineralocorticoid excess is the opposite of adrenal insufficiency.",
+        "Incorrect. The brick's mechanism is hormonal, not a lab artifact.",
+        "Incorrect. Adrenal insufficiency does not cause renal ADH resistance."
+      ]
+    }
+  ]
+}

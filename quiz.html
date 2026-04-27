@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Renal QBank &mdash; Quiz</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="quiz-header">
+    <div class="container quiz-header-row">
+      <div class="quiz-header-left">
+        <a href="index.html" class="back-link" aria-label="Back to bricks">&larr; Bricks</a>
+        <div>
+          <div id="brick-title" class="quiz-brick-title">Loading&hellip;</div>
+          <div id="question-counter" class="quiz-counter"></div>
+        </div>
+      </div>
+      <div id="score-badge" class="score-badge" aria-live="polite">
+        <span class="score-label">Score</span>
+        <span id="score-fraction" class="score-fraction">0/0</span>
+        <span id="score-percent" class="score-percent">&mdash;</span>
+      </div>
+    </div>
+  </header>
+
+  <main class="container quiz-main">
+    <div id="question-area"></div>
+    <div id="palette" class="palette" aria-label="Question navigation"></div>
+    <div class="quiz-actions">
+      <button id="reset-brick" class="btn btn-ghost btn-small" type="button">Reset brick</button>
+    </div>
+  </main>
+
+  <script src="app.js"></script>
+  <script>renderQuiz();</script>
+</body>
+</html>

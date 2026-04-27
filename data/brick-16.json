@@ -1,0 +1,445 @@
+{
+  "id": 16,
+  "title": "Composition of Body Fluids and Compartments",
+  "questions": [
+    {
+      "id": 1,
+      "stem": "A 62-year-old man with persistent vomiting and diarrhea has labs showing elevated BUN. The intern asks why his measured serum osmolality is high but the patient does not appear to have shrunken cells on biopsy. Which property of urea best explains this observation?",
+      "choices": [
+        "It binds plasma proteins",
+        "It freely crosses cell membranes",
+        "It is actively transported into cells",
+        "It is filtered but not reabsorbed",
+        "It produces oncotic pressure"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Protein binding does not explain its osmotic ineffectiveness.",
+        "Correct. Urea is an ineffective osmole because it freely crosses cell membranes; it raises measured osmolality but not tonicity, so cells do not shrink.",
+        "Incorrect. Active uptake is not the basis for its lack of tonicity effect.",
+        "Incorrect. Renal handling does not determine cellular tonicity effect.",
+        "Incorrect. Oncotic pressure is the role of plasma proteins, not urea."
+      ]
+    },
+    {
+      "id": 2,
+      "stem": "A 45-year-old woman develops severe diarrhea with significant loss of isotonic fluid. Which fluid compartment changes are most expected?",
+      "choices": [
+        "Decreased ECF, decreased ICF",
+        "Decreased ECF, normal ICF",
+        "Increased ECF, decreased ICF",
+        "Increased ECF, normal ICF",
+        "Normal ECF, increased ICF"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Isotonic loss does not directly reduce ICF, since tonicity is unchanged.",
+        "Correct. Isotonic fluid loss reduces ECF volume only; without a tonicity change, water does not shift between compartments and ICF remains normal.",
+        "Incorrect. ECF decreases, not increases, with isotonic fluid loss.",
+        "Incorrect. ECF decreases, not increases, with diarrhea.",
+        "Incorrect. ICF is not increased after isotonic dehydration."
+      ]
+    },
+    {
+      "id": 3,
+      "stem": "Which solute will NOT cause water movement across cell membranes?",
+      "choices": ["Albumin", "BUN (urea)", "Glucose", "Mannitol", "Sodium"],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Albumin contributes to oncotic pressure across vascular membranes.",
+        "Correct. BUN (urea) freely crosses cell membranes and is an ineffective osmole, so it does not cause sustained water shifts.",
+        "Incorrect. Glucose is an effective osmole and shifts water in hyperglycemia.",
+        "Incorrect. Mannitol is an effective osmole used therapeutically.",
+        "Incorrect. Sodium is the principal effective osmole of the ECF."
+      ]
+    },
+    {
+      "id": 4,
+      "stem": "A 78-year-old woman with chronic hyponatremia (Na+ 118 mEq/L) develops seizures in the ED. Which initial fluid therapy is most appropriate?",
+      "choices": ["0.45% NaCl", "0.9% NaCl", "3% hypertonic saline", "D5W", "Lactated Ringer's"],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Hypotonic saline would worsen hyponatremia.",
+        "Incorrect. Isotonic saline corrects sodium too slowly and inadequately for active seizures.",
+        "Correct. 3% hypertonic saline is used to rapidly raise serum sodium and reduce cerebral edema in symptomatic severe hyponatremia.",
+        "Incorrect. D5W after metabolism becomes free water and worsens hyponatremia.",
+        "Incorrect. Lactated Ringer's is isotonic and not preferred for symptomatic seizures from hyponatremia."
+      ]
+    },
+    {
+      "id": 5,
+      "stem": "In a Darrow-Yannet diagram, the height of each compartment box represents:",
+      "choices": ["Compartment volume", "Membrane permeability", "Oncotic pressure", "Osmolality level", "Total solute amount"],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Width represents volume, not height.",
+        "Incorrect. Permeability is not depicted.",
+        "Incorrect. Oncotic pressure is not the axis.",
+        "Correct. In Darrow-Yannet diagrams, height represents osmolality and width represents volume.",
+        "Incorrect. Total solute amount is depicted by area, not height."
+      ]
+    },
+    {
+      "id": 6,
+      "stem": "Which best defines tonicity in clinical fluid balance?",
+      "choices": [
+        "Concentration of solutes that cannot freely cross membranes",
+        "Includes urea and other freely diffusible solutes",
+        "Plasma protein oncotic pressure",
+        "Sum of all solutes regardless of membrane behavior",
+        "Total solute concentration measure"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Tonicity is the concentration of effective osmoles — solutes that cannot freely cross cell membranes.",
+        "Incorrect. Tonicity excludes urea, which freely crosses membranes.",
+        "Incorrect. Oncotic pressure is a different concept relevant to capillary-interstitial fluid balance.",
+        "Incorrect. That describes osmolality, not tonicity.",
+        "Incorrect. Osmolality measures all particles; tonicity only includes effective osmoles."
+      ]
+    },
+    {
+      "id": 7,
+      "stem": "A patient with diabetes insipidus develops loss of pure free water. Compared with normal, the expected compartment changes are:",
+      "choices": [
+        "Hypertonic ECF, water shifts ICF → ECF",
+        "Hypotonic ECF, water shifts ECF → ICF",
+        "Isotonic ECF contraction only",
+        "Isotonic ECF expansion only",
+        "No osmolality change"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Loss of free water concentrates ECF solutes, making ECF hypertonic; water shifts from ICF to ECF, causing cellular dehydration.",
+        "Incorrect. Loss of free water raises, not lowers, ECF tonicity.",
+        "Incorrect. Pure water loss is not isotonic.",
+        "Incorrect. Water loss reduces total volume; not an isotonic expansion.",
+        "Incorrect. Tonicity rises with free water loss."
+      ]
+    },
+    {
+      "id": 8,
+      "stem": "After bolus administration of D5W (after glucose metabolism), what is the expected compartment effect?",
+      "choices": [
+        "ECF and ICF volumes increase",
+        "ECF increases, ICF unchanged",
+        "ECF decreases, ICF increases",
+        "ICF decreases, ECF increases",
+        "No change in compartment volumes"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. After glucose metabolism, D5W functions as free water, distributing throughout total body water and expanding both ECF and ICF.",
+        "Incorrect. ICF also expands when free water is added.",
+        "Incorrect. ECF does not decrease; both compartments expand.",
+        "Incorrect. ICF expands, not decreases, with hypotonic fluid administration.",
+        "Incorrect. There is volume change in both compartments."
+      ]
+    },
+    {
+      "id": 9,
+      "stem": "A 70-year-old man with diabetic ketoacidosis presents with profoundly elevated glucose. Which mechanism best describes the expected fluid shift?",
+      "choices": [
+        "Hypertonic ECF draws water from ICF, with osmotic diuresis",
+        "Hypotonic ECF causes cellular swelling",
+        "Isotonic loss without osmolar shift",
+        "Selective potassium-water shift only",
+        "Sodium retention without water shift"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Hyperglycemia makes ECF hypertonic, drawing water from ICF; osmotic diuresis then causes loss of water and electrolytes from both compartments.",
+        "Incorrect. ECF becomes hypertonic, not hypotonic, in hyperglycemia.",
+        "Incorrect. Hyperglycemia is not isotonic.",
+        "Incorrect. The shift is principally driven by glucose, not selective potassium-water shifts.",
+        "Incorrect. Sodium retention does not describe DKA fluid dynamics."
+      ]
+    },
+    {
+      "id": 10,
+      "stem": "Approximately how does an isotonic fluid bolus of 0.9% NaCl distribute within the ECF, in plasma versus interstitium?",
+      "choices": [
+        "100% plasma",
+        "25% plasma, 75% interstitial",
+        "50% plasma, 50% interstitial",
+        "75% plasma, 25% interstitial",
+        "Variable, dependent on patient body weight"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Only about a quarter remains in the plasma.",
+        "Correct. About 25% remains in plasma and 75% goes to interstitial fluid, following the normal ECF distribution ratio.",
+        "Incorrect. The distribution is not equal between plasma and interstitium.",
+        "Incorrect. The distribution favors interstitium, not plasma.",
+        "Incorrect. The distribution ratio cited is general, not principally weight-dependent in this brick."
+      ]
+    },
+    {
+      "id": 11,
+      "stem": "A patient receives a large infusion of 0.9% NaCl. Which complication is the brick specifically warning about with normal saline?",
+      "choices": [
+        "Cerebral edema",
+        "Hypercalcemia",
+        "Hyperchloremic metabolic acidosis",
+        "Lactic acidosis",
+        "Pulmonary fibrosis"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Cerebral edema is the concern with hypotonic, not isotonic, saline.",
+        "Incorrect. Hypercalcemia is not a typical NS complication.",
+        "Correct. Large volumes of normal saline can cause hyperchloremic metabolic acidosis or fluid overload.",
+        "Incorrect. Lactic acidosis is not the concern with NS.",
+        "Incorrect. Pulmonary fibrosis is not a recognized NS complication."
+      ]
+    },
+    {
+      "id": 12,
+      "stem": "Why is rapid correction of chronic hyponatremia particularly dangerous?",
+      "choices": [
+        "Causes cerebral edema",
+        "Causes hyperchloremic acidosis",
+        "Causes osmotic demyelination syndrome",
+        "Triggers hyperkalemia",
+        "Triggers thrombophlebitis"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Cerebral edema is the risk in rapid correction of hypernatremia, not hyponatremia.",
+        "Incorrect. Acidosis is not the main risk emphasized.",
+        "Correct. Rapid correction of chronic hyponatremia can cause osmotic demyelination syndrome.",
+        "Incorrect. Hyperkalemia is not the central risk highlighted.",
+        "Incorrect. Thrombophlebitis is associated with hypertonic fluids in peripheral lines, not chronic hyponatremia correction itself."
+      ]
+    },
+    {
+      "id": 13,
+      "stem": "Which compartments contain most of the body's total water?",
+      "choices": [
+        "Fat and muscle compartments",
+        "Interstitial and transcellular fluid",
+        "Intracellular and extracellular fluid",
+        "Plasma and interstitial fluid",
+        "Transcellular and plasma fluid"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Fat and muscle are tissue types, not water compartments.",
+        "Incorrect. While interstitial fluid is part of ECF, this answer omits ICF.",
+        "Correct. The body's total water is distributed primarily between intracellular fluid (ICF) and extracellular fluid (ECF).",
+        "Incorrect. Plasma and interstitial fluid are subdivisions of the ECF, not the principal split.",
+        "Incorrect. Transcellular fluid is a small ECF compartment."
+      ]
+    },
+    {
+      "id": 14,
+      "stem": "A 30-year-old man drinks excessive water rapidly. Which best describes the expected compartment effect?",
+      "choices": [
+        "ECF becomes hypertonic, water shifts ICF → ECF",
+        "ECF becomes hypotonic, water shifts ECF → ICF",
+        "ECF unchanged, ICF contracts",
+        "ICF unchanged, ECF contracts",
+        "Pure plasma volume expansion only"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Excess water dilutes ECF; tonicity decreases, not increases.",
+        "Correct. Excessive free water dilutes ECF making it hypotonic, driving water into cells (especially dangerous in brain tissue).",
+        "Incorrect. ICF expands, not contracts.",
+        "Incorrect. ECF expands, not contracts, with water intoxication.",
+        "Incorrect. The water enters both ECF and ICF."
+      ]
+    },
+    {
+      "id": 15,
+      "stem": "Lactated Ringer's solution differs from 0.9% NaCl by:",
+      "choices": [
+        "Being hypertonic",
+        "Containing a buffer (lactate) and balanced electrolytes",
+        "Containing dextrose",
+        "Lacking sodium",
+        "Providing free water"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. LR is isotonic.",
+        "Correct. Lactated Ringer's is a balanced crystalloid containing lactate as a buffer and physiologic concentrations of electrolytes.",
+        "Incorrect. LR does not contain dextrose.",
+        "Incorrect. LR contains sodium (~130 mEq/L).",
+        "Incorrect. LR is isotonic; it does not provide free water."
+      ]
+    },
+    {
+      "id": 16,
+      "stem": "Which clinical situation is matched correctly with its compartment effect?",
+      "choices": [
+        "Hemorrhage → hypotonic ECF expansion",
+        "Hyperglycemia → hypotonic ECF",
+        "Hypernatremia → hypertonic ECF, ICF contraction",
+        "SIADH → hypertonic ECF",
+        "Water intoxication → hypertonic ECF"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Hemorrhage is isotonic loss, not hypotonic expansion.",
+        "Incorrect. Hyperglycemia produces hypertonic ECF.",
+        "Correct. Hypernatremia produces hypertonic ECF, drawing water from ICF and causing cellular contraction.",
+        "Incorrect. SIADH produces hypotonic, not hypertonic, ECF.",
+        "Incorrect. Water intoxication produces hypotonic ECF."
+      ]
+    },
+    {
+      "id": 17,
+      "stem": "Which calculated value is used to estimate serum osmolality?",
+      "choices": [
+        "2 × [Cl-] + [Glucose]/18 + [BUN]/2.8",
+        "2 × [K+] + [Glucose]/18 + [BUN]/2.8",
+        "2 × [Na+] + [Albumin]/2",
+        "2 × [Na+] + [Glucose]/18 + [BUN]/2.8",
+        "[Na+] + [K+] + [Cl-]"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Chloride is not used in the standard osmolality estimation.",
+        "Incorrect. Sodium, not potassium, is the major contributor.",
+        "Incorrect. Albumin is not in the osmolality formula.",
+        "Correct. Estimated serum osmolality = 2 × [Na+] + [Glucose]/18 + [BUN]/2.8.",
+        "Incorrect. Bicarbonate and other ions are not used in this estimation."
+      ]
+    },
+    {
+      "id": 18,
+      "stem": "A young man with severe traumatic brain injury and elevated ICP is given 20% mannitol. Which compartment effect drives its therapeutic action?",
+      "choices": [
+        "Cellular swelling expands brain tissue",
+        "Increases ECF tonicity, draws water from ICF → ECF",
+        "Isotonic ECF expansion alone",
+        "Pure plasma protein oncotic effect",
+        "Selective potassium shift between compartments"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Mannitol shrinks, not swells, brain cells.",
+        "Correct. Mannitol raises ECF osmolality (effective osmole), drawing water out of intracranial cells into ECF.",
+        "Incorrect. Mannitol is hypertonic, not isotonic.",
+        "Incorrect. Mannitol is not a plasma protein.",
+        "Incorrect. The fluid shift is water, not selective potassium."
+      ]
+    },
+    {
+      "id": 19,
+      "stem": "What happens to fluid compartments after hypotonic fluid administration?",
+      "choices": [
+        "ECF and ICF volumes increase",
+        "ECF increases, ICF unchanged",
+        "ICF decreases, ECF increases",
+        "No change in compartment volumes",
+        "Normal ECF, increased ICF only"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Hypotonic fluid distributes through total body water, expanding both ECF and ICF.",
+        "Incorrect. ICF also expands.",
+        "Incorrect. ICF expands, not decreases.",
+        "Incorrect. There is volume change.",
+        "Incorrect. Both compartments expand, not just ICF."
+      ]
+    },
+    {
+      "id": 20,
+      "stem": "A 50-year-old man on 3% NaCl infusion is at greatest risk of which complication if his sodium rises too quickly?",
+      "choices": [
+        "Cerebral edema",
+        "Hyperchloremic acidosis only",
+        "Hypocalcemic tetany",
+        "Osmotic demyelination syndrome",
+        "Pulmonary fibrosis"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Cerebral edema is the risk with hypotonic infusions.",
+        "Incorrect. Hyperchloremic acidosis is more associated with normal saline overload.",
+        "Incorrect. Hypocalcemic tetany is not the central risk in this scenario.",
+        "Correct. Rapid correction of sodium with hypertonic saline risks osmotic demyelination syndrome.",
+        "Incorrect. Pulmonary fibrosis is not a recognized hypertonic saline complication."
+      ]
+    },
+    {
+      "id": 21,
+      "stem": "A patient with sepsis-induced hypovolemia is being resuscitated. The clinician chooses isotonic crystalloid. Which compartment effect is intended?",
+      "choices": [
+        "Expand ECF (intravascular and interstitial)",
+        "Expand ICF only",
+        "Free water replacement of ICF",
+        "Pure shift of water from ICF to ECF",
+        "Shrinkage of brain cells"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Isotonic crystalloid expands ECF (both intravascular and interstitial) without affecting ICF volume, supporting circulation.",
+        "Incorrect. Isotonic fluids do not preferentially expand ICF.",
+        "Incorrect. Free water replacement is the role of hypotonic fluids.",
+        "Incorrect. Isotonic fluids do not shift water between ICF and ECF.",
+        "Incorrect. Cell shrinkage is the action of hypertonic fluid."
+      ]
+    },
+    {
+      "id": 22,
+      "stem": "Which solute is normally the principal effective osmole determining ECF tonicity?",
+      "choices": ["Bicarbonate", "Calcium", "Glucose", "Potassium", "Sodium"],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. Bicarbonate is not the principal tonicity determinant.",
+        "Incorrect. Calcium does not determine plasma tonicity.",
+        "Incorrect. Glucose contributes only at high concentrations.",
+        "Incorrect. Potassium is principally intracellular.",
+        "Correct. Sodium is the primary determinant of ECF tonicity; alterations in serum sodium are the most common cause of clinically significant tonicity changes."
+      ]
+    },
+    {
+      "id": 23,
+      "stem": "A regulatory volume increase (RVI) and regulatory volume decrease (RVD) describe which cellular phenomenon?",
+      "choices": [
+        "Active transcellular fluid pumping",
+        "Adaptive ion/osmolyte transport that restores cell volume",
+        "Cellular apoptosis pathway",
+        "Direct ATP-driven water pumping",
+        "Lipid raft formation"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Transcellular pumping is not the described mechanism.",
+        "Correct. RVI and RVD involve transport of ions and organic osmolytes to adjust intracellular tonicity and restore normal cell volume.",
+        "Incorrect. Apoptosis is not the mechanism.",
+        "Incorrect. Cells do not pump water directly with ATP.",
+        "Incorrect. Lipid raft formation is unrelated to volume regulation."
+      ]
+    },
+    {
+      "id": 24,
+      "stem": "Which solute can become a clinically important effective osmole in hyperosmolar hyperglycemic state (HHS)?",
+      "choices": ["Albumin", "Bicarbonate", "Glucose", "Sodium", "Urea"],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Albumin is an oncotic, not osmotic, contributor.",
+        "Incorrect. Bicarbonate is not the principal osmole here.",
+        "Correct. Markedly elevated glucose acts as an effective osmole, drawing water from ICF to ECF in HHS and DKA.",
+        "Incorrect. Sodium is normally the principal osmole, but in HHS the dramatic shift is driven by glucose.",
+        "Incorrect. Urea is an ineffective osmole."
+      ]
+    },
+    {
+      "id": 25,
+      "stem": "A 62-year-old man with prolonged vomiting/diarrhea, confusion, and abnormal sodium and glucose levels has lost ECF volume. The MOST appropriate INITIAL fluid is:",
+      "choices": ["0.45% NaCl", "0.9% NaCl or Lactated Ringer's", "20% mannitol", "3% hypertonic saline", "D5W"],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Hypotonic saline does not adequately restore ECF volume.",
+        "Correct. Isotonic crystalloid (0.9% NaCl or Lactated Ringer's) restores ECF volume in patients with isotonic-leaning losses; rate and ongoing electrolyte correction follow.",
+        "Incorrect. Mannitol is reserved for elevated ICP.",
+        "Incorrect. 3% hypertonic saline is reserved for severely symptomatic hyponatremia.",
+        "Incorrect. D5W is hypotonic after metabolism and not appropriate for initial volume restoration."
+      ]
+    }
+  ]
+}

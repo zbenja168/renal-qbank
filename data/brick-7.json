@@ -1,0 +1,481 @@
+{
+  "id": 7,
+  "title": "Renal Clearance",
+  "questions": [
+    {
+      "id": 1,
+      "stem": "A physiologist measures the clearance of a freely filtered, metabolically inert polysaccharide in a healthy adult and finds that its clearance equals the simultaneously measured glomerular filtration rate. This finding indicates which of the following about the substance's renal handling?",
+      "choices": [
+        "It undergoes net reabsorption",
+        "It undergoes net secretion",
+        "It is neither reabsorbed nor secreted",
+        "It is bound to plasma proteins",
+        "It is metabolized by the proximal tubule"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Net reabsorption would cause clearance to fall below GFR.",
+        "Incorrect. Net secretion would raise clearance above GFR.",
+        "Correct. When Cx equals GFR, the substance is freely filtered and undergoes neither reabsorption nor secretion (e.g., inulin).",
+        "Incorrect. Protein-bound molecules are not freely filtered, which is contrary to the stem.",
+        "Incorrect. Tubular metabolism is not a renal handling mechanism described in the brick; clearance is determined by filtration, reabsorption, and secretion."
+      ]
+    },
+    {
+      "id": 2,
+      "stem": "A researcher studying renal physiology infuses a test compound and obtains the following: urine concentration 100 mg/mL, urine flow rate 1 mL/min, plasma concentration 2 mg/mL. What is the renal clearance of this substance?",
+      "choices": [
+        "20 mL/min",
+        "50 mL/min",
+        "100 mL/min",
+        "200 mL/min",
+        "500 mL/min"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. This value does not match Cx = (Ux x V) / Px.",
+        "Correct. Cx = (100 mg/mL x 1 mL/min) / 2 mg/mL = 50 mL/min, the volume of plasma cleared per minute.",
+        "Incorrect. Forgetting to divide by plasma concentration yields the excretion rate, not clearance.",
+        "Incorrect. Multiplying urine concentration by plasma concentration is not the clearance equation.",
+        "Incorrect. This value reflects miscalculation; correct application gives 50 mL/min."
+      ]
+    },
+    {
+      "id": 3,
+      "stem": "A research subject has a plasma concentration of substance X = 5 mg/mL, urine concentration = 250 mg/mL, urine flow rate = 2 mL/min, and GFR = 120 mL/min (measured by inulin). How is substance X handled by the kidney?",
+      "choices": [
+        "Filtration only",
+        "Net reabsorption",
+        "Net secretion",
+        "Partial filtration",
+        "Equal secretion and reabsorption"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Filtration only requires Cx = GFR; here Cx does not equal GFR.",
+        "Correct. Cx = (Ux x V)/Px = (250 x 2)/5 = 100 mL/min, which is less than the GFR of 120 mL/min. Per the brick, Cx < GFR indicates net reabsorption.",
+        "Incorrect. Net secretion requires Cx > GFR; here Cx (100) is below GFR (120).",
+        "Incorrect. Partial filtration is not a recognized classification per the brick.",
+        "Incorrect. Equal secretion and reabsorption is not a meaningful clearance category per the brick."
+      ]
+    },
+    {
+      "id": 4,
+      "stem": "Under normal physiologic conditions, the renal clearance of glucose in a healthy adult is approximately zero. This finding is best explained by which renal process?",
+      "choices": [
+        "Glucose is not freely filtered at the glomerulus",
+        "Glucose undergoes near-complete tubular reabsorption",
+        "Glucose is actively secreted into the tubular lumen",
+        "Glucose is metabolized in Bowman's space",
+        "Glucose binds tightly to plasma proteins"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Glucose is small and unbound, so it is freely filtered.",
+        "Correct. Glucose is freely filtered but undergoes near-complete tubular reabsorption, so clearance is negligible under normal conditions.",
+        "Incorrect. Glucose is not a secreted substance; PAH is the classic secreted example.",
+        "Incorrect. Glucose is not metabolized in Bowman's space; clearance is determined by filtration, reabsorption, and secretion.",
+        "Incorrect. Glucose is not protein-bound; it is freely filtered."
+      ]
+    },
+    {
+      "id": 5,
+      "stem": "A research subject undergoes inulin clearance testing. Inulin is considered the gold standard for measuring GFR because of which combination of properties?",
+      "choices": [
+        "Freely filtered, partially reabsorbed, not secreted",
+        "Freely filtered, not reabsorbed, not secreted, metabolically inert",
+        "Freely filtered and extensively secreted",
+        "Protein-bound and partially filtered",
+        "Endogenously produced at constant rate, partially secreted"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Inulin is not reabsorbed; if it were, its clearance would underestimate GFR.",
+        "Correct. Inulin is freely filtered, not reabsorbed, not secreted, and metabolically inert, so its clearance exactly equals GFR.",
+        "Incorrect. That description matches PAH, which is used for RPF estimation.",
+        "Incorrect. Protein-bound substances are not freely filtered.",
+        "Incorrect. That description matches creatinine, not inulin."
+      ]
+    },
+    {
+      "id": 6,
+      "stem": "A clinician orders a 24-hour creatinine clearance to estimate GFR in a 65-year-old man. Compared with true GFR (measured by inulin), creatinine clearance typically does which of the following in healthy individuals?",
+      "choices": [
+        "Underestimates GFR by 10–20% due to reabsorption",
+        "Underestimates GFR by 50% due to protein binding",
+        "Equals GFR because creatinine is handled like inulin",
+        "Overestimates GFR by 10–20% due to tubular secretion",
+        "Overestimates GFR by 90% due to extensive secretion"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Creatinine is not reabsorbed; it is secreted, leading to overestimation, not underestimation.",
+        "Incorrect. Creatinine is not significantly protein-bound and is freely filtered.",
+        "Incorrect. Unlike inulin, creatinine undergoes a small amount of tubular secretion.",
+        "Correct. Creatinine clearance overestimates true GFR by 10–20% in healthy individuals because creatinine is filtered AND secreted.",
+        "Incorrect. ~90% extraction describes PAH, not creatinine."
+      ]
+    },
+    {
+      "id": 7,
+      "stem": "A research team wishes to estimate effective renal plasma flow (eRPF) in a healthy volunteer. Which substance's clearance is most appropriate for this purpose?",
+      "choices": [
+        "Inulin",
+        "Creatinine",
+        "Para-aminohippuric acid (PAH)",
+        "Glucose",
+        "Albumin"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Inulin clearance measures GFR, not RPF.",
+        "Incorrect. Creatinine clearance estimates GFR with slight overestimation, not RPF.",
+        "Correct. PAH is filtered and nearly completely secreted (~90% extraction in a single pass), so its clearance approximates effective renal plasma flow.",
+        "Incorrect. Glucose is reabsorbed and has near-zero clearance.",
+        "Incorrect. Albumin is too large to be filtered freely and is not used to measure RPF."
+      ]
+    },
+    {
+      "id": 8,
+      "stem": "A research subject's PAH clearance is measured at 600 mL/min, and the extraction ratio of PAH is 0.9. What is the true renal plasma flow (RPF)?",
+      "choices": [
+        "540 mL/min",
+        "600 mL/min",
+        "667 mL/min",
+        "1,200 mL/min",
+        "5,400 mL/min"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Multiplying eRPF by the extraction ratio yields a value below eRPF, not above it.",
+        "Incorrect. 600 mL/min is the eRPF, which underestimates true RPF because extraction is not 100%.",
+        "Correct. True RPF = eRPF / extraction ratio = 600 / 0.9 ≈ 667 mL/min.",
+        "Incorrect. Doubling eRPF does not yield true RPF.",
+        "Incorrect. This value reflects multiplying instead of dividing by the extraction ratio."
+      ]
+    },
+    {
+      "id": 9,
+      "stem": "A 30-year-old patient has a measured PAH clearance of 585 mL/min and a hematocrit of 0.40. What is the approximate renal blood flow (RBF)?",
+      "choices": [
+        "350 mL/min",
+        "585 mL/min",
+        "975 mL/min",
+        "1,462 mL/min",
+        "2,340 mL/min"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Multiplying by hematocrit instead of dividing by (1-Hct) gives a value below RPF, which is conceptually wrong because RBF must exceed RPF.",
+        "Incorrect. PAH clearance equals eRPF, not RBF.",
+        "Correct. RBF = RPF / (1 - Hct) = 585 / (1 - 0.40) = 585 / 0.60 = 975 mL/min.",
+        "Incorrect. Dividing by hematocrit (0.40) rather than (1-Hct) gives an incorrect result.",
+        "Incorrect. This value far exceeds normal RBF (~1,000–1,200 mL/min)."
+      ]
+    },
+    {
+      "id": 10,
+      "stem": "A patient's eRPF is calculated to be 600 mL/min using PAH clearance, and her hematocrit is 0.45. What is the approximate effective renal blood flow (eRBF)?",
+      "choices": [
+        "270 mL/min",
+        "600 mL/min",
+        "825 mL/min",
+        "1,091 mL/min",
+        "1,333 mL/min"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Multiplying RPF by hematocrit yields a value below RPF, which is incorrect.",
+        "Incorrect. 600 mL/min is the eRPF, not the eRBF.",
+        "Incorrect. This value reflects miscalculation of (1-Hct).",
+        "Correct. eRBF = eRPF / (1 - Hct) = 600 / 0.55 ≈ 1,091 mL/min, consistent with normal RBF (~1,000–1,200 mL/min, ~20–25% of cardiac output).",
+        "Incorrect. This value exceeds the expected eRBF and reflects use of an incorrect denominator."
+      ]
+    },
+    {
+      "id": 11,
+      "stem": "A healthy volunteer has a GFR of 125 mL/min (measured by inulin) and an RPF of 625 mL/min (measured by PAH). What is the filtration fraction?",
+      "choices": [
+        "5%",
+        "10%",
+        "20%",
+        "50%",
+        "80%"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. 5% is far below the normal filtration fraction.",
+        "Incorrect. 10% does not match GFR/RPF for these values.",
+        "Correct. FF = GFR / RPF = 125 / 625 = 0.20, or 20%, within the normal range of 15–20%.",
+        "Incorrect. 50% would imply pathologically high glomerular filtration relative to RPF.",
+        "Incorrect. 80% is not physiologic; FF is normally 15–20%."
+      ]
+    },
+    {
+      "id": 12,
+      "stem": "A 68-year-old man with congestive heart failure is found to have an elevated filtration fraction. The mechanism most directly responsible for this change is:",
+      "choices": [
+        "Equal proportional decreases in GFR and RPF",
+        "Greater decrease in GFR than in RPF",
+        "Greater decrease in RPF than in GFR due to efferent arteriolar constriction",
+        "Increased RPF caused by systemic vasodilation",
+        "Increased plasma protein concentration reducing filtration"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Equal decreases would leave FF unchanged.",
+        "Incorrect. Greater decrease in GFR than RPF would lower, not raise, FF.",
+        "Correct. In heart failure, angiotensin II–mediated efferent arteriolar constriction preserves GFR while RPF falls more, raising FF.",
+        "Incorrect. RPF falls in heart failure due to reduced renal perfusion, not increases.",
+        "Incorrect. The brick attributes elevated FF in heart failure to efferent arteriolar constriction, not plasma protein effects."
+      ]
+    },
+    {
+      "id": 13,
+      "stem": "A 28-year-old woman in her second trimester of pregnancy is noted to have a decreased filtration fraction compared with pre-pregnancy values. Which mechanism best explains this finding?",
+      "choices": [
+        "Efferent arteriolar constriction by angiotensin II",
+        "RPF increases proportionally more than GFR",
+        "GFR increases proportionally more than RPF",
+        "Reduced renal blood flow due to vasoconstriction",
+        "Increased plasma oncotic pressure"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Efferent constriction would raise FF, as in heart failure.",
+        "Correct. In pregnancy, the vasodilatory state increases RPF proportionally more than GFR, lowering the GFR/RPF ratio (filtration fraction).",
+        "Incorrect. If GFR rose more than RPF, FF would increase, not decrease.",
+        "Incorrect. Pregnancy is a vasodilatory state with increased RPF.",
+        "Incorrect. The brick does not attribute the pregnancy-related decrease in FF to plasma oncotic pressure."
+      ]
+    },
+    {
+      "id": 14,
+      "stem": "A clinician calculates a patient's filtered load of glucose. Which formula correctly defines the filtered load of substance X?",
+      "choices": [
+        "Ux x V",
+        "GFR x Px",
+        "GFR / Px",
+        "Ux / Px",
+        "(Ux x V) / Px"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Ux x V represents the urinary excretion rate, not filtered load.",
+        "Correct. Filtered load = GFR x Px, the amount of substance filtered per unit time (mg/min).",
+        "Incorrect. GFR / Px does not yield filtered load.",
+        "Incorrect. Ux / Px is a concentration ratio, not filtered load.",
+        "Incorrect. (Ux x V) / Px is the clearance equation, not the filtered load."
+      ]
+    },
+    {
+      "id": 15,
+      "stem": "A 70-year-old man with chronic kidney disease has reduced creatinine clearance. According to the brick, this reduction in creatinine clearance most directly reflects which of the following?",
+      "choices": [
+        "Increased tubular secretion",
+        "Reduced nephron function",
+        "Increased plasma protein binding of creatinine",
+        "Saturation of organic cation transporters",
+        "Excessive muscle creatine production"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Increased secretion would raise, not lower, creatinine clearance.",
+        "Correct. Reduced creatinine clearance directly reflects reduced nephron function and is the most common clinical surrogate for GFR in CKD diagnosis and staging.",
+        "Incorrect. Creatinine is not significantly protein-bound.",
+        "Incorrect. Creatinine secretion involves transporters but the principal explanation in CKD is reduced nephron mass and function.",
+        "Incorrect. Excess creatine production raises serum creatinine but is not the clinical interpretation of reduced creatinine clearance in CKD."
+      ]
+    },
+    {
+      "id": 16,
+      "stem": "A 65-year-old man (JS) presents with hypertension and mild elevation in serum creatinine. He is taking both an ACE inhibitor and an antibiotic that is renally secreted. He develops antibiotic toxicity. The most likely mechanism for the elevated drug levels is:",
+      "choices": [
+        "Increased glomerular filtration of the antibiotic",
+        "Competition between the two drugs for organic anion transporters",
+        "Hepatic enzyme induction by the ACE inhibitor",
+        "Enhanced passive reabsorption due to alkaline urine",
+        "Saturation of hepatic protein binding"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Increased filtration would lower, not raise, drug levels.",
+        "Correct. The brick explicitly notes that drugs (such as an ACE inhibitor and certain antibiotics) may compete for organic anion transporters, reducing tubular secretion and predisposing to toxicity.",
+        "Incorrect. The brick attributes the toxicity to reduced renal clearance via shared transporters, not hepatic induction.",
+        "Incorrect. Urine pH effects are mentioned for passive reabsorption, but the principal mechanism here is shared OAT competition.",
+        "Incorrect. Hepatic protein binding is not the mechanism described in the brick."
+      ]
+    },
+    {
+      "id": 17,
+      "stem": "A patient is started on cimetidine, which uses organic cation transporters in the proximal tubule. According to the brick, which of the following drugs would most likely have decreased renal clearance due to competition for the same transport pathway?",
+      "choices": [
+        "Penicillin",
+        "Methotrexate",
+        "Furosemide",
+        "Metformin",
+        "An NSAID"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Penicillins are handled by organic anion transporters (OATs).",
+        "Incorrect. Methotrexate is a substrate of OATs.",
+        "Incorrect. Loop diuretics like furosemide are OAT substrates.",
+        "Correct. Metformin, like cimetidine, is a substrate of organic cation transporters (OCTs); concurrent use can reduce metformin clearance.",
+        "Incorrect. NSAIDs are handled by OATs."
+      ]
+    },
+    {
+      "id": 18,
+      "stem": "A patient is taking high-dose methotrexate. According to the brick, methotrexate is renally secreted by which transport system, predisposing it to interactions with co-administered drugs?",
+      "choices": [
+        "Organic anion transporters (OATs)",
+        "Organic cation transporters (OCTs)",
+        "Peptide transporters (PEPT1/2)",
+        "Sodium-glucose cotransporters (SGLT)",
+        "Aquaporins"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. The brick lists methotrexate among substrates of OATs along with penicillins, cephalosporins, diuretics, and NSAIDs.",
+        "Incorrect. OCTs handle positively charged drugs such as trimethoprim, cimetidine, metformin, and many antiarrhythmics.",
+        "Incorrect. PEPT1/2 handle drugs with peptide-like structures via reabsorption.",
+        "Incorrect. SGLTs reabsorb glucose, not methotrexate.",
+        "Incorrect. Aquaporins transport water, not organic acids."
+      ]
+    },
+    {
+      "id": 19,
+      "stem": "A pharmacology researcher is studying a drug whose elimination becomes non-linear at higher plasma concentrations because the maximum tubular transport rate is reached. Which mechanism best explains this finding?",
+      "choices": [
+        "Competition for transporters",
+        "Transporter saturation",
+        "Decreased transporter expression",
+        "Genetic polymorphism",
+        "Urine pH change"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Competition involves another substrate; the stem describes a single drug exceeding transport capacity.",
+        "Correct. Transporter saturation produces non-linear elimination kinetics when the maximum transport rate is reached.",
+        "Incorrect. Decreased expression is seen in renal disease and reduces clearance of secreted drugs at all concentrations.",
+        "Incorrect. Genetic polymorphisms cause interindividual variability, not concentration-dependent saturation in a given individual.",
+        "Incorrect. Urine pH changes affect passive reabsorption via ionization, not transporter saturation."
+      ]
+    },
+    {
+      "id": 20,
+      "stem": "A patient on a renally cleared medication develops markedly altered drug levels after a change in urine pH. The brick attributes this effect to changes in which process?",
+      "choices": [
+        "Glomerular filtration rate",
+        "Active secretion via OATs",
+        "Active reabsorption via PEPT1/2",
+        "Passive reabsorption via altered ionization",
+        "Plasma protein binding"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Urine pH does not directly determine GFR.",
+        "Incorrect. The brick attributes pH effects to ionization and passive transport, not to OAT activity.",
+        "Incorrect. PEPT1/2 mediate carrier-based reabsorption of peptide-like drugs and are not directly described as pH-driven.",
+        "Correct. The brick explicitly states that urine pH alters ionization state, which changes passive reabsorption (ion trapping).",
+        "Incorrect. Plasma protein binding is not influenced by urine pH in this context."
+      ]
+    },
+    {
+      "id": 21,
+      "stem": "A clinician must adjust the dosing of a renally eliminated drug in a patient with reduced GFR. According to the brick, which of the following dosing strategies is appropriate?",
+      "choices": [
+        "Increase dose and shorten interval",
+        "Increase dose only",
+        "Reduce dose, extend interval, or both",
+        "Add an inducer of hepatic metabolism",
+        "Switch to intravenous formulation only"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Increasing dose or shortening intervals would worsen accumulation and toxicity.",
+        "Incorrect. Raising the dose accelerates accumulation in renal impairment.",
+        "Correct. The brick lists three strategies: dose reduction, interval extension, or a combined approach, chosen based on drug and patient factors.",
+        "Incorrect. The brick discusses renal, not hepatic, dose adjustment strategies.",
+        "Incorrect. Route of administration alone does not address reduced renal clearance."
+      ]
+    },
+    {
+      "id": 22,
+      "stem": "A pharmacology student studies a lipophilic, non-ionized drug that is extensively passively reabsorbed in the renal tubule. According to the brick, which of the following properties promotes passive tubular reabsorption?",
+      "choices": [
+        "High lipophilicity, non-ionized form",
+        "Hydrophilic, ionized form",
+        "Strong plasma protein binding",
+        "High urine flow rate",
+        "Saturated organic anion transport"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. The brick states that lipophilic, non-ionized drugs diffuse more readily across tubular epithelia, promoting passive reabsorption.",
+        "Incorrect. Hydrophilic and ionized drugs cross membranes poorly and are not well reabsorbed passively.",
+        "Incorrect. Protein binding limits filtration but is not the determinant of passive reabsorption per the brick.",
+        "Incorrect. The brick lists lipophilicity, ionization, pH gradient (ion trapping), and concentration gradient as determinants of passive diffusion.",
+        "Incorrect. OAT activity describes secretion, not passive reabsorption."
+      ]
+    },
+    {
+      "id": 23,
+      "stem": "A 60-year-old woman is started on a drug that is freely filtered but not significantly secreted or reabsorbed. As her GFR declines due to chronic kidney disease, the most likely consequence on this drug is:",
+      "choices": [
+        "Increased clearance and subtherapeutic levels",
+        "Unchanged clearance because of compensatory secretion",
+        "Drug accumulation and risk of toxicity unless dose is reduced",
+        "Increased hepatic metabolism compensating for reduced GFR",
+        "No effect because protein binding determines clearance"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. As GFR falls, clearance of a filtration-dependent drug decreases.",
+        "Incorrect. The brick states secretion does not compensate for lost filtration in this scenario.",
+        "Correct. A drug cleared primarily by glomerular filtration will accumulate as GFR falls unless its dose is reduced, per the brick.",
+        "Incorrect. The brick does not invoke compensatory hepatic metabolism for renally cleared drugs.",
+        "Incorrect. Reduced filtration directly reduces clearance and predisposes to accumulation."
+      ]
+    },
+    {
+      "id": 24,
+      "stem": "A clinician monitoring a CKD patient on a renally secreted antibiotic notes reduced clearance of the antibiotic. According to the brick's table, decreased transporter expression in renal disease produces which effect?",
+      "choices": [
+        "Increased clearance of secreted drugs",
+        "Reduced clearance of secreted drugs",
+        "Non-linear elimination kinetics",
+        "Interindividual variability in clearance",
+        "Changed passive reabsorption"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Reduced transporter expression decreases, not increases, clearance.",
+        "Correct. Per the brick's table, renal disease decreases transporter expression/function, reducing clearance of drugs that depend on tubular secretion.",
+        "Incorrect. Non-linear kinetics result from transporter saturation.",
+        "Incorrect. Interindividual variability is a consequence of genetic polymorphisms.",
+        "Incorrect. Changed passive reabsorption is the consequence of urine pH changes."
+      ]
+    },
+    {
+      "id": 25,
+      "stem": "Two siblings receiving the same dose of a renally secreted drug have markedly different plasma drug levels despite identical kidney function. According to the brick, which factor most likely explains this interindividual variability?",
+      "choices": [
+        "Competition for transporters",
+        "Transporter saturation",
+        "Renal disease",
+        "Genetic polymorphisms in transporter activity",
+        "Urine pH differences"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Competition requires another substrate, not described here.",
+        "Incorrect. Saturation produces non-linear kinetics within an individual, not between individuals at the same dose.",
+        "Incorrect. The siblings have identical kidney function, excluding renal disease as the cause.",
+        "Correct. Per the brick, genetic polymorphisms alter transporter activity and are a recognized source of interindividual variability in drug clearance.",
+        "Incorrect. Urine pH would alter passive reabsorption but is not specified as the cause of interindividual variability in the brick."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,463 @@
+{
+  "id": 12,
+  "title": "Loop Diuretics",
+  "questions": [
+    {
+      "id": 1,
+      "stem": "A 67-year-old man with CHF presents with dyspnea, orthopnea, 2+ pitting edema, and crackles. He is started on a loop diuretic. Which transporter does this medication directly inhibit?",
+      "choices": [
+        "Na+/Cl- cotransporter (DCT)",
+        "Na+/K+/2Cl- cotransporter (TAL)",
+        "ENaC (collecting duct)",
+        "Carbonic anhydrase (PCT)",
+        "Aldosterone receptor"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. The DCT NCC is the target of thiazides, not loop diuretics.",
+        "Correct. Loop diuretics inhibit the Na+/K+/2Cl- cotransporter in the luminal membrane of the thick ascending limb of the loop of Henle.",
+        "Incorrect. ENaC is targeted by potassium-sparing agents like amiloride.",
+        "Incorrect. Carbonic anhydrase is the target of acetazolamide in the proximal tubule.",
+        "Incorrect. The aldosterone receptor is targeted by spironolactone."
+      ]
+    },
+    {
+      "id": 2,
+      "stem": "A patient with a documented sulfa allergy needs a loop diuretic for refractory edema. Which agent is the most appropriate?",
+      "choices": [
+        "Furosemide",
+        "Bumetanide",
+        "Torsemide",
+        "Ethacrynic acid",
+        "Hydrochlorothiazide"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Furosemide contains a sulfonamide group and is contraindicated in sulfa allergy.",
+        "Incorrect. Bumetanide also contains a sulfonamide group.",
+        "Incorrect. Torsemide is also a sulfonamide-containing loop diuretic.",
+        "Correct. Ethacrynic acid lacks a sulfonamide group and is the alternative loop diuretic for patients with sulfa drug sensitivity.",
+        "Incorrect. Hydrochlorothiazide is a thiazide and also contains a sulfonamide group."
+      ]
+    },
+    {
+      "id": 3,
+      "stem": "Per the brick's potency table, 1 mg of bumetanide produces the same diuretic effect as approximately how many mg of furosemide?",
+      "choices": ["1 mg", "10 mg", "20 mg", "40 mg", "100 mg"],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Bumetanide is roughly 40-fold more potent than furosemide.",
+        "Incorrect. This underestimates the potency difference.",
+        "Incorrect. 20 mg corresponds to torsemide's relative potency, not furosemide.",
+        "Correct. The brick states 1 mg of bumetanide equals 40 mg of furosemide in diuretic effect.",
+        "Incorrect. This overestimates the equivalence."
+      ]
+    },
+    {
+      "id": 4,
+      "stem": "Which best describes the rank order of loop diuretic potency from most to least potent, per the brick?",
+      "choices": [
+        "Furosemide > torsemide > bumetanide > ethacrynic acid",
+        "Bumetanide > torsemide > furosemide > ethacrynic acid",
+        "Ethacrynic acid > furosemide > bumetanide > torsemide",
+        "Torsemide > bumetanide > furosemide > ethacrynic acid",
+        "Furosemide > bumetanide > torsemide > ethacrynic acid"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Furosemide is less potent than torsemide and bumetanide.",
+        "Correct. The brick states the order is bumetanide > torsemide > furosemide > ethacrynic acid (most to least potent).",
+        "Incorrect. Ethacrynic acid is the least potent.",
+        "Incorrect. Bumetanide is more potent than torsemide.",
+        "Incorrect. Furosemide is less potent than bumetanide."
+      ]
+    },
+    {
+      "id": 5,
+      "stem": "Which of the following is NOT a recognized indication for loop diuretics, per the brick?",
+      "choices": [
+        "Pulmonary edema in CHF",
+        "Acute hypercalcemia",
+        "Hyperkalemia",
+        "Primary hypertension as first-line therapy",
+        "SIADH-related hyponatremia"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Pulmonary edema in CHF is a primary indication.",
+        "Incorrect. Loops with normal saline are used for hypercalcemia.",
+        "Incorrect. Loops are used to lower K+ in severe hyperkalemia.",
+        "Correct. Loop diuretics are not first-line for primary hypertension because of transient effects, electrolyte risks, and minimal systemic vasodilation; thiazides are first-line.",
+        "Incorrect. Loops can be used in SIADH because they limit urinary concentration."
+      ]
+    },
+    {
+      "id": 6,
+      "stem": "A patient with SIADH and hyponatremia is started on a loop diuretic. Which best explains the rationale?",
+      "choices": [
+        "Loops increase ADH secretion",
+        "Loops dilute the urine maximally",
+        "Loops impair the kidney's ability to concentrate urine, increasing free water loss",
+        "Loops directly stimulate water absorption in the collecting duct",
+        "Loops bind ADH receptors"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Loops do not increase ADH.",
+        "Incorrect. Loops impair maximal dilution and concentration; they do not maximally dilute urine.",
+        "Correct. By disrupting medullary hypertonicity, loops impair urinary concentration; in SIADH (high ADH state), this allows the kidney to excrete less concentrated urine, increasing free water loss.",
+        "Incorrect. They do not directly stimulate water absorption.",
+        "Incorrect. They are not ADH receptor antagonists."
+      ]
+    },
+    {
+      "id": 7,
+      "stem": "A 68-year-old woman with metastatic breast cancer presents with serum Ca2+ of 14 mg/dL. After IV normal saline, a loop diuretic is added. Which mechanism reduces calcium?",
+      "choices": [
+        "Loops directly chelate calcium",
+        "Loops decrease the lumen-positive potential in the TAL, reducing paracellular Ca2+ reabsorption",
+        "Loops stimulate parathyroid hormone secretion",
+        "Loops increase calcium reabsorption in the DCT",
+        "Loops lower serum albumin"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Loops do not chelate calcium.",
+        "Correct. Loops inhibit NKCC2, reducing K+ recycling into the lumen and the lumen-positive transepithelial potential; this decreases paracellular reabsorption of Ca2+ (and Mg2+), increasing urinary loss.",
+        "Incorrect. Loops do not stimulate PTH directly.",
+        "Incorrect. Loops do not increase DCT calcium reabsorption (this is the thiazide mechanism).",
+        "Incorrect. Loops do not alter serum albumin."
+      ]
+    },
+    {
+      "id": 8,
+      "stem": "A patient on a loop diuretic develops hypokalemia and metabolic alkalosis (\"contraction alkalosis\"). Which best explains the alkalosis?",
+      "choices": [
+        "Loops directly inhibit H+ secretion in the PCT",
+        "Volume depletion stimulates RAAS, and increased distal Na+ delivery promotes K+ and H+ secretion in the collecting duct, while volume loss concentrates remaining HCO3-",
+        "Loops directly increase intestinal HCO3- absorption",
+        "Loops inhibit gastric H+ loss",
+        "Loops cause respiratory compensation"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Loops do not directly inhibit PCT H+ secretion.",
+        "Correct. Volume contraction activates RAAS/aldosterone, and high distal Na+ delivery raises K+ and H+ secretion in the collecting duct; concentrated remaining HCO3- in a smaller ECF compounds the alkalosis—the classic contraction alkalosis.",
+        "Incorrect. Loops do not affect intestinal HCO3- absorption.",
+        "Incorrect. Loops are not gastric H+ acting agents.",
+        "Incorrect. Compensation is not the cause."
+      ]
+    },
+    {
+      "id": 9,
+      "stem": "A patient on a loop diuretic plus an aminoglycoside develops tinnitus and hearing loss. Which adverse effect best fits this presentation?",
+      "choices": [
+        "Hypocalcemia",
+        "Hyperkalemia",
+        "Ototoxicity",
+        "Hyperglycemia",
+        "Photosensitivity"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Hypocalcemia does not present with tinnitus.",
+        "Incorrect. Loops cause hypokalemia rather than hyperkalemia.",
+        "Correct. Loop diuretics cause ototoxicity, especially with rapid IV administration or in combination with other ototoxic drugs (aminoglycosides, high-dose aspirin, platinum chemo).",
+        "Incorrect. Hyperglycemia does not cause this.",
+        "Incorrect. Photosensitivity is not the loop adverse effect described."
+      ]
+    },
+    {
+      "id": 10,
+      "stem": "A 75-year-old man on furosemide develops dizziness on standing, BP 92/58, and serum creatinine has risen. Which adverse effect is most likely?",
+      "choices": [
+        "Volume depletion with prerenal AKI",
+        "Hyperkalemia",
+        "Hypercalcemia",
+        "Hypoglycemia",
+        "Ototoxicity"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Excess loop-diuretic action causes ECF volume depletion, hypotension, decreased GFR (prerenal AKI), and dizziness/syncope.",
+        "Incorrect. Loops cause hypokalemia, not hyperkalemia.",
+        "Incorrect. Loops cause hypocalcemia, not hypercalcemia.",
+        "Incorrect. Loops can cause hyperglycemia (less commonly than thiazides) but not the orthostasis described.",
+        "Incorrect. Ototoxicity is described, but volume depletion best fits this picture."
+      ]
+    },
+    {
+      "id": 11,
+      "stem": "A 58-year-old patient with CHF and hypokalemia needs continued diuretic therapy. Per the brick, which combination is most appropriate?",
+      "choices": [
+        "Loop + thiazide",
+        "Loop + carbonic anhydrase inhibitor",
+        "Loop + spironolactone",
+        "Loop + ACE inhibitor only as monotherapy",
+        "Loop + loop"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Adding a thiazide would deepen K+ loss.",
+        "Incorrect. Carbonic anhydrase inhibitors are reserved for rapid alkalosis correction, not chronic use.",
+        "Correct. A K+-sparing diuretic such as spironolactone is often combined with a loop in patients with hypokalemia, balancing K+ loss.",
+        "Incorrect. ACE inhibitors do help raise K+ and are often co-administered, but the brick specifies adding a K+-sparing diuretic for this purpose.",
+        "Incorrect. Combining two loops is not the recommended strategy."
+      ]
+    },
+    {
+      "id": 12,
+      "stem": "A 65-year-old man on chronic furosemide also takes daily ibuprofen for arthritis. He notes worsening edema. Which mechanism best explains the diminished diuretic response?",
+      "choices": [
+        "NSAIDs increase aldosterone secretion",
+        "NSAIDs inhibit renal prostaglandins, reducing the vasodilatory effect that supports diuretic efficacy",
+        "NSAIDs activate Na+/K+/2Cl- cotransporter",
+        "NSAIDs increase intestinal absorption of furosemide",
+        "NSAIDs precipitate furosemide in the urine"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. NSAIDs do not directly increase aldosterone.",
+        "Correct. NSAIDs inhibit prostaglandin synthesis, reducing renal vasodilation and the loop's vasodilatory effect, decreasing diuretic efficacy. The brick recommends not combining the two.",
+        "Incorrect. NSAIDs do not activate NKCC2.",
+        "Incorrect. NSAIDs do not increase furosemide absorption.",
+        "Incorrect. There is no precipitation interaction."
+      ]
+    },
+    {
+      "id": 13,
+      "stem": "Furosemide, bumetanide, and torsemide share which structural feature?",
+      "choices": [
+        "Beta-lactam ring",
+        "Sulfonamide group",
+        "Imidazole ring",
+        "Catechol group",
+        "Steroid backbone"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Beta-lactams are antibiotics, not loop diuretics.",
+        "Correct. These three loops share a sulfonamide group, which is why they are contraindicated in sulfa allergy (ethacrynic acid lacks this group).",
+        "Incorrect. Imidazole rings are characteristic of antifungals.",
+        "Incorrect. Loop diuretics do not contain catechol groups.",
+        "Incorrect. Loops are not steroids."
+      ]
+    },
+    {
+      "id": 14,
+      "stem": "A loop diuretic combined with normal saline is sometimes used to manage which acute electrolyte emergency?",
+      "choices": [
+        "Acute hyperkalemia from arrhythmia risk and acute hypercalcemia",
+        "Acute hyperphosphatemia",
+        "Acute hypomagnesemia",
+        "Acute hyponatremia from heart failure",
+        "Acute hypoglycemia"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Loops are used to enhance urinary K+ loss in severe hyperkalemia and, with normal saline, to enhance urinary Ca2+ loss in hypercalcemia from malignancy.",
+        "Incorrect. Loops are not first-line for hyperphosphatemia.",
+        "Incorrect. Loops increase Mg2+ excretion and can cause, not treat, hypomagnesemia.",
+        "Incorrect. Loops do not directly correct heart failure–related hyponatremia.",
+        "Incorrect. Loops do not treat hypoglycemia."
+      ]
+    },
+    {
+      "id": 15,
+      "stem": "An anuric patient (<100 mL/day of urine) is admitted. The clinician decides not to give a loop diuretic. Which is the best supporting reason from the brick?",
+      "choices": [
+        "Loops would worsen hyperglycemia",
+        "Loops require renal function to work and increase ototoxicity risk in anuria",
+        "Loops cause severe hypocalcemia in anuria",
+        "Loops cross-react with insulin",
+        "Loops cause profound hypertension in anuria"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Hyperglycemia is not the central concern.",
+        "Correct. Loops require functional kidneys to act; in anuric patients they will not produce diuresis, and the risk of ototoxicity may increase.",
+        "Incorrect. Hypocalcemia is not the highlighted concern in anuria.",
+        "Incorrect. There is no insulin cross-reactivity.",
+        "Incorrect. Loops do not cause hypertension."
+      ]
+    },
+    {
+      "id": 16,
+      "stem": "Loop diuretics produce indirect renal vascular effects. Which best describes these effects?",
+      "choices": [
+        "Constriction of efferent arterioles via aldosterone",
+        "Local renal vein dilation via increased prostaglandin synthesis and afferent arteriolar dilation by limiting tubuloglomerular feedback",
+        "Constriction of renal arteries via Ang II",
+        "Direct ADH-mediated vasoconstriction",
+        "Reduction of GFR via mesangial constriction"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Loops do not constrict efferent arterioles via aldosterone.",
+        "Correct. Loops increase renal-vein prostaglandin synthesis (local vasodilation) and dilate afferent arterioles by limiting TGF, increasing renal blood flow and GFR—contributing to massive water diuresis.",
+        "Incorrect. They do not constrict renal arteries via Ang II.",
+        "Incorrect. ADH does not mediate the loop diuretic vascular effect.",
+        "Incorrect. GFR is increased, not reduced."
+      ]
+    },
+    {
+      "id": 17,
+      "stem": "A patient on furosemide develops mild hypocalcemia and hypomagnesemia. Which best explains these findings?",
+      "choices": [
+        "Loops directly chelate divalent cations",
+        "Inhibition of NKCC2 reduces the lumen-positive potential, decreasing paracellular Ca2+/Mg2+ reabsorption",
+        "Loops stimulate parathyroid release",
+        "Loops cause vitamin D deficiency",
+        "Loops inhibit intestinal Ca2+ absorption"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Loops do not chelate divalent cations.",
+        "Correct. Loops inhibit NKCC2, reducing K+ recycling and the lumen-positive transepithelial potential that drives paracellular Ca2+ and Mg2+ reabsorption, leading to urinary loss.",
+        "Incorrect. Loops do not directly stimulate PTH.",
+        "Incorrect. Loops do not affect vitamin D synthesis directly.",
+        "Incorrect. Loops do not inhibit intestinal Ca2+ absorption."
+      ]
+    },
+    {
+      "id": 18,
+      "stem": "A patient with cirrhosis develops worsening confusion (asterixis) shortly after aggressive loop diuretic therapy. Which complication is most consistent with the brick?",
+      "choices": [
+        "Hepatic encephalopathy precipitated by volume depletion",
+        "Acute viral hepatitis",
+        "Wilson disease flare",
+        "Hyperammonemia from intestinal bleeding",
+        "Hyperthyroidism"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Volume depletion in liver disease decreases clearance of toxic metabolites and increases the risk of hepatic encephalopathy (confusion, disorientation).",
+        "Incorrect. Diuretic-induced volume depletion does not cause acute viral hepatitis.",
+        "Incorrect. Wilson disease is unrelated to loop diuretic effects.",
+        "Incorrect. Bleeding is not the brick's stated mechanism.",
+        "Incorrect. Hyperthyroidism is unrelated."
+      ]
+    },
+    {
+      "id": 19,
+      "stem": "Why are loop diuretics generally NOT used as first-line agents to lower blood pressure in primary hypertension?",
+      "choices": [
+        "They cannot lower BP at all",
+        "Their effects on BP are transient (short duration), they have minimal systemic vasodilation, and electrolyte effects can be severe",
+        "They are unaffordable",
+        "They are not absorbed orally",
+        "They are nephrotoxic in healthy adults"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Loops can lower BP, but not durably.",
+        "Correct. Loops have a short duration of action, minimal systemic arterial vasodilation, and can cause severe electrolyte imbalance, making thiazides preferable for sustained BP control.",
+        "Incorrect. Cost is not the rationale.",
+        "Incorrect. Most loops have adequate oral bioavailability.",
+        "Incorrect. They are not inherently nephrotoxic in healthy adults."
+      ]
+    },
+    {
+      "id": 20,
+      "stem": "Which of the following loop diuretics is associated with the highest risk of ototoxicity per the brick?",
+      "choices": ["Furosemide", "Bumetanide", "Torsemide", "Ethacrynic acid", "Spironolactone"],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Furosemide can cause ototoxicity but less commonly than ethacrynic acid.",
+        "Incorrect. Bumetanide is not noted as more ototoxic.",
+        "Incorrect. Torsemide is not noted as more ototoxic.",
+        "Correct. Ethacrynic acid causes ototoxicity more often than other loops; reserve for sulfa-allergic patients.",
+        "Incorrect. Spironolactone is not a loop diuretic."
+      ]
+    },
+    {
+      "id": 21,
+      "stem": "A nephrotic syndrome patient with severe edema is started on a loop diuretic. Which physiologic chain best explains the loop's effect on edema?",
+      "choices": [
+        "Direct inhibition of glomerular protein loss",
+        "Inhibition of NKCC2 → solute remains in lumen → water follows osmotically → urinary Na+ and water loss → reduced ECF",
+        "Activation of ADH → increased urine output",
+        "Direct constriction of capillaries to reduce leak",
+        "Increase in serum albumin"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Loops do not reduce glomerular protein loss.",
+        "Correct. By blocking NKCC2 in the TAL, solute (Na+, Cl-) remains in the lumen; water follows osmotically, producing significant urinary Na+ and water loss and decreasing ECF volume.",
+        "Incorrect. Loops do not act via ADH stimulation.",
+        "Incorrect. They do not directly constrict capillaries.",
+        "Incorrect. They do not raise serum albumin."
+      ]
+    },
+    {
+      "id": 22,
+      "stem": "A patient on furosemide develops hypokalemia. Which best describes the indirect mechanism of K+ loss via loop diuretics?",
+      "choices": [
+        "Direct inhibition of ROMK in the TAL",
+        "Increased urine flow and increased distal Na+ delivery enhance K+ secretion at the cortical collecting duct",
+        "Aldosterone receptor antagonism",
+        "H+/K+-ATPase activation in alpha-intercalated cells",
+        "Decreased GFR"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Loops do not directly inhibit ROMK.",
+        "Correct. Loops increase urine flow and Na+ delivery to the distal nephron, enhancing K+ secretion through ENaC-driven lumen-negativity and flow-stimulated channels, leading to hypokalemia.",
+        "Incorrect. Loops do not antagonize the aldosterone receptor.",
+        "Incorrect. They do not activate H+/K+-ATPase.",
+        "Incorrect. Loops do not directly decrease GFR; if anything, they increase it."
+      ]
+    },
+    {
+      "id": 23,
+      "stem": "Why is ethacrynic acid generally reserved as a second-line loop diuretic, per the brick?",
+      "choices": [
+        "It causes severe hyperkalemia",
+        "It has no oral bioavailability",
+        "It has a higher rate of ototoxicity than other loops",
+        "It causes nephrogenic diabetes insipidus",
+        "It is primarily metabolized to thiazide"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Loops cause hypokalemia.",
+        "Incorrect. Ethacrynic acid is reasonably absorbed orally.",
+        "Correct. Ethacrynic acid causes ototoxicity more often than other loops, so it should be used only when other loops are not tolerated (e.g., sulfa allergy).",
+        "Incorrect. Loops do not cause nephrogenic DI.",
+        "Incorrect. It is not metabolized to a thiazide."
+      ]
+    },
+    {
+      "id": 24,
+      "stem": "If a patient is taking 40 mg of furosemide and is switched to bumetanide for improved efficacy, what is the equivalent bumetanide dose?",
+      "choices": ["0.5 mg", "1 mg", "10 mg", "20 mg", "40 mg"],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. This is too low for equivalence.",
+        "Correct. Per the brick's potency table, 1 mg of bumetanide equals 40 mg of furosemide in diuretic effect.",
+        "Incorrect. This dose far exceeds the equivalent.",
+        "Incorrect. This dose far exceeds the equivalent.",
+        "Incorrect. Bumetanide is far more potent than furosemide on a per-mg basis."
+      ]
+    },
+    {
+      "id": 25,
+      "stem": "A 72-year-old woman with CHF needs rapid management of contraction alkalosis from over-diuresis. Per the brick, which diuretic class can be used for rapid correction of the alkalosis?",
+      "choices": [
+        "Aldosterone antagonist",
+        "Carbonic anhydrase inhibitor",
+        "Thiazide diuretic",
+        "Loop diuretic at higher dose",
+        "Mannitol"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Aldosterone antagonists do not rapidly correct alkalosis.",
+        "Correct. Carbonic anhydrase inhibitors can be used to rapidly correct the alkalosis caused by over-diuresis with loop agents.",
+        "Incorrect. Thiazides also cause alkalosis and would not correct it.",
+        "Incorrect. More loop diuretic would worsen the alkalosis.",
+        "Incorrect. Mannitol is an osmotic diuretic and does not target alkalosis."
+      ]
+    }
+  ]
+}

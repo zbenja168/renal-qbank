@@ -1,0 +1,481 @@
+{
+  "id": 21,
+  "title": "Antidiuretic Hormone Receptor Antagonists",
+  "questions": [
+    {
+      "id": 1,
+      "stem": "A 55-year-old man with newly diagnosed small cell lung cancer presents with confusion. Serum sodium is 125 mEq/L with low serum osmolality and inappropriately concentrated urine. The clinician considers an ADH receptor antagonist. Which receptor subtype provides the main therapeutic benefit of these drugs?",
+      "choices": [
+        "Alpha-1 receptor",
+        "Beta-2 receptor",
+        "Mineralocorticoid receptor",
+        "V1 receptor",
+        "V2 receptor"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. Alpha-1 is an adrenergic receptor unrelated to ADH antagonism.",
+        "Incorrect. Beta-2 receptors are not the ADH antagonist target.",
+        "Incorrect. Mineralocorticoid antagonists (e.g., spironolactone) are different drugs.",
+        "Incorrect. Although some ADH antagonists block V1, the main therapeutic benefit is V2 blockade.",
+        "Correct. Although some agents block multiple ADH receptors, the main therapeutic benefit comes from V2 blockade in the renal collecting duct, which prevents water reabsorption and corrects SIADH-related hyponatremia."
+      ]
+    },
+    {
+      "id": 2,
+      "stem": "An ADH antagonist is administered to a patient with SIADH. Which cellular event in the principal cell is most directly blocked?",
+      "choices": [
+        "Insertion of aquaporin channels into the apical membrane",
+        "Insertion of ENaC into the apical membrane",
+        "Sodium reabsorption via the Na/K-ATPase",
+        "Translocation of mineralocorticoid receptors",
+        "Vasoconstriction of the afferent arteriole"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. ADH antagonists bind V2 receptors, preventing AQP insertion into the apical/luminal membrane and blocking water reabsorption (causing water diuresis).",
+        "Incorrect. ENaC is regulated by aldosterone.",
+        "Incorrect. Na/K-ATPase activity is not the direct ADH-mediated step.",
+        "Incorrect. ADH antagonists do not act on mineralocorticoid receptors.",
+        "Incorrect. Afferent arteriole tone is not the brick's described action."
+      ]
+    },
+    {
+      "id": 3,
+      "stem": "A 60-year-old woman with chronic SIADH from a CNS tumor has serum sodium 122 mEq/L. She is started on tolvaptan. Which physiologic change is expected?",
+      "choices": [
+        "Decreased serum osmolality",
+        "Decreased urine output",
+        "Increased serum osmolality and increased serum sodium concentration",
+        "Increased urine osmolality",
+        "Reduced free water excretion"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Tolvaptan corrects hyponatremia, raising serum osmolality.",
+        "Incorrect. Urine output increases (water diuresis).",
+        "Correct. Blocking V2 receptors prevents water reabsorption, increasing free water excretion; serum osmolality and serum sodium rise toward normal.",
+        "Incorrect. Urine becomes more dilute (lower urine osmolality), not more concentrated.",
+        "Incorrect. Free water excretion increases, not decreases."
+      ]
+    },
+    {
+      "id": 4,
+      "stem": "A 65-year-old man with severe symptomatic hyponatremia from SIADH (Na 116 mEq/L) is admitted. The team plans to use IV ADH receptor antagonism plus hypertonic saline. Which agent best fits the IV component?",
+      "choices": [
+        "Conivaptan",
+        "Demeclocycline",
+        "Furosemide",
+        "Spironolactone",
+        "Tolvaptan"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Conivaptan is given IV and antagonizes both V1 and V2 ADH receptors; it can be used with hypertonic saline for severe symptomatic hyponatremia.",
+        "Incorrect. Demeclocycline acts more slowly and is given orally for chronic SIADH.",
+        "Incorrect. Furosemide is a loop diuretic, not an ADH antagonist.",
+        "Incorrect. Spironolactone is a mineralocorticoid receptor antagonist.",
+        "Incorrect. Tolvaptan is an oral medication."
+      ]
+    },
+    {
+      "id": 5,
+      "stem": "A 50-year-old woman with euvolemic hyponatremia from SIADH is being managed as an outpatient. Her physician selects an oral selective V2 antagonist. Which agent is most appropriate?",
+      "choices": [
+        "Conivaptan",
+        "Demeclocycline",
+        "Furosemide",
+        "Hydrochlorothiazide",
+        "Tolvaptan"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. Conivaptan is IV.",
+        "Incorrect. Demeclocycline is not a true ADH receptor antagonist.",
+        "Incorrect. Furosemide is a loop diuretic.",
+        "Incorrect. HCTZ may CAUSE hyponatremia.",
+        "Correct. Tolvaptan is a selective oral V2 antagonist used for SIADH (euvolemic hyponatremia) and CHF-related hyponatremia, suitable for outpatient therapy."
+      ]
+    },
+    {
+      "id": 6,
+      "stem": "A 55-year-old patient is started on tolvaptan for severe SIADH. Which condition would be a reason to AVOID this drug?",
+      "choices": [
+        "Cirrhosis or chronic liver disease",
+        "Heart failure with preserved ejection fraction",
+        "Hypokalemia",
+        "Hypothyroidism",
+        "Mild allergies"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Tolvaptan should be avoided in liver disease (including cirrhosis) because of associated elevated transaminases; it should also not be given for more than 30 days.",
+        "Incorrect. CHF is an indication for tolvaptan, not a contraindication.",
+        "Incorrect. Hypokalemia is not the listed contraindication for tolvaptan.",
+        "Incorrect. Hypothyroidism is not the listed contraindication.",
+        "Incorrect. Mild allergies are not the brick's reason to avoid tolvaptan."
+      ]
+    },
+    {
+      "id": 7,
+      "stem": "A 45-year-old man with autosomal dominant polycystic kidney disease (ADPKD) is started on tolvaptan. Which best describes the rationale for using this drug in ADPKD?",
+      "choices": [
+        "It dissolves existing cysts immediately",
+        "It increases blood pressure to improve kidney perfusion",
+        "It reduces cyst formation and slows the decline in renal function",
+        "It replaces dialysis",
+        "It treats associated hypertension"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Tolvaptan does not dissolve existing cysts.",
+        "Incorrect. Improving blood pressure is not the rationale.",
+        "Correct. Tolvaptan reduces cyst formation and slows the decline in renal function in ADPKD; its use is monitored due to side effects.",
+        "Incorrect. Tolvaptan does not replace dialysis.",
+        "Incorrect. Treating hypertension is not the indication."
+      ]
+    },
+    {
+      "id": 8,
+      "stem": "A 68-year-old man with severe CHF has worsening pulmonary edema despite loop diuretics. He has a normal sodium. Tolvaptan is added. Which best explains its role?",
+      "choices": [
+        "Direct positive inotropic effect on the heart",
+        "Increase in renal water excretion (and increased GFR), helping reduce pulmonary edema",
+        "Lower blood pressure to reduce afterload",
+        "Selective coronary vasodilation",
+        "Suppression of the SA node"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Tolvaptan is not an inotrope.",
+        "Correct. Even without hyponatremia, tolvaptan is approved for resistant pulmonary edema in CHF; blocking ADH increases water excretion and GFR, which is helpful in CHF.",
+        "Incorrect. Tolvaptan is not described as an afterload-reducing antihypertensive.",
+        "Incorrect. It is not a coronary vasodilator.",
+        "Incorrect. It does not act on the SA node."
+      ]
+    },
+    {
+      "id": 9,
+      "stem": "An ICU clinician chooses between conivaptan and tolvaptan for severe symptomatic SIADH. Which feature distinguishes conivaptan from tolvaptan?",
+      "choices": [
+        "Conivaptan blocks both V1 and V2; tolvaptan is selective for V2",
+        "Conivaptan is contraindicated in liver disease, tolvaptan is preferred there",
+        "Conivaptan is oral; tolvaptan is IV",
+        "Tolvaptan blocks both V1 and V2; conivaptan blocks only V2",
+        "Tolvaptan is the only one that may cause hypotension"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Conivaptan is IV and antagonizes both V1 (vasoconstriction) and V2 (water reabsorption); tolvaptan is oral and selective for V2.",
+        "Incorrect. Tolvaptan, not conivaptan, is contraindicated in liver disease.",
+        "Incorrect. The opposite is true: conivaptan IV, tolvaptan oral.",
+        "Incorrect. The opposite is true regarding receptor selectivity.",
+        "Incorrect. Conivaptan is the agent associated with orthostatic hypotension via V1 blockade."
+      ]
+    },
+    {
+      "id": 10,
+      "stem": "A 60-year-old man with chronic SIADH cannot tolerate tolvaptan due to liver disease. The clinician considers demeclocycline. Which best describes demeclocycline?",
+      "choices": [
+        "A direct V2 receptor antagonist",
+        "A loop diuretic agonist",
+        "A potent V1 selective antagonist",
+        "A tetracycline antibiotic that interferes with biochemical signaling after ADH binds V2, mimicking ADH antagonist effects",
+        "A vasopressin agonist"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Demeclocycline is not a true ADH receptor antagonist.",
+        "Incorrect. It is not a loop diuretic agonist.",
+        "Incorrect. It does not selectively antagonize V1.",
+        "Correct. Demeclocycline is an antibiotic that, in chronic SIADH, interferes with the biochemical signaling cascade downstream of V2 receptor binding, preventing AQP translocation and acting as a mild ADH antagonist.",
+        "Incorrect. Demeclocycline is not an ADH agonist; it functions as an antagonist analogue."
+      ]
+    },
+    {
+      "id": 11,
+      "stem": "A patient with severe chronic hyponatremia (Na 105 mEq/L) is given an ADH antagonist. Within hours sodium rises to 122 mEq/L. Days later, the patient develops dysphagia, dysarthria, and quadriparesis. What complication is most likely?",
+      "choices": [
+        "Cerebral edema",
+        "Hyperammonemic encephalopathy",
+        "Hypoxic brain injury",
+        "Osmotic demyelinating syndrome",
+        "Stroke"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Cerebral edema is associated with acute hyponatremia or rapid correction of HYPERnatremia.",
+        "Incorrect. Hyperammonemic encephalopathy is unrelated.",
+        "Incorrect. Hypoxia is not the described mechanism.",
+        "Correct. Per the brick, overly rapid correction (>6-8 mEq/L per 24 hours) of hyponatremia, especially when initial sodium is <105 mEq/L, can cause irreversible osmotic demyelinating syndrome with damage to the pons.",
+        "Incorrect. The clinical picture fits ODS, not stroke."
+      ]
+    },
+    {
+      "id": 12,
+      "stem": "Which sodium correction limit is recommended to prevent osmotic demyelinating syndrome when using an ADH antagonist?",
+      "choices": [
+        "Less than 2 mEq/L per hour",
+        "No more than 4 mEq/L per 6 hours",
+        "No more than 6-8 mEq/L per 24 hours",
+        "No more than 10-12 mEq/L per 12 hours",
+        "No more than 20 mEq/L per 24 hours"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. The brick does not specify this exact threshold.",
+        "Incorrect. Not the brick's threshold.",
+        "Correct. The brick recommends correcting serum sodium by no more than 6-8 mEq/L per 24 hours to avoid osmotic demyelinating syndrome.",
+        "Incorrect. This exceeds the safe limit and would risk ODS.",
+        "Incorrect. This is well above the safe range."
+      ]
+    },
+    {
+      "id": 13,
+      "stem": "A 65-year-old man on conivaptan develops dizziness on standing with a drop in blood pressure. Which mechanism best explains this adverse effect?",
+      "choices": [
+        "Direct beta-1 antagonism of the heart",
+        "Increased baroreceptor sensitivity",
+        "Reduced sodium reabsorption causing hypovolemia",
+        "Suppression of aldosterone",
+        "V1 receptor blockade preventing arteriolar vasoconstriction"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. Conivaptan does not block beta-1 receptors.",
+        "Incorrect. Baroreceptor sensitivity is not the described mechanism.",
+        "Incorrect. The brick attributes orthostasis to V1 blockade, not sodium handling.",
+        "Incorrect. The brick does not invoke aldosterone suppression.",
+        "Correct. Conivaptan also blocks vasoconstricting V1 receptors, which can cause orthostatic hypotension."
+      ]
+    },
+    {
+      "id": 14,
+      "stem": "A patient on tolvaptan reports increased thirst and dizziness. Which other adverse effect is also commonly associated with these agents?",
+      "choices": [
+        "Constipation",
+        "Fatigue",
+        "Hyperglycemia",
+        "Polyphagia",
+        "Weight gain"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Constipation is not the listed adverse effect.",
+        "Correct. Other adverse effects of these agents include fatigue, dizziness, and increased thirst.",
+        "Incorrect. Hyperglycemia is not the brick-listed adverse effect.",
+        "Incorrect. Polyphagia is not the listed adverse effect.",
+        "Incorrect. Weight gain is not the listed adverse effect."
+      ]
+    },
+    {
+      "id": 15,
+      "stem": "A patient on tolvaptan has elevated transaminases on monitoring labs. Which best describes the management implication per the brick?",
+      "choices": [
+        "Add demeclocycline",
+        "Continue at the same dose",
+        "Discontinue tolvaptan; it is not recommended in liver disease",
+        "Increase the tolvaptan dose",
+        "Switch to a higher-protein diet"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Adding demeclocycline does not address tolvaptan-induced liver injury.",
+        "Incorrect. Continuing at the same dose ignores hepatic concerns.",
+        "Correct. Tolvaptan has been associated with elevated transaminases and is not recommended for use in patients with underlying liver disease.",
+        "Incorrect. Increasing the dose worsens the issue.",
+        "Incorrect. Diet does not address tolvaptan hepatotoxicity."
+      ]
+    },
+    {
+      "id": 16,
+      "stem": "A patient on tolvaptan is started on ketoconazole for a fungal infection. Which interaction is most concerning?",
+      "choices": [
+        "Decreased ADH receptor sensitivity",
+        "Increased renal clearance of ketoconazole",
+        "Inhibition of CYP3A4 increasing tolvaptan levels",
+        "Synergistic vasoconstriction",
+        "Tolvaptan-induced hyperglycemia"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. The interaction is pharmacokinetic, not via receptor sensitivity changes.",
+        "Incorrect. Tolvaptan's interaction with ketoconazole is not via increased ketoconazole clearance.",
+        "Correct. Tolvaptan and conivaptan are moderate CYP3A4 inhibitors and conivaptan is itself metabolized by CYP3A4; ketoconazole is also a CYP3A4 inhibitor, so the combination should be used cautiously to avoid elevated drug levels.",
+        "Incorrect. Synergistic vasoconstriction is not the issue.",
+        "Incorrect. Tolvaptan does not cause hyperglycemia."
+      ]
+    },
+    {
+      "id": 17,
+      "stem": "A clinician wants to predict which medications may have altered concentrations when given with conivaptan. Which class of drugs is most likely affected?",
+      "choices": [
+        "ACE inhibitors",
+        "Aminoglycoside antibiotics",
+        "Drugs metabolized by CYP3A4 (e.g., acetaminophen, codeine, diazepam)",
+        "Drugs that act at GABA receptors",
+        "Insulin and oral hypoglycemics"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Renin-angiotensin drugs are not the brick's concern.",
+        "Incorrect. Aminoglycosides are renally cleared and not the brick's concern.",
+        "Correct. Conivaptan inhibits CYP3A4; drugs commonly metabolized by CYP3A4 (acetaminophen, codeine, diazepam) may have increased concentrations.",
+        "Incorrect. The brick does not focus on GABAergic drugs.",
+        "Incorrect. Glycemic agents are not specifically addressed in the CYP3A4 issue."
+      ]
+    },
+    {
+      "id": 18,
+      "stem": "A patient receiving conivaptan is also taking ciprofloxacin. Which best describes the brick's relevant drug interaction concern?",
+      "choices": [
+        "Both drugs cause QT prolongation specifically",
+        "Ciprofloxacin inhibits CYP3A4 and could compound conivaptan's metabolism issues",
+        "Ciprofloxacin precipitates conivaptan in solution",
+        "Conivaptan inhibits ciprofloxacin renal clearance",
+        "Conivaptan reduces ciprofloxacin's antibacterial activity"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. The brick does not focus on QT effects here.",
+        "Correct. Ciprofloxacin (along with macrolides, cimetidine, and ketoconazole) inhibits CYP3A4; combining with conivaptan could worsen drug interactions because conivaptan is metabolized by CYP3A4.",
+        "Incorrect. Physical precipitation is not the brick's described concern.",
+        "Incorrect. Renal clearance is not the brick's stated concern.",
+        "Incorrect. Antibacterial activity is not the focus."
+      ]
+    },
+    {
+      "id": 19,
+      "stem": "A 60-year-old woman with chronic SIADH is treated with conivaptan and develops orthostatic hypotension. Switching to tolvaptan is considered. Which feature of tolvaptan makes this switch reasonable?",
+      "choices": [
+        "Tolvaptan blocks both V1 and V2 receptors",
+        "Tolvaptan has no risk of demyelination",
+        "Tolvaptan is preferred in liver disease",
+        "Tolvaptan is selective for V2 with less V1 (vascular) effect",
+        "Tolvaptan provides positive inotropy"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. The dual blockade is conivaptan's profile.",
+        "Incorrect. All ADH antagonists carry ODS risk if sodium rises too rapidly.",
+        "Incorrect. Tolvaptan is contraindicated in liver disease.",
+        "Correct. Tolvaptan is a selective oral V2 antagonist; lacking V1 blockade reduces the orthostatic hypotension risk seen with conivaptan.",
+        "Incorrect. Tolvaptan does not provide inotropy."
+      ]
+    },
+    {
+      "id": 20,
+      "stem": "Which condition is the PRIMARY indication for ADH receptor antagonists?",
+      "choices": [
+        "Central diabetes insipidus",
+        "Hypernatremia",
+        "Hyponatremia, especially from SIADH",
+        "Hypotension in shock",
+        "Severe von Willebrand bleeding"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Central DI is treated with ADH AGONISTS, not antagonists.",
+        "Incorrect. Hypernatremia would be worsened.",
+        "Correct. ADH receptor antagonists are primarily used to treat hyponatremia, particularly SIADH, by blocking renal water reabsorption.",
+        "Incorrect. Shock is treated with ADH agonists like vasopressin.",
+        "Incorrect. vWD is treated with desmopressin (an agonist)."
+      ]
+    },
+    {
+      "id": 21,
+      "stem": "A 70-year-old man with hypervolemic hyponatremia from CHF is unresponsive to fluid restriction and loop diuretics, with sodium 124 mEq/L. Which next addition is most appropriate?",
+      "choices": [
+        "Demeclocycline",
+        "Hydrochlorothiazide",
+        "Lisinopril",
+        "Spironolactone",
+        "Tolvaptan"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. Demeclocycline is reserved for chronic SIADH where -vaptans are not used.",
+        "Incorrect. Thiazides may cause hyponatremia.",
+        "Incorrect. Lisinopril does not specifically address hyponatremia in this brick.",
+        "Incorrect. Spironolactone is not the brick's first choice for refractory CHF hyponatremia.",
+        "Correct. Tolvaptan is approved for hyponatremia in CHF (hypervolemic) and would be added when fluid restriction and loop diuretics fail."
+      ]
+    },
+    {
+      "id": 22,
+      "stem": "A 70-year-old hospitalized patient with SIADH is started on conivaptan. The team plans concurrent slow IV hypertonic saline. Which complication is most relevant to monitor closely?",
+      "choices": [
+        "Acute pancreatitis",
+        "Hyperglycemia",
+        "Hypokalemia",
+        "Overcorrection of sodium leading to osmotic demyelination",
+        "Tachycardia from beta-receptor stimulation"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Pancreatitis is not the highlighted concern.",
+        "Incorrect. Hyperglycemia is not the brick's main complication concern.",
+        "Incorrect. Hypokalemia is not the highlighted concern.",
+        "Correct. Combining ADH antagonists with hypertonic saline can rapidly raise sodium; the main feared complication is overcorrection leading to osmotic demyelinating syndrome.",
+        "Incorrect. The brick does not list beta-receptor stimulation."
+      ]
+    },
+    {
+      "id": 23,
+      "stem": "Which single condition is described in this brick as STRONGLY associated with SIADH?",
+      "choices": [
+        "Adenocarcinoma of the prostate",
+        "Hepatocellular carcinoma",
+        "Nephrotic syndrome",
+        "Ovarian cancer",
+        "Small cell lung cancer"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. Prostate adenocarcinoma is not the brick's prototypical SIADH cause.",
+        "Incorrect. Hepatocellular carcinoma is not specifically listed as strongly associated with SIADH.",
+        "Incorrect. Nephrotic syndrome is not the strong SIADH association.",
+        "Incorrect. Ovarian cancer is not specifically listed as strongly associated with SIADH.",
+        "Correct. The brick states SIADH is strongly associated with small cell lung cancer; pulmonary disease, CNS disease, antidepressants, and antipsychotics are also common causes."
+      ]
+    },
+    {
+      "id": 24,
+      "stem": "A patient with CHF is started on tolvaptan to manage refractory pulmonary edema. The clinician notes both V2 antagonism (water excretion) and another renal effect. Which additional renal effect of tolvaptan helps in CHF?",
+      "choices": [
+        "Acetylation of aquaporins",
+        "Decreased GFR",
+        "Decreased serum creatinine via cytokine release",
+        "Increased GFR helping renal fluid loss",
+        "Stimulation of aldosterone"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Tolvaptan does not acetylate aquaporins.",
+        "Incorrect. The brick states GFR increases with ADH blockade.",
+        "Incorrect. Cytokine-mediated creatinine reduction is not the mechanism.",
+        "Correct. Per the brick, blocking ADH increases both water excretion and GFR; both increase renal fluid loss, helpful in CHF and resistant pulmonary edema.",
+        "Incorrect. Tolvaptan does not stimulate aldosterone."
+      ]
+    },
+    {
+      "id": 25,
+      "stem": "A 55-year-old man with small cell lung cancer presents with confusion. Labs show serum sodium 125 mEq/L, low serum osmolality, and inappropriately concentrated urine. Which combination of management steps is most consistent with the case conclusion in this brick?",
+      "choices": [
+        "Aggressive normal saline boluses with no monitoring",
+        "Demeclocycline plus high free water intake",
+        "Fluid restriction plus consideration of an ADH antagonist (conivaptan), with hospital admission for close sodium monitoring",
+        "Hypertonic saline given rapidly to normalize sodium within 6 hours",
+        "Tolvaptan as long as needed without time limits"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Aggressive saline without monitoring would risk overcorrection.",
+        "Incorrect. Increasing free water intake would worsen hyponatremia.",
+        "Correct. The case conclusion supports fluid restriction plus consideration of an ADH antagonist (conivaptan) and hospital admission for close monitoring of serum sodium to avoid overcorrection.",
+        "Incorrect. Rapid normalization risks osmotic demyelinating syndrome.",
+        "Incorrect. Tolvaptan should not be given for more than 30 days, particularly given hepatic risk."
+      ]
+    }
+  ]
+}

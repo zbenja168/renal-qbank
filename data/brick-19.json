@@ -1,0 +1,481 @@
+{
+  "id": 19,
+  "title": "Hypernatremia",
+  "questions": [
+    {
+      "id": 1,
+      "stem": "An 89-year-old nursing home resident with Alzheimer disease spends her entire day in bed. Nurses note her water pitcher and food tray, kept on the far side of the room, are never touched. She becomes confused and unresponsive. Labs show serum sodium 164 mEq/L. Which underlying problem is most directly responsible for her hypernatremia?",
+      "choices": [
+        "Aldosterone excess",
+        "Excess sodium intake",
+        "Inability to access water",
+        "Renal tubular sodium retention",
+        "SIADH"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. The brick frames hypernatremia as a water deficit, not as a primary mineralocorticoid excess.",
+        "Incorrect. Excess sodium intake is an uncommon cause; this patient's history points to lack of water access.",
+        "Correct. Hypernatremia almost always reflects insufficient water intake; immobile, demented, or restrained patients commonly cannot access water.",
+        "Incorrect. Hypernatremia is essentially a water problem, not a sodium retention problem.",
+        "Incorrect. SIADH causes water retention and hyponatremia, not hypernatremia."
+      ]
+    },
+    {
+      "id": 2,
+      "stem": "A 75-year-old man with chronic hypernatremia (Na 168 mEq/L over weeks) is alert and oriented, while a 45-year-old who develops Na 152 mEq/L acutely after IV hypertonic fluid is delirious. Which best explains the difference in symptom severity?",
+      "choices": [
+        "Acute brain edema in the chronic patient",
+        "Compensatory accumulation of cellular osmolytes over time",
+        "Higher BUN in the chronic patient",
+        "Lower aldosterone in the acute patient",
+        "More renal water loss in the acute patient"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Brain edema is a concern in correction of hypernatremia, not in chronic hypernatremia itself.",
+        "Correct. With chronic hypernatremia, brain cells accumulate inorganic and organic osmolytes (such as potassium and idiogenic osmoles), reducing osmotic gradients and symptoms.",
+        "Incorrect. BUN is not the mechanistic explanation given in the brick.",
+        "Incorrect. Aldosterone differences are not the explanation.",
+        "Incorrect. Symptoms relate to rapidity of sodium rise, not the renal vs extrarenal source."
+      ]
+    },
+    {
+      "id": 3,
+      "stem": "A 6-month-old infant has profuse watery diarrhea for 3 days. He is lethargic with sunken fontanelles. Serum sodium is 158 mEq/L; urine output is low. Which mechanism best explains his hypernatremia?",
+      "choices": [
+        "Diabetes insipidus",
+        "Excess sodium administration",
+        "Hypotonic GI fluid loss exceeding intake",
+        "Osmotic diuresis from hyperglycemia",
+        "Renal tubular acidosis"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. DI presents with HIGH urine output (polyuria); his urine output is low.",
+        "Incorrect. Excess sodium intake is not implied by viral diarrhea.",
+        "Correct. Diarrhea can be hypotonic, causing free water loss in excess of sodium loss; combined with limited intake, this produces hypernatremia.",
+        "Incorrect. Osmotic diuresis would produce high urine output and is not implied here.",
+        "Incorrect. Renal tubular acidosis is not the mechanism described in the brick for hypernatremia."
+      ]
+    },
+    {
+      "id": 4,
+      "stem": "A 30-year-old construction worker labors outdoors during a heat wave with limited water intake. He presents with tachycardia, dry mucous membranes, and serum sodium of 152 mEq/L. Sweat-related water loss is implicated. Which property of sweat best explains how excessive sweating leads to hypernatremia?",
+      "choices": [
+        "Sweat has the same sodium concentration as serum",
+        "Sweat is alkaline",
+        "Sweat is hypertonic compared with serum",
+        "Sweat is hypotonic, with sodium of 40-60 mEq/L",
+        "Sweat sodium concentration matches plasma proteins"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Sweat is dilute, not isotonic.",
+        "Incorrect. The brick does not invoke sweat pH as the mechanism.",
+        "Incorrect. Sweat is hypotonic, not hypertonic.",
+        "Correct. Sweat contains 40 to 60 mEq/L of sodium, making it hypotonic; loss disproportionately removes water relative to sodium and predisposes to hypernatremia.",
+        "Incorrect. Sweat sodium does not relate to plasma proteins."
+      ]
+    },
+    {
+      "id": 5,
+      "stem": "A 26-year-old man recovering from pituitary surgery develops urine output of 8-10 L/day. Serum sodium rises to 152 mEq/L; urine osmolality is 120 mOsm/kg. After IV desmopressin, urine osmolality rises sharply and urine volume falls. What is the most likely diagnosis?",
+      "choices": [
+        "Central diabetes insipidus",
+        "Nephrogenic diabetes insipidus",
+        "Osmotic diuresis from glucose",
+        "Primary polydipsia",
+        "SIADH"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Postsurgical pituitary damage causes loss of ADH; the kidneys respond to exogenous DDAVP by concentrating urine, confirming central DI.",
+        "Incorrect. In nephrogenic DI, the kidneys do not respond to exogenous ADH; urine osmolality would not rise.",
+        "Incorrect. Osmotic diuresis would show high urine osmolality and an unmeasured osmole.",
+        "Incorrect. Primary polydipsia presents with hyponatremia, not hypernatremia.",
+        "Incorrect. SIADH is associated with hyponatremia."
+      ]
+    },
+    {
+      "id": 6,
+      "stem": "A 38-year-old man with bipolar disorder has been on lithium for 12 years. He presents with polyuria (>5 L/day), polydipsia, and serum sodium 150 mEq/L. After overnight water deprivation, serum sodium becomes 151 mEq/L. After desmopressin, serum sodium remains 152 mEq/L (no change in urine concentration). Which is the most likely diagnosis?",
+      "choices": [
+        "Central DI",
+        "Nephrogenic DI from lithium",
+        "Osmotic diuresis from hyperglycemia",
+        "Primary polydipsia",
+        "SIADH"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. In central DI, urine concentrates after exogenous ADH; here it does not.",
+        "Correct. Lithium interferes with ADH receptor signaling in the collecting duct; long-term use causes nephrogenic DI that may be permanent. Failure to concentrate after DDAVP confirms a renal (not central) mechanism.",
+        "Incorrect. Glucose-driven osmotic diuresis is not implicated here.",
+        "Incorrect. Primary polydipsia presents with hyponatremia, and patients respond to water deprivation by concentrating their urine.",
+        "Incorrect. SIADH causes hyponatremia, not hypernatremia."
+      ]
+    },
+    {
+      "id": 7,
+      "stem": "A 70-year-old woman with metastatic breast cancer is found to have a serum calcium of 13.5 mg/dL, polyuria, and serum sodium 150 mEq/L. Which mechanism best explains her renal water loss?",
+      "choices": [
+        "Aldosterone excess from adrenal metastases",
+        "Direct ADH suppression by calcium in the pituitary",
+        "Hypercalcemia activating calcium-sensing receptors in the thick ascending limb and decreasing aquaporin expression",
+        "Increased medullary blood flow",
+        "Stimulation of distal sodium channels"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Aldosterone excess does not produce DI per the brick.",
+        "Incorrect. The brick focuses on tubular effects of hypercalcemia rather than direct pituitary suppression.",
+        "Correct. Hypercalcemia activates calcium-sensing receptors in the thick ascending limb (similar to loop diuretic effects), causes tubulointerstitial injury, and decreases aquaporin expression in the collecting duct, producing nephrogenic DI and polyuria.",
+        "Incorrect. Increased medullary flow is not the brick's described mechanism.",
+        "Incorrect. Hypercalcemia does not stimulate distal sodium channels per this brick."
+      ]
+    },
+    {
+      "id": 8,
+      "stem": "A 50-year-old woman with autosomal dominant polycystic kidney disease (ADPKD) is started on tolvaptan to slow progression. Several days later her serum sodium rises and urine output increases. Which adverse effect is responsible?",
+      "choices": [
+        "Central diabetes insipidus",
+        "Nephrogenic diabetes insipidus",
+        "Osmotic diuresis",
+        "Pseudohyponatremia",
+        "SIADH"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Tolvaptan acts at the V2 receptor in the kidney, not the pituitary.",
+        "Correct. Tolvaptan, a V2-receptor antagonist used in ADPKD, induces nephrogenic DI by blocking renal ADH effect, leading to polyuria, polydipsia, and hypernatremia.",
+        "Incorrect. Tolvaptan does not produce an osmotic diuresis.",
+        "Incorrect. Pseudohyponatremia is unrelated to tolvaptan.",
+        "Incorrect. Tolvaptan treats SIADH; it does not cause it."
+      ]
+    },
+    {
+      "id": 9,
+      "stem": "A 22-year-old with newly diagnosed type 1 diabetes has serum glucose 720 mg/dL, polyuria, and serum sodium 158 mEq/L. Which mechanism best explains his hypernatremia?",
+      "choices": [
+        "Central DI",
+        "Inability to access water",
+        "Lithium-induced nephrogenic DI",
+        "Osmotic diuresis from glucose",
+        "SIADH"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Central DI involves a lack of ADH, not glucose-driven osmotic diuresis.",
+        "Incorrect. While intake matters, the dominant mechanism is glucose-driven renal water loss.",
+        "Incorrect. There is no mention of lithium use.",
+        "Correct. Severe hyperglycemia produces an osmotic diuresis: glucose in the urine drags water and electrolytes out, with water lost in excess of solute, producing hypernatremia.",
+        "Incorrect. SIADH causes hyponatremia, not hypernatremia."
+      ]
+    },
+    {
+      "id": 10,
+      "stem": "A 65-year-old woman with cerebral edema is treated with IV mannitol. Several hours later her urine output rises sharply, urine osmolality is high, and serum sodium climbs to 152 mEq/L. Which is the most likely cause of her hypernatremia?",
+      "choices": [
+        "Central DI from raised intracranial pressure",
+        "Mannitol-induced osmotic diuresis",
+        "Nephrogenic DI",
+        "Pseudohypernatremia",
+        "SIADH from CNS injury"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. The clinical scenario centers on mannitol use rather than ADH deficiency.",
+        "Correct. Mannitol acts as an unmeasured osmole in the urine, dragging water and electrolytes out and producing osmotic diuresis with free water loss.",
+        "Incorrect. Nephrogenic DI is not caused by mannitol per the brick.",
+        "Incorrect. The brick does not describe a pseudohypernatremia analog.",
+        "Incorrect. SIADH causes hyponatremia."
+      ]
+    },
+    {
+      "id": 11,
+      "stem": "A 70-year-old man suffers cardiac arrest and receives multiple ampules of sodium bicarbonate during resuscitation. After the event, his serum sodium is 156 mEq/L. Which mechanism is most likely?",
+      "choices": [
+        "Central DI",
+        "Excess sodium intake",
+        "Hyperglycemia-driven osmotic diuresis",
+        "Nephrogenic DI",
+        "Sweat-related free water loss"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. The history points to administered sodium load, not pituitary dysfunction.",
+        "Correct. Sodium bicarbonate ampules contain sodium at 1000 mEq/L; ICU patients receiving multiple ampules during cardiac arrest may become hypernatremic.",
+        "Incorrect. Hyperglycemia is not implicated in this scenario.",
+        "Incorrect. Nephrogenic DI is not the mechanism described.",
+        "Incorrect. Sweat losses do not explain this acute resuscitation-related rise."
+      ]
+    },
+    {
+      "id": 12,
+      "stem": "A 60-year-old woman has serum sodium 162 mEq/L and severe confusion. Which mechanism best explains her neurologic symptoms?",
+      "choices": [
+        "Cerebral edema from osmotic shifts into the brain",
+        "Loss of cerebral autoregulation only",
+        "Pituitary infarction",
+        "Toxic effect of bicarbonate",
+        "Water shift from brain cells into the blood, causing brain shrinkage"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. Hypernatremia draws water OUT of cells; cerebral edema is a complication of acute hyponatremia or rapid hypernatremia correction.",
+        "Incorrect. The brick attributes symptoms to osmotic shifts, not autoregulation.",
+        "Incorrect. Pituitary infarction is not the proposed mechanism.",
+        "Incorrect. Bicarbonate is not implicated as a neurologic toxin in this brick.",
+        "Correct. High serum osmolality draws water from intracellular fluid (brain) into the extracellular fluid; brain shrinkage produces neurologic symptoms and can lead to confusion, seizures, and coma."
+      ]
+    },
+    {
+      "id": 13,
+      "stem": "A 60-year-old man with serum sodium 158 mEq/L has urine osmolality of 750 mOsm/kg. Which best categorizes the source of his water loss?",
+      "choices": [
+        "Central DI",
+        "Extrarenal water loss with appropriate ADH response",
+        "Mannitol-induced osmotic diuresis",
+        "Nephrogenic DI",
+        "Tolvaptan-induced renal water loss"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Central DI typically produces dilute urine (<300 mOsm/kg), not concentrated urine.",
+        "Correct. Urine osmolality >600 mOsm/kg indicates the kidney is appropriately concentrating urine in response to ADH, so the water loss is most likely extrarenal (e.g., sweating, diarrhea).",
+        "Incorrect. Osmotic diuresis is suspected when high urine osmolality is paired with another osmole like glucose or mannitol.",
+        "Incorrect. Nephrogenic DI is associated with low (<300 mOsm/kg) urine osmolality.",
+        "Incorrect. Tolvaptan would produce inappropriately dilute urine."
+      ]
+    },
+    {
+      "id": 14,
+      "stem": "A patient with hypernatremia has urine osmolality of 250 mOsm/kg, plasma osmolality of 320 mOsm/kg, and no glycosuria. Which condition is most likely?",
+      "choices": [
+        "Diabetes insipidus",
+        "Excess sodium intake with intact ADH response",
+        "Extrarenal sweat loss",
+        "Mannitol-induced osmotic diuresis",
+        "SIADH"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. A urine osmolality lower than the elevated plasma osmolality despite hypernatremia confirms diabetes insipidus.",
+        "Incorrect. Excess sodium intake with intact ADH would produce concentrated urine.",
+        "Incorrect. Extrarenal losses with intact ADH produce concentrated, not dilute, urine.",
+        "Incorrect. Osmotic diuresis is associated with high urine osmolality from the unmeasured osmole.",
+        "Incorrect. SIADH causes hyponatremia, not hypernatremia."
+      ]
+    },
+    {
+      "id": 15,
+      "stem": "A 40-year-old woman with suspected partial DI has a normal serum sodium today. Which test is most appropriate to clarify the diagnosis?",
+      "choices": [
+        "24-hour urine sodium",
+        "Free water loading test",
+        "Random urine specific gravity",
+        "Serum copeptin only",
+        "Water deprivation test followed by DDAVP"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. 24-hour urine sodium is not the recommended test for partial DI.",
+        "Incorrect. Water loading is used to evaluate suspected SIADH.",
+        "Incorrect. A random specific gravity is not sensitive enough.",
+        "Incorrect. The brick recommends water deprivation testing.",
+        "Correct. The water deprivation test is used when the diagnosis of DI is uncertain (e.g., partial deficits or normal sodium); failure to maximally concentrate urine after deprivation, with response to DDAVP, distinguishes central vs nephrogenic DI."
+      ]
+    },
+    {
+      "id": 16,
+      "stem": "During a water deprivation test, a patient's urine osmolality remains low. After DDAVP, urine osmolality rises substantially and urine volume falls. Which diagnosis does this support?",
+      "choices": [
+        "Central DI",
+        "Nephrogenic DI",
+        "Normal (no DI)",
+        "Osmotic diuresis",
+        "Primary polydipsia"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. In central DI, kidneys can respond to exogenous ADH; urine osmolality rises and urine volume falls after DDAVP.",
+        "Incorrect. In nephrogenic DI, the kidneys do not respond to DDAVP, so urine osmolality remains low.",
+        "Incorrect. Normal patients concentrate urine maximally during deprivation alone.",
+        "Incorrect. Osmotic diuresis would not be diagnosed with this pattern.",
+        "Incorrect. Primary polydipsia patients concentrate urine in response to water deprivation alone."
+      ]
+    },
+    {
+      "id": 17,
+      "stem": "A 65-year-old man with hypernatremia (Na 158 mEq/L) has dry mucous membranes, orthostatic hypotension, and urine output of 200 mL over 8 hours. Which initial fluid is most appropriate?",
+      "choices": [
+        "0.45% saline",
+        "0.9% normal saline",
+        "3% hypertonic saline",
+        "5% dextrose in water",
+        "Free water by mouth only"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Hypotonic fluids should be reserved for after volume status is corrected.",
+        "Correct. Patients with hypernatremia AND clinical volume depletion should first receive isotonic IV fluid (e.g., 0.9% NaCl or LR) to restore extracellular volume; once euvolemic, attention shifts to correcting the water deficit.",
+        "Incorrect. Hypertonic saline would worsen hypernatremia.",
+        "Incorrect. D5W is appropriate for free water replacement after volume repletion is achieved.",
+        "Incorrect. With significant volume depletion, IV fluids are needed."
+      ]
+    },
+    {
+      "id": 18,
+      "stem": "A 78-year-old woman has chronic hypernatremia (Na 162 mEq/L over weeks) with stable mental status and adequate volume. Which approach to correction is most appropriate?",
+      "choices": [
+        "Aim to fully normalize sodium within 12 hours",
+        "Lower serum sodium by no more than approximately 10 mEq/L over 24 hours",
+        "No correction is needed",
+        "Rapid IV bolus of D5W until normal sodium",
+        "Use 3% saline to slow correction"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Rapid normalization risks cerebral edema and herniation.",
+        "Correct. The brick recommends lowering serum sodium by approximately 10 mEq/L per 24 hours (about 0.5 mEq/L/hr) to avoid cerebral edema during correction.",
+        "Incorrect. Severe chronic hypernatremia still requires careful correction.",
+        "Incorrect. Rapid bolus correction can cause cerebral edema and herniation.",
+        "Incorrect. Hypertonic saline would worsen, not treat, hypernatremia."
+      ]
+    },
+    {
+      "id": 19,
+      "stem": "A 70-year-old woman is hypernatremic and on mechanical ventilation with a feeding tube. Which approach to free-water replacement is preferred when feasible?",
+      "choices": [
+        "0.9% normal saline IV",
+        "3% hypertonic saline IV",
+        "Free water flushes via tube feeds",
+        "Intravenous sterile water",
+        "Lactated Ringer's IV"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Normal saline is for volume repletion, not for correcting the free water deficit.",
+        "Incorrect. Hypertonic saline would worsen hypernatremia.",
+        "Correct. The brick lists free water flushes via tube feeds as a preferred option in mechanically ventilated patients with feeding access.",
+        "Incorrect. IV pure water is contraindicated because it lyses red blood cells.",
+        "Incorrect. LR is also a volume repletion fluid, not free water."
+      ]
+    },
+    {
+      "id": 20,
+      "stem": "A clinician orders D5W to replace free water in a hypernatremic patient. Why is dextrose added rather than giving plain water IV?",
+      "choices": [
+        "Dextrose is reabsorbed in the kidney",
+        "Dextrose prevents lysis of red blood cells when infused; it is metabolized, leaving water to distribute proportionately",
+        "Dextrose suppresses ADH",
+        "Dextrose stimulates aquaporin insertion",
+        "Dextrose treats associated hyperkalemia"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Renal handling of glucose is not the rationale.",
+        "Correct. Pure IV water would lyse red blood cells; dextrose makes the solution iso-osmotic and is rapidly metabolized, leaving the water to distribute through both intracellular and extracellular spaces.",
+        "Incorrect. ADH suppression is not the reason for dextrose.",
+        "Incorrect. Dextrose does not directly act on aquaporins.",
+        "Incorrect. The use of D5W here is not for hyperkalemia management."
+      ]
+    },
+    {
+      "id": 21,
+      "stem": "A patient with central DI has been started on appropriate therapy. Which agent is the treatment of choice?",
+      "choices": [
+        "Amiloride",
+        "Desmopressin (DDAVP)",
+        "Hydrochlorothiazide",
+        "Indomethacin",
+        "Tolvaptan"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Amiloride is used in lithium-induced nephrogenic DI to block lithium entry into tubular cells.",
+        "Correct. Central DI is treated with desmopressin until ADH secretion returns or chronically if needed; it can be given IV or as a nasal spray.",
+        "Incorrect. Thiazides are used for nephrogenic DI, not central DI.",
+        "Incorrect. Indomethacin is not the treatment described in this brick.",
+        "Incorrect. Tolvaptan blocks ADH receptors and would worsen DI."
+      ]
+    },
+    {
+      "id": 22,
+      "stem": "A 45-year-old man with bipolar disorder has lithium-induced nephrogenic DI but cannot stop lithium because of severe psychiatric disease. Which agent is particularly useful in this circumstance?",
+      "choices": [
+        "Amiloride",
+        "Desmopressin",
+        "Furosemide",
+        "Mannitol",
+        "Spironolactone"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Amiloride blocks the epithelial sodium channel in the principal cells; this also prevents filtered lithium from entering tubular cells, helping prevent renal toxicity in patients who must continue lithium.",
+        "Incorrect. Desmopressin is for central DI; the kidneys in nephrogenic DI do not respond.",
+        "Incorrect. Furosemide is not the agent of choice and may worsen volume depletion.",
+        "Incorrect. Mannitol is an osmotic diuretic and would worsen polyuria.",
+        "Incorrect. Spironolactone is not the brick's recommended therapy here."
+      ]
+    },
+    {
+      "id": 23,
+      "stem": "A 55-year-old man with chronic nephrogenic DI not from lithium asks about therapies aside from drug discontinuation. Which strategy is supported in this brick?",
+      "choices": [
+        "ACE inhibitor and high-protein diet",
+        "Beta-blocker and high-salt diet",
+        "Loop diuretic and high-protein diet",
+        "Low-salt and low-protein diet, with a thiazide diuretic",
+        "Tolvaptan and salt tablets"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. ACE inhibitors and high protein are not the recommended approach.",
+        "Incorrect. High-salt diet would worsen the polyuria.",
+        "Incorrect. Loop diuretics are not the recommended therapy here.",
+        "Correct. Chronic nephrogenic DI may respond to a low-salt and low-protein diet plus a thiazide diuretic; the thiazide induces mild volume depletion that promotes proximal water reabsorption.",
+        "Incorrect. Tolvaptan blocks ADH and would worsen nephrogenic DI."
+      ]
+    },
+    {
+      "id": 24,
+      "stem": "A 75-year-old man with severe chronic hypernatremia (Na 175 mEq/L) is started on D5W. Within 6 hours his sodium falls to 158 mEq/L and he develops a seizure. Which complication of treatment has most likely occurred?",
+      "choices": [
+        "Acute kidney injury",
+        "Cerebral edema and possible herniation",
+        "Central pontine myelinolysis",
+        "Hypoglycemia",
+        "Persistent hypernatremia"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. AKI is not the described risk of overly rapid hypernatremia correction.",
+        "Correct. Correcting the water deficit too rapidly can cause cerebral edema and potentially herniation, leading to seizures and permanent neurologic injury.",
+        "Incorrect. Central pontine myelinolysis is associated with overly rapid correction of HYPONATREMIA.",
+        "Incorrect. D5W can occasionally cause hyperglycemia, not hypoglycemia, but this is not the brick's described complication.",
+        "Incorrect. The sodium fell, so persistent hypernatremia is incorrect."
+      ]
+    },
+    {
+      "id": 25,
+      "stem": "A 60-year-old man with a recent transsphenoidal surgery for a pituitary tumor develops central DI. Which statement about his treatment is most accurate?",
+      "choices": [
+        "DDAVP must be given for life regardless of clinical course",
+        "DDAVP should be given only until symptoms resolve, not to a target sodium; postsurgical central DI often resolves",
+        "Lithium is the preferred therapy",
+        "Long-term thiazides are first line",
+        "Vasopressin IV is preferred over DDAVP for ambulatory management"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Many cases of postsurgical central DI resolve, so lifelong therapy is not needed.",
+        "Correct. Per the brick, desmopressin should be given only until symptoms resolve (not to a specific sodium target); postsurgical central DI often resolves, so chronic home therapy is frequently unnecessary.",
+        "Incorrect. Lithium is a CAUSE of nephrogenic DI; it is not a treatment.",
+        "Incorrect. Thiazides are used in nephrogenic DI, not central DI.",
+        "Incorrect. DDAVP (not vasopressin) is preferred for DI; vasopressin is generally used for shock."
+      ]
+    }
+  ]
+}

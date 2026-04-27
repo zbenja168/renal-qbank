@@ -1,0 +1,481 @@
+{
+  "id": 11,
+  "title": "Potassium Homeostasis",
+  "questions": [
+    {
+      "id": 1,
+      "stem": "A medical student is reviewing potassium distribution. Approximately what percentage of total body potassium resides in the intracellular fluid?",
+      "choices": [
+        "2%",
+        "20%",
+        "50%",
+        "80%",
+        "98%"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. About 2% is extracellular, not intracellular.",
+        "Incorrect. This greatly underestimates the intracellular fraction.",
+        "Incorrect. Far more than half of body K+ is intracellular.",
+        "Incorrect. Approximately 98%—not 80%—is intracellular.",
+        "Correct. Roughly 98% of total body K+ is in the ICF, with only ~2% in the ECF."
+      ]
+    },
+    {
+      "id": 2,
+      "stem": "A 19-year-old man has periodic muscle weakness. Workup reveals dysfunction of the Na+/K+-ATPase. Which best describes the normal action of this transporter?",
+      "choices": [
+        "3 K+ in / 2 Na+ out",
+        "2 K+ in / 3 Na+ out, ATP-dependent",
+        "2 K+ out / 3 Na+ in",
+        "1 K+ in / 1 Na+ out, passive",
+        "3 K+ out / 3 Na+ in, ATP-dependent"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. The stoichiometry is reversed.",
+        "Correct. The Na+/K+-ATPase moves 2 K+ into the cell and 3 Na+ out per ATP hydrolyzed, against their concentration gradients.",
+        "Incorrect. The directions are backwards.",
+        "Incorrect. The pump uses ATP and is not passive.",
+        "Incorrect. The stoichiometry and directions are wrong."
+      ]
+    },
+    {
+      "id": 3,
+      "stem": "A clinician evaluates a patient with serum K+ of 1.9 mEq/L. Per the brick, values below this threshold pose the highest risk for which immediate consequence?",
+      "choices": [
+        "Hyperreflexia",
+        "Cardiac arrest",
+        "Hypoglycemia",
+        "Tetany",
+        "Renal failure"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Severe hypokalemia causes weakness and arrhythmia, not hyperreflexia.",
+        "Correct. The brick states K+ <2 mEq/L can lead to cardiac arrest; values >6 mEq/L also pose arrest risk from arrhythmia.",
+        "Incorrect. K+ disturbances do not directly cause hypoglycemia.",
+        "Incorrect. Tetany is a feature of hypocalcemia, not hypokalemia.",
+        "Incorrect. Renal failure can cause hyperkalemia, not the reverse."
+      ]
+    },
+    {
+      "id": 4,
+      "stem": "A 24-year-old man with type 1 diabetes presents in DKA with serum K+ of 5.8 mEq/L. He is given IV insulin. Which mechanism best explains insulin's effect on serum potassium?",
+      "choices": [
+        "Decreases renal K+ excretion",
+        "Stimulates Na+/K+-ATPase to drive K+ into cells",
+        "Inhibits aldosterone release",
+        "Increases K+ permeability of luminal channels",
+        "Causes osmotic drag of K+ out of cells"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Insulin's acute effect is intracellular shifting, not renal excretion.",
+        "Correct. Insulin stimulates the Na+/K+-ATPase, driving K+ into cells and lowering serum [K+].",
+        "Incorrect. Aldosterone is not the primary target of insulin in K+ control.",
+        "Incorrect. Insulin does not increase luminal K+ channel permeability.",
+        "Incorrect. Osmotic drag moves K+ out of cells; insulin moves it inward."
+      ]
+    },
+    {
+      "id": 5,
+      "stem": "An asthmatic patient with hyperkalemia receives nebulized albuterol. Which mechanism explains its hypokalemic effect?",
+      "choices": [
+        "α-adrenergic stimulation drives K+ into cells",
+        "β2-adrenergic activation stimulates Na+/K+-ATPase",
+        "Increased renal K+ excretion via aldosterone",
+        "Inhibition of intestinal K+ absorption",
+        "Stimulation of the H+/K+-ATPase in alpha-intercalated cells"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. α-adrenergic activation shifts K+ out of cells; β-receptor effect dominates with epinephrine/albuterol.",
+        "Correct. β2-agonists activate the Na+/K+-ATPase, shifting K+ into cells and acutely lowering serum [K+].",
+        "Incorrect. The acute effect is intracellular shifting, not aldosterone-mediated excretion.",
+        "Incorrect. Albuterol does not affect intestinal K+ absorption.",
+        "Incorrect. The H+/K+-ATPase is not the target of β2-agonists."
+      ]
+    },
+    {
+      "id": 6,
+      "stem": "A patient with type 1 diabetes has glucose 600 mg/dL and serum K+ 5.6 mEq/L despite total body K+ depletion. Which mechanism best explains the elevated serum K+?",
+      "choices": [
+        "Insulin-driven uptake into cells",
+        "Osmotic drag of K+ out of cells from hyperosmolarity",
+        "Renal K+ retention from low aldosterone",
+        "Acidemia inhibition of distal K+ secretion only",
+        "β2 receptor activation"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Insulin deficiency reduces uptake; insulin would lower K+.",
+        "Correct. High glucose creates hyperosmolarity that draws water out of cells, raising intracellular [K+] and driving K+ out via permeable K+ channels (osmotic drag).",
+        "Incorrect. Aldosterone is not the dominant explanation here; the acute shift is osmotic.",
+        "Incorrect. While acidemia contributes, the major shift in DKA is osmotic and from insulin lack.",
+        "Incorrect. β2 activation would shift K+ into cells, lowering serum [K+]."
+      ]
+    },
+    {
+      "id": 7,
+      "stem": "A patient with severe metabolic acidemia has serum K+ of 6.0 mEq/L. Which transcellular mechanism best explains the hyperkalemia?",
+      "choices": [
+        "H+ moves into cells, K+ moves out to maintain electroneutrality",
+        "K+ is actively secreted into the ECF by the Na+/K+-ATPase",
+        "Increased aldosterone shifts K+ out of cells",
+        "Increased β2 stimulation",
+        "Hyperosmolar drag drives K+ in"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. In acidemia, H+ moves into cells, and K+ moves out in exchange (electroneutrality), causing hyperkalemia.",
+        "Incorrect. The pump moves K+ into cells, not out.",
+        "Incorrect. Aldosterone drives renal K+ excretion; it does not shift K+ out of cells.",
+        "Incorrect. β2 stimulation shifts K+ into cells.",
+        "Incorrect. Osmotic drag drives K+ out, but the acidemia mechanism is H+/K+ exchange."
+      ]
+    },
+    {
+      "id": 8,
+      "stem": "A patient develops alkalemia after prolonged vomiting. Which best describes the expected effect on serum [K+]?",
+      "choices": [
+        "Hyperkalemia from increased renal retention",
+        "Hyperkalemia from osmotic drag",
+        "Hypokalemia, partly because K+ moves into cells",
+        "No change because K+ shifts are buffered",
+        "Hypokalemia only from decreased intake"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Alkalemia produces hypokalemia, not hyperkalemia.",
+        "Incorrect. Osmotic drag is unrelated to alkalemia.",
+        "Correct. In alkalemia, H+ moves out of cells and K+ moves in to maintain electroneutrality, causing hypokalemia; renal K+ excretion also increases.",
+        "Incorrect. Acid-base shifts are not silent; they substantially affect [K+].",
+        "Incorrect. The mechanism is transcellular shifting, not just intake."
+      ]
+    },
+    {
+      "id": 9,
+      "stem": "After prolonged exercise, an athlete has a transient mild rise in serum [K+]. Which mechanism best explains this?",
+      "choices": [
+        "Increased aldosterone-driven K+ secretion",
+        "Decreased GFR and reduced K+ excretion",
+        "ATP depletion opens K+ channels in muscle, releasing K+ into the ECF",
+        "Insulin surge drives K+ out of cells",
+        "Osmotic drag from glucose loading"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Aldosterone would lower, not raise, K+ via secretion.",
+        "Incorrect. GFR changes do not primarily explain the exercise-induced rise.",
+        "Correct. During exercise, ATP depletion opens K+ channels in muscle; K+ exits cells where it acts as a vasodilator metabolite, raising local blood flow.",
+        "Incorrect. Insulin moves K+ into cells, lowering serum [K+].",
+        "Incorrect. Glucose loading is not the explanation in exercise."
+      ]
+    },
+    {
+      "id": 10,
+      "stem": "Where along the nephron is the largest fraction of filtered potassium reabsorbed under normal conditions?",
+      "choices": [
+        "Proximal tubule (~70%)",
+        "Thick ascending limb (~70%)",
+        "Distal convoluted tubule (~70%)",
+        "Cortical collecting duct (~70%)",
+        "Glomerulus (~70%)"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. About 70% of filtered K+ is reabsorbed in the proximal tubule via paracellular transport driven by Na+ reabsorption.",
+        "Incorrect. The TAL reabsorbs about 20%.",
+        "Incorrect. The DCT does not reabsorb the bulk of filtered K+.",
+        "Incorrect. The cortical collecting duct is the principal site of regulated secretion, not bulk reabsorption.",
+        "Incorrect. The glomerulus filters K+ but does not reabsorb."
+      ]
+    },
+    {
+      "id": 11,
+      "stem": "Approximately what fraction of filtered potassium is reabsorbed in the thick ascending limb, and via which transporter?",
+      "choices": [
+        "70%; NCC",
+        "20%; NKCC2",
+        "20%; ENaC",
+        "10%; ROMK",
+        "50%; H+/K+-ATPase"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. NCC is in the DCT and handles Na+/Cl-, not K+ reabsorption in the TAL.",
+        "Correct. About 20% of filtered K+ is reabsorbed in the thick ascending limb via the NKCC2 cotransporter.",
+        "Incorrect. ENaC is in the collecting duct and is a Na+ channel.",
+        "Incorrect. ROMK is involved in distal secretion, not TAL reabsorption.",
+        "Incorrect. The H+/K+-ATPase is on alpha-intercalated cells, not in the TAL."
+      ]
+    },
+    {
+      "id": 12,
+      "stem": "When dietary K+ intake exceeds daily needs, the kidney increases urinary K+ output predominantly by:",
+      "choices": [
+        "Decreasing proximal tubule reabsorption only",
+        "Distal K+ secretion in the principal cells of the collecting duct",
+        "Increasing GFR via afferent dilation",
+        "Inhibiting Na+/K+-ATPase in the TAL",
+        "Activating intercalated-cell H+/K+-ATPase"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Proximal reabsorption of K+ is not the regulated step.",
+        "Correct. Distal K+ secretion in the principal cells of the cortical collecting duct is the tightly regulated step that adjusts urinary K+ output.",
+        "Incorrect. GFR is not regulated by body [K+].",
+        "Incorrect. Inhibiting NKCC2/Na+/K+-ATPase is not how excess K+ is excreted physiologically.",
+        "Incorrect. The H+/K+-ATPase reabsorbs, not secretes, K+."
+      ]
+    },
+    {
+      "id": 13,
+      "stem": "In the principal cell of the cortical collecting duct, which combination of channels mediates regulated K+ secretion into the lumen?",
+      "choices": [
+        "NKCC2 and aquaporin-2",
+        "ROMK and BK (Maxi-K) channels",
+        "NCC and ENaC",
+        "H+/K+-ATPase and CFTR",
+        "Na+/H+ exchanger and Na+/HCO3- cotransporter"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. NKCC2 and AQP-2 are not the principal cell K+ secretory channels.",
+        "Correct. K+ is secreted into the lumen via ROMK and BK (Maxi-K) channels, with BK channels activated by high tubular flow or cell stretch.",
+        "Incorrect. NCC is in the DCT; ENaC reabsorbs Na+ and is not itself a K+ channel.",
+        "Incorrect. The H+/K+-ATPase reabsorbs K+ and is in alpha-intercalated cells.",
+        "Incorrect. These are PCT acid-base transporters."
+      ]
+    },
+    {
+      "id": 14,
+      "stem": "A patient develops severe hyperkalemia. Which physiologic response increases renal K+ excretion?",
+      "choices": [
+        "Decreased aldosterone release",
+        "Direct stimulation of aldosterone release by hyperkalemia",
+        "Suppression of ENaC by aldosterone",
+        "Activation of H+/K+-ATPase by aldosterone",
+        "Inhibition of ROMK by aldosterone"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Hyperkalemia raises, not lowers, aldosterone.",
+        "Correct. Hyperkalemia directly stimulates aldosterone release from the adrenal cortex, which then upregulates ENaC, Na+/K+-ATPase, and luminal K+ channels to enhance excretion.",
+        "Incorrect. Aldosterone upregulates, rather than suppresses, ENaC.",
+        "Incorrect. Aldosterone's main K+ effect is via principal cells, not H+/K+-ATPase activation.",
+        "Incorrect. Aldosterone upregulates ROMK to enhance secretion."
+      ]
+    },
+    {
+      "id": 15,
+      "stem": "A 65-year-old man on long-term loop diuretic therapy for CHF develops hypokalemia. Which mechanism most directly explains the diuretic-induced K+ loss?",
+      "choices": [
+        "Direct inhibition of ROMK channels",
+        "Increased Na+ delivery to the distal nephron raises ENaC-driven secretion of K+, augmented by flow-mediated BK activation",
+        "Aldosterone receptor blockade",
+        "Activation of H+/K+-ATPase",
+        "Decreased GFR"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Loop diuretics do not directly inhibit ROMK.",
+        "Correct. Loops raise distal Na+ delivery, enhancing ENaC-mediated Na+ reabsorption and lumen-negativity that drives K+ secretion; high tubular flow also stimulates BK channels.",
+        "Incorrect. Loop diuretics do not block the aldosterone receptor (that is spironolactone).",
+        "Incorrect. They do not activate the H+/K+-ATPase.",
+        "Incorrect. GFR is not directly decreased; if anything, loops may increase renal blood flow."
+      ]
+    },
+    {
+      "id": 16,
+      "stem": "A patient with severe hyperkalemia is given a loop diuretic to enhance urinary K+ loss. Through which channel does the increased flow in the distal nephron primarily augment K+ secretion?",
+      "choices": [
+        "ROMK",
+        "BK (Maxi-K) channels",
+        "ENaC",
+        "NKCC2",
+        "Aquaporin-2"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. ROMK is constitutive; flow-stimulation is a property of BK.",
+        "Correct. BK (Maxi-K) channels in the distal nephron are activated by high tubular flow or stretch, allowing additional K+ secretion when urine flow is high.",
+        "Incorrect. ENaC is a Na+ channel, not a flow-stimulated K+ channel.",
+        "Incorrect. NKCC2 reabsorbs in the TAL.",
+        "Incorrect. AQP-2 mediates water permeability, not K+ secretion."
+      ]
+    },
+    {
+      "id": 17,
+      "stem": "A patient with chronic kidney disease has a measured GFR of 8% of normal. Which complication is most consistent with the brick's discussion of K+ handling?",
+      "choices": [
+        "Hypokalemia from high GFR",
+        "Hyperkalemia because filtration plus secretion cannot match daily K+ load",
+        "Severe hypocalcemia",
+        "Metabolic alkalosis",
+        "No effect on K+"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. CKD does not produce hypokalemia from low GFR.",
+        "Correct. When GFR drops below ~10–20% of normal, the kidney cannot adequately excrete daily K+ load via filtration and secretion, leading to hyperkalemia—a common indication for dialysis.",
+        "Incorrect. Hypocalcemia may occur in CKD but is not the K+-handling complication.",
+        "Incorrect. CKD typically causes metabolic acidosis, not alkalosis, with respect to acid-base.",
+        "Incorrect. K+ handling is significantly impaired."
+      ]
+    },
+    {
+      "id": 18,
+      "stem": "A patient with metabolic acidemia has decreased renal K+ excretion. Which two mechanisms best explain this effect?",
+      "choices": [
+        "Increased ROMK conductance and increased H+ secretion",
+        "Decreased luminal K+ channel permeability and increased H+ secretion making the lumen more positive",
+        "Increased aldosterone and increased BK activity",
+        "Decreased Na+ delivery and increased ROMK",
+        "Increased aquaporin-2 and decreased ENaC"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Acidemia decreases (not increases) ROMK permeability.",
+        "Correct. Acidemia decreases distal K+ channel permeability and increases luminal H+ secretion (more lumen-positive), both of which inhibit K+ secretion.",
+        "Incorrect. Aldosterone and BK channels are not the central acidemia mechanism.",
+        "Incorrect. ROMK is not increased; permeability decreases.",
+        "Incorrect. AQP-2 and ENaC are not the relevant mechanisms in acidemia."
+      ]
+    },
+    {
+      "id": 19,
+      "stem": "A patient with low dietary K+ intake develops hypokalemia. Which adaptation is expected in the distal nephron?",
+      "choices": [
+        "Increased K+ secretion by principal cells",
+        "K+ reabsorption by intercalated cells via H+/K+-ATPase",
+        "Increased aldosterone secretion",
+        "Increased Na+ delivery to the distal nephron",
+        "Activation of BK channels"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Low K+ states reduce, not increase, distal secretion.",
+        "Correct. In states of low K+ intake or hypokalemia, the distal nephron reabsorbs K+ via the H+/K+-ATPase in alpha-intercalated cells.",
+        "Incorrect. Aldosterone falls in low-K+ states.",
+        "Incorrect. There is no inherent increase in distal Na+ delivery in low K+.",
+        "Incorrect. BK channels would not be activated in low-flow, low-K+ states."
+      ]
+    },
+    {
+      "id": 20,
+      "stem": "A patient on lisinopril (ACE inhibitor) develops mildly elevated K+. Which mechanism best explains this?",
+      "choices": [
+        "Direct ROMK activation",
+        "Reduced angiotensin II → reduced aldosterone → reduced distal K+ secretion",
+        "Direct closure of ENaC",
+        "Stimulation of BK channels",
+        "Inhibition of the H+/K+-ATPase"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. ACE inhibitors do not act directly on ROMK.",
+        "Correct. ACE inhibitors lower angiotensin II and aldosterone, reducing ENaC activity and thus lumen-negative drive for distal K+ secretion, raising serum [K+].",
+        "Incorrect. ACE inhibitors do not directly close ENaC; their effect is indirect via aldosterone.",
+        "Incorrect. They do not stimulate BK.",
+        "Incorrect. They do not inhibit the H+/K+-ATPase."
+      ]
+    },
+    {
+      "id": 21,
+      "stem": "Per the brick, what is the average daily dietary intake of K+ and approximately what fraction of K+ excretion occurs through the kidneys?",
+      "choices": [
+        "20–40 mEq/day; 50%",
+        "80–100 mEq/day; 90%",
+        "200–300 mEq/day; 50%",
+        "10–20 mEq/day; 10%",
+        "40–80 mEq/day; 30%"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Renal excretion accounts for ~90%, not 50%.",
+        "Correct. Average dietary K+ intake is ~80–100 mEq/day, and approximately 90% of K+ excretion occurs through the kidneys.",
+        "Incorrect. Both numbers are too high.",
+        "Incorrect. Both numbers are far too low.",
+        "Incorrect. The renal fraction is much higher than 30%."
+      ]
+    },
+    {
+      "id": 22,
+      "stem": "A patient is on furosemide and develops both hypokalemia and metabolic alkalosis. The brick explains this combination as part of which compounded effect?",
+      "choices": [
+        "Acidemia worsening hypokalemia",
+        "Alkalemia exacerbating hypokalemia by enhancing K+ secretion",
+        "Hyperkalemia masking acidosis",
+        "Decreased aldosterone causing alkalosis",
+        "Inhibition of carbonic anhydrase"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Acidemia generally raises, not lowers, K+.",
+        "Correct. Diuretic-induced metabolic alkalosis enhances renal K+ secretion, amplifying hypokalemia—the brick explicitly notes alkalemia exacerbates K+ loss.",
+        "Incorrect. The patient has hypokalemia, not hyperkalemia.",
+        "Incorrect. Loop diuretics raise aldosterone via volume depletion.",
+        "Incorrect. Loop diuretics do not inhibit carbonic anhydrase."
+      ]
+    },
+    {
+      "id": 23,
+      "stem": "A 58-year-old woman started on furosemide 2 weeks ago presents with leg cramps, fatigue, and serum K+ of 3.0 mEq/L. Which intervention is most appropriate based on the brick?",
+      "choices": [
+        "Add a thiazide diuretic",
+        "Stop the diuretic and replete K+",
+        "Start an ACE inhibitor only",
+        "Increase dietary sodium",
+        "Begin dialysis"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Adding a thiazide would worsen K+ loss.",
+        "Correct. As in the case (DG), the diuretic-induced K+ loss should be addressed by stopping the diuretic and providing oral K+ supplementation; symptoms resolve as K+ normalizes.",
+        "Incorrect. ACE inhibitors alone do not treat acute symptomatic hypokalemia.",
+        "Incorrect. Increasing sodium would worsen volume status without correcting K+.",
+        "Incorrect. Dialysis is unnecessary for mild diuretic-induced hypokalemia."
+      ]
+    },
+    {
+      "id": 24,
+      "stem": "A patient with high dietary K+ intake reaches a new steady state over hours to days. Which sequence best describes this adaptation?",
+      "choices": [
+        "↓ plasma K+ → ↑ aldosterone → ↑ distal K+ secretion",
+        "↑ plasma K+ → ↑ aldosterone → upregulated ENaC, Na+/K+-ATPase, ROMK/BK → ↑ urinary K+",
+        "↑ plasma K+ → ↓ aldosterone → ↑ urinary K+",
+        "↑ plasma K+ → ↑ insulin → renal K+ retention",
+        "No renal change; only intracellular shifts"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Plasma K+ rises (slightly), not falls, with high intake.",
+        "Correct. Slight rise in plasma [K+] stimulates aldosterone, which upregulates ENaC, Na+/K+-ATPase, and luminal ROMK/BK channels, increasing urinary K+ to match intake within hours to days.",
+        "Incorrect. Aldosterone rises, not falls, in this setting.",
+        "Incorrect. Insulin causes intracellular shifting, not renal retention.",
+        "Incorrect. Long-term balance is renally mediated."
+      ]
+    },
+    {
+      "id": 25,
+      "stem": "Which set of factors increases distal K+ secretion at the cortical collecting duct, per the brick?",
+      "choices": [
+        "Acidemia, low aldosterone, low flow",
+        "High K+ diet, aldosterone, high tubular flow, alkalemia",
+        "Low Na+ delivery and acidemia",
+        "Adrenal insufficiency and low flow",
+        "ACE inhibitor use and low aldosterone"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Each of these factors decreases secretion.",
+        "Correct. High dietary K+, aldosterone, high tubular flow, and alkalemia all promote K+ secretion by the cortical collecting duct.",
+        "Incorrect. Low Na+ delivery limits ENaC-driven lumen negativity, reducing K+ secretion.",
+        "Incorrect. Low aldosterone state reduces secretion.",
+        "Incorrect. ACE inhibitors lower aldosterone and reduce K+ secretion."
+      ]
+    }
+  ]
+}

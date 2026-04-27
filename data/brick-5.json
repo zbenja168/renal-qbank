@@ -1,0 +1,331 @@
+{
+  "id": 5,
+  "title": "Glomerular Function",
+  "questions": [
+    {
+      "id": 1,
+      "stem": "A researcher infuses a panel of neutral dextrans of varying molecular weights into a healthy rat and measures the fraction of each that appears in Bowman's space. Which molecule, given normal physiologic conditions, would be expected to be most freely filtered across the glomerular barrier?",
+      "choices": ["Albumin (~66 kDa)", "Globulins (>70 kDa)", "Glucose (~180 Da)", "IgG (~160 kDa)", "Transferrin (~80 kDa)"],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Albumin (~66 kDa, ~3.6 nm) is largely excluded under normal conditions due to size and charge selectivity.",
+        "Incorrect. Globulins (>70 kDa, >4 nm) are excluded under normal conditions.",
+        "Correct. Small solutes <2 nm and <20 kDa, such as glucose, water, electrolytes, urea, and creatinine, are freely filtered across the glomerular barrier.",
+        "Incorrect. IgG (~160 kDa) is well above the 70 kDa exclusion threshold and is almost entirely excluded.",
+        "Incorrect. Transferrin (~80 kDa) is above the 70 kDa cutoff and is largely excluded by the size barrier."
+      ]
+    },
+    {
+      "id": 2,
+      "stem": "An electron micrograph of a normal glomerulus is reviewed. Which structural component represents the most restrictive element of the size barrier, with pores approximately 4–14 nm in diameter?",
+      "choices": ["Endothelial fenestrations", "Glomerular basement membrane", "Mesangial matrix", "Slit diaphragm between podocyte foot processes", "Tubular brush border"],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Fenestrations of the capillary endothelium are larger and not the most restrictive element.",
+        "Incorrect. The GBM contributes to size and charge selectivity, but it is not the most restrictive size component.",
+        "Incorrect. Mesangial matrix is not part of the filtration barrier layers and influences Kf rather than size cutoff.",
+        "Correct. The slit diaphragm between podocyte foot processes (~4–14 nm pores) represents the most restrictive component of the size barrier.",
+        "Incorrect. The tubular brush border is part of the proximal tubule and is not part of the glomerular filtration barrier."
+      ]
+    },
+    {
+      "id": 3,
+      "stem": "A nephrologist explains why albumin (~66 kDa, radius ~3.6 nm) is filtered at a much lower rate than a similarly sized neutral molecule. Which property of the glomerular filtration barrier is primarily responsible?",
+      "choices": ["Active transport of albumin into the tubule", "Endothelial fenestrations excluding small molecules", "Negative charge from heparan sulfate proteoglycans", "Positive charge attracting albumin", "Selective tubular reabsorption upstream"],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Active transport of albumin is not described as a filtration mechanism in the brick.",
+        "Incorrect. Fenestrations allow rather than exclude small molecules; albumin restriction here is due to charge.",
+        "Correct. Heparan sulfate proteoglycans within the GBM and podocytes provide negative charge that electrostatically repels negatively charged solutes such as albumin.",
+        "Incorrect. The barrier is rich in negatively (not positively) charged molecules, repelling rather than attracting albumin.",
+        "Incorrect. Tubular reabsorption is not what creates the differential filtration rate at the glomerulus."
+      ]
+    },
+    {
+      "id": 4,
+      "stem": "In a healthy adult, mean glomerular capillary hydrostatic pressure (P_GC) is 55 mmHg, Bowman's space hydrostatic pressure (P_BS) is 15 mmHg, and glomerular capillary oncotic pressure (π_GC) is 30 mmHg. What is the net filtration pressure?",
+      "choices": ["0 mmHg", "10 mmHg", "25 mmHg", "40 mmHg", "55 mmHg"],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. A net pressure of zero would not produce any filtration, contrary to normal physiology.",
+        "Correct. NFP = (P_GC − P_BS) − π_GC = (55 − 15) − 30 = 10 mmHg, the typical normal value.",
+        "Incorrect. 25 mmHg ignores subtraction of π_GC.",
+        "Incorrect. 40 mmHg is the net hydrostatic gradient alone, without accounting for π_GC.",
+        "Incorrect. 55 mmHg is P_GC by itself, not the net filtration pressure."
+      ]
+    },
+    {
+      "id": 5,
+      "stem": "A 70-year-old man with benign prostatic hyperplasia develops bilateral hydronephrosis from urinary outflow obstruction. Which Starling force change most directly accounts for his decline in glomerular filtration rate?",
+      "choices": ["Decreased Kf from podocyte loss", "Decreased glomerular capillary oncotic pressure", "Increased Bowman's space hydrostatic pressure", "Increased glomerular capillary hydrostatic pressure", "Increased Bowman's space oncotic pressure"],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Obstruction does not primarily change Kf; it raises the opposing hydrostatic pressure in Bowman's space.",
+        "Incorrect. Obstruction does not lower π_GC; if anything, the brick attributes such changes to hypoalbuminemia.",
+        "Correct. Urinary tract obstruction increases P_BS, reducing the net filtration pressure and decreasing GFR.",
+        "Incorrect. P_GC is not directly raised by distal obstruction; the relevant change is rising P_BS.",
+        "Incorrect. Bowman's space oncotic pressure is normally near 0 mmHg because filtered fluid contains essentially no protein."
+      ]
+    },
+    {
+      "id": 6,
+      "stem": "A 32-year-old man presents with new lower extremity edema and frothy urine for one week. Urinalysis reveals 4+ protein with no blood; the spot albumin/creatinine ratio is markedly elevated and serum albumin is low. Which structural lesion in the glomerular filtration barrier best explains these findings?",
+      "choices": ["Endothelial fenestration loss", "Foot process effacement of podocytes", "GBM thickening with basket-weave splitting", "Mesangial matrix expansion", "Microthrombi within the capillary loops"],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Endothelial injury characteristically causes hematuria with mild–moderate proteinuria, not isolated heavy proteinuria without blood.",
+        "Correct. Podocyte foot process effacement causes loss of slit diaphragm integrity and heavy selective albuminuria with hypoalbuminemia and edema, the picture of nephrotic syndrome.",
+        "Incorrect. GBM injury (e.g., Alport) typically produces non-selective proteinuria with hematuria, not isolated heavy proteinuria.",
+        "Incorrect. Mesangial expansion produces variable proteinuria and may include hematuria; it does not best explain isolated heavy proteinuria with hypoalbuminemia.",
+        "Incorrect. Microthrombi reflect severe endothelial injury and are associated with hematuria and reduced perfusion."
+      ]
+    },
+    {
+      "id": 7,
+      "stem": "A 19-year-old man is evaluated for persistent microscopic hematuria. Family history reveals an X-linked pattern, and audiometry demonstrates sensorineural hearing loss. Eye exam shows anterior lenticonus. Which molecular abnormality best explains this disorder?",
+      "choices": ["Anti-GBM antibodies against type IV collagen", "Heparan sulfate deficiency in the GBM", "Mutation in slit diaphragm nephrin", "Mutations in type IV collagen disrupting GBM architecture", "Podocyte apoptosis from circulating factors"],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Anti-GBM disease is not described in the brick; Alport is hereditary, not autoimmune.",
+        "Incorrect. Heparan sulfate loss reduces charge selectivity, but Alport syndrome is specifically a structural type IV collagen disorder.",
+        "Incorrect. Slit diaphragm/nephrin defects disrupt podocytes; Alport is a GBM type IV collagen disease.",
+        "Correct. Alport syndrome involves type IV collagen mutations that produce GBM thinning, splitting, and a 'basket-weave' appearance with hearing loss and anterior lenticonus.",
+        "Incorrect. Podocyte injury from circulating factors describes minimal change/FSGS, not Alport syndrome."
+      ]
+    },
+    {
+      "id": 8,
+      "stem": "A 24-year-old woman has cirrhosis with serum albumin of 1.8 g/dL. Assuming all other Starling forces and Kf are unchanged, how is her glomerular filtration rate most directly affected by the hypoalbuminemia?",
+      "choices": ["Decreased GFR due to decreased P_GC", "Decreased GFR due to increased P_BS", "Increased GFR due to decreased π_GC", "Increased GFR due to decreased Kf", "Unchanged GFR because π_BS rises proportionally"],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Hypoalbuminemia does not directly reduce glomerular capillary hydrostatic pressure.",
+        "Incorrect. P_BS is influenced by tubular flow and outflow obstruction, not plasma albumin.",
+        "Correct. Hypoalbuminemia lowers π_GC, increasing net filtration pressure and initially raising GFR (though compensatory mechanisms may offset this).",
+        "Incorrect. Decreased Kf would decrease, not increase, GFR; hypoalbuminemia does not lower Kf.",
+        "Incorrect. Bowman's space oncotic pressure is normally ~0 mmHg because proteins do not appreciably cross the barrier."
+      ]
+    },
+    {
+      "id": 9,
+      "stem": "Sampling along the length of a single glomerular capillary in a healthy animal shows that one specific Starling parameter changes substantially from the afferent to the efferent end. Which parameter changes, and in what direction?",
+      "choices": ["P_BS decreases as fluid is filtered", "P_GC rises sharply at the efferent end", "π_BS rises as proteins leak into Bowman's space", "π_GC increases from afferent to efferent end", "π_GC decreases from afferent to efferent end"],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. P_BS is not described as falling along the capillary length in the brick.",
+        "Incorrect. P_GC is held relatively constant by afferent/efferent arteriolar regulation, not sharply rising distally.",
+        "Incorrect. Proteins are effectively retained, so Bowman's space oncotic pressure remains near 0 mmHg.",
+        "Correct. As water leaves the capillary while proteins remain, π_GC rises along the length from the afferent to the efferent end.",
+        "Incorrect. The opposite occurs: π_GC rises (not falls) along the capillary as water is filtered out."
+      ]
+    },
+    {
+      "id": 10,
+      "stem": "A patient with chronic glomerulonephritis has progressive thickening of the glomerular basement membrane with reduced surface area available for filtration, even though net filtration pressure is preserved. Which parameter is most directly decreased to lower her GFR?",
+      "choices": ["Bowman's space hydrostatic pressure", "Filtration coefficient (Kf)", "Glomerular capillary hydrostatic pressure", "Glomerular capillary oncotic pressure", "Plasma flow to the glomerulus"],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. P_BS is determined by tubular flow/obstruction and is not the parameter reduced by GBM thickening or surface area loss.",
+        "Correct. Kf is the product of hydraulic permeability and surface area; pathological GBM changes or surface area loss reduce Kf and thereby GFR even when NFP is unchanged.",
+        "Incorrect. P_GC is determined by arteriolar tone and renal blood flow, not by barrier permeability/surface area.",
+        "Incorrect. π_GC depends on plasma protein concentration, not on GBM thickness.",
+        "Incorrect. Plasma flow is not the variable directly captured by Kf in the GFR = Kf × NFP equation."
+      ]
+    },
+    {
+      "id": 11,
+      "stem": "A 30-year-old woman presents with hematuria following an upper respiratory infection. Urinalysis demonstrates dysmorphic RBCs (acanthocytes), RBC casts, and an albumin/creatinine ratio of 150 mg/g. Which component of the glomerular filtration barrier is most likely injured?",
+      "choices": ["Endothelium", "Glomerular basement membrane", "Mesangium only", "Podocytes", "Tubular epithelium"],
+      "answer": 0,
+      "explanations": [
+        "Correct. Endothelial injury (e.g., IgA nephropathy, post-infectious GN) produces hematuria with dysmorphic RBCs and RBC casts plus mild–moderate proteinuria (ACR 30–300 mg/g).",
+        "Incorrect. Pure GBM disease typically produces non-selective proteinuria (ACR 300–1000 mg/g) with hematuria, a heavier proteinuric pattern.",
+        "Incorrect. Mesangial expansion alone gives variable mild–moderate proteinuria and is not the prototype acute glomerular bleeding pattern with RBC casts.",
+        "Incorrect. Podocyte injury causes selective proteinuria (often >1000 mg/g) with minimal or no hematuria.",
+        "Incorrect. Tubular epithelium is not part of the glomerular filtration barrier."
+      ]
+    },
+    {
+      "id": 12,
+      "stem": "A patient's spot urine reveals an albumin/creatinine ratio of 1500 mg/g with predominantly albumin and minimal IgG; urinalysis shows no hematuria. This pattern of selective proteinuria most strongly suggests which underlying lesion?",
+      "choices": ["Endothelial injury", "GBM splitting", "Mesangial proliferation", "Microthrombi from vasculitis", "Podocyte foot process effacement"],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. Endothelial injury causes hematuria with mild–moderate, not selective heavy, proteinuria.",
+        "Incorrect. GBM disease gives non-selective proteinuria (albumin + IgG) with hematuria.",
+        "Incorrect. Mesangial proliferation produces variable findings, often with some hematuria, not the classic selective heavy proteinuria.",
+        "Incorrect. Vasculitic microthrombi reflect severe endothelial injury with hematuria.",
+        "Correct. Selective proteinuria (albumin-predominant, often >1000 mg/g) without hematuria is characteristic of podocyte injury (e.g., minimal change disease, FSGS, membranous)."
+      ]
+    },
+    {
+      "id": 13,
+      "stem": "A 60-year-old man with long-standing diabetes mellitus develops worsening albuminuria, but at this stage only modest hematuria. Renal biopsy shows expansion of the mesangial matrix with increased cellularity. Which mechanism best links this structural change to a decline in his GFR?",
+      "choices": ["Decreased capillary surface area lowering Kf", "Increased Bowman's space oncotic pressure", "Increased afferent arteriolar resistance lowering P_GC", "Increased charge selectivity at the GBM", "Loss of fenestrations on the endothelium"],
+      "answer": 0,
+      "explanations": [
+        "Correct. Mesangial expansion reduces capillary surface area, lowers Kf, and contributes to declining GFR and progression to glomerulosclerosis.",
+        "Incorrect. Bowman's space oncotic pressure is normally ~0 mmHg and is not the mechanism of GFR decline here.",
+        "Incorrect. Mesangial expansion is described as producing intraglomerular hypertension, not afferent vasoconstriction.",
+        "Incorrect. Mesangial expansion reduces, rather than increases, glomerular function; charge selectivity is not enhanced.",
+        "Incorrect. Loss of endothelial fenestrations is the mechanism of endothelial injury, not mesangial expansion."
+      ]
+    },
+    {
+      "id": 14,
+      "stem": "A 22-year-old with systemic lupus erythematosus is diagnosed with diffuse proliferative lupus nephritis. Urinalysis shows heavy proteinuria, dysmorphic RBCs, RBC casts, and granular casts; the ACR is >1000 mg/g. This urinary pattern best reflects which type of barrier injury?",
+      "choices": ["Isolated endothelial injury", "Isolated GBM injury", "Isolated podocyte injury", "Mesangial expansion only", "Mixed/combined barrier injury"],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. Isolated endothelial injury causes hematuria with only mild–moderate proteinuria (ACR 30–300 mg/g).",
+        "Incorrect. Isolated GBM injury yields non-selective proteinuria around 300–1000 mg/g with dysmorphic RBCs, not heavy proteinuria with cellular casts.",
+        "Incorrect. Isolated podocyte injury produces selective proteinuria with minimal or absent hematuria.",
+        "Incorrect. Mesangial expansion alone gives variable, milder findings.",
+        "Correct. Diffuse proliferative lupus nephritis exemplifies mixed/combined barrier injury, with heavy proteinuria, hematuria, cellular casts, and ACR >1000 mg/g."
+      ]
+    },
+    {
+      "id": 15,
+      "stem": "An investigator measures the percent filtration of serum proteins across the glomerulus and plots them on a logarithmic y-axis against molecular weight. Compared with β2-microglobulin (~12 kDa), thyroid-stimulating hormone (~28 kDa) is filtered at approximately what relative degree?",
+      "choices": ["Almost completely (~100%)", "Partially restricted, ~10% filtered", "Same as albumin (~0.01%)", "Same as IgG (~0.001%)", "Not filtered at all"],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. ~100% filtration applies to very small molecules like β2-microglobulin, not to TSH at ~28 kDa.",
+        "Correct. Per Figure 2, TSH (~28 kDa) sits in the partially restricted range (~10%), between freely filtered β2-microglobulin and largely excluded albumin.",
+        "Incorrect. Albumin is far more restricted (~0.01%) due to size and charge.",
+        "Incorrect. IgG is even more excluded than albumin due to its larger size.",
+        "Incorrect. TSH is partially, not completely, restricted by the size barrier."
+      ]
+    },
+    {
+      "id": 16,
+      "stem": "A pediatric nephrologist evaluates a 6-year-old boy with sudden generalized edema, ACR 4000 mg/g of albumin, no hematuria, and serum albumin of 2.0 g/dL. Renal biopsy shows normal glomeruli on light microscopy and diffuse foot process effacement on electron microscopy. Which downstream consequence best explains his peripheral edema?",
+      "choices": ["Decreased plasma oncotic pressure from urinary albumin loss", "Decreased renal perfusion from afferent vasoconstriction", "Endothelial leak of red blood cells into Bowman's space", "Increased Bowman's space oncotic pressure", "Increased capillary Kf throughout the body"],
+      "answer": 0,
+      "explanations": [
+        "Correct. Podocyte effacement leads to heavy albuminuria, hypoalbuminemia, and decreased plasma oncotic pressure, producing edema (nephrotic syndrome).",
+        "Incorrect. Afferent vasoconstriction is not described as the mechanism of edema in this brick.",
+        "Incorrect. Hematuria is minimal or absent in podocyte disease; this does not explain his edema.",
+        "Incorrect. Bowman's space oncotic pressure remains near 0 mmHg even in podocyte disease.",
+        "Incorrect. Systemic capillary Kf changes are not the mechanism described; oncotic pressure loss drives edema."
+      ]
+    },
+    {
+      "id": 17,
+      "stem": "A 28-year-old with biopsy-proven IgA nephropathy is started on an angiotensin-converting enzyme inhibitor to slow disease progression. According to the brick, which mechanism best explains why this drug reduces proteinuria?",
+      "choices": ["Direct repair of slit diaphragms", "Increased Kf by widening capillary surface area", "Reduction of intraglomerular pressure", "Replacement of heparan sulfate in the GBM", "Suppression of immune complex formation"],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. ACE inhibitors do not directly repair slit diaphragms.",
+        "Incorrect. ACE inhibitors do not act by increasing Kf or widening surface area.",
+        "Correct. ACE inhibitors reduce intraglomerular pressure and proteinuria, a key therapeutic mechanism described in the brick.",
+        "Incorrect. They do not replace heparan sulfate in the GBM.",
+        "Incorrect. Immunosuppressive (not ACE inhibitor) therapy targets immune mechanisms; ACE inhibitors act hemodynamically."
+      ]
+    },
+    {
+      "id": 18,
+      "stem": "A 38-year-old woman has GBM injury with documented loss of heparan sulfate but only minor changes in type IV collagen. Which functional consequence is most directly attributable to the heparan sulfate loss?",
+      "choices": ["Decreased Bowman's space hydrostatic pressure", "Decreased charge selectivity", "Decreased size selectivity", "Increased Kf", "Increased net filtration pressure"],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Heparan sulfate loss does not directly change P_BS.",
+        "Correct. Loss of heparan sulfate diminishes the negative charge of the GBM, reducing charge selectivity and allowing increased filtration of negatively charged proteins.",
+        "Incorrect. Altered type IV collagen primarily reduces size selectivity; heparan sulfate loss specifically affects charge selectivity.",
+        "Incorrect. Kf is influenced by surface area and hydraulic permeability, not specifically by heparan sulfate.",
+        "Incorrect. NFP is governed by Starling forces, not by GBM charge composition."
+      ]
+    },
+    {
+      "id": 19,
+      "stem": "A urinalysis on a patient shows isomorphic red blood cells without RBC casts, with occasional small clots and no significant proteinuria. Based on the brick's framework, where is the bleeding most likely originating?",
+      "choices": ["Bowman's capsule", "Collecting system or lower urinary tract", "Endothelium of glomerular capillaries", "Mesangium", "Podocyte slit diaphragm"],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Bleeding from Bowman's capsule would still produce a glomerular pattern with dysmorphic RBCs and casts.",
+        "Correct. Non-glomerular hematuria features isomorphic RBCs, lacks casts, may include clots, and indicates bleeding from the collecting system or lower urinary tract.",
+        "Incorrect. Endothelial bleeding is glomerular and yields dysmorphic RBCs and RBC casts.",
+        "Incorrect. Mesangial disease commonly produces glomerular-type hematuria with dysmorphic RBCs.",
+        "Incorrect. Slit diaphragm disease usually produces minimal or no hematuria, not isomorphic RBCs with clots."
+      ]
+    },
+    {
+      "id": 20,
+      "stem": "A patient with severe ANCA-associated vasculitis develops microthrombi within glomerular capillaries and decreased glomerular perfusion. Which urinary pattern best fits her likely findings?",
+      "choices": ["Hematuria with dysmorphic RBCs and RBC casts, mild-moderate proteinuria", "Isolated heavy proteinuria with no blood", "Isomorphic RBCs without casts and clots", "Selective proteinuria with ACR >1000 mg/g and minimal hematuria", "Tubular proteinuria pattern with normal RBC morphology"],
+      "answer": 0,
+      "explanations": [
+        "Correct. Endothelial injury (vasculitis, IgA, post-infectious GN) classically produces hematuria with dysmorphic RBCs and RBC casts and mild–moderate proteinuria (ACR 30–300 mg/g).",
+        "Incorrect. Isolated heavy proteinuria without blood describes podocyte disease.",
+        "Incorrect. Isomorphic RBCs without casts and with clots indicate non-glomerular bleeding.",
+        "Incorrect. Selective heavy proteinuria with minimal hematuria points to podocyte injury, not endothelial vasculitic injury.",
+        "Incorrect. Tubular proteinuria patterns are not described as the result of glomerular endothelial injury here."
+      ]
+    },
+    {
+      "id": 21,
+      "stem": "A boy from an X-linked Alport family is asymptomatic but has persistent isolated microscopic hematuria with preserved GFR for many years. Which heterozygous state best matches this presentation?",
+      "choices": ["Diabetic kidney disease", "FSGS variant", "IgA nephropathy", "Membranous nephropathy", "Thin basement membrane nephropathy"],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. Diabetic kidney disease is not the hereditary Alport-spectrum entity described.",
+        "Incorrect. FSGS is a podocyte disease with selective proteinuria, not the X-linked Alport carrier picture.",
+        "Incorrect. IgA nephropathy is endothelial/mesangial and not the Alport-spectrum hereditary state.",
+        "Incorrect. Membranous nephropathy is a podocyte injury producing nephrotic syndrome.",
+        "Correct. Heterozygous Alport carriers may present as thin basement membrane nephropathy with isolated hematuria and preserved GFR for years."
+      ]
+    },
+    {
+      "id": 22,
+      "stem": "A patient with podocyte effacement is being explained their pathophysiology. Which sequence correctly orders the cascade from structural injury to clinical finding?",
+      "choices": ["Effacement → mesangial expansion → fibrosis", "Endothelial damage → effacement → hematuria", "GFR decline → proteinuria → uremia", "Reduced selectivity → albuminuria → edema", "Slit widening → RBC casts → hypertension"],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Effacement directly reduces size selectivity rather than triggering mesangial expansion as the next step.",
+        "Incorrect. Effacement is a podocyte event, not driven by endothelial damage, and hematuria is minimal/absent.",
+        "Incorrect. Proteinuria precedes (and accompanies) GFR decline in this cascade, not the reverse.",
+        "Correct. Podocyte effacement reduces size selectivity, leading to albuminuria, hypoalbuminemia, and edema.",
+        "Incorrect. RBC casts indicate endothelial/GBM injury; podocyte effacement causes minimal hematuria."
+      ]
+    },
+    {
+      "id": 23,
+      "stem": "A 19-year-old develops hypertension and oliguria after a sore throat. Urinalysis shows dysmorphic RBCs, RBC casts, and ACR around 200 mg/g. Which pathology best fits these findings?",
+      "choices": ["Alport syndrome", "FSGS", "Membranous nephropathy", "Minimal change disease", "Post-infectious glomerulonephritis"],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. Alport classically presents with non-selective proteinuria and hematuria, often with extrarenal features, not acute post-infectious onset.",
+        "Incorrect. FSGS is a podocyte disease with selective heavy proteinuria, not RBC casts and mild proteinuria.",
+        "Incorrect. Membranous nephropathy produces selective proteinuria with minimal hematuria.",
+        "Incorrect. Minimal change disease produces selective heavy proteinuria without hematuria.",
+        "Correct. Post-infectious glomerulonephritis is an endothelial injury yielding dysmorphic RBCs, RBC casts, and mild–moderate proteinuria (ACR 30–300 mg/g)."
+      ]
+    },
+    {
+      "id": 24,
+      "stem": "A 50-year-old man has biopsy findings of GBM thinning and splitting, ACR 600 mg/g of mixed albumin and globulin, dysmorphic RBCs, and progressive glomerulosclerosis. Which combination of barrier defects best accounts for the non-selective proteinuria?",
+      "choices": ["Loss of charge selectivity alone", "Loss of size selectivity alone", "Loss of size and charge selectivity from GBM disruption", "Mesangial expansion only", "Podocyte slit diaphragm disruption only"],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Loss of charge selectivity alone would not produce filtration of larger proteins like IgG.",
+        "Incorrect. Loss of size selectivity alone is insufficient; both size and charge are altered in GBM disease.",
+        "Correct. GBM injury (e.g., loss of heparan sulfate plus altered type IV collagen) reduces both size and charge selectivity, producing non-selective proteinuria with hematuria and progression to glomerulosclerosis.",
+        "Incorrect. Mesangial expansion gives variable, typically milder proteinuria patterns.",
+        "Incorrect. Slit diaphragm disruption produces selective proteinuria, not non-selective with hematuria."
+      ]
+    },
+    {
+      "id": 25,
+      "stem": "A medical student integrates the brick's framework: a patient presents with isolated proteinuria and no hematuria. According to the cause-effect mapping, which barrier component should be considered first?",
+      "choices": ["Endothelium", "Glomerular basement membrane", "Mesangium", "Podocytes", "Tubular epithelium"],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Endothelial injury produces hematuria with proteinuria, not isolated proteinuria.",
+        "Incorrect. GBM injury typically produces both proteinuria and hematuria.",
+        "Incorrect. Mesangial expansion gives variable patterns, often with some hematuria.",
+        "Correct. Isolated proteinuria without hematuria first prompts consideration of podocyte disorders, per the brick's diagnostic framework.",
+        "Incorrect. The tubule is not part of the glomerular filtration barrier and is not the focus here."
+      ]
+    }
+  ]
+}

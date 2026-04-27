@@ -1,0 +1,475 @@
+{
+  "id": 8,
+  "title": "Regulation of Renal Blood Flow",
+  "questions": [
+    {
+      "id": 1,
+      "stem": "A physiology investigator measures cardiac output and renal blood flow in a healthy 30-year-old volunteer at rest. Cardiac output is 5 L/min. Which value most closely approximates the expected renal blood flow?",
+      "choices": ["100 mL/min", "300 mL/min", "600 mL/min", "1100 mL/min", "2500 mL/min"],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. 100 mL/min would represent only ~2% of cardiac output, far below the renal share.",
+        "Incorrect. 300 mL/min underestimates total RBF; this is closer to half of renal plasma flow.",
+        "Incorrect. ~600 mL/min approximates renal plasma flow, not total renal blood flow.",
+        "Correct. The kidneys receive 20-25% of cardiac output, averaging 1.0-1.2 L/min of total renal blood flow in adults.",
+        "Incorrect. 2500 mL/min would be roughly half of cardiac output, which exceeds renal perfusion."
+      ]
+    },
+    {
+      "id": 2,
+      "stem": "A researcher injects a tracer into the renal artery of an experimental animal and measures regional flow distribution within the kidney. Which finding is expected under normal conditions?",
+      "choices": [
+        "Cortex receives ~10%, medulla receives ~90%",
+        "Cortex receives ~50%, medulla receives ~50%",
+        "Cortex receives ~90%, medulla receives ~10%",
+        "Cortex and medulla each receive equal flow per gram tissue",
+        "Medulla receives more flow per gram than the cortex"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. This reverses the actual distribution; high medullary flow would wash out the osmotic gradient.",
+        "Incorrect. The distribution is markedly asymmetric, not equal.",
+        "Correct. The cortex receives ~90% of renal blood flow to support filtration; the medulla receives only ~10%, which is functionally necessary to preserve the osmotic gradient for urine concentration.",
+        "Incorrect. Per-gram flow is markedly higher in the cortex than in the medulla.",
+        "Incorrect. Medullary flow is intentionally low to maintain the concentrating gradient."
+      ]
+    },
+    {
+      "id": 3,
+      "stem": "A medical student is asked to identify the arterial sequence supplying a juxtamedullary nephron. Starting at the renal artery, which branching order is correct before blood reaches the afferent arteriole?",
+      "choices": [
+        "Renal -> arcuate -> interlobar -> interlobular",
+        "Renal -> interlobar -> arcuate -> interlobular",
+        "Renal -> interlobular -> arcuate -> interlobar",
+        "Renal -> interlobar -> interlobular -> arcuate",
+        "Renal -> arcuate -> interlobular -> interlobar"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. The arcuate artery does not branch directly off the renal artery.",
+        "Correct. Blood enters via the renal artery, which branches sequentially into interlobar, arcuate, and interlobular arteries before giving rise to afferent arterioles.",
+        "Incorrect. Interlobular arteries are the most distal of the named arteries, not the first.",
+        "Incorrect. Arcuate arteries lie between interlobar and interlobular, not after interlobular.",
+        "Incorrect. Interlobar arteries precede arcuate arteries."
+      ]
+    },
+    {
+      "id": 4,
+      "stem": "A pathologist examines a kidney specimen and identifies long, looping vessels descending alongside the loops of Henle deep into the medulla. These vessels arise from the efferent arterioles of which population of nephrons?",
+      "choices": [
+        "Cortical nephrons",
+        "Juxtamedullary nephrons",
+        "Subcapsular nephrons",
+        "Both cortical and juxtamedullary equally",
+        "Neither; vasa recta arise directly from the renal artery"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Efferent arterioles of cortical nephrons branch into peritubular capillaries surrounding cortical tubules.",
+        "Correct. Efferent arterioles of juxtamedullary nephrons form the vasa recta, long looping vessels that follow the loop of Henle deep into the medulla.",
+        "Incorrect. The brick describes only cortical and juxtamedullary populations.",
+        "Incorrect. Vasa recta originate from juxtamedullary efferents, not cortical efferents.",
+        "Incorrect. Vasa recta arise from efferent arterioles, not directly from the renal artery."
+      ]
+    },
+    {
+      "id": 5,
+      "stem": "An investigator manipulates renal hemodynamics in an isolated kidney. Mean arterial pressure is held constant while renal vascular resistance is selectively increased. Which change in renal blood flow (Q) is predicted by Q = ΔP/R?",
+      "choices": [
+        "Increases proportionally to resistance",
+        "Decreases as resistance rises",
+        "Remains unchanged because MAP is constant",
+        "Decreases only if MAP also falls",
+        "Increases because perfusion pressure is preserved"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Flow is inversely related to resistance, not directly proportional.",
+        "Correct. With MAP held constant, an increase in renal vascular resistance reduces the denominator in Q = ΔP/R, so RBF decreases.",
+        "Incorrect. Flow depends on both pressure gradient and resistance; resistance changes alter flow even at constant MAP.",
+        "Incorrect. RBF can fall solely from an RVR increase without any change in MAP.",
+        "Incorrect. Increased resistance opposes flow despite preserved pressure."
+      ]
+    },
+    {
+      "id": 6,
+      "stem": "A patient's mean arterial pressure rises from 100 to 120 mmHg, and renal vascular resistance simultaneously rises from 0.1 to 0.15 units. Using Q = ΔP/R and assuming renal venous pressure is negligible, what happens to renal blood flow?",
+      "choices": [
+        "Remains unchanged",
+        "Increases by 20%",
+        "Decreases by 20%",
+        "Increases by 50%",
+        "Decreases by 50%"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. The proportional rise in resistance exceeds the rise in pressure, so flow cannot remain unchanged.",
+        "Incorrect. RBF does not increase here; the relative increase in resistance dominates.",
+        "Correct. Initial Q = 100/0.1 = 1000; new Q = 120/0.15 = 800; the new flow is 80% of baseline, a 20% decrease.",
+        "Incorrect. RBF is decreasing, not rising.",
+        "Incorrect. The decrease is 20%, not 50%."
+      ]
+    },
+    {
+      "id": 7,
+      "stem": "A pharmacologist studies determinants of renal vascular resistance. According to Poiseuille's law as described in the brick, which factor exerts the greatest effect on resistance for a given small change in its value?",
+      "choices": [
+        "Blood viscosity",
+        "Vessel length",
+        "Vessel radius",
+        "Renal venous pressure",
+        "Mean arterial pressure"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Resistance is directly proportional to viscosity, but only linearly.",
+        "Incorrect. Resistance varies linearly with length, not as a high power.",
+        "Correct. Resistance is inversely proportional to the fourth power of vessel radius, so small changes in diameter produce dramatic changes in resistance and thus blood flow.",
+        "Incorrect. Renal venous pressure affects the pressure gradient, not resistance per Poiseuille's law.",
+        "Incorrect. MAP determines the driving pressure, not vascular resistance."
+      ]
+    },
+    {
+      "id": 8,
+      "stem": "A renal physiologist reviews the relative contribution of vascular segments to total renal vascular resistance. Which statement best characterizes the role of glomerular capillaries?",
+      "choices": [
+        "They are the principal resistance vessels regulating inflow",
+        "They control efferent outflow and glomerular hydrostatic pressure",
+        "Their constriction or dilation minimally changes total resistance but alters Kf via surface area",
+        "They contribute equally with afferent arterioles",
+        "They offer the greatest resistance under normal conditions"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Afferent arterioles, not glomerular capillaries, are the major resistance vessels regulating inflow.",
+        "Incorrect. That role belongs to the efferent arteriole.",
+        "Correct. Constriction and dilation of glomerular capillaries minimally change total resistance but play a larger role in altering Kf by changing surface area in the glomerulus.",
+        "Incorrect. Their contribution to total RVR is far less than that of the arterioles.",
+        "Incorrect. The brick states that arterioles, not glomerular capillaries, dominate resistance."
+      ]
+    },
+    {
+      "id": 9,
+      "stem": "A 38-year-old man undergoes selective constriction of his efferent arterioles in response to a circulating mediator, while afferent tone remains constant. Compared with baseline, which combination of glomerular hydrostatic pressure, total RBF, and GFR is most likely?",
+      "choices": [
+        "Decreased glomerular pressure, increased RBF, decreased GFR",
+        "Increased glomerular pressure, decreased RBF, potentially increased GFR",
+        "Decreased glomerular pressure, decreased RBF, decreased GFR",
+        "Increased glomerular pressure, increased RBF, increased GFR",
+        "Unchanged glomerular pressure, decreased RBF, unchanged GFR"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Efferent constriction raises glomerular pressure and reduces RBF.",
+        "Correct. Constriction of the efferent arteriole increases resistance to outflow, raising glomerular hydrostatic pressure and potentially increasing GFR despite reduced total RBF.",
+        "Incorrect. Glomerular pressure rises, not falls, with efferent constriction.",
+        "Incorrect. Total RBF decreases as outflow resistance rises.",
+        "Incorrect. Glomerular hydrostatic pressure characteristically rises with efferent constriction."
+      ]
+    },
+    {
+      "id": 10,
+      "stem": "A physiologist observes that renal blood flow remains nearly constant when MAP is varied between 80 and 180 mmHg in an isolated, denervated kidney perfused with a hormone-free solution. This behavior is best explained by which two intrinsic mechanisms?",
+      "choices": [
+        "Sympathetic tone and angiotensin II",
+        "Aldosterone and ADH",
+        "Myogenic response and tubuloglomerular feedback",
+        "RAAS and prostaglandins",
+        "Endothelin and nitric oxide"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. The kidney is denervated and hormone-free, so neural and circulating hormonal effects are excluded.",
+        "Incorrect. Aldosterone and ADH regulate tubular handling, not RBF autoregulation.",
+        "Correct. The kidneys maintain relatively constant RBF and GFR across MAP ~80-180 mmHg through two intrinsic mechanisms: the myogenic response and tubuloglomerular feedback, which operate independently of neural and hormonal input.",
+        "Incorrect. RAAS is hormonal/extrinsic, not intrinsic autoregulation.",
+        "Incorrect. While these are renal vasoactive molecules, they are not the two intrinsic autoregulatory mechanisms named in the brick."
+      ]
+    },
+    {
+      "id": 11,
+      "stem": "A subject rises rapidly from supine to standing, transiently increasing arterial pressure transmitted to the renal vasculature. Within seconds, afferent arteriolar resistance increases to buffer the change. Which cellular mechanism most directly produces this rapid response?",
+      "choices": [
+        "Macula densa adenosine release",
+        "Stretch-activated calcium channels in afferent smooth muscle",
+        "Granular cell renin secretion",
+        "Endothelial nitric oxide synthesis",
+        "Sympathetic α1-adrenergic stimulation"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. That mechanism describes tubuloglomerular feedback, which operates over 10-15 seconds, not the fastest response.",
+        "Correct. The myogenic response is the faster of the two autoregulatory mechanisms: increased wall tension opens stretch-activated calcium channels in afferent arteriolar smooth muscle, triggering contraction and raising resistance within seconds.",
+        "Incorrect. Renin release modulates angiotensin II, not the immediate myogenic vasoconstriction.",
+        "Incorrect. NO is a vasodilator and not the mechanism for rapid pressure-induced constriction.",
+        "Incorrect. Sympathetic input is extrinsic; intrinsic autoregulation operates without it."
+      ]
+    },
+    {
+      "id": 12,
+      "stem": "A perfusion experiment shows that when MAP falls below 80 mmHg in a healthy kidney, renal blood flow no longer remains constant and falls in proportion to pressure. Which conclusion best explains this finding?",
+      "choices": [
+        "Tubuloglomerular feedback is enhanced at low pressures",
+        "Sympathetic tone overrides autoregulation",
+        "The myogenic response becomes insufficient and RBF becomes pressure-dependent",
+        "Efferent constriction completely compensates",
+        "Vasa recta dilate, sustaining medullary flow"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. TGF cannot maintain perfusion below the autoregulatory range.",
+        "Incorrect. The brick attributes loss of autoregulation below 80 mmHg to insufficiency of intrinsic mechanisms, not sympathetic override per se.",
+        "Correct. Below MAP ~80 mmHg, the myogenic response becomes insufficient, autoregulation fails, and RBF falls proportionally with pressure.",
+        "Incorrect. Efferent constriction can support GFR but cannot keep RBF constant once perfusion pressure falls below the autoregulatory range.",
+        "Incorrect. Vasa recta dilation does not restore total RBF when perfusion pressure is inadequate."
+      ]
+    },
+    {
+      "id": 13,
+      "stem": "A patient's GFR rises acutely. According to tubuloglomerular feedback as described in the brick, which sequence of events at the macula densa restores GFR toward normal?",
+      "choices": [
+        "Decreased NaCl delivery -> increased prostaglandins -> afferent dilation",
+        "Increased NaCl delivery -> adenosine and ATP release with reduced prostaglandins -> afferent constriction",
+        "Increased NaCl delivery -> renin release -> efferent constriction",
+        "Decreased NaCl delivery -> adenosine release -> afferent constriction",
+        "Increased NaCl delivery -> nitric oxide release -> afferent dilation"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Reduced NaCl delivery occurs when GFR falls, not when it rises.",
+        "Correct. When GFR rises, increased tubular flow delivers more NaCl to the macula densa; these cells release adenosine and ATP and reduce prostaglandin production, constricting the afferent arteriole and reducing GFR.",
+        "Incorrect. Increased NaCl delivery suppresses renin (via reduced prostaglandin signaling), it does not stimulate it.",
+        "Incorrect. Decreased NaCl delivery promotes afferent dilation, not constriction.",
+        "Incorrect. The brick attributes the response to adenosine/ATP and reduced prostaglandins, not NO release."
+      ]
+    },
+    {
+      "id": 14,
+      "stem": "A medical student is asked to compare the time courses of the two intrinsic autoregulatory mechanisms. Which best characterizes tubuloglomerular feedback relative to the myogenic response?",
+      "choices": [
+        "Faster, engaging within milliseconds",
+        "Faster than the myogenic response by 10-15 seconds",
+        "Slower (engages over ~10-15 seconds) but provides more precise control by matching filtered load to tubular capacity",
+        "Equal speed but acts only on efferent arterioles",
+        "Slower and only relevant during sympathetic activation"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. TGF is the slower of the two mechanisms.",
+        "Incorrect. TGF is slower, not faster, than the myogenic response.",
+        "Correct. TGF engages over 10-15 seconds (slower than the myogenic response) but provides more precise control by directly matching filtered load to tubular reabsorptive capacity.",
+        "Incorrect. TGF primarily modulates afferent (and indirectly efferent via renin) tone, and is slower than the myogenic response.",
+        "Incorrect. TGF is intrinsic and operates without sympathetic input."
+      ]
+    },
+    {
+      "id": 15,
+      "stem": "A 38-year-old man develops hemorrhagic shock after a motorcycle collision. Sympathetic activation occurs in response to baroreceptor signaling. Which pattern of renal arteriolar effect via α1-adrenergic receptors is expected during severe sympathetic activation?",
+      "choices": [
+        "Strong afferent dilation and efferent dilation",
+        "Strong afferent constriction with moderate efferent constriction",
+        "Selective efferent dilation only",
+        "No effect because RBF is autoregulated",
+        "Strong dilation of arcuate and interlobular arteries"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Sympathetic stimulation produces constriction, not dilation, of renal vessels.",
+        "Correct. Norepinephrine acts on α1-adrenergic receptors to strongly constrict afferent arterioles, moderately constrict efferent arterioles, and to a lesser extent constrict upstream arcuate and interlobular arteries, reducing RBF by 30-50% during severe activation such as hemorrhagic shock.",
+        "Incorrect. Sympathetic activation does not selectively dilate efferent vessels.",
+        "Incorrect. Severe sympathetic activation overrides autoregulation and reduces RBF.",
+        "Incorrect. Upstream vessels constrict (mildly), they do not dilate."
+      ]
+    },
+    {
+      "id": 16,
+      "stem": "Beyond direct vasoconstriction, sympathetic activation produces additional renal effects. Which pair of changes is most consistent with the description in the brick?",
+      "choices": [
+        "Decreased tubular sodium reabsorption and decreased renin release",
+        "Increased tubular sodium reabsorption and increased renin release",
+        "Increased prostaglandin release and decreased renin release",
+        "Decreased angiotensin II generation and increased natriuresis",
+        "Decreased aldosterone and increased renal blood flow"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Sympathetic activity increases, not decreases, both effects.",
+        "Correct. Beyond vascular effects, sympathetic activation increases tubular sodium reabsorption and stimulates renin release from juxtaglomerular cells, supporting systemic blood pressure but contributing to hypertension when chronically activated.",
+        "Incorrect. Sympathetic stimulation increases renin release.",
+        "Incorrect. RAAS activity rises with sympathetic activation, increasing angiotensin II.",
+        "Incorrect. RBF falls during sympathetic activation; aldosterone tends to rise via RAAS."
+      ]
+    },
+    {
+      "id": 17,
+      "stem": "A patient develops acute hypotension. Circulating angiotensin II rises substantially. Which best describes its predominant effect on renal arterioles?",
+      "choices": [
+        "Predominant afferent dilation, decreasing GFR",
+        "Equal constriction of afferent and efferent",
+        "Primarily efferent constriction via AT1 receptors, helping maintain GFR during hypotension",
+        "Selective constriction of vasa recta",
+        "No vascular effect; only stimulates aldosterone"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Angiotensin II constricts efferent arterioles preferentially; it does not dilate afferent vessels.",
+        "Incorrect. Its action is preferential, not equal, on the efferent side.",
+        "Correct. Angiotensin II primarily constricts efferent arterioles via AT1 receptors, helping maintain GFR during hypotension.",
+        "Incorrect. The brick highlights afferent/efferent action, not selective vasa recta effects.",
+        "Incorrect. Angiotensin II is a potent renal vasoconstrictor."
+      ]
+    },
+    {
+      "id": 18,
+      "stem": "A 70-year-old man with heart failure and chronic volume depletion is started on ibuprofen for joint pain. Within days he develops acute kidney injury. Which mechanism best explains this outcome?",
+      "choices": [
+        "NSAIDs stimulate sympathetic activity and constrict efferent arterioles",
+        "NSAIDs inhibit prostaglandin synthesis, removing afferent dilation that preserves filtration during reduced renal perfusion",
+        "NSAIDs block angiotensin II receptors and dilate efferents",
+        "NSAIDs inhibit nitric oxide and dilate the afferent arteriole",
+        "NSAIDs increase renin release, raising glomerular pressure"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. NSAIDs do not stimulate sympathetic activity nor selectively constrict efferents.",
+        "Correct. During reduced renal perfusion, locally produced prostaglandins (especially PGE2 and PGI2) maintain afferent arteriolar dilation and preserve glomerular filtration. NSAIDs inhibit prostaglandin synthesis and can precipitate AKI in patients with heart failure, cirrhosis, or volume depletion.",
+        "Incorrect. NSAIDs do not antagonize angiotensin II receptors.",
+        "Incorrect. NSAIDs act on cyclooxygenase, not NO synthesis.",
+        "Incorrect. NSAIDs reduce, not increase, prostaglandin-driven renin release."
+      ]
+    },
+    {
+      "id": 19,
+      "stem": "A research team catalogs renal vasoactive molecules. Which agent is correctly paired with its primary renal vascular action as described in the brick?",
+      "choices": [
+        "Nitric oxide -> potent vasoconstrictor",
+        "Endothelin -> potent vasoconstrictor of both afferent and efferent arterioles",
+        "Bradykinin -> direct constrictor of the afferent arteriole",
+        "Dopamine (low dose) -> renal vasoconstrictor via D1 receptors",
+        "Thromboxane A2 -> efferent dilator"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Nitric oxide dilates both afferent and efferent arterioles.",
+        "Correct. Endothelin is a potent vasoconstrictor affecting both afferent and efferent arterioles.",
+        "Incorrect. Bradykinin promotes vasodilation by stimulating NO and prostaglandin production; it is inactivated by ACE.",
+        "Incorrect. At low doses, dopamine dilates renal vessels via D1 receptors and increases RBF.",
+        "Incorrect. Thromboxane A2 is produced during inflammation and causes afferent arteriolar constriction."
+      ]
+    },
+    {
+      "id": 20,
+      "stem": "Adenosine is highlighted in the brick as a key vasoactive mediator linking tubular and glomerular events. Which renal action of adenosine is most consistent with the brick's description?",
+      "choices": [
+        "Dilates afferent arteriole via A1 receptors",
+        "Constricts efferent arteriole via AT1 receptors",
+        "Constricts the afferent arteriole via A1 receptors and mediates tubuloglomerular feedback",
+        "Stimulates renin release from juxtaglomerular cells",
+        "Acts as a potent natriuretic agent at the macula densa"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Adenosine constricts, not dilates, the afferent arteriole via A1 receptors.",
+        "Incorrect. AT1 receptors are activated by angiotensin II, not adenosine.",
+        "Correct. Adenosine causes afferent arteriolar constriction via A1 receptors and mediates tubuloglomerular feedback.",
+        "Incorrect. In TGF, increased macula densa signaling reduces renin release rather than stimulating it.",
+        "Incorrect. The brick frames adenosine as a vasoconstrictor and TGF mediator, not a primary natriuretic agent."
+      ]
+    },
+    {
+      "id": 21,
+      "stem": "Under normal physiologic conditions, the balance among renal vasoactive influences is shifted slightly in which direction, and how does this balance change during physiological stress?",
+      "choices": [
+        "Vasoconstriction predominates normally; shifts toward dilation during stress",
+        "Equal balance normally; remains equal during stress",
+        "Vasodilation slightly predominates normally; balance shifts toward vasoconstriction during stress, prioritizing systemic perfusion over renal flow",
+        "Only sympathetic input determines tone in either state",
+        "RAAS dominates in both normal and stress states"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. The brick states the opposite: vasodilation slightly predominates at baseline.",
+        "Incorrect. The balance is not equal and does shift with stress.",
+        "Correct. Under normal conditions vasodilatory influences slightly predominate; during physiological stress the balance shifts toward vasoconstriction, prioritizing systemic perfusion over renal blood flow.",
+        "Incorrect. Multiple vasoactive influences contribute, not sympathetic alone.",
+        "Incorrect. RAAS is one of several modulators; baseline tone is set by a balance favoring vasodilation."
+      ]
+    },
+    {
+      "id": 22,
+      "stem": "A 38-year-old man with mild to moderate acute hemorrhage (10-20% blood volume loss) has activated compensatory mechanisms. Which pattern of changes in renal blood flow, filtration fraction, and GFR is most consistent with the brick?",
+      "choices": [
+        "RBF up, FF down, GFR up",
+        "RBF down, FF down, GFR down",
+        "RBF down, FF up, GFR maintained initially",
+        "RBF maintained, FF maintained, GFR maintained",
+        "RBF down, FF maintained, GFR down"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. RBF decreases with hemorrhage rather than rising.",
+        "Incorrect. With mild to moderate hemorrhage, GFR is initially maintained, not reduced.",
+        "Correct. With mild to moderate hemorrhage, sympathetic and RAAS-mediated efferent constriction maintain GFR despite reduced RBF, resulting in increased filtration fraction.",
+        "Incorrect. RBF does fall with hemorrhage, even when GFR is preserved.",
+        "Incorrect. With efferent constriction maintaining glomerular pressure, FF rises rather than staying constant."
+      ]
+    },
+    {
+      "id": 23,
+      "stem": "A 38-year-old man with severe hemorrhage (>30% volume loss) has MAP that falls to 60 mmHg. Which best explains the renal consequences in this setting?",
+      "choices": [
+        "Autoregulation tightens and GFR is preserved",
+        "Sympathetic withdrawal restores RBF to baseline",
+        "MAP falls below the autoregulatory range, overwhelming compensatory mechanisms and causing precipitous declines in both RBF and GFR",
+        "Efferent constriction by angiotensin II fully maintains GFR",
+        "Prostaglandin release alone reverses the hemodynamic insult"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Below the autoregulatory range, intrinsic mechanisms fail rather than tighten.",
+        "Incorrect. Severe hemorrhage triggers, not withdraws, sympathetic activity.",
+        "Correct. With severe hemorrhage, MAP falls below the autoregulatory range, overwhelming compensatory mechanisms and causing precipitous declines in both RBF and GFR.",
+        "Incorrect. Efferent constriction is insufficient when MAP falls below the autoregulatory range.",
+        "Incorrect. Prostaglandins help preserve afferent dilation but cannot reverse profound hypoperfusion."
+      ]
+    },
+    {
+      "id": 24,
+      "stem": "A 60-year-old man with sepsis has increased cardiac output but a fall in systemic vascular resistance. He develops AKI despite seemingly adequate macrovascular perfusion. Which mechanism best explains the renal injury in sepsis?",
+      "choices": [
+        "Selective vasoconstriction of vasa recta only",
+        "Direct inflammatory damage to renal microcirculation and tubules, with compromised autoregulation despite acceptable global hemodynamics",
+        "Pure prerenal physiology fully reversed by fluid resuscitation",
+        "Excessive efferent dilation raising filtration fraction",
+        "Marked elevation of MAP above the autoregulatory range"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. The brick describes microvascular and tubular injury, not isolated vasa recta constriction.",
+        "Correct. In sepsis, inflammatory mediators directly impair the renal microcirculation and tubular function, autoregulatory mechanisms can be compromised, and AKI can occur even when global hemodynamic parameters appear acceptable.",
+        "Incorrect. Septic AKI involves direct microvascular and tubular injury beyond simple prerenal hypoperfusion.",
+        "Incorrect. Sepsis does not characteristically cause efferent dilation with elevated FF.",
+        "Incorrect. Sepsis lowers, not raises, MAP above autoregulatory limits."
+      ]
+    },
+    {
+      "id": 25,
+      "stem": "A clinician applies the brick's stepwise framework to predict the renal effects of a circulating mediator that selectively dilates the efferent arteriole. According to the table summarizing differential arteriolar effects, which combination of changes in RBF, GFR, and filtration fraction is expected?",
+      "choices": [
+        "RBF down, GFR down, FF up",
+        "RBF up, GFR down or unchanged, FF down",
+        "RBF down, GFR up, FF up",
+        "RBF up, GFR up, FF up",
+        "RBF and GFR both unchanged, FF unchanged"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. That pattern matches efferent constriction, not dilation.",
+        "Correct. Per the brick's table, efferent dilation increases RBF, leaves GFR decreased or unchanged (because glomerular pressure falls), and decreases filtration fraction.",
+        "Incorrect. Efferent dilation reduces glomerular hydrostatic pressure, so GFR does not rise.",
+        "Incorrect. GFR is not increased with efferent dilation; FF falls rather than rises.",
+        "Incorrect. Efferent dilation alters all three parameters per the table."
+      ]
+    }
+  ]
+}

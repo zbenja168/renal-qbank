@@ -1,0 +1,463 @@
+{
+  "id": 10,
+  "title": "Sodium Homeostasis",
+  "questions": [
+    {
+      "id": 1,
+      "stem": "A 62-year-old woman with a high-salt diet presents with 2+ pedal edema, BP 138/88 mm Hg, and a normal serum sodium of 140 mEq/L. Which best explains how her positive sodium balance has produced edema despite a normal measured serum [Na+]?",
+      "choices": [
+        "Excess Na+ shifted into cells",
+        "Na+ retained in ECF with water",
+        "Hypernatremia drove water into ECF",
+        "Hyponatremia caused interstitial leak",
+        "Na+ secretion in distal tubule failed"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Sodium is locked outside the cell by Na+/K+-ATPase; it does not shift intracellularly with high intake.",
+        "Correct. Excess total body Na+ is retained in the ECF; water follows osmotically, expanding ECF volume and producing edema while serum [Na+] remains normal.",
+        "Incorrect. Her serum sodium is normal, not elevated, and edema reflects total body Na+, not concentration.",
+        "Incorrect. Hyponatremia is a water problem, not a sodium-content problem, and is not present here.",
+        "Incorrect. There is no tubular secretion of sodium in humans."
+      ]
+    },
+    {
+      "id": 2,
+      "stem": "A physiology student reviews body fluid compartments. In a 70-kg adult, total body water is approximately 60% of body mass. Which statement about distribution is correct?",
+      "choices": [
+        "ICF is 1/3 of TBW",
+        "ECF is 2/3 of TBW",
+        "Plasma equals 75% of ECF",
+        "Interstitial fluid equals 75% of ECF",
+        "Plasma equals 50% of ECF"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. ICF is 2/3 of TBW, not 1/3.",
+        "Incorrect. ECF is 1/3 of TBW.",
+        "Incorrect. Plasma is approximately 25% of ECF.",
+        "Correct. Interstitial fluid is about 75% of ECF (~10.5 L), with plasma constituting the remaining 25%.",
+        "Incorrect. Plasma is roughly 25%, not 50%, of ECF."
+      ]
+    },
+    {
+      "id": 3,
+      "stem": "A researcher inhibits the basolateral Na+/K+-ATPase in proximal tubule cells. Which immediate consequence is expected?",
+      "choices": [
+        "Increased Na+ secretion into urine",
+        "Loss of intracellular K+ gradient",
+        "Reduced Na+ reabsorption from lumen",
+        "Increased ENaC activity in collecting duct",
+        "Activation of NKCC2 in TAL"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. There is no active sodium secretion in human nephrons.",
+        "Incorrect. While the gradient is gradually lost, the immediate effect is loss of the driving force for tubular reabsorption.",
+        "Correct. The basolateral Na+/K+-ATPase establishes the low intracellular Na+ that drives apical Na+ entry from lumen; inhibition halts reabsorption.",
+        "Incorrect. ENaC activity depends on aldosterone and would not be acutely increased by ATPase inhibition.",
+        "Incorrect. NKCC2 also depends on the basolateral pump-generated gradient and would be impaired, not activated."
+      ]
+    },
+    {
+      "id": 4,
+      "stem": "A patient with normal kidney function has a GFR of 180 L/day and a plasma Na+ of 140 mEq/L. What is her filtered load of sodium per day?",
+      "choices": ["180 mEq/day", "1,400 mEq/day", "14,000 mEq/day", "25,200 mEq/day", "180,000 mEq/day"],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. This is the GFR in liters, not the filtered load.",
+        "Incorrect. This underestimates the daily filtered load of Na+.",
+        "Incorrect. This is far below the calculated filtered load.",
+        "Correct. Filtered load = GFR × plasma [Na+] = 180 L/day × 140 mEq/L = 25,200 mEq/day.",
+        "Incorrect. This greatly overestimates the calculated value."
+      ]
+    },
+    {
+      "id": 5,
+      "stem": "A 50-year-old man eats a salty pizza, increasing his sodium intake. The kidneys respond by reducing fractional reabsorption. Approximately what fraction of filtered sodium is normally reabsorbed before any urinary loss?",
+      "choices": ["50%", "70%", "85%", "95%", "98–99%"],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. Far more than half of filtered sodium is reabsorbed.",
+        "Incorrect. The proximal tubule alone reabsorbs roughly 65–80%; the entire nephron reabsorbs more.",
+        "Incorrect. Total fractional reabsorption is higher than this.",
+        "Incorrect. Total fractional reabsorption normally exceeds 95%.",
+        "Correct. Roughly 98–99% of filtered Na+ is reabsorbed in normal balance, rising toward 99.9% during fasting."
+      ]
+    },
+    {
+      "id": 6,
+      "stem": "A renal physiology trainee is asked which nephron segment reabsorbs the largest fraction of filtered sodium under normal conditions. Which segment is correct, and through approximately what fraction?",
+      "choices": [
+        "Proximal tubule, 65–80%",
+        "Thin descending limb, 25%",
+        "Thick ascending limb, 50%",
+        "Distal convoluted tubule, 25%",
+        "Collecting duct, 20%"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Most filtered Na+ (about 65–80%) is reabsorbed iso-osmotically in the proximal tubule.",
+        "Incorrect. The thin descending limb is permeable to water but does not reabsorb significant Na+.",
+        "Incorrect. The TAL reabsorbs about 10–20% of the filtered load.",
+        "Incorrect. The DCT reabsorbs about 10% via the Na+/Cl- cotransporter.",
+        "Incorrect. The collecting duct reabsorbs only 2–5%."
+      ]
+    },
+    {
+      "id": 7,
+      "stem": "A 65-year-old woman with congestive heart failure is started on furosemide. Which transporter is directly inhibited, and in which segment does this drug act?",
+      "choices": [
+        "Na+/H+ exchanger (NHE3) in PCT",
+        "Na+/K+/2Cl- cotransporter in TAL",
+        "Na+/Cl- cotransporter in DCT",
+        "ENaC in collecting duct",
+        "Na+/K+-ATPase in basolateral membrane"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. NHE3 is a proximal tubule transporter; loop diuretics do not target it.",
+        "Correct. Loop diuretics such as furosemide inhibit the Na+/K+/2Cl- cotransporter in the thick ascending limb, producing significant Na+ and water diuresis.",
+        "Incorrect. The Na+/Cl- cotransporter in the DCT is the target of thiazide diuretics, not loop diuretics.",
+        "Incorrect. ENaC is targeted by potassium-sparing diuretics, not loop agents.",
+        "Incorrect. The basolateral Na+/K+-ATPase is not the direct target of any clinical diuretic."
+      ]
+    },
+    {
+      "id": 8,
+      "stem": "A 55-year-old man with newly diagnosed hypertension is prescribed a thiazide diuretic. Which transporter does this medication block?",
+      "choices": [
+        "ENaC in collecting duct",
+        "NHE3 in proximal tubule",
+        "Na+/Cl- cotransporter in DCT",
+        "Na+/K+/2Cl- cotransporter in TAL",
+        "Aquaporin-2 in collecting duct"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. ENaC is the target of K+-sparing diuretics like amiloride.",
+        "Incorrect. NHE3 is in the proximal tubule and is not directly targeted by thiazides.",
+        "Correct. Thiazides inhibit the Na+/Cl- cotransporter in the DCT and are first-line drugs for hypertension.",
+        "Incorrect. NKCC2 is the target of loop diuretics.",
+        "Incorrect. Aquaporin-2 mediates water reabsorption under ADH and is not the target of thiazides."
+      ]
+    },
+    {
+      "id": 9,
+      "stem": "A 70-year-old man with primary aldosteronism has elevated aldosterone driving Na+ retention. Through which channel in the collecting duct does aldosterone exert its primary sodium-reabsorbing effect?",
+      "choices": [
+        "Na+/K+/2Cl- cotransporter",
+        "Na+/Cl- cotransporter",
+        "Epithelial sodium channel (ENaC)",
+        "Aquaporin-2",
+        "Na+/H+ exchanger"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. NKCC2 is in the TAL and is not aldosterone-regulated.",
+        "Incorrect. NCC is in the DCT and is not the principal aldosterone target.",
+        "Correct. Aldosterone upregulates ENaC in the collecting duct principal cells, fine-tuning the final 2–5% of Na+ reabsorption.",
+        "Incorrect. Aquaporin-2 mediates water permeability under ADH, not Na+ reabsorption.",
+        "Incorrect. NHE3 is a PCT transporter and not the principal site of aldosterone action."
+      ]
+    },
+    {
+      "id": 10,
+      "stem": "A patient's GFR rises from baseline due to a transient blood pressure increase. Without any neural or hormonal input, the proximal tubule reabsorbs proportionally more Na+. Which mechanism best describes this response?",
+      "choices": [
+        "Tubuloglomerular feedback",
+        "Glomerulotubular balance",
+        "Pressure natriuresis",
+        "Counter-current multiplication",
+        "Aldosterone escape"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. TGF involves the macula densa and adjusts GFR, not proximal tubule reabsorption per se.",
+        "Correct. Glomerulotubular balance increases proximal tubule Na+ reabsorption when GFR rises, driven by elevated peritubular capillary oncotic pressure, without neural or hormonal input.",
+        "Incorrect. Pressure natriuresis describes Na+ excretion rising with BP, not increased reabsorption.",
+        "Incorrect. Counter-current multiplication establishes the medullary gradient and is unrelated.",
+        "Incorrect. Aldosterone escape refers to a secondary natriuresis with chronic mineralocorticoid excess."
+      ]
+    },
+    {
+      "id": 11,
+      "stem": "A 35-year-old man stands quickly, and his BP transiently drops, lowering GFR and reducing tubular Na+ delivery. The macula densa senses low [Na+] and signals juxtaglomerular cells. Which sequence correctly describes the resulting tubuloglomerular feedback?",
+      "choices": [
+        "Afferent constriction, efferent dilation, decreased GFR",
+        "Afferent dilation, efferent constriction (via renin/Ang II), increased GFR",
+        "Afferent dilation only, increased GFR",
+        "Efferent dilation only, decreased GFR",
+        "Decreased renin release, decreased GFR"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. This response would worsen the situation by reducing GFR further.",
+        "Correct. Low macula densa [Na+] triggers JG cells to dilate the afferent arteriole and release renin; angiotensin II then constricts the efferent arteriole, raising GFR and restoring Na+ delivery.",
+        "Incorrect. Both arteriolar effects (afferent dilation plus efferent constriction) contribute.",
+        "Incorrect. Efferent dilation would lower, not raise, GFR.",
+        "Incorrect. Renin release increases, not decreases, in this setting."
+      ]
+    },
+    {
+      "id": 12,
+      "stem": "Which structure in the juxtaglomerular apparatus directly senses tubular sodium and chloride and signals to JG cells?",
+      "choices": ["Mesangial cells", "Macula densa", "Bowman capsule", "Efferent arteriole", "Podocytes"],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Mesangial cells provide structural support and contractility; they do not sense tubular Na+/Cl-.",
+        "Correct. The macula densa is the specialized tubular region (early DCT) that senses luminal Na+ and Cl-, signaling JG cells to adjust afferent arteriolar tone and renin release.",
+        "Incorrect. Bowman capsule encloses the glomerulus and does not sense solute composition.",
+        "Incorrect. The efferent arteriole is a vascular structure; it does not sense tubular composition.",
+        "Incorrect. Podocytes form the filtration barrier and are not chemosensors."
+      ]
+    },
+    {
+      "id": 13,
+      "stem": "A 45-year-old man develops shock from hemorrhage. Renal hypoperfusion strongly stimulates RAAS. Which two effector molecules most directly increase tubular Na+ reabsorption?",
+      "choices": [
+        "Renin and angiotensinogen",
+        "Angiotensin I and ACE",
+        "Angiotensin II and aldosterone",
+        "ANP and BNP",
+        "ADH and oxytocin"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Renin is an enzyme and angiotensinogen is its substrate; neither directly increases reabsorption.",
+        "Incorrect. Ang I is inactive, and ACE is the converting enzyme.",
+        "Correct. Angiotensin II stimulates Na+ reabsorption in the proximal tubule, while aldosterone stimulates ENaC-mediated Na+ reabsorption in the collecting duct.",
+        "Incorrect. ANP/BNP counter-regulate RAAS by promoting natriuresis.",
+        "Incorrect. ADH primarily controls water; oxytocin is unrelated to renal Na+ handling."
+      ]
+    },
+    {
+      "id": 14,
+      "stem": "Which set of stimuli is the strongest activator of RAAS?",
+      "choices": [
+        "Volume overload and high atrial stretch",
+        "Hyperkalemia and hyponatremia",
+        "Low BP, low Na+ delivery, and high sympathetic tone",
+        "High plasma osmolality and dehydration only",
+        "Hypoxia and acidemia"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Volume overload activates ANP/BNP and suppresses RAAS.",
+        "Incorrect. Hyponatremia is a water problem; while hyperkalemia stimulates aldosterone, it is not the primary RAAS trigger described in this brick.",
+        "Correct. RAAS is activated by low BP (renal baroreceptors), low Na+ delivery to the macula densa, and increased sympathetic tone (β1-receptor stimulation of JG cells).",
+        "Incorrect. These primarily activate ADH and thirst, not RAAS as the principal stressor.",
+        "Incorrect. Hypoxia/acidemia are not the principal RAAS activators highlighted."
+      ]
+    },
+    {
+      "id": 15,
+      "stem": "A 50-year-old woman in shock has activation of the sympathetic nervous system. Which mechanism by which the SNS contributes to Na+ retention is best supported by the brick?",
+      "choices": [
+        "SNS directly secretes aldosterone",
+        "SNS inhibits renin release from JG cells",
+        "SNS activates JG cells via β1-receptors and stimulates tubular Na+ reabsorption",
+        "SNS inhibits Na+/K+-ATPase in the PCT",
+        "SNS stimulates ANP release"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Aldosterone is secreted from the adrenal cortex, not by the SNS itself.",
+        "Incorrect. The SNS stimulates renin release, not inhibits it.",
+        "Correct. SNS activation triggers JG cell renin release via β1-receptors and also directly stimulates tubular Na+ reabsorption via norepinephrine/epinephrine.",
+        "Incorrect. There is no described SNS inhibition of Na+/K+-ATPase in the PCT.",
+        "Incorrect. SNS does not stimulate ANP; ANP is released with atrial stretch."
+      ]
+    },
+    {
+      "id": 16,
+      "stem": "A 70-year-old man with decompensated heart failure has elevated atrial stretch. Which set of effects best characterizes the natriuretic peptides ANP and BNP?",
+      "choices": [
+        "Constrict afferent arteriole; stimulate renin",
+        "Dilate afferent arteriole; inhibit renin; inhibit tubular Na+ reabsorption",
+        "Constrict efferent arteriole; stimulate aldosterone",
+        "Increase ADH; reduce GFR",
+        "Decrease GFR; stimulate ENaC"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. They dilate the afferent arteriole and decrease renin.",
+        "Correct. ANP/BNP are RAAS counter-regulators: they dilate the afferent arteriole (increasing GFR), decrease renin secretion, and directly inhibit tubular Na+ reabsorption.",
+        "Incorrect. They oppose, rather than mimic, RAAS effects.",
+        "Incorrect. Natriuretic peptides do not increase ADH; their role is natriuresis.",
+        "Incorrect. They increase GFR and inhibit ENaC-mediated Na+ reabsorption."
+      ]
+    },
+    {
+      "id": 17,
+      "stem": "Where is BNP primarily released, and under what stimulus?",
+      "choices": [
+        "Adrenal cortex; hyperkalemia",
+        "Cardiac chambers; chamber stretch in volume overload",
+        "JG cells; low renal perfusion",
+        "Posterior pituitary; high plasma osmolality",
+        "Macula densa; low tubular Na+"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. The adrenal cortex secretes aldosterone in response to hyperkalemia, not BNP.",
+        "Correct. Natriuretic peptides are secreted from cardiac chambers when stretched, as occurs in volume overload states such as heart failure.",
+        "Incorrect. JG cells secrete renin, not BNP.",
+        "Incorrect. The posterior pituitary releases ADH, not BNP.",
+        "Incorrect. The macula densa modulates JG cell signaling, not BNP secretion."
+      ]
+    },
+    {
+      "id": 18,
+      "stem": "Compared with sodium handling, magnesium handling along the nephron is best described as:",
+      "choices": [
+        "Identical, with most reabsorption in the PCT",
+        "A mirror image, with more reabsorbed in the TAL than PCT",
+        "Predominantly secreted in the distal nephron",
+        "Reabsorbed exclusively in the collecting duct",
+        "Not regulated at any segment"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Sodium is mainly PCT-reabsorbed; magnesium is mainly TAL-reabsorbed.",
+        "Correct. Magnesium is a mirror image of sodium: more is reabsorbed in the thick ascending limb than the proximal tubule, with fine-tuning in the DCT.",
+        "Incorrect. Magnesium is reabsorbed; it is not actively secreted distally.",
+        "Incorrect. Some fine-tuning occurs in the DCT, but the bulk is in the TAL.",
+        "Incorrect. A small DCT segment regulates magnesium handling."
+      ]
+    },
+    {
+      "id": 19,
+      "stem": "Which statement correctly contrasts sodium with potassium handling along the nephron?",
+      "choices": [
+        "Both are actively secreted distally",
+        "Both are titrated only by reabsorption",
+        "Sodium has no active secretion; potassium is actively secreted distally",
+        "Sodium is actively secreted; potassium is not",
+        "Neither is regulated by hormones"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Sodium is never actively secreted in human nephrons.",
+        "Incorrect. Potassium is regulated primarily by distal secretion, not just reabsorption.",
+        "Correct. Sodium is regulated entirely by titrated reabsorption with no active secretion, whereas potassium has active distal secretion sites.",
+        "Incorrect. The reverse is true—sodium has no active secretion.",
+        "Incorrect. Both are under hormonal regulation (e.g., aldosterone)."
+      ]
+    },
+    {
+      "id": 20,
+      "stem": "After a sustained increase in dietary sodium intake, the body re-establishes balance over several days. Which statement best describes this new steady state?",
+      "choices": [
+        "Sodium output remains lower than intake indefinitely",
+        "Plasma osmolality stays unchanged throughout",
+        "ECF volume and BP stabilize as sodium output again equals intake",
+        "ADH secretion is suppressed throughout",
+        "Aldosterone secretion permanently increases"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Output rises to match intake at a new equilibrium, otherwise sodium would accumulate indefinitely.",
+        "Incorrect. Osmolality transiently rises, stimulating thirst and ADH before equilibrium.",
+        "Correct. After several days, sodium output again equals intake, but ECF volume and BP stabilize at a new (slightly higher) set point.",
+        "Incorrect. ADH is initially stimulated as osmolality rises; suppression is not sustained.",
+        "Incorrect. Aldosterone falls as renin/Ang II decrease in response to volume expansion."
+      ]
+    },
+    {
+      "id": 21,
+      "stem": "A 60-year-old woman presents with dietary sodium intake of 6800 mg/day, lower-extremity edema, and a BP of 138/88 mm Hg. Without using medication, the most direct treatment for her edema is:",
+      "choices": [
+        "Increase dietary potassium",
+        "Restrict water intake",
+        "Restrict dietary sodium",
+        "Add an oral salt tablet",
+        "Increase protein intake"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Increasing potassium does not directly reduce ECF expansion from positive Na+ balance.",
+        "Incorrect. Water restriction would worsen osmolality issues and is not the primary treatment for Na+-driven edema.",
+        "Correct. Lowering dietary sodium allows the kidney to excrete the excess Na+, reducing ECF volume and edema, as illustrated in the brick's case.",
+        "Incorrect. Adding salt would worsen Na+ retention and edema.",
+        "Incorrect. Protein intake is not the primary intervention for sodium-driven edema."
+      ]
+    },
+    {
+      "id": 22,
+      "stem": "A 30-year-old man suffers severe hemorrhage. Among the following, which hormone or system is expected to have the LOWEST activity compared with normal?",
+      "choices": [
+        "Aldosterone",
+        "Angiotensin II",
+        "Atrial natriuretic peptide",
+        "ADH",
+        "Renin"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Aldosterone increases to retain Na+ and water during hypovolemia.",
+        "Incorrect. Angiotensin II increases as part of RAAS activation.",
+        "Correct. ANP is released with atrial stretch in volume overload and is suppressed (low activity) in hypovolemic shock.",
+        "Incorrect. ADH increases to retain water in volume depletion.",
+        "Incorrect. Renin secretion increases in response to low BP and SNS activation."
+      ]
+    },
+    {
+      "id": 23,
+      "stem": "Which segment of the nephron reabsorbs sodium without simultaneous water reabsorption?",
+      "choices": [
+        "Proximal tubule",
+        "Thin descending limb",
+        "Thick ascending limb of Henle",
+        "Glomerulus",
+        "Collecting duct in presence of ADH"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. The PCT is highly water-permeable and reabsorbs water iso-osmotically with sodium.",
+        "Incorrect. The thin descending limb is water-permeable but does not significantly reabsorb sodium.",
+        "Correct. The thick ascending limb reabsorbs Na+ via NKCC2 but is impermeable to water—an essential step in generating the medullary gradient.",
+        "Incorrect. The glomerulus filters but does not reabsorb.",
+        "Incorrect. With ADH, the collecting duct reabsorbs water along with sodium."
+      ]
+    },
+    {
+      "id": 24,
+      "stem": "A patient acutely loses ECF volume from severe diarrhea. Which compensatory change is expected within minutes via intrarenal mechanisms?",
+      "choices": [
+        "Increased ANP secretion",
+        "Decreased renin from JG cells",
+        "Tubuloglomerular feedback raising GFR through afferent dilation/efferent constriction",
+        "Increased ENaC activity within seconds without aldosterone change",
+        "Pressure natriuresis"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. ANP rises with chamber stretch, not with volume loss.",
+        "Incorrect. Renin secretion increases with hypovolemia.",
+        "Correct. Reduced filtered Na+ at the macula densa triggers TGF: afferent dilation plus angiotensin II–mediated efferent constriction raises GFR to restore Na+ delivery within minutes.",
+        "Incorrect. ENaC upregulation requires aldosterone, which acts over hours.",
+        "Incorrect. Pressure natriuresis describes BP-driven Na+ excretion, opposite of what is needed here."
+      ]
+    },
+    {
+      "id": 25,
+      "stem": "A 45-year-old man with chronic heart failure has chronic activation of RAAS that drives sodium retention. Where in the nephron does angiotensin II directly stimulate sodium reabsorption, and where does aldosterone act?",
+      "choices": [
+        "Both at the collecting duct",
+        "Ang II at PCT; aldosterone at collecting duct",
+        "Ang II at TAL; aldosterone at DCT",
+        "Both at the PCT",
+        "Ang II at DCT; aldosterone at TAL"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Their primary sites of action are different.",
+        "Correct. Angiotensin II stimulates Na+ reabsorption in the proximal tubule, while aldosterone stimulates ENaC-mediated Na+ reabsorption in the collecting duct.",
+        "Incorrect. Ang II's main tubular target is the PCT, not the TAL.",
+        "Incorrect. Aldosterone targets the collecting duct, not the PCT.",
+        "Incorrect. Ang II acts on the PCT and aldosterone on the collecting duct."
+      ]
+    }
+  ]
+}

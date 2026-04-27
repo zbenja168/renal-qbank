@@ -1,0 +1,445 @@
+{
+  "id": 4,
+  "title": "Histology of the Renal Corpuscle and Renal Tubular System",
+  "questions": [
+    {
+      "id": 1,
+      "stem": "A first-year medical student is reviewing the functional unit of the kidney and learns that approximately one million of these structures per kidney work together to filter blood and reabsorb water and solutes. Which structure is being described?",
+      "choices": ["Collecting duct", "Nephron", "Renal corpuscle", "Renal pyramid", "Vasa recta"],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. The collecting duct is only one segment of the nephron, not the functional unit itself.",
+        "Correct. The nephron is the functional unit of the kidney that makes urine; the two kidneys contain about a million nephrons.",
+        "Incorrect. The renal corpuscle is only the most proximal part of the nephron, not the entire functional unit.",
+        "Incorrect. Renal pyramids are gross anatomic structures of the medulla, not the functional unit.",
+        "Incorrect. The vasa recta are peritubular capillaries paralleling the loop of Henle, not the functional unit."
+      ]
+    },
+    {
+      "id": 2,
+      "stem": "A pathologist examines a renal biopsy and identifies a structure consisting of a tuft of capillaries surrounded by a double-walled epithelial capsule. The structure being described is best termed which of the following?",
+      "choices": ["Bowman capsule alone", "Glomerulus alone", "Juxtaglomerular apparatus", "Renal corpuscle", "Renal pyramid"],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Bowman capsule is only the epithelial capsule; it does not include the glomerulus.",
+        "Incorrect. The glomerulus is only the capillary tuft and does not include the surrounding capsule.",
+        "Incorrect. The juxtaglomerular apparatus consists of macula densa and JG cells, not the capillary tuft and capsule.",
+        "Correct. The renal corpuscle consists of two structures—the glomerulus and the double-walled epithelial Bowman capsule—and is where blood is filtered to form ultrafiltrate.",
+        "Incorrect. Renal pyramids are gross anatomic structures of the medulla, not microscopic filtering units."
+      ]
+    },
+    {
+      "id": 3,
+      "stem": "A researcher studying glomerular hemodynamics traces a red blood cell as it enters the glomerular capillary tuft. Which vessel did the cell most recently traverse before entering the glomerular capillaries?",
+      "choices": ["Afferent arteriole", "Efferent arteriole", "Interlobular vein", "Peritubular capillary", "Vasa recta"],
+      "answer": 0,
+      "explanations": [
+        "Correct. Blood from the renal artery passes through a series of arterioles, ending with the afferent arteriole, which flows into the glomerular tuft.",
+        "Incorrect. The efferent arteriole drains the glomerulus rather than supplying it.",
+        "Incorrect. The interlobular vein carries blood away from the kidney, not into glomerular capillaries.",
+        "Incorrect. Peritubular capillaries arise from efferent arterioles after the glomerulus.",
+        "Incorrect. Vasa recta are post-glomerular capillaries paralleling the loop of Henle."
+      ]
+    },
+    {
+      "id": 4,
+      "stem": "A physiology investigator measures the hydrostatic pressure that drives filtrate from the glomerular capillaries into a fluid-filled compartment of the renal corpuscle. Where does this initial filtrate first collect?",
+      "choices": ["Distal convoluted tubule", "Proximal convoluted tubule", "Renal pelvis", "Thick ascending limb", "Urinary space of Bowman capsule"],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. The distal convoluted tubule is far downstream from the renal corpuscle.",
+        "Incorrect. Filtrate enters the proximal convoluted tubule only after first collecting in Bowman capsule.",
+        "Incorrect. The renal pelvis collects formed urine, not initial filtrate.",
+        "Incorrect. The thick ascending limb is part of the loop of Henle, not the site of initial filtrate collection.",
+        "Correct. Hydrostatic pressure pushes fluid from glomerular capillaries into the urinary space of Bowman capsule, from which it flows into the proximal tubule."
+      ]
+    },
+    {
+      "id": 5,
+      "stem": "A histology student examines a renal corpuscle and identifies cells that lie between glomerular capillary loops, phagocytose filtered debris, secrete cytokines for immune defense, and produce extracellular matrix that supports the capillaries. These cells are best identified as which of the following?",
+      "choices": ["Endothelial cells", "Juxtaglomerular cells", "Macula densa cells", "Mesangial cells", "Podocytes"],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Endothelial cells line the glomerular capillaries and contain fenestrations but do not perform phagocytosis or produce mesangial matrix.",
+        "Incorrect. Juxtaglomerular cells are modified smooth muscle cells of the afferent arteriole that secrete renin.",
+        "Incorrect. Macula densa cells are densely packed columnar cells of the distal tubule, not located between capillary loops.",
+        "Correct. Mesangial cells lie between capillary loops and carry out phagocytosis of filtered debris, cytokine secretion, and production of extracellular matrix for structural support.",
+        "Incorrect. Podocytes form the visceral epithelium with foot processes and do not phagocytose debris."
+      ]
+    },
+    {
+      "id": 6,
+      "stem": "A medical student examines an electron micrograph of a glomerular capillary loop and notes a layer of cells with cell bodies floating in the urinary space and primary and secondary foot processes attached to the basement membrane. Which cells are being described?",
+      "choices": ["Endothelial cells", "Mesangial cells", "Parietal epithelial cells", "Principal cells", "Visceral epithelial cells (podocytes)"],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. Endothelial cells line the capillary lumen and contain fenestrations; they do not have foot processes that float in the urinary space.",
+        "Incorrect. Mesangial cells lie between capillary loops, not within the urinary space.",
+        "Incorrect. Parietal epithelial cells are simple squamous cells forming the outer layer of Bowman capsule and lack foot processes.",
+        "Incorrect. Principal cells are found in the collecting duct, not in the renal corpuscle.",
+        "Correct. Podocytes (visceral epithelial cells) cling to the GBM with primary and secondary foot processes (pedicels), with cell bodies floating in the urinary space."
+      ]
+    },
+    {
+      "id": 7,
+      "stem": "A histology lecture describes the outer layer of Bowman capsule. Which statement best characterizes these cells?",
+      "choices": [
+        "Columnar cells densely packed at the vascular pole",
+        "Cuboidal cells with abundant mitochondria and a brush border",
+        "Modified smooth muscle cells that secrete renin",
+        "Pale-staining cuboidal cells rich in aquaporins",
+        "Simple squamous cells covered by basal lamina that provide structural support"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. Densely packed columnar cells at the vascular pole describe the macula densa, not parietal epithelium.",
+        "Incorrect. Brush-bordered cuboidal cells with abundant mitochondria describe proximal tubule cells.",
+        "Incorrect. Renin-secreting modified smooth muscle cells are juxtaglomerular cells.",
+        "Incorrect. Aquaporin-rich pale-staining cuboidal cells are principal cells of the collecting duct.",
+        "Correct. The outer (parietal) layer of Bowman capsule is made of simple squamous epithelial cells covered by basal lamina that provide structural support but play no role in filtration."
+      ]
+    },
+    {
+      "id": 8,
+      "stem": "An examiner asks a student to list, from the capillary lumen toward the urinary space, the three layers of the glomerular filtration barrier. Which sequence is correct?",
+      "choices": [
+        "Capillary endothelium → glomerular basement membrane → podocytes",
+        "Mesangial cells → basement membrane → endothelium",
+        "Parietal epithelium → basement membrane → podocytes",
+        "Podocytes → glomerular basement membrane → capillary endothelium",
+        "Podocytes → mesangial cells → capillary endothelium"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. The glomerular filtration barrier consists of capillary (vascular) endothelium, the glomerular basement membrane, and visceral epithelial cells (podocytes), traversed in that order from blood to urinary space.",
+        "Incorrect. Mesangial cells are not part of the filtration barrier itself.",
+        "Incorrect. Parietal epithelial cells provide structural support and do not participate in filtration.",
+        "Incorrect. This sequence is reversed; blood enters via endothelium, not via podocytes.",
+        "Incorrect. Mesangial cells provide structural support and are not a layer of the filtration barrier."
+      ]
+    },
+    {
+      "id": 9,
+      "stem": "An electron micrograph of a glomerular capillary shows pores in the inner cell layer of the filtration barrier that allow passage of fluid and solutes but not cellular elements. These pores are located in which structure?",
+      "choices": [
+        "Filtration slits between podocyte pedicels",
+        "Glomerular basement membrane",
+        "Mesangial extracellular matrix",
+        "Slit diaphragms",
+        "Vascular (capillary) endothelium"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. Filtration slits lie between podocyte foot processes, not within endothelial cells.",
+        "Incorrect. The GBM is a multilayered protein meshwork, not a fenestrated cell layer.",
+        "Incorrect. The mesangial matrix supports capillaries but does not contain fenestrations.",
+        "Incorrect. Slit diaphragms bridge the filtration slits between pedicels, not the endothelium.",
+        "Correct. Endothelial cells of the glomerular capillary contain fenestrations (pores) that allow filtration of fluid and solutes but not cells."
+      ]
+    },
+    {
+      "id": 10,
+      "stem": "A 7-year-old boy with nephrotic syndrome is found to have heavy albuminuria. The clinician explains that albumin is normally excluded from the filtrate in part because of negatively charged molecules that repel negatively charged proteins. Which component of the filtration barrier provides this charge-based barrier?",
+      "choices": [
+        "Aquaporins of principal cells",
+        "Heparan sulfate proteoglycans of the glomerular basement membrane",
+        "Mesangial extracellular matrix",
+        "Microvilli of the proximal tubule brush border",
+        "Tight junctions between parietal epithelial cells"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Aquaporins permit water reabsorption in the collecting duct and are unrelated to the filtration barrier.",
+        "Correct. The GBM contains heparan sulfate proteoglycans that confer negative charge and repel negatively charged proteins such as albumin, preventing their passage into urine.",
+        "Incorrect. Mesangial matrix supports the capillaries; it is not the principal charge-based barrier.",
+        "Incorrect. The proximal tubule brush border facilitates reabsorption rather than filtration.",
+        "Incorrect. Parietal epithelial cells provide structural support and do not contribute to charge-selective filtration."
+      ]
+    },
+    {
+      "id": 11,
+      "stem": "An electron micrograph of the glomerular filtration barrier highlights extensions of cell bodies that attach to the basement membrane, separated by narrow gaps bridged by thin diaphragms. These structures are best identified as which of the following?",
+      "choices": [
+        "Endothelial fenestrations",
+        "Heparan sulfate filaments",
+        "Mesangial processes",
+        "Microvilli with tight junctions",
+        "Pedicels with intervening filtration slits and slit diaphragms"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. Fenestrations are pores within endothelial cytoplasm, not cell processes attached to a basement membrane.",
+        "Incorrect. Heparan sulfate molecules confer charge but are not visible cell processes with diaphragms.",
+        "Incorrect. Mesangial cells lie between capillary loops; they do not form pedicels attached to the GBM.",
+        "Incorrect. Microvilli are seen on the apical surface of proximal tubule cells, not in the filtration barrier.",
+        "Correct. Podocyte primary and secondary foot processes (pedicels) attach to the GBM; the gaps between them are filtration slits bridged by slit diaphragms."
+      ]
+    },
+    {
+      "id": 12,
+      "stem": "A 43-year-old man with diabetic kidney disease asks how diabetes caused protein to appear in his urine. The clinician explains several pathologic changes seen on biopsy. Which set of changes best explains his proteinuria?",
+      "choices": [
+        "Aquaporin downregulation in collecting ducts",
+        "Capillary basement membrane thickening, mesangial matrix expansion, and glomerular sclerosis",
+        "Loss of brush border in the proximal convoluted tubule",
+        "Loss of macula densa cells with decreased renin secretion",
+        "Squamous metaplasia of the parietal epithelium of Bowman capsule"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Aquaporin downregulation would impair water handling, not cause proteinuria.",
+        "Correct. Diabetes damages the kidney through capillary basement membrane thickening, expansion of the mesangial matrix, and glomerular sclerosis—all of which damage the filtration barrier and lead to leakage of protein into urine.",
+        "Incorrect. Loss of the proximal tubule brush border affects reabsorption, not glomerular filtration of protein.",
+        "Incorrect. Loss of macula densa cells would affect tubuloglomerular feedback rather than cause proteinuria.",
+        "Incorrect. Parietal epithelial cells are not part of the filtration barrier; their alteration would not cause proteinuria."
+      ]
+    },
+    {
+      "id": 13,
+      "stem": "A pathologist explains why electron microscopy is used more often in renal pathology than in many other organ systems. Which statement best supports this practice as described in this brick?",
+      "choices": [
+        "Electron microscopy is required to count nephrons",
+        "Electron microscopy is the only method to identify mesangial cells",
+        "Electron microscopy is still used to diagnose renal pathology and may appear on board exams",
+        "Light microscopy cannot identify renal corpuscles",
+        "Renal cells lack distinguishing features on light microscopy"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Nephron number is not assessed by routine electron microscopy.",
+        "Incorrect. Mesangial cells can be identified on standard light microscopy.",
+        "Correct. Electron microscopy is still used in current diagnostic renal pathology and may appear on board exams, which is why students see more EM images in this system.",
+        "Incorrect. Renal corpuscles are readily identified on light microscopy.",
+        "Incorrect. Renal cells have many distinguishing features on light microscopy, such as the brush border of the proximal tubule."
+      ]
+    },
+    {
+      "id": 14,
+      "stem": "A histology slide of the renal cortex shows a tubule lined with cuboidal cells that have central nuclei, very acidophilic (pink) cytoplasm because of abundant mitochondria, and a prominent brush border of microvilli in the lumen. Which segment is most consistent with these findings?",
+      "choices": [
+        "Collecting duct",
+        "Distal convoluted tubule",
+        "Parietal layer of Bowman capsule",
+        "Proximal convoluted tubule",
+        "Thin descending limb of loop of Henle"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Collecting duct cells are pale-staining with sparse microvilli and few organelles.",
+        "Incorrect. Distal convoluted tubule cells are smaller, lack a brush border, and have more empty lumens.",
+        "Incorrect. The parietal layer is composed of simple squamous epithelium, not cuboidal cells with microvilli.",
+        "Correct. Proximal convoluted tubule cells have central nuclei, acidophilic cytoplasm from abundant mitochondria, and a prominent brush border that facilitates extensive reabsorption.",
+        "Incorrect. The thin limbs of Henle are simple squamous epithelium without a brush border."
+      ]
+    },
+    {
+      "id": 15,
+      "stem": "A physiology investigator measures fluxes across the proximal convoluted tubule. Which set of substances is normally reabsorbed in this segment, according to the brick?",
+      "choices": [
+        "All filtered organic nutrients (glucose, amino acids, vitamins) and ~2/3 of water and electrolytes",
+        "Approximately 2/3 of urea but no glucose",
+        "Mostly hydrogen ions and ammonia secretion only",
+        "Only sodium chloride, with no water reabsorption",
+        "Water exclusively, via aquaporins"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. The proximal convoluted tubule normally reabsorbs about two-thirds of the filtered water and electrolytes and all of the filtered organic nutrients (glucose, amino acids, vitamins).",
+        "Incorrect. The brick does not describe the PCT primarily as a urea-reabsorbing site, and glucose is fully reabsorbed there.",
+        "Incorrect. The brick describes the PCT as a major site of reabsorption and secretion, not solely H+/ammonia secretion.",
+        "Incorrect. Water and many other solutes—not just NaCl—are reabsorbed in the PCT.",
+        "Incorrect. Aquaporin-mediated water reabsorption alone characterizes collecting duct principal cells, not the PCT."
+      ]
+    },
+    {
+      "id": 16,
+      "stem": "A 65-year-old woman with chronic kidney disease has low calcium and inadequate active vitamin D. Which renal cell type normally hydroxylates vitamin D and releases it into the capillaries, according to this brick?",
+      "choices": [
+        "Collecting duct principal cells",
+        "Distal convoluted tubule cells",
+        "Juxtaglomerular cells",
+        "Podocytes",
+        "Proximal convoluted tubule cells"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. Principal cells perform water reabsorption via aquaporins; they are not described as hydroxylating vitamin D.",
+        "Incorrect. The DCT performs limited reabsorption and is not described in the brick as hydroxylating vitamin D.",
+        "Incorrect. Juxtaglomerular cells release renin, not active vitamin D.",
+        "Incorrect. Podocytes form the filtration barrier; they do not hydroxylate vitamin D.",
+        "Correct. The brick states that proximal convoluted tubule cells perform hydroxylation of vitamin D and release it into the capillaries."
+      ]
+    },
+    {
+      "id": 17,
+      "stem": "A medical student examines a section through a medullary renal pyramid that shows closely packed thin tubule profiles intermingled with thick tubule profiles, vasa recta capillaries, and collecting ducts. Which structure are the thin tubule profiles most likely from?",
+      "choices": [
+        "Distal convoluted tubules",
+        "Proximal convoluted tubules",
+        "Renal corpuscles",
+        "Thin descending and ascending limbs of the loop of Henle",
+        "Vasa recta arterioles"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Distal convoluted tubules are located in the cortex, not within medullary pyramids.",
+        "Incorrect. Proximal convoluted tubules fill the cortex, not the medulla.",
+        "Incorrect. Renal corpuscles are cortical structures.",
+        "Correct. The brick describes medullary pyramid sections containing thin descending and ascending limbs (squamous), thick ascending limbs (cuboidal), vasa recta, and collecting ducts.",
+        "Incorrect. Vasa recta are capillaries containing blood, not thin epithelial tubules."
+      ]
+    },
+    {
+      "id": 18,
+      "stem": "A histology examination asks about the loop of Henle. Which combination of epithelial types correctly matches its limbs?",
+      "choices": [
+        "All limbs lined with stratified squamous epithelium",
+        "Thin descending and ascending limbs simple squamous; thick ascending limb simple cuboidal",
+        "Thin descending limb simple cuboidal with brush border; thin ascending limb pseudostratified",
+        "Thin limbs simple cuboidal with brush border; thick ascending limb simple squamous",
+        "Thin limbs simple columnar; thick ascending limb stratified cuboidal"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. The renal tubular system is not lined by stratified squamous epithelium.",
+        "Correct. The thin descending and thin ascending limbs are composed of simple squamous epithelium, while the thick ascending limb is composed of simple cuboidal epithelium.",
+        "Incorrect. The thin limbs are squamous, not cuboidal with a brush border (a feature of the PCT).",
+        "Incorrect. The thick ascending limb is cuboidal, and a brush border is not a feature of the loop of Henle.",
+        "Incorrect. The brick does not describe columnar or stratified epithelium in the loop of Henle."
+      ]
+    },
+    {
+      "id": 19,
+      "stem": "A medical student is asked to identify the primary function of the loop of Henle as described in the brick. Which of the following is the best answer?",
+      "choices": [
+        "Hydroxylation of vitamin D",
+        "Phagocytosis of filtered debris",
+        "Reabsorption of water and sodium chloride from the filtrate",
+        "Renin secretion in response to hypotension",
+        "Selective filtration of plasma proteins"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Vitamin D hydroxylation is performed by proximal convoluted tubule cells.",
+        "Incorrect. Phagocytosis of filtered debris is a function of mesangial cells.",
+        "Correct. The brick states that the primary function of the loop of Henle is to reabsorb water and sodium chloride from the filtrate.",
+        "Incorrect. Renin is released by juxtaglomerular cells of the JGA.",
+        "Incorrect. Filtration of plasma occurs at the renal corpuscle, not the loop of Henle."
+      ]
+    },
+    {
+      "id": 20,
+      "stem": "A renal biopsy slide shows a cortical tubule lined by simple cuboidal cells that are smaller than those of the proximal tubule, lack a brush border, and have more empty-appearing lumens. This segment carries out comparatively limited reabsorption. Which tubular segment is being described?",
+      "choices": [
+        "Collecting duct",
+        "Distal convoluted tubule",
+        "Proximal convoluted tubule",
+        "Thick ascending limb of loop of Henle",
+        "Thin descending limb of loop of Henle"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Collecting ducts are lined by pale-staining principal cells with distinct cell boundaries, not the smaller cuboidal cells described here.",
+        "Correct. The distal convoluted tubule is lined by smaller simple cuboidal cells without a brush border, has more empty lumens, and performs much less reabsorption than the PCT.",
+        "Incorrect. PCT cells are larger, have a brush border, and have acidophilic cytoplasm.",
+        "Incorrect. The thick ascending limb is part of the loop of Henle within medullary pyramids and is described separately from the cortical DCT.",
+        "Incorrect. The thin descending limb is lined by simple squamous epithelium, not cuboidal."
+      ]
+    },
+    {
+      "id": 21,
+      "stem": "A histology slide centered on a glomerulus reveals the initial straight portion of the distal tubule contacting the arterioles at the vascular pole, with its cells transformed into a column of densely packed nuclei. This zone of modified tubular epithelium is best termed which of the following?",
+      "choices": [
+        "Juxtaglomerular cells",
+        "Macula densa",
+        "Mesangium",
+        "Podocyte cell body cluster",
+        "Vasa recta"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Juxtaglomerular cells are modified smooth muscle cells of the afferent arteriole, not tubular epithelium.",
+        "Correct. Where the initial straight part of the distal tubule contacts the arterioles at the vascular pole, its cells become columnar and densely packed, forming the macula densa.",
+        "Incorrect. The mesangium lies within the glomerulus between capillary loops.",
+        "Incorrect. Podocyte cell bodies float in the urinary space and do not form a tubular cluster at the vascular pole.",
+        "Incorrect. Vasa recta are medullary capillaries, not modified tubular cells."
+      ]
+    },
+    {
+      "id": 22,
+      "stem": "A 58-year-old man with severe hemorrhage develops decreased arterial pressure that triggers stimulation of the juxtaglomerular apparatus. Which cells release the hormone responsible for activating the renin-angiotensin-aldosterone system, and from what cell of origin?",
+      "choices": [
+        "Endothelial cells of the glomerulus releasing aldosterone",
+        "Juxtaglomerular cells (modified smooth muscle of the afferent arteriole) releasing renin",
+        "Macula densa cells (modified distal tubule epithelium) releasing aldosterone",
+        "Mesangial cells releasing angiotensinogen",
+        "Podocytes releasing angiotensin II"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Endothelial cells do not release aldosterone, and aldosterone is not the JGA-secreted hormone.",
+        "Correct. The juxtaglomerular apparatus is part of the RAAS; decreased arterial pressure stimulates the JG cells (modified smooth muscle of the afferent arteriole) to release renin.",
+        "Incorrect. Macula densa cells signal within the JGA, but the renin-secreting cells are the JG cells, and the hormone described as released is renin, not aldosterone.",
+        "Incorrect. Mesangial cells provide structural support and do not release angiotensinogen.",
+        "Incorrect. Podocytes are part of the filtration barrier and do not release angiotensin II."
+      ]
+    },
+    {
+      "id": 23,
+      "stem": "A medullary biopsy section highlights tubules lined by simple cuboidal cells that are pale-staining, have few organelles, sparse microvilli, and unusually distinct cell boundaries. These tubules are most likely which of the following?",
+      "choices": [
+        "Collecting ducts",
+        "Distal convoluted tubules",
+        "Proximal convoluted tubules",
+        "Thick ascending limbs of Henle",
+        "Thin descending limbs of Henle"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Collecting ducts are lined by simple cuboidal epithelium consisting predominantly of principal cells that are pale-staining with few organelles, sparse microvilli, and unusually distinct cell boundaries.",
+        "Incorrect. DCT cells are cuboidal but are not specifically described as pale-staining with unusually distinct cell boundaries.",
+        "Incorrect. PCT cells have acidophilic cytoplasm from abundant mitochondria and a prominent brush border.",
+        "Incorrect. Thick ascending limb cells are simple cuboidal but are not described in the brick as pale-staining principal cells.",
+        "Incorrect. Thin descending limbs are lined by simple squamous, not cuboidal, epithelium."
+      ]
+    },
+    {
+      "id": 24,
+      "stem": "A 30-year-old man with central diabetes insipidus has decreased renal water reabsorption. The principal cells normally responsible for water reabsorption in the collecting duct depend on which integral membrane proteins to perform this function?",
+      "choices": [
+        "Aquaporins (water channels)",
+        "Heparan sulfate proteoglycans",
+        "Mitochondrial ATP synthase complexes",
+        "Sodium-glucose cotransporters of the brush border",
+        "Tight-junction claudins"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Principal cells of the collecting duct are rich in aquaporins, the integral membrane pore proteins that act as water channels and mediate water reabsorption.",
+        "Incorrect. Heparan sulfate proteoglycans confer negative charge in the GBM and are not water channels.",
+        "Incorrect. ATP synthase generates ATP in mitochondria and is not the water channel of principal cells.",
+        "Incorrect. Sodium-glucose cotransporters are features of the proximal tubule brush border, not collecting duct water channels.",
+        "Incorrect. Claudins regulate paracellular permeability but are not described in the brick as the water channels of principal cells."
+      ]
+    },
+    {
+      "id": 25,
+      "stem": "A histology examiner asks a student to identify the transition between Bowman capsule and the proximal convoluted tubule at the urinary pole of a renal corpuscle. Which epithelial transition occurs at this point?",
+      "choices": [
+        "Pseudostratified columnar to simple squamous",
+        "Simple cuboidal to simple cuboidal with a brush border (no change in cell shape)",
+        "Simple cuboidal with brush border to simple squamous",
+        "Simple squamous (parietal layer) to simple cuboidal (proximal tubule)",
+        "Stratified cuboidal to simple columnar"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. The brick does not describe pseudostratified columnar epithelium at this site.",
+        "Incorrect. There is a change in cell shape: parietal cells are squamous, not cuboidal.",
+        "Incorrect. This reverses the actual transition; the squamous layer is on the capsule side, with cuboidal PCT cells distally.",
+        "Correct. At the urinary pole, the simple squamous epithelium of the parietal layer of Bowman capsule is continuous with the simple cuboidal epithelium of the proximal convoluted tubule.",
+        "Incorrect. Neither stratified cuboidal nor simple columnar epithelium is described at this junction."
+      ]
+    }
+  ]
+}

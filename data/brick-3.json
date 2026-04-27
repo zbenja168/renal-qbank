@@ -1,0 +1,481 @@
+{
+  "id": 3,
+  "title": "Congenital Disorders of the Kidney",
+  "questions": [
+    {
+      "id": 1,
+      "stem": "A 2-day-old female infant born at 37 weeks gestation has a history of prenatal oligohydramnios. On examination she has flattened facial features, clubfoot deformities, and reduced chest expansion, and she requires supplemental oxygen for respiratory distress. Renal ultrasound reveals bilateral enlarged cystic kidneys with absent urine output. Which underlying mechanism best explains the constellation of facial, limb, and pulmonary findings?",
+      "choices": [
+        "Decreased fetal movement and impaired fetal breathing of amniotic fluid",
+        "Failure of the metanephric kidneys to ascend into the abdomen",
+        "Fusion of the inferior poles of the metanephric kidneys",
+        "Hereditary mutation of the PKHD1 gene on chromosome 6",
+        "Trapping of the renal isthmus beneath the inferior mesenteric artery"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Severe oligohydramnios from absent fetal urine restricts fetal movement (causing limb and facial deformities) and prevents fetal breathing of amniotic fluid needed for lung development, producing Potter sequence.",
+        "Incorrect. Failure of ascent produces an ectopic (pelvic) kidney, which is usually asymptomatic and does not cause Potter sequence.",
+        "Incorrect. Fusion of the inferior poles produces horseshoe kidney, which retains function and does not cause oligohydramnios.",
+        "Incorrect. Although ARPKD involves the PKHD1 gene on chromosome 6, the mechanistic cause of the limb, facial, and pulmonary findings is severe oligohydramnios, not the gene mutation itself.",
+        "Incorrect. Entrapment beneath the IMA is the embryologic mechanism of horseshoe kidney, not the cause of Potter sequence."
+      ]
+    },
+    {
+      "id": 2,
+      "stem": "An asymptomatic 28-year-old man undergoes abdominal CT for trauma evaluation. The scan reveals a U-shaped kidney with the lower poles fused across the midline, just inferior to the inferior mesenteric artery. Which embryologic event best explains this finding?",
+      "choices": [
+        "Abnormal interaction between the ureteric bud and metanephric mesenchyme",
+        "Failure of the metanephric kidney to ascend out of the pelvis",
+        "Failure of the ureteric bud to induce nephron differentiation",
+        "Fusion of the metanephric blastemas with entrapment of the isthmus by the IMA",
+        "Splitting of the ureteric bud with formation of two ureters"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Abnormal ureteric bud-mesenchyme interaction creates dysplastic nephrons that balloon into cysts, producing MCDK rather than horseshoe kidney.",
+        "Incorrect. Failure to ascend results in an ectopic (pelvic) kidney, not a U-shaped fused kidney.",
+        "Incorrect. Failure of ureteric bud induction prevents nephron differentiation and results in renal agenesis.",
+        "Correct. The metanephric blastemas fuse at their inferior poles in the pelvis, and during ascent the fused isthmus becomes trapped beneath the IMA, producing the characteristic horseshoe configuration.",
+        "Incorrect. Splitting of the ureteric bud results in a duplicated collecting system, not horseshoe kidney."
+      ]
+    },
+    {
+      "id": 3,
+      "stem": "A 35-year-old woman with horseshoe kidney develops worsening flank pain and recurrent urinary tract infections. Imaging demonstrates dilation of the renal collecting system. Which anatomic feature of horseshoe kidney most directly predisposes to these complications?",
+      "choices": [
+        "Aberrant arterial supply from iliac vessels",
+        "Anteriorly facing renal pelves with impaired drainage",
+        "Compensatory hypertrophy of remaining nephrons",
+        "Cystic replacement of normal parenchyma",
+        "Reduced number of nephrons in both kidneys"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Aberrant iliac arterial supply is characteristic of an ectopic (pelvic) kidney, not horseshoe kidney.",
+        "Correct. The abnormal position and anteriorly facing renal pelves predispose to ureteropelvic junction obstruction, hydronephrosis, stone formation, and infection.",
+        "Incorrect. Compensatory hypertrophy occurs in unilateral agenesis or unilateral MCDK and does not produce obstruction or infection.",
+        "Incorrect. Cystic replacement of parenchyma describes MCDK, not horseshoe kidney.",
+        "Incorrect. Reduced nephron number describes renal hypodysplasia, not horseshoe kidney."
+      ]
+    },
+    {
+      "id": 4,
+      "stem": "A newborn girl is found to have webbed neck, lymphedema, and short stature. Karyotyping demonstrates a 45,X karyotype, and abdominal imaging is performed to evaluate for associated congenital anomalies. Which renal anomaly is most likely to be identified on imaging?",
+      "choices": [
+        "Bilateral multicystic dysplastic kidneys",
+        "Bilateral renal agenesis",
+        "Duplicated collecting system",
+        "Horseshoe kidney",
+        "Pelvic kidney with iliac arterial supply"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Bilateral MCDK is incompatible with postnatal survival and is not the renal anomaly classically associated with Turner syndrome.",
+        "Incorrect. Bilateral renal agenesis is lethal and not the renal anomaly characteristic of Turner syndrome.",
+        "Incorrect. Duplicated collecting system is the most common congenital renal anomaly overall but is not specifically linked to Turner syndrome in this brick.",
+        "Correct. Horseshoe kidney is associated with congenital syndromes including Turner syndrome and trisomy 18.",
+        "Incorrect. Pelvic kidney is not specifically associated with Turner syndrome in this brick."
+      ]
+    },
+    {
+      "id": 5,
+      "stem": "A 19-year-old man undergoes CT angiography for evaluation of new-onset hypertension. The radiologist identifies a small kidney located in the left pelvis that receives its blood supply from the left common iliac artery rather than from a typical renal artery. Which embryologic event best explains this finding?",
+      "choices": [
+        "Abnormal induction of nephron differentiation",
+        "Arrested ascent of the metanephric kidney from the pelvis",
+        "Duplication of the ureteric bud",
+        "Failure of the ureteric bud to develop",
+        "Fusion of the metanephric blastemas at the inferior poles"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Abnormal nephron induction produces renal hypodysplasia or MCDK, not malposition with iliac arterial supply.",
+        "Correct. Arrested ascent of the metanephric kidney leaves it in the pelvis, where it acquires blood supply from local pelvic or iliac vessels rather than the renal arteries.",
+        "Incorrect. Ureteric bud duplication produces a duplicated collecting system, not an ectopic pelvic kidney.",
+        "Incorrect. Failure of the ureteric bud to develop produces renal agenesis, not an ectopic kidney.",
+        "Incorrect. Fusion of the metanephric blastemas at the inferior poles produces horseshoe kidney."
+      ]
+    },
+    {
+      "id": 6,
+      "stem": "A 7-year-old girl with a known pelvic kidney presents with fever, flank pain, and dysuria. Urinalysis confirms a urinary tract infection, and ultrasound reveals dilation of the renal collecting system. Which feature of pelvic kidney best explains her predisposition to hydronephrosis?",
+      "choices": [
+        "Absent contralateral kidney",
+        "Bilateral cystic replacement of parenchyma",
+        "Compensatory glomerular hyperfiltration",
+        "Malposition of the ureter causing obstruction",
+        "Reduced nephron number with low GFR"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. The contralateral kidney is typically present in ectopic kidney; absent contralateral kidney describes unilateral agenesis.",
+        "Incorrect. Cystic replacement of parenchyma describes MCDK.",
+        "Incorrect. Hyperfiltration is a compensatory mechanism in unilateral agenesis or unilateral MCDK and does not cause hydronephrosis.",
+        "Correct. The abnormal position and ureteral course in an ectopic kidney impair urine drainage, predisposing to obstruction, vesicoureteral reflux, and hydronephrosis.",
+        "Incorrect. Reduced nephron number describes renal hypodysplasia and does not cause hydronephrosis."
+      ]
+    },
+    {
+      "id": 7,
+      "stem": "A stillborn fetus is delivered at 34 weeks gestation after a pregnancy complicated by severe oligohydramnios noted on prenatal ultrasound. Autopsy reveals complete absence of both kidneys, ureters, and renal arteries. Which embryologic defect best accounts for this finding?",
+      "choices": [
+        "Abnormal interaction of ureteric bud with mesenchyme producing cysts",
+        "Failure of the ureteric bud to form or to induce the metanephric blastema",
+        "Fusion of the metanephric kidneys at the inferior poles",
+        "Incomplete ascent of the metanephric kidneys",
+        "Splitting of the ureteric bud forming two collecting systems"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Abnormal interaction of the ureteric bud with the mesenchyme produces MCDK with cyst formation, not complete absence of renal tissue.",
+        "Correct. Renal agenesis results from failure of the ureteric bud to develop or to induce nephron differentiation in the metanephric blastema, producing complete absence of the kidneys.",
+        "Incorrect. Fusion at the inferior poles produces horseshoe kidney, in which functional renal tissue is present.",
+        "Incorrect. Incomplete ascent produces ectopic kidney, in which kidney tissue is still present.",
+        "Incorrect. Splitting of the ureteric bud produces a duplicated collecting system, not absence of the kidneys."
+      ]
+    },
+    {
+      "id": 8,
+      "stem": "A 45-year-old man with a history of unilateral renal agenesis is found to have a serum creatinine of 1.6 mg/dL and blood pressure of 152/94 mm Hg. Imaging shows a single, enlarged left kidney. Which mechanism best explains the long-term risk of hypertension and chronic kidney disease in this patient?",
+      "choices": [
+        "Aberrant arterial supply from iliac vessels",
+        "Cystic dilation of primitive tubules",
+        "Increased glomerular filtration pressure in the hypertrophied kidney",
+        "Recurrent urinary tract infections from ureteral malposition",
+        "Reduced fetal urine production with oligohydramnios"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Aberrant iliac arterial supply is a feature of ectopic kidney, not unilateral agenesis.",
+        "Incorrect. Cystic dilation of primitive tubules describes MCDK.",
+        "Correct. The solitary kidney undergoes compensatory hypertrophy with increased glomerular filtration pressure, predisposing over time to hypertension and CKD.",
+        "Incorrect. Recurrent UTIs from ureteral malposition relate to ectopic kidney rather than unilateral agenesis.",
+        "Incorrect. Oligohydramnios occurs in bilateral agenesis (lethal), not in surviving unilateral agenesis."
+      ]
+    },
+    {
+      "id": 9,
+      "stem": "A male newborn is delivered at 36 weeks after pregnancy complicated by severe oligohydramnios. Prenatal ultrasound demonstrated bilateral non-visualization of the kidneys with no fetal urine in the bladder. Which postnatal outcome is most likely?",
+      "choices": [
+        "Adequate renal function with eventual compensatory hypertrophy",
+        "Asymptomatic course with incidental imaging diagnosis",
+        "Gradual development of CKD over childhood",
+        "Lethal anomaly with stillbirth or neonatal death",
+        "Recurrent urinary tract infections requiring nephrectomy"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Compensatory hypertrophy requires a contralateral functioning kidney, which is absent in bilateral agenesis.",
+        "Incorrect. Asymptomatic incidental discovery is typical of horseshoe or pelvic kidney, not bilateral agenesis.",
+        "Incorrect. Gradual CKD development is characteristic of bilateral renal hypodysplasia, not bilateral agenesis.",
+        "Correct. Bilateral renal agenesis is incompatible with postnatal survival and typically results in stillbirth or neonatal death from Potter sequence.",
+        "Incorrect. Recurrent UTIs requiring nephrectomy is a complication of MCDK or ectopic kidney, not bilateral agenesis."
+      ]
+    },
+    {
+      "id": 10,
+      "stem": "Prenatal ultrasound at 28 weeks shows one kidney replaced by multiple non-communicating cysts of variable sizes without a defined renal pelvis. The contralateral kidney appears enlarged but otherwise normal. Amniotic fluid volume is normal. Which embryologic mechanism best explains the cystic kidney?",
+      "choices": [
+        "Abnormal interaction between ureteric bud and metanephric mesenchyme",
+        "Entrapment of fused isthmus beneath the inferior mesenteric artery",
+        "Failure of the ureteric bud to form",
+        "Failure of the metanephric kidney to ascend",
+        "Mutation in the PKD1 gene on chromosome 16"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. MCDK arises from abnormal interaction between the ureteric bud and metanephric mesenchyme, leading to disorganized nephron development and cystic dilation of primitive tubules.",
+        "Incorrect. Entrapment beneath the IMA produces horseshoe kidney, not a cystic dysplastic kidney.",
+        "Incorrect. Failure of ureteric bud formation produces renal agenesis with absence of the kidney, not a cystic kidney.",
+        "Incorrect. Failure of ascent produces an ectopic pelvic kidney with relatively normal architecture.",
+        "Incorrect. The brick links the cystic congenital condition ARPKD to PKHD1 on chromosome 6, not PKD1; MCDK itself is a non-hereditary condition."
+      ]
+    },
+    {
+      "id": 11,
+      "stem": "A pediatrician is counseling parents of a newborn with unilateral multicystic dysplastic kidney. The contralateral kidney appears normal on ultrasound. Which statement most accurately describes the expected clinical course?",
+      "choices": [
+        "Bilateral CKD is expected because both kidneys lose function over time",
+        "Lethal Potter sequence is expected from in utero oligohydramnios",
+        "Most patients are asymptomatic with good prognosis as the contralateral kidney compensates",
+        "Severe pulmonary hypoplasia at birth is the most common complication",
+        "Surgical nephrectomy of the affected kidney is required at birth"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Unilateral disease typically does not produce bilateral CKD because the contralateral kidney is normal.",
+        "Incorrect. Potter sequence occurs in bilateral, not unilateral, MCDK.",
+        "Correct. Unilateral MCDK accounts for about 75% of cases and is usually asymptomatic with good prognosis because the contralateral kidney compensates with increased filtration and hypertrophy.",
+        "Incorrect. Pulmonary hypoplasia results from severe oligohydramnios, which occurs in bilateral MCDK rather than unilateral.",
+        "Incorrect. Observation is appropriate for unilateral MCDK; nephrectomy is considered only if complications such as infection, hypertension, or pain arise."
+      ]
+    },
+    {
+      "id": 12,
+      "stem": "A geneticist is counseling a family whose two children have bilateral cystic kidneys detected on prenatal ultrasound. Genetic testing reveals a homozygous mutation in the PKHD1 gene on chromosome 6. Which condition is most consistent with this finding?",
+      "choices": [
+        "Autosomal recessive polycystic kidney disease (ARPKD)",
+        "Bilateral renal agenesis",
+        "Horseshoe kidney with Turner syndrome",
+        "Multicystic dysplastic kidney (MCDK)",
+        "Renal hypodysplasia"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. ARPKD is a hereditary cystic disease affecting both kidneys, caused by mutation in the PKHD1 gene on chromosome 6.",
+        "Incorrect. Bilateral renal agenesis is characterized by absence of kidneys rather than cysts.",
+        "Incorrect. Horseshoe kidney is a fusion anomaly, not a hereditary cystic condition with PKHD1 mutation.",
+        "Incorrect. MCDK is non-hereditary and more commonly affects a single kidney rather than both.",
+        "Incorrect. Renal hypodysplasia is characterized by small kidneys with reduced nephron number, not by PKHD1-related cysts."
+      ]
+    },
+    {
+      "id": 13,
+      "stem": "A 6-year-old boy presents with poor growth, hypertension, and proteinuria. Renal ultrasound reveals bilaterally small echogenic kidneys, and biopsy demonstrates fewer poorly formed nephrons with dysplastic architecture. The remaining functional nephrons show hypertrophy of both tubules and glomeruli. Which embryologic event best explains these findings?",
+      "choices": [
+        "Abnormal ascent of the metanephric kidneys",
+        "Failure of fusion of the metanephric blastemas",
+        "Fusion of the kidneys with entrapment beneath the IMA",
+        "Incomplete or abnormal induction of nephron differentiation in the metanephric blastema",
+        "Splitting of the ureteric bud"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Abnormal ascent produces an ectopic kidney, not bilaterally small kidneys with reduced nephron number.",
+        "Incorrect. The brick attributes the findings to abnormal nephron induction; fusion failure of metanephric blastemas is not the relevant mechanism.",
+        "Incorrect. Fusion with IMA entrapment produces horseshoe kidney, in which kidneys are normal-sized and functional.",
+        "Correct. Renal hypodysplasia results from incomplete or abnormal induction of nephron differentiation within the metanephric blastema, producing hypoplastic and dysplastic renal tissue.",
+        "Incorrect. Splitting of the ureteric bud produces a duplicated collecting system, not hypodysplasia."
+      ]
+    },
+    {
+      "id": 14,
+      "stem": "A 4-year-old girl with bilateral renal hypodysplasia has progressively rising creatinine and elevated blood pressure. Her growth has fallen below the 5th percentile. Which management strategy is most consistent with the brick's recommendations?",
+      "choices": [
+        "Bilateral nephrectomy at diagnosis",
+        "Genetic testing for the PKHD1 mutation",
+        "Observation only without intervention",
+        "Prenatal counseling and supportive care only",
+        "Supportive care with blood pressure control, growth monitoring, and eventual renal replacement therapy"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. Bilateral nephrectomy is not the recommended management for renal hypodysplasia.",
+        "Incorrect. PKHD1 testing is relevant to ARPKD, not renal hypodysplasia.",
+        "Incorrect. Observation alone is inadequate when CKD, hypertension, and impaired growth are progressing.",
+        "Incorrect. Prenatal counseling and supportive care alone describe management of bilateral renal agenesis, a lethal anomaly.",
+        "Correct. Management of renal hypodysplasia is supportive, focused on CKD management with blood pressure control, growth monitoring, and eventual renal replacement therapy if progression occurs."
+      ]
+    },
+    {
+      "id": 15,
+      "stem": "A 3-year-old child is found incidentally on ultrasound to have a kidney drained by two ureters along its length. Which embryologic event best explains this finding?",
+      "choices": [
+        "Abnormal ascent of the metanephric kidney",
+        "Abnormal induction of nephron differentiation",
+        "Failure of the ureteric bud to form",
+        "Fusion of the metanephric blastemas",
+        "Splitting of the ureteric bud or formation of two ureteric buds"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. Abnormal ascent produces an ectopic kidney, not a duplicated collecting system.",
+        "Incorrect. Abnormal nephron induction produces hypodysplasia or MCDK, not duplication of the collecting system.",
+        "Incorrect. Failure of ureteric bud formation produces renal agenesis.",
+        "Incorrect. Fusion of metanephric blastemas produces horseshoe kidney.",
+        "Correct. Duplicated collecting system results from splitting of the ureteric bud or formation of two ureteric buds, producing a bifid ureter (partial) or two separate ureters (complete)."
+      ]
+    },
+    {
+      "id": 16,
+      "stem": "A pregnant woman at 30 weeks gestation is told that fetal ultrasound shows mild dilation of the renal collecting system. Repeat imaging just before delivery shows resolution of the dilation. Which condition does this most likely represent?",
+      "choices": [
+        "Bilateral renal agenesis",
+        "Horseshoe kidney",
+        "Multicystic dysplastic kidney",
+        "Renal hypodysplasia",
+        "Transient hydronephrosis"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. Bilateral renal agenesis presents with absent kidneys and severe oligohydramnios, not transient hydronephrosis.",
+        "Incorrect. Horseshoe kidney is a fusion anomaly that does not spontaneously resolve.",
+        "Incorrect. MCDK shows multiple non-communicating cysts that persist and do not resolve before birth.",
+        "Incorrect. Renal hypodysplasia produces small echogenic kidneys, not transient dilation that resolves.",
+        "Correct. Transient hydronephrosis is the most common antenatally detected urinary tract abnormality and is a benign, temporary dilation of the renal collecting system that resolves by birth."
+      ]
+    },
+    {
+      "id": 17,
+      "stem": "A medical student is reviewing the most common congenital renal anomalies. Which of the following is the most common congenital renal anomaly overall?",
+      "choices": [
+        "Bilateral renal agenesis",
+        "Duplicated collecting system",
+        "Horseshoe kidney",
+        "Multicystic dysplastic kidney",
+        "Pelvic kidney"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Bilateral renal agenesis is rare and lethal, not the most common congenital renal anomaly.",
+        "Correct. Duplicated collecting system (duplex kidney) is the most common congenital renal anomaly, resulting from splitting of the ureteric bud or formation of two buds.",
+        "Incorrect. Horseshoe kidney occurs in roughly 1 in 400-600 live births and is one of the most common fusion anomalies but not the most common congenital renal anomaly overall.",
+        "Incorrect. MCDK is less common than duplicated collecting system.",
+        "Incorrect. Ectopic (pelvic) kidney is less common than duplicated collecting system."
+      ]
+    },
+    {
+      "id": 18,
+      "stem": "A pediatric nephrologist explains to medical students that congenital urinary tract disorders are an important cause of pediatric kidney disease. Which statement best reflects the epidemiology described in the brick?",
+      "choices": [
+        "Congenital urinary tract disorders are equally distributed between males and females",
+        "Congenital urinary tract disorders make up approximately 20% of all congenital anomalies and are a leading cause of pediatric CKD and ESRD",
+        "Congenital urinary tract disorders rarely coexist with other developmental anomalies",
+        "The incidence of congenital urinary tract disorders exceeds 5% of live births",
+        "These disorders account for less than 10% of pediatric chronic kidney disease cases"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. The brick states that congenital urinary tract disorders are more common in males, not equally distributed.",
+        "Correct. Congenital malformations of the urinary system make up approximately 20% of all congenital anomalies and are the leading cause of childhood CKD and ESRD, accounting for up to 50% of pediatric cases.",
+        "Incorrect. The brick notes that these disorders often coexist with other developmental anomalies.",
+        "Incorrect. The reported incidence is 0.05% to 1% of live births, far below 5%.",
+        "Incorrect. They account for up to 50% of pediatric CKD/ESRD cases, not less than 10%."
+      ]
+    },
+    {
+      "id": 19,
+      "stem": "A pathologist examines a kidney removed at autopsy from a stillborn fetus. Sections demonstrate multiple variably sized non-communicating cysts that have replaced normal parenchyma, with no defined renal pelvis. Which functional consequence is most consistent with these findings?",
+      "choices": [
+        "Compensatory hypertrophy of the affected kidney",
+        "Normal filtration capacity preserved despite cysts",
+        "Reduced GFR with the kidney being nonfunctional",
+        "Selective loss of glomerular filtration with preserved tubular function",
+        "Selective loss of tubular function with preserved filtration"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Compensatory hypertrophy occurs in the contralateral healthy kidney in unilateral cases, not in the affected MCDK.",
+        "Incorrect. The affected MCDK lacks normal architecture and filtration capacity.",
+        "Correct. The affected MCDK lacks normal filtration capacity (reduced GFR) and is essentially nonfunctional because normal parenchyma has been replaced by cysts.",
+        "Incorrect. The affected kidney is globally nonfunctional rather than showing isolated loss of glomerular filtration.",
+        "Incorrect. The affected kidney is globally nonfunctional rather than showing selective tubular dysfunction."
+      ]
+    },
+    {
+      "id": 20,
+      "stem": "A 14-year-old asymptomatic boy with horseshoe kidney is seen in clinic for a routine evaluation. Imaging shows no obstruction, stones, or infection. Which management approach is most appropriate at this time?",
+      "choices": [
+        "Bilateral nephrectomy and renal replacement therapy",
+        "Genetic testing for PKHD1 and PKD1 mutations",
+        "Immediate surgical correction of the fusion",
+        "Lifelong prophylactic antibiotics",
+        "Observation with intervention reserved for complications"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. Horseshoe kidneys are functional and bilateral nephrectomy is not indicated.",
+        "Incorrect. PKHD1/PKD1 testing is not indicated for horseshoe kidney, which is a fusion anomaly rather than a hereditary cystic disease.",
+        "Incorrect. Surgical correction is not routinely performed for asymptomatic horseshoe kidney.",
+        "Incorrect. Lifelong prophylactic antibiotics are not described as routine management of horseshoe kidney in this brick.",
+        "Correct. Asymptomatic horseshoe kidney is managed with observation; surgical intervention is reserved for complications such as obstruction, stones, or infection."
+      ]
+    },
+    {
+      "id": 21,
+      "stem": "A 30-year-old woman undergoes prenatal ultrasound at 20 weeks gestation. Imaging shows that the fetal kidneys appear normal, but the bladder is empty and amniotic fluid volume is markedly decreased. Which physiologic principle best explains the relationship between fetal urine and amniotic fluid volume?",
+      "choices": [
+        "Amniotic fluid after mid-gestation is primarily fetal urine, so impaired urine production reduces fluid volume",
+        "Amniotic fluid is primarily produced by the placenta independent of fetal kidneys",
+        "Amniotic fluid is replenished by maternal serum filtration regardless of fetal urine output",
+        "Fetal swallowing rather than fetal urination is the primary determinant of amniotic fluid volume",
+        "Reduced amniotic fluid reflects impaired tubular reabsorption rather than urine output"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. After mid-gestation, amniotic fluid is primarily fetal urine, so reduced kidney function or absent urine production dramatically reduces amniotic fluid volume.",
+        "Incorrect. The brick states amniotic fluid after mid-gestation is primarily fetal urine, not placental in origin.",
+        "Incorrect. Maternal serum filtration is not the source of amniotic fluid replenishment per the brick.",
+        "Incorrect. Fetal urination, not swallowing, is the primary determinant emphasized in the brick.",
+        "Incorrect. Oligohydramnios in this context reflects reduced urine output, not selectively impaired tubular reabsorption."
+      ]
+    },
+    {
+      "id": 22,
+      "stem": "A neonatal team is differentiating between possible diagnoses for a newborn with respiratory distress, flattened facial features, clubfoot, and absent fetal urine on prenatal imaging. Which feature would most strongly suggest bilateral renal agenesis or bilateral MCDK rather than unilateral renal agenesis?",
+      "choices": [
+        "Absence of fetal urine production with severe oligohydramnios",
+        "Compensatory hypertrophy of the contralateral kidney",
+        "Detection of horseshoe configuration on imaging",
+        "Incidental discovery on routine postnatal imaging",
+        "Normal amniotic fluid volume on prenatal ultrasound"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Bilateral renal agenesis or bilateral MCDK produces absent fetal urine, severe oligohydramnios, and Potter sequence; unilateral disease maintains adequate urine output and amniotic fluid volume.",
+        "Incorrect. Compensatory hypertrophy of the contralateral kidney occurs in unilateral disease, not bilateral.",
+        "Incorrect. Horseshoe configuration represents a fusion anomaly with functional kidneys and does not produce Potter sequence.",
+        "Incorrect. Incidental discovery on routine postnatal imaging is typical of asymptomatic anomalies such as unilateral pelvic or horseshoe kidney.",
+        "Incorrect. Normal amniotic fluid volume would argue against bilateral renal agenesis or bilateral MCDK."
+      ]
+    },
+    {
+      "id": 23,
+      "stem": "A 9-year-old boy is incidentally found on imaging to have a small left kidney with abnormal architecture. He is normotensive with normal serum creatinine, and the right kidney is enlarged. Which clinical course is most likely?",
+      "choices": [
+        "Gradual progression to bilateral CKD requiring dialysis",
+        "Lethal Potter sequence",
+        "Mostly asymptomatic course with adequate renal function",
+        "Recurrent stone disease at the level of the IMA",
+        "Severe hypertension requiring early nephrectomy"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Bilateral CKD is the consequence of bilateral, not unilateral, hypodysplasia.",
+        "Incorrect. Potter sequence requires bilateral disease with severe oligohydramnios.",
+        "Correct. Unilateral renal hypodysplasia is generally compatible with adequate renal function due to compensatory hypertrophy of the contralateral kidney and is often asymptomatic.",
+        "Incorrect. Stone formation at the level of the IMA is a feature of horseshoe kidney, not unilateral hypodysplasia.",
+        "Incorrect. Severe hypertension requiring early nephrectomy is not the typical course of unilateral hypodysplasia."
+      ]
+    },
+    {
+      "id": 24,
+      "stem": "A medical student is creating a concept map of congenital kidney anomalies. Which pairing of embryologic mechanism and resulting anomaly is correctly matched?",
+      "choices": [
+        "Abnormal nephron induction with cystic dilation of tubules → horseshoe kidney",
+        "Failure of metanephric kidney ascent → bilateral renal agenesis",
+        "Failure of ureteric bud to induce metanephric blastema → ectopic kidney",
+        "Fused metanephric blastemas trapped beneath the IMA → horseshoe kidney",
+        "Splitting of the ureteric bud → multicystic dysplastic kidney"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Abnormal nephron induction with cystic dilation of tubules describes MCDK, not horseshoe kidney.",
+        "Incorrect. Failure of metanephric kidney ascent produces ectopic (pelvic) kidney, not bilateral renal agenesis.",
+        "Incorrect. Failure of ureteric bud induction of the blastema produces renal agenesis, not ectopic kidney.",
+        "Correct. Fused metanephric blastemas at the inferior poles, trapped beneath the IMA during ascent, produce horseshoe kidney.",
+        "Incorrect. Splitting of the ureteric bud produces a duplicated collecting system, not MCDK."
+      ]
+    },
+    {
+      "id": 25,
+      "stem": "A 38-week-old neonate has clubfoot, recessed chin, flattened nose, and severe respiratory failure shortly after birth. Prenatal records show severe oligohydramnios. Which underlying pathophysiologic mechanism best accounts for the respiratory failure?",
+      "choices": [
+        "Cystic compression of fetal lungs by enlarged kidneys",
+        "Genetic mutation in PKHD1 directly affecting alveolar development",
+        "Maternal antibody-mediated injury to fetal pulmonary tissue",
+        "Pulmonary hypoplasia from impaired fetal breathing of amniotic fluid",
+        "Surfactant deficiency from prematurity alone"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Although bilateral enlarged cystic kidneys can occur in MCDK or ARPKD, the mechanism of pulmonary failure in Potter sequence is impaired lung development from oligohydramnios, not direct compression.",
+        "Incorrect. PKHD1 mutations cause ARPKD; the resulting respiratory failure is mediated through oligohydramnios and pulmonary hypoplasia, not direct alveolar effects.",
+        "Incorrect. Maternal antibody-mediated injury is not described as a mechanism in this brick.",
+        "Correct. Severe oligohydramnios prevents the normal fetal breathing of amniotic fluid required for lung development, resulting in pulmonary hypoplasia and respiratory failure as part of Potter sequence.",
+        "Incorrect. The brick attributes the respiratory failure to pulmonary hypoplasia from oligohydramnios, not surfactant deficiency from prematurity."
+      ]
+    }
+  ]
+}
