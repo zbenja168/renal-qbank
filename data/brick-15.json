@@ -206,7 +206,7 @@
       "choices": [
         "Caloric supplementation",
         "Improvement in hepatic synthesis",
-        "Potassium-sparing nature in malnourished patients",
+        "Potassium-sparing in malnourishment",
         "Reduced ammonia production",
         "Selective hepatic vein diuresis"
       ],
@@ -237,7 +237,7 @@
       "stem": "A 70-year-old man on lisinopril, spironolactone, and an oral potassium supplement presents with a serum K+ of 6.8 mEq/L and EKG changes. Which mechanism BEST explains his hyperkalemia?",
       "choices": [
         "Cellular potassium release from rhabdomyolysis",
-        "Combined renin-angiotensin-aldosterone system inhibition with K supplement",
+        "Combined RAAS inhibition with K supplement",
         "Hemolysis from blood draw",
         "Renal tubular acidosis type 1",
         "Tumor lysis syndrome"
@@ -257,7 +257,7 @@
       "choices": [
         "Distal convoluted tubule",
         "Glomerulus",
-        "Principal cells of the collecting duct",
+        "Collecting duct principal cells",
         "Proximal convoluted tubule",
         "Thick ascending limb of Henle"
       ],
@@ -297,7 +297,7 @@
         "They cause hyponatremia commonly",
         "They cause severe orthostatic hypotension",
         "They contain dangerous excipients",
-        "They produce only mild diuresis and weak BP lowering"
+        "They cause only mild diuresis"
       ],
       "answer": 4,
       "explanations": [
@@ -373,7 +373,7 @@
         "Beta-2 receptor agonism",
         "Inhibits 5-alpha-reductase",
         "Inhibits aromatase",
-        "Mineralocorticoid receptor antagonism with estrogen-like activity",
+        "Estrogen-like activity",
         "Stimulates GnRH release"
       ],
       "answer": 3,

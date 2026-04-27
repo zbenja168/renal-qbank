@@ -170,7 +170,7 @@
         "Active cranial migration powered by the metanephric blastema",
         "Apoptosis of the lower abdominal wall pulls the kidneys upward",
         "Contraction of the developing diaphragm pulls the kidneys cranially",
-        "Relative ascent caused by lengthening of the lumbar and sacral regions of the embryo"
+        "Relative ascent from lengthening of the lumbar and sacral regions"
       ],
       "answer": 4,
       "explanations": [
@@ -249,7 +249,7 @@
       "id": 16,
       "stem": "A medical student reviewing pelvic embryology asks which adult structures arise from the urogenital sinus. Which combination is correct?",
       "choices": [
-        "Bladder, urethra, and lower vagina (in females)",
+        "Bladder, urethra, and lower vagina",
         "Bladder, urethra, and ureters",
         "Rectum and anus",
         "Ureters and renal pelvis",
@@ -269,7 +269,7 @@
       "stem": "A pathologist reviewing a hindgut specimen identifies the embryologic structure that gives rise to the rectum and anus. Which compartment does this represent?",
       "choices": [
         "Allantois",
-        "Anorectal canal (posterior compartment of the cloaca)",
+        "Anorectal canal",
         "Mesonephric duct",
         "Urogenital sinus",
         "Yolk sac"
@@ -349,7 +349,7 @@
         "Bladder trigone and posterior urethra",
         "Gartner duct and broad ligament",
         "Prostate gland and seminal colliculus",
-        "Seminal vesicles, epididymis, ejaculatory duct, and ductus deferens"
+        "Epididymis, ductus deferens, and seminal vesicles"
       ],
       "answer": 4,
       "explanations": [
@@ -357,7 +357,7 @@
         "Incorrect. The trigone forms from incorporation of the ureters into the bladder wall.",
         "Incorrect. The Gartner duct is the female remnant of the mesonephric duct, not a male derivative.",
         "Incorrect. The prostate develops from the urogenital sinus.",
-        "Correct. In males, the mesonephric duct gives rise to the seminal vesicles, epididymis, ejaculatory duct, and ductus deferens."
+        "Correct. In males, the mesonephric duct gives rise to the epididymis, ductus deferens, and seminal vesicles (and the ejaculatory duct)."
       ]
     },
     {

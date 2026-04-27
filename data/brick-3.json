@@ -198,7 +198,7 @@
       "choices": [
         "Bilateral CKD is expected because both kidneys lose function over time",
         "Lethal Potter sequence is expected from in utero oligohydramnios",
-        "Most patients are asymptomatic with good prognosis as the contralateral kidney compensates",
+        "Usually asymptomatic; the contralateral kidney compensates",
         "Severe pulmonary hypoplasia at birth is the most common complication",
         "Surgical nephrectomy of the affected kidney is required at birth"
       ],
@@ -215,7 +215,7 @@
       "id": 12,
       "stem": "A geneticist is counseling a family whose two children have bilateral cystic kidneys detected on prenatal ultrasound. Genetic testing reveals a homozygous mutation in the PKHD1 gene on chromosome 6. Which condition is most consistent with this finding?",
       "choices": [
-        "Autosomal recessive polycystic kidney disease (ARPKD)",
+        "Autosomal recessive polycystic kidney disease",
         "Bilateral renal agenesis",
         "Horseshoe kidney with Turner syndrome",
         "Multicystic dysplastic kidney (MCDK)",
@@ -237,7 +237,7 @@
         "Abnormal ascent of the metanephric kidneys",
         "Failure of fusion of the metanephric blastemas",
         "Fusion of the kidneys with entrapment beneath the IMA",
-        "Incomplete or abnormal induction of nephron differentiation in the metanephric blastema",
+        "Abnormal induction of nephron differentiation",
         "Splitting of the ureteric bud"
       ],
       "answer": 3,
@@ -257,7 +257,7 @@
         "Genetic testing for the PKHD1 mutation",
         "Observation only without intervention",
         "Prenatal counseling and supportive care only",
-        "Supportive care with blood pressure control, growth monitoring, and eventual renal replacement therapy"
+        "Supportive care and eventual renal replacement"
       ],
       "answer": 4,
       "explanations": [
@@ -276,7 +276,7 @@
         "Abnormal induction of nephron differentiation",
         "Failure of the ureteric bud to form",
         "Fusion of the metanephric blastemas",
-        "Splitting of the ureteric bud or formation of two ureteric buds"
+        "Splitting or duplication of the ureteric bud"
       ],
       "answer": 4,
       "explanations": [
@@ -330,7 +330,7 @@
       "stem": "A pediatric nephrologist explains to medical students that congenital urinary tract disorders are an important cause of pediatric kidney disease. Which statement best reflects the epidemiology described in the brick?",
       "choices": [
         "Congenital urinary tract disorders are equally distributed between males and females",
-        "Congenital urinary tract disorders make up approximately 20% of all congenital anomalies and are a leading cause of pediatric CKD and ESRD",
+        "They make up ~20% of congenital anomalies and a leading cause of pediatric CKD and ESRD",
         "Congenital urinary tract disorders rarely coexist with other developmental anomalies",
         "The incidence of congenital urinary tract disorders exceeds 5% of live births",
         "These disorders account for less than 10% of pediatric chronic kidney disease cases"

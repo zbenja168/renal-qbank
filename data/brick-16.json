@@ -140,7 +140,7 @@
       "id": 9,
       "stem": "A 70-year-old man with diabetic ketoacidosis presents with profoundly elevated glucose. Which mechanism best describes the expected fluid shift?",
       "choices": [
-        "Hypertonic ECF draws water from ICF, with osmotic diuresis",
+        "Hypertonic ECF with osmotic diuresis",
         "Hypotonic ECF causes cellular swelling",
         "Isotonic loss without osmolar shift",
         "Selective potassium-water shift only",
@@ -180,7 +180,7 @@
       "choices": [
         "Cerebral edema",
         "Hypercalcemia",
-        "Hyperchloremic metabolic acidosis",
+        "Hyperchloremic acidosis",
         "Lactic acidosis",
         "Pulmonary fibrosis"
       ],
@@ -255,7 +255,7 @@
       "stem": "Lactated Ringer's solution differs from 0.9% NaCl by:",
       "choices": [
         "Being hypertonic",
-        "Containing a buffer (lactate) and balanced electrolytes",
+        "Containing a lactate buffer",
         "Containing dextrose",
         "Lacking sodium",
         "Providing free water"
@@ -275,7 +275,7 @@
       "choices": [
         "Hemorrhage → hypotonic ECF expansion",
         "Hyperglycemia → hypotonic ECF",
-        "Hypernatremia → hypertonic ECF, ICF contraction",
+        "Hypernatremia → hypertonic ECF",
         "SIADH → hypertonic ECF",
         "Water intoxication → hypertonic ECF"
       ],
@@ -401,7 +401,7 @@
       "stem": "A regulatory volume increase (RVI) and regulatory volume decrease (RVD) describe which cellular phenomenon?",
       "choices": [
         "Active transcellular fluid pumping",
-        "Adaptive ion/osmolyte transport that restores cell volume",
+        "Adaptive osmolyte transport restoring volume",
         "Cellular apoptosis pathway",
         "Direct ATP-driven water pumping",
         "Lipid raft formation"
@@ -431,7 +431,7 @@
     {
       "id": 25,
       "stem": "A 62-year-old man with prolonged vomiting/diarrhea, confusion, and abnormal sodium and glucose levels has lost ECF volume. The MOST appropriate INITIAL fluid is:",
-      "choices": ["0.45% NaCl", "0.9% NaCl or Lactated Ringer's", "20% mannitol", "3% hypertonic saline", "D5W"],
+      "choices": ["0.45% NaCl", "0.9% NaCl or LR", "20% mannitol", "3% hypertonic saline", "D5W"],
       "answer": 1,
       "explanations": [
         "Incorrect. Hypotonic saline does not adequately restore ECF volume.",

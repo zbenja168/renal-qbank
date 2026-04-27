@@ -26,7 +26,7 @@
       "stem": "A 75-year-old man with chronic hypernatremia (Na 168 mEq/L over weeks) is alert and oriented, while a 45-year-old who develops Na 152 mEq/L acutely after IV hypertonic fluid is delirious. Which best explains the difference in symptom severity?",
       "choices": [
         "Acute brain edema in the chronic patient",
-        "Compensatory accumulation of cellular osmolytes over time",
+        "Brain cell accumulation of osmolytes over time",
         "Higher BUN in the chronic patient",
         "Lower aldosterone in the acute patient",
         "More renal water loss in the acute patient"
@@ -122,7 +122,7 @@
       "choices": [
         "Aldosterone excess from adrenal metastases",
         "Direct ADH suppression by calcium in the pituitary",
-        "Hypercalcemia activating calcium-sensing receptors in the thick ascending limb and decreasing aquaporin expression",
+        "CaSR activation in the thick ascending limb",
         "Increased medullary blood flow",
         "Stimulation of distal sodium channels"
       ],
@@ -219,7 +219,7 @@
         "Loss of cerebral autoregulation only",
         "Pituitary infarction",
         "Toxic effect of bicarbonate",
-        "Water shift from brain cells into the blood, causing brain shrinkage"
+        "Water shift from brain cells, causing brain shrinkage"
       ],
       "answer": 4,
       "explanations": [
@@ -235,7 +235,7 @@
       "stem": "A 60-year-old man with serum sodium 158 mEq/L has urine osmolality of 750 mOsm/kg. Which best categorizes the source of his water loss?",
       "choices": [
         "Central DI",
-        "Extrarenal water loss with appropriate ADH response",
+        "Extrarenal water loss with intact ADH response",
         "Mannitol-induced osmotic diuresis",
         "Nephrogenic DI",
         "Tolvaptan-induced renal water loss"
@@ -276,7 +276,7 @@
         "Free water loading test",
         "Random urine specific gravity",
         "Serum copeptin only",
-        "Water deprivation test followed by DDAVP"
+        "Water deprivation test with DDAVP"
       ],
       "answer": 4,
       "explanations": [
@@ -330,7 +330,7 @@
       "stem": "A 78-year-old woman has chronic hypernatremia (Na 162 mEq/L over weeks) with stable mental status and adequate volume. Which approach to correction is most appropriate?",
       "choices": [
         "Aim to fully normalize sodium within 12 hours",
-        "Lower serum sodium by no more than approximately 10 mEq/L over 24 hours",
+        "Lower sodium by ~10 mEq/L per 24 hours",
         "No correction is needed",
         "Rapid IV bolus of D5W until normal sodium",
         "Use 3% saline to slow correction"
@@ -350,7 +350,7 @@
       "choices": [
         "0.9% normal saline IV",
         "3% hypertonic saline IV",
-        "Free water flushes via tube feeds",
+        "Free water via tube feeds",
         "Intravenous sterile water",
         "Lactated Ringer's IV"
       ],
@@ -368,7 +368,7 @@
       "stem": "A clinician orders D5W to replace free water in a hypernatremic patient. Why is dextrose added rather than giving plain water IV?",
       "choices": [
         "Dextrose is reabsorbed in the kidney",
-        "Dextrose prevents lysis of red blood cells when infused; it is metabolized, leaving water to distribute proportionately",
+        "Prevents red cell lysis; metabolizes to free water",
         "Dextrose suppresses ADH",
         "Dextrose stimulates aquaporin insertion",
         "Dextrose treats associated hyperkalemia"
@@ -427,7 +427,7 @@
         "ACE inhibitor and high-protein diet",
         "Beta-blocker and high-salt diet",
         "Loop diuretic and high-protein diet",
-        "Low-salt and low-protein diet, with a thiazide diuretic",
+        "Low-salt, low-protein diet plus a thiazide",
         "Tolvaptan and salt tablets"
       ],
       "answer": 3,
@@ -444,7 +444,7 @@
       "stem": "A 75-year-old man with severe chronic hypernatremia (Na 175 mEq/L) is started on D5W. Within 6 hours his sodium falls to 158 mEq/L and he develops a seizure. Which complication of treatment has most likely occurred?",
       "choices": [
         "Acute kidney injury",
-        "Cerebral edema and possible herniation",
+        "Cerebral edema with herniation",
         "Central pontine myelinolysis",
         "Hypoglycemia",
         "Persistent hypernatremia"
@@ -463,7 +463,7 @@
       "stem": "A 60-year-old man with a recent transsphenoidal surgery for a pituitary tumor develops central DI. Which statement about his treatment is most accurate?",
       "choices": [
         "DDAVP must be given for life regardless of clinical course",
-        "DDAVP should be given only until symptoms resolve, not to a target sodium; postsurgical central DI often resolves",
+        "DDAVP only until symptoms resolve; postsurgical DI often resolves",
         "Lithium is the preferred therapy",
         "Long-term thiazides are first line",
         "Vasopressin IV is preferred over DDAVP for ambulatory management"

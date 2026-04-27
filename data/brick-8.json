@@ -135,7 +135,7 @@
       "choices": [
         "They are the principal resistance vessels regulating inflow",
         "They control efferent outflow and glomerular hydrostatic pressure",
-        "Their constriction or dilation minimally changes total resistance but alters Kf via surface area",
+        "They alter Kf via surface area, not total resistance",
         "They contribute equally with afferent arterioles",
         "They offer the greatest resistance under normal conditions"
       ],
@@ -173,7 +173,7 @@
       "choices": [
         "Sympathetic tone and angiotensin II",
         "Aldosterone and ADH",
-        "Myogenic response and tubuloglomerular feedback",
+        "Myogenic reflex and tubuloglomerular feedback",
         "RAAS and prostaglandins",
         "Endothelin and nitric oxide"
       ],
@@ -191,7 +191,7 @@
       "stem": "A subject rises rapidly from supine to standing, transiently increasing arterial pressure transmitted to the renal vasculature. Within seconds, afferent arteriolar resistance increases to buffer the change. Which cellular mechanism most directly produces this rapid response?",
       "choices": [
         "Macula densa adenosine release",
-        "Stretch-activated calcium channels in afferent smooth muscle",
+        "Stretch-activated Ca2+ channels in afferent SM",
         "Granular cell renin secretion",
         "Endothelial nitric oxide synthesis",
         "Sympathetic α1-adrenergic stimulation"
@@ -211,7 +211,7 @@
       "choices": [
         "Tubuloglomerular feedback is enhanced at low pressures",
         "Sympathetic tone overrides autoregulation",
-        "The myogenic response becomes insufficient and RBF becomes pressure-dependent",
+        "Myogenic response fails and RBF becomes pressure-dependent",
         "Efferent constriction completely compensates",
         "Vasa recta dilate, sustaining medullary flow"
       ],
@@ -229,7 +229,7 @@
       "stem": "A patient's GFR rises acutely. According to tubuloglomerular feedback as described in the brick, which sequence of events at the macula densa restores GFR toward normal?",
       "choices": [
         "Decreased NaCl delivery -> increased prostaglandins -> afferent dilation",
-        "Increased NaCl delivery -> adenosine and ATP release with reduced prostaglandins -> afferent constriction",
+        "Increased NaCl -> adenosine/ATP release -> afferent constriction",
         "Increased NaCl delivery -> renin release -> efferent constriction",
         "Decreased NaCl delivery -> adenosine release -> afferent constriction",
         "Increased NaCl delivery -> nitric oxide release -> afferent dilation"
@@ -249,7 +249,7 @@
       "choices": [
         "Faster, engaging within milliseconds",
         "Faster than the myogenic response by 10-15 seconds",
-        "Slower (engages over ~10-15 seconds) but provides more precise control by matching filtered load to tubular capacity",
+        "Slower (~10-15 s) but more precisely matches load to capacity",
         "Equal speed but acts only on efferent arterioles",
         "Slower and only relevant during sympathetic activation"
       ],
@@ -306,7 +306,7 @@
       "choices": [
         "Predominant afferent dilation, decreasing GFR",
         "Equal constriction of afferent and efferent",
-        "Primarily efferent constriction via AT1 receptors, helping maintain GFR during hypotension",
+        "Efferent constriction via AT1, preserving GFR",
         "Selective constriction of vasa recta",
         "No vascular effect; only stimulates aldosterone"
       ],
@@ -324,7 +324,7 @@
       "stem": "A 70-year-old man with heart failure and chronic volume depletion is started on ibuprofen for joint pain. Within days he develops acute kidney injury. Which mechanism best explains this outcome?",
       "choices": [
         "NSAIDs stimulate sympathetic activity and constrict efferent arterioles",
-        "NSAIDs inhibit prostaglandin synthesis, removing afferent dilation that preserves filtration during reduced renal perfusion",
+        "NSAIDs block prostaglandins, removing afferent dilation needed during low perfusion",
         "NSAIDs block angiotensin II receptors and dilate efferents",
         "NSAIDs inhibit nitric oxide and dilate the afferent arteriole",
         "NSAIDs increase renin release, raising glomerular pressure"
@@ -343,7 +343,7 @@
       "stem": "A research team catalogs renal vasoactive molecules. Which agent is correctly paired with its primary renal vascular action as described in the brick?",
       "choices": [
         "Nitric oxide -> potent vasoconstrictor",
-        "Endothelin -> potent vasoconstrictor of both afferent and efferent arterioles",
+        "Endothelin -> constricts both afferent and efferent arterioles",
         "Bradykinin -> direct constrictor of the afferent arteriole",
         "Dopamine (low dose) -> renal vasoconstrictor via D1 receptors",
         "Thromboxane A2 -> efferent dilator"
@@ -363,7 +363,7 @@
       "choices": [
         "Dilates afferent arteriole via A1 receptors",
         "Constricts efferent arteriole via AT1 receptors",
-        "Constricts the afferent arteriole via A1 receptors and mediates tubuloglomerular feedback",
+        "Constricts afferent via A1, mediating TGF",
         "Stimulates renin release from juxtaglomerular cells",
         "Acts as a potent natriuretic agent at the macula densa"
       ],
@@ -382,7 +382,7 @@
       "choices": [
         "Vasoconstriction predominates normally; shifts toward dilation during stress",
         "Equal balance normally; remains equal during stress",
-        "Vasodilation slightly predominates normally; balance shifts toward vasoconstriction during stress, prioritizing systemic perfusion over renal flow",
+        "Dilation predominates normally; constriction takes over during stress",
         "Only sympathetic input determines tone in either state",
         "RAAS dominates in both normal and stress states"
       ],
@@ -420,7 +420,7 @@
       "choices": [
         "Autoregulation tightens and GFR is preserved",
         "Sympathetic withdrawal restores RBF to baseline",
-        "MAP falls below the autoregulatory range, overwhelming compensatory mechanisms and causing precipitous declines in both RBF and GFR",
+        "MAP falls below autoregulatory range, dropping both RBF and GFR",
         "Efferent constriction by angiotensin II fully maintains GFR",
         "Prostaglandin release alone reverses the hemodynamic insult"
       ],
@@ -428,7 +428,7 @@
       "explanations": [
         "Incorrect. Below the autoregulatory range, intrinsic mechanisms fail rather than tighten.",
         "Incorrect. Severe hemorrhage triggers, not withdraws, sympathetic activity.",
-        "Correct. With severe hemorrhage, MAP falls below the autoregulatory range, overwhelming compensatory mechanisms and causing precipitous declines in both RBF and GFR.",
+        "Correct. With severe hemorrhage, MAP falls below the autoregulatory range, overwhelming compensatory mechanisms and causing steep declines in both RBF and GFR.",
         "Incorrect. Efferent constriction is insufficient when MAP falls below the autoregulatory range.",
         "Incorrect. Prostaglandins help preserve afferent dilation but cannot reverse profound hypoperfusion."
       ]
@@ -438,7 +438,7 @@
       "stem": "A 60-year-old man with sepsis has increased cardiac output but a fall in systemic vascular resistance. He develops AKI despite seemingly adequate macrovascular perfusion. Which mechanism best explains the renal injury in sepsis?",
       "choices": [
         "Selective vasoconstriction of vasa recta only",
-        "Direct inflammatory damage to renal microcirculation and tubules, with compromised autoregulation despite acceptable global hemodynamics",
+        "Inflammatory damage to renal microcirculation and tubules",
         "Pure prerenal physiology fully reversed by fluid resuscitation",
         "Excessive efferent dilation raising filtration fraction",
         "Marked elevation of MAP above the autoregulatory range"

@@ -8,7 +8,7 @@
       "choices": [
         "They block aquaporin insertion",
         "They inhibit V2 receptors",
-        "They mimic native ADH at its receptors, promoting water reabsorption and vasoconstriction",
+        "They mimic ADH at V1 and V2 receptors",
         "They prevent ADH degradation",
         "They stimulate the proximal tubule directly"
       ],
@@ -27,7 +27,7 @@
       "choices": [
         "Distal convoluted tubule cells",
         "Macula densa cells",
-        "Principal cells of the cortical collecting duct",
+        "Principal cells of the collecting duct",
         "Proximal tubule cells",
         "Thick ascending limb cells"
       ],
@@ -45,7 +45,7 @@
       "stem": "Following V2 receptor activation, what cellular event most directly enables water reabsorption in the collecting duct?",
       "choices": [
         "Active transport of water by Na/K-ATPase",
-        "Apical insertion of aquaporin channels making the membrane permeable to water",
+        "Apical insertion of aquaporin channels",
         "Increased epithelial sodium channel activity",
         "Increased paracellular calcium absorption",
         "Inhibition of carbonic anhydrase"
@@ -65,7 +65,7 @@
       "choices": [
         "Alpha-1 adrenergic",
         "Beta-1 adrenergic",
-        "V1 receptor on vascular endothelial cells",
+        "V1 on vascular endothelial cells",
         "V2 receptor on principal cells",
         "V3 receptor on the pituitary"
       ],
@@ -83,7 +83,7 @@
       "stem": "A 12-year-old with severe von Willebrand disease has bleeding gums and easy bruising. The physician administers desmopressin. Which mechanism best explains its hemostatic effect?",
       "choices": [
         "Direct activation of clotting factor X",
-        "Increased platelet release of von Willebrand factor from vascular endothelial cells",
+        "Endothelial release of von Willebrand factor",
         "Inhibition of fibrinolysis at the liver",
         "Stimulation of new platelet production",
         "Vasoconstriction reducing blood flow only"
@@ -124,7 +124,7 @@
         "It corrects an underlying renal tubular acidosis",
         "It causes him to sleep more deeply",
         "It prevents bladder contractions",
-        "It promotes urinary concentration regardless of his endogenous ADH level"
+        "It concentrates urine regardless of endogenous ADH"
       ],
       "answer": 4,
       "explanations": [
@@ -162,7 +162,7 @@
         "Beta-blockers",
         "Calcium channel blockers",
         "Insulin",
-        "Vasoconstrictors such as epinephrine and norepinephrine"
+        "Epinephrine and norepinephrine"
       ],
       "answer": 4,
       "explanations": [
@@ -180,8 +180,8 @@
         "Hyperglycemia",
         "Hyperkalemia",
         "Hypernatremia",
-        "Hyponatremia from excess renal water reabsorption",
-        "Mesenteric ischemia"
+        "Hyponatremia from water retention",
+        "Mesenteric ischemia from V1 effects"
       ],
       "answer": 3,
       "explanations": [
@@ -200,7 +200,7 @@
         "Excess water reabsorption in the gut",
         "Hypoglycemia-induced bowel ischemia",
         "Stimulation of the renal V2 receptor",
-        "V1-mediated splanchnic vasoconstriction reducing blood flow"
+        "V1-mediated splanchnic vasoconstriction"
       ],
       "answer": 4,
       "explanations": [
@@ -218,7 +218,7 @@
         "Anaphylaxis",
         "Hypothyroidism",
         "Pulmonary edema from heart failure",
-        "Pulmonary hypertension from vasoconstriction",
+        "Vasoconstrictive pulmonary hypertension",
         "SIADH"
       ],
       "answer": 3,
@@ -235,7 +235,7 @@
       "stem": "A patient is being chosen between desmopressin and vasopressin. The physician notes that desmopressin has fewer vascular adverse effects. Which receptor selectivity best explains this?",
       "choices": [
         "Desmopressin antagonizes V1 receptors",
-        "Desmopressin has selective V2 stimulation with little V1 effect",
+        "Desmopressin selectively stimulates V2 with little V1",
         "Desmopressin is a complete V1 and V2 antagonist",
         "Desmopressin selectively activates V1 only",
         "Vasopressin lacks V1 activity"
@@ -257,7 +257,7 @@
         "Direct toxicity to skin keratinocytes",
         "Embolic phenomena",
         "Platelet aggregation in skin vessels",
-        "V1-mediated peripheral vasoconstriction reducing skin perfusion"
+        "V1-mediated peripheral vasoconstriction"
       ],
       "answer": 4,
       "explanations": [
@@ -274,7 +274,7 @@
       "choices": [
         "Add a thiazide for life",
         "Continue desmopressin lifelong regardless of recovery",
-        "Discontinue desmopressin once symptoms resolve, since postsurgical/post-traumatic central DI often resolves",
+        "Stop desmopressin once symptoms resolve; central DI often resolves",
         "Increase the desmopressin dose to reach a target sodium",
         "Switch to oral vasopressin"
       ],
@@ -292,7 +292,7 @@
       "stem": "Which phrase best summarizes the THREE main effects of ADH/vasopressin agonists?",
       "choices": [
         "Diuresis, vasodilation, and bronchodilation",
-        "Renal water reabsorption, arteriolar vasoconstriction, and vWF release/platelet adhesion",
+        "Water reabsorption, vasoconstriction, and vWF release",
         "Renal water reabsorption, sodium reabsorption, and immune suppression",
         "Renal water secretion, vasoconstriction, and platelet inhibition",
         "Sodium excretion, vasoconstriction, and vWF release"
@@ -314,7 +314,7 @@
         "They directly remove glucose from urine",
         "They increase the GFR",
         "They reduce the medullary concentrating gradient",
-        "They replace deficient ADH, restoring renal water reabsorption"
+        "They replace ADH, restoring water reabsorption"
       ],
       "answer": 4,
       "explanations": [
@@ -331,7 +331,7 @@
       "choices": [
         "Bone marrow stimulation",
         "Direct binding to fibrin",
-        "Promotion of vWF release, correcting platelet adhesion defect",
+        "vWF release, correcting platelet adhesion",
         "Stimulation of erythropoiesis",
         "Suppression of clotting factor degradation"
       ],
@@ -349,7 +349,7 @@
       "stem": "A 30-year-old man with type 1 von Willebrand disease scheduled for tooth extraction is given desmopressin preoperatively. Which best describes the rationale?",
       "choices": [
         "It directly cauterizes the surgical site",
-        "It enhances release of vWF from endothelial cells, improving platelet adhesion",
+        "It releases endothelial vWF, improving platelet adhesion",
         "It increases liver clotting factor synthesis",
         "It is a long-acting anesthetic adjunct",
         "It reduces bleeding by raising blood pressure"
@@ -367,7 +367,7 @@
       "id": 20,
       "stem": "A 55-year-old man undergoing therapy for shock is on IV vasopressin. The physician notes elevated systemic and pulmonary vascular resistances. The agent's signaling occurs through which sequence in vascular smooth muscle?",
       "choices": [
-        "ADH binds V1 on vascular endothelial cells; smooth muscle contracts; arteriole constricts",
+        "ADH binds V1; smooth muscle contracts; arteriole constricts",
         "ADH binds V2 on smooth muscle and inhibits contraction",
         "ADH directly opens calcium channels on platelets",
         "ADH inhibits adenylyl cyclase in cardiac myocytes",
@@ -409,7 +409,7 @@
         "Rising serum sodium with low urine osmolality",
         "Stable glucose and potassium changes only",
         "Stable serum sodium with very low urine output",
-        "Urine osmolality rising and urine output falling toward normal, with serum sodium normalizing"
+        "Urine osmolality rises, urine output falls, sodium normalizes"
       ],
       "answer": 4,
       "explanations": [
@@ -445,7 +445,7 @@
       "choices": [
         "Hypoglycemia",
         "Hypothyroidism",
-        "Mesenteric and skin necrosis from vasoconstriction",
+        "Mesenteric and skin necrosis",
         "Pseudohyponatremia",
         "Pulmonary edema"
       ],
@@ -465,7 +465,7 @@
         "Both are pure V2 antagonists",
         "Desmopressin has strong V1 effects; vasopressin has only V2 effects",
         "Vasopressin and desmopressin are identical in effect",
-        "Vasopressin has strong V1 (vasoconstriction) effects, desmopressin has minimal V1 effect",
+        "Vasopressin has strong V1 effects; desmopressin minimal V1",
         "Vasopressin lacks V2 activity"
       ],
       "answer": 3,

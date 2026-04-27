@@ -18,7 +18,7 @@
     {
       "id": 2,
       "stem": "An electron micrograph of a normal glomerulus is reviewed. Which structural component represents the most restrictive element of the size barrier, with pores approximately 4–14 nm in diameter?",
-      "choices": ["Endothelial fenestrations", "Glomerular basement membrane", "Mesangial matrix", "Slit diaphragm between podocyte foot processes", "Tubular brush border"],
+      "choices": ["Endothelial fenestrations", "Glomerular basement membrane", "Mesangial matrix", "Podocyte slit diaphragm", "Tubular brush border"],
       "answer": 3,
       "explanations": [
         "Incorrect. Fenestrations of the capillary endothelium are larger and not the most restrictive element.",
@@ -83,7 +83,7 @@
     {
       "id": 7,
       "stem": "A 19-year-old man is evaluated for persistent microscopic hematuria. Family history reveals an X-linked pattern, and audiometry demonstrates sensorineural hearing loss. Eye exam shows anterior lenticonus. Which molecular abnormality best explains this disorder?",
-      "choices": ["Anti-GBM antibodies against type IV collagen", "Heparan sulfate deficiency in the GBM", "Mutation in slit diaphragm nephrin", "Mutations in type IV collagen disrupting GBM architecture", "Podocyte apoptosis from circulating factors"],
+      "choices": ["Anti-GBM antibodies against type IV collagen", "Heparan sulfate deficiency in the GBM", "Mutation in slit diaphragm nephrin", "Type IV collagen mutations disrupting GBM", "Podocyte apoptosis from circulating factors"],
       "answer": 3,
       "explanations": [
         "Incorrect. Anti-GBM disease is not described in the brick; Alport is hereditary, not autoimmune.",
@@ -187,7 +187,7 @@
     {
       "id": 15,
       "stem": "An investigator measures the percent filtration of serum proteins across the glomerulus and plots them on a logarithmic y-axis against molecular weight. Compared with β2-microglobulin (~12 kDa), thyroid-stimulating hormone (~28 kDa) is filtered at approximately what relative degree?",
-      "choices": ["Almost completely (~100%)", "Partially restricted, ~10% filtered", "Same as albumin (~0.01%)", "Same as IgG (~0.001%)", "Not filtered at all"],
+      "choices": ["Almost completely (~100%)", "Partially filtered (~10%)", "Same as albumin (~0.01%)", "Same as IgG (~0.001%)", "Not filtered at all"],
       "answer": 1,
       "explanations": [
         "Incorrect. ~100% filtration applies to very small molecules like β2-microglobulin, not to TSH at ~28 kDa.",
@@ -265,7 +265,7 @@
     {
       "id": 21,
       "stem": "A boy from an X-linked Alport family is asymptomatic but has persistent isolated microscopic hematuria with preserved GFR for many years. Which heterozygous state best matches this presentation?",
-      "choices": ["Diabetic kidney disease", "FSGS variant", "IgA nephropathy", "Membranous nephropathy", "Thin basement membrane nephropathy"],
+      "choices": ["Diabetic kidney disease", "FSGS variant", "IgA nephropathy with mesangial deposits", "Membranous nephropathy", "Thin basement membrane nephropathy"],
       "answer": 4,
       "explanations": [
         "Incorrect. Diabetic kidney disease is not the hereditary Alport-spectrum entity described.",
@@ -291,7 +291,7 @@
     {
       "id": 23,
       "stem": "A 19-year-old develops hypertension and oliguria after a sore throat. Urinalysis shows dysmorphic RBCs, RBC casts, and ACR around 200 mg/g. Which pathology best fits these findings?",
-      "choices": ["Alport syndrome", "FSGS", "Membranous nephropathy", "Minimal change disease", "Post-infectious glomerulonephritis"],
+      "choices": ["Alport syndrome", "FSGS", "Membranous nephropathy with anti-PLA2R", "Minimal change disease", "Post-infectious glomerulonephritis"],
       "answer": 4,
       "explanations": [
         "Incorrect. Alport classically presents with non-selective proteinuria and hematuria, often with extrarenal features, not acute post-infectious onset.",
@@ -304,7 +304,7 @@
     {
       "id": 24,
       "stem": "A 50-year-old man has biopsy findings of GBM thinning and splitting, ACR 600 mg/g of mixed albumin and globulin, dysmorphic RBCs, and progressive glomerulosclerosis. Which combination of barrier defects best accounts for the non-selective proteinuria?",
-      "choices": ["Loss of charge selectivity alone", "Loss of size selectivity alone", "Loss of size and charge selectivity from GBM disruption", "Mesangial expansion only", "Podocyte slit diaphragm disruption only"],
+      "choices": ["Loss of charge selectivity alone", "Loss of size selectivity alone", "Loss of size and charge selectivity", "Mesangial expansion only", "Podocyte slit diaphragm disruption only"],
       "answer": 2,
       "explanations": [
         "Incorrect. Loss of charge selectivity alone would not produce filtration of larger proteins like IgG.",

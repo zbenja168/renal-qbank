@@ -39,7 +39,7 @@
       "stem": "A neuroscience laboratory studies how mannitol shrinks brain tissue. Which property of mannitol allows it to exert sustained osmotic pressure within the renal tubule?",
       "choices": [
         "Active reabsorption proximally",
-        "Free filtration with poor membrane diffusion",
+        "Free filtration but poor diffusion",
         "Inhibition of aquaporin channels",
         "Reabsorption via NKCC2",
         "Tight binding to plasma albumin"
@@ -111,7 +111,7 @@
         "Direct cardiotoxicity of mannitol",
         "Drug-induced bronchospasm",
         "Hypersensitivity pneumonitis",
-        "Plasma volume expansion from retained drug",
+        "Plasma volume expansion",
         "Renal artery vasodilation"
       ],
       "answer": 3,
@@ -128,7 +128,7 @@
       "stem": "A patient with cystic fibrosis and recurrent airway obstruction is prescribed inhaled mannitol. Which therapeutic effect is sought?",
       "choices": [
         "Bronchodilation via beta-2 agonism",
-        "Drawing water into mucus to thin secretions",
+        "Osmotically thinning airway mucus",
         "Killing airway bacteria",
         "Relaxing airway smooth muscle",
         "Stimulating ciliary motion"
@@ -219,7 +219,7 @@
         "Acute glaucoma",
         "Hypoglycemia",
         "Metabolic alkalosis",
-        "Pulmonary edema from volume overload",
+        "Pulmonary edema",
         "Renal cortical necrosis"
       ],
       "answer": 3,
@@ -277,7 +277,7 @@
         "Glomerular thrombosis",
         "Renal cortical infection",
         "Tubular obstruction by casts",
-        "Volume depletion plus renal vasoconstriction"
+        "Volume depletion and vasoconstriction"
       ],
       "answer": 4,
       "explanations": [
@@ -311,7 +311,7 @@
       "id": 18,
       "stem": "Which of the following is a contraindication to osmotic diuretic usage?",
       "choices": [
-        "Diabetic nephropathy with reduced urine output",
+        "Oliguric diabetic nephropathy",
         "Hepatitis",
         "Increased intracranial pressure",
         "Pneumonia",
@@ -371,7 +371,7 @@
         "Activates aldosterone",
         "Activates aquaporin channels",
         "Constricts renal artery",
-        "Prevents reabsorption of filtered water",
+        "Blocks reabsorption of water",
         "Stimulates ENaC channels"
       ],
       "answer": 3,
@@ -408,7 +408,7 @@
       "choices": [
         "Decreased aquaporin expression",
         "Excessive aldosterone secretion",
-        "Inability to filter the agent for excretion",
+        "Inability to filter the drug",
         "Reduced collecting duct capacity",
         "Reduced thirst response"
       ],

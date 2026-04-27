@@ -26,7 +26,7 @@
       "stem": "A 70-year-old hospitalized woman has a serum sodium of 118 mEq/L that developed over 12 hours after vigorous IV fluid administration. She becomes increasingly confused and has a brief seizure. Which mechanism most directly explains her neurologic deterioration?",
       "choices": [
         "Cerebral hemorrhage from hypertension",
-        "Cerebral edema from osmotic water shift into brain cells",
+        "Cerebral edema from osmotic water shift",
         "Demyelination of the pons",
         "Hypoxic injury from hypoperfusion",
         "Sodium accumulation in neurons"
@@ -65,7 +65,7 @@
       "choices": [
         "Administer 3% hypertonic saline",
         "Begin a fluid restriction",
-        "No specific sodium treatment is required",
+        "No sodium treatment required",
         "Start a loop diuretic",
         "Start tolvaptan"
       ],
@@ -84,7 +84,7 @@
       "choices": [
         "Decreased ADH secretion",
         "Loss of ADH regulation only",
-        "Low effective circulating volume triggering ADH",
+        "Low effective volume triggering ADH",
         "Renal tubular insensitivity to ADH",
         "Suppression of RAAS"
       ],
@@ -102,7 +102,7 @@
       "stem": "A 72-year-old man with cirrhosis has ascites, peripheral edema, and a serum sodium of 124 mEq/L. Urine sodium is 10 mEq/L. Which best describes the underlying physiology?",
       "choices": [
         "Excess sodium intake with normal water handling",
-        "High ADH and high RAAS with low effective circulating volume",
+        "High ADH and RAAS with low effective volume",
         "Low ADH and low RAAS in an overhydrated state",
         "Normal ADH with renal salt wasting",
         "Suppressed ADH and aldosterone"
@@ -140,7 +140,7 @@
       "stem": "A 45-year-old woman started on sertraline for depression presents one month later with confusion. Serum sodium is 122 mEq/L, serum osmolality is low, and she appears euvolemic. Urine osmolality is 520 mOsm/kg, urine sodium 50 mEq/L. Which mechanism most likely caused her hyponatremia?",
       "choices": [
         "Diuretic-induced volume depletion",
-        "Drug-induced increase in pituitary ADH release",
+        "Drug-induced pituitary ADH release",
         "Ectopic ADH secretion from a tumor",
         "Inhibition of ADH receptors",
         "Stimulation of aldosterone secretion"
@@ -215,7 +215,7 @@
       "id": 12,
       "stem": "A 55-year-old woman with treated hypertension on furosemide develops worsening congestive heart failure. Her serum sodium falls to 128 mEq/L. Compared with thiazides, why are loop diuretics LESS likely to be the primary cause of hyponatremia?",
       "choices": [
-        "Loop diuretics deplete the medullary concentrating gradient needed for water reabsorption",
+        "Loop diuretics deplete the medullary gradient",
         "Loop diuretics lower ADH directly",
         "Loop diuretics promote sodium retention",
         "Loop diuretics work in the proximal convoluted tubule",
@@ -292,7 +292,7 @@
       "stem": "A 22-year-old marathon runner collapses after a cool-day race. He drank only plain water and ate no food during the race. Serum sodium is 120 mEq/L. What mechanism best explains his hyponatremia?",
       "choices": [
         "Aldosterone deficiency",
-        "Excess water intake without solute, plus exercise-induced ADH",
+        "Solute-free water intake plus exercise ADH",
         "Insensible water loss exceeding intake",
         "Severe sweat sodium loss",
         "Underlying SIADH from a tumor"
@@ -351,7 +351,7 @@
         "Administer 3% hypertonic saline",
         "Administer demeclocycline",
         "Administer normal saline rapidly",
-        "Initiate water restriction with concurrent loop diuretic",
+        "Water restriction plus loop diuretic",
         "Stop lisinopril"
       ],
       "answer": 3,
@@ -426,7 +426,7 @@
       "choices": [
         "Aggressive normal saline boluses",
         "Hypotonic IV fluids and free water encouragement",
-        "Loop diuretic with saline replacement, ADH antagonist, or increased solute intake",
+        "Loop diuretic, ADH antagonist, or added solute",
         "Mannitol diuresis",
         "Spironolactone monotherapy"
       ],

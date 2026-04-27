@@ -25,7 +25,7 @@
       "id": 2,
       "stem": "An ADH antagonist is administered to a patient with SIADH. Which cellular event in the principal cell is most directly blocked?",
       "choices": [
-        "Insertion of aquaporin channels into the apical membrane",
+        "Aquaporin insertion into the apical membrane",
         "Insertion of ENaC into the apical membrane",
         "Sodium reabsorption via the Na/K-ATPase",
         "Translocation of mineralocorticoid receptors",
@@ -46,7 +46,7 @@
       "choices": [
         "Decreased serum osmolality",
         "Decreased urine output",
-        "Increased serum osmolality and increased serum sodium concentration",
+        "Increased serum osmolality and sodium",
         "Increased urine osmolality",
         "Reduced free water excretion"
       ],
@@ -140,7 +140,7 @@
       "stem": "A 68-year-old man with severe CHF has worsening pulmonary edema despite loop diuretics. He has a normal sodium. Tolvaptan is added. Which best explains its role?",
       "choices": [
         "Direct positive inotropic effect on the heart",
-        "Increase in renal water excretion (and increased GFR), helping reduce pulmonary edema",
+        "Increased renal water excretion and GFR",
         "Lower blood pressure to reduce afterload",
         "Selective coronary vasodilation",
         "Suppression of the SA node"
@@ -180,7 +180,7 @@
         "A direct V2 receptor antagonist",
         "A loop diuretic agonist",
         "A potent V1 selective antagonist",
-        "A tetracycline antibiotic that interferes with biochemical signaling after ADH binds V2, mimicking ADH antagonist effects",
+        "Tetracycline that disrupts V2 signaling",
         "A vasopressin agonist"
       ],
       "answer": 3,
@@ -238,7 +238,7 @@
         "Increased baroreceptor sensitivity",
         "Reduced sodium reabsorption causing hypovolemia",
         "Suppression of aldosterone",
-        "V1 receptor blockade preventing arteriolar vasoconstriction"
+        "V1 blockade preventing vasoconstriction"
       ],
       "answer": 4,
       "explanations": [
@@ -274,7 +274,7 @@
       "choices": [
         "Add demeclocycline",
         "Continue at the same dose",
-        "Discontinue tolvaptan; it is not recommended in liver disease",
+        "Stop tolvaptan; avoid in liver disease",
         "Increase the tolvaptan dose",
         "Switch to a higher-protein diet"
       ],
@@ -312,7 +312,7 @@
       "choices": [
         "ACE inhibitors",
         "Aminoglycoside antibiotics",
-        "Drugs metabolized by CYP3A4 (e.g., acetaminophen, codeine, diazepam)",
+        "Drugs metabolized by CYP3A4",
         "Drugs that act at GABA receptors",
         "Insulin and oral hypoglycemics"
       ],
@@ -330,7 +330,7 @@
       "stem": "A patient receiving conivaptan is also taking ciprofloxacin. Which best describes the brick's relevant drug interaction concern?",
       "choices": [
         "Both drugs cause QT prolongation specifically",
-        "Ciprofloxacin inhibits CYP3A4 and could compound conivaptan's metabolism issues",
+        "Ciprofloxacin inhibits CYP3A4, affecting conivaptan metabolism",
         "Ciprofloxacin precipitates conivaptan in solution",
         "Conivaptan inhibits ciprofloxacin renal clearance",
         "Conivaptan reduces ciprofloxacin's antibacterial activity"
@@ -351,7 +351,7 @@
         "Tolvaptan blocks both V1 and V2 receptors",
         "Tolvaptan has no risk of demyelination",
         "Tolvaptan is preferred in liver disease",
-        "Tolvaptan is selective for V2 with less V1 (vascular) effect",
+        "Tolvaptan is V2-selective with less V1 effect",
         "Tolvaptan provides positive inotropy"
       ],
       "answer": 3,
@@ -408,7 +408,7 @@
         "Acute pancreatitis",
         "Hyperglycemia",
         "Hypokalemia",
-        "Overcorrection of sodium leading to osmotic demyelination",
+        "Sodium overcorrection causing osmotic demyelination",
         "Tachycardia from beta-receptor stimulation"
       ],
       "answer": 3,
@@ -464,7 +464,7 @@
       "choices": [
         "Aggressive normal saline boluses with no monitoring",
         "Demeclocycline plus high free water intake",
-        "Fluid restriction plus consideration of an ADH antagonist (conivaptan), with hospital admission for close sodium monitoring",
+        "Fluid restriction plus conivaptan, with admission for sodium monitoring",
         "Hypertonic saline given rapidly to normalize sodium within 6 hours",
         "Tolvaptan as long as needed without time limits"
       ],

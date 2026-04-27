@@ -7,7 +7,7 @@
       "stem": "A 20-year-old hiker is lost in a desert and runs out of water for hours. After returning to her car, she drinks a small amount and notes a low-volume, dark-yellow urine. Which mechanism BEST explains the small, concentrated urine?",
       "choices": [
         "Decreased GFR from renal vasodilation",
-        "Increased ADH causing aquaporin insertion in the collecting duct",
+        "Increased ADH driving aquaporin insertion",
         "Inhibition of the Na+/K+-ATPase",
         "Loss of the medullary concentration gradient",
         "Reduced thirst response"
@@ -220,7 +220,7 @@
         "Excessive sodium delivery distally",
         "Impaired ammonia synthesis",
         "Increased proximal tubule reabsorption",
-        "Severe hypokalemia blunts countercurrent multiplication",
+        "Hypokalemia blunts countercurrent flow",
         "Vasa recta vasoconstriction"
       ],
       "answer": 3,
@@ -391,7 +391,7 @@
       "stem": "Which best summarizes the relationship between sodium balance and water balance per the brick?",
       "choices": [
         "Sodium and water balance are identical processes",
-        "Sodium balance affects volume status; water balance affects osmolality",
+        "Sodium controls volume; water controls osmolality",
         "Water balance regulates serum potassium",
         "Sodium balance is regulated only by ADH",
         "Water balance does not affect plasma osmolality"

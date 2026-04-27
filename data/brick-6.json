@@ -140,7 +140,7 @@
       "stem": "A 4-year-old girl with severe nephrotic syndrome develops marked anasarca. Her clinician notes that despite expected hypoproteinemia, her GFR is now decreasing. Which mechanism best explains the GFR decline?",
       "choices": [
         "Direct mesangial relaxation",
-        "Fluid shifts to the interstitium reduce effective circulating volume, triggering compensatory responses",
+        "Fluid shifts to interstitium reduce effective circulating volume",
         "Increased filtration coefficient from glomerular hypertrophy",
         "Efferent arteriolar dilation from low oncotic pressure",
         "Loss of tubular secretion of creatinine"
@@ -235,7 +235,7 @@
       "stem": "A clinician reviews labs for a 57-year-old man with gradual fatigue and ankle swelling and considers using endogenous creatinine to estimate GFR. Which property of creatinine is an advantage that has made it the routine clinical marker?",
       "choices": [
         "It requires intravenous infusion to maintain stable plasma levels",
-        "It is produced continuously at a relatively constant rate from muscle creatine phosphate",
+        "It is produced at a relatively constant rate from muscle creatine",
         "It is heavily protein-bound, simplifying assays",
         "It is metabolized by the kidney, allowing direct measurement",
         "It is undetectable in early kidney disease"
@@ -293,7 +293,7 @@
       "choices": [
         "Increases endogenous creatinine production",
         "Reduces glomerular filtration of creatinine",
-        "Competes with creatinine for tubular secretion, lowering its secretory component",
+        "Competes with creatinine for tubular secretion",
         "Causes rhabdomyolysis with increased creatinine release",
         "Increases non-renal (GI) creatinine elimination"
       ],
@@ -311,7 +311,7 @@
       "stem": "A 28-year-old man is found unconscious after several hours pinned under a heavy object. Labs show markedly elevated serum creatinine and CK. His creatinine elevation is best explained by:",
       "choices": [
         "Reduced tubular secretion of creatinine",
-        "Massive muscle breakdown releasing creatine and increasing creatinine production",
+        "Muscle breakdown raises creatinine",
         "Hyperalbuminemia decreasing GFR",
         "Increased glomerular Kf",
         "Decreased non-renal creatinine elimination"
@@ -330,7 +330,7 @@
       "stem": "A frail 82-year-old woman with severe muscle wasting has a serum creatinine of 0.6 mg/dL. Her clinician is concerned that creatinine-based estimates overstate her true kidney function. The most likely reason is that:",
       "choices": [
         "Tubular secretion is markedly increased in cachexia",
-        "Reduced muscle mass lowers creatinine production, yielding a falsely low serum creatinine",
+        "Reduced muscle mass lowers creatinine production, falsely low serum Cr",
         "Albuminuria spuriously raises serum creatinine assays",
         "Non-renal creatinine elimination is suppressed in older adults",
         "Glomerular Kf is increased by sarcopenia"
@@ -350,7 +350,7 @@
       "choices": [
         "Single random serum creatinine",
         "Estimated GFR from creatinine alone",
-        "Direct measurement using an exogenous marker such as iohexol or iothalamate",
+        "Direct measurement with iohexol or iothalamate",
         "Trend in BUN over time",
         "Spot urine albumin-to-creatinine ratio"
       ],
@@ -426,7 +426,7 @@
       "choices": [
         "Normal kidney function with no diagnosis",
         "End-stage renal disease",
-        "Chronic kidney disease, because GFR >60 with evidence of kidney damage qualifies as CKD",
+        "Chronic kidney disease (damage with GFR >60)",
         "Acute kidney injury",
         "Stage G5 CKD requiring dialysis"
       ],
@@ -444,7 +444,7 @@
       "stem": "A 70-year-old man with diabetes has a GFR of 25 mL/min/1.73m squared and develops acute weakness after eating a banana with his ACE inhibitor. ECG shows peaked T waves. Which homeostatic disturbance from advancing CKD best explains this presentation?",
       "choices": [
         "Hypokalemia from increased tubular secretion",
-        "Hyperkalemia exacerbated by reduced nephron mass, RAAS inhibition, and metabolic acidosis",
+        "Hyperkalemia from low nephron mass, RAAS blockade, acidosis",
         "Metabolic alkalosis from sodium retention",
         "Hypocalcemia from increased renal clearance",
         "Respiratory acidosis from decreased ammonium excretion"
@@ -463,7 +463,7 @@
       "stem": "A 68-year-old man with CKD has a GFR of 30 mL/min/1.73m squared and serum bicarbonate of 18 mEq/L with a normal anion gap. Which mechanism and treatment best fit the brick's description?",
       "choices": [
         "Increased ammonium excretion; treat with potassium binders",
-        "Failure of ammonium excretion compensation when GFR <40, leading to net acid retention; treat with oral sodium bicarbonate or citrate",
+        "Failed ammonium excretion at GFR <40 with acid retention; treat with oral bicarbonate",
         "Excess bicarbonate loss in urine due to increased Kf; treat with diuretics",
         "Respiratory alkalosis from hyperventilation; treat with rebreathing",
         "Volume overload alone; treat with sodium restriction only"

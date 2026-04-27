@@ -160,7 +160,7 @@
       "choices": [
         "Increased aldosterone-driven K+ secretion",
         "Decreased GFR and reduced K+ excretion",
-        "ATP depletion opens K+ channels in muscle, releasing K+ into the ECF",
+        "ATP depletion opens muscle K+ channels, releasing K+",
         "Insulin surge drives K+ out of cells",
         "Osmotic drag from glucose loading"
       ],
@@ -216,7 +216,7 @@
       "stem": "When dietary K+ intake exceeds daily needs, the kidney increases urinary K+ output predominantly by:",
       "choices": [
         "Decreasing proximal tubule reabsorption only",
-        "Distal K+ secretion in the principal cells of the collecting duct",
+        "Principal-cell K+ secretion in the collecting duct",
         "Increasing GFR via afferent dilation",
         "Inhibiting Na+/K+-ATPase in the TAL",
         "Activating intercalated-cell H+/K+-ATPase"
@@ -254,7 +254,7 @@
       "stem": "A patient develops severe hyperkalemia. Which physiologic response increases renal K+ excretion?",
       "choices": [
         "Decreased aldosterone release",
-        "Direct stimulation of aldosterone release by hyperkalemia",
+        "Hyperkalemia directly stimulates aldosterone release",
         "Suppression of ENaC by aldosterone",
         "Activation of H+/K+-ATPase by aldosterone",
         "Inhibition of ROMK by aldosterone"
@@ -272,7 +272,7 @@
       "id": 15,
       "stem": "A 65-year-old man on long-term loop diuretic therapy for CHF develops hypokalemia. Which mechanism most directly explains the diuretic-induced K+ loss?",
       "choices": [
-        "Direct inhibition of ROMK channels",
+        "Direct inhibition of ROMK channels in principal cells overriding aldosterone-mediated distal K+ secretion",
         "Increased Na+ delivery to the distal nephron raises ENaC-driven secretion of K+, augmented by flow-mediated BK activation",
         "Aldosterone receptor blockade",
         "Activation of H+/K+-ATPase",
@@ -295,7 +295,7 @@
         "BK (Maxi-K) channels",
         "ENaC",
         "NKCC2",
-        "Aquaporin-2"
+        "Aquaporin-2 water channels"
       ],
       "answer": 1,
       "explanations": [
@@ -311,7 +311,7 @@
       "stem": "A patient with chronic kidney disease has a measured GFR of 8% of normal. Which complication is most consistent with the brick's discussion of K+ handling?",
       "choices": [
         "Hypokalemia from high GFR",
-        "Hyperkalemia because filtration plus secretion cannot match daily K+ load",
+        "Hyperkalemia from impaired excretion",
         "Severe hypocalcemia",
         "Metabolic alkalosis",
         "No effect on K+"
@@ -330,7 +330,7 @@
       "stem": "A patient with metabolic acidemia has decreased renal K+ excretion. Which two mechanisms best explain this effect?",
       "choices": [
         "Increased ROMK conductance and increased H+ secretion",
-        "Decreased luminal K+ channel permeability and increased H+ secretion making the lumen more positive",
+        "Decreased K+ permeability with lumen-positive H+ secretion",
         "Increased aldosterone and increased BK activity",
         "Decreased Na+ delivery and increased ROMK",
         "Increased aquaporin-2 and decreased ENaC"
@@ -368,7 +368,7 @@
       "stem": "A patient on lisinopril (ACE inhibitor) develops mildly elevated K+. Which mechanism best explains this?",
       "choices": [
         "Direct ROMK activation",
-        "Reduced angiotensin II → reduced aldosterone → reduced distal K+ secretion",
+        "↓ Ang II → ↓ aldosterone → ↓ K+ secretion",
         "Direct closure of ENaC",
         "Stimulation of BK channels",
         "Inhibition of the H+/K+-ATPase"
@@ -406,7 +406,7 @@
       "stem": "A patient is on furosemide and develops both hypokalemia and metabolic alkalosis. The brick explains this combination as part of which compounded effect?",
       "choices": [
         "Acidemia worsening hypokalemia",
-        "Alkalemia exacerbating hypokalemia by enhancing K+ secretion",
+        "Alkalemia worsens hypokalemia via K+ secretion",
         "Hyperkalemia masking acidosis",
         "Decreased aldosterone causing alkalosis",
         "Inhibition of carbonic anhydrase"
@@ -444,7 +444,7 @@
       "stem": "A patient with high dietary K+ intake reaches a new steady state over hours to days. Which sequence best describes this adaptation?",
       "choices": [
         "↓ plasma K+ → ↑ aldosterone → ↑ distal K+ secretion",
-        "↑ plasma K+ → ↑ aldosterone → upregulated ENaC, Na+/K+-ATPase, ROMK/BK → ↑ urinary K+",
+        "↑ K+ → ↑ aldosterone → upregulated ENaC/ROMK/BK → ↑ urinary K+",
         "↑ plasma K+ → ↓ aldosterone → ↑ urinary K+",
         "↑ plasma K+ → ↑ insulin → renal K+ retention",
         "No renal change; only intracellular shifts"
@@ -463,7 +463,7 @@
       "stem": "Which set of factors increases distal K+ secretion at the cortical collecting duct, per the brick?",
       "choices": [
         "Acidemia, low aldosterone, low flow",
-        "High K+ diet, aldosterone, high tubular flow, alkalemia",
+        "High K+, aldosterone, high flow, alkalemia",
         "Low Na+ delivery and acidemia",
         "Adrenal insufficiency and low flow",
         "ACE inhibitor use and low aldosterone"

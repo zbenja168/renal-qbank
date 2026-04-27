@@ -122,8 +122,8 @@
       "choices": [
         "Inulin",
         "Creatinine",
-        "Para-aminohippuric acid (PAH)",
-        "Glucose",
+        "Para-aminohippuric acid",
+        "Glucose (fully reabsorbed)",
         "Albumin"
       ],
       "answer": 2,
@@ -217,7 +217,7 @@
       "choices": [
         "Equal proportional decreases in GFR and RPF",
         "Greater decrease in GFR than in RPF",
-        "Greater decrease in RPF than in GFR due to efferent arteriolar constriction",
+        "Greater decrease in RPF than GFR from efferent constriction",
         "Increased RPF caused by systemic vasodilation",
         "Increased plasma protein concentration reducing filtration"
       ],
@@ -292,7 +292,7 @@
       "stem": "A 65-year-old man (JS) presents with hypertension and mild elevation in serum creatinine. He is taking both an ACE inhibitor and an antibiotic that is renally secreted. He develops antibiotic toxicity. The most likely mechanism for the elevated drug levels is:",
       "choices": [
         "Increased glomerular filtration of the antibiotic",
-        "Competition between the two drugs for organic anion transporters",
+        "Competition between the drugs for organic anion transporters",
         "Hepatic enzyme induction by the ACE inhibitor",
         "Enhanced passive reabsorption due to alkaline urine",
         "Saturation of hepatic protein binding"
@@ -370,7 +370,7 @@
         "Glomerular filtration rate",
         "Active secretion via OATs",
         "Active reabsorption via PEPT1/2",
-        "Passive reabsorption via altered ionization",
+        "pH-dependent passive reabsorption",
         "Plasma protein binding"
       ],
       "answer": 3,
@@ -465,7 +465,7 @@
         "Competition for transporters",
         "Transporter saturation",
         "Renal disease",
-        "Genetic polymorphisms in transporter activity",
+        "Transporter genetic polymorphisms",
         "Urine pH differences"
       ],
       "answer": 3,

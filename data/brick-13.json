@@ -46,7 +46,7 @@
       "choices": [
         "Decreased serum calcium",
         "Decreased glomerular filtration of calcium",
-        "Increased calcium reabsorption in the renal tubules, lowering urinary calcium",
+        "Increased tubular Ca2+ reabsorption, lowering urinary Ca2+",
         "Inhibition of oxalate transport",
         "Direct chelation of calcium in the tubular lumen"
       ],
@@ -65,7 +65,7 @@
       "choices": [
         "Direct ADH-receptor agonism",
         "Increase in aquaporin-2 expression in the collecting duct",
-        "Mild volume depletion activates RAAS, increasing PCT Na+/H2O reabsorption and reducing distal water delivery",
+        "Volume depletion activates RAAS, raising PCT Na+/H2O reabsorption",
         "Stimulation of free water reabsorption in the TAL",
         "Inhibition of ADH-degrading enzymes"
       ],
@@ -82,7 +82,7 @@
       "id": 5,
       "stem": "A patient with refractory edema in CHF is on a maximal-dose loop diuretic but still has edema. A thiazide (e.g., metolazone) is added. Which best explains the rationale per the brick?",
       "choices": [
-        "Thiazide blocks distal Na+ absorption that escapes the loop, enhancing diuresis",
+        "Thiazide blocks distal Na+ that escaped the loop",
         "Thiazide increases ADH and reduces edema",
         "Thiazide directly chelates Na+ in the lumen",
         "Thiazide is more potent than the loop alone",
@@ -102,7 +102,7 @@
       "stem": "A 60-year-old man on long-term HCTZ for hypertension presents with podagra (acute great-toe arthritis). Workup shows hyperuricemia. Which mechanism best explains this adverse effect?",
       "choices": [
         "Thiazides directly synthesize uric acid",
-        "Volume depletion increases proximal tubular reabsorption of uric acid, and thiazides competitively block uric acid secretion through the same transporter",
+        "Volume depletion plus thiazide block of urate secretion",
         "Thiazides stimulate xanthine oxidase",
         "Thiazides cause renal failure with uremia",
         "Thiazides increase intestinal absorption of urate"
@@ -121,7 +121,7 @@
       "stem": "A 65-year-old woman on HCTZ presents with serum Na+ 122 mEq/L. She drinks lots of water and eats little food. Which mechanism best explains thiazide-induced hyponatremia per the brick?",
       "choices": [
         "Thiazides increase ADH receptor antagonism",
-        "Thiazides block urinary dilution at the DCT and stimulate ADH/thirst from mild volume depletion, increasing total body water",
+        "DCT dilution block plus ADH-driven water retention",
         "Thiazides inhibit renal NaCl reabsorption in the TAL",
         "Thiazides increase intestinal Na+ loss only",
         "Thiazides cause SIADH directly"
@@ -159,7 +159,7 @@
       "stem": "A 55-year-old man with type 2 diabetes is being considered for HCTZ for hypertension. Per the brick, which guidance is appropriate?",
       "choices": [
         "Thiazides are first-line over ACE inhibitors in diabetics",
-        "Thiazides may impair glucose tolerance and unmask diabetes; ACE inhibitors are often preferred",
+        "Thiazides may worsen glucose tolerance; ACE inhibitors often preferred",
         "Thiazides are contraindicated in all diabetics",
         "Thiazides treat hyperglycemia",
         "Thiazides do not affect glucose"
@@ -178,10 +178,10 @@
       "stem": "Which adverse effect set is most characteristic of thiazide diuretics, per the brick's summary?",
       "choices": [
         "Volume depletion, hypokalemia, metabolic alkalosis, hyponatremia, hyperglycemia, hyperlipidemia, hyperuricemia, hypercalcemia",
-        "Hyperkalemia, hypernatremia, hypocalcemia, hypoglycemia",
-        "Ototoxicity, hypocalcemia, hypomagnesemia, contraction alkalosis",
-        "Tachycardia, hyperthyroidism, weight gain",
-        "Hyperphosphatemia, hypoglycemia, hypocalcemia"
+        "Hyperkalemia, hypernatremia, hypocalcemia, hypoglycemia, hypouricemia, hypotension, weight gain",
+        "Ototoxicity, hypocalcemia, hypomagnesemia, contraction alkalosis, hyperkalemia, prerenal AKI, weight loss",
+        "Tachycardia, hyperthyroidism, weight gain, sweating, anxiety, heat intolerance, fine tremor",
+        "Hyperphosphatemia, hypoglycemia, hypocalcemia, hypomagnesemia, lactic acidosis, ketosis"
       ],
       "answer": 0,
       "explanations": [
@@ -197,7 +197,7 @@
       "stem": "A patient with familial Gitelman syndrome has hypokalemic metabolic alkalosis and clinical features mimicking chronic thiazide use. Which mutation explains this?",
       "choices": [
         "ENaC gain-of-function",
-        "Loss-of-function mutation in the Na+/Cl- symporter (NCC) of the DCT",
+        "NCC loss-of-function in the DCT",
         "Aldosterone receptor mutation",
         "NKCC2 mutation in the TAL",
         "Aquaporin-2 mutation"
@@ -216,7 +216,7 @@
       "stem": "Why are thiazide diuretics relatively weak diuretics compared with loop diuretics, per the brick?",
       "choices": [
         "They have no effect on Na+ reabsorption",
-        "Approximately 90% of filtered Na+ has already been reabsorbed before reaching the DCT",
+        "~90% of filtered Na+ is reabsorbed before the DCT",
         "They block Na+ secretion only",
         "They are excreted unchanged in stool",
         "They only work in the medulla"
@@ -224,7 +224,7 @@
       "answer": 1,
       "explanations": [
         "Incorrect. They do affect Na+ reabsorption, but at a downstream segment.",
-        "Correct. Because ~90% of filtered Na+ has already been reabsorbed before reaching the DCT, thiazides can act on only ~10%, making them moderately potent at best.",
+        "Correct. Because ~90% of filtered Na+ is reabsorbed before the DCT, thiazides can act on only ~10%, making them moderately potent at best.",
         "Incorrect. There is no Na+ secretion to block in human nephrons.",
         "Incorrect. They are renally excreted, not stool-excreted.",
         "Incorrect. They act in the cortex (DCT)."
@@ -235,7 +235,7 @@
       "stem": "A pregnant patient with hypertension is being considered for HCTZ. Per the brick, what is the appropriate consideration?",
       "choices": [
         "Use HCTZ as first-line",
-        "Avoid thiazides in pregnancy because they may cause fetal/neonatal jaundice or low platelets",
+        "Avoid in pregnancy: jaundice/thrombocytopenia risk",
         "Use thiazides only in the first trimester",
         "Switch to a loop diuretic for safety",
         "Use thiazides only with concomitant calcium"
@@ -273,7 +273,7 @@
       "stem": "A 45-year-old man on HCTZ with serum Ca2+ 11.4 mg/dL is found to have multiple myeloma. Which best explains the hypercalcemia?",
       "choices": [
         "Thiazide alone caused severe hypercalcemia",
-        "Thiazide-induced reduction in urinary Ca2+ excretion combined with the underlying malignancy/inflammation",
+        "Reduced urinary Ca2+ plus underlying malignancy",
         "Thiazides synthesize calcium",
         "Thiazides destroy bone",
         "Thiazides bind PTH receptor"
@@ -349,7 +349,7 @@
       "stem": "A 58-year-old man with metabolic syndrome (impaired glucose tolerance, low HDL, high triglycerides, hypertension, abdominal obesity) needs antihypertensive therapy. Per the brick, which is best?",
       "choices": [
         "First-line HCTZ given low cost",
-        "Avoid thiazides because they may worsen glucose tolerance and lipids",
+        "Avoid: may worsen glucose tolerance and lipids",
         "Use a thiazide-loop combination",
         "Use a thiazide plus a beta-blocker for synergy",
         "Use HCTZ at high doses"
@@ -368,7 +368,7 @@
       "stem": "Why is hyperlipidemia thought to develop in some patients on thiazides, per the brick?",
       "choices": [
         "Direct inhibition of HMG-CoA reductase",
-        "Reduced insulin secretion and possibly increased insulin resistance, leading to increased triglyceride breakdown and lipoprotein synthesis",
+        "↓ insulin secretion and ↑ resistance → ↑ TG/lipids",
         "Increased intestinal cholesterol absorption",
         "Induction of CYP3A4",
         "Direct suppression of LDL receptors"
@@ -406,7 +406,7 @@
       "stem": "A patient with chronic interstitial renal disease is taking lithium, develops nephrogenic DI, and is started on HCTZ. Polyuria decreases by ~40%. Which intracellular/luminal change best explains the reduced urine output per the brick?",
       "choices": [
         "Direct stimulation of ADH receptor",
-        "Volume contraction → RAAS activation → Ang II–driven proximal Na+ and water reabsorption → less free water delivered distally",
+        "Volume loss → RAAS → ↑ PCT Na+/H2O reabsorption",
         "Decreased proximal tubule reabsorption",
         "Increased free water clearance",
         "Closure of ENaC channels"
@@ -463,7 +463,7 @@
       "stem": "Which combination of features distinguishes thiazide-induced hyponatremia from typical hypovolemic hyponatremia?",
       "choices": [
         "Patients appear obviously volume-depleted",
-        "Patients usually appear euvolemic despite ECF reduction; hypotonic urine is often impossible to make",
+        "Appears euvolemic; cannot make hypotonic urine",
         "Urine osmolality is always <50 mOsm/kg",
         "Serum sodium rises with thiazides",
         "Patients are typically hypernatremic"

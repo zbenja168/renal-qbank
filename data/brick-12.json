@@ -79,7 +79,7 @@
         "Pulmonary edema in CHF",
         "Acute hypercalcemia",
         "Hyperkalemia",
-        "Primary hypertension as first-line therapy",
+        "First-line primary hypertension",
         "SIADH-related hyponatremia"
       ],
       "answer": 3,
@@ -97,7 +97,7 @@
       "choices": [
         "Loops increase ADH secretion",
         "Loops dilute the urine maximally",
-        "Loops impair the kidney's ability to concentrate urine, increasing free water loss",
+        "Loops impair urinary concentration, increasing free water loss",
         "Loops directly stimulate water absorption in the collecting duct",
         "Loops bind ADH receptors"
       ],
@@ -115,7 +115,7 @@
       "stem": "A 68-year-old woman with metastatic breast cancer presents with serum Ca2+ of 14 mg/dL. After IV normal saline, a loop diuretic is added. Which mechanism reduces calcium?",
       "choices": [
         "Loops directly chelate calcium",
-        "Loops decrease the lumen-positive potential in the TAL, reducing paracellular Ca2+ reabsorption",
+        "Reduced TAL lumen potential lowers Ca2+ reabsorption",
         "Loops stimulate parathyroid hormone secretion",
         "Loops increase calcium reabsorption in the DCT",
         "Loops lower serum albumin"
@@ -134,7 +134,7 @@
       "stem": "A patient on a loop diuretic develops hypokalemia and metabolic alkalosis (\"contraction alkalosis\"). Which best explains the alkalosis?",
       "choices": [
         "Loops directly inhibit H+ secretion in the PCT",
-        "Volume depletion stimulates RAAS, and increased distal Na+ delivery promotes K+ and H+ secretion in the collecting duct, while volume loss concentrates remaining HCO3-",
+        "RAAS activation, distal Na+ delivery, and HCO3- concentration",
         "Loops directly increase intestinal HCO3- absorption",
         "Loops inhibit gastric H+ loss",
         "Loops cause respiratory compensation"
@@ -172,10 +172,10 @@
       "stem": "A 75-year-old man on furosemide develops dizziness on standing, BP 92/58, and serum creatinine has risen. Which adverse effect is most likely?",
       "choices": [
         "Volume depletion with prerenal AKI",
-        "Hyperkalemia",
-        "Hypercalcemia",
-        "Hypoglycemia",
-        "Ototoxicity"
+        "Hyperkalemia from K+ retention",
+        "Hypercalcemia from bone resorption",
+        "Hypoglycemia from poor oral intake",
+        "Ototoxicity from chronic furosemide"
       ],
       "answer": 0,
       "explanations": [
@@ -210,7 +210,7 @@
       "stem": "A 65-year-old man on chronic furosemide also takes daily ibuprofen for arthritis. He notes worsening edema. Which mechanism best explains the diminished diuretic response?",
       "choices": [
         "NSAIDs increase aldosterone secretion",
-        "NSAIDs inhibit renal prostaglandins, reducing the vasodilatory effect that supports diuretic efficacy",
+        "NSAIDs inhibit renal prostaglandins, reducing diuretic efficacy",
         "NSAIDs activate Na+/K+/2Cl- cotransporter",
         "NSAIDs increase intestinal absorption of furosemide",
         "NSAIDs precipitate furosemide in the urine"
@@ -247,7 +247,7 @@
       "id": 14,
       "stem": "A loop diuretic combined with normal saline is sometimes used to manage which acute electrolyte emergency?",
       "choices": [
-        "Acute hyperkalemia from arrhythmia risk and acute hypercalcemia",
+        "Severe hyperkalemia and acute hypercalcemia",
         "Acute hyperphosphatemia",
         "Acute hypomagnesemia",
         "Acute hyponatremia from heart failure",
@@ -267,7 +267,7 @@
       "stem": "An anuric patient (<100 mL/day of urine) is admitted. The clinician decides not to give a loop diuretic. Which is the best supporting reason from the brick?",
       "choices": [
         "Loops would worsen hyperglycemia",
-        "Loops require renal function to work and increase ototoxicity risk in anuria",
+        "Loops need renal function and risk ototoxicity",
         "Loops cause severe hypocalcemia in anuria",
         "Loops cross-react with insulin",
         "Loops cause profound hypertension in anuria"
@@ -286,7 +286,7 @@
       "stem": "Loop diuretics produce indirect renal vascular effects. Which best describes these effects?",
       "choices": [
         "Constriction of efferent arterioles via aldosterone",
-        "Local renal vein dilation via increased prostaglandin synthesis and afferent arteriolar dilation by limiting tubuloglomerular feedback",
+        "Prostaglandin-driven vasodilation and TGF inhibition",
         "Constriction of renal arteries via Ang II",
         "Direct ADH-mediated vasoconstriction",
         "Reduction of GFR via mesangial constriction"
@@ -305,7 +305,7 @@
       "stem": "A patient on furosemide develops mild hypocalcemia and hypomagnesemia. Which best explains these findings?",
       "choices": [
         "Loops directly chelate divalent cations",
-        "Inhibition of NKCC2 reduces the lumen-positive potential, decreasing paracellular Ca2+/Mg2+ reabsorption",
+        "NKCC2 inhibition cuts paracellular Ca2+/Mg2+",
         "Loops stimulate parathyroid release",
         "Loops cause vitamin D deficiency",
         "Loops inhibit intestinal Ca2+ absorption"
@@ -323,7 +323,7 @@
       "id": 18,
       "stem": "A patient with cirrhosis develops worsening confusion (asterixis) shortly after aggressive loop diuretic therapy. Which complication is most consistent with the brick?",
       "choices": [
-        "Hepatic encephalopathy precipitated by volume depletion",
+        "Hepatic encephalopathy from volume depletion",
         "Acute viral hepatitis",
         "Wilson disease flare",
         "Hyperammonemia from intestinal bleeding",
@@ -343,7 +343,7 @@
       "stem": "Why are loop diuretics generally NOT used as first-line agents to lower blood pressure in primary hypertension?",
       "choices": [
         "They cannot lower BP at all",
-        "Their effects on BP are transient (short duration), they have minimal systemic vasodilation, and electrolyte effects can be severe",
+        "Transient BP effects with severe electrolyte risk",
         "They are unaffordable",
         "They are not absorbed orally",
         "They are nephrotoxic in healthy adults"
@@ -375,7 +375,7 @@
       "stem": "A nephrotic syndrome patient with severe edema is started on a loop diuretic. Which physiologic chain best explains the loop's effect on edema?",
       "choices": [
         "Direct inhibition of glomerular protein loss",
-        "Inhibition of NKCC2 → solute remains in lumen → water follows osmotically → urinary Na+ and water loss → reduced ECF",
+        "NKCC2 block → luminal solute → Na+/water loss → ↓ ECF",
         "Activation of ADH → increased urine output",
         "Direct constriction of capillaries to reduce leak",
         "Increase in serum albumin"
@@ -394,7 +394,7 @@
       "stem": "A patient on furosemide develops hypokalemia. Which best describes the indirect mechanism of K+ loss via loop diuretics?",
       "choices": [
         "Direct inhibition of ROMK in the TAL",
-        "Increased urine flow and increased distal Na+ delivery enhance K+ secretion at the cortical collecting duct",
+        "↑ flow and distal Na+ delivery enhance K+ secretion at CCD",
         "Aldosterone receptor antagonism",
         "H+/K+-ATPase activation in alpha-intercalated cells",
         "Decreased GFR"
@@ -414,7 +414,7 @@
       "choices": [
         "It causes severe hyperkalemia",
         "It has no oral bioavailability",
-        "It has a higher rate of ototoxicity than other loops",
+        "Higher ototoxicity than other loops",
         "It causes nephrogenic diabetes insipidus",
         "It is primarily metabolized to thiazide"
       ],
