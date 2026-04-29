@@ -257,7 +257,7 @@ async function renderQuiz() {
     const answered = q.id in state.progress.answers;
     if (!answered && /^[1-5]$/.test(e.key)) {
       const idx = parseInt(e.key, 10) - 1;
-      const btn = area.querySelector(`.choice[data-index="${idx}"]`);
+      const btn = area.querySelector(`.choice[data-index="${idx}"], .ct-row[data-index="${idx}"]`);
       if (btn) btn.click();
     } else if (answered && (e.key === "Enter" || e.key === "ArrowRight" || e.key === " ")) {
       e.preventDefault();
@@ -325,6 +325,126 @@ function drawQuestion(state, q, area, advance, jumpTo, paletteEl, counterEl, isN
     diagramWrap.className = "diagram-card";
     diagramWrap.innerHTML = q.diagram;
     area.appendChild(diagramWrap);
+  }
+
+  // Optional table-of-choices (e.g. NBME ↑/↓/Unchanged grids).
+  // The 5 rows ARE the answer options — no separate choices array needed for selection.
+  if (q.choice_table) {
+    const ct = q.choice_table;
+    const tableWrap = document.createElement("div");
+    tableWrap.className = "choice-table-wrap";
+
+    const table = document.createElement("table");
+    table.className = "choice-table";
+
+    const thead = document.createElement("thead");
+    const headerRow = document.createElement("tr");
+    headerRow.appendChild(document.createElement("th")); // empty corner cell over letters
+    ct.headers.forEach((h) => {
+      const th = document.createElement("th");
+      th.textContent = h;
+      headerRow.appendChild(th);
+    });
+    thead.appendChild(headerRow);
+    table.appendChild(thead);
+
+    const tbody = document.createElement("tbody");
+    const rowEls = [];
+    ct.rows.forEach((row, idx) => {
+      const tr = document.createElement("tr");
+      tr.className = "ct-row";
+      tr.dataset.index = String(idx);
+
+      const letterTd = document.createElement("td");
+      letterTd.className = "ct-letter";
+      letterTd.textContent = LETTERS[idx];
+      tr.appendChild(letterTd);
+
+      row.forEach((cell) => {
+        const td = document.createElement("td");
+        td.className = "ct-cell";
+        td.appendChild(renderTableCell(cell));
+        tr.appendChild(td);
+      });
+
+      tr.addEventListener("click", () => {
+        if (q.id in state.progress.answers) return;
+        const correct = idx === q.answer;
+        state.progress.answers[q.id] = { selected: idx, correct };
+        saveProgress(state.brick.id, state.mode, state.progress);
+        lockTableRows(idx, true);
+        updateScoreBadge(state, true);
+        renderPalette(state, paletteEl, jumpTo);
+      });
+
+      tbody.appendChild(tr);
+      rowEls.push(tr);
+    });
+    table.appendChild(tbody);
+    tableWrap.appendChild(table);
+    area.appendChild(tableWrap);
+
+    function lockTableRows(selectedIdx, animate) {
+      rowEls.forEach((tr, idx) => {
+        tr.classList.add("locked");
+        if (idx === q.answer) tr.classList.add("correct");
+        if (idx === selectedIdx && idx !== q.answer) tr.classList.add("incorrect", "selected");
+        if (idx === selectedIdx && idx === q.answer) tr.classList.add("selected");
+      });
+      addTableExplanations(selectedIdx, animate);
+    }
+
+    function addTableExplanations(selectedIdx, animate) {
+      const existingExp = area.querySelector(".table-explanations");
+      if (existingExp) existingExp.remove();
+      const existingFb = area.querySelector(".feedback-row");
+      if (existingFb) existingFb.remove();
+
+      const block = document.createElement("div");
+      block.className = "table-explanations";
+      if (!animate) block.style.animation = "none";
+      q.explanations.forEach((exp, idx) => {
+        const item = document.createElement("div");
+        item.className = "table-exp-item";
+        if (idx === q.answer) item.classList.add("correct");
+        if (idx === selectedIdx && idx !== q.answer) item.classList.add("incorrect");
+        const letter = document.createElement("span");
+        letter.className = "table-exp-letter";
+        letter.textContent = LETTERS[idx];
+        const text = document.createElement("span");
+        text.className = "table-exp-text";
+        text.textContent = exp;
+        item.appendChild(letter);
+        item.appendChild(text);
+        block.appendChild(item);
+      });
+      area.appendChild(block);
+
+      const row = document.createElement("div");
+      row.className = "feedback-row";
+      if (!animate) row.style.animation = "none";
+
+      const fb = document.createElement("div");
+      fb.className = "feedback-text " + (selectedIdx === q.answer ? "correct" : "incorrect");
+      fb.textContent = selectedIdx === q.answer ? "Correct" : "Incorrect";
+      row.appendChild(fb);
+
+      const isLast = state.progress.current === state.brick.questions.length - 1;
+      const allDone = state.brick.questions.every((qq) => qq.id in state.progress.answers);
+      const next = document.createElement("button");
+      next.type = "button";
+      next.id = "next-btn";
+      next.className = "btn";
+      next.textContent = isLast ? (allDone ? "View summary" : "Next unanswered") : "Next question";
+      next.addEventListener("click", advance);
+      row.appendChild(next);
+      area.appendChild(row);
+    }
+
+    if (existing) {
+      lockTableRows(existing.selected, false);
+    }
+    return;
   }
 
   const list = document.createElement("div");
@@ -492,6 +612,30 @@ function renderSummary(state, area) {
       location.reload();
     }
   });
+}
+
+function renderTableCell(token) {
+  const t = String(token).trim().toLowerCase();
+  const span = document.createElement("span");
+  if (t === "up" || t === "↑") {
+    span.className = "ct-arrow ct-up";
+    span.textContent = "↑";
+  } else if (t === "up-up" || t === "upup" || t === "↑↑") {
+    span.className = "ct-arrow ct-up";
+    span.textContent = "↑↑";
+  } else if (t === "down" || t === "↓") {
+    span.className = "ct-arrow ct-down";
+    span.textContent = "↓";
+  } else if (t === "down-down" || t === "downdown" || t === "↓↓") {
+    span.className = "ct-arrow ct-down";
+    span.textContent = "↓↓";
+  } else if (t === "unchanged" || t === "no change" || t === "—" || t === "=" || t === "-") {
+    span.className = "ct-unchanged";
+    span.textContent = "Unchanged";
+  } else {
+    span.textContent = String(token);
+  }
+  return span;
 }
 
 function escapeHtml(s) {

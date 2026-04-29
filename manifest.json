@@ -2,7 +2,7 @@
   "bricks": [
     { "id": 1, "title": "Anatomy of the Urinary System", "available": true, "modes": { "basic": true, "nbme": true } },
     { "id": 2, "title": "Development of the Urinary System", "available": true, "modes": { "basic": true, "nbme": true } },
-    { "id": 3, "title": "Congenital Disorders of the Kidney", "available": true, "modes": { "basic": true, "nbme": false } },
+    { "id": 3, "title": "Congenital Disorders of the Kidney", "available": true, "modes": { "basic": true, "nbme": true } },
     { "id": 4, "title": "Histology of the Renal Corpuscle and Renal Tubular System", "available": true, "modes": { "basic": true, "nbme": false } },
     { "id": 5, "title": "Glomerular Function", "available": true, "modes": { "basic": true, "nbme": false } },
     { "id": 6, "title": "Glomerular Filtration Rate (GFR)", "available": true, "modes": { "basic": true, "nbme": false } },
