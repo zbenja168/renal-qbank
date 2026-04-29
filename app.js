@@ -2,11 +2,17 @@
 
 const LETTERS = ["A", "B", "C", "D", "E"];
 const STORAGE_PREFIX = "renalqbank_brick_";
+const VALID_MODES = ["basic", "nbme"];
+const MODE_LABELS = { basic: "Basic", nbme: "NBME-tier" };
 
 /* ============ Storage helpers ============ */
-function loadProgress(brickId) {
+function storageKey(brickId, mode) {
+  return STORAGE_PREFIX + brickId + "_" + mode;
+}
+
+function loadProgress(brickId, mode) {
   try {
-    const raw = localStorage.getItem(STORAGE_PREFIX + brickId);
+    const raw = localStorage.getItem(storageKey(brickId, mode));
     if (!raw) return { answers: {}, current: 0 };
     const parsed = JSON.parse(raw);
     return {
@@ -18,12 +24,12 @@ function loadProgress(brickId) {
   }
 }
 
-function saveProgress(brickId, progress) {
-  localStorage.setItem(STORAGE_PREFIX + brickId, JSON.stringify(progress));
+function saveProgress(brickId, mode, progress) {
+  localStorage.setItem(storageKey(brickId, mode), JSON.stringify(progress));
 }
 
-function clearProgress(brickId) {
-  localStorage.removeItem(STORAGE_PREFIX + brickId);
+function clearProgress(brickId, mode) {
+  localStorage.removeItem(storageKey(brickId, mode));
 }
 
 function clearAllProgress() {
@@ -45,6 +51,12 @@ function progressStats(progress, total) {
   return { answered, correct, total, percent };
 }
 
+function brickFilePath(brickId, mode) {
+  return mode === "nbme"
+    ? `data/brick-${brickId}-nbme.json`
+    : `data/brick-${brickId}.json`;
+}
+
 /* ============ Home page ============ */
 async function renderHome() {
   const grid = document.getElementById("brick-grid");
@@ -63,58 +75,65 @@ async function renderHome() {
   grid.innerHTML = "";
 
   for (const brick of sorted) {
-    if (!brick.available) {
-      const card = document.createElement("div");
-      card.className = "brick-card disabled";
-      card.innerHTML = `
-        <div class="brick-card-top">
-          <span class="brick-number">Brick ${brick.id}</span>
-          <span class="brick-status">Coming soon</span>
-        </div>
-        <h3 class="brick-title">${escapeHtml(brick.title)}</h3>
-      `;
-      grid.appendChild(card);
-      continue;
-    }
-
-    const progress = loadProgress(brick.id);
-    const total = 25;
-    const stats = progressStats(progress, total);
-
-    const card = document.createElement("a");
+    const modes = brick.modes || { basic: !!brick.available, nbme: false };
+    const card = document.createElement("article");
     card.className = "brick-card";
-    card.href = `quiz.html?brick=${brick.id}`;
-
-    const statusLabel =
-      stats.answered === 0
-        ? "Not started"
-        : stats.answered === total
-        ? "Completed"
-        : `${stats.answered}/${total} answered`;
-
     card.innerHTML = `
       <div class="brick-card-top">
         <span class="brick-number">Brick ${brick.id}</span>
-        <span class="brick-status${stats.answered === total ? " completed" : ""}">${statusLabel}</span>
       </div>
       <h3 class="brick-title">${escapeHtml(brick.title)}</h3>
-      <div class="brick-progress">
-        <div class="progress-row">
-          <span>${stats.correct}/${stats.answered || 0} correct</span>
-          <span>${stats.percent === null ? "—" : stats.percent + "%"}</span>
-        </div>
-        <div class="progress-bar">
-          <div class="progress-bar-fill" style="width:${total ? (stats.answered / total) * 100 : 0}%"></div>
-        </div>
-      </div>
+      <div class="mode-buttons" data-brick-id="${brick.id}"></div>
     `;
+    const modeContainer = card.querySelector(".mode-buttons");
+
+    for (const mode of VALID_MODES) {
+      const enabled = !!modes[mode];
+      const total = 25;
+      const progress = enabled ? loadProgress(brick.id, mode) : { answers: {}, current: 0 };
+      const stats = progressStats(progress, total);
+
+      if (enabled) {
+        const link = document.createElement("a");
+        link.className = "mode-btn mode-" + mode;
+        link.href = `quiz.html?brick=${brick.id}&mode=${mode}`;
+        link.innerHTML = `
+          <div class="mode-btn-row">
+            <span class="mode-btn-label">${MODE_LABELS[mode]}</span>
+            <span class="mode-btn-stats">${
+              stats.answered === 0
+                ? "Not started"
+                : stats.answered === total
+                ? `${stats.correct}/${total} · ${stats.percent}%`
+                : `${stats.answered}/${total} · ${stats.percent === null ? "—" : stats.percent + "%"}`
+            }</span>
+          </div>
+          <div class="progress-bar">
+            <div class="progress-bar-fill" style="width:${total ? (stats.answered / total) * 100 : 0}%"></div>
+          </div>
+        `;
+        modeContainer.appendChild(link);
+      } else {
+        const placeholder = document.createElement("div");
+        placeholder.className = "mode-btn mode-" + mode + " disabled";
+        placeholder.innerHTML = `
+          <div class="mode-btn-row">
+            <span class="mode-btn-label">${MODE_LABELS[mode]}</span>
+            <span class="mode-btn-stats">Coming soon</span>
+          </div>
+          <div class="progress-bar"><div class="progress-bar-fill" style="width:0%"></div></div>
+        `;
+        modeContainer.appendChild(placeholder);
+      }
+    }
+
     grid.appendChild(card);
   }
 
   const resetBtn = document.getElementById("reset-all");
   if (resetBtn) {
     resetBtn.addEventListener("click", () => {
-      if (confirm("Reset progress for all bricks?")) {
+      if (confirm("Reset progress for all bricks (both modes)?")) {
         clearAllProgress();
         renderHome();
       }
@@ -126,10 +145,13 @@ async function renderHome() {
 async function renderQuiz() {
   const params = new URLSearchParams(window.location.search);
   const brickId = parseInt(params.get("brick"), 10);
+  const modeParam = params.get("mode");
+  const mode = VALID_MODES.includes(modeParam) ? modeParam : "basic";
   const titleEl = document.getElementById("brick-title");
   const counterEl = document.getElementById("question-counter");
   const area = document.getElementById("question-area");
   const paletteEl = document.getElementById("palette");
+  const modeBadge = document.getElementById("mode-badge");
 
   if (!brickId || isNaN(brickId)) {
     area.innerHTML = '<div class="notice">No brick selected. <a href="index.html">Back to bricks</a>.</div>';
@@ -138,19 +160,24 @@ async function renderQuiz() {
 
   let brick;
   try {
-    const res = await fetch(`data/brick-${brickId}.json`, { cache: "no-store" });
+    const res = await fetch(brickFilePath(brickId, mode), { cache: "no-store" });
     if (!res.ok) throw new Error("missing");
     brick = await res.json();
   } catch (e) {
-    area.innerHTML = '<div class="notice">This brick is not available yet. <a href="index.html">Back to bricks</a>.</div>';
+    area.innerHTML = '<div class="notice">This brick is not available yet for ' + MODE_LABELS[mode] + ' mode. <a href="index.html">Back to bricks</a>.</div>';
     return;
   }
 
   titleEl.textContent = `Brick ${brick.id}: ${brick.title}`;
+  if (modeBadge) {
+    modeBadge.textContent = MODE_LABELS[mode];
+    modeBadge.classList.add("mode-" + mode);
+  }
 
   const state = {
     brick,
-    progress: loadProgress(brick.id),
+    mode,
+    progress: loadProgress(brick.id, mode),
     lastRenderedId: null,
   };
 
@@ -159,7 +186,7 @@ async function renderQuiz() {
   }
 
   function commit() {
-    saveProgress(brick.id, state.progress);
+    saveProgress(brick.id, mode, state.progress);
   }
 
   function jumpTo(index) {
@@ -207,12 +234,11 @@ async function renderQuiz() {
     renderQuestion();
   }
 
-  // Reset brick button
   const resetBtn = document.getElementById("reset-brick");
   if (resetBtn) {
     resetBtn.addEventListener("click", () => {
-      if (confirm("Reset progress for this brick?")) {
-        clearProgress(brick.id);
+      if (confirm("Reset progress for this brick (" + MODE_LABELS[mode] + ")?")) {
+        clearProgress(brick.id, mode);
         state.progress = { answers: {}, current: 0 };
         state.lastRenderedId = null;
         commit();
@@ -224,7 +250,6 @@ async function renderQuiz() {
     });
   }
 
-  // Keyboard shortcuts
   document.addEventListener("keydown", (e) => {
     if (e.target && (e.target.tagName === "INPUT" || e.target.tagName === "TEXTAREA")) return;
     const q = brick.questions[state.progress.current];
@@ -244,15 +269,11 @@ async function renderQuiz() {
   });
 }
 
-/* Build the question DOM. If isNewQuestion, animate entrance.
-   The choices start unlocked even if previously answered, then we
-   apply locked state either immediately (no anim) or via class toggle (anim). */
 function drawQuestion(state, q, area, advance, jumpTo, paletteEl, counterEl, isNewQuestion) {
   const existing = state.progress.answers[q.id];
 
   area.innerHTML = "";
   area.classList.remove("no-anim");
-  // Force reflow + restart the entrance animation when navigating
   if (isNewQuestion) {
     void area.offsetWidth;
   } else {
@@ -264,9 +285,50 @@ function drawQuestion(state, q, area, advance, jumpTo, paletteEl, counterEl, isN
   stem.textContent = q.stem;
   area.appendChild(stem);
 
+  // Optional labs table
+  if (q.labs && Array.isArray(q.labs) && q.labs.length > 0) {
+    const labsCard = document.createElement("div");
+    labsCard.className = "labs-card";
+    const labsTitle = document.createElement("div");
+    labsTitle.className = "labs-title";
+    labsTitle.textContent = q.labs_title || "Laboratory studies";
+    labsCard.appendChild(labsTitle);
+
+    const table = document.createElement("table");
+    table.className = "labs-table";
+    const tbody = document.createElement("tbody");
+    q.labs.forEach((lab) => {
+      const tr = document.createElement("tr");
+      const tdName = document.createElement("td");
+      tdName.className = "labs-name";
+      tdName.textContent = lab.name;
+      const tdValue = document.createElement("td");
+      tdValue.className = "labs-value";
+      const flag = lab.flag === "high" ? " ↑" : lab.flag === "low" ? " ↓" : "";
+      tdValue.innerHTML = escapeHtml(lab.value) + (flag ? `<span class="labs-flag flag-${lab.flag}">${flag}</span>` : "");
+      const tdRef = document.createElement("td");
+      tdRef.className = "labs-ref";
+      tdRef.textContent = lab.ref || "";
+      tr.appendChild(tdName);
+      tr.appendChild(tdValue);
+      tr.appendChild(tdRef);
+      tbody.appendChild(tr);
+    });
+    table.appendChild(tbody);
+    labsCard.appendChild(table);
+    area.appendChild(labsCard);
+  }
+
+  // Optional diagram (raw SVG/HTML — content authored, trusted)
+  if (q.diagram) {
+    const diagramWrap = document.createElement("div");
+    diagramWrap.className = "diagram-card";
+    diagramWrap.innerHTML = q.diagram;
+    area.appendChild(diagramWrap);
+  }
+
   const list = document.createElement("div");
   list.className = "choices";
-
   const choiceButtons = [];
 
   q.choices.forEach((text, idx) => {
@@ -302,7 +364,7 @@ function drawQuestion(state, q, area, advance, jumpTo, paletteEl, counterEl, isN
       if (q.id in state.progress.answers) return;
       const correct = idx === q.answer;
       state.progress.answers[q.id] = { selected: idx, correct };
-      saveProgress(state.brick.id, state.progress);
+      saveProgress(state.brick.id, state.mode, state.progress);
       lockChoices(idx, true);
       updateScoreBadge(state, true);
       renderPalette(state, paletteEl, jumpTo);
@@ -327,13 +389,10 @@ function drawQuestion(state, q, area, advance, jumpTo, paletteEl, counterEl, isN
     };
 
     if (animate) {
-      // Defer one frame so the transition fires.
       requestAnimationFrame(apply);
     } else {
-      // Apply instantly with no animation, then restore transitions.
       area.classList.add("no-anim");
       apply();
-      // Force layout to commit the locked styles, then re-enable transitions.
       requestAnimationFrame(() => {
         requestAnimationFrame(() => area.classList.remove("no-anim"));
       });
@@ -367,7 +426,6 @@ function drawQuestion(state, q, area, advance, jumpTo, paletteEl, counterEl, isN
     area.appendChild(row);
   }
 
-  // If already answered (e.g. navigated back), apply locked state instantly.
   if (existing) {
     lockChoices(existing.selected, false);
   }
@@ -382,7 +440,7 @@ function updateScoreBadge(state, pulse) {
   if (percentEl) percentEl.textContent = stats.percent === null ? "—" : `${stats.percent}%`;
   if (pulse && badge) {
     badge.classList.remove("pulse");
-    void badge.offsetWidth; // restart animation
+    void badge.offsetWidth;
     badge.classList.add("pulse");
   }
 }
@@ -425,18 +483,17 @@ function renderSummary(state, area) {
   `;
   document.getElementById("review-btn").addEventListener("click", () => {
     state.progress.current = 0;
-    saveProgress(state.brick.id, state.progress);
+    saveProgress(state.brick.id, state.mode, state.progress);
     location.reload();
   });
   document.getElementById("restart-btn").addEventListener("click", () => {
     if (confirm("Restart this brick? This clears your answers.")) {
-      clearProgress(state.brick.id);
+      clearProgress(state.brick.id, state.mode);
       location.reload();
     }
   });
 }
 
-/* ============ Util ============ */
 function escapeHtml(s) {
   return String(s)
     .replace(/&/g, "&amp;")

@@ -10,3 +10,6 @@ Thumbs.db
 # Local logs / temp
 *.log
 .tmp/
+
+# Claude Code local working files
+.claude/

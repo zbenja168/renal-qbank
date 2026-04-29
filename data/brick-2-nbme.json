@@ -1,0 +1,488 @@
+{
+  "id": 2,
+  "title": "Development of the Urinary System",
+  "questions": [
+    {
+      "id": 1,
+      "stem": "A 32-year-old G2P1 woman presents for her routine 20-week fetal anatomy ultrasound. The sonogram demonstrates bilateral fetal renal pelvic dilation but otherwise normal anatomy. As her physician explains the embryologic origins of the urinary tract, she notes that gastrulation in week 3 of development produces three germ layers: ectoderm, mesoderm, and endoderm. The kidneys, ureters, and gonads share an origin within a specific subdivision of one of these layers. Which of the following germ-layer derivatives is the principal source of the kidneys?",
+      "choices": [
+        "Ectoderm",
+        "Endoderm",
+        "Intermediate mesoderm",
+        "Lateral plate mesoderm",
+        "Paraxial mesoderm"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Ectoderm gives rise to the epidermis and the nervous system.",
+        "Incorrect. Endoderm gives rise to the epithelial linings of the lungs, GI tract, liver, gallbladder, pancreas, and thyroid.",
+        "Correct. The kidneys arise from intermediate mesoderm, which also gives rise to the gonads.",
+        "Incorrect. Lateral plate mesoderm gives rise to the heart, blood vessels, and blood cells.",
+        "Incorrect. Paraxial mesoderm gives rise to bone, muscle, cartilage, and dermis."
+      ]
+    },
+    {
+      "id": 2,
+      "stem": "A 26-year-old graduate student is reviewing kidney embryology before an anatomy practical. He recalls that three pairs of progenitor kidneys form in a cranial-to-caudal sequence during weeks 4–8 of development, but only the most caudal of these gives rise to the permanent adult kidney. The other two structures regress. Which of the following is the embryologic structure that becomes the permanent adult kidney?",
+      "choices": [
+        "Allantois",
+        "Mesonephros",
+        "Metanephros",
+        "Pronephros",
+        "Urogenital sinus"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. The allantois is a diverticulum of the yolk sac that obliterates to form the urachus.",
+        "Incorrect. The mesonephros is the second progenitor kidney; it functions only during the first trimester and then regresses.",
+        "Correct. The metanephros is the third (most caudal) progenitor kidney and develops into the permanent adult kidney.",
+        "Incorrect. The pronephros is the first and most cranial progenitor kidney; it is rudimentary and never functions.",
+        "Incorrect. The urogenital sinus gives rise to the bladder and urethra, not the kidney parenchyma."
+      ]
+    },
+    {
+      "id": 3,
+      "stem": "A 26-week-old fetus is imaged because of maternal concerns about decreased fetal movement. The pediatric nephrologist explains to the family that during the first trimester, an embryonic kidney pair functions transiently before regressing as the permanent kidneys take over. Which of the following best describes this transiently functional structure?",
+      "choices": [
+        "Metanephros — functions in the third trimester",
+        "Mesonephros — functions during the first trimester",
+        "Pronephros — functions in early second trimester",
+        "Pronephros — gives rise to the loop of Henle",
+        "Mesonephros — forms the permanent adult kidneys"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. The metanephros develops into the permanent adult kidney; it does not transiently function and regress.",
+        "Correct. The mesonephros functions during weeks 4–8 (the first trimester) and then regresses, although the mesonephric ducts persist with important fates.",
+        "Incorrect. The pronephros never actually functions; it is rudimentary.",
+        "Incorrect. The loop of Henle is part of the metanephric nephron, not the pronephros.",
+        "Incorrect. The metanephros, not the mesonephros, forms the permanent adult kidneys."
+      ]
+    },
+    {
+      "id": 4,
+      "stem": "A second-year medical student is asked about the most cranial progenitor kidney during an embryology small-group session. She correctly identifies it as the first of the three progenitor kidneys and notes that it regresses without ever achieving function. Which of the following is the structure she is describing?",
+      "choices": [
+        "Allantois",
+        "Mesonephros",
+        "Metanephros",
+        "Pronephros",
+        "Ureteric bud"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. The allantois is a diverticulum of the yolk sac that becomes the urachus.",
+        "Incorrect. The mesonephros functions transiently during the first trimester before regressing.",
+        "Incorrect. The metanephros develops into the permanent adult kidney.",
+        "Correct. The pronephros is the first and most cranial of the three progenitor kidneys; it is rudimentary and never functions.",
+        "Incorrect. The ureteric bud is an outgrowth of the mesonephric duct that gives rise to the collecting system."
+      ]
+    },
+    {
+      "id": 5,
+      "stem": "A pathologist reviews a fetal autopsy after intrauterine demise at 22 weeks. The metanephros is composed of two principal embryologic components, and her report distinguishes between the structures derived from each. Which of the following structures is derived from the ureteric bud?",
+      "choices": [
+        "Bowman capsule",
+        "Distal convoluted tubule",
+        "Loop of Henle",
+        "Proximal convoluted tubule",
+        "Renal pelvis and major calyces"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. Bowman capsule is derived from the metanephric blastema, not the ureteric bud.",
+        "Incorrect. The distal convoluted tubule is derived from the metanephric blastema.",
+        "Incorrect. The loop of Henle is derived from the metanephric blastema.",
+        "Incorrect. The proximal convoluted tubule is derived from the metanephric blastema.",
+        "Correct. The ureteric bud gives rise to the collecting tubules, collecting ducts, minor calyces, major calyces, renal pelvis, and ureters."
+      ]
+    },
+    {
+      "id": 6,
+      "stem": "A neonate with prenatally diagnosed bilateral renal anomalies is delivered at 38 weeks. On examination, the kidneys are small and dysplastic. Histology demonstrates a paucity of mature nephrons. The components of the nephron, including Bowman capsule and the loops of Henle, are derived from which of the following embryologic structures?",
+      "choices": [
+        "Allantois",
+        "Mesonephric duct",
+        "Metanephric blastema",
+        "Ureteric bud",
+        "Urogenital sinus"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. The allantois becomes the urachus, not nephron components.",
+        "Incorrect. The mesonephric duct gives rise to the ureteric bud (and male reproductive ducts) but not nephron tubules directly.",
+        "Correct. The metanephric blastema gives rise to the nephrons, including Bowman capsule, the proximal and distal convoluted tubules, and the loop of Henle.",
+        "Incorrect. The ureteric bud gives rise to the collecting system: collecting tubules and ducts, calyces, renal pelvis, and ureters.",
+        "Incorrect. The urogenital sinus gives rise to the bladder and urethra."
+      ]
+    },
+    {
+      "id": 7,
+      "stem": "A male newborn has Potter sequence on examination, with low-set ears, pulmonary hypoplasia, and limb deformities. Postmortem evaluation confirms bilateral renal agenesis. The teacher explains that this defect arises from disruption of an intricate biochemical signaling pathway between two embryologic structures, in which growth factors from one drive differentiation of the other and vice versa. Failure of which of the following processes most directly explains the absent kidneys?",
+      "choices": [
+        "Ascent of the kidneys past the inferior mesenteric artery",
+        "Cloacal division by the urorectal septum",
+        "Obliteration of the allantois",
+        "Reciprocal induction of bud and blastema",
+        "Vascular invasion of Bowman capsule"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Failure of ascent produces a pelvic or horseshoe kidney, not renal agenesis.",
+        "Incorrect. Failure of cloacal division produces persistent cloaca or rectourethral fistula, not renal agenesis.",
+        "Incorrect. Failed allantois obliteration produces a patent urachus, not renal agenesis.",
+        "Correct. The metanephric blastema and ureteric bud interact via reciprocal induction; interruption of this pathway can result in renal agenesis (absence of one or both kidneys).",
+        "Incorrect. Failure of vascular invasion would impair glomerular formation but is not the principal cause of renal agenesis."
+      ]
+    },
+    {
+      "id": 8,
+      "stem": "A 20-week prenatal ultrasound on a male fetus demonstrates unilateral hydronephrosis with dilation of the renal pelvis but a normal-caliber ureter. Postnatal imaging confirms obstruction at the junction of the renal pelvis and ureter. Which of the following is the most common cause of prenatal hydronephrosis?",
+      "choices": [
+        "Posterior urethral valves in males",
+        "Bilateral renal agenesis",
+        "Ureteropelvic junction obstruction",
+        "Vesicoureteral reflux from ureteric ectopia",
+        "Patent urachus with bladder leak"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Posterior urethral valves can cause obstruction but are less common than UPJ obstruction as the cause of prenatal hydronephrosis.",
+        "Incorrect. Renal agenesis presents with absence of the kidney, not hydronephrosis.",
+        "Correct. Ureteropelvic junction obstruction is the most common cause of prenatal hydronephrosis, producing pelvic dilation with a normal-caliber distal ureter.",
+        "Incorrect. Vesicoureteral reflux typically causes bilateral hydroureter and hydronephrosis with bladder filling, not isolated UPJ-level obstruction.",
+        "Incorrect. A patent urachus produces urinary leakage from the umbilicus, not hydronephrosis."
+      ]
+    },
+    {
+      "id": 9,
+      "stem": "A 6-week embryo is imaged on three-dimensional ultrasound for an embryology demonstration. The metanephric kidneys are first identifiable in a region of the embryo that is not their final adult location. Where in the embryo do the metanephric kidneys first form?",
+      "choices": [
+        "Lower pelvic (sacral) region",
+        "Lower thoracic region",
+        "Mid-abdominal region near the gut",
+        "Retroperitoneal upper lumbar region",
+        "Within the connecting stalk"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. The metanephric kidneys form in the pelvic (sacral) region of the embryo before relative ascent into the upper lumbar region.",
+        "Incorrect. The kidneys do not originate in the lower thoracic region; that is approximately their final adult level.",
+        "Incorrect. The kidneys do not arise within the gut tube or its mesentery.",
+        "Incorrect. The retroperitoneal upper lumbar region is the final adult location, not the embryologic origin.",
+        "Incorrect. The connecting stalk contains the allantois, not the developing kidneys."
+      ]
+    },
+    {
+      "id": 10,
+      "stem": "An anatomy student dissects an adult cadaver and identifies the kidneys at their normal vertebral level on the posterior abdominal wall. Between which of the following vertebral levels do the adult kidneys typically lie?",
+      "choices": [
+        "L3–L5",
+        "L4–L5",
+        "T8–T10",
+        "T10–T11",
+        "T12–L3"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. L3–L5 is too caudal for normal kidney position.",
+        "Incorrect. L4–L5 is below the normal kidney range.",
+        "Incorrect. T8–T10 is too cranial; this is at the level of the diaphragm.",
+        "Incorrect. T10–T11 is too cranial for the kidneys.",
+        "Correct. The adult kidneys lie in the upper lumbar region between T12 and L3 on the posterior abdominal wall."
+      ]
+    },
+    {
+      "id": 11,
+      "stem": "A first-year medical student is confused by the term \"ascent of the kidneys.\" Her professor clarifies that the kidneys do not actively migrate upward during development—their ascent is an apparent phenomenon driven by another embryologic process. Which of the following best explains the apparent ascent of the kidneys?",
+      "choices": [
+        "Active migration of the metanephros along the mesonephric duct",
+        "Contraction of the connecting stalk pulling the kidneys cranially",
+        "Differential growth of the lumbar and sacral regions of the embryo",
+        "Pulsatile flow in the developing aorta drawing the kidneys upward",
+        "Regression of the pronephros and mesonephros pulling the kidneys"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. The metanephros does not actively migrate; ascent is relative.",
+        "Incorrect. The connecting stalk contains the allantois and does not pull the kidneys.",
+        "Correct. As the lumbar and sacral regions of the embryo elongate, the kidneys appear to ascend into the upper lumbar region in weeks 6–9, although their actual location does not change.",
+        "Incorrect. Aortic pulsation does not drive kidney position.",
+        "Incorrect. Regression of earlier progenitor kidneys does not pull the metanephros cranially."
+      ]
+    },
+    {
+      "id": 12,
+      "stem": "During the relative ascent of the kidneys in weeks 6–9, blood supply must continuously be re-established at higher and higher levels along the abdominal aorta. Which of the following best describes the fate of the transient renal arteries that form during this process?",
+      "choices": [
+        "Elongate into the final renal arteries",
+        "Form the adrenal arterial supply",
+        "Merge with renal venous tributaries",
+        "Most degenerate after the final position is reached",
+        "Persist universally as supernumerary renal arteries"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Transient renal arteries do not elongate to become the final renal arteries; new arteries form at progressively higher levels.",
+        "Incorrect. Transient renal arteries are not the principal source of the adrenal arterial supply.",
+        "Incorrect. Transient renal arteries do not merge with veins.",
+        "Correct. Once the kidneys reach their final position between T12 and L3, most transient renal arteries degenerate; only some persist as accessory renal arteries.",
+        "Incorrect. Persistence of accessory renal arteries occurs in many but not all individuals."
+      ]
+    },
+    {
+      "id": 13,
+      "stem": "A 28-year-old man undergoes CT urography for a 3-month history of recurrent right-sided flank pain. Imaging demonstrates moderate right-sided hydronephrosis with abrupt narrowing of the proximal ureter at the level of the lower pole of the kidney, where a small accessory artery crosses the ureter. The relevant artery most likely arose during which of the following embryologic events?",
+      "choices": [
+        "Failure of ureteric bud regression",
+        "Persistent transient renal artery",
+        "Persistence of the umbilical artery",
+        "Reciprocal induction by the metanephric blastema",
+        "Recanalization of the urorectal septum"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. The ureteric bud is not the source of accessory renal arteries.",
+        "Correct. Accessory renal arteries are persistent transient arteries that form during relative ascent of the kidney; they most often supply the lower pole and can compress the ureter at the ureteropelvic junction, leading to hydronephrosis.",
+        "Incorrect. The umbilical artery becomes the medial umbilical ligament; it does not give rise to accessory renal arteries.",
+        "Incorrect. Reciprocal induction governs nephron development, not the persistence of accessory vessels.",
+        "Incorrect. The urorectal septum divides the cloaca and is unrelated to accessory renal arteries."
+      ]
+    },
+    {
+      "id": 14,
+      "stem": "A 30-year-old man is evaluated for hypertension. Imaging reveals a single solitary kidney in the right hemipelvis with normal parenchyma and no other anomalies. He is otherwise well. Which of the following best describes the embryologic basis for this finding?",
+      "choices": [
+        "Failure of ascent of the metanephros",
+        "Failure of cloacal division by the urorectal septum",
+        "Failure of obliteration of the allantois",
+        "Persistence of the pronephros",
+        "Reciprocal induction failure of the ureteric bud"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. A pelvic kidney results from failure of ascent of the metanephros from its embryologic pelvic location to the upper lumbar region.",
+        "Incorrect. Failed cloacal division produces persistent cloaca or rectourethral fistula, not a pelvic kidney.",
+        "Incorrect. Failed allantois obliteration produces a patent urachus.",
+        "Incorrect. Persistence of the pronephros does not occur as a clinical entity; pelvic kidney reflects metanephric ascent failure.",
+        "Incorrect. Failure of reciprocal induction produces renal agenesis, not a pelvic but otherwise normal kidney."
+      ]
+    },
+    {
+      "id": 15,
+      "stem": "A 46-year-old man has volunteered to be a living-related kidney donor for his sibling, who has end-stage kidney disease secondary to diabetes. As part of the pretransplant evaluation, renal ultrasound demonstrates a horseshoe kidney with the lower poles fused across the midline. He is asymptomatic and has normal renal function. Which of the following best describes the embryologic basis for this finding?",
+      "labs_title": "Pretransplant evaluation",
+      "labs": [
+        { "name": "Creatinine", "value": "0.9 mg/dL", "ref": "0.7-1.3" },
+        { "name": "eGFR", "value": "98 mL/min/1.73m²", "ref": ">90" },
+        { "name": "Urinalysis", "value": "Unremarkable", "ref": "Unremarkable" }
+      ],
+      "choices": [
+        "Failure of cloacal division by the urorectal septum",
+        "Fused lower poles arrested by the IMA",
+        "Persistence of mesonephric ducts in midline",
+        "Persistent allantois with midline obliteration failure",
+        "Reciprocal induction failure of one ureteric bud"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Failure of cloacal division produces rectourinary anomalies, not a horseshoe kidney.",
+        "Correct. In a horseshoe kidney the lower poles of the two kidneys fuse early in development; the fused kidney is then blocked from further ascent by the root of the inferior mesenteric artery in the midline.",
+        "Incorrect. Mesonephric ducts give rise to male reproductive structures and the trigone but do not produce a horseshoe kidney.",
+        "Incorrect. A patent allantois produces a patent urachus, not a horseshoe kidney.",
+        "Incorrect. Reciprocal induction failure produces renal agenesis, not a horseshoe kidney."
+      ]
+    },
+    {
+      "id": 16,
+      "stem": "On the same patient with a horseshoe kidney, a vascular surgeon explains that the fused kidney could not migrate to its normal upper lumbar position because of the root of a specific midline arterial structure. Which of the following arteries blocks the ascent of a horseshoe kidney?",
+      "choices": [
+        "Celiac trunk",
+        "Common iliac artery",
+        "Inferior mesenteric artery",
+        "Median sacral artery",
+        "Superior mesenteric artery"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. The celiac trunk arises well above the level at which a horseshoe kidney is arrested.",
+        "Incorrect. The common iliac arteries are caudal to the level of arrest.",
+        "Correct. The fused horseshoe kidney is blocked from further ascent by the root of the inferior mesenteric artery in the midline.",
+        "Incorrect. The median sacral artery is not the artery that blocks ascent.",
+        "Incorrect. The superior mesenteric artery is too cranial to arrest a horseshoe kidney."
+      ]
+    },
+    {
+      "id": 17,
+      "stem": "During weeks 4 to 7 of development, a wedge of mesoderm grows downward into the cloaca and divides it into anterior and posterior compartments. Disruption of this process can lead to anomalies such as persistent cloaca or rectourethral fistulas. The embryologic structure responsible for this division is best described as which of the following?",
+      "choices": [
+        "Allantoic stalk",
+        "Mesonephric duct",
+        "Sinovaginal bulbs",
+        "Urachal remnant",
+        "Urorectal septum"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. The allantoic stalk extends into the connecting stalk and becomes the urachus; it does not divide the cloaca.",
+        "Incorrect. The mesonephric ducts give rise to the ureteric bud and the male reproductive ducts.",
+        "Incorrect. The sinovaginal bulbs contribute to the lower vagina in females.",
+        "Incorrect. The urachal remnant is the postnatal vestige of the obliterated allantois.",
+        "Correct. The urorectal septum is a wedge of mesoderm that grows downward into the cloaca during weeks 4–7 and divides it into the anterior urogenital sinus and the posterior anorectal canal."
+      ]
+    },
+    {
+      "id": 18,
+      "stem": "A 2-day-old male infant is found on prenatal ultrasound to have a midline cloacal anomaly. The pediatric urologist explains that the cloaca normally divides into two compartments, each of which has a distinct adult fate. Which of the following structures arises from the anterior compartment of the cloaca (the urogenital sinus)?",
+      "choices": [
+        "Anorectal canal",
+        "Bladder and urethra",
+        "Loop of Henle",
+        "Renal pelvis",
+        "Ureters"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. The anorectal canal arises from the posterior compartment of the cloaca.",
+        "Correct. The anterior compartment of the cloaca is the urogenital sinus, which gives rise to the urinary bladder and urethra (and in females also the lower vagina via the sinovaginal bulbs).",
+        "Incorrect. The loop of Henle is part of the metanephric nephron, derived from the metanephric blastema.",
+        "Incorrect. The renal pelvis is derived from the ureteric bud.",
+        "Incorrect. The ureters are derived from the ureteric bud, not from the cloaca."
+      ]
+    },
+    {
+      "id": 19,
+      "stem": "A medical student is reviewing the embryologic origins of structures encountered on adult abdominal anatomy. She recalls that a diverticulum of the yolk sac extending into the connecting stalk normally obliterates during fetal development, leaving a fibrous remnant in the adult. Which of the following adult structures is the obliterated remnant of this embryologic diverticulum?",
+      "choices": [
+        "Lateral umbilical ligament",
+        "Median umbilical ligament",
+        "Medial umbilical ligament",
+        "Round ligament of the liver",
+        "Suspensory ligament of the ovary"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. The lateral umbilical ligament covers the inferior epigastric vessels.",
+        "Correct. The allantois normally obliterates to form the urachus, which is represented in the adult as the median umbilical ligament running from the bladder apex to the umbilicus.",
+        "Incorrect. The medial umbilical ligaments are remnants of the obliterated umbilical arteries.",
+        "Incorrect. The round ligament of the liver (ligamentum teres hepatis) is the obliterated umbilical vein.",
+        "Incorrect. The suspensory ligament of the ovary contains the ovarian vessels and is unrelated to the urachus."
+      ]
+    },
+    {
+      "id": 20,
+      "stem": "A 3-day-old male newborn has clear yellow fluid intermittently leaking from the umbilicus, particularly when he cries. Examination shows a small umbilical defect with associated periumbilical erythema. Imaging reveals a tubular communication between the bladder dome and the umbilicus. Which of the following best describes the embryologic basis for this finding?",
+      "choices": [
+        "Failure of allantois obliteration",
+        "Failure of cloacal division",
+        "Failure of mesonephric duct degeneration",
+        "Failure of metanephric ascent",
+        "Failure of ureteric bud induction"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. When the allantois fails to obliterate, a persistent connection between the bladder dome and the umbilicus remains—a patent urachus—producing leakage of urine from the umbilicus.",
+        "Incorrect. Failed cloacal division produces persistent cloaca or rectourethral fistula, not umbilical urinary leakage.",
+        "Incorrect. Persistent mesonephric duct remnants in females produce Gartner duct cysts, not umbilical urine leakage.",
+        "Incorrect. Failed metanephric ascent produces a pelvic kidney, not a urachal anomaly.",
+        "Incorrect. Failed ureteric bud induction produces renal agenesis, not a urachal anomaly."
+      ]
+    },
+    {
+      "id": 21,
+      "stem": "A urologist performing cystoscopy on a 60-year-old man identifies the trigone on the posterior internal bladder wall, with the two ureteric orifices clearly visible at its superolateral corners. The trigone is partially derived from a different embryologic source than the rest of the bladder. Which embryologic structure contributes to the trigone?",
+      "choices": [
+        "Allantois of the urachal stalk",
+        "Anorectal canal of the cloaca",
+        "Ureteric bud of the mesonephric duct",
+        "Pronephric duct remnants",
+        "Sinovaginal bulb of female pelvis"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. The allantois forms the urachus and is not incorporated into the trigone.",
+        "Incorrect. The anorectal canal becomes the rectum and anus.",
+        "Correct. The ureteric bud (an outgrowth of the mesonephric duct) gives rise to the ureters, which are incorporated into the posterior bladder wall to form the trigone.",
+        "Incorrect. The pronephric duct does not contribute to the trigone.",
+        "Incorrect. The sinovaginal bulbs contribute to the lower vagina in females, not the trigone."
+      ]
+    },
+    {
+      "id": 22,
+      "stem": "A 31-year-old man is evaluated for primary infertility. Semen analysis demonstrates azoospermia. Imaging shows congenital bilateral absence of the vas deferens. The vas deferens, along with the seminal vesicles, epididymis, and ejaculatory duct, derives from which of the following embryologic structures?",
+      "diagram": "<div class=\"dgm-title\">Mesonephric duct fate</div><div class=\"dgm-flow\"><div class=\"dgm-row\"><span class=\"pill\">Both sexes</span><span>Mesonephric duct</span><span>→</span><span>Ureteric bud</span><span>→</span><span>collecting system</span></div><div class=\"dgm-row\"><span class=\"pill\">Males</span><span>Mesonephric duct</span><span>→</span><span>Epididymis</span><span>·</span><span>Ductus deferens</span><span>·</span><span>Seminal vesicle</span><span>·</span><span>Ejaculatory duct</span></div><div class=\"dgm-row\"><span class=\"pill\">Females</span><span>Mesonephric duct</span><span class=\"arrow-dn\">↓</span><span>regresses</span><span>·</span><span>Gartner duct cysts</span></div></div>",
+      "choices": [
+        "Allantois",
+        "Mesonephric (Wolffian) duct",
+        "Metanephric blastema",
+        "Pronephric duct",
+        "Urogenital sinus"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. The allantois becomes the urachus, not the male reproductive ducts.",
+        "Correct. In males, the mesonephric (Wolffian) ducts give rise to the epididymis, ductus deferens, seminal vesicles, and ejaculatory ducts.",
+        "Incorrect. The metanephric blastema gives rise to nephrons, not reproductive ducts.",
+        "Incorrect. The pronephric ducts regress entirely; they do not give rise to male reproductive structures.",
+        "Incorrect. The urogenital sinus gives rise to the bladder and urethra (and in females the lower vagina), not these male ducts."
+      ]
+    },
+    {
+      "id": 23,
+      "stem": "A 28-year-old woman is incidentally found on transvaginal ultrasound to have a small asymptomatic cyst along the lateral vaginal wall, within the broad ligament of the uterus. The lesion is benign and represents a remnant of an embryologic structure that mostly degenerates in females. From which of the following embryologic structures does this cyst most likely arise?",
+      "choices": [
+        "Allantois",
+        "Mesonephric duct",
+        "Metanephric blastema",
+        "Sinovaginal bulb",
+        "Urorectal septum"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. The allantois becomes the urachus; remnants are at the umbilicus, not the vagina.",
+        "Correct. In females the mesonephric ducts mostly degenerate, but their remnants form Gartner ducts, which can produce small benign cysts within the broad ligament along the vaginal wall.",
+        "Incorrect. The metanephric blastema gives rise to nephrons; it does not produce paravaginal cysts.",
+        "Incorrect. The sinovaginal bulbs contribute to the lower vagina but do not typically present as broad-ligament cysts.",
+        "Incorrect. The urorectal septum divides the cloaca and is not the source of Gartner duct cysts."
+      ]
+    },
+    {
+      "id": 24,
+      "stem": "A 19-year-old woman is evaluated for primary amenorrhea and is found to have a transverse vaginal septum at the junction between the upper and lower vagina. The two segments of the vagina arise from different embryologic sources. The lower portion of the vagina is contributed to by which of the following structures?",
+      "choices": [
+        "Anorectal canal of the cloaca",
+        "Mesonephric duct remnants",
+        "Pronephric duct of the cervical region",
+        "Urogenital sinus via sinovaginal bulbs",
+        "Urachus from the obliterated allantois"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. The anorectal canal gives rise to the rectum and anus, not the vagina.",
+        "Incorrect. The mesonephric ducts mostly degenerate in females; remnants form Gartner duct cysts.",
+        "Incorrect. The pronephric duct does not contribute to the vagina.",
+        "Correct. In females, the urogenital sinus contributes to the lower portion of the vagina through the formation of the sinovaginal bulbs.",
+        "Incorrect. The urachus is a remnant of the allantois and is not involved in vaginal development."
+      ]
+    },
+    {
+      "id": 25,
+      "stem": "A pathologist examines a 15-week fetal kidney specimen and notes invasion of the developing Bowman capsule by capillary endothelial cells. These invading cells differentiate to form which of the following structures?",
+      "choices": [
+        "Collecting ducts and tubules",
+        "Glomerular capillary tufts",
+        "Loop of Henle of the nephron",
+        "Renal columns between pyramids",
+        "Renal pelvis and major calyces"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Collecting ducts derive from the ureteric bud, not from invading vascular endothelial cells.",
+        "Correct. Vascular endothelial cells invade the region of the Bowman capsule and differentiate into the mature glomerular capillary tufts.",
+        "Incorrect. The loop of Henle is derived from the metanephric blastema.",
+        "Incorrect. Renal columns are extensions of cortical tissue between pyramids; they are not formed by invading endothelial cells.",
+        "Incorrect. The renal pelvis is derived from the ureteric bud."
+      ]
+    }
+  ]
+}
