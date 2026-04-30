@@ -1,0 +1,513 @@
+{
+  "id": 20,
+  "title": "ADH Agonists",
+  "questions": [
+    {
+      "id": 1,
+      "stem": "A 30-year-old researcher is reviewing the receptor pharmacology of vasopressin. The diagram below summarizes the three principal receptor subtypes and tissues. Which of the following best describes the receptor selectivity of DESMOPRESSIN compared with native arginine vasopressin (AVP)?",
+      "diagram": "<div class=\"dgm-title\">Vasopressin receptor pharmacology</div><div class=\"dgm-flow\"><div class=\"dgm-row\"><strong>V1a</strong> (vascular smooth muscle) → Gq → vasoconstriction</div><div class=\"dgm-row\"><strong>V1b / V3</strong> (anterior pituitary) → Gq → ACTH release</div><div class=\"dgm-row\"><strong>V2</strong> (collecting duct principal cells) → Gs → cAMP → AQP2 trafficking → water reabsorption</div><div class=\"dgm-row\">V2 also: vWF/FVIII release from endothelium (extra-renal V2 effect)</div><div class=\"dgm-row\">AVP: full agonist at V1a, V1b, V2 (short half-life ~10–30 min)</div><div class=\"dgm-row\">DDAVP: SELECTIVE V2 agonist (minimal V1) with long half-life (~3 h)</div></div>",
+      "choices": [
+        "Desmopressin is a selective V1a agonist",
+        "Desmopressin is a selective V2 agonist",
+        "Desmopressin is a non-selective V1/V2 agonist like AVP",
+        "Desmopressin is a V2 antagonist",
+        "Desmopressin lacks any vasopressin receptor activity"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. DDAVP has minimal V1 activity; AVP itself is the V1 agonist.",
+        "Correct. Desmopressin (1-deamino-8-D-arginine vasopressin, DDAVP) is a synthetic AVP analog with two key modifications: (1) selective V2 agonism (minimal V1a vasoconstrictor effect, allowing safe chronic use) and (2) longer half-life (~3 hours vs AVP ~10–30 minutes). DDAVP is the standard treatment for central DI, von Willebrand disease, mild hemophilia A, and primary nocturnal enuresis. Native AVP is reserved for septic shock (where V1a vasoconstriction is desired) and for variceal bleeding.",
+        "Incorrect. AVP is non-selective; DDAVP is V2-selective.",
+        "Incorrect. Tolvaptan is a V2 antagonist; DDAVP is an agonist.",
+        "Incorrect. DDAVP retains potent V2 agonist activity."
+      ]
+    },
+    {
+      "id": 2,
+      "stem": "A 40-year-old man with central DI is given subcutaneous desmopressin. Within 2 hours, urine output falls from 8 L/day to 2 L/day. The diagram below summarizes the V2-receptor signaling cascade. Which of the following best describes the cellular event most directly responsible for water reabsorption?",
+      "diagram": "<div class=\"dgm-title\">V2 signaling in collecting duct principal cell</div><div class=\"dgm-flow\"><div class=\"dgm-row\">DDAVP → V2 receptor (basolateral)</div><div class=\"dgm-row\">→ Gs / adenylyl cyclase → ↑ cAMP → PKA</div><div class=\"dgm-row\">→ phosphorylation of AQP2-containing vesicles</div><div class=\"dgm-row\">→ apical insertion of <strong>AQP2</strong> water channels</div><div class=\"dgm-row\">→ water enters apically (AQP2), exits basolaterally (AQP3, AQP4)</div></div>",
+      "choices": [
+        "New synthesis of AQP2 protein within minutes",
+        "Trafficking and apical insertion of preformed AQP2",
+        "Direct opening of basolateral V2 channels",
+        "Activation of apical Na+/K+-ATPase",
+        "Inhibition of NKCC2"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. AQP2 protein is preformed in vesicles; DDAVP triggers TRAFFICKING within minutes (chronic ADH does upregulate AQP2 transcription, but acute action is trafficking).",
+        "Correct. The acute V2 response is trafficking and apical insertion of preformed AQP2-containing vesicles (within minutes). PKA phosphorylates the vesicles, triggering fusion with the apical membrane. Water then flows from the lumen into the cell via AQP2 down the osmotic gradient set by the medullary interstitium, and exits basolaterally via constitutively expressed AQP3 and AQP4. Within minutes of DDAVP withdrawal, AQP2 is endocytosed back into vesicles, returning water permeability to baseline. Chronic ADH does upregulate AQP2 gene transcription over hours to days, but the acute antidiuretic effect is trafficking-driven.",
+        "Incorrect. V2 is a GPCR, not a channel; it does not directly open.",
+        "Incorrect. Na+/K+-ATPase activation is not the principal effect.",
+        "Incorrect. NKCC2 is not the V2 target."
+      ]
+    },
+    {
+      "id": 3,
+      "stem": "A 32-year-old woman with central DI from a craniopharyngioma is being initiated on chronic desmopressin therapy. Which of the following is the most appropriate route and dosing regimen for outpatient management?",
+      "choices": [
+        "IV bolus three times daily",
+        "Single oral dose monthly",
+        "Intranasal or oral DDAVP 1–2 times daily, titrated",
+        "Continuous IV infusion at home",
+        "No chronic therapy is necessary"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. IV is reserved for hospital settings or acute breakthrough.",
+        "Incorrect. Once-monthly dosing is too infrequent.",
+        "Correct. Outpatient DDAVP for chronic central DI is given as intranasal spray (typically 10–40 µg 1–2 times daily) or oral tablet (0.1–0.4 mg 1–3 times daily). Sublingual melt and SC injection are alternatives. Dosing is titrated to allow 1–2 hours of breakthrough water diuresis daily (usually scheduled before bedtime to avoid nocturia and again midmorning) — preventing accumulation of free water and water intoxication. Patients are educated about water intake matching thirst, recognizing signs of hyponatremia (headache, nausea, confusion), and dose adjustment during illness or extreme exertion.",
+        "Incorrect. Continuous IV infusion is not feasible for outpatient DI.",
+        "Incorrect. Untreated central DI causes severe polyuria and hypernatremia."
+      ]
+    },
+    {
+      "id": 4,
+      "stem": "A 55-year-old man with septic shock is started on IV vasopressin (0.03 units/min) in addition to norepinephrine after MAP remains <65 mm Hg despite high-dose pressors. Which of the following best characterizes the mechanism of vasopressin's hemodynamic effect in septic shock?",
+      "choices": [
+        "V2 receptor activation in vasculature",
+        "V1a receptor-mediated arterial vasoconstriction",
+        "Direct β1 cardiac stimulation",
+        "Catecholamine release from sympathetic nerves",
+        "Inhibition of nitric oxide synthase"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. V2 receptors are in collecting duct, not principal vascular target.",
+        "Correct. Vasopressin's hemodynamic effect in septic shock is mediated by V1a receptors on vascular smooth muscle (Gq-coupled, raising IP3/DAG/Ca2+), producing arterial vasoconstriction. In septic shock, endogenous vasopressin levels are paradoxically LOW (relative deficiency due to depleted neurohypophyseal stores after initial release), and exogenous vasopressin (or selepressin, a more selective V1a agonist) restores vascular tone. The VASST trial (NEJM 2008) showed vasopressin added to norepinephrine reduced mortality in less-severe septic shock; current Surviving Sepsis Campaign guidelines recommend adding vasopressin to norepinephrine when MAP target is not achieved. Typical dose: 0.03 units/min (NOT titrated as a primary vasopressor).",
+        "Incorrect. Vasopressin does not directly stimulate cardiac β1.",
+        "Incorrect. Vasopressin acts directly on V1a, not via sympathetic release.",
+        "Incorrect. NOS inhibition is not the mechanism."
+      ]
+    },
+    {
+      "id": 5,
+      "stem": "A 12-year-old with type 1 von Willebrand disease has bleeding gums and bruising. The physician administers IV desmopressin and bleeding improves dramatically within 30 minutes. Which of the following best explains the mechanism by which DDAVP improves hemostasis?",
+      "choices": [
+        "Direct platelet activation by DDAVP",
+        "V2-mediated release of vWF and factor VIII from endothelium",
+        "DDAVP synthesizes new factor VIII",
+        "DDAVP inhibits the fibrinolytic pathway",
+        "DDAVP causes vasoconstriction at the bleeding site"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. DDAVP does not directly activate platelets.",
+        "Correct. DDAVP releases von Willebrand factor (vWF) and factor VIII from endothelial Weibel-Palade bodies via V2 receptor activation (an extra-renal V2 effect). Within 30–60 minutes, plasma vWF and FVIII levels rise 3–5×, supporting platelet adhesion and the intrinsic clotting cascade. Indications: type 1 von Willebrand disease (most common, mild-moderate); mild hemophilia A; uremic platelet dysfunction; some platelet function disorders. Limitations: tachyphylaxis after 24–48 hours of repeated dosing (depletes endothelial stores); ineffective in type 3 vWD (severe, no vWF to release) and most cases of type 2 vWD (qualitatively abnormal vWF). Major adverse effect: hyponatremia from V2-mediated antidiuretic action — fluid restriction is recommended for 24 hours after dose.",
+        "Incorrect. DDAVP releases stored factor VIII; it does not synthesize new protein.",
+        "Incorrect. DDAVP does not inhibit fibrinolysis.",
+        "Incorrect. DDAVP does not produce local vasoconstriction (no V1a effect)."
+      ]
+    },
+    {
+      "id": 6,
+      "stem": "A 9-year-old boy with primary nocturnal enuresis (bedwetting most nights despite normal daytime continence) has not responded to behavioral interventions. The pediatrician prescribes oral desmopressin at bedtime. Which of the following best explains the use of DDAVP in primary nocturnal enuresis?",
+      "choices": [
+        "DDAVP increases bladder capacity directly",
+        "DDAVP inhibits bladder smooth muscle contraction",
+        "Bedtime DDAVP reduces nocturnal urine production",
+        "DDAVP corrects underlying ADH deficiency in all enuretics",
+        "DDAVP has psychological placebo effect"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. DDAVP does not directly affect bladder capacity.",
+        "Incorrect. DDAVP does not act on bladder smooth muscle.",
+        "Correct. Primary nocturnal enuresis is associated with reduced nocturnal ADH secretion in some children (failure to develop the normal nocturnal rise in ADH that concentrates urine and reduces overnight production). Bedtime DDAVP supplements this, reducing nocturnal urine volume and bedwetting. Effect is symptomatic and lasts only as long as therapy is given; behavioral interventions (alarm therapy) provide longer-lasting cure. Major caution: severe hyponatremia and seizures reported with DDAVP in children, especially with excessive bedtime fluid intake — fluid restriction in the evening is essential. FDA REMOVED the intranasal formulation from approval for enuresis in 2007 due to hyponatremia events; oral formulation remains approved.",
+        "Incorrect. Not all enuretics have ADH deficiency; many have other contributors.",
+        "Incorrect. DDAVP has demonstrated pharmacologic, not placebo, effect."
+      ]
+    },
+    {
+      "id": 7,
+      "stem": "A 60-year-old man with cirrhosis presents with bleeding esophageal varices. The physician initiates IV terlipressin (a vasopressin analog) as part of management. Which of the following best characterizes the mechanism of terlipressin in variceal bleeding?",
+      "choices": [
+        "V2-mediated water reabsorption to reduce portal volume",
+        "V1a-mediated splanchnic vasoconstriction reducing portal flow",
+        "Direct platelet activation",
+        "Direct closure of varix with chemical sclerosis",
+        "Inhibition of fibrinolysis"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. V2 effect is renal water retention, not portal flow reduction.",
+        "Correct. Vasopressin analogs (terlipressin, octapressin, native vasopressin) reduce variceal bleeding by V1a-mediated SPLANCHNIC ARTERIAL VASOCONSTRICTION, reducing portal blood flow and pressure. Terlipressin is a long-acting prodrug (releases lysine vasopressin slowly) with a more favorable safety profile than native vasopressin (less ischemic risk). Used in acute variceal bleeding alongside endoscopic band ligation and antibiotics. Not approved in the US (octreotide, a somatostatin analog with similar mechanism, is used instead) but widely used in Europe. Terlipressin also has a role in hepatorenal syndrome — V1a-mediated splanchnic vasoconstriction redistributes blood from the splanchnic to renal circulation. Adverse effects: ischemic complications (digital, mesenteric, cardiac), hyponatremia, bradycardia.",
+        "Incorrect. Terlipressin does not activate platelets.",
+        "Incorrect. Sclerotherapy is a separate endoscopic procedure.",
+        "Incorrect. Terlipressin does not principally affect fibrinolysis."
+      ]
+    },
+    {
+      "id": 8,
+      "stem": "A 35-year-old woman with central DI from postpartum Sheehan syndrome is admitted for stabilization and DDAVP titration. After 24 hours of intranasal DDAVP, laboratory studies are shown.",
+      "labs": [
+        { "name": "Plasma sodium", "value": "139 mEq/L (was 158)", "flag": "", "ref": "—" },
+        { "name": "Plasma osmolality", "value": "285 mOsm/kg (was 318)", "flag": "", "ref": "—" },
+        { "name": "Urine osmolality", "value": "640 mOsm/kg (was 95)", "flag": "high", "ref": "—" },
+        { "name": "Urine output", "value": "2.5 L/day (was 9 L/day)", "flag": "", "ref": "—" },
+        { "name": "Plasma copeptin", "value": "Suppressed (low)", "flag": "low", "ref": "—" }
+      ],
+      "choices": [
+        "DDAVP is not effective in this patient",
+        "Effective DDAVP treatment of central DI",
+        "Worsening central DI",
+        "Development of nephrogenic DI",
+        "Onset of SIADH"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. The labs show robust improvement: Na+ normalized, Uosm rose dramatically, urine output halved.",
+        "Correct. Effective DDAVP treatment of central DI: (1) plasma sodium normalizes (158→139); (2) plasma osmolality normalizes (318→285); (3) urine osmolality rises dramatically (95→640) reflecting AQP2-mediated water reabsorption in the collecting duct; (4) urine output falls (9→2.5 L/day); (5) plasma copeptin is suppressed (DDAVP-induced volume expansion suppresses endogenous secretion). The pattern confirms intact V2 receptor and AQP2 machinery — DDAVP supplements the missing endogenous ADH. Continued monitoring required to prevent over-treatment leading to hyponatremia.",
+        "Incorrect. The lab pattern shows improvement, not worsening.",
+        "Incorrect. NDI would not respond to DDAVP; this patient responded.",
+        "Incorrect. SIADH features endogenous over-secretion of ADH; this patient is on exogenous DDAVP."
+      ]
+    },
+    {
+      "id": 9,
+      "stem": "A 28-year-old man with central DI on chronic intranasal DDAVP develops headache, nausea, and confusion 3 days into a viral gastroenteritis with continued fluid intake. Plasma sodium is 122 mEq/L. Which of the following best explains the hyponatremia?",
+      "choices": [
+        "Pseudohyponatremia from gastroenteritis",
+        "Translational hyponatremia from glucose",
+        "DDAVP-induced water intoxication during illness",
+        "Acute SIADH from CNS infection",
+        "Cerebral salt wasting"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. No lab artifact described; the Na+ is truly low.",
+        "Incorrect. No hyperglycemia described.",
+        "Correct. The most important adverse effect of DDAVP therapy is HYPONATREMIA from water intoxication. DDAVP-induced AQP2 trafficking causes free water reabsorption regardless of plasma osmolality; if water intake exceeds the (now-suppressed) renal free water excretion capacity, plasma Na+ falls. RISK FACTORS: illness with continued fluid intake despite suppressed urine output, scheduled DDAVP without breakthrough water diuresis, elderly patients, children using DDAVP for enuresis, perioperative period. Severe hyponatremia (Na+ <125 with neurologic symptoms) requires hospitalization, hold DDAVP, fluid restriction, and possibly hypertonic saline if seizing. PATIENT EDUCATION: drink to thirst (not on schedule), recognize signs of hyponatremia, hold DDAVP if developing breakthrough polyuria during illness.",
+        "Incorrect. SIADH from CNS infection is possible but the temporal pattern after DDAVP and gastroenteritis points to drug-induced water retention.",
+        "Incorrect. CSW would feature hypovolemia and renal Na+ wasting; this patient is more likely euvolemic."
+      ]
+    },
+    {
+      "id": 10,
+      "stem": "A 68-year-old woman receiving high-dose IV vasopressin (0.06 units/min) for catecholamine-refractory septic shock develops abdominal pain, distention, and bloody stools. CT shows segmental small bowel ischemia. Which of the following best explains this complication?",
+      "choices": [
+        "V2-mediated mesenteric vasodilation",
+        "V1a-mediated splanchnic vasoconstriction at high doses",
+        "Direct toxicity to enterocytes",
+        "Anaphylactic reaction to vasopressin",
+        "Mesenteric thromboembolism"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. V2 effects are renal/endothelial; do not cause mesenteric vasodilation in this context.",
+        "Correct. Mesenteric ischemia is a recognized complication of vasopressin therapy at higher doses. The mechanism is V1a-mediated splanchnic vasoconstriction; while the same mechanism is therapeutic in variceal bleeding (intentional reduction of portal flow), in shock states it can compromise mesenteric perfusion to the point of ischemia and infarction. Risk factors: high-dose vasopressin (>0.04 units/min, sometimes used as 'rescue' dose), prolonged use, pre-existing atherosclerosis, low cardiac output. The Surviving Sepsis Campaign generally caps vasopressin at 0.03 units/min for this reason. Other ischemic complications: digital ischemia/gangrene, cardiac (especially in CAD patients), cutaneous (skin necrosis at infusion sites). Recognition requires withdrawal or dose reduction; emergent surgical evaluation if frank ischemia.",
+        "Incorrect. Vasopressin is not directly toxic to enterocytes.",
+        "Incorrect. Anaphylaxis would feature urticaria, hypotension, bronchospasm — not segmental ischemia.",
+        "Incorrect. Thromboembolism would have a different imaging pattern and clinical course."
+      ]
+    },
+    {
+      "id": 11,
+      "stem": "A 70-year-old man with chronic atrial fibrillation on warfarin develops dark, ischemic patches on the fingertips while receiving IV vasopressin (0.04 units/min) for septic shock. Which of the following best characterizes this complication?",
+      "choices": [
+        "Anticoagulant-induced skin necrosis",
+        "Digital ischemia from V1a vasoconstriction",
+        "Septic embolism",
+        "Disseminated intravascular coagulation",
+        "Calciphylaxis"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Warfarin-induced skin necrosis typically affects fatty tissue (breast, thighs, abdomen) early in therapy, not fingertips during sepsis.",
+        "Correct. Digital ischemia is a recognized complication of vasopressin and other potent vasopressors in shock. The mechanism is V1a-mediated peripheral vasoconstriction (combined with reduced cardiac output and microcirculatory dysfunction in sepsis). Risk factors: high-dose or prolonged vasopressin, peripheral vascular disease, pre-existing Raynaud-like phenomena, concurrent norepinephrine. Recognition requires careful examination; reversible if recognized early; can progress to gangrene and amputation if continued. Strategies to minimize risk: lowest effective dose; central administration; monitor extremities; consider lowering or weaning when MAP target achieved. Other recognized vasopressor-related skin complications: extravasation necrosis, acrocyanosis.",
+        "Incorrect. Septic emboli would typically produce more patchy, asymmetric findings.",
+        "Incorrect. DIC would feature broader microvascular thrombosis, lab evidence (low platelets, low fibrinogen, elevated D-dimer).",
+        "Incorrect. Calciphylaxis affects ESRD patients and presents with painful violaceous lesions, typically not on fingertips during acute sepsis."
+      ]
+    },
+    {
+      "id": 12,
+      "stem": "A 30-year-old researcher is comparing AVP, DDAVP, and terlipressin for clinical use. Which row in the table best characterizes the comparison of receptor selectivity and clinical application?",
+      "choice_table": {
+        "headers": ["Receptor selectivity", "Half-life", "Principal indication"],
+        "rows": [
+          ["V1a + V1b + V2 (non-selective)", "Short (~10–30 min)", "Septic shock; variceal bleeding"],
+          ["V2-selective", "~3 h", "Central DI; vWD; hemophilia A; enuresis"],
+          ["V1a-predominant prodrug", "Long (~6 h)", "Variceal bleeding; HRS"],
+          ["V2 ANTAGONIST", "~6 h", "SIADH; ADPKD"],
+          ["V1a antagonist", "Variable", "Experimental"]
+        ]
+      },
+      "choices": ["A (vasopressin)", "B (desmopressin)", "C (terlipressin)", "D (tolvaptan)", "E (experimental V1 antagonist)"],
+      "answer": 0,
+      "explanations": [
+        "Correct (for AVP). Native arginine vasopressin: non-selective at V1a, V1b, and V2 receptors; short half-life (~10–30 min) requiring continuous IV infusion for sustained effect; principal indications are septic shock (V1a vasoconstriction restoring arterial tone) and variceal bleeding (V1a splanchnic vasoconstriction reducing portal flow). Continuous IV infusion required.",
+        "Incorrect for AVP. Row B describes DESMOPRESSIN (V2-selective).",
+        "Incorrect for AVP. Row C describes TERLIPRESSIN (V1a-predominant long-acting prodrug used in variceal bleeding and HRS).",
+        "Incorrect for AVP. Row D describes TOLVAPTAN (V2 antagonist; opposite class from agonist).",
+        "Incorrect for AVP. Row E describes experimental V1 antagonists."
+      ]
+    },
+    {
+      "id": 13,
+      "stem": "A 45-year-old man with end-stage renal disease has uremic platelet dysfunction and presents with severe nasal bleeding refractory to local measures. The hematologist administers IV desmopressin. Which of the following best characterizes DDAVP for uremic bleeding?",
+      "choices": [
+        "DDAVP corrects underlying renal failure",
+        "DDAVP releases vWF/FVIII improving uremic platelet function",
+        "DDAVP directly activates clotting factors",
+        "DDAVP destroys uremic toxins",
+        "DDAVP increases platelet count"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. DDAVP does not affect renal function.",
+        "Correct. Uremic platelet dysfunction (defective platelet adhesion and aggregation due to circulating uremic toxins) responds to DDAVP via V2-mediated release of vWF and factor VIII from endothelial Weibel-Palade bodies — increasing the local concentration of vWF available for platelet adhesion at sites of injury. Effect onset within 30 minutes, duration 4–8 hours; tachyphylaxis after repeat dosing (depletes stores). Other treatments for uremic bleeding: dialysis (removes uremic toxins), cryoprecipitate (provides vWF), conjugated estrogens (longer-lasting effect), erythropoietin/red cell transfusion (improves platelet-vessel interaction at higher hematocrit). Major DDAVP risk: hyponatremia from V2-mediated water retention.",
+        "Incorrect. DDAVP releases stored proteins; it does not directly activate clotting factors.",
+        "Incorrect. DDAVP does not destroy uremic toxins.",
+        "Incorrect. DDAVP does not increase platelet count."
+      ]
+    },
+    {
+      "id": 14,
+      "stem": "A 58-year-old man with cirrhosis has hepatorenal syndrome (rising creatinine, oliguria, low urinary Na+ in setting of advanced liver disease). The team adds IV terlipressin and albumin. Which of the following best explains the mechanism of terlipressin in HRS?",
+      "choices": [
+        "Direct dilation of renal afferent arterioles",
+        "V1a-mediated splanchnic vasoconstriction redistributing blood to kidneys",
+        "Diuretic effect lowering BUN",
+        "Direct hepatic regeneration",
+        "Vasodilation of all systemic vessels"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Terlipressin does not directly dilate renal arterioles.",
+        "Correct. HRS pathophysiology centers on splanchnic vasodilation (driven by NO, glucagon, and other mediators in advanced cirrhosis), which reduces effective arterial volume and triggers intense renal vasoconstriction (RAAS, SNS, ADH activation), producing functional renal failure. Terlipressin (a V1a-predominant analog) reverses this by inducing splanchnic vasoconstriction, redistributing blood from the splanchnic to systemic and renal circulation, raising effective arterial volume, and reversing the renal vasoconstriction. Combined with IV albumin (also raises effective arterial volume), terlipressin produces ~30–50% response rate in HRS-1 (CONFIRM trial). FDA approved terlipressin for HRS in 2022. Adverse effects: ischemic events (mesenteric, digital, cardiac); fluid overload; hyponatremia. Norepinephrine is an alternative with similar mechanism.",
+        "Incorrect. Terlipressin does not have diuretic action.",
+        "Incorrect. Terlipressin does not regenerate hepatic tissue.",
+        "Incorrect. Terlipressin causes vasoconstriction (not dilation) and is selective for splanchnic and peripheral circulation."
+      ]
+    },
+    {
+      "id": 15,
+      "stem": "A 28-year-old woman with severe type 1 von Willebrand disease is scheduled for tooth extraction. The hematologist administers IV desmopressin 30 minutes before the procedure. Which of the following best characterizes this preoperative use?",
+      "choices": [
+        "DDAVP prevents postoperative hyponatremia",
+        "DDAVP raises vWF/FVIII levels for hemostasis",
+        "DDAVP inhibits dental enamel breakdown",
+        "DDAVP provides analgesia",
+        "DDAVP is given for sedation"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. DDAVP can CAUSE hyponatremia, not prevent it.",
+        "Correct. Preoperative DDAVP is a well-established strategy for type 1 vWD (and mild hemophilia A) before procedures with bleeding risk: dental extractions, minor surgery, lumbar puncture, peripheral nerve block. DDAVP raises plasma vWF and FVIII 3–5× within 30–60 minutes of IV administration. Procedure timing: give DDAVP 30 minutes preoperatively; effect lasts 6–8 hours; can be repeated but tachyphylaxis after 24–48 hours. POSTOPERATIVE PRECAUTIONS: fluid restriction for 24 hours after dose to prevent hyponatremia (especially if IV fluids continue); monitor Na+ in prolonged use. Type 3 vWD (severe, no vWF) and most type 2 (qualitatively abnormal) do NOT respond to DDAVP — require vWF/FVIII concentrate.",
+        "Incorrect. DDAVP does not affect dental enamel.",
+        "Incorrect. DDAVP is not analgesic.",
+        "Incorrect. DDAVP is not a sedative."
+      ]
+    },
+    {
+      "id": 16,
+      "stem": "A 38-year-old woman in her 28th week of pregnancy develops polyuria of 5 L/day with hypernatremia. Plasma osmolality 305, urine osmolality 80, no response to deprivation, but ROBUST response to DDAVP. Which of the following best explains the disease and the response to DDAVP?",
+      "choices": [
+        "Permanent central DI from a pituitary mass",
+        "Transient central DI from placental vasopressinase, treated with DDAVP",
+        "Nephrogenic DI from pregnancy",
+        "Primary polydipsia of pregnancy",
+        "SIADH"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. The presentation in late pregnancy with resolution mechanism points to vasopressinase, not a permanent mass.",
+        "Correct. Late pregnancy can produce TRANSIENT CENTRAL DI from placental vasopressinase (cysteine aminopeptidase), which accelerates degradation of native ADH. Women with marginal posterior pituitary function (e.g., subclinical Sheehan, partial hypopituitarism) cannot compensate; symptomatic central DI develops. DDAVP is RESISTANT to vasopressinase (the modified amino acid backbone) and is therefore effective — this is a key clinical advantage of DDAVP in pregnancy. Native vasopressin would be ineffective due to rapid degradation. Transient DI typically resolves within 4–6 weeks postpartum as vasopressinase clears. Recognition allows targeted DDAVP therapy without exposure to native ADH (which has V1a effects on the uterus that could be unsafe in pregnancy).",
+        "Incorrect. NDI would not respond to DDAVP.",
+        "Incorrect. Primary polydipsia features hyponatremia.",
+        "Incorrect. SIADH features hyponatremia and concentrated urine."
+      ]
+    },
+    {
+      "id": 17,
+      "stem": "A 45-year-old man with central DI is being considered for a route of DDAVP administration. Which of the following best characterizes the comparison of DDAVP routes?",
+      "choices": [
+        "Oral DDAVP has 100% bioavailability",
+        "Intranasal DDAVP has near-100% bioavailability",
+        "Intranasal DDAVP has higher bioavailability than oral",
+        "Oral DDAVP is preferred for acute postoperative DI",
+        "All routes are absolutely equivalent in pharmacokinetics"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Oral DDAVP bioavailability is only ~5%.",
+        "Incorrect. Intranasal bioavailability is ~10–20%, not near-100%.",
+        "Correct. DDAVP routes differ markedly in bioavailability: SC/IV ~100%; intranasal ~10–20%; oral ~5%; sublingual melt similar to oral. Dose reflects the bioavailability differences (typical doses: 1–4 µg IV/SC; 10–40 µg intranasal; 0.1–0.4 mg oral). Onset is faster with parenteral (~30 min) and intranasal (~1 hour) than oral (~2 hours). Choice of route depends on patient preference, severity, age (oral preferred in children to reduce hyponatremia risk), nasal pathology (avoid intranasal in chronic rhinitis), and acute vs chronic setting (parenteral for acute postoperative DI; oral or intranasal for outpatient maintenance).",
+        "Incorrect. Acute postoperative DI is typically managed parenterally for predictable absorption.",
+        "Incorrect. Routes differ in bioavailability and onset."
+      ]
+    },
+    {
+      "id": 18,
+      "stem": "A 60-year-old man on day 5 after transsphenoidal pituitary surgery has had urine output 8 L/day on POD 2 (treated with DDAVP), then 1 L/day on POD 4 (DDAVP held), and now 7 L/day on POD 5. The team explains the 'triphasic response.' Which of the following best characterizes the second phase?",
+      "choices": [
+        "Phase 2 is permanent central DI",
+        "Phase 2 is acute kidney injury",
+        "Phase 2 is transient SIADH from stored ADH release",
+        "Phase 2 is hyperglycemic osmotic diuresis",
+        "Phase 2 is recovery to normal"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Permanent central DI characterizes phase 3, not phase 2.",
+        "Incorrect. AKI does not produce this oscillating pattern.",
+        "Correct. The triphasic response after pituitary or hypothalamic surgery: PHASE 1 (DI, days 1–4) — surgical injury reduces ADH secretion; PHASE 2 (transient SIADH, days 5–7) — degenerating ADH-secreting neurons release stored ADH, producing inappropriate water retention and hyponatremia (urine output FALLS, plasma Na+ falls); PHASE 3 (permanent DI, after day 7) — cell loss is sustained, polyuria and hypernatremia return permanently in some patients. Recognition is critical: continued DDAVP during phase 2 produces dangerous hyponatremia. Management: hold DDAVP during phase 2; close electrolyte and urine output monitoring; resume DDAVP if phase 3 emerges. Some patients have only transient phase 1 (no permanent DI) or progress directly to phase 3 without intervening SIADH.",
+        "Incorrect. No glucose abnormality described.",
+        "Incorrect. Phase 2 features oversecretion of ADH (transient SIADH), not normal recovery."
+      ]
+    },
+    {
+      "id": 19,
+      "stem": "A 65-year-old man with refractory septic shock is receiving high-dose norepinephrine and 0.03 units/min vasopressin. The team is considering selepressin (a selective V1a agonist) as an investigational alternative. Which of the following best distinguishes selepressin from native vasopressin?",
+      "choices": [
+        "Selepressin is a V2-selective agonist",
+        "Selepressin is a non-selective vasopressin antagonist",
+        "Selepressin is V1a-selective with minimal V2 activity",
+        "Selepressin is a corticosteroid",
+        "Selepressin is a nitric oxide donor"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Selepressin is V1a-selective; DDAVP is V2-selective.",
+        "Incorrect. Selepressin is an agonist, not antagonist.",
+        "Correct. Selepressin is a SELECTIVE V1a agonist developed for septic shock. Theoretical advantage over native vasopressin: V1a-mediated vasoconstriction without V2-mediated water retention (which can contribute to fluid overload and worse outcomes in sepsis). The SEPSIS-ACT trial (2019) compared selepressin to placebo in catecholamine-refractory shock; did NOT show superiority over standard care, and selepressin is not currently approved. Conceptually, V1a-selective agents represent an attempt to refine the favorable hemodynamic effect of vasopressin while avoiding the negative water-retentive effects. Non-selective vasopressin remains standard.",
+        "Incorrect. Selepressin is a vasopressin analog, not corticosteroid.",
+        "Incorrect. Selepressin causes vasoconstriction; NO donors cause vasodilation."
+      ]
+    },
+    {
+      "id": 20,
+      "stem": "A 50-year-old woman on chronic intranasal DDAVP for central DI has had stable Na+ for years. After repeat dosing during a procedural day, she develops new headache and confusion 8 hours later. Plasma sodium is 128 mEq/L. Which of the following best characterizes the appropriate management?",
+      "choices": [
+        "Increase DDAVP dose for symptom relief",
+        "Hold DDAVP and free water restriction",
+        "Hypertonic saline as initial therapy",
+        "Furosemide alone",
+        "Continue DDAVP and rehydrate with D5W"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Increasing DDAVP would worsen the hyponatremia.",
+        "Correct. The most common cause of moderate hyponatremia in a DDAVP-treated patient is OVER-TREATMENT with continued water intake. Management: hold DDAVP (allow breakthrough water diuresis to correct excess); free water restriction (≤800 mL/day); monitor Na+ frequently. For severely symptomatic hyponatremia (seizure, coma), hypertonic 3% saline boluses may be needed. Since the hyponatremia is iatrogenic and recently developed (acute), correction can be relatively rapid (low ODS risk in acute setting), but standard limits (≤8 mEq/L/24h in chronic, possibly faster in acute) still apply. Long-term: review DDAVP timing and dose, re-educate on fluid intake, aim for 1–2 hours of breakthrough water diuresis per day.",
+        "Incorrect. Hypertonic saline is reserved for severely symptomatic; this patient has confusion which is mild-moderate severity.",
+        "Incorrect. Furosemide alone could worsen things by triggering further DDAVP-driven water retention.",
+        "Incorrect. Continued DDAVP and free water both worsen hyponatremia."
+      ]
+    },
+    {
+      "id": 21,
+      "stem": "A 32-year-old woman with central DI is concerned about the pregnancy implications of her DDAVP therapy. Which of the following best characterizes DDAVP in pregnancy?",
+      "choices": [
+        "DDAVP is contraindicated in pregnancy",
+        "DDAVP is preferred over native vasopressin in pregnancy because it resists placental vasopressinase",
+        "DDAVP causes uterine contraction at clinical doses",
+        "Pregnancy itself cures central DI",
+        "Native vasopressin should be used instead in pregnancy"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. DDAVP is widely used in pregnancy when central DI requires treatment.",
+        "Correct. DDAVP is the agent of choice for treating central DI during pregnancy because it is RESISTANT to placental vasopressinase (cysteine aminopeptidase that degrades native ADH and can produce or worsen DI in late pregnancy). DDAVP also has minimal V1a activity, avoiding any risk of uterine contraction that native AVP could produce. Doses may need to be increased modestly during pregnancy due to physiologic changes in volume and renal handling. DDAVP is FDA category B in pregnancy. Recognition: pregnant women with central DI may need DDAVP dose escalation in late pregnancy; transient pregnancy-induced DI in patients with marginal pituitary function responds to DDAVP and resolves postpartum.",
+        "Incorrect. DDAVP has minimal V1a effect; native AVP could cause uterine contraction.",
+        "Incorrect. Pregnancy can WORSEN central DI (placental vasopressinase) but does not cure it.",
+        "Incorrect. Native vasopressin is more rapidly degraded by placental vasopressinase and has uterine V1 effects."
+      ]
+    },
+    {
+      "id": 22,
+      "stem": "A 45-year-old man with bleeding from severe type 1 vWD has received DDAVP twice within 24 hours, and the hematologist is now considering a third dose. Which of the following best characterizes the principal limitation of repeat DDAVP dosing for hemostasis?",
+      "choices": [
+        "Risk of severe hyperkalemia",
+        "Tachyphylaxis from depleted endothelial stores",
+        "Cumulative cardiotoxicity",
+        "Anaphylactic shock risk on second dose",
+        "Hepatotoxicity risk"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. DDAVP does not principally cause hyperkalemia.",
+        "Correct. DDAVP releases vWF and factor VIII from endothelial Weibel-Palade body STORES; these stores deplete after repeat dosing within 24–48 hours, producing TACHYPHYLAXIS — diminished response to subsequent doses. Practical implications: DDAVP is most useful for acute bleeding episodes or short procedures (effect for 6–8 hours), with limited usefulness for prolonged surgeries or recurrent bleeds. For prolonged needs, switch to vWF/factor VIII concentrate. Stores typically replete after 48–72 hours of no DDAVP. Other DDAVP limitations: hyponatremia from V2-driven water retention (limit fluids); ineffective in type 3 vWD and most type 2 vWD; relatively contraindicated in moderate-severe hemophilia A (use factor VIII concentrate instead).",
+        "Incorrect. DDAVP is not principally cardiotoxic.",
+        "Incorrect. Anaphylaxis to DDAVP is rare.",
+        "Incorrect. DDAVP is not principally hepatotoxic."
+      ]
+    },
+    {
+      "id": 23,
+      "stem": "A 28-year-old researcher is studying the V2 receptor's extra-renal effects. Which of the following correctly identifies a recognized extra-renal action of V2 stimulation?",
+      "choices": [
+        "Vasoconstriction of arterial smooth muscle",
+        "ACTH release from anterior pituitary",
+        "Endothelial release of vWF and factor VIII",
+        "Bronchoconstriction",
+        "Cardiac contractility increase"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Vasoconstriction is V1a-mediated.",
+        "Incorrect. ACTH release is V1b-mediated.",
+        "Correct. Endothelial cells express V2 receptors that, when activated by ADH or DDAVP, cause release of vWF and factor VIII from Weibel-Palade bodies. This extra-renal V2 action is the basis for DDAVP's hemostatic use in von Willebrand disease, mild hemophilia A, uremic platelet dysfunction, and as preoperative prophylaxis in mild bleeding disorders. Other extra-renal V2 effects: tissue plasminogen activator (tPA) release contributes to a transient procoagulant–profibrinolytic balance that explains why DDAVP is helpful for bleeding without producing a marked thrombotic state.",
+        "Incorrect. Bronchoconstriction is not a V2 effect.",
+        "Incorrect. Cardiac inotropy is not a V2 effect."
+      ]
+    },
+    {
+      "id": 24,
+      "stem": "A 70-year-old woman with refractory septic shock is on norepinephrine 1.0 µg/kg/min and IV vasopressin 0.03 units/min. The team is considering whether to titrate vasopressin higher. Which of the following best characterizes the recommended dose ceiling for vasopressin in septic shock?",
+      "choices": [
+        "Titrate vasopressin to MAP target without ceiling",
+        "Cap vasopressin at ~0.03–0.04 units/min",
+        "Cap vasopressin at 1 unit/min",
+        "Use vasopressin only as bolus, not infusion",
+        "Vasopressin has no role in septic shock"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Vasopressin is generally used at a fixed low dose, not titrated like catecholamines.",
+        "Correct. In septic shock, vasopressin is typically used at a FIXED LOW DOSE (~0.03 units/min, sometimes up to 0.04) rather than titrated to MAP. The rationale: (1) low-dose vasopressin (replacement-like) restores vascular tone in vasopressin-deficient septic shock without significant adverse effects; (2) HIGH-DOSE vasopressin (≥0.04 units/min) is associated with increased ischemic complications (mesenteric, digital, cardiac) without proportional benefit; (3) the VASST trial (NEJM 2008) used 0.03 units/min and showed mortality reduction in less-severe shock when added to norepinephrine. Surviving Sepsis Campaign guidelines: add vasopressin (0.03 units/min) when norepinephrine cannot achieve MAP ≥65; do NOT use vasopressin as the initial pressor. If still inadequate, consider hydrocortisone, more norepinephrine, or other adjuncts — not higher vasopressin.",
+        "Incorrect. 1 unit/min is far above safe limits.",
+        "Incorrect. Continuous infusion is the standard route.",
+        "Incorrect. Vasopressin is class IIa recommended in catecholamine-refractory septic shock."
+      ]
+    },
+    {
+      "id": 25,
+      "stem": "A 6-year-old child with nocturnal enuresis is being prescribed oral desmopressin. Which of the following is the most important parental counseling point?",
+      "choices": [
+        "Take DDAVP only with juice",
+        "Take DDAVP only on weekends",
+        "Restrict fluid intake from 1 hour before bedtime through the night",
+        "Give DDAVP with breakfast",
+        "DDAVP must be discontinued in summer"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Juice does not affect DDAVP absorption.",
+        "Incorrect. Sporadic dosing reduces effectiveness.",
+        "Correct. The most important counseling point for pediatric DDAVP is FLUID RESTRICTION around bedtime to prevent water intoxication and hyponatremia. DDAVP-induced AQP2 trafficking causes free water reabsorption regardless of plasma osmolality; if the child drinks a large volume in the evening, the kidney cannot excrete it, and plasma Na+ falls. Severe hyponatremia and seizures have been reported with DDAVP in children, prompting FDA removal of the intranasal formulation from the enuresis indication in 2007 (oral remains approved). Practical guidance: no fluid intake from 1 hour before bedtime through the night; smaller doses on warm/exercise days; discontinue and contact provider if breakthrough polyuria, headache, or vomiting develops. Long-term: behavioral interventions (alarm therapy) provide more durable benefit than DDAVP.",
+        "Incorrect. Bedtime dosing is preferred for nocturnal enuresis.",
+        "Incorrect. DDAVP is not seasonally restricted, but heat/exercise may require dose reduction."
+      ]
+    },
+    {
+      "id": 26,
+      "stem": "A 58-year-old man receiving high-dose IV vasopressin for severe sepsis develops new bilateral pulmonary infiltrates and hypoxia. Echocardiogram shows preserved LV function but elevated estimated pulmonary artery pressure. Which of the following best characterizes vasopressin-related pulmonary effects?",
+      "choices": [
+        "Direct alveolar epithelial toxicity",
+        "Pulmonary vasoconstriction at high doses",
+        "Transfusion-related acute lung injury",
+        "Vasopressin-induced bronchospasm",
+        "Negative inotropy with pulmonary edema"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Vasopressin is not a direct epithelial toxin.",
+        "Correct. Vasopressin can produce PULMONARY VASOCONSTRICTION at higher doses, mediated by V1a receptors on pulmonary vascular smooth muscle. This raises pulmonary artery pressure, can precipitate right ventricular strain, and may contribute to V/Q mismatch and hypoxemia. Risk factors: high-dose vasopressin (>0.04 units/min), pre-existing pulmonary hypertension, RV dysfunction, ARDS. Clinical implication: cap vasopressin at low doses; consider RV-protective strategies (lower PEEP, inhaled NO or epoprostenol if pulmonary HTN) if respiratory deterioration develops; switch to V1a-selective agent (selepressin, investigational) or other adjunct.",
+        "Incorrect. TRALI requires recent transfusion; not described.",
+        "Incorrect. Vasopressin does not principally cause bronchospasm.",
+        "Incorrect. The echocardiogram shows preserved LV function."
+      ]
+    }
+  ]
+}

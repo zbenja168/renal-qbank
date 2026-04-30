@@ -1,0 +1,529 @@
+{
+  "id": 19,
+  "title": "Hypernatremia",
+  "questions": [
+    {
+      "id": 1,
+      "stem": "A 30-year-old researcher is reviewing the framework for hypernatremia. The diagram below summarizes the principal pathways. Which of the following best describes the cardinal mechanism of hypernatremia?",
+      "diagram": "<div class=\"dgm-title\">Hypernatremia — water deficit relative to Na+</div><div class=\"dgm-flow\"><div class=\"dgm-row\">Hypernatremia = water DEFICIT relative to Na+ (TBNa+ may be ↓, normal, or ↑)</div><div class=\"dgm-row\">Hypovolemic: water + Na+ loss (water > Na+) — GI, sweat, osmotic diuresis</div><div class=\"dgm-row\">Euvolemic: pure water loss — DI (central or nephrogenic), insensible losses</div><div class=\"dgm-row\">Hypervolemic: Na+ gain &gt; water gain — hypertonic saline, salt poisoning, NaHCO3</div><div class=\"dgm-row\">Defense: hypothalamic thirst (intact thirst + water access prevents hypernatremia)</div></div>",
+      "choices": [
+        "Sodium retention by aldosterone excess",
+        "Water deficit relative to sodium",
+        "Free water gain dilutes total body solute",
+        "Renal sodium wasting",
+        "Pseudohypernatremia from lab artifact"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Aldosterone excess produces hypertension and hypokalemia but rarely hypernatremia (water follows Na+).",
+        "Correct. Hypernatremia is fundamentally a problem of water deficit relative to sodium. Total body sodium can be low (hypovolemic), normal (euvolemic), or high (hypervolemic), but the common feature is that water is deficient. Intact thirst with water access is the primary defense — so hypernatremia almost always requires impaired thirst (elderly, dementia, sedation, intubation, infants) or lack of water access.",
+        "Incorrect. Free water gain produces hypoNATREMIA, not hypernatremia.",
+        "Incorrect. Renal sodium wasting produces volume contraction, not hypernatremia.",
+        "Incorrect. There is no analogous lab artifact for hypernatremia (pseudohyponatremia involves lipid/protein effects on Na+ measurement)."
+      ]
+    },
+    {
+      "id": 2,
+      "stem": "A 75-year-old nursing home resident is found to have plasma sodium 168 mEq/L on routine labs. She is alert and oriented, with no neurologic symptoms. Her caregiver reports the lab value has been chronically elevated over weeks. A 30-year-old man with acute hypertonic saline overdose develops Na+ 158 and is comatose. Which of the following best explains the difference in symptom severity at similar sodium values?",
+      "choices": [
+        "Younger patients have more severe symptoms",
+        "Acute vs chronic brain osmotic adaptation",
+        "Differences in cerebrospinal fluid pressure",
+        "Differential aldosterone effects",
+        "Higher blood urea in chronic hypernatremia"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Age is not the principal determinant; chronicity is.",
+        "Correct. In CHRONIC hypernatremia (>48 hours), brain cells accumulate idiogenic osmoles (organic osmolytes — myo-inositol, glutamine, taurine) and inorganic ions to raise intracellular osmolality and defend brain volume against the elevated ECF osmolality. This adaptation prevents brain shrinkage and reduces symptoms despite high plasma Na+. ACUTE hypernatremia: brain has not adapted, so cells shrink rapidly, producing severe symptoms (confusion, seizure, intracranial hemorrhage from torn bridging veins). Critical clinical implication: rapid correction of CHRONIC hypernatremia can cause cerebral edema (water shifts INTO osmole-loaded brain cells faster than the osmoles can be extruded).",
+        "Incorrect. CSF pressure is not the principal determinant.",
+        "Incorrect. Aldosterone is not the principal mechanism.",
+        "Incorrect. BUN is not the explanation."
+      ]
+    },
+    {
+      "id": 3,
+      "stem": "A 65-year-old man has plasma sodium 158 mEq/L. The clinician follows the diagnostic algorithm shown below. After confirming hypernatremia, what is the appropriate next step in classification?",
+      "diagram": "<div class=\"dgm-title\">Hypernatremia — diagnostic algorithm</div><div class=\"dgm-flow\"><div class=\"dgm-row\">1. Confirm Na+ &gt;145 mEq/L</div><div class=\"dgm-row\">2. Assess volume status (hypovolemic / euvolemic / hypervolemic)</div><div class=\"dgm-row\">3. Measure urine osmolality and urine Na+</div><div class=\"dgm-row\">→ Uosm &gt;700: extra-renal water loss or low water intake</div><div class=\"dgm-row\">→ Uosm 300–700: partial DI or osmotic diuresis</div><div class=\"dgm-row\">→ Uosm &lt;300: complete DI (central or nephrogenic)</div></div>",
+      "choices": [
+        "Empirically begin desmopressin",
+        "Empirically infuse hypertonic saline",
+        "Assess volume status",
+        "Order MRI of pituitary",
+        "Initiate dialysis"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Desmopressin is empiric only after central DI is established.",
+        "Incorrect. Hypertonic saline would worsen hypernatremia.",
+        "Correct. After confirming hypernatremia, the next branch of the algorithm is volume status, which divides etiologies into hypovolemic (water + Na+ loss with water > Na+: GI, sweat, osmotic diuresis), euvolemic (pure water loss: DI, insensible loss), and hypervolemic (Na+ gain > water gain: hypertonic saline, salt poisoning, sodium bicarbonate). Urine osmolality and urine sodium then refine the diagnosis.",
+        "Incorrect. MRI is reserved for established central DI workup.",
+        "Incorrect. Dialysis is rarely needed for hypernatremia."
+      ]
+    },
+    {
+      "id": 4,
+      "stem": "An 89-year-old nursing home resident with advanced Alzheimer disease is admitted with confusion. Her water pitcher and food tray have been kept on the far side of the room and are reportedly untouched for 3 days. She is bedbound and dependent for ADLs. Plasma sodium is 164 mEq/L. Which of the following best explains her hypernatremia?",
+      "choices": [
+        "Inappropriate ADH secretion",
+        "Aldosterone excess",
+        "Inability to access water",
+        "Renal sodium retention",
+        "Excess dietary sodium intake"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. SIADH would produce hyponatremia, not hypernatremia.",
+        "Incorrect. Aldosterone excess produces hypertension and hypokalemia.",
+        "Correct. Hypernatremia in this patient is driven by impaired water access. The hypothalamic thirst response is preserved in most elderly patients (though blunted), but bedbound, demented, sedated, restrained, or intubated patients cannot act on thirst. This 'inability to access water' explains the majority of hypernatremia in nursing home and hospitalized populations. The kidney is producing maximally concentrated urine but cannot replace the deficit without input. Recognition prompts attention to fluid access, free water through feeding tubes, and family/caregiver education.",
+        "Incorrect. Renal Na+ retention is not the mechanism.",
+        "Incorrect. Excess Na+ intake is uncommon in this scenario."
+      ]
+    },
+    {
+      "id": 5,
+      "stem": "A 6-month-old infant has profuse watery diarrhea (8 stools/day) for 3 days. He is lethargic with sunken fontanelles and decreased skin turgor. Laboratory studies are shown.",
+      "labs": [
+        { "name": "Serum sodium", "value": "158 mEq/L", "flag": "high", "ref": "—" },
+        { "name": "Serum osmolality", "value": "330 mOsm/kg", "flag": "high", "ref": "—" },
+        { "name": "Urine osmolality", "value": "780 mOsm/kg", "flag": "high", "ref": "—" },
+        { "name": "Urine output", "value": "Decreased", "flag": "low", "ref": "—" },
+        { "name": "Volume status", "value": "Markedly hypovolemic", "flag": "low", "ref": "—" },
+        { "name": "BUN:creatinine ratio", "value": "Elevated", "flag": "high", "ref": "—" }
+      ],
+      "choices": [
+        "Diabetes insipidus (central or nephrogenic)",
+        "Excess sodium administration",
+        "Hypotonic GI fluid loss exceeding water intake",
+        "Osmotic diuresis from hyperglycemia",
+        "Mineralocorticoid excess"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. DI features dilute urine; this infant's urine is concentrated (780).",
+        "Incorrect. There is no history of Na+ administration.",
+        "Correct. Infant diarrhea fluid is HYPOTONIC to plasma (Na+ ~50–60 mEq/L), so each liter lost removes more water than Na+ proportionally. Without adequate water replacement, plasma Na+ rises. The kidney responds appropriately with concentrated urine (high Uosm, low urine output) and BUN:Cr elevation reflecting volume depletion. Treatment: gradual rehydration with hypotonic or isotonic fluid; correction limit ≤10–12 mEq/L per 24 hours to avoid cerebral edema. WHO oral rehydration solutions are first-line.",
+        "Incorrect. Hyperglycemia would feature glucosuria and would be detected on labs.",
+        "Incorrect. Mineralocorticoid excess produces hypertension, not pediatric diarrheal hypernatremia."
+      ]
+    },
+    {
+      "id": 6,
+      "stem": "A 30-year-old construction worker labors outdoors in 40°C heat for 8 hours with limited water intake. He presents with confusion, dry mucous membranes, and tachycardia. Plasma sodium is 156 mEq/L; urine osmolality is 920 mOsm/kg. Which of the following best characterizes the mechanism of his hypernatremia?",
+      "choices": [
+        "Central diabetes insipidus from heat stroke",
+        "Nephrogenic DI from heat injury",
+        "Insensible sweat losses exceeding water intake",
+        "Salt poisoning from sports drinks",
+        "Iatrogenic hypertonic fluid administration"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Heat stroke does not principally cause central DI; the lab pattern shows concentrated urine (intact ADH).",
+        "Incorrect. Nephrogenic DI features dilute urine; this patient's urine is concentrated.",
+        "Correct. Sweat is hypotonic (Na+ ~30–60 mEq/L), so prolonged sweating with inadequate water replacement removes more water than salt, raising plasma Na+. The kidney response is appropriate (Uosm 920 reflects maximal ADH-driven water reabsorption). Recognition: hypovolemic hypernatremia from hypotonic insensible loss with water-only or no replacement. Treatment: gradual rehydration; isotonic saline initially if hemodynamically unstable, then transition to hypotonic fluid; correction ≤10 mEq/L per 24h.",
+        "Incorrect. Sports drinks are hypotonic and don't cause salt poisoning.",
+        "Incorrect. No iatrogenic hypertonic fluids described."
+      ]
+    },
+    {
+      "id": 7,
+      "stem": "A 26-year-old man recovering from transsphenoidal pituitary surgery for a craniopharyngioma develops urine output of 8–10 L/day starting on postoperative day 2. Laboratory studies are shown.",
+      "labs": [
+        { "name": "Plasma sodium", "value": "152 mEq/L", "flag": "high", "ref": "—" },
+        { "name": "Plasma osmolality", "value": "310 mOsm/kg", "flag": "high", "ref": "—" },
+        { "name": "Urine osmolality", "value": "85 mOsm/kg", "flag": "low", "ref": "—" },
+        { "name": "Urine output", "value": "9 L/day", "flag": "high", "ref": "—" },
+        { "name": "Urine osm 1 h post-DDAVP", "value": "650 mOsm/kg", "flag": "", "ref": "—" }
+      ],
+      "choices": [
+        "Nephrogenic diabetes insipidus",
+        "Central diabetes insipidus",
+        "Primary polydipsia",
+        "Osmotic diuresis from glucose",
+        "Cerebral salt wasting"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Nephrogenic DI fails to respond to DDAVP; this patient's urine osm rose dramatically (85→650).",
+        "Correct. Central DI from surgical disruption of posterior pituitary. The water deprivation and DDAVP test pattern is diagnostic: hypernatremia + dilute urine (Uosm 85) confirms inappropriate inability to concentrate; the >50% rise after DDAVP confirms intact V2/AQP2 machinery and locates the lesion at ADH secretion. Postoperative DI is common after pituitary surgery and may follow a 'triphasic' course (DI → transient SIADH from neuronal cell death and stored ADH release → permanent DI). Treatment: desmopressin; close electrolyte monitoring during the SIADH phase.",
+        "Incorrect. Primary polydipsia features hyponatremia (water dilution), not hypernatremia.",
+        "Incorrect. Osmotic diuresis features moderate Uosm (~300) with high solute load; this patient has dilute urine without glucose.",
+        "Incorrect. CSW features hypovolemic hyponatremia from renal Na+ wasting; this patient has hypernatremia."
+      ]
+    },
+    {
+      "id": 8,
+      "stem": "A 38-year-old man with bipolar disorder on chronic lithium for 12 years presents with polyuria of 7 L/day. Plasma sodium is 150 mEq/L; urine osmolality is 95 mOsm/kg even after water deprivation; desmopressin produces no rise in urine osmolality. Which of the following best explains the mechanism of his polyuria?",
+      "choices": [
+        "Lithium directly destroys principal cells",
+        "Lithium impairs AQP2 trafficking via ENaC entry",
+        "Lithium displaces ADH from the V2 receptor",
+        "Lithium enhances apical AQP2 endocytosis only",
+        "Lithium causes central rather than nephrogenic DI"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Lithium does not principally destroy cells; the lesion is functional.",
+        "Correct. Lithium-induced nephrogenic DI is the most common acquired NDI in adults (~40% of patients on chronic lithium). Lithium enters collecting duct principal cells via apical ENaC (handled like Na+), accumulates intracellularly, inhibits glycogen synthase kinase-3β, and downregulates AQP2 expression and trafficking. Chronic lithium also produces histologic tubulointerstitial changes. The water deprivation/DDAVP pattern is diagnostic: failure to concentrate AND no response to DDAVP. Treatment: discontinue lithium if possible; amiloride blocks ENaC and prevents lithium uptake (allows continued lithium use); thiazide produces paradoxical antidiuresis via volume contraction.",
+        "Incorrect. Lithium does not displace ADH from V2.",
+        "Incorrect. The principal mechanism is broader (AQP2 expression and trafficking), not exclusively endocytosis.",
+        "Incorrect. Lithium causes nephrogenic DI; the kidney does not respond to DDAVP."
+      ]
+    },
+    {
+      "id": 9,
+      "stem": "A 70-year-old woman with metastatic breast cancer has a serum calcium of 13.5 mg/dL and presents with polyuria of 5 L/day and plasma sodium of 152 mEq/L. Which of the following best explains the mechanism of hypercalcemia-induced polyuria and hypernatremia?",
+      "choices": [
+        "Hypercalcemia stimulates ADH secretion",
+        "Hypercalcemia activates the calcium-sensing receptor",
+        "Hypercalcemia destroys collecting duct cells directly",
+        "Hypercalcemia causes central DI by pituitary infiltration",
+        "Hypercalcemia increases ADH degradation"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Hypercalcemia does not stimulate ADH; it impairs renal response.",
+        "Correct. Hypercalcemia activates the calcium-sensing receptor (CaSR) at two key sites: (1) basolateral membrane of collecting duct principal cells — CaSR activation inhibits adenylyl cyclase, reducing cAMP-driven AQP2 trafficking (acquired nephrogenic DI); (2) basolateral membrane of thick ascending limb — CaSR activation reduces NKCC2 activity, impairing the medullary osmotic gradient. Chronic hypercalcemia also downregulates AQP2 expression. Polyuria + hypernatremia results. Correcting hypercalcemia restores concentrating ability over days to weeks.",
+        "Incorrect. The mechanism is functional, not destructive.",
+        "Incorrect. Hypercalcemia does not cause central DI.",
+        "Incorrect. Hypercalcemia does not increase ADH degradation."
+      ]
+    },
+    {
+      "id": 10,
+      "stem": "A 68-year-old man with chronic diarrhea and severe hypokalemia (K+ 2.4 mEq/L) develops polyuria with plasma sodium 150 mEq/L and urine osmolality 195 mOsm/kg. Which of the following best explains the mechanism of his polyuria?",
+      "choices": [
+        "Hypokalemia stimulates ADH secretion",
+        "Hypokalemia destroys principal cells",
+        "Hypokalemia downregulates AQP2 expression",
+        "Hypokalemia causes central DI",
+        "Hypokalemia activates AQP2 endocytosis exclusively"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Hypokalemia does not principally stimulate ADH; the issue is renal responsiveness.",
+        "Incorrect. The lesion is functional, not destructive.",
+        "Correct. Severe chronic hypokalemia produces an acquired nephrogenic DI through downregulation of AQP2 expression in collecting duct principal cells, intracellular acidosis from the reduced K+ gradient impairing AQP2 trafficking, and reduced NKCC2 activity in the TAL impairing the medullary osmotic gradient. Polyuria is typically modest (2–4 L/day) and resolves with K+ replacement, often slowly (days to weeks). Common settings: chronic diarrhea, diuretics, Bartter/Gitelman, primary hyperaldosteronism.",
+        "Incorrect. Hypokalemia causes nephrogenic, not central, DI.",
+        "Incorrect. The principal effect is multifactorial, not exclusively endocytosis."
+      ]
+    },
+    {
+      "id": 11,
+      "stem": "A 22-year-old man with newly diagnosed type 1 diabetes presents in DKA with plasma glucose 720 mg/dL and plasma sodium 154 mEq/L (after correction for hyperglycemia). Laboratory studies are shown.",
+      "labs": [
+        { "name": "Plasma glucose", "value": "720 mg/dL", "flag": "high", "ref": "—" },
+        { "name": "Plasma sodium (measured)", "value": "144 mEq/L", "flag": "", "ref": "—" },
+        { "name": "Plasma sodium (corrected for glucose)", "value": "154 mEq/L", "flag": "high", "ref": "—" },
+        { "name": "Plasma osmolality", "value": "330 mOsm/kg", "flag": "high", "ref": "—" },
+        { "name": "Urine glucose", "value": "Markedly elevated", "flag": "high", "ref": "—" },
+        { "name": "Urine output", "value": "5–6 L/day for 4 days", "flag": "high", "ref": "—" }
+      ],
+      "choices": [
+        "Central DI from cerebral edema",
+        "Glucose-induced osmotic diuresis with water > Na+ loss",
+        "Lithium-induced NDI",
+        "SIADH from acute illness",
+        "Heat stroke physiology"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Cerebral edema is a complication of DKA, not the cause of polyuria.",
+        "Correct. Hyperglycemia at glucose >180 mg/dL exceeds the proximal tubule's reabsorption capacity (Tm-glucose). Excess filtered glucose remains luminal and acts as an osmotic agent (analogous to mannitol), drawing water with it. The diuresis loses MORE water than Na+ — over days, this produces volume depletion AND hypernatremia (after correction for the translational hyponatremic effect of hyperglycemia itself). Each gram of glucose excreted obligately removes ~14 mL of water. Treatment: insulin (corrects hyperglycemia and stops the diuresis) PLUS isotonic fluid resuscitation; transition to hypotonic fluids as glucose falls and Na+ reveals itself.",
+        "Incorrect. Lithium NDI requires lithium exposure.",
+        "Incorrect. SIADH causes hyponatremia, not hypernatremia.",
+        "Incorrect. Heat stroke is not the mechanism in DKA."
+      ]
+    },
+    {
+      "id": 12,
+      "stem": "A 65-year-old woman with cerebral edema is treated with IV mannitol 1 g/kg every 6 hours for 3 days. Plasma sodium has risen from 140 to 158 mEq/L. Which of the following best explains the mannitol-induced hypernatremia?",
+      "choices": [
+        "Mannitol stimulates ADH release",
+        "Mannitol causes osmotic diuresis with disproportionate water loss",
+        "Mannitol activates renal Na+ retention",
+        "Mannitol crosses the cell membrane and dehydrates cells directly",
+        "Mannitol triggers central DI"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Mannitol does not principally stimulate ADH.",
+        "Correct. Mannitol is an osmotic agent that retains water in the tubular lumen and produces obligate water diuresis. Each liter of mannitol-driven urine loses more water than Na+ proportionally (mannitol pulls water osmotically without proportional Na+). Sustained therapy depletes total body water faster than total body Na+, producing hypernatremia. Acute mannitol boluses initially cause translational HYPOnatremia (water shifts from cells), but prolonged dosing tilts the balance toward hypernatremia. Monitoring serum Na+ and osmolality is essential during repeated dosing.",
+        "Incorrect. Mannitol does not principally activate renal Na+ retention.",
+        "Incorrect. Mannitol does not cross cell membranes; the osmotic gradient is sustained at the cell membrane.",
+        "Incorrect. Mannitol does not trigger central DI."
+      ]
+    },
+    {
+      "id": 13,
+      "stem": "A 70-year-old man suffers cardiac arrest and receives 8 ampules of sodium bicarbonate (8 × 50 mEq Na+ = 400 mEq Na+ in concentrated solution) during a prolonged code. After ROSC, his plasma sodium is 160 mEq/L. Which of the following best explains his hypernatremia?",
+      "choices": [
+        "Salt poisoning from oral intake",
+        "Iatrogenic hypertonic Na+ administration",
+        "Adrenal insufficiency from cardiac arrest",
+        "Central DI from hypoxic injury",
+        "SIADH from CNS injury"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. The patient is intubated; oral salt intake is irrelevant.",
+        "Correct. Hypertonic sodium bicarbonate (8.4% NaHCO3 solution contains ~1 mEq/mL Na+ at osmolality ~2000 mOsm/L) administered during prolonged codes can produce hypervolemic hypernatremia. Total body Na+ is increased; total body water may be unchanged or modestly reduced; plasma Na+ rises. Other iatrogenic causes: hypertonic 3% saline, sodium-containing antibiotics (ticarcillin, penicillin G in high doses), and sodium phosphate enemas. Treatment: stop the offending agent; free water replacement (oral, NG, or IV D5W); diuretic to remove the excess Na+ if needed.",
+        "Incorrect. Adrenal insufficiency would feature hyponatremia and hyperkalemia.",
+        "Incorrect. Central DI is unlikely after standard cardiac arrest; the temporal pattern points to NaHCO3.",
+        "Incorrect. SIADH causes hyponatremia."
+      ]
+    },
+    {
+      "id": 14,
+      "stem": "A 55-year-old man with severe traumatic brain injury and elevated intracranial pressure receives IV 3% hypertonic saline as part of ICP management. After 48 hours of continuous infusion, plasma sodium has risen from 142 to 158 mEq/L. The team continues the saline because ICP is now controlled. Which of the following best characterizes hypertonic saline-induced hypernatremia in this setting?",
+      "choices": [
+        "Iatrogenic but UNINTENDED hypernatremia",
+        "Iatrogenic but DELIBERATE hypernatremia",
+        "Spontaneous nephrogenic DI",
+        "Adrenal crisis from TBI",
+        "SIADH from cerebral injury"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Hypertonic saline in TBI is given DELIBERATELY to raise plasma osmolality and reduce brain water; the 'hypernatremia' is intended.",
+        "Correct. Hypertonic saline is used in elevated ICP to RAISE plasma osmolality and create an osmotic gradient that draws water OUT of brain across the intact BBB, reducing brain volume and ICP. Target plasma Na+ is typically 145–155 (sometimes higher). The hypernatremia is therapeutic, not iatrogenic harm. Monitoring: plasma Na+ every 4–6 hours; avoid Na+ >160 (no additional benefit, increasing risk of complications); slow weaning to avoid rebound cerebral edema. Mannitol is an alternative osmotic agent.",
+        "Incorrect. NDI features dilute urine; not described.",
+        "Incorrect. Adrenal crisis features hyponatremia.",
+        "Incorrect. SIADH causes hyponatremia."
+      ]
+    },
+    {
+      "id": 15,
+      "stem": "A 2-year-old child is brought to the emergency department after the parents added several teaspoons of salt to her formula by mistake (intended sugar). She is irritable with seizure activity. Plasma sodium is 178 mEq/L. Which of the following best characterizes salt poisoning?",
+      "choices": [
+        "Hypervolemic hypernatremia from rapid Na+ ingestion",
+        "Hypovolemic hypernatremia from salt-induced diuresis",
+        "Euvolemic hypernatremia from DI",
+        "Pseudohypernatremia from elevated lipids",
+        "Hyperaldosteronism from stress"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Salt poisoning (accidental in young children, intentional/abusive in some cases) produces ACUTE hypervolemic hypernatremia. Rapid salt ingestion exceeds the kidney's excretory capacity; total body Na+ rises faster than water can be retained, and plasma osmolality rises sharply. Acute hypernatremia (no time for brain osmolyte adaptation) produces severe symptoms — seizures, intracranial bleeding from torn bridging veins as brain shrinks. Treatment: D5W or hypotonic fluid for free water replacement; loop diuretic to enhance Na+ excretion; correction limited to ≤10–12 mEq/L per 24h to avoid cerebral edema. Acute Na+ rises CAN tolerate slightly faster correction (no osmolyte adaptation) but caution remains.",
+        "Incorrect. The picture is hypervolemic from Na+ ingestion, not hypovolemic.",
+        "Incorrect. Euvolemic DI features dilute urine; not described.",
+        "Incorrect. There is no analogous pseudohypernatremia in this scenario.",
+        "Incorrect. Stress aldosterone is not the mechanism."
+      ]
+    },
+    {
+      "id": 16,
+      "stem": "A 60-year-old man on day 7 after transsphenoidal pituitary tumor resection has had erratic plasma sodium values: Na+ 154 on POD 2, Na+ 138 on POD 4, Na+ 156 on POD 7. Urine output has paralleled the changes (high → low → high). Which of the following best characterizes the postoperative course?",
+      "choices": [
+        "Triphasic response to pituitary surgery",
+        "Acute kidney injury",
+        "Recurrent salt poisoning",
+        "Reset osmostat",
+        "Cerebral salt wasting"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. The 'triphasic response' to pituitary or hypothalamic surgery: (1) PHASE 1 (DI, days 1–4) — surgical injury to ADH-secreting neurons reduces ADH, producing polyuria and hypernatremia; (2) PHASE 2 (transient SIADH, days 5–7) — degenerating neurons release stored ADH, producing inappropriate water retention and hyponatremia; (3) PHASE 3 (permanent DI, after day 7) — cell loss is sustained, polyuria and hypernatremia return permanently in some patients. Recognition is crucial: phase 2 patients on continued DDAVP develop dangerous hyponatremia. Management requires close electrolyte monitoring and DDAVP dose adjustment based on the phase. Some patients have only phase 1 (transient) or only phase 3 (permanent without intervening SIADH).",
+        "Incorrect. AKI does not produce this triphasic Na+ pattern.",
+        "Incorrect. Salt poisoning is not recurrent.",
+        "Incorrect. Reset osmostat is stable, not biphasic/triphasic.",
+        "Incorrect. CSW would produce hyponatremia with hypovolemia, not the alternating pattern."
+      ]
+    },
+    {
+      "id": 17,
+      "stem": "A 50-year-old woman is being evaluated for polyuria of 6 L/day. Water deprivation test results are shown. Compared with reference patterns for various disorders, which row best matches her results?",
+      "choice_table": {
+        "headers": ["Plasma osm baseline", "Urine osm after deprivation", "Urine osm after DDAVP"],
+        "rows": [
+          ["High (~310)", "Low (~150)", "High (rises &gt;50%, to ~700)"],
+          ["High (~310)", "Low (~150)", "Low (no rise, &lt;10%)"],
+          ["Low-normal", "High (&gt;500)", "High (no further rise)"],
+          ["Mid-range (~290)", "Mid-range (300–500)", "Modest rise (10–50%)"],
+          ["Normal", "High (700–1200)", "High (essentially same)"]
+        ]
+      },
+      "choices": ["A", "B", "C", "D", "E"],
+      "answer": 0,
+      "explanations": [
+        "Correct (assuming her results match this row). Row A is the classical CENTRAL DI pattern: high baseline plasma osmolality (from water loss), failure to concentrate urine after water deprivation (Uosm ~150, despite rising plasma osm), and ROBUST RESPONSE to DDAVP (rises >50%, often to 600–700). The robust DDAVP response confirms intact V2 receptor and AQP2 machinery; the lesion is at ADH secretion.",
+        "Incorrect. Row B is NEPHROGENIC DI: high Posm, dilute urine after deprivation, AND no rise after DDAVP (V2 or AQP2 dysfunction).",
+        "Incorrect. Row C is SIADH or primary polydipsia (low Posm, concentrated urine).",
+        "Incorrect. Row D suggests partial DI (intermediate response).",
+        "Incorrect. Row E is healthy (already maximally concentrated)."
+      ]
+    },
+    {
+      "id": 18,
+      "stem": "A 40-year-old woman with suspected partial central DI has plasma sodium 142 mEq/L (normal range) on a routine clinic visit. Which of the following is the most appropriate diagnostic test?",
+      "choices": [
+        "Empiric DDAVP trial without testing",
+        "Water deprivation test followed by DDAVP",
+        "Random plasma ADH level",
+        "Spot urine osmolality alone",
+        "MRI of the kidney"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Empiric DDAVP without testing risks hyponatremia in primary polydipsia.",
+        "Correct. The water deprivation test is the gold standard for distinguishing central DI, nephrogenic DI, partial DI, and primary polydipsia in patients with normal baseline Na+. Protocol: deprive water under monitoring; measure plasma osm, urine osm, body weight, and Na+ hourly; stop when plasma osm rises (~295) or weight loss exceeds 3–5%. Then administer DDAVP and remeasure urine osm. Patterns: complete central DI fails to concentrate, robust DDAVP response (>50% rise); complete nephrogenic DI fails to concentrate, NO DDAVP response; partial central DI concentrates partially, further rise with DDAVP; primary polydipsia concentrates with deprivation alone. The newer copeptin-stimulated test (hypertonic saline + copeptin measurement) has gained favor but is less widely available.",
+        "Incorrect. ADH levels are technically difficult and rarely useful directly; copeptin (a stable surrogate) is better but still less practical than the water deprivation test.",
+        "Incorrect. Spot urine osmolality alone cannot distinguish DI from primary polydipsia.",
+        "Incorrect. Renal MRI is not the diagnostic modality."
+      ]
+    },
+    {
+      "id": 19,
+      "stem": "A 45-year-old woman with suspected DI undergoes a hypertonic saline infusion test with copeptin measurement. Plasma osmolality is raised to 300 mOsm/kg by 3% saline; copeptin is then measured. Which of the following best characterizes copeptin-based testing?",
+      "choices": [
+        "Copeptin is a precursor of aldosterone",
+        "Copeptin is co-secreted with ADH as a stable surrogate",
+        "Copeptin is a urinary protein marker of DI",
+        "Copeptin is independent of hydration status",
+        "Copeptin is identical to ANP"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Copeptin is unrelated to aldosterone.",
+        "Correct. Copeptin (the C-terminal fragment of pre-pro-vasopressin) is co-secreted in equimolar amounts with ADH from the posterior pituitary but is much more STABLE in plasma — making it a reliable surrogate marker of ADH activity. Hypertonic saline-stimulated copeptin testing has emerged as a more accurate alternative to the water deprivation test for distinguishing partial central DI from primary polydipsia, with sensitivity and specificity approaching 95%. Interpretation: in healthy persons and primary polydipsia, copeptin rises robustly with rising plasma osmolality; in central DI, copeptin response is BLUNTED. Clinical adoption is growing but limited by assay availability.",
+        "Incorrect. Copeptin is a plasma marker, not urinary.",
+        "Incorrect. Copeptin reflects hydration status (rises with ADH stimulation).",
+        "Incorrect. ANP is from atria; copeptin is from posterior pituitary."
+      ]
+    },
+    {
+      "id": 20,
+      "stem": "A 70-year-old woman with chronic hypernatremia (Na+ 168 mEq/L over weeks) is admitted for management. She weighs 60 kg. Which of the following correctly approximates the free water deficit?",
+      "choices": [
+        "Water deficit = body weight × 0.6",
+        "Water deficit ≈ TBW × [(measured Na+ / 140) − 1]",
+        "Water deficit = (Na+ − 140) × 100",
+        "Water deficit = body weight × 1.5",
+        "Water deficit cannot be calculated"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. 0.6 × body weight is TOTAL body water in adult men, not the deficit.",
+        "Correct. Free water deficit ≈ TBW × [(measured Na+ / desired Na+) − 1], where TBW is body weight × 0.6 (men), 0.5 (women), 0.45 (elderly women), 0.75 (infants). For this 70-year-old 60-kg woman: TBW ≈ 0.45 × 60 = 27 L; deficit factor = (168/140) − 1 = 0.20; water deficit ≈ 27 × 0.20 ≈ 5.4 L. Correction principles: replace half the deficit over the first 24 hours, the remainder over 24–72 hours; limit Na+ correction to ≤10–12 mEq/L per 24 hours to avoid cerebral edema (≤8 in chronic); add ongoing losses (insensible, urinary, GI); IV D5W or 0.45% saline; oral water if tolerated; add desmopressin in central DI.",
+        "Incorrect. Not the standard formula.",
+        "Incorrect. Not the standard formula.",
+        "Incorrect. The deficit can be estimated from the formula above."
+      ]
+    },
+    {
+      "id": 21,
+      "stem": "A 75-year-old man with chronic hypernatremia (Na+ 175 mEq/L over weeks) is started on D5W and within 6 hours plasma Na+ has fallen to 158. He develops new confusion and a generalized seizure. Which of the following best explains the deterioration?",
+      "choices": [
+        "Hyponatremia from over-replacement",
+        "Cerebral edema from rapid Na+ correction",
+        "Acute hyperkalemia from D5W",
+        "Hypoglycemia from dextrose-induced insulin",
+        "Air embolism from IV fluid"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Plasma Na+ is still 158, not low.",
+        "Correct. CHRONIC hypernatremia is corrected SLOWLY (≤10–12 mEq/L per 24 hours, often ≤8) because brain cells have adapted to the elevated ECF osmolality by accumulating idiogenic osmoles (myo-inositol, taurine, glutamine, K+). Rapid restoration of plasma Na+ creates a sudden gradient with the OSMOLE-LADEN brain cells now relatively HYPERTONIC to plasma — water shifts INTO brain cells faster than the osmoles can be extruded, producing CEREBRAL EDEMA, seizures, and herniation. This patient corrected by ~17 mEq/L in 6 hours — far exceeding safe limits. Management: stop hypotonic fluid, consider hypertonic saline to gently raise Na+ back, control seizures, supportive care. PREVENTION through adherence to correction limits is the principal management strategy.",
+        "Incorrect. D5W does not contain potassium.",
+        "Incorrect. Hypoglycemia would produce different symptoms (sweating, tachycardia) and is unlikely with D5W infusion.",
+        "Incorrect. Air embolism is rare and produces different symptoms (acute chest pain, hypoxia)."
+      ]
+    },
+    {
+      "id": 22,
+      "stem": "A 60-year-old man with newly diagnosed central diabetes insipidus from a craniopharyngioma is being started on chronic therapy. Which of the following is the treatment of choice?",
+      "choices": [
+        "Hydrochlorothiazide",
+        "Amiloride",
+        "Vasopressin (arginine vasopressin)",
+        "Desmopressin (DDAVP)",
+        "Tolvaptan"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Thiazides are used for nephrogenic DI (paradoxical antidiuresis), not central DI.",
+        "Incorrect. Amiloride is used for lithium-induced NDI.",
+        "Incorrect. AVP itself is short-acting and has V1 (vasoconstrictor) effects unsuitable for chronic DI therapy.",
+        "Correct. Desmopressin (DDAVP, 1-deamino-8-D-arginine vasopressin) is a synthetic ADH analog with two key modifications: (1) selective V2 agonism (no V1 vasoconstrictor effects) and (2) longer half-life (~3 hours vs AVP ~10–30 minutes). Available as intranasal spray, oral tablet, sublingual melt, and IV/SC formulations. Standard treatment for central DI; titrate to allow 1–2 hours of breakthrough water diuresis daily to prevent water intoxication. Resistant to placental vasopressinase (useful in pregnancy-related transient central DI). Major risk: water intoxication from over-treatment, especially during illness or with excessive water intake.",
+        "Incorrect. Tolvaptan is a V2 ANTAGONIST used in SIADH and ADPKD; would worsen central DI."
+      ]
+    },
+    {
+      "id": 23,
+      "stem": "A 45-year-old man with bipolar disorder has lithium-induced nephrogenic DI but cannot stop lithium because of recurrent severe mood episodes on alternative agents. He has polyuria of 6 L/day. Which of the following is the most appropriate treatment to reduce polyuria while continuing lithium?",
+      "choices": [
+        "Desmopressin",
+        "Tolvaptan",
+        "Amiloride",
+        "Furosemide",
+        "Spironolactone"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. DDAVP is ineffective in nephrogenic DI (the kidney does not respond to ADH).",
+        "Incorrect. Tolvaptan is a V2 antagonist and would worsen polyuria.",
+        "Correct. Amiloride blocks ENaC in collecting duct principal cells, preventing lithium uptake (lithium enters principal cells via apical ENaC, where it disrupts AQP2 trafficking). Blocking ENaC therefore prevents lithium accumulation and partially reverses lithium-induced AQP2 dysfunction. Combined with low sodium intake (which further reduces tubular Na+ delivery and indirectly amplifies the ADH response via volume contraction), amiloride is the preferred adjunctive therapy in patients who must continue lithium. Thiazides also help via paradoxical antidiuresis (volume contraction → enhanced proximal water reabsorption → less distal water delivery), but the amiloride mechanism (preventing lithium uptake) is mechanistically targeted.",
+        "Incorrect. Furosemide INCREASES diuresis and would worsen polyuria.",
+        "Incorrect. Spironolactone (MR antagonist) does not block apical ENaC; less effective than amiloride for this indication."
+      ]
+    },
+    {
+      "id": 24,
+      "stem": "A 70-year-old woman with severe stroke is on mechanical ventilation with tube feeding for 2 weeks. She has progressively risen plasma sodium from 138 to 156 mEq/L despite normal renal function. Which of the following is the most likely contributor?",
+      "choices": [
+        "SIADH from CNS injury",
+        "Inadequate free water in feeds",
+        "Adrenal crisis",
+        "Cerebral salt wasting",
+        "Tolvaptan therapy"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. SIADH causes hyponatremia.",
+        "Correct. Tube-fed and intubated patients are at high risk for hypernatremia because: (1) they cannot access water on their own (no thirst-driven self-correction); (2) standard enteral feeding formulas are concentrated in protein and electrolytes with relatively low free water content; (3) fevers, diarrhea (often from antibiotic-associated infection or formula intolerance), and increased insensible loss raise water needs above maintenance. Recognition: monitor Na+ regularly in tube-fed/intubated patients; calculate free water needs (typically ~30 mL/kg/day plus replacement for losses); add water flushes via the feeding tube. Treatment: increase free water flushes; address any concurrent contributors (osmotic diuresis from glucose, mannitol, hypertonic feeds).",
+        "Incorrect. Adrenal crisis features hyponatremia and hyperkalemia.",
+        "Incorrect. CSW features hyponatremia.",
+        "Incorrect. No tolvaptan exposure described."
+      ]
+    },
+    {
+      "id": 25,
+      "stem": "A 50-year-old woman with autosomal dominant polycystic kidney disease (ADPKD) is started on tolvaptan to slow cyst progression. Within 2 weeks, plasma sodium has risen from 140 to 152 mEq/L and she has nocturia 5×. Which of the following best characterizes tolvaptan-induced hypernatremia?",
+      "choices": [
+        "An unintended adverse effect of tolvaptan",
+        "An expected pharmacologic effect of V2 blockade",
+        "An idiosyncratic hypersensitivity reaction",
+        "A sign of acute liver injury",
+        "Evidence of treatment failure"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. The Na+ rise is the EXPECTED pharmacologic response to V2 antagonism, not an unintended effect.",
+        "Correct. Tolvaptan is a selective V2-receptor antagonist; blocking V2 prevents ADH-driven AQP2 trafficking, producing free water diuresis (aquaresis) and a rise in plasma sodium. In ADPKD, tolvaptan slows cyst growth and CKD progression (TEMPO 3:4, REPRISE trials) at the cost of polyuria, nocturia, and risk of hypernatremia. Patients are counseled to drink ample water on tolvaptan to compensate. Plasma Na+ should be monitored; typical target is upper-normal Na+ without symptomatic dehydration. A rise to 152 with nocturia is the expected pharmacologic profile, not an adverse drug reaction. Critical separate concern: tolvaptan carries an FDA black-box warning for HEPATOTOXICITY in ADPKD; LFTs are monitored monthly.",
+        "Incorrect. Hypersensitivity is rare and would have different features.",
+        "Incorrect. Hepatotoxicity is a separate concern marked by elevated LFTs, not Na+.",
+        "Incorrect. The Na+ rise reflects pharmacologic action, not failure."
+      ]
+    },
+    {
+      "id": 26,
+      "stem": "A 65-year-old man with chronic hypernatremia (Na+ 162 mEq/L over 3 weeks) is alert and stable on examination. The team is planning correction. Which of the following best describes the appropriate rate of plasma sodium correction?",
+      "choices": [
+        "≤10–12 mEq/L per 24 hours (≤8 in chronic, high-risk)",
+        "Correction as fast as possible to <140",
+        "≥20 mEq/L per 24 hours",
+        "No correction needed",
+        "Correction over weeks regardless of severity"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Standard correction limits for chronic hypernatremia: ≤10–12 mEq/L per 24 hours, with many guidelines recommending ≤8 mEq/L per 24 hours in chronic or high-risk patients. The rationale: brain cells in chronic hypernatremia have accumulated idiogenic osmoles to defend volume against the elevated ECF osmolality; rapid correction shifts water INTO osmole-laden brain cells faster than the osmoles can be extruded, producing cerebral edema, seizures, and herniation. ACUTE hypernatremia (<48 hours) tolerates somewhat faster correction (osmoles haven't accumulated), but most clinicians still adhere to ≤10–12 mEq/L per 24h. Replace half the calculated water deficit over the first 24 hours; the remainder over 24–72 hours; account for ongoing losses; monitor Na+ every 4–6 hours.",
+        "Incorrect. Rapid correction risks cerebral edema in chronic hypernatremia.",
+        "Incorrect. ≥20 mEq/L/24h far exceeds safe limits.",
+        "Incorrect. Symptomatic or severe hypernatremia requires correction.",
+        "Incorrect. Correction over weeks is too slow for symptomatic patients."
+      ]
+    }
+  ]
+}
