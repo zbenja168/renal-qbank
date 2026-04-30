@@ -11,7 +11,7 @@
     { "id": 9, "title": "Nephron Segmental Physiology", "available": true, "modes": { "basic": true, "nbme": true } },
     { "id": 10, "title": "Sodium Homeostasis", "available": true, "modes": { "basic": true, "nbme": true } },
     { "id": 11, "title": "Potassium Homeostasis", "available": true, "modes": { "basic": true, "nbme": true } },
-    { "id": 12, "title": "Loop Diuretics", "available": true, "modes": { "basic": true, "nbme": false } },
+    { "id": 12, "title": "Loop Diuretics", "available": true, "modes": { "basic": true, "nbme": true } },
     { "id": 13, "title": "Thiazide Diuretics", "available": true, "modes": { "basic": true, "nbme": false } },
     { "id": 14, "title": "Osmotic Diuretics", "available": true, "modes": { "basic": true, "nbme": false } },
     { "id": 15, "title": "Potassium-Sparing Diuretics", "available": true, "modes": { "basic": true, "nbme": false } },
