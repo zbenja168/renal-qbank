@@ -4,7 +4,7 @@
     { "id": 2, "title": "Development of the Urinary System", "available": true, "modes": { "basic": true, "nbme": true } },
     { "id": 3, "title": "Congenital Disorders of the Kidney", "available": true, "modes": { "basic": true, "nbme": true } },
     { "id": 4, "title": "Histology of the Renal Corpuscle and Renal Tubular System", "available": true, "modes": { "basic": true, "nbme": true } },
-    { "id": 5, "title": "Glomerular Function", "available": true, "modes": { "basic": true, "nbme": false } },
+    { "id": 5, "title": "Glomerular Function", "available": true, "modes": { "basic": true, "nbme": true } },
     { "id": 6, "title": "Glomerular Filtration Rate (GFR)", "available": true, "modes": { "basic": true, "nbme": false } },
     { "id": 7, "title": "Renal Clearance", "available": true, "modes": { "basic": true, "nbme": false } },
     { "id": 8, "title": "Regulation of Renal Blood Flow", "available": true, "modes": { "basic": true, "nbme": false } },
