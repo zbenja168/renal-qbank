@@ -16,7 +16,7 @@
     { "id": 14, "title": "Osmotic Diuretics", "available": true, "modes": { "basic": true, "nbme": true } },
     { "id": 15, "title": "Potassium-Sparing Diuretics", "available": true, "modes": { "basic": true, "nbme": true } },
     { "id": 16, "title": "Composition of Body Fluids and Compartments", "available": true, "modes": { "basic": true, "nbme": true } },
-    { "id": 17, "title": "Water Regulation", "available": true, "modes": { "basic": true, "nbme": false } },
+    { "id": 17, "title": "Water Regulation", "available": true, "modes": { "basic": true, "nbme": true } },
     { "id": 18, "title": "Hyponatremia", "available": true, "modes": { "basic": true, "nbme": false } },
     { "id": 19, "title": "Hypernatremia", "available": true, "modes": { "basic": true, "nbme": false } },
     { "id": 20, "title": "Antidiuretic Hormone Agonists", "available": true, "modes": { "basic": true, "nbme": false } },
