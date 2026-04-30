@@ -8,7 +8,7 @@
       "diagram": "<div class=\"dgm-title\">Glomerular filtration barrier</div><div class=\"dgm-flow\"><div class=\"dgm-row\"><span class=\"pill\">Capillary lumen</span> → <span class=\"pill\">Fenestrated endothelium</span> → <span class=\"pill\">GBM (type IV collagen + heparan sulfate)</span> → <span class=\"pill\">Podocyte foot processes (slit diaphragm)</span> → <span class=\"pill\">Bowman space</span></div></div>",
       "choices": [
         "Fenestrated endothelium of the glomerular capillary",
-        "Heparan sulfate proteoglycans within the glomerular basement membrane",
+        "Heparan sulfate proteoglycans of the GBM",
         "Mesangial matrix between adjacent capillary loops",
         "Slit diaphragm spanning podocyte foot processes",
         "Type IV collagen alpha-3/4/5 trimers of the GBM"
@@ -55,7 +55,7 @@
       ],
       "choices": [
         "Diffuse mesangial proliferation with electron-dense deposits",
-        "Effacement of podocyte foot processes with otherwise unremarkable glomerular architecture",
+        "Effacement of podocyte foot processes",
         "Segmental areas of glomerular sclerosis affecting some glomeruli",
         "Subepithelial electron-dense deposits with intervening 'spike' formation",
         "Thinning and basket-weave splitting of the GBM"
@@ -102,7 +102,7 @@
         "Crescents involving more than half of glomeruli on light microscopy",
         "Effacement of foot processes with otherwise unremarkable architecture",
         "Linear IgG deposition along the glomerular basement membrane",
-        "Splitting and lamellation of the GBM with alternating thinning and thickening",
+        "Basket-weave splitting of the GBM",
         "Subepithelial humps containing IgG and C3"
       ],
       "answer": 3,
@@ -120,7 +120,7 @@
       "choices": [
         "Forming the slit diaphragm between adjacent podocyte foot processes",
         "Producing renin in response to changes in afferent arteriolar pressure",
-        "Providing mechanical support to the tuft and regulating glomerular surface area available for filtration",
+        "Mechanical support of the glomerular tuft",
         "Sensing changes in distal tubular sodium chloride concentration",
         "Synthesizing the heparan sulfate component of the GBM"
       ],
@@ -137,7 +137,7 @@
       "id": 7,
       "stem": "A 28-year-old physiologist demonstrates in an isolated nephron preparation that perfusion of the early distal nephron with a high-NaCl solution causes constriction of the afferent arteriole and reduction in single-nephron GFR within seconds. Which of the following structures most directly senses tubular NaCl in this experiment?",
       "choices": [
-        "Macula densa cells at the thick ascending limb–distal tubule junction",
+        "Macula densa cells of the distal tubule",
         "Extraglomerular mesangial (lacis) cells in the juxtaglomerular apparatus",
         "Juxtaglomerular cells of the afferent arteriole",
         "Podocyte foot processes lining the glomerular capillary",
@@ -194,7 +194,7 @@
       "id": 10,
       "stem": "A 25-year-old researcher compares paracellular permeability in the proximal convoluted tubule and the thick ascending limb of Henle's loop. She finds that the PCT permits much greater paracellular flux of small solutes such as Na+ and Cl− than the TAL. Which of the following best explains the relative paracellular permeability of the PCT?",
       "choices": [
-        "The PCT contains 'leaky' tight junctions enriched in claudin-2, which permit cation flux",
+        "Leaky tight junctions enriched in claudin-2",
         "The PCT epithelium is pseudostratified columnar with broad intercellular spaces",
         "The PCT exhibits a strongly negative lumen voltage that drives cation reabsorption paracellularly",
         "The PCT has fewer mitochondria, so all transport defaults to a paracellular route",
@@ -252,7 +252,7 @@
       "stem": "A 35-year-old woman is evaluated for new-onset muscle weakness and intermittent paresthesias. Laboratory studies show serum K+ 2.8 mEq/L, serum Mg2+ 1.3 mg/dL, mild metabolic alkalosis, normal blood pressure, and very low urinary calcium excretion. Genetic testing identifies a mutation in SLC12A3 encoding the thiazide-sensitive Na-Cl cotransporter (NCC). At which nephron site is NCC normally located, and what is its role in calcium handling?",
       "choices": [
         "Cortical collecting duct; NCC drives basolateral calcium extrusion via NCX1",
-        "Distal convoluted tubule; loss of NCC reduces apical Na+ entry and indirectly enhances TRPV5-mediated Ca2+ uptake, producing hypocalciuria",
+        "Distal convoluted tubule; loss produces hypocalciuria",
         "Distal convoluted tubule; loss of NCC reduces apical TRPV5 Ca2+ uptake and worsens calciuria",
         "Proximal convoluted tubule; loss of NCC reduces sodium-coupled Ca2+ reabsorption",
         "Thick ascending limb; NCC drives the lumen-positive voltage that supports paracellular Ca2+ reabsorption"
@@ -292,7 +292,7 @@
         "α-Intercalated cells; H+-ATPase",
         "β-Intercalated cells; Cl−/HCO3− exchanger",
         "Macula densa cells; NKCC2",
-        "Principal cells of the collecting duct; ENaC and ROMK activity downstream of mineralocorticoid receptor blockade",
+        "Principal cells; ENaC and ROMK",
         "Proximal tubular cells; Na+-glucose cotransporter (SGLT2)"
       ],
       "answer": 3,
@@ -348,7 +348,7 @@
       "choices": [
         "Albumin filtered across an injured glomerulus and concentrated in the tubule",
         "Beta-2-microglobulin produced by lymphocytes and incompletely reabsorbed by the PCT",
-        "Tamm-Horsfall protein (uromodulin) secreted by thick ascending limb cells into the lumen",
+        "Tamm-Horsfall protein from the thick ascending limb",
         "Type IV collagen released by injured glomerular basement membrane",
         "Vimentin filaments shed from injured tubular epithelium"
       ],
@@ -367,7 +367,7 @@
       "diagram": "<div class=\"dgm-title\">Aquaporin distribution along the nephron</div><div class=\"dgm-flow\"><div class=\"dgm-row\"><span class=\"pill\">PCT [AQP1]</span> → <span class=\"pill\">tDLH [AQP1]</span> → <span class=\"pill\">tALH [—]</span> → <span class=\"pill\">TAL [—]</span> → <span class=\"pill\">DCT [—]</span> → <span class=\"pill\">CCD [AQP2/3/4]</span> → <span class=\"pill\">MCD [AQP2/3/4]</span></div></div>",
       "choices": [
         "Distal convoluted tubule; AQP1 inserted in response to PTH",
-        "Cortical and medullary collecting duct; AQP2 inserted into the apical membrane in response to ADH",
+        "Collecting duct; ADH-driven AQP2 insertion",
         "Proximal convoluted tubule; AQP1 expression upregulated in response to angiotensin II",
         "Thick ascending limb; AQP2 inserted in response to aldosterone",
         "Thin descending limb of Henle; AQP1 inserted in response to ADH"
@@ -385,7 +385,7 @@
       "id": 20,
       "stem": "A 33-year-old researcher demonstrates that the proximal convoluted tubule and thick ascending limb both reabsorb large quantities of NaCl, but they differ markedly in transepithelial paracellular permeability — the PCT being 'leaky' and the TAL being 'tight.' Which of the following best explains the relative tightness of the TAL?",
       "choices": [
-        "The TAL relies on claudin-16/19 in its tight junctions, restricting bulk paracellular flux while permitting selective Mg2+ and Ca2+ reabsorption",
+        "Claudin-16/19 tight junctions permit selective Mg2+/Ca2+ flux",
         "The TAL contains claudin-2-rich tight junctions that are highly permeable to cations",
         "The TAL has fewer tight junctions overall, with broad intercellular spaces",
         "The TAL uses gap junctions between adjacent cells in place of tight junctions",
@@ -424,7 +424,7 @@
       "stem": "A 62-year-old man with a 22-year history of poorly controlled type 2 diabetes mellitus is evaluated for slowly worsening kidney function. Laboratory studies show serum creatinine 2.3 mg/dL and urine protein/creatinine ratio 3.0. Renal biopsy is performed. Which of the following findings on light microscopy would be most characteristic of his disease?",
       "choices": [
         "Crescents in Bowman space involving more than 50% of glomeruli",
-        "Diffuse mesangial expansion with rounded eosinophilic nodules at the periphery of the glomerular tuft",
+        "Mesangial expansion with peripheral eosinophilic nodules",
         "Linear immunoglobulin staining along the GBM",
         "Segmental sclerosis with hyalinosis affecting some glomeruli",
         "Subepithelial humps containing IgG and C3"
@@ -453,7 +453,7 @@
       "choices": [
         "Crescents in Bowman space with disrupted glomerular tufts",
         "Effacement of podocyte foot processes with otherwise normal architecture",
-        "Patchy proximal tubular necrosis with sloughed brush border and intratubular epithelial debris",
+        "Proximal tubular necrosis with intratubular debris",
         "Subepithelial humps with IgG and C3 deposition",
         "Wire-loop lesions with subendothelial immune-complex deposits"
       ],
