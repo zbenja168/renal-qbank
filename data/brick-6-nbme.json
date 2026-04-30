@@ -72,7 +72,7 @@
         "Creatinine production is unstable across days, providing a dynamic measure of GFR",
         "Creatinine is filtered, partially reabsorbed, and metabolized in the kidney",
         "Creatinine production rises with age, automatically compensating for declining GFR",
-        "Creatinine is endogenously produced at a relatively constant rate from skeletal muscle, freely filtered, not appreciably reabsorbed, and only slightly secreted"
+        "Creatinine has stable production, free filtration, and only slight secretion"
       ],
       "answer": 4,
       "explanations": [
@@ -96,7 +96,7 @@
       "choices": [
         "Acute tubular necrosis from sulfa-induced nephrotoxicity",
         "Allergic interstitial nephritis from sulfa hypersensitivity",
-        "Competitive inhibition of tubular creatinine secretion by trimethoprim, raising serum creatinine without changing true GFR",
+        "Inhibition of tubular creatinine secretion by trimethoprim",
         "Hemodynamic AKI from sulfa-induced afferent arteriolar constriction",
         "Hyperproduction of creatinine due to drug-induced muscle injury"
       ],
@@ -125,7 +125,7 @@
         "Loss of glomerular charge selectivity from filtered protein",
         "Reduced hepatic clearance of creatinine",
         "Direct binding of creatinine to released hemoglobin",
-        "Massive release of preformed creatine and creatinine from injured skeletal muscle, in addition to ischemic tubular injury reducing GFR"
+        "Release of preformed creatine/creatinine from injured muscle"
       ],
       "answer": 4,
       "explanations": [
@@ -143,7 +143,7 @@
         "Decreased skeletal muscle mass during pregnancy lowers creatinine production",
         "Hepatic clearance of creatinine increases in pregnancy",
         "Pregnancy increases tubular secretion of creatinine",
-        "Pregnancy expands renal plasma flow and GFR by approximately 50%, lowering steady-state serum creatinine despite unchanged production",
+        "Pregnancy expands GFR by ~50%, lowering steady-state Cr",
         "Plasma volume expansion alone explains the drop in concentration"
       ],
       "answer": 3,
@@ -159,7 +159,7 @@
       "id": 8,
       "stem": "A 78-year-old woman with sarcopenia has a serum creatinine of 0.7 mg/dL but a measured cystatin C of 1.6 mg/L, corresponding to an estimated GFR of 35 mL/min/1.73 m². Which of the following properties of cystatin C makes it a useful complementary marker of GFR in this patient?",
       "choices": [
-        "Cystatin C is produced at a relatively constant rate by all nucleated cells, freely filtered, and reabsorbed and metabolized by proximal tubular cells; serum levels reflect GFR independent of muscle mass",
+        "Cystatin C is produced by all nucleated cells independent of muscle mass",
         "Cystatin C is exclusively secreted by tubular cells and is unaffected by GFR",
         "Cystatin C levels are unaffected by inflammation, thyroid disease, or steroid use",
         "Cystatin C is produced in proportion to muscle mass",
@@ -179,7 +179,7 @@
       "stem": "A 75-year-old woman who weighs 50 kg with sarcopenia and a 32-year-old man who weighs 95 kg with extensive muscle bulk both have a serum creatinine of 1.2 mg/dL on routine labs. Which of the following best characterizes their respective glomerular filtration rates?",
       "choices": [
         "Both individuals have similar GFR because their serum creatinine is the same",
-        "The young man's GFR is normal or above normal; the elderly woman's GFR is markedly reduced because her creatinine production is much lower",
+        "Young man has normal GFR; elderly woman has markedly reduced GFR",
         "The young man's GFR is reduced because his higher muscle mass should produce more creatinine, suggesting impaired clearance",
         "The elderly woman's GFR is higher because women typically have lower creatinine at any given GFR",
         "GFR cannot be inferred from creatinine in either patient and they require alternative measurement"
@@ -197,7 +197,7 @@
       "id": 10,
       "stem": "A 60-year-old African-American man with hypertension is having his renal function assessed. The CKD-EPI 2021 equation has largely replaced earlier formulas for estimating GFR in adults. Which of the following statements best characterizes this development in eGFR equations?",
       "choices": [
-        "CKD-EPI 2021 omits the race coefficient previously included in CKD-EPI 2009 and MDRD; it has comparable or better performance across populations and avoids race-based calibration",
+        "CKD-EPI 2021 omits the race coefficient of earlier formulas",
         "CKD-EPI 2021 is calculated only from cystatin C and excludes serum creatinine",
         "Cockcroft-Gault has replaced CKD-EPI as the standard equation for clinical use",
         "MDRD is preferred at higher GFRs because it overestimates eGFR less than CKD-EPI",
@@ -258,7 +258,7 @@
         "Reabsorption of PAH in the collecting duct lowers measured clearance",
         "Plasma protein binding renders 10% of PAH unfilterable",
         "Renal metabolism of PAH degrades 10% of the infused dose",
-        "PAH extraction across the kidney is approximately 90%, not 100%, so ERPF underestimates true RPF; the unextracted fraction returns in the renal vein"
+        "PAH extraction is ~90%, so ERPF underestimates true RPF"
       ],
       "answer": 4,
       "explanations": [
@@ -293,7 +293,7 @@
       "stem": "A 45-year-old man with poorly controlled type 2 diabetes has a plasma glucose of 350 mg/dL and significant glycosuria. The maximum rate at which the proximal tubule can reabsorb glucose has been exceeded. Which of the following statements best characterizes the tubular maximum (Tm)?",
       "choices": [
         "Tm represents the rate at which glucose is filtered at the glomerulus",
-        "Tm is the maximum rate of tubular transport (reabsorption or secretion) of a substance, beyond which the substance appears in urine; for glucose, Tm averages ~375 mg/min in adults",
+        "Tm is the saturation rate of tubular transport for a substance",
         "Tm is independent of plasma concentration and tubular flow",
         "Tm equals the threshold plasma concentration at which glucose first appears in the urine",
         "Tm increases linearly with plasma glucose at all concentrations"
@@ -315,7 +315,7 @@
         "Excessive carbohydrate intake exceeding hepatic glucose handling",
         "Latent type 1 diabetes mellitus",
         "SGLT2 inhibitor (e.g., empagliflozin) therapy that the patient has not disclosed",
-        "Loss-of-function mutation in SGLT2 (or SGLT1), reducing the proximal tubular Tm for glucose without affecting plasma glucose"
+        "Loss-of-function SGLT2 mutation lowering Tm-glucose"
       ],
       "answer": 4,
       "explanations": [
@@ -333,7 +333,7 @@
         "Gestational diabetes with intermittent postprandial hyperglycemia",
         "Hepatic insulin resistance with reduced glucose suppression",
         "Increased proximal tubular Tm for glucose during pregnancy",
-        "Pregnancy-induced increase in GFR raises the filtered load of glucose; if the load exceeds Tm at any point in the day, transient glucosuria can occur despite normal plasma glucose",
+        "Pregnancy-elevated GFR raises filtered glucose load above Tm",
         "Reduced hepatic glucose output causing reactive hypoglycemia and reflex glycosuria"
       ],
       "answer": 3,
@@ -349,7 +349,7 @@
       "id": 18,
       "stem": "A renal physiologist measures the renal handling of substance X in a patient. She determines that GFR is 100 mL/min, plasma X concentration is 1 mg/mL, and urinary excretion of X is 50 mg/min. Which of the following best characterizes the tubular handling of X?",
       "choices": [
-        "X undergoes net reabsorption: filtered load (100 mg/min) exceeds excretion (50 mg/min) by the reabsorbed amount",
+        "X undergoes net reabsorption (filtered > excreted)",
         "X undergoes net secretion: excretion exceeds the filtered load",
         "X is neither reabsorbed nor secreted; the data are inconsistent",
         "X is metabolized by the renal tubular cells",
@@ -369,7 +369,7 @@
       "stem": "A 65-year-old man with volume depletion has a BUN of 50 mg/dL and a serum creatinine of 2.0 mg/dL, giving a BUN:Cr ratio of 25. After volume resuscitation his BUN falls to 22 while creatinine returns to baseline. Which of the following best characterizes the renal handling of urea that explains this pattern?",
       "choices": [
         "Urea is freely filtered and neither reabsorbed nor secreted",
-        "Urea is freely filtered and undergoes variable tubular reabsorption that increases when tubular flow is slow (volume depletion), raising the BUN:Cr ratio",
+        "Urea undergoes variable reabsorption, enhanced when tubular flow is slow",
         "Urea is actively secreted by the proximal tubule",
         "Urea is metabolized by the renal tubule",
         "Urea handling depends on plasma glucose concentration"
@@ -390,7 +390,7 @@
         "His current GFR is approximately 100 mL/min based on a Cr of 1.6",
         "His current GFR is approximately 75 mL/min based on age-adjusted norms",
         "His Cr accurately reflects current GFR because creatinine equilibrates instantaneously",
-        "Serum creatinine has not yet equilibrated to his post-obstruction GFR; in pre-steady state, serum Cr lags GFR change, so his current GFR cannot be estimated from his current creatinine",
+        "Serum Cr has not equilibrated to current GFR (pre-steady state)",
         "His creatinine will remain elevated indefinitely because of permanent ATN"
       ],
       "answer": 3,
@@ -416,7 +416,7 @@
       "choices": [
         "Laboratory error in the serum creatinine measurement",
         "Hemoconcentration from chronic dehydration",
-        "Sarcopenia produces a low rate of creatinine generation, so a 'normal' serum Cr corresponds to a substantially reduced GFR; cystatin C (independent of muscle mass) confirms moderate CKD",
+        "Low Cr generation from sarcopenia masking reduced GFR",
         "Increased tubular secretion of creatinine masking renal dysfunction",
         "Reduced hepatic creatinine production"
       ],

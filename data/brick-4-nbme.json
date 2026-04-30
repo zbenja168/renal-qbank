@@ -120,7 +120,7 @@
       "choices": [
         "Forming the slit diaphragm between adjacent podocyte foot processes",
         "Producing renin in response to changes in afferent arteriolar pressure",
-        "Mechanical support of the glomerular tuft",
+        "Supporting the tuft and modulating filtration surface",
         "Sensing changes in distal tubular sodium chloride concentration",
         "Synthesizing the heparan sulfate component of the GBM"
       ],
@@ -194,7 +194,7 @@
       "id": 10,
       "stem": "A 25-year-old researcher compares paracellular permeability in the proximal convoluted tubule and the thick ascending limb of Henle's loop. She finds that the PCT permits much greater paracellular flux of small solutes such as Na+ and Cl− than the TAL. Which of the following best explains the relative paracellular permeability of the PCT?",
       "choices": [
-        "Leaky tight junctions enriched in claudin-2",
+        "The PCT has leaky tight junctions enriched in claudin-2",
         "The PCT epithelium is pseudostratified columnar with broad intercellular spaces",
         "The PCT exhibits a strongly negative lumen voltage that drives cation reabsorption paracellularly",
         "The PCT has fewer mitochondria, so all transport defaults to a paracellular route",
@@ -385,7 +385,7 @@
       "id": 20,
       "stem": "A 33-year-old researcher demonstrates that the proximal convoluted tubule and thick ascending limb both reabsorb large quantities of NaCl, but they differ markedly in transepithelial paracellular permeability — the PCT being 'leaky' and the TAL being 'tight.' Which of the following best explains the relative tightness of the TAL?",
       "choices": [
-        "Claudin-16/19 tight junctions permit selective Mg2+/Ca2+ flux",
+        "The TAL uses claudin-16/19 in selective tight junctions",
         "The TAL contains claudin-2-rich tight junctions that are highly permeable to cations",
         "The TAL has fewer tight junctions overall, with broad intercellular spaces",
         "The TAL uses gap junctions between adjacent cells in place of tight junctions",
