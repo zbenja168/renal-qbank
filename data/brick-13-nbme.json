@@ -1,0 +1,535 @@
+{
+  "id": 13,
+  "title": "Thiazide Diuretics",
+  "questions": [
+    {
+      "id": 1,
+      "stem": "A 30-year-old researcher is studying the renal action of hydrochlorothiazide. The diagram below shows the principal apical and basolateral transporters of the early distal convoluted tubule. Thiazide diuretics inhibit a single apical transporter that mediates electroneutral cotransport of two ions in 1:1 stoichiometry. Which of the following is the molecular target of thiazide diuretics?",
+      "diagram": "<div class=\"dgm-title\">Distal convoluted tubule (DCT) — site of thiazide action</div><div class=\"dgm-flow\"><div class=\"dgm-row\">Apical: <strong>NCC</strong> (Na+ + Cl− → cell, electroneutral) ← BLOCKED by hydrochlorothiazide / chlorthalidone / indapamide / metolazone</div><div class=\"dgm-row\">Apical: TRPV5 Ca2+ channel (PTH-stimulated)</div><div class=\"dgm-row\">Basolateral: Na+/K+-ATPase, NCX1 (Na+/Ca2+ exchanger)</div><div class=\"dgm-row\">Reabsorbs ~5% of filtered Na+; impermeable to water</div></div>",
+      "choices": [
+        "NHE3 (proximal tubule Na+/H+ exchanger)",
+        "NCC (Na+-Cl− cotransporter of the early distal convoluted tubule)",
+        "NKCC2 (thick ascending limb)",
+        "ENaC (collecting duct principal cell Na+ channel)",
+        "Aquaporin-2 (collecting duct water channel)"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. NHE3 is the proximal tubule's Na+/H+ exchanger, not the thiazide target.",
+        "Correct. Thiazides (hydrochlorothiazide, chlorthalidone) and thiazide-LIKE diuretics (indapamide, metolazone) inhibit NCC in the apical membrane of the early distal convoluted tubule. Reabsorbing only ~5% of filtered Na+, NCC is a smaller-volume transporter than NKCC2 — making thiazides LESS efficacious than loop diuretics at producing diuresis. However, thiazides are more effective antihypertensives at the doses used.",
+        "Incorrect. NKCC2 is the loop diuretic target in the thick ascending limb.",
+        "Incorrect. ENaC is the target of K+-sparing diuretics (amiloride, triamterene).",
+        "Incorrect. AQP2 is the ADH-regulated water channel of collecting duct principal cells; tolvaptan blocks the upstream V2 receptor."
+      ]
+    },
+    {
+      "id": 2,
+      "stem": "A 60-year-old woman taking hydrochlorothiazide for hypertension has poor blood pressure control. Her clinician notes she also takes probenecid for chronic gout. Probenecid competes with hydrochlorothiazide for proximal tubular secretion. Which of the following best characterizes how thiazides reach their site of action?",
+      "choices": [
+        "Free filtration at the glomerulus, since plasma binding is negligible",
+        "Passive diffusion across the GBM",
+        "Active secretion into the proximal tubular lumen by basolateral organic anion transporters (OAT1 / OAT3) — the same family that handles loop diuretics, β-lactams, and uric acid; high protein binding limits filtration but secretion delivers thiazides to the tubular fluid in concentrations exceeding plasma. Probenecid (or uremic anions in CKD) competes for OAT-mediated transport, reducing tubular delivery and diuretic effectiveness",
+        "Pinocytosis at the proximal tubular brush border",
+        "Active reabsorption from peritubular blood directly into the DCT lumen"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Thiazides have meaningful plasma protein binding; the principal delivery is via OAT-mediated proximal tubular secretion.",
+        "Incorrect. The GBM does not selectively transport thiazides by passive diffusion.",
+        "Correct. Thiazides are weak organic acids that are actively secreted into the proximal tubular lumen by OAT1/OAT3 in the basolateral membrane of PCT cells, then transported apically into the lumen by multidrug-resistance proteins. The same delivery system serves loop diuretics, β-lactams, methotrexate, and the body's own uric acid. Competing organic anions (probenecid, uremic toxins, NSAIDs) reduce tubular delivery — explaining diminished thiazide effect in CKD.",
+        "Incorrect. Pinocytosis is not the principal route.",
+        "Incorrect. There is no direct active reabsorption pathway delivering thiazide from peritubular blood to DCT lumen."
+      ]
+    },
+    {
+      "id": 3,
+      "stem": "A 60-year-old woman with recurrent calcium oxalate stones is started on hydrochlorothiazide. After 6 weeks her 24-hour urinary calcium has fallen by ~40%. Which of the following best explains the mechanism by which thiazides produce hypocalciuria?",
+      "choices": [
+        "Direct stimulation of an intestinal calcium-sequestering enzyme",
+        "Direct chelation of Ca2+ in the tubular lumen",
+        "Decreased GFR reducing filtered Ca2+ load",
+        "Volume contraction enhances proximal tubular Na+ AND Ca2+ reabsorption (passive 'tag-along'); reduced intracellular Na+ in DCT cells (because NCC is blocked) increases activity of basolateral NCX1 (Na+/Ca2+ exchanger), which pulls more apical Ca2+ into cells via TRPV5 — net effect is enhanced Ca2+ reabsorption with HYPOcalciuria, exploited therapeutically for stone prevention",
+        "Direct release of calcitriol stimulated by thiazide therapy"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Thiazides do not work via intestinal calcium handling.",
+        "Incorrect. Thiazides do not chemically chelate Ca2+.",
+        "Incorrect. GFR is largely preserved with thiazides; Ca2+ reduction is via tubular mechanisms.",
+        "Correct. Thiazides produce hypocalciuria by two convergent mechanisms: (1) NCC blockade → volume contraction → enhanced proximal Na+ and water reabsorption with passive Ca2+ 'tag-along'; and (2) reduced intracellular Na+ in DCT cells (because Na+ is no longer entering via NCC) → increased basolateral Na+/Ca2+ exchanger (NCX1) activity → enhanced apical Ca2+ uptake via TRPV5. The result is a ~40% reduction in urinary Ca2+ excretion — useful for hypercalciuric calcium oxalate stone disease and for mild osteoporosis prevention. This contrasts with loop diuretics, which produce HYPERCALCIURIA.",
+        "Incorrect. Thiazides do not directly raise calcitriol; the mechanism is tubular."
+      ]
+    },
+    {
+      "id": 4,
+      "stem": "A 55-year-old woman has had three episodes of calcium oxalate kidney stones over the past 4 years. Laboratory studies are shown.",
+      "labs": [
+        { "name": "24-h urinary calcium", "value": "380 mg/24h", "flag": "high", "ref": "<250 (women)" },
+        { "name": "Serum calcium", "value": "9.5 mg/dL", "flag": "", "ref": "8.5–10.5" },
+        { "name": "24-h urinary oxalate", "value": "Mildly elevated", "flag": "high", "ref": "—" },
+        { "name": "24-h urinary citrate", "value": "Low", "flag": "low", "ref": "—" },
+        { "name": "Stone analysis", "value": "Calcium oxalate monohydrate", "flag": "", "ref": "—" },
+        { "name": "Serum bicarbonate", "value": "26 mEq/L", "flag": "", "ref": "22–28" }
+      ],
+      "choices": [
+        "Hydrochlorothiazide (lowers urinary calcium ~40% via volume-contraction-mediated proximal Ca2+ reabsorption and enhanced DCT TRPV5/NCX1 activity); typically combined with potassium citrate (to address hypocitraturia) and dietary modifications (reduced sodium, normal calcium intake, reduced oxalate). Loop diuretics WORSEN the picture by INCREASING urinary calcium",
+        "Furosemide for stone prevention",
+        "Calcitriol supplementation",
+        "Bisphosphonate therapy",
+        "Acetazolamide for stone prevention"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Idiopathic hypercalciuria is the most common metabolic abnormality in calcium oxalate stone formers. First-line pharmacotherapy is a thiazide diuretic, which reduces urinary calcium by ~40% via the mechanisms described above. Adjunctive measures include potassium citrate (raises urinary citrate, which inhibits stone formation; corrects relative metabolic acidosis), dietary sodium restriction (reduces urinary calcium), normal dietary calcium intake (paradoxically, low-calcium diets WORSEN oxalate stones by increasing intestinal oxalate absorption), and reduced oxalate intake.",
+        "Incorrect. Loop diuretics INCREASE urinary calcium and would WORSEN stone formation.",
+        "Incorrect. Calcitriol raises serum and urinary calcium; this would worsen calciuria.",
+        "Incorrect. Bisphosphonates affect bone resorption but are not first-line for calcium stone prevention.",
+        "Incorrect. Acetazolamide alkalinizes urine and can cause Ca-phosphate stones; it is not used for Ca-oxalate prevention."
+      ]
+    },
+    {
+      "id": 5,
+      "stem": "A 65-year-old postmenopausal woman with hypertension and osteoporosis is started on hydrochlorothiazide. Compared with no diuretic, which of the following best characterizes the effect of long-term thiazide therapy on bone?",
+      "choices": [
+        "Direct osteoclast inhibition similar to bisphosphonates",
+        "Modest preservation of bone mineral density and a small reduction in hip fracture risk in observational studies, attributed to the urinary calcium-retaining effect of thiazides; the effect is much smaller than dedicated osteoporosis pharmacotherapy and thiazides are NOT first-line for osteoporosis treatment",
+        "Direct stimulation of osteoblast proliferation",
+        "Acceleration of bone resorption from chronic mild hypocalcemia",
+        "No effect on bone metabolism whatsoever"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Thiazides do not act on osteoclasts directly.",
+        "Correct. Long-term thiazide therapy modestly preserves bone mineral density and is associated with a small reduction in hip fracture risk in observational studies, attributable to the chronic urinary calcium-retaining effect. The magnitude is much smaller than that achievable with dedicated osteoporosis pharmacotherapy (bisphosphonates, denosumab), so thiazides are NOT first-line treatment for osteoporosis. However, in a hypertensive patient who happens to have osteoporosis, thiazide is a reasonable BP agent because of this modest co-benefit. Note: the related (but distinct) effect of mild hypercalcemia is occasionally clinically important.",
+        "Incorrect. Thiazides do not directly stimulate osteoblasts.",
+        "Incorrect. Thiazides do not produce hypocalcemia; if anything, they can produce mild hypercalcemia.",
+        "Incorrect. Thiazides DO have a modest bone effect."
+      ]
+    },
+    {
+      "id": 6,
+      "stem": "A 60-year-old man on chronic hydrochlorothiazide develops acute gout. Serum uric acid is 9.5 mg/dL. Which of the following best explains the mechanism of thiazide-induced hyperuricemia?",
+      "choices": [
+        "Direct inhibition of xanthine oxidase",
+        "Direct stimulation of uric acid synthesis",
+        "Volume contraction induced by thiazide diuretic enhances proximal tubular reabsorption of urate via URAT1 (urate is exchanged for chloride and other anions; volume contraction with high tubular Na+/water reabsorption drives urate reabsorption with it). The result is hyperuricemia, which can precipitate gout. Loop diuretics produce the same effect via the same mechanism. Switching to alternative agents or adding allopurinol/febuxostat addresses this",
+        "Massive urate release from injured tissue",
+        "Decreased GFR reducing urate filtration"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Thiazides do not inhibit xanthine oxidase (which is the target of allopurinol).",
+        "Incorrect. Thiazides do not stimulate uric acid synthesis.",
+        "Correct. Diuretic-induced hyperuricemia (loop AND thiazide) is principally mediated by volume contraction. The PCT reabsorbs urate via URAT1, exchanging urate for organic anions (Cl−). When extracellular volume contracts, proximal Na+ and water reabsorption increase, with urate following (the so-called 'reabsorption with sodium' effect). Urinary urate excretion falls and serum urate rises. Hyperuricemia can precipitate acute gout in susceptible individuals. Management: alternative diuretic strategy if possible; treat acute gout (NSAIDs, colchicine, steroids); urate-lowering therapy (allopurinol, febuxostat) for chronic management.",
+        "Incorrect. There is no tissue injury releasing urate in this scenario.",
+        "Incorrect. Thiazides do not principally lower urate filtration; the mechanism is tubular reabsorption."
+      ]
+    },
+    {
+      "id": 7,
+      "stem": "A 65-year-old man on chronic hydrochlorothiazide is found to have new-onset hyperglycemia (HbA1c 6.5%, fasting glucose 124). He has no family history of diabetes. Which of the following best explains the mechanism of thiazide-induced hyperglycemia?",
+      "choices": [
+        "Direct stimulation of hepatic gluconeogenesis by thiazide",
+        "Direct inhibition of pancreatic insulin secretion by thiazide",
+        "Direct insulin receptor antagonism",
+        "Hypokalemia from thiazide therapy reduces pancreatic β-cell insulin secretion (β-cells require K+ flux through K-ATP channels to coordinate insulin release; chronic hypokalemia impairs this); secondary mechanisms include increased insulin resistance and reduced glucose uptake in skeletal muscle. Hyperglycemia is dose-related and worse at high HCTZ doses (>25 mg) and with chlorthalidone; correcting hypokalemia (K+-sparing diuretic combination, K+ supplements) often improves glucose tolerance",
+        "Direct activation of glucose-6-phosphatase"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Thiazides do not directly stimulate hepatic gluconeogenesis.",
+        "Incorrect. The mechanism is INDIRECT (via hypokalemia), not direct β-cell inhibition.",
+        "Incorrect. Thiazides do not antagonize the insulin receptor.",
+        "Correct. Thiazide-induced hyperglycemia is principally mediated by hypokalemia, which impairs pancreatic β-cell insulin secretion. β-cells require K-ATP channel-mediated K+ flux for proper depolarization and insulin release; chronic hypokalemia depletes intracellular K+ and impairs this coupling. Secondary mechanisms include modest reduction in skeletal muscle glucose uptake. The effect is dose-related (worse with HCTZ >25 mg or chlorthalidone at higher doses) and is partially reversed by correcting hypokalemia. Indapamide (with its lower metabolic effect profile) is an alternative.",
+        "Incorrect. Thiazides do not activate glucose-6-phosphatase."
+      ]
+    },
+    {
+      "id": 8,
+      "stem": "An 82-year-old woman on chronic hydrochlorothiazide for hypertension is brought to the ED by her family with confusion, lethargy, and one episode of vomiting. She has been increasing her water intake recently because of dry mouth. Laboratory studies are shown.",
+      "labs": [
+        { "name": "Serum sodium", "value": "118 mEq/L", "flag": "low", "ref": "135–145" },
+        { "name": "Plasma osmolality", "value": "250 mOsm/kg", "flag": "low", "ref": "275–295" },
+        { "name": "Urine osmolality", "value": "480 mOsm/kg", "flag": "high", "ref": "—" },
+        { "name": "Urine sodium", "value": "80 mEq/L", "flag": "high", "ref": "—" },
+        { "name": "Serum potassium", "value": "3.0 mEq/L", "flag": "low", "ref": "3.5–5.0" },
+        { "name": "BUN:creatinine ratio", "value": "12 (normal)", "flag": "", "ref": "10–20" },
+        { "name": "Volume status", "value": "Mildly hypovolemic on examination", "flag": "", "ref": "—" }
+      ],
+      "choices": [
+        "Pure SIADH from a CNS process",
+        "Cerebral salt wasting",
+        "Pseudohyponatremia from severe hyperlipidemia",
+        "Hyperglycemic translational hyponatremia",
+        "Multifactorial thiazide-induced hyponatremia: (1) thiazides impair the kidney's ability to dilute urine (because NCC blockade impairs the diluting segment), preventing free water excretion; (2) volume contraction stimulates non-osmotic ADH release; (3) hypokalemia drives intracellular Na+ shift and impairs ADH suppression; (4) elderly patients with reduced renal function are particularly susceptible. Often associated with mild volume depletion. Management: stop thiazide, correct hyponatremia cautiously, replace K+; consider switching to loop diuretic or alternative antihypertensive"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. SIADH features EUVOLEMIA; this patient is hypovolemic. Also, thiazide-induced hyponatremia is a recognized distinct entity.",
+        "Incorrect. CSW occurs in CNS disease (SAH, TBI, brain tumor); this patient has no CNS process.",
+        "Incorrect. Pseudohyponatremia features NORMAL plasma osmolality; this patient's osm is 250 (low).",
+        "Incorrect. Hyperglycemic hyponatremia features HIGH plasma osmolality; this patient's osm is low.",
+        "Correct. Thiazide-induced hyponatremia is a well-recognized syndrome, particularly in elderly women. Multiple mechanisms converge: (1) NCC blockade impairs urinary dilution (the DCT is part of the diluting segment); (2) volume contraction triggers non-osmotic ADH release, enhancing free water reabsorption at the collecting duct; (3) hypokalemia (very common with chronic HCTZ) impairs both ADH suppression and renal water handling; (4) increased water intake (often due to thirst, dry mouth, or social factors) overwhelms reduced excretory capacity; (5) age-related impairment of renal water handling. Severe symptomatic hyponatremia (Na+ <120 with confusion, seizure) is a serious complication. Management: stop thiazide, K+ replacement, careful Na+ correction (avoiding osmotic demyelination), consider alternative antihypertensive (CCB, ACEi/ARB, loop diuretic — which causes hyponatremia much less often)."
+      ]
+    },
+    {
+      "id": 9,
+      "stem": "A 60-year-old woman on long-term lithium for bipolar disorder is started on hydrochlorothiazide for newly diagnosed hypertension. Within 2 weeks she develops tremor, confusion, and ataxia. Lithium level is 2.1 mEq/L (toxic; therapeutic 0.6–1.2). Which of the following best explains the drug interaction?",
+      "choices": [
+        "Thiazide produces volume contraction; the proximal tubule responds by enhancing Na+ reabsorption — and lithium, like Na+, is reabsorbed in the proximal tubule. Increased proximal lithium reabsorption raises serum lithium levels by 25–40%. Coadministration of thiazides with lithium can rapidly precipitate lithium toxicity. NSAIDs and ACE inhibitors have similar effects through different mechanisms. Patients on lithium should have alternatives chosen when possible; if a thiazide is unavoidable, lithium dose should be reduced and levels monitored closely",
+        "Thiazide directly displaces lithium from plasma proteins",
+        "Thiazide increases hepatic lithium metabolism",
+        "Thiazide chemically reacts with lithium in the GI tract",
+        "Thiazide blocks lithium's action at the cellular level"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Lithium is a small monovalent cation handled like Na+ in the proximal tubule (no specific lithium transporter; reabsorbed paracellularly and via Na+/H+ exchange and other Na+ transporters). When thiazides cause volume contraction, the proximal tubule increases Na+ reabsorption — and lithium follows. Serum lithium levels can rise by 25–40%, precipitating lithium toxicity (tremor, ataxia, confusion, seizures, arrhythmias) in patients near their therapeutic range. NSAIDs (volume contraction + altered renal hemodynamics) and ACE inhibitors (similar volume effects) have similar interactions. Strategies: avoid concurrent thiazides where possible; if unavoidable, reduce lithium dose and monitor levels closely.",
+        "Incorrect. Lithium is not significantly protein-bound; displacement is not the mechanism.",
+        "Incorrect. Lithium is not hepatically metabolized; it is renally excreted.",
+        "Incorrect. There is no chemical interaction in the GI tract.",
+        "Incorrect. Thiazide does not block lithium's cellular action."
+      ]
+    },
+    {
+      "id": 10,
+      "stem": "A 65-year-old woman with hypertension on hydrochlorothiazide develops K+ 2.8 mEq/L and serum HCO3− 32 mEq/L. Which of the following best explains the mechanism of thiazide-induced hypokalemic metabolic alkalosis?",
+      "choices": [
+        "Direct activation of α-intercalated H+ secretion by thiazide",
+        "Thiazide blocks NCC in the early DCT, increasing distal Na+ delivery to the collecting duct. Volume contraction activates RAAS, raising aldosterone. The combination of (1) high distal Na+ delivery (substrate for ENaC), (2) high tubular flow (washes K+ from apical membrane and activates BK channels), and (3) high aldosterone (drives ENaC, ROMK, Na+/K+-ATPase, and α-intercalated H+-ATPase) amplifies principal-cell K+ secretion AND α-intercalated cell H+ secretion — producing renal K+ wasting and metabolic alkalosis (chloride-responsive)",
+        "Direct H+ generation in plasma by thiazide",
+        "Direct ENaC inhibition raising K+",
+        "Decreased aldosterone secretion"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Thiazides do not directly activate α-intercalated H+ secretion; the alkalosis is RAAS-driven.",
+        "Correct. Thiazide-induced hypokalemic alkalosis works through the same mechanism as loop-induced hypokalemic alkalosis. Three convergent factors at the collecting duct produce the picture: (1) increased distal Na+ delivery (because NCC reabsorption is blocked, more Na+ flows past the DCT to the collecting duct, fueling ENaC); (2) increased tubular flow rate (washes K+ away from the apical ROMK membrane and activates flow-dependent BK channels); (3) volume contraction-mediated RAAS activation drives aldosterone, which upregulates ENaC, ROMK, Na+/K+-ATPase, and α-intercalated H+-ATPase. The net result is K+ secretion (hypokalemia) and H+ secretion (alkalosis). Concurrent Cl− loss makes it 'chloride-responsive': isotonic saline with K+ correction restores balance.",
+        "Incorrect. Thiazides do not generate H+ in plasma.",
+        "Incorrect. Thiazides do not directly inhibit ENaC.",
+        "Incorrect. Aldosterone is INCREASED by volume contraction, not decreased."
+      ]
+    },
+    {
+      "id": 11,
+      "stem": "A 65-year-old man with hypertension is being switched from hydrochlorothiazide 25 mg daily to chlorthalidone for better blood pressure control. Compared with hydrochlorothiazide, which row in the table best characterizes chlorthalidone?",
+      "choice_table": {
+        "headers": ["Half-life (hours)", "BP-lowering at low dose", "K+ wasting at equivalent BP-lowering dose"],
+        "rows": [
+          ["Short (~10)", "Modest", "Modest (HCTZ profile)"],
+          ["Long (~40–60)", "Greater (more sustained)", "Greater (more hypokalemia)"],
+          ["Long (~16)", "Modest", "Less (indapamide-like)"],
+          ["Short (~3)", "Minimal", "Minimal"],
+          ["Unchanged", "Unchanged", "Unchanged"]
+        ]
+      },
+      "choices": ["A", "B", "C", "D", "E"],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Row A characterizes HYDROCHLOROTHIAZIDE — short half-life (~10 hours), modest 24-hour BP reduction at low doses, modest K+ wasting.",
+        "Correct. Chlorthalidone has a substantially longer half-life (~40–60 hours vs HCTZ ~10), provides more sustained 24-hour blood pressure reduction at equivalent or lower doses, and is associated with greater BP-lowering efficacy in randomized comparisons. The trade-off is greater hypokalemia and more metabolic effects (hyperuricemia, hyperglycemia) at equivalent BP-lowering doses. ALLHAT and several meta-analyses support chlorthalidone over HCTZ for hypertension where tolerated; some experts now recommend chlorthalidone as the preferred thiazide. Typical equipotency: chlorthalidone 12.5 mg ≈ HCTZ 25 mg.",
+        "Incorrect. Row C describes INDAPAMIDE — long half-life (~16 hours), less hypokalemia at equivalent BP effect, with notably fewer metabolic side effects.",
+        "Incorrect. Row D corresponds to no clinically used thiazide.",
+        "Incorrect. Switching from HCTZ to chlorthalidone produces measurable changes; values are not unchanged."
+      ]
+    },
+    {
+      "id": 12,
+      "stem": "A 60-year-old woman with hypertension and type 2 diabetes is to be started on a thiazide-like diuretic. Compared with hydrochlorothiazide, which of the following best characterizes indapamide?",
+      "choices": [
+        "Indapamide has a shorter half-life and more pronounced metabolic side effects",
+        "Indapamide has a long half-life (~16 hours), modest BP-lowering effect, and notably FEWER metabolic side effects (less hyperglycemia and hypokalemia at equivalent BP-lowering doses); it is sometimes preferred in patients with diabetes or metabolic concerns. Indapamide also has minor vasodilator activity that contributes to its BP effect",
+        "Indapamide is a non-thiazide diuretic with completely different mechanism",
+        "Indapamide is more potent than chlorthalidone in K+ wasting",
+        "Indapamide is contraindicated in hypertension"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Indapamide has a longer half-life and FEWER metabolic side effects than HCTZ.",
+        "Correct. Indapamide is a thiazide-LIKE (sulfonamide diuretic that is structurally distinct but mechanistically similar) with a half-life of ~16 hours, modest BP effect, and a more favorable metabolic profile than HCTZ — less hyperglycemia, less hypokalemia, less hyperlipidemia at equivalent BP-lowering doses. It also has minor vasodilator activity (probably via Ca2+ channel and prostaglandin effects). Indapamide is sometimes preferred in patients with metabolic concerns and is widely used in Europe.",
+        "Incorrect. Indapamide acts at NCC like other thiazide-like diuretics.",
+        "Incorrect. Indapamide is LESS K+-wasting at equivalent BP-lowering doses than chlorthalidone.",
+        "Incorrect. Indapamide is widely used for hypertension."
+      ]
+    },
+    {
+      "id": 13,
+      "stem": "A 70-year-old man with HFrEF is on furosemide 240 mg daily but has poor diuresis. The team adds metolazone 2.5 mg daily as a 'sequential nephron blockade' strategy. Which of the following best characterizes metolazone in this clinical setting?",
+      "choices": [
+        "A loop diuretic that synergizes with furosemide",
+        "An aldosterone antagonist",
+        "A V2 receptor antagonist",
+        "A thiazide-like diuretic that retains some efficacy at low GFR (unlike most thiazides). When added to a loop diuretic in patients with diuretic resistance, it blocks the upregulated NCC in the DCT and allows more Na+ to reach the collecting duct — producing brisk synergistic diuresis. Risks: severe hypokalemia, hypomagnesemia, contraction alkalosis, and AKI; close monitoring of electrolytes and renal function is essential",
+        "An ENaC inhibitor"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Metolazone is a thiazide-like diuretic, not a loop diuretic.",
+        "Incorrect. Aldosterone antagonists are spironolactone and eplerenone.",
+        "Incorrect. V2 antagonists are tolvaptan and conivaptan.",
+        "Correct. Metolazone is a quinazoline thiazide-LIKE diuretic with a unique pharmacologic profile: it retains some efficacy at low GFR (because of slightly different proximal tubular delivery and possibly some additional sites of action). In patients with diuretic resistance on chronic loop diuretic therapy, the chronic loop monotherapy upregulates NCC in the DCT, increasing distal Na+ reabsorption and partially offsetting the upstream blockade. Adding metolazone blocks this upregulated NCC, producing brisk synergistic diuresis. Clinical risks: severe hypokalemia, hypomagnesemia, contraction alkalosis, and AKI; usually given short-term with close electrolyte monitoring.",
+        "Incorrect. ENaC inhibitors are amiloride and triamterene."
+      ]
+    },
+    {
+      "id": 14,
+      "stem": "A 65-year-old man with hypertension and CKD (eGFR 22 mL/min/1.73 m²) has poor BP response to hydrochlorothiazide 25 mg daily. Which of the following best explains why most thiazides become less effective in advanced CKD?",
+      "choices": [
+        "Thiazides are nephrotoxic at low GFR",
+        "Reduced GFR limits filtered drug delivery; reduced organic anion transport in CKD limits proximal tubular secretion of thiazide; reduced tubular Na+ load means less substrate for the DCT; and chronic kidney disease has fewer functioning nephrons. Most thiazides become ineffective at GFR <30; chlorthalidone retains more activity at lower GFR because of pharmacokinetic differences. In severe CKD, loop diuretics are typically required for volume management",
+        "CKD patients have intrinsic NCC mutations",
+        "Thiazides are absolutely contraindicated in CKD",
+        "Thiazides are first-line in CKD"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Thiazides are not principally nephrotoxic; they become ineffective in advanced CKD due to pharmacokinetic and pharmacodynamic factors.",
+        "Correct. Thiazide effectiveness declines with reduced GFR for several reasons: (1) reduced filtered drug; (2) competing organic anions in CKD reduce OAT-mediated proximal tubular secretion of thiazide; (3) reduced filtered Na+ load means less substrate for the DCT to reabsorb (so blocking NCC produces a smaller absolute natriuresis); (4) chronic CKD has fewer functioning nephrons. Most thiazides lose efficacy at GFR <30. Chlorthalidone retains more activity at lower GFR (likely due to its long half-life, which allows sustained tubular concentrations). In severe CKD with volume overload, loop diuretics — at HIGHER doses — are typically required.",
+        "Incorrect. CKD does not cause NCC mutations.",
+        "Incorrect. Thiazides are not absolutely contraindicated; they are simply less effective in advanced CKD.",
+        "Incorrect. Loop diuretics — not thiazides — are first-line for volume management in advanced CKD."
+      ]
+    },
+    {
+      "id": 15,
+      "stem": "A 28-year-old man with chronic lithium therapy develops nephrogenic diabetes insipidus with polyuria of 6 L/day. Hydrochlorothiazide is started, and within 2 weeks his urine output has fallen to ~3 L/day. Which of the following best explains the paradoxical antidiuretic effect of thiazides in nephrogenic DI?",
+      "choices": [
+        "Thiazides act as direct ADH replacement",
+        "Thiazides directly upregulate AQP2",
+        "Thiazides block NCC, producing volume contraction. Volume contraction activates RAAS and stimulates proximal tubular Na+ and water reabsorption (because volume contraction enhances proximal Na+ reabsorption with water following). With more proximal water reabsorption, less fluid reaches the diluting segments of the loop of Henle and DCT. The result is reduced urinary water excretion despite the absence of ADH-driven AQP2 insertion. The effect is partial but clinically useful",
+        "Thiazides reverse lithium-induced AQP2 downregulation directly",
+        "Thiazides cause renal injury that reduces urine output"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Thiazides do not directly replace ADH.",
+        "Incorrect. Thiazides do not directly upregulate AQP2; the effect is hemodynamic.",
+        "Correct. The seemingly paradoxical antidiuretic effect of thiazides in nephrogenic DI works through volume contraction. Thiazide blocks NCC, producing natriuresis and modest volume depletion. Volume contraction enhances proximal tubular Na+ reabsorption (mediated by AT II, sympathetic outflow, and increased peritubular oncotic pressure). With more proximal Na+ AND water reabsorbed, less tubular fluid reaches the diluting segments and the collecting duct — reducing urine output. Combined with a low-Na+ diet to amplify the volume contraction effect, thiazides can substantially reduce polyuria in NDI. The effect is partial but clinically useful, especially in lithium-induced NDI where ADH supplementation does not work.",
+        "Incorrect. Thiazides do not directly reverse the molecular AQP2 effects of lithium.",
+        "Incorrect. Thiazides do not produce renal injury at therapeutic doses."
+      ]
+    },
+    {
+      "id": 16,
+      "stem": "A 60-year-old man with documented severe sulfonamide allergy (anaphylaxis) requires diuretic therapy for hypertension. Which of the following thiazide-class medications is safe to use in this patient?",
+      "choices": [
+        "Hydrochlorothiazide despite the allergy history",
+        "None — all thiazides and thiazide-like diuretics are sulfonamide-derived and should be avoided in patients with documented severe sulfa allergy. Alternatives for hypertension include calcium channel blockers, ACE inhibitors / ARBs, or β-blockers; for diuretic effect, ethacrynic acid (the only non-sulfonamide loop diuretic) is the closest substitute",
+        "Chlorthalidone (chemically distinct)",
+        "Indapamide (chemically distinct)",
+        "Metolazone (non-sulfonamide)"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. With documented severe (anaphylactic) sulfa reaction, exposing the patient to another sulfonamide-containing diuretic is risky.",
+        "Correct. All thiazides (HCTZ, chlorthalidone, indapamide, metolazone) are sulfonamide-derived and should be avoided in patients with documented severe sulfa allergy. Note that for patients with mild or self-reported 'sulfa allergy' the cross-reactivity between antibacterial sulfonamides and non-antibacterial sulfonamide diuretics is uncommon; many such patients tolerate thiazides without incident. But in a documented anaphylactic reaction, alternatives are preferred. For BP control: calcium channel blockers, ACE inhibitors / ARBs, β-blockers. For diuretic effect, ethacrynic acid is the only non-sulfonamide loop diuretic.",
+        "Incorrect. Chlorthalidone IS a sulfonamide.",
+        "Incorrect. Indapamide IS a sulfonamide-like diuretic.",
+        "Incorrect. Metolazone IS a sulfonamide-like diuretic."
+      ]
+    },
+    {
+      "id": 17,
+      "stem": "A 28-year-old pregnant woman in her second trimester with gestational hypertension is being considered for antihypertensive therapy. Which of the following best characterizes the use of thiazide diuretics in pregnancy?",
+      "choices": [
+        "First-line for routine pregnancy hypertension",
+        "Generally avoided in pregnancy because they cross the placenta and may reduce uteroplacental perfusion through volume contraction; theoretically associated with fetal electrolyte abnormalities (hypokalemia, hyponatremia, hypoglycemia, thrombocytopenia). Not first-line for routine pregnancy HTN, where methyldopa, labetalol, and nifedipine are preferred. May be continued in women already on thiazide pre-pregnancy if BP control is adequate, but generally not initiated in pregnancy",
+        "Drug of choice for preeclampsia",
+        "Absolutely safe in all trimesters",
+        "Used to prevent preeclampsia"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Methyldopa, labetalol, and nifedipine — not thiazides — are first-line for hypertension in pregnancy.",
+        "Correct. Thiazide diuretics cross the placenta and may reduce uteroplacental perfusion through volume contraction. Theoretical fetal risks include neonatal hypokalemia, hyponatremia, hypoglycemia, and thrombocytopenia (though rare in clinical practice). They are NOT first-line for routine pregnancy hypertension. Methyldopa (longest safety record), labetalol (commonly used), and nifedipine (calcium channel blocker) are the preferred agents. Some women already taking a thiazide pre-pregnancy may continue if BP is well-controlled, but generally thiazides are not initiated.",
+        "Incorrect. Hydralazine, labetalol, and nifedipine are preferred for severe preeclampsia hypertension.",
+        "Incorrect. Thiazides are not absolutely safe in pregnancy.",
+        "Incorrect. Thiazides do not prevent preeclampsia."
+      ]
+    },
+    {
+      "id": 18,
+      "stem": "A 22-year-old man presents with chronic muscle weakness and fatigue. He has had no medical history of significance. Examination shows blood pressure 105/65 mm Hg. Laboratory studies are shown.",
+      "labs": [
+        { "name": "Serum potassium", "value": "2.6 mEq/L", "flag": "low", "ref": "3.5–5.0" },
+        { "name": "Serum bicarbonate", "value": "30 mEq/L", "flag": "high", "ref": "22–28" },
+        { "name": "Serum chloride", "value": "92 mEq/L", "flag": "low", "ref": "98–106" },
+        { "name": "Serum magnesium", "value": "1.3 mg/dL", "flag": "low", "ref": "1.7–2.5" },
+        { "name": "24-h urinary calcium", "value": "Markedly low (hypocalciuria)", "flag": "low", "ref": "—" },
+        { "name": "Plasma renin activity", "value": "Markedly elevated", "flag": "high", "ref": "—" },
+        { "name": "Plasma aldosterone", "value": "Markedly elevated", "flag": "high", "ref": "—" }
+      ],
+      "choices": [
+        "Liddle syndrome (gain-of-function ENaC)",
+        "Bartter syndrome (NKCC2 loss-of-function)",
+        "Conn syndrome (primary hyperaldosteronism)",
+        "Gitelman syndrome — autosomal recessive loss-of-function mutation in NCC (the same transporter inhibited by thiazide diuretics). Phenotype mirrors that of a patient on chronic thiazide: hypokalemic alkalosis, HYPOmagnesemia, HYPOcalciuria (the distinguishing feature from Bartter), normal-low BP, elevated renin and aldosterone. Usually presents in adolescence/young adulthood with salt craving and fatigue",
+        "Nephrogenic diabetes insipidus"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Liddle features HYPERTENSION, suppressed renin and aldosterone — opposite of this profile.",
+        "Incorrect. Bartter shares the hypokalemic alkalosis pattern but features HYPERCALCIURIA (not hypocalciuria) and presents earlier (typically childhood) with severe salt-wasting and growth retardation. The hypercalciuria reflects loss of the lumen-positive voltage in the TAL.",
+        "Incorrect. Conn syndrome features hypertension, low renin, high aldosterone — opposite of this profile.",
+        "Correct. Gitelman syndrome is autosomal recessive loss-of-function mutation in SLC12A3 encoding NCC — the same target inhibited by thiazides. Phenotype mirrors that of a patient on chronic thiazide therapy: hypokalemic metabolic alkalosis, HYPOmagnesemia (loss of TRPM6 activity in DCT), HYPOcalciuria (because volume contraction enhances proximal Ca2+ reabsorption AND DCT NCX1 activity rises with low intracellular Na+), normal-to-low BP, elevated renin and aldosterone. Distinguishes from Bartter by HYPOCALCIURIA and milder/later presentation. Treatment: K+ and Mg2+ supplementation, NaCl supplementation; sometimes K+-sparing diuretic (amiloride, spironolactone).",
+        "Incorrect. Nephrogenic DI presents with polyuria and hypernatremia, not the hypokalemic alkalosis pattern."
+      ]
+    },
+    {
+      "id": 19,
+      "stem": "A 55-year-old African-American man is newly diagnosed with stage 1 hypertension (BP 145/92, no end-organ damage, no diabetes). According to current guidelines, which of the following is an appropriate first-line antihypertensive in this patient?",
+      "choices": [
+        "Calcium channel blocker (e.g., amlodipine)",
+        "Thiazide-type diuretic (chlorthalidone preferred over HCTZ at low dose)",
+        "ACE inhibitor (e.g., lisinopril)",
+        "Angiotensin receptor blocker (e.g., losartan)",
+        "Either thiazide-type diuretic OR calcium channel blocker is preferred as first-line monotherapy in African-American patients without comorbidities (per JNC 8 and ACC/AHA 2017 guidelines), based on randomized trial evidence of better BP-lowering and outcomes than ACE inhibitors / ARBs in this population. ACE inhibitors / ARBs are added if needed or used as first-line in patients with diabetes, CKD, or HF. Combination therapy is often required to reach goal"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. CCB IS a reasonable first-line agent — but the question asks for the BEST characterization, which acknowledges that BOTH are first-line.",
+        "Incorrect. Thiazide IS reasonable first-line, but as above, the BEST answer acknowledges multiple first-line options.",
+        "Incorrect. ACE inhibitors are LESS effective than thiazides or CCBs for BP-lowering in African-American patients without comorbidities; reserved for those with DM/CKD/HF.",
+        "Incorrect. Same as ACE inhibitor — less effective in African-American patients without specific comorbidity.",
+        "Correct. Multiple guidelines (JNC 8, ACC/AHA 2017) recommend either thiazide-type diuretic (preferably chlorthalidone) OR a long-acting calcium channel blocker as preferred first-line monotherapy in African-American patients without DM, CKD, or HF. ACE inhibitors / ARBs are less effective than thiazides or CCBs in this population for BP-lowering and CV outcomes (likely related to lower-renin hypertension). When ACE inhibitor or ARB is indicated for comorbidity, it is often combined with a thiazide or CCB to achieve goal BP."
+      ]
+    },
+    {
+      "id": 20,
+      "stem": "A 60-year-old researcher is reviewing the ALLHAT trial findings regarding antihypertensive selection. ALLHAT compared chlorthalidone with amlodipine, lisinopril, and doxazosin (the doxazosin arm was stopped early). Which of the following best characterizes the principal findings of ALLHAT for the chlorthalidone arm?",
+      "choices": [
+        "Chlorthalidone was inferior to lisinopril for the primary outcome",
+        "Chlorthalidone produced more strokes than lisinopril",
+        "Chlorthalidone was as effective as amlodipine and lisinopril for the primary outcome (combined fatal coronary heart disease + nonfatal MI), with lower incidence of HF (vs amlodipine) and lower incidence of stroke and HF (vs lisinopril, particularly in African-American patients). Findings supported thiazide-type diuretic as a preferred first-line agent for hypertension. Subsequent analyses raised questions about HCTZ's equivalence to chlorthalidone given the latter's longer half-life and superior 24-h BP control",
+        "Chlorthalidone produced fewer strokes than amlodipine but more myocardial infarctions",
+        "All thiazides were equally effective"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Chlorthalidone was at least as effective as lisinopril for the primary outcome.",
+        "Incorrect. Chlorthalidone produced FEWER strokes than lisinopril (particularly in African-American patients).",
+        "Correct. ALLHAT (2002) compared chlorthalidone (12.5–25 mg) with amlodipine (CCB), lisinopril (ACE inhibitor), and doxazosin (α-blocker; arm stopped early due to higher HF risk). Principal findings: chlorthalidone was as effective as the others for the primary CV outcome and produced LESS HF than amlodipine and LESS HF + stroke than lisinopril (the stroke difference was particularly pronounced in African-American participants). Subsequent observation: HCTZ at typical clinical doses (12.5–25 mg) may not provide equivalent 24-h BP control to chlorthalidone given the latter's longer half-life. Many experts now recommend chlorthalidone preferentially when feasible.",
+        "Incorrect. Chlorthalidone produced similar MI rates and FEWER strokes than amlodipine.",
+        "Incorrect. ALLHAT specifically highlighted potential differences between chlorthalidone and HCTZ; they are not equivalent."
+      ]
+    },
+    {
+      "id": 21,
+      "stem": "A 60-year-old man on chronic hydrochlorothiazide develops asymptomatic hypomagnesemia (Mg2+ 1.4 mg/dL). Which of the following best describes the mechanism of thiazide-induced hypomagnesemia?",
+      "choices": [
+        "Thiazide blocks an apical Mg2+ pump in the DCT",
+        "Thiazide blocks NCC in the DCT, leading to atrophy or downregulation of TRPM6 (the apical Mg2+ channel), which is functionally coupled to NCC. Reduced apical Mg2+ uptake produces hypomagnesemia. Concurrent volume contraction may also reduce Mg2+ reabsorption proximally. Hypomagnesemia perpetuates hypokalemia (low intracellular Mg2+ removes its inhibition of ROMK)",
+        "Thiazide chelates Mg2+ in plasma",
+        "Thiazide increases GI Mg2+ losses",
+        "Thiazide increases Mg2+ binding to plasma albumin"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. There is no apical Mg2+ pump in the DCT to be blocked.",
+        "Correct. The DCT is the principal site of regulated Mg2+ reabsorption (apical TRPM6 channel; basolateral exit via SLC41A1 and ATPases). NCC blockade by thiazides leads to functional and structural atrophy of DCT cells over chronic use, with downregulation of TRPM6 and reduced apical Mg2+ uptake. Volume contraction may also modestly reduce paracellular Mg2+ reabsorption proximally. Hypomagnesemia is common with chronic thiazide use and contributes to refractory hypokalemia (low intracellular Mg2+ removes its inhibition of ROMK, allowing inappropriate ongoing renal K+ wasting).",
+        "Incorrect. Thiazides do not chelate Mg2+.",
+        "Incorrect. Thiazides do not affect intestinal Mg2+ absorption.",
+        "Incorrect. Mg2+ binding to albumin is not affected by thiazides."
+      ]
+    },
+    {
+      "id": 22,
+      "stem": "A 58-year-old man has been on hydrochlorothiazide for hypertension for 6 months. He reports new-onset erectile dysfunction. Which of the following best characterizes thiazide-associated sexual dysfunction?",
+      "choices": [
+        "Direct testosterone receptor antagonism",
+        "Erectile dysfunction is a recognized adverse effect of thiazide diuretics, with incidence higher than placebo in some clinical trials. Mechanism is incompletely understood but is thought to involve modest reductions in penile arterial perfusion (volume contraction, electrolyte effects), and direct effects on smooth muscle. Spironolactone has stronger sexual side effects (gynecomastia, decreased libido) due to androgen receptor effects",
+        "Direct stimulation of phosphodiesterase-5 in corpus cavernosum",
+        "Direct stimulation of NO production",
+        "No association between thiazides and sexual dysfunction"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Thiazides do not antagonize testosterone receptors directly.",
+        "Correct. Erectile dysfunction is a recognized adverse effect of thiazide diuretics (and several other antihypertensives, particularly β-blockers). The mechanism is incompletely understood but is thought to involve volume contraction effects on penile arterial perfusion and possibly direct smooth muscle effects. Patients should be asked about sexual function during follow-up, and switching to a different antihypertensive (e.g., ACE inhibitor, ARB, calcium channel blocker) is reasonable if symptoms are bothersome. Spironolactone has more pronounced sexual effects (gynecomastia, decreased libido) due to its antiandrogenic activity at high doses.",
+        "Incorrect. Thiazides do not stimulate PDE5.",
+        "Incorrect. Thiazides do not directly stimulate NO production.",
+        "Incorrect. Thiazides ARE associated with sexual dysfunction."
+      ]
+    },
+    {
+      "id": 23,
+      "stem": "A 60-year-old woman with recurrent calcium oxalate stones is being chosen between thiazide and loop diuretic for stone prevention. Compared with loop diuretics, which row in the table best characterizes thiazide diuretics on calcium handling?",
+      "choice_table": {
+        "headers": ["Urinary Ca2+", "Serum K+", "Use in Ca-oxalate stone prevention"],
+        "rows": [
+          ["up", "down", "Worsens stone risk"],
+          ["down", "down", "Helps prevent stones"],
+          ["up", "up", "Worsens stone risk"],
+          ["down", "up", "Helps prevent stones"],
+          ["unchanged", "unchanged", "No effect"]
+        ]
+      },
+      "choices": ["A", "B", "C", "D", "E"],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. ↑ urinary Ca with ↓ K describes LOOP diuretics — they WORSEN stone risk and are AVOIDED in stone-formers.",
+        "Correct. Thiazides reduce urinary Ca2+ by ~40% via two mechanisms: (1) volume contraction enhances proximal Na+ and Ca2+ reabsorption; (2) reduced intracellular Na+ in DCT cells (because NCC is blocked) raises basolateral NCX1 activity and apical TRPV5 Ca2+ uptake. This hypocalciuria PREVENTS calcium oxalate stones. Concurrent K+ wasting (↓ K) from increased distal Na+ delivery often requires K+ supplementation or addition of a K+-sparing diuretic. Adjuncts include K+ citrate (raises urinary citrate, which inhibits stone formation) and dietary measures.",
+        "Incorrect. Thiazides do not raise urinary Ca2+; they LOWER it.",
+        "Incorrect. Thiazides cause hypokalemia (K+ DOWN), not hyperkalemia.",
+        "Incorrect. Thiazides produce significant changes in calcium handling; not unchanged."
+      ]
+    },
+    {
+      "id": 24,
+      "stem": "A 65-year-old man with hypertension and CKD (eGFR 24 mL/min/1.73 m²) on hydrochlorothiazide 25 mg daily has poor response. The clinician is considering chlorthalidone as an alternative. Which of the following best explains why chlorthalidone may retain efficacy at lower GFR than HCTZ?",
+      "choices": [
+        "Chlorthalidone has a different molecular target than HCTZ",
+        "Chlorthalidone is filtered (not secreted), bypassing the OAT bottleneck",
+        "Chlorthalidone is potassium-sparing",
+        "Chlorthalidone activates a different sodium channel",
+        "Chlorthalidone has a much longer half-life (~40–60 hours vs HCTZ ~10) and higher relative volume of distribution, leading to more sustained tubular concentrations even when proximal secretion is reduced. Some recent randomized data (CLICK trial, 2021) showed chlorthalidone effective at low GFR (down to ~15 mL/min/1.73 m²), supporting its use as an add-on antihypertensive in advanced CKD where HCTZ would be expected to fail. Loop diuretics remain the principal volume-management agents in CKD"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. Chlorthalidone targets the same NCC as HCTZ.",
+        "Incorrect. Chlorthalidone is also primarily delivered by OAT-mediated proximal secretion.",
+        "Incorrect. Chlorthalidone is not K+-sparing; it causes K+ wasting like other thiazides.",
+        "Incorrect. Chlorthalidone activates the same Na+/Cl− cotransporter as HCTZ.",
+        "Correct. Chlorthalidone has a half-life of ~40–60 hours (vs HCTZ ~10) and stays in red blood cells (high VD), maintaining higher tissue and tubular concentrations over time. Although traditional teaching held that thiazides become ineffective at GFR <30, the CLICK trial (2021) demonstrated chlorthalidone added to background therapy reduced systolic BP by ~10 mm Hg in patients with stage 4 CKD (eGFR ~25), supporting its use as an add-on antihypertensive in advanced CKD where HCTZ would be ineffective. Loop diuretics remain principal volume-management agents in CKD."
+      ]
+    },
+    {
+      "id": 25,
+      "stem": "A 60-year-old man with stage 2 hypertension (BP 162/96) and microalbuminuria from diabetic nephropathy is started on combination therapy. Which of the following best characterizes a guideline-recommended initial combination for this patient?",
+      "choices": [
+        "Thiazide-type diuretic (e.g., chlorthalidone) + ACE inhibitor (or ARB) — leverages two complementary mechanisms (sodium reduction and RAAS blockade); ACE inhibitor / ARB is renoprotective for proteinuric diabetic nephropathy by reducing intraglomerular pressure; thiazide augments BP control and offsets any tendency toward hyperkalemia from RAAS blockade. Most patients with stage 2 HTN and end-organ damage require combination therapy from the outset",
+        "Thiazide + β-blocker (no longer first-line in HTN without compelling CV indication)",
+        "ACE inhibitor + ARB (avoided due to higher AKI / hyperkalemia risk without added benefit)",
+        "Thiazide + spironolactone (reasonable for resistant HTN but typically added after first-line failure)",
+        "Loop diuretic + ARB (loop diuretic is reserved for volume management in advanced HF or CKD)"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Thiazide-type diuretic (chlorthalidone) + ACE inhibitor (or ARB) is a guideline-preferred initial combination for stage 2 hypertension with diabetic nephropathy: (1) RAAS blockade is renoprotective for proteinuric kidney disease (reduces intraglomerular pressure and proteinuria, slows CKD progression); (2) thiazide adds BP-lowering and counterbalances the slight hyperkalemic tendency of RAAS blockers; (3) the two have complementary mechanisms and together produce greater BP reduction than either alone. Most patients with stage 2 HTN with end-organ damage benefit from initial combination therapy (per ACC/AHA and other guidelines). Single-pill combinations improve adherence.",
+        "Incorrect. β-blockers are no longer recommended as first-line for hypertension without a compelling CV indication (post-MI, HFrEF, atrial fibrillation rate control).",
+        "Incorrect. ACE inhibitor + ARB combination has been shown in randomized trials (ONTARGET, others) to provide no additional benefit over either alone, with increased risk of AKI and hyperkalemia. Combination is generally avoided.",
+        "Incorrect. Thiazide + spironolactone is reasonable for resistant hypertension but is typically added when first-line therapy is inadequate, not as initial combination.",
+        "Incorrect. Loop diuretics are reserved for volume management in advanced HF or CKD; they are not first-line for HTN management without volume overload."
+      ]
+    },
+    {
+      "id": 26,
+      "stem": "A 70-year-old woman has been on hydrochlorothiazide 25 mg daily for hypertension for 6 months. Her serum potassium has fallen from 4.2 to 3.0 mEq/L. Her clinician adds amiloride 5 mg daily. Which of the following best characterizes this combination?",
+      "choices": [
+        "Amiloride opposes K+ wasting through a separate mechanism",
+        "Amiloride blocks ACE",
+        "Amiloride blocks NCC",
+        "Amiloride blocks ENaC in collecting duct principal cells, reducing apical Na+ entry. With less Na+ entering the cell, the lumen-negative voltage that drives K+ secretion via ROMK is reduced — K+ wasting is reduced. The combination of thiazide + amiloride (or thiazide + triamterene) restores K+ balance while preserving the BP-lowering effect of thiazide. Risks: hyperkalemia, especially in CKD or with ACE inhibitor/ARB; hyperglycemia is reduced compared with thiazide alone",
+        "Amiloride blocks aldosterone synthesis"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. While true at a high level, the BEST answer specifies the molecular mechanism.",
+        "Incorrect. Amiloride does not block ACE.",
+        "Incorrect. Amiloride blocks ENaC, not NCC.",
+        "Correct. Amiloride is a direct ENaC blocker in the apical membrane of collecting duct principal cells. With ENaC blocked, Na+ entry into the cell is reduced; the lumen-negative transepithelial voltage (which drives K+ secretion via ROMK) is reduced; K+ secretion falls. Thiazide-induced hypokalemia is therefore mitigated. Combination products (HCTZ + amiloride or HCTZ + triamterene) are widely used. Risks: hyperkalemia (especially in CKD or with concurrent ACE inhibitor / ARB / spironolactone). The combination is also associated with reduced metabolic side effects (less hyperglycemia and hyperuricemia) compared with thiazide alone.",
+        "Incorrect. Amiloride does not block aldosterone synthesis (that would be ketoconazole, etc.); spironolactone blocks the receptor."
+      ]
+    }
+  ]
+}
