@@ -65,7 +65,7 @@
       "stem": "A 65-year-old man undergoes open repair of a ruptured abdominal aortic aneurysm. Postoperatively he develops oliguric acute kidney injury, and biopsy demonstrates ischemic tubular injury concentrated in the outer medulla, particularly affecting the medullary thick ascending limb. Which of the following best explains the susceptibility of this region to ischemic injury?",
       "choices": [
         "The outer medulla has the highest blood flow per gram in the kidney",
-        "The outer medulla — and particularly the medullary thick ascending limb — operates at the lowest tissue oxygen tension while sustaining a high metabolic demand for active NaCl reabsorption via NKCC2; this combination makes it highly vulnerable to ischemic injury",
+        "The outer medulla operates at low tissue PO2 with high metabolic demand",
         "The outer medulla lacks autoregulation",
         "The outer medulla is supplied only by a single segmental artery",
         "The medullary thick ascending limb has the lowest mitochondrial density of any tubular segment"
@@ -84,7 +84,7 @@
       "stem": "A renal physiologist infuses an inhibitor of endothelial nitric oxide synthase (eNOS) into the renal artery of an experimental preparation. Which of the following best describes the expected effect on renal vascular tone?",
       "choices": [
         "Decreased renal vascular resistance and increased RBF",
-        "Increased renal vascular resistance with vasoconstriction and decreased RBF",
+        "Increased renal vascular resistance with decreased RBF",
         "No effect on renal vascular tone, since NO is not produced in the kidney",
         "Selective dilation of the efferent arteriole only",
         "Increased GFR with no change in RBF"
@@ -106,7 +106,7 @@
         "Vasodilation of the efferent arteriole",
         "Direct stimulation of renin release from JG cells",
         "Negative inotropic effect on the glomerular tuft",
-        "Potent vasoconstriction of both renal arterioles, contributing to renal hypoperfusion in disease"
+        "Potent vasoconstriction of both renal arterioles"
       ],
       "answer": 4,
       "explanations": [
@@ -121,7 +121,7 @@
       "id": 7,
       "stem": "A 60-year-old man receiving long-term lisinopril for hypertension has a persistent dry cough. Plasma bradykinin levels are elevated due to inhibition of bradykinin breakdown by ACE. Which of the following best characterizes the renal vascular effect of bradykinin?",
       "choices": [
-        "Vasodilation of renal arterioles, mediated principally by endothelial release of nitric oxide and prostaglandins",
+        "Vasodilation of renal arterioles via endothelial NO and prostaglandins",
         "Vasoconstriction via α1-adrenergic receptors",
         "Stimulation of efferent arteriolar contraction",
         "Direct stimulation of renin release",
@@ -183,7 +183,7 @@
       "stem": "A 22-year-old soldier in hemorrhagic shock has markedly elevated circulating norepinephrine. Norepinephrine acts at the renal arterioles via which of the following receptors and with which predominant effect?",
       "choices": [
         "β1-adrenergic receptors → vasodilation",
-        "α1-adrenergic receptors → vasoconstriction of both arterioles, with afferent predominance at high catecholamine levels, reducing RBF and GFR",
+        "α1-adrenergic receptors → vasoconstriction of both arterioles",
         "β2-adrenergic receptors → afferent vasoconstriction",
         "Muscarinic M3 receptors → vasodilation",
         "D1 dopaminergic receptors → vasodilation and natriuresis"
@@ -203,7 +203,7 @@
       "choices": [
         "Direct renal arteriolar vasodilation",
         "Increased free water excretion in the collecting duct",
-        "Vasoconstriction of vascular smooth muscle, including renal arterioles, raising systemic blood pressure",
+        "Vasoconstriction of vascular smooth muscle including renal arterioles",
         "Decreased renin release",
         "Increased apical AQP2 insertion in collecting duct principal cells"
       ],
@@ -223,7 +223,7 @@
         "Direct stimulation of aldosterone secretion at high blood pressure",
         "Increased glomerular filtration rate proportional to systemic blood pressure (since autoregulation fails at high pressures)",
         "Sympathetic outflow rises in proportion to BP and increases Na+ excretion",
-        "Increased renal medullary blood flow at higher renal perfusion pressure raises medullary interstitial hydrostatic pressure, reducing tubular Na+ reabsorption (especially in proximal tubule and loop of Henle); local NO and prostaglandin signals contribute",
+        "Increased medullary blood flow raises interstitial pressure, reducing tubular Na+ reabsorption",
         "Direct ANP release from the kidney"
       ],
       "answer": 3,
@@ -243,7 +243,7 @@
         "Predominant vasodilation in response to hemorrhage",
         "Increased medullary blood flow with cortical sparing",
         "ANP-mediated vasoconstriction",
-        "Combined sympathetic α-adrenergic vasoconstriction, elevated circulating catecholamines, and elevated angiotensin II all narrow renal arterioles, reducing RBF below the autoregulatory limit at MAPs <80 mm Hg"
+        "Combined sympathetic, catecholamine, and AT II–mediated arteriolar constriction"
       ],
       "answer": 4,
       "explanations": [
@@ -261,7 +261,7 @@
         "Increased renal blood flow due to compensatory vasodilation",
         "Unchanged renal blood flow because of autoregulation",
         "Slightly increased renal blood flow",
-        "Reduced renal blood flow from low cardiac output and intense neurohumoral renal vasoconstriction (RAAS, sympathetic, ADH); efferent constriction by AT II preserves GFR more than RBF, raising filtration fraction",
+        "Reduced RBF from low cardiac output and neurohumoral vasoconstriction",
         "Reversed flow direction in renal arteries"
       ],
       "answer": 3,
@@ -280,7 +280,7 @@
         "Bilateral renal artery stenosis with renin-mediated hypertension",
         "Direct hepatotoxic effect of unconjugated bilirubin on the renal tubule",
         "Acute tubular necrosis from infection",
-        "Splanchnic arteriolar vasodilation reduces effective arterial volume; reflex activation of RAAS, sympathetic outflow, and ADH causes intense renal vasoconstriction (hepatorenal syndrome) that is initially reversible with vasoconstrictor therapy or liver transplant",
+        "Hepatorenal syndrome from splanchnic vasodilation and renal vasoconstriction",
         "Pure prerenal azotemia that fully reverses with volume expansion"
       ],
       "answer": 3,
@@ -321,7 +321,7 @@
       "choices": [
         "Increased systemic blood pressure during exercise overrides renal autoregulation, raising RBF",
         "Vasodilation of renal arterioles in response to lactate accumulation",
-        "Sympathetic α-adrenergic vasoconstriction of renal arterioles redirects blood flow to skeletal muscle and skin; renal vasoconstriction can reduce RBF by 20–30% during sustained vigorous exercise",
+        "Sympathetic α-adrenergic vasoconstriction of renal arterioles",
         "Decreased cardiac output during exercise",
         "Increased adenosine release locally in the kidney"
       ],
@@ -338,7 +338,7 @@
       "id": 18,
       "stem": "A 45-year-old man with a single kidney (after donating his other kidney 10 years ago) develops chronic kidney disease. The remaining kidney has undergone compensatory hyperfiltration since donation. Long-term, sustained hyperfiltration is implicated in CKD progression. Which of the following best describes the mechanism by which hyperfiltration drives CKD progression?",
       "choices": [
-        "Sustained increased glomerular capillary hydrostatic pressure causes mesangial expansion, podocyte injury, and progressive glomerulosclerosis with proteinuria",
+        "Sustained intraglomerular hypertension causes mesangial and podocyte injury",
         "Hyperfiltration is fully protective with no long-term sequelae",
         "Hyperfiltration depletes the renal medullary osmotic gradient",
         "Hyperfiltration activates only systemic RAAS without local renal effects",
@@ -361,7 +361,7 @@
         "Increased medullary blood flow producing washout of the osmotic gradient",
         "Decreased renin secretion that paradoxically worsens GFR",
         "Direct nephrotoxicity of ibuprofen to the proximal convoluted tubule",
-        "Loss of prostaglandin-mediated medullary vasodilation, reducing medullary perfusion and increasing the susceptibility of the medullary thick ascending limb to ischemic injury"
+        "Loss of prostaglandin-mediated medullary vasodilation"
       ],
       "answer": 4,
       "explanations": [
@@ -385,7 +385,7 @@
       ],
       "choices": [
         "Pure ischemic injury from a single episode of severe hypotension",
-        "Multifactorial septic AKI: intrarenal microcirculatory dysfunction with leukocyte and platelet plugging, cytokine-mediated tubular cell injury, mitochondrial dysfunction, and cellular adaptive 'cell-cycle arrest' — present even when systemic hemodynamics are restored",
+        "Multifactorial septic AKI from intrarenal microcirculatory dysfunction",
         "Direct toxicity of bacterial endotoxin to the glomerular tuft",
         "Acute tubular necrosis from contrast administration",
         "Compensatory hyperfiltration injuring the kidney"
@@ -405,7 +405,7 @@
       "choices": [
         "Increased renal blood flow due to compensatory dilation",
         "Markedly increased GFR independent of perfusion pressure",
-        "Reduced afferent perfusion pressure activates RAAS and angiotensin II preferentially constricts the efferent arteriole, helping preserve GFR at the cost of further reduced RBF; filtration fraction rises",
+        "Reduced afferent perfusion activates RAAS with AT II–mediated efferent constriction",
         "Filtration fraction falls due to efferent dilation",
         "Autoregulation fully restores RBF and GFR despite the stenosis"
       ],
@@ -425,7 +425,7 @@
         "Decrease RBF and GFR further by adding more vasoconstriction in an already vasoconstricted kidney",
         "No change in RBF or GFR because the renal vasoconstrictor and pressure effects exactly cancel",
         "Decrease in GFR despite restored MAP",
-        "Restoration of MAP into the autoregulatory range improves renal perfusion pressure; the resulting increase in RBF and GFR outweighs the direct vasoconstrictive renal effect of norepinephrine, and renal function typically improves",
+        "Restored MAP improves renal perfusion despite NE vasoconstriction",
         "Direct nephrotoxic injury from catecholamine exposure"
       ],
       "answer": 3,
@@ -445,7 +445,7 @@
         "Increased aldosterone secretion from the adrenal cortex",
         "Reduced sympathetic-mediated AQP2 trafficking",
         "Direct dilation of glomerular capillaries by mechanical injury",
-        "Reduced β1-mediated renin release from juxtaglomerular cells (lowering AT II), reduced α1-mediated renal arteriolar vasoconstriction (lowering renal vascular resistance), and reduced direct sympathetic stimulation of tubular Na+ reabsorption — together producing sustained natriuresis and BP reduction"
+        "Reduced renin release, renal vasoconstriction, and tubular Na+ reabsorption"
       ],
       "answer": 4,
       "explanations": [
@@ -460,7 +460,7 @@
       "id": 24,
       "stem": "A 70-year-old man with septic shock has refractory hypotension despite adequate fluid resuscitation and norepinephrine at high dose. Vasopressin (0.03 U/min) is added and produces a substantial rise in mean arterial pressure. Which of the following best explains the disproportionate effect of vasopressin in septic shock compared with healthy individuals?",
       "choices": [
-        "Endogenous vasopressin levels are markedly suppressed in distributive shock, and exogenous replacement to physiologic levels has an outsized hemodynamic effect (a 'relative vasopressin deficiency')",
+        "Endogenous vasopressin is depleted ('relative vasopressin deficiency')",
         "Endogenous vasopressin levels are already markedly elevated in distributive shock",
         "Vasopressin acts via a different receptor in shock than in health",
         "Vasopressin only affects splanchnic circulation",
@@ -479,7 +479,7 @@
       "id": 25,
       "stem": "A 55-year-old man with diabetic nephropathy and proteinuria of 3.0 g/day is started on lisinopril. After 6 weeks his proteinuria has fallen to 1.5 g/day, and serum creatinine has risen modestly from 1.4 to 1.6 mg/dL. Which of the following best explains the renoprotective effect of ACE inhibitor therapy in this patient?",
       "choices": [
-        "Reduction in angiotensin II preferentially dilates the efferent arteriole, lowering glomerular capillary hydrostatic pressure; reduced intraglomerular pressure decreases mesangial and podocyte injury and the filtration of plasma proteins, slowing CKD progression",
+        "Reduced AT II dilates the efferent and lowers intraglomerular pressure",
         "Direct stimulation of podocyte regeneration",
         "Markedly increased GFR allowing more rapid clearance of toxins",
         "Increased renal blood flow alone, without effects on glomerular pressure",
@@ -509,7 +509,7 @@
         "Acute glomerulonephritis",
         "Allergic interstitial nephritis",
         "Renal artery stenosis with severe hypoperfusion",
-        "Elevated renal venous pressure transmitted to glomerular capillaries and the renal interstitium reduces transglomerular pressure gradient and intrarenal blood flow; venous congestion is increasingly recognized as a major driver of cardiorenal AKI even when arterial perfusion is preserved",
+        "Elevated renal venous pressure reducing transglomerular pressure gradient",
         "Post-renal obstruction from prostatic hypertrophy"
       ],
       "answer": 3,

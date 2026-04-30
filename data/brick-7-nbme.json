@@ -106,7 +106,7 @@
       "stem": "A 70-year-old woman with chronic atrial fibrillation has been on long-term furosemide and digoxin. She develops acute kidney injury during hospitalization. Her FENa is 2.5%, but her fractional excretion of urea (FEUrea) is 25%. Which of the following best explains the discordance between FENa and FEUrea in this patient?",
       "choices": [
         "FENa is more reliable than FEUrea in volume-depleted patients",
-        "Loop diuretics increase urinary sodium excretion, raising FENa even in volume depletion; FEUrea is largely unaffected by diuretics and a value <35% suggests prerenal physiology",
+        "FEUrea is preserved when FENa is misleadingly elevated by diuretics",
         "FEUrea always exceeds FENa in acute tubular necrosis",
         "FEUrea is elevated only in glomerulonephritis",
         "FEUrea reflects the contribution of renal protein synthesis"
@@ -207,7 +207,7 @@
       "choices": [
         "Apical AQP2 channel of collecting duct principal cells",
         "Basolateral AQP3/AQP4 of collecting duct principal cells",
-        "V2 receptor (vasopressin receptor type 2) on the basolateral membrane of collecting duct principal cells",
+        "V2 receptor on the basolateral membrane of principal cells",
         "V1 receptor on vascular smooth muscle",
         "Mineralocorticoid receptor of collecting duct principal cells"
       ],
@@ -301,7 +301,7 @@
       "stem": "A 65-year-old woman with chronic heart failure is started on furosemide. Which of the following best describes the effect of loop diuretic therapy on osmolar clearance and free water clearance?",
       "choices": [
         "Both Cosm and CH2O increase markedly",
-        "Cosm increases while maximum CH2O is markedly reduced toward zero, because the loop diuretic abolishes the thick ascending limb's diluting function and prevents both maximal concentration and maximal dilution",
+        "Cosm increases while maximum CH2O is reduced toward zero",
         "Both Cosm and CH2O decrease",
         "CH2O increases while Cosm decreases",
         "Neither Cosm nor CH2O is affected"
@@ -354,7 +354,7 @@
         { "name": "Urine calcium", "value": "Elevated (hypercalciuria)", "flag": "high", "ref": "—" }
       ],
       "choices": [
-        "Type 1 (distal) renal tubular acidosis — defective H+ secretion by α-intercalated cells, with inability to acidify urine, hypokalemia, and a tendency to calcium phosphate stones",
+        "Type 1 (distal) renal tubular acidosis",
         "Type 2 (proximal) RTA",
         "Type 4 RTA (hyporeninemic hypoaldosteronism)",
         "Lactic acidosis from prolonged exercise",
@@ -374,7 +374,7 @@
       "stem": "A 9-year-old boy with cystinosis is found to have low serum bicarbonate (16 mEq/L) along with glucosuria, phosphaturia, and aminoaciduria. Urine pH after an acid load drops appropriately to 4.8. Which of the following best characterizes this disorder?",
       "choices": [
         "Type 1 (distal) renal tubular acidosis",
-        "Type 2 (proximal) RTA — defective proximal HCO3− reabsorption associated with Fanconi syndrome; distal acidification is preserved",
+        "Type 2 (proximal) renal tubular acidosis",
         "Type 4 RTA from aldosterone deficiency",
         "Lactic acidosis",
         "Diabetic ketoacidosis"
@@ -394,7 +394,7 @@
       "choices": [
         "Type 1 (distal) RTA from defective α-intercalated H+-ATPase",
         "Type 2 (proximal) RTA from defective proximal HCO3− reabsorption",
-        "Type 4 RTA — hyporeninemic hypoaldosteronism with mild hyperchloremic acidosis and hyperkalemia",
+        "Type 4 RTA from hyporeninemic hypoaldosteronism",
         "Acute lactic acidosis",
         "Diabetic ketoacidosis"
       ],
@@ -422,7 +422,7 @@
         "Acute tubular necrosis from ischemia",
         "Acute interstitial nephritis from a recent medication",
         "Glomerulonephritis with crescent formation",
-        "Hepatorenal syndrome — splanchnic vasodilation reduces effective arterial volume, activating RAAS and sympathetic nervous system; intense renal vasoconstriction reduces GFR with prerenal urinary indices that fail to respond to volume expansion",
+        "Hepatorenal syndrome",
         "Post-renal obstruction"
       ],
       "answer": 3,
@@ -459,7 +459,7 @@
       "choices": [
         "Increased glomerular filtration rate",
         "Decreased plasma protein binding of salicylate",
-        "Trapping of ionized (deprotonated) salicylate within the renal tubular lumen, preventing passive non-ionic reabsorption",
+        "Ion trapping of deprotonated salicylate in alkaline urine",
         "Direct hepatic conversion of salicylate to a non-toxic metabolite",
         "Increased renal blood flow with bicarbonate-induced vasodilation"
       ],
@@ -500,7 +500,7 @@
         "Lithium is excluded by the GBM and not filtered",
         "Lithium is filtered, reabsorbed, and metabolized along the entire nephron",
         "Lithium is preferentially trapped in the medullary interstitium by countercurrent multiplication",
-        "Lithium is freely filtered, reabsorbed in the proximal tubule in proportion to Na+, and not appreciably reabsorbed beyond the loop of Henle; clearance therefore reflects fluid delivery out of the proximal tubule"
+        "Lithium is freely filtered and reabsorbed only in the proximal tubule"
       ],
       "answer": 4,
       "explanations": [
@@ -517,7 +517,7 @@
       "choices": [
         "Acetaminophen",
         "Highly hepatically metabolized lipophilic agents (e.g., propranolol)",
-        "Drugs that are predominantly eliminated unchanged by the kidney, including aminoglycosides, vancomycin, gabapentin, lithium, and many beta-lactams",
+        "Drugs predominantly eliminated unchanged by the kidney",
         "Drugs with high plasma protein binding (e.g., warfarin)",
         "Drugs metabolized by CYP3A4"
       ],
