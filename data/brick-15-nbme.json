@@ -6,7 +6,7 @@
       "id": 1,
       "stem": "A 30-year-old researcher is studying the mechanism of spironolactone. The drug binds the cytosolic mineralocorticoid receptor in collecting duct principal cells. Which of the following best describes the mechanism by which spironolactone produces its renal effects?",
       "choices": [
-        "Competitive antagonism of the mineralocorticoid receptor in collecting duct principal cells, preventing aldosterone-driven transcription of ENaC, ROMK, and Na+/K+-ATPase. Net effect: decreased Na+ reabsorption (mild natriuresis), decreased K+ secretion (potassium-sparing), and decreased downstream H+ secretion at α-intercalated cells. Onset is slow (days) because the effect requires turnover of pre-existing transporter protein",
+        "Competitive antagonism of the cytosolic mineralocorticoid receptor",
         "Direct inhibition of NKCC2 in the thick ascending limb",
         "Direct inhibition of NCC in the early DCT",
         "Direct inhibition of ENaC in the apical membrane",
@@ -26,7 +26,7 @@
       "stem": "A 68-year-old man with HFrEF is on amiloride 5 mg daily. Amiloride binds and blocks the apical epithelial sodium channel (ENaC) directly. Which of the following best describes the mechanism by which amiloride produces its renal effects?",
       "choices": [
         "Competitive antagonism of the cytosolic mineralocorticoid receptor",
-        "Direct blockade of ENaC in the apical membrane of collecting duct principal cells, reducing Na+ entry from the lumen. Reduced Na+ entry diminishes the lumen-negative transepithelial voltage that drives K+ secretion via apical ROMK and H+ secretion at α-intercalated cells. Net effect: mild natriuresis, K+-sparing, less H+ secretion. Onset is rapid (hours), unlike spironolactone",
+        "Direct blockade of ENaC in the apical membrane",
         "Inhibition of NCC in the early distal convoluted tubule",
         "Inhibition of basolateral Na+/K+-ATPase",
         "Inhibition of carbonic anhydrase"
@@ -69,7 +69,7 @@
       "choices": [
         "Triamterene and amiloride are essentially identical in pharmacology",
         "Triamterene has a longer half-life than amiloride",
-        "Triamterene is metabolized to a 7-O-sulfate metabolite that can crystallize and form triamterene-containing kidney stones (a rare but recognized adverse effect not seen with amiloride). Both directly block ENaC in collecting duct principal cells; amiloride is more potent on a mg basis (5–10 mg dose vs triamterene 50–100 mg). Triamterene also has weak folate antagonist activity",
+        "Triamterene's 7-O-sulfate metabolite can crystallize into kidney stones",
         "Triamterene blocks the mineralocorticoid receptor",
         "Triamterene acts at NCC in the DCT"
       ],
@@ -90,7 +90,7 @@
         "Spironolactone blocks ENaC; amiloride blocks the MR",
         "Spironolactone blocks NKCC2; amiloride blocks ENaC",
         "Spironolactone blocks NCC; amiloride blocks the MR",
-        "Spironolactone competitively antagonizes the cytosolic mineralocorticoid receptor (preventing aldosterone-driven transcription of ENaC, ROMK, and Na+/K+-ATPase). Amiloride directly blocks ENaC in the apical membrane (independent of aldosterone signaling). Both reduce K+ secretion downstream by reducing the lumen-negative transepithelial voltage, but they act at different points in the pathway. This is why amiloride works in Liddle syndrome (gain-of-function ENaC, downstream of MR) while spironolactone does not",
+        "Spironolactone blocks the MR; amiloride directly blocks ENaC",
         "Both drugs block the same target — apical ENaC"
       ],
       "answer": 3,
@@ -110,7 +110,7 @@
         "Reduces blood pressure but does not affect mortality",
         "Reduces LV ejection fraction over time",
         "Has no effect on outcomes",
-        "Reduces all-cause mortality (~30% relative reduction in RALES) and HF hospitalizations in NYHA class III/IV HFrEF on background ACE inhibitor and β-blocker therapy. The mortality benefit reflects mineralocorticoid-receptor-mediated cardiac and vascular fibrosis prevention, beyond simple K+-sparing diuretic effect. Mineralocorticoid antagonists (spironolactone or eplerenone) are now class I therapy for HFrEF in patients with eGFR ≥30 and K+ ≤5.0"
+        "Reduces all-cause mortality and HF hospitalizations"
       ],
       "answer": 4,
       "explanations": [
@@ -125,7 +125,7 @@
       "id": 7,
       "stem": "A 60-year-old woman has an acute MI 3 weeks ago and now has NYHA class II HFrEF (EF 30%). Her clinician adds eplerenone 25 mg daily. The EPHESUS trial established the role of eplerenone post-MI. Which of the following best characterizes the EPHESUS findings?",
       "choices": [
-        "Eplerenone reduces all-cause mortality and CV mortality in patients with HF (EF ≤40%) post-MI, particularly when started 3–14 days after MI; benefits are independent of background ACE inhibitor and β-blocker therapy. Subsequent EMPHASIS-HF trial extended benefit to chronic NYHA class II HFrEF",
+        "Eplerenone reduces all-cause and CV mortality post-MI",
         "Eplerenone increases mortality post-MI",
         "Eplerenone has no effect post-MI",
         "Eplerenone is contraindicated post-MI",
@@ -145,7 +145,7 @@
       "stem": "A 58-year-old man with cirrhosis and tense ascites is being started on diuretic therapy. The clinician chooses combination therapy with spironolactone 100 mg + furosemide 40 mg orally daily. Which of the following best explains why spironolactone is preferred as the first-line diuretic in cirrhotic ascites?",
       "choices": [
         "Spironolactone produces faster diuresis than other diuretics in cirrhosis",
-        "Cirrhotic ascites is principally driven by aldosterone excess: splanchnic vasodilation reduces effective arterial volume, activating RAAS; the resulting high aldosterone drives renal Na+ retention. Spironolactone directly antagonizes this central pathophysiologic mechanism. Combined with furosemide in 100:40 ratio, the regimen also balances K+ effects (spironolactone's K+-sparing action offsets furosemide's K+-wasting). AASLD guidelines recommend this combination",
+        "Cirrhotic ascites is principally driven by aldosterone excess",
         "Spironolactone is the cheapest diuretic",
         "Spironolactone is the only diuretic safe in cirrhosis",
         "Spironolactone increases serum albumin"
@@ -164,7 +164,7 @@
       "stem": "A 60-year-old woman with hypertension on amlodipine + lisinopril + chlorthalidone still has BP 160/95 (above goal). She is adherent and there are no secondary causes. The PATHWAY-2 trial established the optimal 4th-line agent for resistant hypertension. Which of the following is the recommended 4th-line agent based on this trial?",
       "choices": [
         "Hydralazine",
-        "Spironolactone (PATHWAY-2 trial, 2015) — added to background ACEi/ARB + CCB + thiazide produced significantly greater BP reduction than bisoprolol or doxazosin in patients with resistant hypertension. The mechanism reflects the often-unrecognized aldosterone contribution to apparent treatment-resistant hypertension; many such patients have biochemical evidence of aldosterone excess",
+        "Spironolactone (PATHWAY-2 trial)",
         "Methyldopa",
         "Clonidine",
         "Minoxidil"
@@ -185,7 +185,7 @@
         "Spironolactone shrinks the adrenal adenoma",
         "Spironolactone is the standard surgical anesthetic premedication",
         "Spironolactone improves wound healing",
-        "Spironolactone normalizes BP and corrects hypokalemia preoperatively (by antagonizing aldosterone's effects on principal cells); 4–8 weeks of therapy allows resolution of suppressed contralateral aldosterone secretion, reducing the risk of postoperative hyperkalemia (otherwise, the adrenal contralateral to the adenoma may be slow to resume aldosterone production)",
+        "Spironolactone normalizes BP and corrects hypokalemia preoperatively",
         "Spironolactone has no role preoperatively"
       ],
       "answer": 3,
@@ -228,7 +228,7 @@
         "Add hydrochlorothiazide",
         "Add eplerenone instead of spironolactone",
         "Add an ACE inhibitor",
-        "Switch from spironolactone to amiloride (or triamterene), which DIRECTLY blocks the constitutively active ENaC channel — bypassing the (disabled) mineralocorticoid receptor signaling that spironolactone targets. Spironolactone is INEFFECTIVE in Liddle syndrome because the gain-of-function mutation makes ENaC active independent of aldosterone-driven transcription"
+        "Switch from spironolactone to amiloride to directly block ENaC"
       ],
       "answer": 4,
       "explanations": [
@@ -243,7 +243,7 @@
       "id": 13,
       "stem": "A 28-year-old woman with PCOS and hirsutism is started on spironolactone 100 mg daily for cosmetic improvement of unwanted facial hair. Within 6 months her hirsutism has improved noticeably. Which of the following best explains the mechanism of spironolactone's effect on hirsutism?",
       "choices": [
-        "Spironolactone has antiandrogenic activity through competitive binding at peripheral androgen receptors and partial inhibition of androgen synthesis (5α-reductase, cytochrome P450 cleavage of cholesterol side chains). Combined with its weak antiprogestogenic effect, this reduces androgen-driven terminal hair growth. Used at 50–200 mg daily in PCOS-related hirsutism (and acne), generally combined with oral contraceptive for greater effect and pregnancy avoidance (spironolactone is teratogenic to male fetuses)",
+        "Spironolactone has antiandrogenic activity at peripheral androgen receptors",
         "Spironolactone stimulates estrogen receptors directly",
         "Spironolactone is a 5α-reductase inhibitor specifically (like finasteride)",
         "Spironolactone is FDA-indicated for hirsutism",
@@ -271,7 +271,7 @@
       ],
       "choices": [
         "Acute tumor lysis syndrome",
-        "Combined ACE inhibitor + spironolactone + NSAID effect: lisinopril reduces angiotensin II → reduced aldosterone; spironolactone blocks the MR; ibuprofen reduces prostaglandin-mediated afferent vasodilation, lowering GFR (reducing distal Na+ delivery and impairing distal K+ secretion). The 'triple whammy' converges on impaired distal K+ secretion, producing severe hyperkalemia. Management: stop offending agents (NSAID first), urgent hyperkalemia treatment (calcium gluconate, insulin/glucose, β2 agonist), and renal support if needed",
+        "Combined ACE inhibitor + spironolactone + NSAID effect",
         "Acute hemolysis releasing intracellular K+",
         "Type 1 (distal) RTA",
         "Acidosis-mediated cellular K+ shift"
@@ -290,7 +290,7 @@
       "stem": "A 65-year-old man with HFrEF on spironolactone 25 mg daily has developed gynecomastia and decreased libido after 6 months. His clinician is considering switching to eplerenone. Which of the following best characterizes the difference between the two drugs?",
       "choices": [
         "Eplerenone has a longer half-life than spironolactone",
-        "Eplerenone is highly mineralocorticoid receptor-selective with minimal binding to androgen and progesterone receptors; gynecomastia, decreased libido, and menstrual irregularities are markedly less common than with spironolactone. The trade-off is shorter half-life requiring twice-daily dosing. Both are equally effective in HF (RALES for spironolactone, EMPHASIS-HF for eplerenone)",
+        "Eplerenone is highly MR-selective with minimal hormonal effects",
         "Eplerenone is twice as potent as spironolactone",
         "Eplerenone has stronger antiandrogen effects",
         "Eplerenone is administered once weekly"
@@ -311,7 +311,7 @@
         "Add spironolactone immediately at full dose (25–50 mg daily)",
         "Add spironolactone at any dose without monitoring",
         "Add eplerenone 50 mg twice daily without monitoring",
-        "Avoid mineralocorticoid antagonists in this patient because of high hyperkalemia risk: eGFR <30 (or <45 with K+ already at upper limit) and K+ ≥5.0 are recognized contraindications. Initiating MR antagonists in this setting risks severe hyperkalemia. Optimization of other HF therapy (diuretics, β-blockers, ARNi, SGLT2 inhibitor) and close monitoring are preferred. If a future improvement in eGFR or K+ occurs, MR antagonist may be reconsidered",
+        "Avoid MR antagonists when eGFR <30 or K+ ≥5.0",
         "Start an ACE inhibitor instead"
       ],
       "answer": 3,
@@ -331,7 +331,7 @@
         "Triamterene stones are calcium oxalate (caused by hypercalciuria)",
         "Triamterene stones are calcium phosphate from urinary alkalinization",
         "Triamterene stones are struvite (infection-related)",
-        "Triamterene is metabolized to a 7-O-sulfate metabolite that can crystallize in tubular fluid, occasionally producing distinctive triamterene-containing kidney stones (rare adverse effect, distinct from amiloride which is not stone-forming). Diagnosis is by stone analysis showing the metabolite. Discontinuation usually prevents recurrence; small stones often pass spontaneously. Patients with previous triamterene stones should avoid the drug"
+        "Triamterene's 7-O-sulfate metabolite crystallizes in tubular fluid"
       ],
       "answer": 4,
       "explanations": [
@@ -346,7 +346,7 @@
       "id": 18,
       "stem": "A 45-year-old woman with bipolar disorder on long-term lithium develops nephrogenic diabetes insipidus with polyuria of 5 L/day. Her psychiatrist cannot stop lithium. Which of the following K+-sparing diuretics has a specific role in lithium-induced nephrogenic DI?",
       "choices": [
-        "Amiloride blocks ENaC in the apical membrane of collecting duct principal cells. Importantly, amiloride also blocks the reuptake of LITHIUM from the lumen (lithium enters principal cells via ENaC, where it accumulates and disrupts AQP2 trafficking). Blocking ENaC therefore prevents lithium from entering principal cells and partially reverses lithium-induced AQP2 dysfunction. Amiloride is sometimes added in patients who must continue lithium and have NDI; thiazides are also used (paradoxical antidiuresis from volume contraction)",
+        "Amiloride blocks ENaC, preventing lithium uptake into principal cells",
         "Spironolactone has the same effect as amiloride",
         "Eplerenone is preferred over amiloride for lithium NDI",
         "Triamterene has a unique role in lithium NDI",
@@ -374,7 +374,7 @@
       ],
       "choices": [
         "Conn syndrome (primary hyperaldosteronism)",
-        "Liddle syndrome — autosomal-dominant gain-of-function mutation in the β or γ subunit of ENaC; constitutive ENaC activity produces Na+ retention, hypertension, hypokalemia, and SUPPRESSED renin and aldosterone (the negative feedback). Direct ENaC blockade (amiloride or triamterene) corrects BP and electrolytes; mineralocorticoid antagonists (spironolactone) are INEFFECTIVE because the lesion is downstream of the MR. The dramatic response to amiloride and the lab profile confirm the diagnosis",
+        "Liddle syndrome (gain-of-function ENaC mutation)",
         "Pheochromocytoma",
         "Bartter syndrome",
         "Cushing syndrome"
@@ -394,7 +394,7 @@
       "choices": [
         "Spironolactone has a rapid onset (hours), so absent response after 3 days suggests it is not working",
         "Spironolactone is a prodrug and ineffective",
-        "Spironolactone has a SLOW onset of action (typically 2–4 days for full effect, with some patients requiring 1–2 weeks). The mechanism is transcriptional: the drug must reach the cytosolic MR, prevent aldosterone binding, and the existing pool of ENaC, ROMK, and Na+/K+-ATPase proteins must turn over. This is in contrast to amiloride, which directly blocks ENaC with onset within hours. Spironolactone in HF is given for long-term mortality benefit, not acute diuresis",
+        "Spironolactone has a slow onset because the mechanism is transcriptional",
         "Spironolactone never produces clinical benefit",
         "Spironolactone is contraindicated in HF"
       ],
@@ -414,7 +414,7 @@
         "Furosemide alone",
         "Spironolactone alone",
         "Mannitol + amiloride",
-        "Hydrochlorothiazide + triamterene (Dyazide®, Maxzide®) or hydrochlorothiazide + amiloride (Moduretic®) — combination products that pair the BP-lowering effect of thiazide with K+-sparing partner; used when thiazide alone produces hypokalemia or when the combination's modest synergistic effect is desired. Triamterene-containing products are most common; amiloride-containing products are less expensive but have somewhat fewer combinations available. Spironolactone + HCTZ (Aldactazide®) is less common as a fixed combination",
+        "Hydrochlorothiazide + triamterene (or HCTZ + amiloride)",
         "Loop diuretic + spironolactone in 100:40 ratio (used in cirrhotic ascites, but not a single combined product)"
       ],
       "answer": 3,
@@ -430,7 +430,7 @@
       "id": 22,
       "stem": "A 60-year-old man with mild HFrEF (NYHA class II, EF 30%) on optimal background therapy (ACEi, β-blocker) is being considered for eplerenone. The EMPHASIS-HF trial extended the use of MR antagonists from severe HF (RALES, EPHESUS) to mild HF. Which of the following best characterizes EMPHASIS-HF findings?",
       "choices": [
-        "Eplerenone REDUCES mortality and HF hospitalization in NYHA class II HFrEF (EF ≤30 or 35 with prior CV hospitalization) on background ACEi/ARB and β-blocker therapy. The findings extended MR antagonist therapy from severe HF (RALES, EPHESUS) to mild HF, supporting their use across the spectrum of HFrEF. Trial stopped early due to clear benefit",
+        "Eplerenone reduces mortality and HF hospitalization in NYHA II HFrEF",
         "Eplerenone has no benefit in mild HF",
         "Eplerenone increases mortality in mild HF",
         "Eplerenone is contraindicated in mild HF",
@@ -449,7 +449,7 @@
       "id": 23,
       "stem": "A 28-year-old woman taking spironolactone 50 mg daily for PCOS-related hirsutism is concerned about pregnancy. Which of the following best characterizes the use of spironolactone in pregnancy?",
       "choices": [
-        "Spironolactone is generally avoided in pregnancy due to teratogenic risk to male fetuses (the antiandrogenic activity of spironolactone can produce feminization of male external genitalia in animal studies; human data are limited but the theoretical risk is concerning). Women of childbearing potential should use effective contraception while taking spironolactone (pregnancy testing prior to starting; combined oral contraceptive often used as both treatment of underlying PCOS AND contraception)",
+        "Spironolactone is generally avoided due to teratogenic risk to male fetuses",
         "Spironolactone is FDA category A in pregnancy",
         "Spironolactone is the antihypertensive of choice in pregnancy",
         "Spironolactone has no fetal risk",
@@ -478,7 +478,7 @@
       ],
       "choices": [
         "Conn syndrome (primary hyperaldosteronism)",
-        "Pseudohypoaldosteronism type 1 (PHA1) — loss-of-function mutations in ENaC subunits (autosomal recessive, severe multisystem form) or in the mineralocorticoid receptor (autosomal dominant, milder kidney-limited form). The kidney (and sweat glands, intestine in the recessive form) cannot respond to aldosterone — producing severe salt wasting, hyperkalemic acidosis, volume depletion. Aldosterone and renin are HIGH but ineffective. SPIRONOLACTONE WOULD NOT WORK because the lesion is at or distal to the MR. Treatment: salt supplementation, K+ control, careful fluid management",
+        "Pseudohypoaldosteronism type 1 (PHA1)",
         "Liddle syndrome",
         "Bartter syndrome",
         "Type 4 RTA from drug therapy"
@@ -498,7 +498,7 @@
       "choices": [
         "Type 1 (distal) RTA from drug-induced α-intercalated cell dysfunction",
         "Type 2 (proximal) RTA from drug-induced HCO3− wasting",
-        "Drug-induced 'type 4 RTA' arises from impaired aldosterone signaling at the principal cell. Reduced aldosterone (or its action) impairs distal Na+ reabsorption and K+/H+ secretion; the result is hyperkalemic mild metabolic acidosis with preserved ability to acidify urine (the H+ secretion machinery itself is intact). Causes include: ACE inhibitors / ARBs (reduced aldosterone), spironolactone / eplerenone (MR antagonism), amiloride / triamterene (ENaC block), heparin (suppressed aldo synthesis), trimethoprim (ENaC block), and many combinations of these. Treatment: discontinue offenders, fludrocortisone in selected cases",
+        "Drug-induced 'type 4 RTA' from impaired aldosterone signaling",
         "Lactic acidosis from drug toxicity",
         "Metabolic alkalosis"
       ],
@@ -518,7 +518,7 @@
         "These effects are extremely rare (<1%)",
         "These effects are reversible only after a year of discontinuation",
         "These effects are exclusive to women",
-        "Spironolactone has well-recognized hormonal adverse effects, particularly at higher doses (≥50 mg/day): gynecomastia (~10% of men at typical HF doses; higher with longer duration and higher doses), decreased libido, impotence, and menstrual irregularities and breast tenderness in women. The mechanism is binding to androgen and progesterone receptors in addition to MR. Management options: switch to eplerenone (highly MR-selective, minimal hormonal effects); use the lowest effective dose; if BP control is the goal, consider alternative classes",
+        "Recognized dose-dependent hormonal effects from androgen receptor binding",
         "These effects only occur in women"
       ],
       "answer": 3,

@@ -27,7 +27,7 @@
       "stem": "A 65-year-old man with heart failure is taking oral furosemide. To produce its natriuretic effect, furosemide must reach the LUMINAL side of NKCC2 in the thick ascending limb. Given that furosemide is approximately 95% bound to plasma albumin (and therefore poorly filtered), how does it reach this luminal site of action?",
       "choices": [
         "Free filtration at the glomerulus, since plasma binding does not affect filtration",
-        "Active secretion into the proximal tubular lumen by basolateral organic anion transporters (OAT1 / OAT3) that take up furosemide from peritubular blood, with apical exit transporting it into tubular fluid; concentrations in the lumen exceed plasma levels",
+        "Active secretion via OAT1/OAT3 in the proximal tubule",
         "Passive diffusion across the glomerular basement membrane",
         "Pinocytosis by proximal tubular cells",
         "Active reabsorption from peritubular capillaries directly into the TAL lumen"
@@ -49,7 +49,7 @@
         "Direct destruction of AQP2 channels in collecting duct principal cells",
         "Volume contraction triggering compensatory water loss",
         "Direct toxicity of furosemide to collecting duct epithelium",
-        "Inhibition of NKCC2 abolishes the TAL's contribution to the medullary osmotic gradient (countercurrent multiplication); without the medullary gradient, the collecting duct cannot concentrate urine even with maximal ADH-driven AQP2 insertion. Maximum urine osmolality is limited toward the osmolality of plasma"
+        "Inhibition of NKCC2 abolishes the medullary osmotic gradient"
       ],
       "answer": 4,
       "explanations": [
@@ -64,7 +64,7 @@
       "id": 4,
       "stem": "A 50-year-old man on chronic furosemide undergoes a water-loading test. His maximum urinary dilution is impaired (urine osmolality cannot fall below ~200 mOsm/kg, versus the expected ~50 in healthy individuals). Which of the following best explains this diluting defect?",
       "choices": [
-        "The TAL is the principal 'diluting segment' of the nephron — it actively reabsorbs NaCl without water, delivering hypotonic fluid to the collecting duct. Loop diuretics block NKCC2 in this segment, so fluid leaving the TAL is closer to isotonic and the kidney cannot dilute urine maximally even with ADH suppressed",
+        "Loop diuretics block NKCC2 in the diluting segment of the nephron",
         "Loop diuretics directly increase ADH release",
         "Loop diuretics directly increase apical AQP2 insertion in the collecting duct",
         "Loop diuretics block ENaC in the collecting duct",
@@ -86,7 +86,7 @@
         "Direct inhibition of an apical Mg2+ pump in the TAL",
         "Direct inhibition of an apical Ca2+ pump in the TAL",
         "Hypoalbuminemia reducing protein-bound Mg2+ and Ca2+",
-        "NKCC2 inhibition abolishes K+ recycling through ROMK and therefore the lumen-positive transepithelial voltage of the TAL. Without the lumen-positive voltage, the paracellular driving force for Mg2+ and Ca2+ reabsorption (via claudin-16/19) is lost; both cations are wasted in the urine",
+        "NKCC2 inhibition eliminates the lumen-positive voltage driving paracellular Mg2+/Ca2+",
         "Loop diuretics chemically chelate Mg2+ and Ca2+ in plasma"
       ],
       "answer": 3,
@@ -103,7 +103,7 @@
       "stem": "A 68-year-old man with HFrEF has variable response to oral furosemide from day to day, despite taking the same dose. His clinician considers switching to bumetanide or torsemide. Which of the following best characterizes the oral pharmacokinetics that may explain his variable response?",
       "choices": [
         "Oral furosemide has near-complete and reliable bioavailability of >95%",
-        "Oral furosemide has variable, incomplete bioavailability (averaging ~50%, range 10–90%) due to inconsistent GI absorption and gastric emptying; bumetanide and torsemide each have more reliable oral bioavailability (~80–100%) and are alternatives when furosemide is suspected of suboptimal absorption",
+        "Oral furosemide has variable bioavailability (~50%, range 10–90%)",
         "Oral furosemide undergoes 100% hepatic first-pass metabolism",
         "Oral furosemide is not absorbed from the GI tract at all",
         "Oral furosemide must be given with food to be absorbed"
@@ -123,7 +123,7 @@
       "choices": [
         "Bumetanide 80 mg PO BID",
         "Bumetanide 40 mg PO BID",
-        "Bumetanide 1 mg PO BID — bumetanide is approximately 40-fold more potent than furosemide on a milligram basis (1 mg bumetanide ≈ 40 mg furosemide); torsemide is approximately 2-fold more potent than furosemide (10 mg torsemide ≈ 40 mg furosemide). Both have more reliable oral bioavailability than furosemide",
+        "Bumetanide 1 mg PO BID",
         "Bumetanide 200 mg PO BID",
         "Bumetanide 800 mg PO BID"
       ],
@@ -140,7 +140,7 @@
       "id": 8,
       "stem": "A 75-year-old man with HFrEF is being considered for once-daily oral diuretic dosing to improve adherence. Compared with furosemide, which of the following best characterizes torsemide?",
       "choices": [
-        "Longer half-life (3–4 hours vs furosemide 1.5–2 hours), more reliable oral bioavailability (~80%), and once-daily dosing is more often feasible than with furosemide; some HF clinical trials suggest improved outcomes vs furosemide, though randomized trials remain mixed",
+        "Longer half-life and more reliable oral bioavailability than furosemide",
         "Shorter half-life than furosemide",
         "Acts at NCC in the DCT instead of NKCC2 in the TAL",
         "Is a potassium-sparing diuretic",
@@ -162,7 +162,7 @@
         "Direct inhibition of ENaC in collecting duct principal cells",
         "Direct decrease in cardiac output by furosemide",
         "Direct antagonism of vasopressin receptors",
-        "IV loop diuretics produce a venodilator effect within minutes — likely mediated by prostaglandin release and direct vascular smooth-muscle effects — that reduces cardiac preload and pulmonary capillary hydrostatic pressure BEFORE the natriuretic effect manifests; this explains why IV furosemide often produces dyspnea relief faster than urine output suggests",
+        "IV venodilator effect mediated by prostaglandin release",
         "Direct β1-adrenergic activation"
       ],
       "answer": 3,
@@ -205,7 +205,7 @@
         "Spironolactone alone at low doses",
         "Hydrochlorothiazide alone",
         "ACE inhibitor alone",
-        "Combined spironolactone + furosemide in approximately 100:40 ratio (e.g., spironolactone 100 mg + furosemide 40 mg orally daily, titrated together) — spironolactone targets the pathophysiologic excess of aldosterone in cirrhosis, while furosemide adds tubular natriuresis. The fixed ratio prevents both hypokalemia (spironolactone alone risks hyperkalemia; loop alone risks hypokalemia) and is endorsed by AASLD guidelines"
+        "Combined spironolactone + furosemide in 100:40 ratio"
       ],
       "answer": 4,
       "explanations": [
@@ -221,7 +221,7 @@
       "stem": "A 65-year-old man on chronic furosemide develops K+ 2.8 mEq/L. Beyond the increased distal Na+ delivery to the collecting duct (a recognized mechanism), which of the following BEST describes another major contributor to renal K+ wasting in patients on chronic loop diuretic therapy?",
       "choices": [
         "Direct activation of the Na+/K+-ATPase by furosemide at principal cells",
-        "Volume contraction activates RAAS, raising aldosterone, which drives ENaC activity, ROMK expression, and Na+/K+-ATPase activity in collecting duct principal cells; combined with high tubular flow rate (which washes K+ away from the apical membrane and activates BK channels), this produces brisk K+ secretion",
+        "Volume contraction activates RAAS with aldosterone-driven K+ secretion",
         "Loop diuretic blocks K+ reabsorption in the proximal tubule",
         "Loop diuretic directly blocks ROMK in principal cells",
         "Loop diuretic directly increases adrenal aldosterone synthesis without RAAS activation"
@@ -249,7 +249,7 @@
       "choices": [
         "Direct enhancement of α-intercalated cell H+ secretion by furosemide",
         "Loss of HCO3− from vomiting that the patient has not reported",
-        "Furosemide-induced volume contraction activates RAAS; aldosterone drives Na+ reabsorption and K+/H+ secretion at the collecting duct. Hypokalemia per se further drives intracellular acidosis at α-intercalated cells, enhancing H+ secretion. Concurrent chloride loss with diuresis impairs the kidney's ability to excrete bicarbonate — together producing hypokalemic, chloride-responsive metabolic alkalosis. Concurrent hypomagnesemia maintains the hypokalemia by impairing ROMK closure",
+        "Volume contraction activates RAAS with chloride-responsive alkalosis",
         "Decreased aldosterone secretion",
         "Direct generation of HCO3− by furosemide"
       ],
@@ -277,7 +277,7 @@
         "Acute lactic acidosis",
         "Acute infection causing sepsis",
         "Acute kidney injury alone",
-        "'Contraction alkalosis': aggressive diuresis removes Na+, Cl−, and water but proportionally MORE Cl− and water than HCO3−, so the residual HCO3− in the contracted ECF is concentrated. The kidney cannot rapidly excrete the excess HCO3− because the volume-contracted state activates RAAS, which itself drives Na+/H+ exchange and K+/H+ secretion. Restoring volume (and Cl−) with isotonic saline corrects the alkalosis — 'chloride-responsive' metabolic alkalosis",
+        "Contraction alkalosis (chloride-responsive)",
         "Direct generation of HCO3− by furosemide"
       ],
       "answer": 3,
@@ -293,7 +293,7 @@
       "id": 15,
       "stem": "A 60-year-old man on chronic furosemide develops new-onset asymptomatic hypomagnesemia (Mg2+ 1.3 mg/dL). Which of the following best describes the mechanism of furosemide-induced hypomagnesemia?",
       "choices": [
-        "Loss of the lumen-positive transepithelial voltage in the thick ascending limb (which normally drives paracellular Mg2+ reabsorption via claudin-16/19); without the voltage, urinary Mg2+ excretion increases. Hypomagnesemia is common with chronic loop diuretic use and contributes to refractory hypokalemia and arrhythmia risk; routine Mg2+ replacement is often necessary",
+        "Loss of TAL lumen-positive voltage driving paracellular Mg2+ reabsorption",
         "Direct inhibition of an apical Mg2+ pump in the TAL",
         "Loss of NCC-mediated Mg2+ reabsorption in the DCT",
         "Increased GI Mg2+ losses driven by loop diuretic therapy",
@@ -313,7 +313,7 @@
       "stem": "A 60-year-old man on chronic furosemide for HF develops acute gout in his right great toe. Serum uric acid is 9.5 mg/dL (high). Which of the following best explains the mechanism of furosemide-induced hyperuricemia?",
       "choices": [
         "Direct stimulation of uric acid synthesis by furosemide",
-        "Volume contraction induced by loop diuretic therapy enhances proximal tubular reabsorption of urate (urate competes with Cl− for proximal-tubule URAT1; when volume is contracted, more Na+/H2O + urate are reabsorbed). The result is hyperuricemia, which can precipitate gouty attacks. Same mechanism applies to thiazide diuretics; switching to alternative agents or adding allopurinol/febuxostat addresses this",
+        "Volume contraction enhances proximal urate reabsorption via URAT1",
         "Direct enhancement of xanthine oxidase activity",
         "Direct decrease in renal blood flow lowering uric acid filtration",
         "Massive cellular release of uric acid from injured tissue"
@@ -340,7 +340,7 @@
         "Direct cochlear toxicity from furosemide alone (aminoglycosides are not ototoxic)",
         "Acute middle-ear infection unrelated to medications",
         "Otosclerosis presenting acutely",
-        "Synergistic ototoxicity from concurrent IV loop diuretic and aminoglycoside: loop diuretics produce dose-dependent ototoxicity (cochlear hair-cell injury, possibly via NKCC1 in the stria vascularis, which contributes to endolymph K+ secretion); particularly with rapid IV push, high doses, and renal failure (impaired drug clearance). Aminoglycosides separately cause ototoxicity. Together they have synergistic cochlear toxicity. Symptoms include tinnitus, vertigo, and high-frequency SNHL — sometimes reversible if mild, but often permanent. Ethacrynic acid is the most ototoxic loop diuretic"
+        "Synergistic ototoxicity from concurrent loop diuretic and aminoglycoside"
       ],
       "answer": 4,
       "explanations": [
@@ -357,7 +357,7 @@
       "choices": [
         "Furosemide despite the allergy history (most patients tolerate it)",
         "Hydrochlorothiazide (also a sulfonamide)",
-        "Ethacrynic acid — the only non-sulfonamide loop diuretic available; chemically distinct from furosemide, bumetanide, and torsemide. Although most patients with self-reported 'sulfa allergy' tolerate sulfonamide diuretics (true cross-reactivity between antibacterial sulfonamides and non-antibacterial sulfonamides is uncommon), ethacrynic acid is reserved for patients with documented severe reaction. It IS more ototoxic than other loop diuretics, so dosing and rate must be careful",
+        "Ethacrynic acid (the only non-sulfonamide loop diuretic)",
         "Acetazolamide (also a sulfonamide-derived carbonic anhydrase inhibitor)",
         "Spironolactone (a non-sulfonamide K+-sparing diuretic, but not a loop diuretic)"
       ],
@@ -377,7 +377,7 @@
         "Pharmacokinetic only — poor oral absorption is the sole mechanism",
         "Pharmacodynamic only — chronic NCC upregulation in the DCT is the only mechanism",
         "Aldosterone-mediated only",
-        "Multifactorial: (1) reduced delivery to the TAL (poor oral absorption, reduced GFR limits filtered drug, reduced organic anion transport in CKD limits proximal secretion, hypoalbuminemia in nephrotic patients reduces tubular delivery); (2) post-loop adaptation (chronic loop diuretic use upregulates NCC in the DCT, allowing more distal Na+ reabsorption — the 'braking phenomenon'); (3) volume contraction–induced RAAS activation enhances Na+ retention; (4) NSAID use blunts prostaglandin contribution to natriuresis. Strategies include optimizing delivery (IV, increased dose), adding thiazide for sequential nephron blockade, and treating underlying disease",
+        "Multifactorial: reduced delivery, distal NCC upregulation, RAAS, NSAIDs",
         "Always due to patient nonadherence"
       ],
       "answer": 3,
@@ -417,7 +417,7 @@
       "stem": "A 35-year-old woman with nephrotic syndrome (serum albumin 1.8 g/dL, urine protein 8 g/day) and significant edema has poor response to oral furosemide. Which of the following best explains the diminished diuretic response in this patient?",
       "choices": [
         "Mutations in NKCC2 caused by chronic glomerular disease",
-        "Hypoalbuminemia decreases tubular delivery of furosemide because the drug is approximately 95% bound to plasma albumin (and the bound fraction is delivered to the tubular fluid via OAT-mediated proximal secretion). Heavily proteinuric urine also contains filtered albumin that binds furosemide intratubularly, sequestering it from the apical NKCC2 site. Strategies: higher doses, IV administration, or coadministration with albumin (controversial efficacy)",
+        "Hypoalbuminemia reduces tubular delivery of protein-bound furosemide",
         "Increased renal blood flow shunts drug past the kidney",
         "Decreased aldosterone production reduces principal cell ENaC activity",
         "Direct ENaC inhibition by hypoalbuminemia"
@@ -437,7 +437,7 @@
       "choices": [
         "Loop diuretics should always be discontinued in CKD",
         "Standard doses are more effective in CKD due to slower clearance",
-        "Higher doses are required because: (1) reduced GFR limits filtered drug delivered to the tubule; (2) accumulated organic anions in uremia (e.g., uric acid, hippurate) compete with furosemide for OAT-mediated proximal tubular secretion, reducing tubular delivery; (3) fewer functioning nephrons means fewer NKCC2 sites of action; (4) chronic loop use upregulates downstream Na+ reabsorption ('braking'). Doses up to ~4-fold higher may be needed (e.g., furosemide 200–400 mg). Continuous IV infusions are sometimes preferred in severe CKD",
+        "Higher doses needed due to reduced delivery and fewer nephrons",
         "Loop diuretics are absolutely contraindicated in CKD",
         "Loop diuretics should be replaced by thiazides in CKD (the opposite is true; thiazides are weaker in CKD)"
       ],
@@ -458,7 +458,7 @@
         "Ibuprofen chemically chelates furosemide in the GI tract",
         "Ibuprofen inhibits OAT-mediated proximal tubular secretion of furosemide, reducing tubular delivery to NKCC2",
         "Ibuprofen activates aldosterone synthesis directly at the adrenal cortex",
-        "NSAIDs inhibit prostaglandin synthesis at three relevant sites: (1) reducing the prostaglandin-mediated component of TAL natriuresis; (2) blocking prostaglandin-mediated vasodilation of the afferent arteriole, lowering GFR and filtered drug delivery; (3) reducing the venodilator effect of IV loop diuretics. Concurrently, NSAIDs may compete with loop diuretics for OAT-mediated tubular secretion. The net effect compromises diuretic efficacy and risks AKI in volume-depleted states"
+        "Ibuprofen blocks prostaglandin-mediated natriuresis and afferent vasodilation"
       ],
       "answer": 4,
       "explanations": [
@@ -473,7 +473,7 @@
       "id": 24,
       "stem": "A 32-year-old pregnant woman in her third trimester with hypertensive emergency develops acute pulmonary edema. Which of the following best characterizes the use of furosemide in pregnancy?",
       "choices": [
-        "Furosemide is generally avoided in pregnancy unless clearly indicated; it crosses the placenta and may reduce uteroplacental perfusion through volume depletion. It is NOT first-line for routine hypertension in pregnancy (where methyldopa, labetalol, and nifedipine are preferred), but IS used for acute pulmonary edema, severe heart failure, or other situations where the risk-benefit favors use",
+        "Furosemide is avoided in pregnancy unless clearly indicated",
         "Loop diuretic is first-line for routine hypertension in pregnancy",
         "Ethacrynic acid is the preferred loop diuretic in pregnancy",
         "Loop diuretics are absolutely safe in pregnancy with no concerns",
@@ -495,7 +495,7 @@
         "Halve the home oral dose for IV administration",
         "Match the home oral dose 1:1 (assuming complete bioavailability)",
         "Use only continuous IV infusion; bolus dosing is contraindicated",
-        "IV bolus dose at 1–2.5× the patient's home oral dose total daily (e.g., furosemide 80 mg IV once or twice daily for someone on 80 mg PO daily). The DOSE trial showed high-dose intermittent IV is not inferior to continuous infusion. Doses are doubled if response is inadequate after 2–6 hours; renal function and electrolytes are monitored closely",
+        "IV bolus at 1–2.5× the home oral dose daily",
         "Always use spironolactone first instead of loop diuretic"
       ],
       "answer": 3,
@@ -512,7 +512,7 @@
       "stem": "A 7-year-old boy with chronic salt craving, polyuria, and growth retardation is found to have hypokalemic metabolic alkalosis, hypomagnesemia, hypercalciuria, normal-low blood pressure, and elevated plasma renin and aldosterone. The pattern is similar to that seen in a patient on chronic furosemide. Which of the following best characterizes the underlying disorder?",
       "choices": [
         "Gain-of-function mutation in ENaC (Liddle syndrome)",
-        "Loss-of-function mutation in NKCC2 (or other TAL transporters such as ROMK, ClC-Kb, or barttin) — Bartter syndrome — produces a 'natural loop diuretic' phenotype, with chronic salt wasting from impaired TAL function and the same biochemical pattern as a patient on chronic furosemide. Gitelman syndrome (NCC defect) is the analogous phenocopy of thiazide use, with HYPOcalciuria instead of hypercalciuria",
+        "Loss-of-function NKCC2 mutation (Bartter syndrome)",
         "Loss-of-function mutation in NCC (Gitelman syndrome) — but Gitelman has HYPOCALCIURIA, not hypercalciuria",
         "Mineralocorticoid receptor mutation (PHA1) — would cause HYPERkalemia and salt wasting, with high aldosterone but resistance",
         "AQP2 mutation (nephrogenic diabetes insipidus) — would cause hypernatremia and dilute urine, not the hypokalemic alkalosis pattern"

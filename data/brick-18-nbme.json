@@ -7,7 +7,7 @@
       "stem": "A 60-year-old woman has a routine plasma sodium of 128 mEq/L. She is asymptomatic. The clinician categorizes her hyponatremia by severity. Which of the following correctly classifies her hyponatremia and the typical severity bands?",
       "choices": [
         "Severe hyponatremia (Na+ <125)",
-        "Moderate hyponatremia (Na+ 125–129) — patients are often asymptomatic or have mild symptoms (nausea, mild confusion); 'mild' typically refers to 130–134; 'severe' to <125 (often symptomatic with confusion, seizures, herniation if acute). The same Na+ value can be benign (chronic) or life-threatening (acute) depending on rate of development",
+        "Moderate hyponatremia (Na+ 125–129)",
         "Mild hyponatremia (Na+ 130–134)",
         "Asymptomatic hyponatremia (Na+ 134)",
         "Pseudohyponatremia"
@@ -27,7 +27,7 @@
       "choices": [
         "The marathon runner has additional cerebral injury",
         "The elderly patient is misdiagnosed",
-        "Acute (<48 hours) vs chronic (>48 hours) hyponatremia produce dramatically different clinical pictures at the same plasma Na+. ACUTE hyponatremia: brain cells have not had time to adapt by losing idiogenic osmoles, so water shifts into brain cells producing CEREBRAL EDEMA → confusion, seizure, coma, herniation. CHRONIC hyponatremia: brain cells defend their volume by extruding idiogenic osmoles (myo-inositol, taurine, glutamine) within 24–48 hours, reducing intracellular osmolality to match ECF; symptoms are usually mild despite the same Na+. CRITICAL CONSEQUENCE: the same Na+ correction rate that is safe in acute hyponatremia (rapid correction, no ODS risk because cells haven't lost osmoles) can produce ODS in chronic hyponatremia (rapid water shift OUT of brain cells before osmoles can be replenished)",
+        "Acute vs chronic hyponatremia produce different clinical pictures",
         "Sodium has different effects in different age groups",
         "Plasma sodium does not correlate with symptoms"
       ],
@@ -46,7 +46,7 @@
       "diagram": "<div class=\"dgm-title\">Diagnostic algorithm for hyponatremia</div><div class=\"dgm-flow\"><div class=\"dgm-row\">1. Confirm low plasma Na+ (rule out lab error)</div><div class=\"dgm-row\">2. Measure plasma osmolality</div><div class=\"dgm-row\">→ HIGH (mannitol, hyperglycemia): translational hyponatremia</div><div class=\"dgm-row\">→ NORMAL (lipids, proteins): pseudohyponatremia (lab artifact)</div><div class=\"dgm-row\">→ LOW: TRUE hypotonic hyponatremia → assess volume status</div><div class=\"dgm-row\">3. Hypovolemic / Euvolemic / Hypervolemic determine etiology</div><div class=\"dgm-row\">4. Urine osmolality + urine sodium to refine</div></div>",
       "choices": [
         "Empirically treat with hypertonic saline",
-        "Measure plasma osmolality to determine whether the hyponatremia is hypotonic (true), isotonic (pseudohyponatremia), or hypertonic (translational/hyperosmolar). This first branch of the algorithm distinguishes lab artifact (lipids, proteins) and translational shifts (hyperglycemia, mannitol) from TRUE hypotonic hyponatremia, which requires further volume assessment",
+        "Measure plasma osmolality",
         "Empirically restrict free water",
         "Order MRI of pituitary",
         "Initiate dialysis"
@@ -72,7 +72,7 @@
         { "name": "Serum triglycerides", "value": "180 mg/dL (normal)", "flag": "", "ref": "—" }
       ],
       "choices": [
-        "Pseudohyponatremia from massive paraprotein elevation in multiple myeloma — paraproteins displace water in the plasma volume, falsely lowering Na+ measurement when sodium is reported as mEq per total plasma volume (some flame photometry methods). The MEASURED plasma osmolality is NORMAL (since sodium homeostasis is actually intact), but the calculated osmolality is artifactually low because it uses the artifactually low Na+. Direct ion-selective electrode methods on undiluted samples are not affected by this artifact. NO TREATMENT for the 'hyponatremia' is needed — the patient's actual sodium homeostasis is normal",
+        "Pseudohyponatremia from massive paraprotein elevation",
         "True hypotonic hyponatremia from SIADH",
         "Translational hyponatremia from hyperglycemia",
         "Cerebral salt wasting",
@@ -95,7 +95,7 @@
         "True dilutional hyponatremia from SIADH",
         "Cerebral salt wasting",
         "Hypovolemia despite hyperglycemia",
-        "Translational (hyperosmolar) hyponatremia from hyperglycemia: glucose is an EFFECTIVE osmole in the low-insulin state of DKA (cellular glucose uptake is impaired); the elevated plasma glucose draws water OUT of cells INTO plasma by osmosis, diluting plasma sodium WITHOUT changing total body sodium. The CORRECTED sodium = measured Na+ + 1.6 × (glucose − 100)/100 = 131 + 1.6 × (580−100)/100 = 131 + 7.7 ≈ 139 (normal). With insulin therapy, glucose falls and water shifts back into cells, allowing Na+ to normalize. The 'hyponatremia' is benign and protective; no Na+ replacement is needed"
+        "Translational (hyperosmolar) hyponatremia from hyperglycemia"
       ],
       "answer": 4,
       "explanations": [
@@ -111,7 +111,7 @@
       "stem": "A 67-year-old man with newly diagnosed small cell lung cancer presents with euvolemic hyponatremia. Plasma sodium 122, plasma osmolality 252, urine osmolality 580, urine sodium 80. He has no thyroid or adrenal abnormality. Which of the following best characterizes the diagnostic features of SIADH in this patient?",
       "choices": [
         "Hypervolemia and increased ADH",
-        "Hypotonic euvolemic hyponatremia with INAPPROPRIATELY CONCENTRATED urine (Uosm >100 mOsm/kg, usually >300), urine sodium >40 mEq/L (kidney handles Na+ normally), euvolemic clinical exam, and exclusion of thyroid/adrenal/renal causes. The mechanism is inappropriately elevated ADH (often from paraneoplastic ectopic secretion in SCLC) that drives water reabsorption in the collecting duct despite low plasma osmolality. Treatment: free water restriction; tolvaptan for chronic management; hypertonic saline for severely symptomatic",
+        "Hypotonic euvolemic hyponatremia with inappropriately concentrated urine",
         "Hypovolemia with concentrated urine",
         "Pseudohyponatremia from paraprotein",
         "Translational hyponatremia from hyperglycemia"
@@ -139,7 +139,7 @@
       "choices": [
         "SIADH from a CNS process",
         "Cerebral salt wasting",
-        "Hypovolemic hypotonic hyponatremia from extra-renal Na+ + water loss with disproportionate plain-water replacement: GI losses (vomiting/diarrhea) remove Na+ AND water but he replaces with plain water; the extra water relative to Na+ dilutes plasma sodium. The kidney's RESPONSE is appropriate — RAAS, SNS, and ADH activation produce avid Na+ retention (UNa <20, low FENa) and water retention (concentrated urine, high BUN:Cr). Treatment is isotonic saline to replace both Na+ and ECF volume; plasma Na+ corrects as Na+ losses are repaired and the volume stimulus to ADH is removed",
+        "Hypovolemic hypotonic hyponatremia from extra-renal Na+ loss",
         "Pseudohyponatremia from severe hyperlipidemia",
         "Hypervolemic hyponatremia from heart failure"
       ],
@@ -159,7 +159,7 @@
         "SIADH from a CNS process",
         "Hypovolemic hyponatremia",
         "Pseudohyponatremia",
-        "HYPERVOLEMIC hyponatremia from heart failure: total body water and Na+ are markedly INCREASED, but EAV is reduced (low cardiac output / arterial underfilling). The kidney 'sees' the patient as volume-depleted and activates RAAS, SNS, and ADH. Free water retention is disproportionate to Na+ retention (because non-osmotic ADH release favors water over salt), so plasma Na+ falls despite total body Na+ excess. Urine Na+ is LOW (<20) because RAAS-driven Na+ retention dominates. Treatment: loop diuretic for volume, free water restriction; tolvaptan for severe symptomatic hyponatremia; treat underlying HF",
+        "Hypervolemic hyponatremia from heart failure",
         "Translational hyponatremia"
       ],
       "answer": 3,
@@ -179,7 +179,7 @@
         "Cerebral salt wasting",
         "Translational hyponatremia",
         "Hypervolemic hyponatremia from cirrhosis",
-        "Beer potomania — chronic excessive beer intake (high water content, low solute) combined with minimal solute intake from food. The kidney's diluting capacity is normally limited by the solute load delivered to the diluting segments; with intake of only ~250–500 mOsm/day of solute (vs normal ~600–900), maximum free water excretion may be only 4–5 L (rather than the usual 18–20 L). Even modest beer intake (8–10 L/day) overwhelms this reduced capacity, producing dilutional hyponatremia. Urine osmolality is LOW (~50–100) reflecting maximal ADH suppression — distinguishing from SIADH. Treatment: thiamine (avoid Wernicke), gradual rehydration with isotonic saline + dietary solute; CAUTION with rapid correction because of high ODS risk in chronic hyponatremia + alcoholism + malnutrition"
+        "Beer potomania"
       ],
       "answer": 4,
       "explanations": [
@@ -194,7 +194,7 @@
       "id": 10,
       "stem": "An 82-year-old widowed woman who lives alone, eats very little, and drinks several cups of tea daily presents with confusion. Plasma sodium 120, plasma osmolality 248, urine sodium 18, urine osmolality 80 (DILUTE). Volume status is borderline. Which of the following best characterizes her hyponatremia?",
       "choices": [
-        "'Tea-and-toast' hyponatremia — analogous to beer potomania but driven by inadequate dietary solute intake (low protein, low salt). Solute excretion is too low to permit adequate free water excretion (low solute load + minimal urine osm = limited free water excretion). Even modest fluid intake exceeds excretory capacity, producing dilutional hyponatremia. Urine osm is LOW (ADH appropriately suppressed). Common in elderly, malnourished, or socially isolated patients on minimal-solute diets. Treatment: gradual rehydration plus dietary solute; CAUTION with rapid correction because of ODS risk in chronic + malnourished",
+        "Tea-and-toast hyponatremia",
         "SIADH from CNS injury",
         "Cerebral salt wasting",
         "Hypervolemic hyponatremia from heart failure",
@@ -214,7 +214,7 @@
       "stem": "A 35-year-old recreational marathon runner collapses at mile 22 with seizure. He had been drinking water at every aid station and 'overhydrating' to prevent dehydration. Plasma sodium 120 mEq/L, plasma osmolality 252, urine osmolality 480. Which of the following best characterizes his hyponatremia?",
       "choices": [
         "True dehydration with hypotonic loss",
-        "Exercise-associated hyponatremia (EAH): excessive water intake during prolonged exertion, often combined with non-osmotic ADH release driven by exertion-related stress, NSAID use, and elevated cytokines, overwhelms renal free water excretion and produces dilutional hyponatremia. Risk factors: prolonged events (marathons, ultramarathons, triathlons), excessive water/sports-drink intake, female sex, longer race times, NSAIDs, hot weather. The hyponatremia is ACUTE (developed during the race, <hours), so cerebral edema risk is HIGH and dramatic symptoms (seizure, coma) may occur. Treatment: hypertonic 3% saline IV bolus; FREE WATER RESTRICTION; correct rapidly because acute hyponatremia (no ODS risk in acute setting). Prevention: drink to thirst rather than scheduled volumes",
+        "Exercise-associated hyponatremia",
         "Pseudohyponatremia from severe rhabdomyolysis-related hyperproteinemia",
         "Translational hyponatremia from glucose drinks",
         "SIADH from chronic illness"
@@ -233,7 +233,7 @@
       "stem": "A 68-year-old woman on hydrochlorothiazide for hypertension is admitted with confusion and plasma sodium 118 mEq/L. She has been on HCTZ for 3 weeks and increased her water intake recently. Which of the following best characterizes thiazide-induced hyponatremia?",
       "choices": [
         "Hyperkalemic hyponatremia",
-        "Multifactorial: thiazide blockade of NCC impairs the diluting segment in the DCT; volume contraction triggers non-osmotic ADH release; concurrent hypokalemia (very common with chronic thiazide) impairs renal water handling; increased water intake (from thirst, dry mouth) overwhelms reduced excretory capacity; elderly patients are particularly susceptible due to age-related impairment of renal water handling. Often associated with mild volume depletion. Management: stop thiazide; correct hyponatremia cautiously (≤8 mEq/L/24h); replace K+; switch to alternative antihypertensive (CCB, ACEi, ARB, loop diuretic — which causes hyponatremia much less often)",
+        "Multifactorial thiazide-induced hyponatremia",
         "Translational hyponatremia from drug effect",
         "Pseudohyponatremia from drug effect",
         "Cerebral salt wasting from drug effect"
@@ -263,7 +263,7 @@
         "Heart failure with hypervolemic hyponatremia",
         "Hypovolemic hyponatremia from gastrointestinal losses",
         "Pseudohyponatremia",
-        "SSRI (sertraline)-induced SIADH — SSRIs are a recognized cause of SIADH, particularly in elderly women within the first weeks of therapy. Mechanism is thought to involve enhanced ADH release. The pattern matches euvolemic hypotonic hyponatremia with inappropriately concentrated urine and elevated UNa — classic for SIADH. Other drugs causing SIADH include carbamazepine, vincristine, chemotherapeutics (cyclophosphamide), and MDMA. Management: stop SSRI; consider switching to bupropion (doesn't cause SIADH); free water restriction; tolvaptan if severe; hypertonic saline for severely symptomatic with seizure",
+        "SSRI-induced SIADH",
         "Translational hyponatremia"
       ],
       "answer": 3,
@@ -283,7 +283,7 @@
         "Translational hyponatremia from cortisol deficiency",
         "Hypervolemic hyponatremia",
         "Cerebral salt wasting",
-        "Combined glucocorticoid AND mineralocorticoid deficiency: (1) aldosterone deficiency produces renal Na+ wasting (hypovolemia + low UNa surprisingly) and K+ retention (hyperkalemia, mild metabolic acidosis); (2) cortisol deficiency removes its normal tonic inhibition of ADH release, producing inappropriate ADH-driven free water retention; the volume depletion from aldosterone deficiency further drives non-osmotic ADH release. The combination of Na+ loss + free water retention produces hypovolemic hypotonic hyponatremia. Treatment: hydrocortisone (cortisol replacement) corrects the ADH-driven water retention rapidly; fludrocortisone (mineralocorticoid replacement) corrects the renal Na+ wasting. Recognition is critical — adrenal insufficiency can present primarily as hyponatremia"
+        "Combined glucocorticoid and mineralocorticoid deficiency"
       ],
       "answer": 4,
       "explanations": [
@@ -298,7 +298,7 @@
       "id": 15,
       "stem": "A 65-year-old woman with severe untreated primary hypothyroidism (TSH 145, FT4 0.2) presents with hyponatremia of 122 mEq/L. Which of the following best explains the mechanism of hyponatremia in severe hypothyroidism?",
       "choices": [
-        "Severe hypothyroidism reduces cardiac output and GFR, lowering free water excretion capacity. The reduced GFR limits filtered water that can be excreted; ADH levels may also be inappropriately elevated. Coexisting reduced cellular metabolic activity may impair Na+/K+-ATPase function. The hyponatremia is typically mild-to-moderate and resolves with thyroid hormone replacement (slowly over weeks). Severe hypothyroidism can also unmask SIADH-like physiology. Recognition matters because thyroid hormone replacement, not water restriction alone, is the definitive treatment",
+        "Severe hypothyroidism reduces cardiac output and GFR",
         "Pseudohyponatremia from elevated TSH",
         "Translational hyponatremia from increased glucose",
         "Hypervolemic hyponatremia from cardiac failure",
@@ -317,7 +317,7 @@
       "id": 16,
       "stem": "A 70-year-old woman is hospitalized after hip arthroplasty. She receives 3 L of intravenous 0.45% saline and 5% dextrose in water (D5W) over 24 hours. On postoperative day 2 she develops confusion. Plasma sodium has fallen from 140 to 124 mEq/L. Which of the following best explains the mechanism of postoperative hyponatremia?",
       "choices": [
-        "Postoperative SIADH-like physiology (driven by surgical stress, pain, opioids, nausea — all promoting non-osmotic ADH release) PLUS administration of hypotonic IV fluids (D5W, 0.45% saline) → free water retention disproportionate to Na+ retention. Modern recommendations favor isotonic IV fluids (LR, NS) for routine postoperative maintenance because of this risk. Recognition: stop hypotonic fluids, switch to isotonic, treat severe symptomatic hyponatremia with hypertonic 3% saline, identify and address ADH triggers (pain control, antiemetic, etc.)",
+        "Postoperative SIADH plus hypotonic IV fluid administration",
         "Pseudohyponatremia from postoperative protein release",
         "Translational hyponatremia from postoperative hyperglycemia",
         "Cerebral salt wasting from anesthesia",
@@ -338,7 +338,7 @@
       "choices": [
         "Free water restriction alone",
         "Continuous isotonic saline infusion",
-        "Hypertonic 3% saline boluses (e.g., 100 mL IV over 10 min, may repeat up to twice if symptoms persist) to acutely raise plasma Na+ by 4–6 mEq/L within the first few hours, addressing cerebral edema and resolving symptoms. Total correction in the first 24 hours limited to ≤8 mEq/L (≤6 in patients at high ODS risk: chronic hyponatremia + alcoholism + malnutrition + hypokalemia). After acute crisis: transition to free water restriction ± tolvaptan; correct underlying cause",
+        "Hypertonic 3% saline boluses",
         "Mannitol infusion",
         "Loop diuretic alone"
       ],
@@ -382,7 +382,7 @@
         "Tolvaptan inhibits NKCC2",
         "Tolvaptan inhibits aldosterone synthesis",
         "Tolvaptan is a tetracycline antibiotic that inhibits AQP2",
-        "Tolvaptan is a SELECTIVE V2-receptor antagonist that blocks ADH binding to V2 receptors on collecting duct principal cells, preventing cAMP-driven AQP2 trafficking. The result is selective free water excretion ('aquaresis') without significant Na+/K+ loss. Useful in chronic SIADH refractory to free water restriction; also approved for ADPKD. Limitations: HEPATOTOXICITY (FDA black-box warning for ADPKD; some hepatotoxicity in SIADH patients, hence treatment limited to 30 days); cost; need for hospital initiation; potential for overly rapid Na+ correction risking ODS — monitor Na+ closely especially in first 24 hours"
+        "Tolvaptan is a selective V2-receptor antagonist"
       ],
       "answer": 4,
       "explanations": [
@@ -397,7 +397,7 @@
       "id": 20,
       "stem": "A 28-year-old researcher is studying the pathophysiology of osmotic demyelination syndrome (ODS). Which of the following best explains the mechanism by which rapid correction of chronic hyponatremia produces ODS?",
       "choices": [
-        "In CHRONIC hyponatremia (>48 hours), brain cells lose IDIOGENIC OSMOLES (organic osmolytes — myo-inositol, glutamine, taurine) over 24–48 hours to reduce intracellular osmolality and defend brain volume against the lowered ECF osmolality. Rapid restoration of plasma Na+ shifts water OUT of brain cells faster than the lost osmoles can be replenished (recovery takes days). The intracellular dehydration produces oligodendrocyte injury and demyelination, particularly in the pons (central pontine myelinolysis) and extrapontine sites (basal ganglia, thalamus). Symptoms: dysarthria, dysphagia, paraparesis, locked-in syndrome — often delayed 1–7 days after correction; can be devastating and irreversible",
+        "Loss of brain idiogenic osmoles in chronic hyponatremia",
         "ODS results from direct cellular toxicity of saline",
         "ODS occurs only in acute hyponatremia",
         "ODS is unrelated to correction rate",
@@ -417,7 +417,7 @@
       "stem": "A 55-year-old man with chronic alcoholism and Na+ 110 was rapidly corrected to 138 over 8 hours. Three days later he develops dysarthria, dysphagia, and progressive limb weakness leading to a 'locked-in' state. Which of the following best characterizes osmotic demyelination syndrome (ODS)?",
       "choices": [
         "Headache and visual changes within minutes",
-        "DELAYED onset 1–7 days after rapid Na+ correction; symptoms include dysarthria, dysphagia, gaze palsies, paraparesis or quadriparesis, behavioral changes, and 'locked-in' syndrome from pontine demyelination. Extrapontine sites can produce movement disorders (tremor, dystonia). MRI (often delayed by days) shows characteristic central pontine and extrapontine demyelination on T2/FLAIR sequences — the imaging may not appear positive in the first days. Recovery is variable: some recover partially over months; many have permanent deficits. PREVENTION (adhering to correction limits ≤8 mEq/L/24h) is the principal management strategy. RESCUE (if overcorrection occurs): re-administer DDAVP and/or D5W to lower Na+ back into the safe range",
+        "Delayed onset 1–7 days after rapid Na+ correction",
         "Acute pulmonary edema",
         "Renal failure",
         "Hepatic encephalopathy"
@@ -461,7 +461,7 @@
         "Sodium correction rate is determined empirically without formula",
         "Sodium correction is determined by IV fluid composition only",
         "Sodium correction is independent of patient weight",
-        "Estimated change in plasma Na+ from infusion = (infusate Na+ − plasma Na+) / (TBW + 1), where TBW = body weight × 0.6 (men) or 0.5 (women); for a 70-kg man with Na+ 116 receiving 3% saline (Na+ 513): Δ = (513 − 116) / (42 + 1) = 397/43 ≈ 9.2 mEq/L per LITER of infusate. To raise Na+ by 6 mEq/L (the upper safe limit for the first 6–8 hours), give ~650 mL of 3% saline. Calculate target rate to stay within ≤8 mEq/L per 24 hours; monitor frequently",
+        "Estimated ΔNa+ = (infusate Na+ − plasma Na+) / (TBW + 1)",
         "Sodium correction does not require calculation"
       ],
       "answer": 3,
@@ -481,7 +481,7 @@
         "Stop all therapy and allow nature to take course",
         "Initiate dialysis",
         "Begin antiviral therapy",
-        "RESCUE FROM OVERCORRECTION: administer DDAVP (desmopressin, 2–4 µg IV) to halt ongoing water loss, AND infuse D5W (electrolyte-free water, e.g., 6 mL/kg over 1–2 hours) to LOWER plasma Na+ back into the safe range. The goal is to bring Na+ back below 8 mEq/L above baseline within 24 hours. Several case series have shown that this maneuver, performed BEFORE ODS develops, reduces or prevents ODS. Further correction is then SLOWED to ≤4–6 mEq/L per subsequent 24-hour periods"
+        "Rescue with DDAVP and D5W to lower Na+ back into safe range"
       ],
       "answer": 4,
       "explanations": [
@@ -496,7 +496,7 @@
       "id": 25,
       "stem": "A 35-year-old man with HIV/AIDS has plasma sodium 122 mEq/L. Which of the following is a recognized cause of hyponatremia in HIV-infected patients?",
       "choices": [
-        "HIV-associated hyponatremia is multifactorial: SIADH from opportunistic CNS infections (cryptococcal meningitis, toxoplasmosis), pulmonary infections (Pneumocystis pneumonia, tuberculosis), or HIV itself; adrenal insufficiency from CMV adrenalitis or direct HIV effects; hypovolemic hyponatremia from chronic GI losses (cryptosporidiosis, mycobacteria); medication-induced (trimethoprim, pentamidine, vincristine); cerebral salt wasting from CNS lesions. Up to 30–60% of hospitalized HIV patients have hyponatremia. Diagnostic workup follows the standard algorithm; treat underlying cause",
+        "HIV-associated hyponatremia is multifactorial",
         "HIV does not cause hyponatremia",
         "Hyponatremia in HIV is always pseudohyponatremia",
         "HIV always causes hypernatremia, not hyponatremia",
@@ -516,7 +516,7 @@
       "stem": "A 22-year-old man develops confusion and seizure after attending a 'rave' where he danced for hours and consumed multiple ecstasy (MDMA) tablets along with copious water. Plasma sodium 118 mEq/L, plasma osmolality 246, urine osmolality 480, urine sodium 65, euvolemic. Which of the following best characterizes MDMA-induced hyponatremia?",
       "choices": [
         "Pseudohyponatremia from drug",
-        "MDMA (3,4-methylenedioxymethamphetamine, 'ecstasy') causes ACUTE hyponatremia via two mechanisms: (1) MDMA stimulates ADH release from the posterior pituitary (SIADH-like physiology), producing inappropriate water retention; (2) MDMA users are warned about hyperthermia and dehydration during prolonged dancing, leading to excessive water intake. The combination — SIADH + excessive water intake — produces dilutional hyponatremia, often acute and severely symptomatic (seizures, cerebral edema, herniation, death). Most cases are women, perhaps because of slightly higher MDMA-induced ADH response. Treatment: hypertonic 3% saline (rapid correction is appropriate because hyponatremia is ACUTE — low ODS risk); discontinue the drug; supportive care",
+        "MDMA-induced SIADH with excessive water intake",
         "Translational hyponatremia",
         "Cerebral salt wasting",
         "Hypovolemic hyponatremia"
