@@ -49,7 +49,7 @@
         "Insulin-dependent GLUT4 transporters",
         "Direct ATP-dependent glucose pump in the apical membrane",
         "Facilitated diffusion via SGLT proteins independent of sodium",
-        "Sodium-glucose cotransporters (SGLT2 in early PCT, SGLT1 in late PCT) using the inwardly directed Na+ gradient established by basolateral Na+/K+-ATPase to drive secondary active glucose transport, with basolateral exit via GLUT2"
+        "Sodium-glucose cotransport via SGLT2/SGLT1 powered by basolateral Na+/K+-ATPase"
       ],
       "answer": 4,
       "explanations": [
@@ -65,7 +65,7 @@
       "stem": "A 35-year-old researcher studies the proximal convoluted tubule. The apical Na+/H+ exchanger (NHE3) couples cellular extrusion of H+ with luminal reabsorption of Na+. Which of the following provides the immediate energy that drives NHE3 activity?",
       "choices": [
         "Direct hydrolysis of ATP at NHE3 itself",
-        "The inwardly directed sodium electrochemical gradient established by basolateral Na+/K+-ATPase (secondary active transport)",
+        "The Na+ gradient established by basolateral Na+/K+-ATPase",
         "Intracellular CO2 hydration to bicarbonate",
         "An apical proton-ATPase",
         "Cotransport with glucose via SGLT2"
@@ -83,7 +83,7 @@
       "id": 5,
       "stem": "A 65-year-old woman with metabolic acidosis is being studied. The proximal convoluted tubule reclaims approximately 80% of filtered bicarbonate. Which of the following enzymes is critical for this reclamation process?",
       "choices": [
-        "Carbonic anhydrase II (cytosolic) and IV (apical brush border) — interconverting CO2 + H2O ↔ H+ + HCO3−, allowing apical H+ secretion (via NHE3) to combine with filtered HCO3− and convert it to CO2 and water that can re-enter the cell",
+        "Carbonic anhydrase II (cytosolic) and IV (apical brush border)",
         "Glutamine synthetase",
         "Lactate dehydrogenase",
         "Pyruvate kinase",
@@ -104,7 +104,7 @@
       "choices": [
         "Inhibition of NKCC2 in the thick ascending limb",
         "Inhibition of NCC in the distal convoluted tubule",
-        "Inhibition of carbonic anhydrase in the proximal convoluted tubule, reducing HCO3− reabsorption and producing a self-limited bicarbonate diuresis with metabolic acidosis and alkaline urine",
+        "Inhibition of carbonic anhydrase in the proximal tubule",
         "Antagonism of the mineralocorticoid receptor",
         "Inhibition of ENaC in collecting duct principal cells"
       ],
@@ -124,7 +124,7 @@
         "PTH directly increases renal blood flow, raising filtered load of phosphate",
         "PTH activates carbonic anhydrase, secondarily affecting phosphate handling",
         "PTH stimulates intestinal phosphate absorption",
-        "PTH directly inhibits (by promoting endocytosis and degradation of) the NaPi-IIa cotransporter in the apical membrane of the proximal convoluted tubule, reducing phosphate reabsorption and producing phosphaturia",
+        "PTH inhibits the apical NaPi-IIa cotransporter in the PCT",
         "PTH increases proximal tubular phosphate reabsorption directly"
       ],
       "answer": 3,
@@ -140,7 +140,7 @@
       "id": 8,
       "stem": "A 70-year-old man develops oliguric acute kidney injury after a course of gentamicin for endocarditis. Renal biopsy shows necrosis predominantly in the proximal convoluted tubule. Which of the following best explains the susceptibility of the PCT to drug-induced and ischemic injury?",
       "choices": [
-        "The PCT has the highest active-transport workload (and the highest mitochondrial density) in the nephron, and its cells avidly take up many drugs (e.g., aminoglycosides via megalin/cubilin endocytosis), making it especially susceptible to both metabolic injury during ischemia and to direct nephrotoxicity",
+        "The PCT has high metabolic workload and avidly takes up filtered drugs",
         "The PCT operates at the lowest tissue oxygen tension in the kidney",
         "The PCT receives less blood flow than any other nephron segment",
         "The PCT lacks tight junctions, allowing toxins to bypass the cell entirely",
@@ -161,7 +161,7 @@
       "choices": [
         "Active transport by Na+/K+-ATPase pumping water against its gradient",
         "ADH-stimulated insertion of AQP2 in the apical membrane",
-        "Passive osmotic equilibration with the progressively hypertonic medullary interstitium via constitutive AQP1, removing water from tubular fluid and concentrating it",
+        "Passive osmotic equilibration through constitutive AQP1 channels",
         "Active Cl− pumping that secondarily removes water",
         "K+ recycling through ROMK that drives water reabsorption"
       ],
@@ -180,7 +180,7 @@
       "choices": [
         "Active NKCC2 cotransport in the thin ascending limb",
         "ADH-stimulated water reabsorption that secondarily concentrates NaCl",
-        "Passive transcellular Na+ and Cl− diffusion down concentration gradients (the tubular fluid arriving at the bottom of the loop is highly concentrated with respect to NaCl after water has been removed from the descending limb), with the NaCl efflux concentrating the medullary interstitium",
+        "Passive Na+ and Cl− diffusion down concentration gradients",
         "Aldosterone-driven Na+ reabsorption",
         "Bicarbonate-driven anion exchange"
       ],
@@ -289,7 +289,7 @@
       "stem": "A 28-year-old researcher is studying the distal convoluted tubule. The principal apical sodium transporter of the early DCT is NCC, the thiazide-sensitive Na+-Cl− cotransporter. Which of the following best characterizes NCC?",
       "choices": [
         "Active ATP-dependent pump in the apical membrane",
-        "Electroneutral apical Na+/Cl− cotransporter that reabsorbs ~5% of filtered Na+ in the early DCT, inhibited by thiazide diuretics",
+        "Electroneutral apical Na+/Cl− cotransporter inhibited by thiazides",
         "Apical NKCC2-like transporter requiring K+",
         "ENaC-mediated electrogenic Na+ uptake",
         "Aquaporin water channel"
@@ -311,7 +311,7 @@
         "Inhibition of ENaC in collecting duct principal cells",
         "Inhibition of carbonic anhydrase in the proximal tubule",
         "Antagonism of the mineralocorticoid receptor in collecting duct principal cells",
-        "Inhibition of NCC (Na+-Cl− cotransporter) in the early distal convoluted tubule, reducing Na+ reabsorption and producing volume contraction; secondary effects include enhanced proximal Na+/Ca2+ reabsorption and direct upregulation of TRPV5 in the DCT — together producing HYPOcalciuria, useful for stone prevention"
+        "Inhibition of NCC in the early distal convoluted tubule"
       ],
       "answer": 4,
       "explanations": [
@@ -357,7 +357,7 @@
         "Bartter syndrome",
         "Gitelman syndrome",
         "Apparent mineralocorticoid excess from licorice ingestion (11β-HSD2 deficiency)",
-        "Liddle syndrome — autosomal-dominant gain-of-function mutation in ENaC, with constitutive Na+ reabsorption and K+ secretion in collecting duct, mineralocorticoid-independent (suppressed renin and aldosterone)"
+        "Liddle syndrome — gain-of-function ENaC mutation in collecting duct"
       ],
       "answer": 4,
       "explanations": [
@@ -375,7 +375,7 @@
         "Liddle syndrome — gain-of-function ENaC mutation",
         "Conn syndrome — primary hyperaldosteronism",
         "Bartter syndrome — NKCC2 loss-of-function",
-        "Pseudohypoaldosteronism type 1 (PHA1) — loss-of-function of ENaC (autosomal recessive form) or of the mineralocorticoid receptor (autosomal dominant form), producing aldosterone resistance with severe salt wasting, hyperkalemic acidosis, and high but ineffective aldosterone",
+        "Pseudohypoaldosteronism type 1 — mineralocorticoid resistance",
         "Type 1 (distal) renal tubular acidosis"
       ],
       "answer": 3,
@@ -416,7 +416,7 @@
       "choices": [
         "Direct ENaC inhibition (similar to amiloride and triamterene)",
         "Direct ROMK inhibition reducing K+ secretion",
-        "Competitive antagonism of the mineralocorticoid receptor in collecting duct principal cells, reducing transcription of aldosterone-induced ENaC, ROMK, and Na+/K+-ATPase; the net effect is decreased Na+ reabsorption (natriuresis), decreased K+ secretion (potassium-sparing), and modestly decreased downstream H+ secretion",
+        "Competitive antagonism of the mineralocorticoid receptor on principal cells",
         "Inhibition of 11β-hydroxysteroid dehydrogenase type 2",
         "V2 vasopressin receptor antagonism"
       ],
@@ -434,7 +434,7 @@
       "stem": "A 32-year-old man with severe vomiting from gastroenteritis develops metabolic alkalosis with serum HCO3− 34 mEq/L. The kidney's α-intercalated cells of the collecting duct contribute to acid-base homeostasis. In this setting of metabolic ALKALOSIS, β-intercalated cells are upregulated. Which of the following best describes the mechanism of the α-intercalated cell (the cell type relevant in metabolic ACIDOSIS)?",
       "choices": [
         "Apical Na+/H+ exchanger and basolateral Na+/HCO3− cotransporter",
-        "Apical H+-ATPase (and H+/K+-ATPase) secreting H+ into the lumen, with basolateral Cl−/HCO3− exchanger (band 3 / AE1) returning HCO3− to blood",
+        "Apical H+-ATPase with basolateral Cl−/HCO3− exchanger (band 3)",
         "Apical Cl−/HCO3− exchanger (pendrin) secreting HCO3− with basolateral H+-ATPase (this is β-intercalated)",
         "Apical K+ recycling via ROMK driving paracellular acid secretion",
         "Apical Na+/HCO3− cotransport delivering bicarbonate to the lumen"
@@ -473,7 +473,7 @@
       "choices": [
         "Urea is freely filtered, neither reabsorbed nor secreted",
         "Urea is actively secreted by the proximal tubule",
-        "ADH increases activity of urea transporters UT-A1 and UT-A3 in the inner medullary collecting duct, allowing urea reabsorption that contributes substantially to the inner medullary osmotic gradient and sustains maximal urinary concentration",
+        "Urea is reabsorbed via UT-A1/A3 in the inner medullary collecting duct",
         "Urea is excluded from the kidney by the glomerular filtration barrier",
         "Urea is metabolized by tubular cells to ammonia"
       ],
@@ -494,7 +494,7 @@
         "Active urea pumping in the inner medulla concentrates the interstitium",
         "ADH-mediated water removal at the loop of Henle directly removes water from the descending limb",
         "Aldosterone-driven Na+ retention concentrates the medulla",
-        "The water-impermeable thick ascending limb actively pumps NaCl from tubular fluid into the medullary interstitium, raising interstitial osmolality. The water-permeable descending limb then equilibrates osmotically by losing water into the now-hypertonic interstitium, concentrating tubular fluid. Because the descending and ascending limbs run in parallel, this stepwise transfer is repeated and 'multiplied' along the length of the loop, creating a stable corticomedullary osmotic gradient (peak ~1200 mOsm/kg in inner medulla)"
+        "Active NaCl pumping by the TAL with osmotic equilibration in the descending limb"
       ],
       "answer": 4,
       "explanations": [
@@ -512,7 +512,7 @@
         "Active pumping of solutes into the medullary interstitium",
         "Direct production of urine in the medulla",
         "Maximizing oxygen delivery to the inner medulla",
-        "Passive countercurrent EXCHANGE of solutes (Na+, urea) and water between vasa recta and interstitium, preserving the medullary osmotic gradient that the loops of Henle have established by countercurrent MULTIPLICATION",
+        "Passive countercurrent exchange that preserves the medullary osmotic gradient",
         "Filtering plasma a second time in the medulla"
       ],
       "answer": 3,

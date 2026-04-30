@@ -7,7 +7,7 @@
       "stem": "A 30-year-old researcher is studying the distribution of potassium between body compartments, summarized in the diagram below. Which of the following best explains why small shifts of K+ between compartments produce disproportionately large changes in plasma [K+]?",
       "diagram": "<div class=\"dgm-title\">Potassium distribution and balance</div><div class=\"dgm-flow\"><div class=\"dgm-row\">Total body K+: ~3,500 mEq (≈50 mEq/kg lean mass)</div><div class=\"dgm-row\">~98% intracellular (ICF [K+] ≈ 140 mEq/L)</div><div class=\"dgm-row\">~2% extracellular (ECF [K+] ≈ 4 mEq/L)</div><div class=\"dgm-row\">Daily intake ≈ 100 mEq → ~90% renal, ~10% GI excretion</div><div class=\"dgm-row\">Plasma [K+] is set by: (1) cellular shift (ICF↔ECF) and (2) renal excretion</div></div>",
       "choices": [
-        "The narrow ECF compartment (~14 L holding only ~60 mEq) means even small ICF→ECF shifts (e.g., 1% of total body K+ ≈ 35 mEq) produce large changes in plasma [K+]; for the same reason, plasma K+ is a poor index of total body K+",
+        "The narrow ECF compartment magnifies any ICF→ECF shift",
         "K+ is freely filtered at the glomerulus",
         "The kidney rapidly compensates for any change",
         "Insulin always restores K+ within 5 minutes",
@@ -27,7 +27,7 @@
       "stem": "A 19-year-old woman with newly diagnosed type 1 diabetes presents in DKA. Initial plasma K+ is 5.5 mEq/L. After 2 hours of intravenous insulin and fluid resuscitation, plasma K+ has fallen to 3.8 mEq/L — though total body K+ has not appreciably changed in this short interval. Which of the following best explains the rapid fall in plasma K+?",
       "choices": [
         "Insulin acutely increases urinary K+ excretion",
-        "Insulin activates skeletal muscle Na+/K+-ATPase via tyrosine kinase signaling, driving K+ into cells; plasma K+ falls within 15–30 minutes through cellular redistribution, with total body K+ essentially unchanged",
+        "Insulin activates Na+/K+-ATPase, shifting K+ into cells",
         "Insulin chelates K+ in plasma",
         "Insulin reduces intestinal absorption of K+",
         "Insulin destroys K+ through enzymatic degradation"
@@ -47,7 +47,7 @@
       "choices": [
         "Albuterol increases urinary K+ excretion via a direct renal effect",
         "Albuterol reduces dietary K+ absorption",
-        "β2-adrenergic activation stimulates Na+/K+-ATPase via Gs/cAMP signaling on skeletal muscle and other cell membranes, driving K+ from ECF into cells; plasma K+ falls within 15–30 minutes by ~0.5 mEq/L. This is exploited therapeutically with high-dose nebulized β2 agonist for hyperkalemia",
+        "Albuterol activates Na+/K+-ATPase via β2/cAMP, shifting K+ into cells",
         "Albuterol chelates K+ in plasma",
         "Albuterol causes osmotic diuresis"
       ],
@@ -67,7 +67,7 @@
         "Acidosis increases renal K+ secretion",
         "Acidosis selectively stimulates aldosterone synthesis",
         "Acidosis only occurs in the setting of hypokalemia",
-        "Mineral acid (e.g., HCl, NH4Cl) acidoses produce a pronounced H+/K+ exchange across cell membranes — H+ enters cells and K+ exits, raising plasma K+. Organic acid acidoses (DKA, lactic acidosis) cause a smaller K+ shift because the conjugate anion (β-hydroxybutyrate, lactate) accompanies H+ across membranes. In DKA, the apparent hyperkalemia therefore results from the combined effects of insulin deficiency (loss of insulin-driven Na+/K+-ATPase activity) and acidosis-driven K+ shift; treatment with insulin reveals the underlying total body K+ depletion",
+        "Acidosis-driven H+/K+ exchange combined with insulin deficiency raises plasma K+",
         "Acidosis lowers plasma K+ by direct renal effect"
       ],
       "answer": 3,
@@ -95,7 +95,7 @@
         "Spironolactone-like aldosterone resistance",
         "Acidosis-mediated K+ shift",
         "Heparin-mediated aldosterone suppression",
-        "Massive cell lysis from chemotherapy releases intracellular contents — K+, phosphate, uric acid, LDH — into plasma. The hyperphosphatemia precipitates with calcium (lowering serum Ca2+); urate crystals deposit in renal tubules causing AKI; and the released K+ produces life-threatening hyperkalemia. This is tumor lysis syndrome — most common with high-grade lymphomas and leukemias, especially with bulky disease and high LDH"
+        "Tumor lysis syndrome with massive cellular release of K+, PO4, urate"
       ],
       "answer": 4,
       "explanations": [
@@ -110,7 +110,7 @@
       "id": 6,
       "stem": "A 22-year-old marine recruit collapses during heat training and is found to have CK 75,000 U/L, plasma K+ 6.5 mEq/L, and tea-colored urine. The hyperkalemia is attributed in part to the underlying muscle injury. Which of the following best explains the contribution of rhabdomyolysis to hyperkalemia?",
       "choices": [
-        "Direct release of intracellular K+ (along with phosphate, myoglobin, creatine, uric acid, and LDH) from injured myocytes into the ECF; aggravated by AKI from myoglobin nephrotoxicity that impairs renal K+ excretion",
+        "Direct release of intracellular K+ from injured myocytes",
         "Massive insulin release shifts K+ out of cells",
         "Heparin therapy suppresses aldosterone synthesis",
         "Aldosterone deficiency due to adrenal injury",
@@ -130,7 +130,7 @@
       "stem": "A 30-year-old researcher is studying the renal handling of potassium. Most filtered K+ is reabsorbed in the proximal tubule and thick ascending limb. Which of the following segments is the principal site of REGULATED K+ secretion that ultimately determines urinary K+ excretion?",
       "choices": [
         "Proximal convoluted tubule",
-        "Cortical and outer medullary collecting duct (CCD/OMCD), where principal cells secrete K+ via apical ROMK and BK channels — regulated by aldosterone, plasma K+, distal Na+ delivery, and urine flow rate",
+        "Cortical and outer medullary collecting duct (CCD/OMCD)",
         "Thin descending limb of Henle",
         "Thick ascending limb",
         "Bowman capsule"
@@ -150,7 +150,7 @@
       "choices": [
         "Decreased apical Na+ entry via ENaC and decreased urine flow",
         "Hypokalemia and high renal blood flow",
-        "(1) Aldosterone-driven ENaC activity creating a lumen-negative voltage that favors K+ exit via apical ROMK; (2) high distal Na+ delivery providing substrate for ENaC; (3) high urine flow rate (washes K+ away from the apical membrane, maintaining the secretion gradient and activating BK channels); (4) high plasma K+ (direct stimulus to aldosterone)",
+        "Aldosterone, distal Na+ delivery, urine flow rate, and high plasma K+",
         "Decreased Na+/K+-ATPase activity",
         "Increased Bowman-space pressure"
       ],
@@ -170,7 +170,7 @@
         "Direct K+-pump inhibition by furosemide at the principal cell",
         "Reduced filtered K+ load",
         "Decreased aldosterone secretion",
-        "Loop diuretics block NKCC2 in the TAL, increasing distal Na+ delivery to the collecting duct AND increasing urine flow rate; volume contraction additionally activates RAAS, raising aldosterone. All three effects amplify principal-cell K+ secretion via ROMK and BK channels — producing brisk renal K+ wasting and hypokalemia",
+        "Increased distal Na+ delivery, urine flow, and aldosterone amplify K+ secretion",
         "Increased gut absorption of K+"
       ],
       "answer": 3,
@@ -190,7 +190,7 @@
         "Na+/K+-ATPase",
         "ENaC",
         "Apical AQP2",
-        "BK channel (large-conductance Ca2+-activated K+ channel) — opens with apical membrane stretch from increased flow, providing additional K+ secretion at high urine flow rates above what ROMK alone can mediate; explains why high flow per se drives K+ wasting (e.g., osmotic diuresis, loop diuretics)"
+        "BK channel (large-conductance Ca2+-activated K+ channel)"
       ],
       "answer": 4,
       "explanations": [
@@ -206,7 +206,7 @@
       "stem": "A 60-year-old woman with chronic diarrhea has persistent hypokalemia (K+ 2.7) despite oral KCl 80 mEq/day. Serum magnesium is 1.0 mg/dL (low). Which of the following best explains why her hypokalemia is refractory to K+ replacement?",
       "choices": [
         "KCl is being absorbed but excreted unchanged in the urine",
-        "Hypomagnesemia removes intracellular Mg2+'s normal inhibition of ROMK; with ROMK 'unblocked,' inappropriate K+ secretion continues despite hypokalemia, and oral K+ replacement is offset by ongoing renal K+ wasting. Replenishing Mg2+ restores ROMK closure and allows K+ stores to rebuild",
+        "Hypomagnesemia removes Mg2+ inhibition of ROMK, driving K+ wasting",
         "Mg2+ chelates K+ in serum",
         "Mg2+ deficiency affects only neuromuscular function",
         "K+ replacement should simply be dosed higher; Mg+ status is irrelevant"
@@ -226,7 +226,7 @@
       "choices": [
         "Type 1 (distal) renal tubular acidosis with hypokalemic alkalosis",
         "Type 2 (proximal) RTA with Fanconi syndrome features",
-        "Type 4 RTA — hyporeninemic hypoaldosteronism (most common in long-standing diabetic nephropathy); reduced renin → reduced aldosterone → reduced distal Na+/K+ exchange → hyperkalemic mild metabolic acidosis with normal anion gap and normal distal acidification (urine pH <5.5)",
+        "Type 4 RTA from hyporeninemic hypoaldosteronism",
         "Acute lactic acidosis",
         "Diabetic ketoacidosis"
       ],
@@ -255,7 +255,7 @@
         "Tumor lysis syndrome from occult malignancy",
         "Type 1 (distal) RTA",
         "Acidosis-mediated cellular K+ shift",
-        "Combined ACE inhibitor + mineralocorticoid antagonist + NSAID effect: lisinopril reduces angiotensin II → reduced aldosterone; spironolactone blocks the mineralocorticoid receptor itself; ibuprofen reduces prostaglandin-mediated afferent vasodilation and lowers GFR (worsening creatinine and reducing distal Na+ delivery). The combination markedly impairs distal K+ secretion at multiple steps, producing severe hyperkalemia"
+        "Combined ACE inhibitor + spironolactone + NSAID hyperkalemia"
       ],
       "answer": 4,
       "explanations": [
@@ -270,7 +270,7 @@
       "id": 14,
       "stem": "A 60-year-old man on continuous IV heparin for 5 days for a pulmonary embolism develops hyperkalemia (K+ 5.8). Renal function is unchanged. Which of the following best explains heparin-induced hyperkalemia?",
       "choices": [
-        "Heparin directly inhibits adrenal aldosterone synthase, reducing aldosterone production from the zona glomerulosa; with prolonged exposure, the zona glomerulosa atrophies. Reduced aldosterone impairs distal K+ secretion, producing hyperkalemia — recognized particularly in patients with renal impairment, on RAAS inhibitors, or with diabetic nephropathy",
+        "Heparin inhibits adrenal aldosterone synthesis",
         "Heparin chelates K+ in plasma",
         "Heparin produces osmotic diuresis",
         "Heparin stimulates β2 receptors and shifts K+",
@@ -312,7 +312,7 @@
       "id": 16,
       "stem": "A 72-year-old man with end-stage renal disease and missed dialysis has K+ 7.8 with peaked T waves and widened QRS on ECG. The first immediate intervention is intravenous calcium gluconate. Which of the following best explains the mechanism of action of calcium gluconate in hyperkalemia?",
       "choices": [
-        "Calcium stabilizes the cardiac myocyte resting membrane potential by raising the threshold for depolarization (restoring the gap between resting potential and threshold); this opposes the partial depolarization caused by elevated K+ and protects against arrhythmia. Calcium does NOT lower plasma K+ — its onset is rapid (within minutes) but duration is brief (~30 minutes), so it must be combined with K+-lowering therapies",
+        "Calcium raises the cardiac myocyte threshold for depolarization",
         "Calcium chelates K+ in plasma",
         "Calcium increases urinary K+ excretion",
         "Calcium shifts K+ from ECF to ICF",
@@ -332,7 +332,7 @@
       "stem": "A 65-year-old man with end-stage renal disease has K+ 7.8 with ECG changes. After IV calcium gluconate, the team gives intravenous regular insulin 10 units along with 50 mL of 50% dextrose. Which of the following best describes the mechanism by which insulin lowers plasma K+ in this setting?",
       "choices": [
         "Insulin reduces intestinal K+ absorption",
-        "Insulin activates Na+/K+-ATPase on skeletal muscle and other cell membranes via tyrosine kinase signaling, driving K+ from ECF into cells (cellular shift). Plasma K+ falls by ~0.5–1.0 mEq/L within 15–30 minutes. Total body K+ is UNCHANGED; the effect is temporizing, not curative. Glucose is co-administered to prevent insulin-induced hypoglycemia",
+        "Insulin activates Na+/K+-ATPase, shifting K+ from ECF into cells",
         "Insulin precipitates K+ in plasma",
         "Insulin increases renal K+ excretion",
         "Insulin causes osmotic diuresis"
@@ -352,7 +352,7 @@
       "choices": [
         "Direct increased renal K+ excretion",
         "Reduced intestinal K+ absorption",
-        "β2-adrenergic receptor activation on skeletal muscle and other cells stimulates Na+/K+-ATPase via Gs-coupled cAMP signaling, driving K+ from ECF into cells (cellular shift). Plasma K+ falls by ~0.5 mEq/L within 30 minutes. Synergistic with insulin/glucose; NOT recommended as monotherapy because some patients are non-responders",
+        "β2-adrenergic activation of Na+/K+-ATPase shifts K+ into cells",
         "Direct vasoconstriction redistributing blood",
         "Osmotic diuresis"
       ],
@@ -372,7 +372,7 @@
         "Repeat calcium gluconate",
         "Increase insulin alone",
         "Increase β2 agonist alone",
-        "Loop diuretic (if kidney function adequate); gastrointestinal cation-exchange resins (sodium polystyrene sulfonate, patiromer, sodium zirconium cyclosilicate); or hemodialysis for severe / refractory cases. These therapies actually REMOVE K+ from the body, in contrast to the cellular-shift therapies which only redistribute it",
+        "Loop diuretic, GI cation-exchange resins, or hemodialysis",
         "Hypertonic saline"
       ],
       "answer": 3,
@@ -388,7 +388,7 @@
       "id": 20,
       "stem": "A 70-year-old man on long-term hemodialysis presents with K+ 7.2 and peaked T waves after missing a session. After temporizing therapies (calcium gluconate, insulin/glucose), he is taken for emergent hemodialysis. Which of the following best characterizes the rate of K+ removal during HD with a low-K dialysate?",
       "choices": [
-        "Approximately 25–40 mEq/hour during conventional HD with a low-K (1–2 mEq/L) dialysate; this is the most rapid means of removing K+ from the body and is the definitive treatment for severe / refractory hyperkalemia, especially in ESRD or oliguric AKI",
+        "Approximately 25–40 mEq/hour with low-K dialysate",
         "Less than 5 mEq/hour",
         "Negative removal — HD adds K+",
         "Variable, but typically less than 10 mEq/hour",
@@ -411,7 +411,7 @@
         "Reduced GI K+ absorption",
         "Increased dietary K+ losses",
         "Inappropriate insulin spike",
-        "Thiazide blocks NCC in the early DCT, increasing distal Na+ delivery to the collecting duct. Volume contraction activates RAAS, raising aldosterone. The combination of (1) high distal Na+ delivery (more substrate for ENaC), (2) high urine flow (washes K+ away from apical membrane and activates BK channels), and (3) high aldosterone (drives ENaC, ROMK, Na+/K+-ATPase) amplifies principal-cell K+ secretion. Increased distal H+ secretion at α-intercalated cells produces the accompanying metabolic alkalosis"
+        "Increased distal Na+ delivery, urine flow, and aldosterone activation"
       ],
       "answer": 4,
       "explanations": [
@@ -433,7 +433,7 @@
         { "name": "BUN", "value": "32 mg/dL", "flag": "high", "ref": "8–20" }
       ],
       "choices": [
-        "Hypokalemia and hypomagnesemia greatly potentiate digoxin toxicity. Digoxin and K+ compete for binding to Na+/K+-ATPase; in hypokalemia, less K+ is available to compete, so digoxin binds more avidly and inhibits the pump more profoundly. Hypomagnesemia further potentiates by impairing Mg2+-dependent K+ channels and contributing to arrhythmogenesis. Treatment: replete K+ AND Mg2+ first, hold digoxin, consider digoxin Fab fragments (Digibind) for severe toxicity (life-threatening arrhythmia or hyperkalemia >5)",
+        "Hypokalemia and hypomagnesemia potentiate digoxin toxicity",
         "Hyperkalemia is more dangerous than hypokalemia in digoxin toxicity",
         "Digoxin level alone determines toxicity; electrolytes are irrelevant",
         "Hypokalemia is protective in digoxin toxicity",
@@ -477,7 +477,7 @@
       "choices": [
         "5 mEq/kg as an IV bolus",
         "100 mEq/hour by peripheral IV",
-        "Generally limited to 10–20 mEq/hour by peripheral IV (concentrations ≤40 mEq/L); up to 20–40 mEq/hour by central line with continuous cardiac monitoring; oral KCl 40 mEq doses every 4–6 hours when feasible. Faster rates risk transient hyperkalemia and life-threatening arrhythmia. Magnesium replacement should be ensured concurrently",
+        "10–20 mEq/hour peripheral IV (up to 40 with central line)",
         "1 mEq/hour IV maximum",
         "As fast as tolerated; no upper limit"
       ],
@@ -497,7 +497,7 @@
         "Increase the KCl dose without addressing magnesium",
         "Add IV calcium gluconate",
         "Switch to IV potassium phosphate",
-        "Replenish magnesium with IV magnesium sulfate before further K+ replacement; without correcting hypomagnesemia, K+ replacement is largely ineffective because low intracellular Mg2+ removes its inhibition of ROMK, allowing inappropriate ongoing renal K+ wasting",
+        "Replenish magnesium with IV magnesium sulfate",
         "Discontinue all K+ supplementation"
       ],
       "answer": 3,
@@ -516,7 +516,7 @@
         "Plasma K+ always reflects total body K+",
         "Plasma K+ depends solely on dietary K+ intake",
         "Plasma K+ is independent of cellular shifts",
-        "Plasma K+ measures only ECF K+ concentration; cellular shifts (insulin, β2-adrenergic, acid-base, aldosterone) can produce dramatic plasma K+ changes WITHOUT change in total body K+. In DKA, insulin deficiency and acidosis shift K+ out of cells, masking total body K+ depletion; insulin therapy reveals the deficit by reversing the shift. This is why K+ monitoring is intensive during DKA treatment, with K+ added prophylactically as plasma K+ falls",
+        "Plasma K+ reflects ECF only and shifts independent of total body K+",
         "Plasma K+ is fixed by aldosterone alone, regardless of total body K+"
       ],
       "answer": 3,

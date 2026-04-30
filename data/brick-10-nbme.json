@@ -11,7 +11,7 @@
         "Bilateral renal artery stenosis is present in heart failure",
         "Excess aldosterone alone explains the Na+ avidity",
         "The kidney senses and responds to total body Na+, not effective volume",
-        "Despite total body Na+ and water excess, EAV is reduced (low cardiac output / arterial underfilling); the kidney appropriately retains Na+ to defend EAV via activated RAAS, SNS, and ADH"
+        "EAV is reduced despite volume excess, activating RAAS/SNS/ADH"
       ],
       "answer": 4,
       "explanations": [
@@ -28,7 +28,7 @@
       "choices": [
         "Hepatic veins and portal vein only",
         "Renal pelvis stretch receptors only",
-        "High-pressure baroreceptors (carotid sinus, aortic arch), low-pressure cardiopulmonary stretch receptors (atria, pulmonary veins), and intrarenal sensors (juxtaglomerular cells of the afferent arteriole, macula densa)",
+        "Arterial baroreceptors, cardiopulmonary stretch receptors, and intrarenal sensors",
         "Cortical bone osteocytes",
         "Adrenal medulla chromaffin cells alone"
       ],
@@ -46,7 +46,7 @@
       "stem": "A 30-year-old researcher is studying how the body matches daily Na+ intake to Na+ excretion in steady state. Which of the following organs is principally responsible for adjusting Na+ excretion to maintain whole-body sodium balance?",
       "choices": [
         "Skin (sweat glands)",
-        "Kidney — by varying renal Na+ excretion across nephron segments, principally through aldosterone-regulated collecting duct reabsorption together with proximal tubular and TAL reabsorption modulated by AT II, SNS, and ANP",
+        "Kidney",
         "GI tract (intestine)",
         "Liver",
         "Bone"
@@ -67,7 +67,7 @@
       "choices": [
         "Conversion of angiotensin I to angiotensin II by ACE",
         "Conversion of angiotensinogen to angiotensin I by hepatic enzymes",
-        "Renin secretion from juxtaglomerular cells, controlled by renal perfusion pressure (afferent baroreceptor), sympathetic input via β1 receptors, and macula densa NaCl signaling",
+        "Renin secretion from juxtaglomerular cells",
         "Aldosterone synthesis from cholesterol",
         "Bicarbonate cofactor activation"
       ],
@@ -86,7 +86,7 @@
       "choices": [
         "Decreased renin secretion from JG cells",
         "Decreased proximal tubular Na+ reabsorption",
-        "α1-adrenergic constriction of renal arterioles (reduces RBF and filtered Na+ load), β1-adrenergic stimulation of JG cell renin secretion (driving AT II generation), and direct sympathetic stimulation of proximal tubular Na+ reabsorption — together promoting Na+ retention",
+        "Combined α1 vasoconstriction, β1 renin release, and direct tubular stimulation",
         "Inhibition of aldosterone synthesis",
         "Direct ENaC inhibition in collecting duct principal cells"
       ],
@@ -106,7 +106,7 @@
         "Decreased GFR with reduced filtered Na+ load",
         "Increased proximal tubular Na+ reabsorption",
         "Inhibition of basolateral Na+/K+-ATPase only",
-        "Afferent arteriolar dilation and efferent arteriolar constriction (raising GFR), direct inhibition of Na+ reabsorption in the inner medullary collecting duct, and suppression of renin and aldosterone secretion",
+        "Afferent dilation, efferent constriction, and suppression of renin",
         "Increased ENaC activity in collecting duct principal cells"
       ],
       "answer": 3,
@@ -122,7 +122,7 @@
       "id": 7,
       "stem": "A 55-year-old man with sustained essential hypertension shows the kidney's intrinsic 'pressure natriuresis' response to higher renal perfusion pressure. Which of the following best characterizes this response?",
       "choices": [
-        "Higher renal perfusion pressure raises medullary blood flow and medullary interstitial hydrostatic pressure, reducing tubular Na+ reabsorption (especially in PCT and loop of Henle); local NO and prostaglandin signals contribute, and the response is critical for long-term BP regulation",
+        "Higher perfusion pressure raises medullary flow and lowers tubular Na+ reabsorption",
         "Pressure natriuresis is mediated solely by changes in glomerular filtration rate",
         "Pressure natriuresis is mediated solely by aldosterone suppression",
         "Pressure natriuresis only operates above mean arterial pressure of 200 mm Hg",
@@ -144,7 +144,7 @@
         "Direct stimulation of intestinal Na+ absorption",
         "Direct stimulation of ANP secretion",
         "Inhibition of macula densa NaCl sensing",
-        "Activation of the mineralocorticoid receptor on collecting duct principal cells, increasing transcription of apical ENaC, apical ROMK, and basolateral Na+/K+-ATPase, with secondary upregulation of α-intercalated cell H+-ATPase activity — net effect: Na+ retention with K+ wasting and metabolic alkalosis",
+        "Activation of the mineralocorticoid receptor on principal cells",
         "Direct inhibition of ENaC expression"
       ],
       "answer": 3,
@@ -162,7 +162,7 @@
       "choices": [
         "Direct anti-aldosterone effect of cortisol",
         "Direct ENaC inhibition by cortisol",
-        "At very high concentrations, cortisol overwhelms 11β-hydroxysteroid dehydrogenase type 2 (11β-HSD2) — the enzyme that normally inactivates cortisol to cortisone in collecting duct principal cells — and activates the mineralocorticoid receptor itself, producing aldosterone-like effects (Na+ retention, K+ secretion, H+ secretion)",
+        "At high concentrations, cortisol overwhelms 11β-HSD2 and activates the mineralocorticoid receptor",
         "Cushing syndrome does not cause electrolyte changes",
         "Increased renin secretion from JG cells"
       ],
@@ -181,7 +181,7 @@
         "Conn syndrome (primary hyperaldosteronism)",
         "Liddle syndrome",
         "Bartter syndrome",
-        "Apparent mineralocorticoid excess (AME) — glycyrrhizic acid in black licorice inhibits 11β-hydroxysteroid dehydrogenase type 2 in collecting duct principal cells, allowing endogenous cortisol to activate the mineralocorticoid receptor; phenotype mimics primary hyperaldosteronism but with low aldosterone",
+        "Apparent mineralocorticoid excess (AME) from licorice ingestion",
         "Pheochromocytoma"
       ],
       "answer": 3,
@@ -234,7 +234,7 @@
         "SIADH driven by cortisol deficiency",
         "Type 1 (distal) renal tubular acidosis",
         "Liddle syndrome",
-        "Primary adrenal insufficiency (Addison disease) — destruction of the adrenal cortex (most often autoimmune in adults) with deficiency of BOTH glucocorticoid and mineralocorticoid; aldosterone deficiency causes Na+ wasting and K+ retention (hyponatremia, hyperkalemia, metabolic acidosis), while cortisol deficiency drives ACTH-mediated hyperpigmentation, hypoglycemia, and fatigue"
+        "Primary adrenal insufficiency (Addison disease)"
       ],
       "answer": 4,
       "explanations": [
@@ -251,7 +251,7 @@
       "choices": [
         "He is volume-depleted from over-diuresis",
         "Tubular damage from chronic congestion prevents Na+ excretion",
-        "Total body Na+ and water are markedly increased; however, EAV is reduced (low cardiac output / arterial underfilling). The kidney 'sees' the patient as volume-depleted and activates RAAS, SNS, and ADH to retain Na+ — even though the patient is clinically overloaded",
+        "EAV is reduced despite volume overload, activating RAAS/SNS/ADH",
         "He has primary hyperaldosteronism",
         "He has bilateral renal artery stenosis"
       ],
@@ -268,7 +268,7 @@
       "id": 14,
       "stem": "A 58-year-old man with advanced alcoholic cirrhosis has tense ascites and avid renal sodium retention (urine Na+ 5 mEq/L). His total body Na+ is markedly elevated. Which of the following best explains the renal salt avidity in this patient?",
       "choices": [
-        "Splanchnic arteriolar vasodilation (driven by NO and other vasodilators) reduces effective arterial volume despite total volume overload; reflex activation of RAAS, sympathetic outflow, and ADH drives intense renal Na+ and water retention. This 'arterial underfilling' is the unifying mechanism of edema in cirrhosis",
+        "Splanchnic vasodilation reduces effective arterial volume, activating RAAS/SNS/ADH",
         "Direct hepatic toxin to the renal tubule",
         "Acute tubular necrosis with reduced GFR",
         "Primary hyperaldosteronism unrelated to cirrhosis",
@@ -289,7 +289,7 @@
       "choices": [
         "Pure underfill: low oncotic pressure shifts fluid into the interstitium, reducing intravascular volume and activating RAAS",
         "Pure overfill: a primary intrarenal Na+ retention defect produces volume excess as the cause of edema",
-        "Combined mechanism: 'overfill' (a primary tubular Na+ retention defect, mediated in part by activation of ENaC by filtered plasmin from proteinuria) often dominates in adult FSGS and membranous nephropathy; 'underfill' (low oncotic pressure → reduced EAV → RAAS activation) is more relevant in minimal change disease and pediatric patients with severe hypoalbuminemia",
+        "Combined mechanism with both overfill and underfill operating together",
         "Systemic vasoconstriction is the dominant mechanism",
         "Cardiac failure secondary to hypoalbuminemia drives the edema"
       ],
@@ -316,7 +316,7 @@
         { "name": "Urine osmolality", "value": "580 mOsm/kg", "flag": "high", "ref": "—" }
       ],
       "choices": [
-        "Hypovolemia with intact tubular function: low EAV activates RAAS, SNS, and ADH, producing avid Na+ retention (low UNa, low FENa) and water retention (concentrated urine, high BUN:Cr ratio); treatment is volume repletion with isotonic saline",
+        "Hypovolemia with intact tubular function and prerenal indices",
         "Acute tubular necrosis from sustained hypotension",
         "SIADH from a CNS process",
         "Primary hyperaldosteronism",
@@ -358,7 +358,7 @@
       "id": 18,
       "stem": "A 52-year-old man with subarachnoid hemorrhage is diagnosed with cerebral salt wasting (hypovolemic hyponatremia with high urinary Na+). Which of the following is the principal treatment for CSW, and how does it differ from the treatment of SIADH?",
       "choices": [
-        "Volume repletion with isotonic (or, for severe symptomatic hyponatremia, hypertonic) saline; correction is by replacing the renal Na+ losses, NOT by free water restriction (which would worsen EAV depletion and cerebral hemodynamics) — directly opposite to SIADH management",
+        "Volume repletion with isotonic (or hypertonic) saline",
         "Free water restriction (mistakenly applied as if it were SIADH)",
         "Aggressive loop diuresis to clear excess water",
         "Vasopressin antagonist (tolvaptan)",
@@ -380,7 +380,7 @@
         "Both Na+ and water disorders primarily affect plasma osmolality",
         "Both Na+ and water disorders primarily affect extracellular volume",
         "Na+ disorders affect plasma osmolality; water disorders affect extracellular volume",
-        "Sodium (and chloride) disorders are principally VOLUME disorders — changes in total body Na+ alter extracellular volume and clinically present as hypo- or hypervolemia. Water disorders are principally TONICITY disorders — changes in total body water alter plasma Na+ CONCENTRATION (osmolality) and present as hypo- or hypernatremia. ADH regulates water (osmolality); aldosterone regulates Na+ (volume)",
+        "Na+ disorders affect extracellular volume; water disorders affect plasma osmolality",
         "The two are unrelated"
       ],
       "answer": 3,
@@ -400,7 +400,7 @@
         "ADH directly inhibits Na+ reabsorption in the collecting duct",
         "ADH primarily regulates K+ balance",
         "ADH controls Ca2+ homeostasis",
-        "ADH primarily regulates total body WATER (and therefore plasma osmolality and Na+ CONCENTRATION); volume is principally regulated by RAAS, SNS, and ANP. ADH levels rise with increased plasma osmolality (osmotic stimulus) AND with severely reduced effective arterial volume (the volume stimulus is more potent when severe; e.g., HF, cirrhosis, hypovolemia)"
+        "ADH primarily regulates total body water and plasma osmolality"
       ],
       "answer": 4,
       "explanations": [
@@ -419,7 +419,7 @@
         "Euvolemic hyponatremia from SIADH",
         "Hyperosmolar hyponatremia from severe hyperglycemia",
         "Pseudohyponatremia from severe hyperlipidemia",
-        "Hypovolemic hyponatremia from extra-renal sodium AND water loss with relatively more water than sodium replaced (drinking plain water without electrolytes); intact tubules respond to hypovolemia by retaining Na+ (urine Na+ <20) and concentrating urine; if water intake exceeds Na+ intake, plasma Na+ falls"
+        "Hypovolemic hyponatremia from GI losses with disproportionate water replacement"
       ],
       "answer": 4,
       "explanations": [
@@ -449,7 +449,7 @@
         "Pseudohyponatremia from severe hyperlipidemia",
         "Euvolemic hyponatremia from SIADH",
         "Cerebral salt wasting from a CNS process",
-        "Hypervolemic hyponatremia from heart failure: reduced EAV → activated RAAS, SNS, and ADH → free water retention disproportionate to Na+ retention, so plasma Na+ falls despite total body Na+ excess. Urine Na+ is low (<20), reflecting renal Na+ avidity, and urine osmolality is concentrated by ADH"
+        "Hypervolemic hyponatremia from heart failure"
       ],
       "answer": 4,
       "explanations": [
@@ -466,7 +466,7 @@
       "choices": [
         "0.45% saline (half-normal saline) infusion",
         "5% dextrose in water (D5W) infusion",
-        "0.9% saline ('normal' isotonic saline) — replaces both Na+ and water in proportions matching extracellular fluid composition; appropriate for isotonic volume loss from GI sources",
+        "0.9% normal saline ('isotonic saline') for ECF replacement",
         "3% saline (hypertonic) infusion",
         "Free water orally only, no IV fluid"
       ],
@@ -486,7 +486,7 @@
         "Free water restriction alone",
         "IV isotonic saline at maintenance rate only",
         "Loop diuretic alone (without saline)",
-        "Hypertonic 3% saline boluses to acutely raise plasma Na+ by 4–6 mEq/L within the first few hours; total correction limited to ≤8 mEq/L over 24 hours to avoid osmotic demyelination syndrome",
+        "Hypertonic 3% saline boluses",
         "Mannitol infusion"
       ],
       "answer": 3,
@@ -505,7 +505,7 @@
         "Loop diuretics directly stimulate aldosterone synthesis at the adrenal cortex",
         "Loop diuretics directly stimulate central sympathetic outflow",
         "Loop diuretics block angiotensin II receptors",
-        "Loop diuretics produce a fall in EAV through natriuresis. The kidney 'reads' this as volume depletion and activates RAAS (renin → AT II → aldosterone) and the SNS — the same response that occurred chronically in HF. This is why combined therapy with RAAS blockade (ACE inhibitor / ARB / aldosterone antagonist) is part of HF management",
+        "Loop diuretics lower EAV and reactivate RAAS and the SNS",
         "Loop diuretics directly raise BNP secretion"
       ],
       "answer": 3,
@@ -522,7 +522,7 @@
       "stem": "A 58-year-old African-American man has hypertension that responds well to chlorthalidone but poorly to enalapril (an ACE inhibitor). He follows a typical Western diet high in sodium. Which of the following best describes the concept of salt-sensitive hypertension that explains his response pattern?",
       "choices": [
         "Salt-sensitive hypertension is a myth; all hypertension responds equally to all antihypertensives",
-        "In salt-sensitive hypertension, the renal pressure-natriuresis relationship is shifted (the kidney requires a higher mean arterial pressure to excrete a given sodium load). Dietary Na+ excess therefore raises BP more in salt-sensitive than in salt-resistant individuals. Common associations include lower renin activity, certain genetic backgrounds (including African ancestry), aging, obesity, and chronic kidney disease; thiazide diuretics and dietary sodium restriction are particularly effective",
+        "Renal pressure-natriuresis curve is shifted to require higher MAP",
         "Salt-sensitivity is mediated solely by hyperthyroidism",
         "Salt-sensitivity affects only K+ levels, not BP",
         "Salt-sensitive hypertension responds best to renin-suppressive therapy alone"
