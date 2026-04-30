@@ -1,0 +1,540 @@
+{
+  "id": 4,
+  "title": "Histology of the Renal Corpuscle and Renal Tubular System",
+  "questions": [
+    {
+      "id": 1,
+      "stem": "A 35-year-old researcher is studying selective protein filtration across the glomerular capillary wall. Using charged tracer molecules of identical molecular weight, she demonstrates that anionic albumin is filtered far less than neutral or cationic species of the same size. The schematic below summarizes the components of the filtration barrier. Which of the following structures is most responsible for the charge selectivity that excludes anionic albumin?",
+      "diagram": "<div class=\"dgm-title\">Glomerular filtration barrier</div><div class=\"dgm-flow\"><div class=\"dgm-row\"><span class=\"pill\">Capillary lumen</span> → <span class=\"pill\">Fenestrated endothelium</span> → <span class=\"pill\">GBM (type IV collagen + heparan sulfate)</span> → <span class=\"pill\">Podocyte foot processes (slit diaphragm)</span> → <span class=\"pill\">Bowman space</span></div></div>",
+      "choices": [
+        "Fenestrated endothelium of the glomerular capillary",
+        "Heparan sulfate proteoglycans within the glomerular basement membrane",
+        "Mesangial matrix between adjacent capillary loops",
+        "Slit diaphragm spanning podocyte foot processes",
+        "Type IV collagen alpha-3/4/5 trimers of the GBM"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Fenestrated endothelium contributes to size selectivity for cellular elements but the fenestrae (~70 nm) are too large to provide major charge selectivity.",
+        "Correct. The glomerular basement membrane contains heparan sulfate proteoglycans whose sulfate residues carry fixed negative charges. These charges electrostatically repel anionic plasma proteins (notably albumin), giving the barrier most of its charge selectivity. Loss of these negative charges in disease (e.g., minimal change disease) produces selective albuminuria.",
+        "Incorrect. The mesangial matrix is structural and contractile but does not lie within the filtration path traversed by glomerular filtrate.",
+        "Incorrect. The slit diaphragm contributes principally to size selectivity (via nephrin and podocin), not to electrostatic charge exclusion.",
+        "Incorrect. Type IV collagen confers structural integrity to the GBM but is not the principal source of fixed negative charge — that role belongs to the heparan sulfate proteoglycans."
+      ]
+    },
+    {
+      "id": 2,
+      "stem": "A male newborn of Finnish descent is delivered at 38 weeks and is noted to have generalized edema, ascites, and a markedly enlarged placenta. Laboratory studies show severe hypoalbuminemia and proteinuria of 7 g/L on dipstick. Genetic testing identifies a homozygous mutation in NPHS1. Loss of which of the following structures is most likely responsible for this presentation?",
+      "choices": [
+        "Endothelial fenestrations between glomerular capillary endothelial cells",
+        "Heparan sulfate proteoglycans embedded within the GBM",
+        "Mesangial cell processes supporting the glomerular tuft",
+        "Slit diaphragm spanning adjacent podocyte foot processes",
+        "Type IV collagen alpha-3 chains within the GBM"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Endothelial fenestrations are not encoded by NPHS1; the disease centers on podocytes.",
+        "Incorrect. Heparan sulfate gives the GBM its negative charge but is not encoded by NPHS1.",
+        "Incorrect. Mesangial cells provide structural and contractile support and are not directly affected by NPHS1 mutations.",
+        "Correct. NPHS1 encodes nephrin, the principal structural protein of the slit diaphragm bridging adjacent podocyte foot processes. Loss of nephrin produces congenital nephrotic syndrome of the Finnish type, with massive proteinuria from birth, severe hypoalbuminemia, and a strikingly enlarged placenta.",
+        "Incorrect. Mutations in COL4A3-5 (type IV collagen alpha chains) cause Alport syndrome, which presents with hematuria and sensorineural hearing loss — not Finnish-type congenital nephrotic syndrome."
+      ]
+    },
+    {
+      "id": 3,
+      "stem": "A 4-year-old previously healthy boy is brought to the pediatrician for two weeks of progressive periorbital and lower-extremity edema. He has had no rash, joint pain, or hematuria, and vital signs are normal. Laboratory studies are shown.",
+      "labs_title": "Laboratory studies",
+      "labs": [
+        { "name": "Serum albumin", "value": "1.8 g/dL", "flag": "low", "ref": "3.5–5.0" },
+        { "name": "Serum total cholesterol", "value": "320 mg/dL", "flag": "high", "ref": "<200" },
+        { "name": "Serum creatinine", "value": "0.4 mg/dL", "flag": "", "ref": "0.2–0.7" },
+        { "name": "Urine protein/creatinine", "value": "8.2 mg/mg", "flag": "high", "ref": "<0.2" },
+        { "name": "Urinalysis blood", "value": "Negative", "flag": "", "ref": "Negative" },
+        { "name": "Serum C3 / C4", "value": "Normal", "flag": "", "ref": "Normal" }
+      ],
+      "choices": [
+        "Diffuse mesangial proliferation with electron-dense deposits",
+        "Effacement of podocyte foot processes with otherwise unremarkable glomerular architecture",
+        "Segmental areas of glomerular sclerosis affecting some glomeruli",
+        "Subepithelial electron-dense deposits with intervening 'spike' formation",
+        "Thinning and basket-weave splitting of the GBM"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Mesangial proliferation with electron-dense deposits suggests IgA nephropathy or post-streptococcal GN — both of which present with hematuria rather than the isolated nephrotic-range proteinuria here.",
+        "Correct. Minimal change disease — the most common nephrotic syndrome of childhood — shows normal light microscopy and absent immunofluorescence; on electron microscopy the only finding is diffuse effacement of podocyte foot processes. The presentation is highly responsive to corticosteroids.",
+        "Incorrect. Segmental sclerosis is the hallmark of focal segmental glomerulosclerosis, which more commonly affects older children, adolescents, or adults and is less steroid-responsive.",
+        "Incorrect. Subepithelial deposits with intervening spikes describe membranous nephropathy, which is rare in young children and more typical of adults.",
+        "Incorrect. Basket-weave GBM splitting is the classic EM finding of Alport syndrome, which presents with hematuria and progressive renal failure rather than this pure nephrotic picture."
+      ]
+    },
+    {
+      "id": 4,
+      "stem": "A 52-year-old woman with no significant past medical history presents with two months of progressive lower-extremity edema and frothy urine. Laboratory studies show serum albumin 2.4 g/dL, urine protein/creatinine ratio 6.1, and serum creatinine 1.0 mg/dL. Anti-PLA2R antibody testing is positive. Which of the following biopsy findings is most consistent with her diagnosis?",
+      "choices": [
+        "Crescents in Bowman space with disrupted glomerular tufts",
+        "Effacement of podocyte foot processes with otherwise unremarkable architecture",
+        "Mesangial expansion with eosinophilic nodules at the periphery of the tuft",
+        "Segmental areas of glomerular sclerosis with hyaline deposits",
+        "Subepithelial electron-dense deposits with intervening basement-membrane spikes"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. Crescents indicate a rapidly progressive GN with severe glomerular injury — not the indolent course described here.",
+        "Incorrect. Foot process effacement alone with normal LM is the picture of minimal change disease; membranous additionally shows GBM thickening and subepithelial deposits.",
+        "Incorrect. Eosinophilic nodules in the mesangium describe Kimmelstiel-Wilson lesions of diabetic nephropathy.",
+        "Incorrect. Segmental sclerosis is the hallmark of FSGS; the antibody profile and indolent course here favor membranous.",
+        "Correct. Primary membranous nephropathy (frequently anti-PLA2R positive in adults) is characterized by subepithelial immune-complex deposits. Reactive basement-membrane material grows between deposits, producing the classic 'spike and dome' appearance on silver-stained light microscopy and corresponding subepithelial electron-dense deposits with diffusely thickened GBM on EM."
+      ]
+    },
+    {
+      "id": 5,
+      "stem": "A 14-year-old boy is referred for evaluation of microscopic hematuria found on a routine school physical. He reports gradually worsening high-frequency hearing loss over the past two years, and ophthalmologic examination shows anterior lenticonus. His maternal uncle required dialysis at age 35. Laboratory studies are shown.",
+      "labs": [
+        { "name": "Serum creatinine", "value": "1.4 mg/dL", "flag": "high", "ref": "0.6–1.2" },
+        { "name": "BUN", "value": "28 mg/dL", "flag": "high", "ref": "8–20" },
+        { "name": "Urinalysis RBCs", "value": "30+/hpf, dysmorphic", "flag": "high", "ref": "0–2" },
+        { "name": "Urine protein/creatinine", "value": "0.8 mg/mg", "flag": "high", "ref": "<0.2" },
+        { "name": "Hemoglobin", "value": "13.2 g/dL", "flag": "", "ref": "12.0–16.0" }
+      ],
+      "choices": [
+        "Crescents involving more than half of glomeruli on light microscopy",
+        "Effacement of foot processes with otherwise unremarkable architecture",
+        "Linear IgG deposition along the glomerular basement membrane",
+        "Splitting and lamellation of the GBM with alternating thinning and thickening",
+        "Subepithelial humps containing IgG and C3"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Crescents are seen in rapidly progressive GN and are not the hallmark EM finding of Alport syndrome.",
+        "Incorrect. Isolated foot-process effacement is characteristic of minimal change disease, which presents with nephrotic-range proteinuria — not hematuria with hearing loss.",
+        "Incorrect. Linear IgG along the GBM describes anti-GBM (Goodpasture) disease, which presents with rapidly progressive GN and pulmonary hemorrhage, not the indolent triad here.",
+        "Correct. Alport syndrome is caused by mutations in type IV collagen alpha-3, alpha-4, or alpha-5 chains (most commonly X-linked COL4A5). Electron microscopy shows the classic 'basket-weave' splitting and lamellation of the GBM with alternating thin and thick segments. The clinical triad is hematuria, sensorineural hearing loss, and ocular abnormalities such as anterior lenticonus.",
+        "Incorrect. Subepithelial humps with IgG/C3 are the classic findings of post-streptococcal GN, which follows pharyngitis or impetigo by 1–3 weeks rather than presenting with chronic hematuria and hearing loss."
+      ]
+    },
+    {
+      "id": 6,
+      "stem": "A 30-year-old researcher is studying the structural cells located between the capillary loops of the renal corpuscle. She demonstrates that these cells are contractile, contain microfilaments, are responsive to angiotensin II, and can phagocytose immune complexes deposited in the mesangium. Which of the following best describes the principal structural function of this cell type?",
+      "choices": [
+        "Forming the slit diaphragm between adjacent podocyte foot processes",
+        "Producing renin in response to changes in afferent arteriolar pressure",
+        "Providing mechanical support to the tuft and regulating glomerular surface area available for filtration",
+        "Sensing changes in distal tubular sodium chloride concentration",
+        "Synthesizing the heparan sulfate component of the GBM"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. The slit diaphragm is formed by adjacent podocyte foot processes (with nephrin and podocin), not by mesangial cells.",
+        "Incorrect. Renin is secreted by juxtaglomerular cells, modified smooth muscle of the afferent arteriole, not by mesangial cells.",
+        "Correct. Mesangial cells lie between glomerular capillary loops and provide mechanical support to the glomerular tuft. They are contractile (responsive to angiotensin II, vasopressin, and others), and contraction reduces the surface area available for filtration. They also phagocytose trapped macromolecules and modulate GFR.",
+        "Incorrect. Tubular NaCl sensing is performed by macula densa cells of the early distal tubule, not by mesangial cells.",
+        "Incorrect. The GBM (including its heparan sulfate) is produced by both endothelial cells and podocytes; mesangial cells produce mesangial matrix, not GBM."
+      ]
+    },
+    {
+      "id": 7,
+      "stem": "A 28-year-old physiologist demonstrates in an isolated nephron preparation that perfusion of the early distal nephron with a high-NaCl solution causes constriction of the afferent arteriole and reduction in single-nephron GFR within seconds. Which of the following structures most directly senses tubular NaCl in this experiment?",
+      "choices": [
+        "Macula densa cells at the thick ascending limb–distal tubule junction",
+        "Extraglomerular mesangial (lacis) cells in the juxtaglomerular apparatus",
+        "Juxtaglomerular cells of the afferent arteriole",
+        "Podocyte foot processes lining the glomerular capillary",
+        "Principal cells of the cortical collecting duct"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. The macula densa is a specialized region of the distal tubular epithelium adjacent to the vascular pole of its own glomerulus. It senses luminal [NaCl] via NKCC2 uptake and triggers tubuloglomerular feedback — adenosine-mediated afferent arteriolar constriction — that lowers single-nephron GFR when distal NaCl delivery is high.",
+        "Incorrect. Extraglomerular mesangial (lacis) cells lie between the macula densa and the afferent arteriole and may relay signals, but they do not directly sense luminal NaCl.",
+        "Incorrect. Juxtaglomerular cells secrete renin in response to signals (BP, sympathetic input, signals from the macula densa) but do not themselves sense tubular NaCl.",
+        "Incorrect. Podocytes maintain filtration-barrier integrity but do not sense tubular fluid composition.",
+        "Incorrect. Principal cells of the collecting duct mediate sodium reabsorption and water transport under aldosterone and ADH control but do not sense early-distal-nephron NaCl."
+      ]
+    },
+    {
+      "id": 8,
+      "stem": "A 60-year-old man is admitted with diarrhea and volume depletion. Blood pressure is 95/60 mm Hg, heart rate is 105/min, and serum creatinine has risen from 0.9 to 1.6 mg/dL. Plasma renin activity is markedly elevated. Which of the following cell types is principally responsible for the increased renin secretion?",
+      "choices": [
+        "Distal tubular macula densa cells",
+        "Modified smooth-muscle cells of the afferent arteriole",
+        "Extraglomerular mesangial (lacis) cells",
+        "Podocytes covering the glomerular capillary",
+        "Principal cells of the cortical collecting duct"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. The macula densa relays a signal that stimulates renin release but does not itself secrete renin.",
+        "Correct. Juxtaglomerular cells are modified smooth-muscle cells in the wall of the afferent arteriole at the vascular pole of the glomerulus. They contain renin granules and release renin in response to (1) reduced afferent arteriolar perfusion pressure, (2) decreased distal tubular NaCl delivery sensed by the macula densa, and (3) sympathetic β1-adrenergic stimulation — all of which converge in volume depletion.",
+        "Incorrect. Extraglomerular mesangial (lacis) cells participate in juxtaglomerular signaling but do not store or release significant renin.",
+        "Incorrect. Podocytes maintain the filtration barrier and do not secrete renin.",
+        "Incorrect. Principal cells of the collecting duct mediate sodium and water transport, not renin secretion."
+      ]
+    },
+    {
+      "id": 9,
+      "stem": "A medical student examines an H&E-stained section of renal cortex and identifies a tubule lined by simple cuboidal cells with prominent eosinophilic cytoplasm, conspicuous apical microvilli that obscure the lumen, basolateral membrane infoldings, and abundant mitochondria. Which of the following best characterizes the principal function of this segment?",
+      "choices": [
+        "Bulk reabsorption of filtered sodium, glucose, and amino acids",
+        "Reabsorption of NaCl independent of water in a salt-impermeable epithelium",
+        "Reabsorption of approximately 25% of filtered NaCl via NKCC2",
+        "Regulated water reabsorption under control of antidiuretic hormone",
+        "Secretion of acid and reabsorption of new bicarbonate via H+-ATPase"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. The histologic description — simple cuboidal cells with a prominent brush border, abundant mitochondria, and basolateral membrane infoldings — identifies the proximal convoluted tubule. The PCT performs bulk reabsorption: ~65% of filtered Na+, nearly all glucose and amino acids (via Na+-coupled symporters), 80–90% of HCO3−, and water proportionally — driven by the basolateral Na+/K+-ATPase whose energy demand explains the mitochondrial density.",
+        "Incorrect. The thin descending and thin ascending limbs of Henle are lined by thin, flat epithelium without a brush border or abundant mitochondria.",
+        "Incorrect. NKCC2-mediated NaCl reabsorption occurs in the thick ascending limb, lined by tall cuboidal cells without a prominent brush border.",
+        "Incorrect. ADH-regulated water reabsorption occurs in collecting duct principal cells, which lack the prominent brush border characteristic of the PCT.",
+        "Incorrect. H+-ATPase–mediated acid secretion is the role of α-intercalated cells of the collecting duct, not of the brush-bordered PCT."
+      ]
+    },
+    {
+      "id": 10,
+      "stem": "A 25-year-old researcher compares paracellular permeability in the proximal convoluted tubule and the thick ascending limb of Henle's loop. She finds that the PCT permits much greater paracellular flux of small solutes such as Na+ and Cl− than the TAL. Which of the following best explains the relative paracellular permeability of the PCT?",
+      "choices": [
+        "The PCT contains 'leaky' tight junctions enriched in claudin-2, which permit cation flux",
+        "The PCT epithelium is pseudostratified columnar with broad intercellular spaces",
+        "The PCT exhibits a strongly negative lumen voltage that drives cation reabsorption paracellularly",
+        "The PCT has fewer mitochondria, so all transport defaults to a paracellular route",
+        "The PCT lacks tight junctions altogether, allowing free paracellular flow"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. The PCT has 'leaky' tight junctions enriched in claudin-2, which conducts cations. Combined with a small lumen-positive transepithelial potential later in the PCT and a favorable solute concentration gradient, these junctions allow substantial paracellular reabsorption of Na+, Cl−, K+, Ca2+, and water — complementing the active transcellular reabsorption.",
+        "Incorrect. The PCT is lined by simple cuboidal epithelium with a brush border, not pseudostratified columnar.",
+        "Incorrect. The early PCT lumen voltage is slightly negative and the late PCT slightly positive; paracellular permeability is dominated by claudin composition rather than by the modest voltage.",
+        "Incorrect. The PCT is mitochondria-rich because its high transcellular Na+ reabsorption depends on basolateral Na+/K+-ATPase.",
+        "Incorrect. All renal tubular epithelia have tight junctions; the PCT junctions are leaky but not absent."
+      ]
+    },
+    {
+      "id": 11,
+      "stem": "A renal physiologist studies water permeability along Henle's loop in isolated tubules. She finds that the thin descending limb is highly permeable to water but relatively impermeable to NaCl, whereas the thin ascending limb is impermeable to water but permeable to NaCl. Which of the following best explains the high water permeability of the thin descending limb?",
+      "choices": [
+        "Apical insertion of AQP2 in response to circulating ADH",
+        "Constitutive expression of AQP1 in the apical and basolateral membranes",
+        "High density of paracellular tight junctions resembling the proximal tubule",
+        "Presence of NKCC2 cotransporters that drive solvent drag",
+        "Vasopressin-2 receptor activation leading to AQP3 trafficking"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. AQP2 is the ADH-regulated water channel of the COLLECTING DUCT principal cell, not of the thin descending limb.",
+        "Correct. The thin descending limb of Henle (along with the proximal tubule and vasa recta) constitutively expresses AQP1 in both apical and basolateral membranes. Water moves osmotically out of the descending limb as it descends through the increasingly hypertonic medullary interstitium, concentrating tubular fluid.",
+        "Incorrect. Tight-junction permeability does not by itself produce the water permeability of the thin descending limb; aquaporin channels are required for the high transcellular water flux.",
+        "Incorrect. NKCC2 is expressed in the THICK ascending limb, not in the thin descending limb. The thin descending limb is not a major site of active NaCl transport.",
+        "Incorrect. AQP3 is a basolateral water channel of the collecting duct principal cell; it is not the principal water channel of the thin descending limb."
+      ]
+    },
+    {
+      "id": 12,
+      "stem": "A 30-year-old man with a homozygous loss-of-function mutation in CLCNKB (encoding the basolateral chloride channel ClC-Kb of the thick ascending limb) presents with polyuria, hypokalemia, metabolic alkalosis, and renal salt wasting. Beyond impaired NaCl reabsorption, which of the following best describes the additional consequence of his mutation on tubular function?",
+      "choices": [
+        "Decreased apical AQP2 insertion with reduced water reabsorption in the cortical collecting duct",
+        "Decreased lumen-positive transepithelial voltage with reduced paracellular Mg2+ and Ca2+ reabsorption",
+        "Increased H+ secretion by α-intercalated cells worsening metabolic alkalosis",
+        "Increased reabsorption of Na+ and Cl− in the proximal convoluted tubule via SGLT2",
+        "Increased renin secretion directly from macula densa cells of the early distal tubule"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. AQP2 trafficking is regulated by ADH at the collecting duct and is not directly altered by ClC-Kb dysfunction in the TAL.",
+        "Correct. NKCC2 in the TAL drives Na+, K+, and 2Cl− into the cell; K+ then recycles back into the lumen via ROMK, generating a lumen-POSITIVE transepithelial voltage. This positive voltage drives paracellular reabsorption of Mg2+ and Ca2+ via claudin-16/19. Loss of ClC-Kb (or NKCC2 in classic Bartter syndrome) abolishes this gradient and the lumen-positive voltage, reducing paracellular divalent-cation reabsorption — clinically yielding hypomagnesemia and hypercalciuria.",
+        "Incorrect. Volume depletion in Bartter-like disorders activates RAAS, secondarily increasing distal Na+ delivery and aldosterone-mediated H+ secretion; this is a downstream consequence rather than the direct mechanism described.",
+        "Incorrect. Proximal SGLT2 activity (Na+-glucose cotransport) is independent of TAL chloride channel function.",
+        "Incorrect. Renin is secreted by juxtaglomerular cells of the afferent arteriole, not directly by macula densa cells."
+      ]
+    },
+    {
+      "id": 13,
+      "stem": "A 35-year-old woman is evaluated for new-onset muscle weakness and intermittent paresthesias. Laboratory studies show serum K+ 2.8 mEq/L, serum Mg2+ 1.3 mg/dL, mild metabolic alkalosis, normal blood pressure, and very low urinary calcium excretion. Genetic testing identifies a mutation in SLC12A3 encoding the thiazide-sensitive Na-Cl cotransporter (NCC). At which nephron site is NCC normally located, and what is its role in calcium handling?",
+      "choices": [
+        "Cortical collecting duct; NCC drives basolateral calcium extrusion via NCX1",
+        "Distal convoluted tubule; loss of NCC reduces apical Na+ entry and indirectly enhances TRPV5-mediated Ca2+ uptake, producing hypocalciuria",
+        "Distal convoluted tubule; loss of NCC reduces apical TRPV5 Ca2+ uptake and worsens calciuria",
+        "Proximal convoluted tubule; loss of NCC reduces sodium-coupled Ca2+ reabsorption",
+        "Thick ascending limb; NCC drives the lumen-positive voltage that supports paracellular Ca2+ reabsorption"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. NCC is not located in the collecting duct, and NCX1 lies downstream of apical entry — not directly tied to NCC function.",
+        "Correct. The thiazide-sensitive Na-Cl cotransporter (NCC) is located in the apical membrane of the early distal convoluted tubule. Loss-of-function mutations cause Gitelman syndrome. Reduced Na+ reabsorption volume-contracts the patient and increases proximal sodium and water reabsorption, which carries calcium with it; in the DCT itself, decreased intracellular Na+ enhances basolateral NCX1 activity and apical TRPV5-mediated Ca2+ uptake — together producing HYPOcalciuria, in contrast to the hypercalciuria of loop disorders.",
+        "Incorrect. The clinical hallmark of Gitelman syndrome is HYPOcalciuria, not hypercalciuria; this option reverses the direction of the calcium effect.",
+        "Incorrect. NCC is not expressed in the PCT; the PCT relies primarily on Na+/H+ exchangers and SGLT for sodium-coupled transport.",
+        "Incorrect. NCC is not located in the TAL; the TAL uses NKCC2, and loss of NKCC2 produces classic Bartter syndrome with HYPERcalciuria."
+      ]
+    },
+    {
+      "id": 14,
+      "stem": "A renal pathologist examines the cortical collecting duct on light microscopy and identifies two cell populations. The first is more numerous, has pale cytoplasm and a single primary cilium, and is responsive to mineralocorticoid and antidiuretic hormones. The second is less numerous, has darker cytoplasm packed with mitochondria, and lacks a primary cilium. Which of the following best characterizes the second cell type and its principal function?",
+      "choices": [
+        "Macula densa cells, sensing tubular NaCl concentration",
+        "Mesangial cells, providing structural support to the glomerular tuft",
+        "Principal cells, mediating ENaC- and AQP2-driven Na+ and water transport",
+        "Intercalated cells, mediating acid-base regulation via H+-ATPase or HCO3− secretion",
+        "Juxtaglomerular cells, secreting renin in response to volume depletion"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Macula densa cells are located at the early distal tubule near the vascular pole of the glomerulus, not within the cortical collecting duct.",
+        "Incorrect. Mesangial cells are confined to the glomerular tuft, not the collecting duct.",
+        "Incorrect. The description matches INTERCALATED, not principal cells; principal cells are pale-staining, bear a primary cilium, and respond to aldosterone and ADH.",
+        "Correct. Intercalated cells are smaller, less abundant collecting duct cells with abundant mitochondria and dark cytoplasm, and lack the primary cilium prominent in principal cells. They mediate acid-base regulation: α-intercalated cells secrete H+ via apical H+-ATPase and reabsorb HCO3− via basolateral Cl−/HCO3− exchanger; β-intercalated cells secrete HCO3− and reabsorb H+, with reversed transporter polarity.",
+        "Incorrect. Juxtaglomerular cells are smooth-muscle derivatives of the afferent arteriole, not collecting duct epithelial cells."
+      ]
+    },
+    {
+      "id": 15,
+      "stem": "A 58-year-old man with hypertension is started on spironolactone. After two weeks, urinary sodium excretion has increased and urinary potassium excretion has decreased. Which of the following cell types is the principal target of this drug, and which transporter activity is reduced as a result?",
+      "choices": [
+        "α-Intercalated cells; H+-ATPase",
+        "β-Intercalated cells; Cl−/HCO3− exchanger",
+        "Macula densa cells; NKCC2",
+        "Principal cells of the collecting duct; ENaC and ROMK activity downstream of mineralocorticoid receptor blockade",
+        "Proximal tubular cells; Na+-glucose cotransporter (SGLT2)"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. α-Intercalated cells secrete H+ but are not the principal target of mineralocorticoid receptor antagonists.",
+        "Incorrect. β-Intercalated cells secrete HCO3− and are not the principal target of spironolactone.",
+        "Incorrect. NKCC2 is targeted by loop diuretics (e.g., furosemide), not by spironolactone.",
+        "Correct. Spironolactone competitively antagonizes the mineralocorticoid receptor in collecting-duct principal cells, reducing transcription of aldosterone-induced proteins including ENaC, ROMK, and Na+/K+-ATPase. The net effect is decreased Na+ reabsorption (natriuresis), decreased K+ secretion (potassium-sparing), and a small decrease in distal H+ secretion at downstream α-intercalated cells.",
+        "Incorrect. Proximal SGLT2 is targeted by SGLT2 inhibitors such as empagliflozin, not by spironolactone."
+      ]
+    },
+    {
+      "id": 16,
+      "stem": "A 32-year-old man with several months of secretory diarrhea presents with metabolic acidosis (pH 7.28, HCO3− 14 mEq/L). The kidneys mount an appropriate compensatory response. Which of the following cell types is principally responsible for the renal secretion of H+ and reabsorption of new HCO3− in this setting?",
+      "choices": [
+        "α-Intercalated cells of the collecting duct, via apical H+-ATPase and basolateral Cl−/HCO3− exchange",
+        "β-Intercalated cells of the collecting duct, via apical Cl−/HCO3− exchange and basolateral H+-ATPase",
+        "Macula densa cells of the early distal tubule, via NKCC2-mediated NaCl uptake",
+        "Principal cells of the collecting duct, via apical ENaC and basolateral Na+/K+-ATPase",
+        "Proximal tubular cells, via apical Na+/H+ exchange and basolateral Na+/HCO3− cotransport"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. α-Intercalated cells of the collecting duct secrete H+ into the lumen via apical H+-ATPase (and a smaller H+/K+-ATPase) and reabsorb new HCO3− across the basolateral membrane via a Cl−/HCO3− exchanger (band 3 / AE1). In metabolic acidosis their activity rises — driven by intracellular acidosis and by aldosterone — generating new HCO3− to titrate the acid load.",
+        "Incorrect. β-Intercalated cells perform the reverse: they SECRETE HCO3− into the lumen and are upregulated in metabolic ALKALOSIS, not acidosis.",
+        "Incorrect. The macula densa senses tubular NaCl but does not secrete H+ or reabsorb HCO3−.",
+        "Incorrect. Principal cells mediate Na+ reabsorption and K+/water transport, not H+ secretion in acidosis.",
+        "Incorrect. Although the proximal tubule reclaims most filtered HCO3−, this is reabsorption of EXISTING bicarbonate; generation of new bicarbonate to neutralize a fixed-acid load is the role of α-intercalated cells."
+      ]
+    },
+    {
+      "id": 17,
+      "stem": "A 45-year-old researcher injects a tracer into the vasa recta and observes that urea diffuses from the descending vasa recta into the medullary interstitium and back into the ascending vasa recta in a hairpin pattern, without washing out the medullary osmotic gradient. Which of the following best describes the structural basis for this exchange?",
+      "choices": [
+        "Active transport of urea by Na+-urea cotransporters in the vasa recta endothelium",
+        "Apical insertion of AQP2 channels in the descending vasa recta endothelium",
+        "Countercurrent arrangement of fenestrated capillary loops parallel to the loops of Henle",
+        "Highly muscular vasa recta walls that contract to drive solute exchange",
+        "Vasa recta tight junctions that exclude both urea and water from the interstitium"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Vasa recta solute movement is largely passive and driven by concentration gradients, not by Na+-coupled active transport.",
+        "Incorrect. AQP2 is expressed in collecting duct principal cells, not in the vasa recta endothelium.",
+        "Correct. The vasa recta are fenestrated capillaries that descend and ascend in close apposition with the loops of Henle in the medulla. Their hairpin (countercurrent) arrangement allows passive equilibration of solutes (urea, NaCl) and water with the interstitium without 'washing out' the medullary osmotic gradient established by the loops of Henle.",
+        "Incorrect. Vasa recta are thin-walled capillaries; they are not muscular vessels.",
+        "Incorrect. Vasa recta endothelium is fenestrated and freely permeable to small solutes and water — that permeability is essential to countercurrent exchange."
+      ]
+    },
+    {
+      "id": 18,
+      "stem": "A 26-year-old man with a history of recurrent calcium oxalate stones is being evaluated. Microscopic urinalysis from a freshly voided specimen shows a hyaline cast composed primarily of a glycoprotein secreted by tubular cells of the thick ascending limb. Which of the following proteins is the principal component of this cast, and what is its origin?",
+      "choices": [
+        "Albumin filtered across an injured glomerulus and concentrated in the tubule",
+        "Beta-2-microglobulin produced by lymphocytes and incompletely reabsorbed by the PCT",
+        "Tamm-Horsfall protein (uromodulin) secreted by thick ascending limb cells into the lumen",
+        "Type IV collagen released by injured glomerular basement membrane",
+        "Vimentin filaments shed from injured tubular epithelium"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Heavy albuminuria forms protein casts in nephrotic syndromes, but albumin is filtered, not tubular-secreted, and is not the predominant component of physiologic hyaline casts.",
+        "Incorrect. β2-microglobulin appears in urine when proximal tubular reabsorption is impaired but is not the principal protein of hyaline casts.",
+        "Correct. Tamm-Horsfall protein (uromodulin) is the most abundant protein in normal urine. It is synthesized by cells of the thick ascending limb (and early distal tubule) and secreted into the lumen, where it forms the matrix of physiologic hyaline casts. It is also thought to inhibit calcium oxalate stone aggregation and to provide innate defense against urinary tract infection.",
+        "Incorrect. Type IV collagen is a structural component of basement membranes and is not normally shed into the urine in significant quantities.",
+        "Incorrect. Vimentin is an intracellular intermediate filament; it is not secreted into the urine."
+      ]
+    },
+    {
+      "id": 19,
+      "stem": "A renal pathologist is reviewing the distribution of aquaporin water channels along the nephron, illustrated below. She emphasizes that hormonal regulation of water permeability occurs principally at one specific segment. At which of the following segments is regulated, hormone-responsive water reabsorption mediated, and which water channel is responsible?",
+      "diagram": "<div class=\"dgm-title\">Aquaporin distribution along the nephron</div><div class=\"dgm-flow\"><div class=\"dgm-row\"><span class=\"pill\">PCT [AQP1]</span> → <span class=\"pill\">tDLH [AQP1]</span> → <span class=\"pill\">tALH [—]</span> → <span class=\"pill\">TAL [—]</span> → <span class=\"pill\">DCT [—]</span> → <span class=\"pill\">CCD [AQP2/3/4]</span> → <span class=\"pill\">MCD [AQP2/3/4]</span></div></div>",
+      "choices": [
+        "Distal convoluted tubule; AQP1 inserted in response to PTH",
+        "Cortical and medullary collecting duct; AQP2 inserted into the apical membrane in response to ADH",
+        "Proximal convoluted tubule; AQP1 expression upregulated in response to angiotensin II",
+        "Thick ascending limb; AQP2 inserted in response to aldosterone",
+        "Thin descending limb of Henle; AQP1 inserted in response to ADH"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. The DCT does not express significant aquaporin and is not the major site of regulated water transport.",
+        "Correct. Regulated water reabsorption occurs in the cortical and medullary collecting-duct principal cells. ADH binds the V2 receptor on the basolateral membrane, raising intracellular cAMP and triggering vesicular insertion of AQP2 into the apical membrane. AQP3 and AQP4 are constitutively present basolaterally to permit transcellular water egress.",
+        "Incorrect. The PCT does express AQP1, but its activity is constitutive and unregulated by hormones; bulk water reabsorption simply follows osmotically the active solute reabsorption.",
+        "Incorrect. The TAL is impermeable to water and lacks aquaporin expression — this is what makes it the 'diluting segment' of the nephron.",
+        "Incorrect. The thin descending limb does express AQP1, but this is constitutive and not under ADH control."
+      ]
+    },
+    {
+      "id": 20,
+      "stem": "A 33-year-old researcher demonstrates that the proximal convoluted tubule and thick ascending limb both reabsorb large quantities of NaCl, but they differ markedly in transepithelial paracellular permeability — the PCT being 'leaky' and the TAL being 'tight.' Which of the following best explains the relative tightness of the TAL?",
+      "choices": [
+        "The TAL relies on claudin-16/19 in its tight junctions, restricting bulk paracellular flux while permitting selective Mg2+ and Ca2+ reabsorption",
+        "The TAL contains claudin-2-rich tight junctions that are highly permeable to cations",
+        "The TAL has fewer tight junctions overall, with broad intercellular spaces",
+        "The TAL uses gap junctions between adjacent cells in place of tight junctions",
+        "The TAL lacks tight junctions, with paracellular flow regulated by zonula adherens alone"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Tight junctions are formed by claudin proteins whose composition determines paracellular permeability. The TAL expresses claudin-16 and claudin-19, which create relatively 'tight' junctions but selectively permit paracellular reabsorption of divalent cations (Mg2+, Ca2+) driven by the lumen-positive transepithelial voltage. Mutations in CLDN16 or CLDN19 cause familial hypomagnesemia with hypercalciuria and nephrocalcinosis.",
+        "Incorrect. Claudin-2-rich, leaky tight junctions are characteristic of the PCT, not the TAL.",
+        "Incorrect. The TAL has densely packed tight junctions; relative paracellular tightness is conferred by claudin composition rather than the number of junctions.",
+        "Incorrect. Gap junctions mediate intercellular communication, not paracellular permeability of the epithelial barrier.",
+        "Incorrect. All renal tubular epithelia possess tight junctions, including the TAL."
+      ]
+    },
+    {
+      "id": 21,
+      "stem": "A 38-year-old woman with autosomal dominant polycystic kidney disease undergoes nephrectomy for a complicated cyst. Light microscopy shows numerous tubular cysts with disorganized epithelium. Researchers studying cystogenesis identify that the gene most commonly mutated in this disease (PKD1) encodes a protein localized to which of the following structures?",
+      "choices": [
+        "Apical brush border of the proximal convoluted tubule",
+        "Basement membrane of the renal corpuscle",
+        "Basolateral membrane of the principal cell",
+        "Mitochondrial inner membrane of the thick ascending limb",
+        "Primary cilium of the tubular epithelial cell"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. The PCT brush border is composed of microvilli with apical transporters; PKD1 is not localized here.",
+        "Incorrect. The GBM is composed of type IV collagen and laminin; PKD1 is not a structural component.",
+        "Incorrect. PKD1 is not basolateral; its localization is principally to the primary cilium.",
+        "Incorrect. PKD1 is not a mitochondrial protein.",
+        "Correct. PKD1 encodes polycystin-1, a large transmembrane protein localized to the primary cilium of tubular epithelial cells. Polycystin-1 forms a complex with polycystin-2 (PKD2, a calcium channel) on the cilium that senses tubular flow and regulates intracellular calcium and proliferation. Loss of function (with a 'second hit' somatic mutation) leads to dysregulated proliferation and progressive tubular cyst formation, the molecular basis of ADPKD."
+      ]
+    },
+    {
+      "id": 22,
+      "stem": "A 62-year-old man with a 22-year history of poorly controlled type 2 diabetes mellitus is evaluated for slowly worsening kidney function. Laboratory studies show serum creatinine 2.3 mg/dL and urine protein/creatinine ratio 3.0. Renal biopsy is performed. Which of the following findings on light microscopy would be most characteristic of his disease?",
+      "choices": [
+        "Crescents in Bowman space involving more than 50% of glomeruli",
+        "Diffuse mesangial expansion with rounded eosinophilic nodules at the periphery of the glomerular tuft",
+        "Linear immunoglobulin staining along the GBM",
+        "Segmental sclerosis with hyalinosis affecting some glomeruli",
+        "Subepithelial humps containing IgG and C3"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Crescents indicate rapidly progressive GN, not the indolent course of diabetic nephropathy.",
+        "Correct. The classic light-microscopic finding of advanced diabetic nephropathy is mesangial expansion with peripheral rounded nodules of mesangial matrix — Kimmelstiel-Wilson nodules — accompanied by diffuse GBM thickening and afferent + efferent arteriolar hyalinosis. Hyperglycemia drives non-enzymatic glycation of mesangial proteins and stimulates matrix expansion via TGF-β.",
+        "Incorrect. Linear IgG along the GBM is the hallmark of anti-GBM (Goodpasture) disease, not diabetic nephropathy.",
+        "Incorrect. Segmental sclerosis is characteristic of FSGS; while a subset of diabetics may show overlap, nodular sclerosis is far more specific.",
+        "Incorrect. Subepithelial humps with IgG/C3 are the hallmark of post-streptococcal GN."
+      ]
+    },
+    {
+      "id": 23,
+      "stem": "A 68-year-old man hospitalized for sepsis develops oliguria 36 hours after a transient episode of hypotension during which mean arterial pressure fell below 60 mm Hg for several hours. Urinalysis demonstrates muddy-brown granular casts. Laboratory studies are shown.",
+      "labs": [
+        { "name": "Serum creatinine", "value": "3.4 mg/dL (baseline 1.0)", "flag": "high", "ref": "0.7–1.3" },
+        { "name": "BUN", "value": "56 mg/dL", "flag": "high", "ref": "8–20" },
+        { "name": "BUN:creatinine ratio", "value": "16", "flag": "", "ref": "10–20" },
+        { "name": "Serum potassium", "value": "5.6 mEq/L", "flag": "high", "ref": "3.5–5.0" },
+        { "name": "Urine sodium", "value": "60 mEq/L", "flag": "high", "ref": "<20 (prerenal)" },
+        { "name": "FENa", "value": "3.2%", "flag": "high", "ref": "<1% (prerenal)" },
+        { "name": "Urine osmolality", "value": "310 mOsm/kg", "flag": "low", "ref": "isotonic with plasma" }
+      ],
+      "choices": [
+        "Crescents in Bowman space with disrupted glomerular tufts",
+        "Effacement of podocyte foot processes with otherwise normal architecture",
+        "Patchy proximal tubular necrosis with sloughed brush border and intratubular epithelial debris",
+        "Subepithelial humps with IgG and C3 deposition",
+        "Wire-loop lesions with subendothelial immune-complex deposits"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Crescents define rapidly progressive GN, which presents with hematuria and rising creatinine over weeks — not the post-hypotensive course described here.",
+        "Incorrect. Foot-process effacement is the hallmark of minimal change disease, which presents with massive proteinuria — not granular casts and elevated FENa.",
+        "Correct. Acute tubular necrosis from ischemia (here, septic hypotension) characteristically produces patchy proximal tubular necrosis, sloughed brush border, and intratubular debris that appears in the urine as 'muddy brown' granular casts. The high urine sodium and FENa >2% reflect impaired tubular sodium reabsorption, distinguishing intrinsic ATN from prerenal azotemia (which would show urine Na <20 and FENa <1%).",
+        "Incorrect. Subepithelial humps with IgG/C3 are the hallmark of post-streptococcal GN.",
+        "Incorrect. Wire-loop lesions with subendothelial deposits are characteristic of class IV lupus nephritis."
+      ]
+    },
+    {
+      "id": 24,
+      "stem": "A 67-year-old man is admitted for evaluation 5 days after a motor-vehicle collision in which he sustained a basilar skull fracture. He has had urine output of 8–10 L/day with persistent thirst, despite having been given enough free water to prevent overt dehydration. Plasma sodium is 152 mEq/L and serum osmolality is 312 mOsm/kg. Compared with a healthy individual at baseline, which row best describes the expected pattern of findings in this patient's collecting duct?",
+      "choice_table": {
+        "headers": ["Apical AQP2 in collecting duct", "Urine osmolality", "Plasma osmolality"],
+        "rows": [
+          ["up", "up", "down"],
+          ["down", "down", "up"],
+          ["up", "down", "down"],
+          ["down", "up", "up"],
+          ["unchanged", "unchanged", "unchanged"]
+        ]
+      },
+      "choices": ["A", "B", "C", "D", "E"],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Increased ADH is needed to raise apical AQP2 and concentrate the urine; central DI is the OPPOSITE of this state.",
+        "Correct. In central diabetes insipidus, posterior pituitary release of ADH is deficient (here, due to skull-base trauma). Without ADH, the V2 receptor on collecting duct principal cells is not activated, and AQP2 remains in cytoplasmic vesicles rather than inserting into the apical membrane. Water reabsorption falls, producing dilute urine (low urine osmolality), and plasma is concentrated by the obligate water loss (high plasma osmolality, hypernatremia).",
+        "Incorrect. Apical AQP2 insertion is decreased, not increased, in central DI.",
+        "Incorrect. Urine osmolality is low (dilute) and plasma osmolality is high in central DI; this row reverses urine and plasma.",
+        "Incorrect. Unchanged values would describe a normal, ADH-responsive collecting duct."
+      ]
+    },
+    {
+      "id": 25,
+      "stem": "A 22-year-old man presents to the emergency department with cola-colored urine that began 24 hours after the onset of an upper respiratory infection. Urinalysis shows 30 RBCs/hpf with dysmorphic red cells and rare RBC casts. Serum creatinine and complement levels are normal. Renal biopsy is performed. Which of the following findings on immunofluorescence is most consistent with his diagnosis?",
+      "choices": [
+        "Granular IgG deposition along the GBM",
+        "Mesangial deposition of IgA",
+        "Linear IgG deposition along the GBM",
+        "Pauci-immune staining (no immunoglobulin deposition)",
+        "Subepithelial 'humps' containing IgG and C3"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Granular IgG along the GBM describes membranous nephropathy, which presents with nephrotic-range proteinuria — not synpharyngitic gross hematuria.",
+        "Correct. IgA nephropathy (Berger disease) is the most common primary glomerulonephritis worldwide and characteristically presents in young adults with synpharyngitic hematuria — gross hematuria within 1–3 days of an upper respiratory infection. Immunofluorescence shows mesangial deposition of IgA (often with C3), corresponding to mesangial proliferation on light microscopy and mesangial electron-dense deposits on EM.",
+        "Incorrect. Linear IgG along the GBM is the pattern of anti-GBM disease (Goodpasture), which produces rapidly progressive GN often with pulmonary hemorrhage.",
+        "Incorrect. Pauci-immune staining is the pattern of ANCA-associated vasculitides (granulomatosis with polyangiitis, microscopic polyangiitis).",
+        "Incorrect. Subepithelial humps describe post-streptococcal GN, which presents 1–3 WEEKS after streptococcal infection — not within 24 hours."
+      ]
+    },
+    {
+      "id": 26,
+      "stem": "A 28-year-old woman presents with fatigue, malar erythema, joint pain, and frothy urine. She has noticed darker urine over the past two weeks. Laboratory studies are shown.",
+      "labs": [
+        { "name": "Serum creatinine", "value": "1.7 mg/dL", "flag": "high", "ref": "0.5–1.0" },
+        { "name": "Urine protein/creatinine", "value": "4.2 mg/mg", "flag": "high", "ref": "<0.2" },
+        { "name": "Urinalysis RBCs", "value": "20–30/hpf, dysmorphic", "flag": "high", "ref": "0–2" },
+        { "name": "Serum C3", "value": "56 mg/dL", "flag": "low", "ref": "80–180" },
+        { "name": "Serum C4", "value": "9 mg/dL", "flag": "low", "ref": "16–40" },
+        { "name": "Anti-dsDNA antibody", "value": "Positive (high titer)", "flag": "high", "ref": "Negative" },
+        { "name": "ANA", "value": "1:1280, homogeneous", "flag": "high", "ref": "<1:80" }
+      ],
+      "choices": [
+        "'Wire-loop' lesions with abundant subendothelial immune-complex deposits and proliferative glomerulonephritis",
+        "Crescents involving over 50% of glomeruli with linear GBM IgG staining",
+        "Mesangial expansion with rounded peripheral nodules and arteriolar hyalinosis",
+        "Segmental glomerular sclerosis with hyalinosis but no immune-complex deposition",
+        "Subepithelial humps containing IgG and C3 with granular GBM staining"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. The clinical and serologic profile (malar rash, arthralgias, hematuria, proteinuria, low C3/C4, anti-dsDNA, high-titer ANA) supports diffuse proliferative lupus nephritis (ISN/RPS class IV). On light microscopy, capillary walls thickened by abundant subendothelial immune-complex deposits give the 'wire-loop' appearance. EM and IF show subendothelial deposits with all immunoglobulin subclasses ('full house' staining).",
+        "Incorrect. Linear GBM IgG with crescents describes anti-GBM (Goodpasture) disease, which is not characterized by low complement or anti-dsDNA antibodies.",
+        "Incorrect. Nodular mesangial sclerosis with arteriolar hyalinosis describes diabetic nephropathy.",
+        "Incorrect. Segmental sclerosis without immune complexes is the pattern of focal segmental glomerulosclerosis, not lupus nephritis.",
+        "Incorrect. Subepithelial humps describe post-streptococcal GN, which follows a streptococcal infection (sore throat, impetigo) and is typically self-limited; the autoimmune profile here points to lupus."
+      ]
+    }
+  ]
+}
