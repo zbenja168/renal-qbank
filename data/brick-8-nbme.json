@@ -1,0 +1,525 @@
+{
+  "id": 8,
+  "title": "Regulation of Renal Blood Flow",
+  "questions": [
+    {
+      "id": 1,
+      "stem": "A 30-year-old healthy man has a cardiac output of 5 L/min. Despite representing only ~0.5% of total body weight, the two kidneys receive a disproportionately large fraction of cardiac output. Which of the following best approximates the fraction of cardiac output delivered to the kidneys?",
+      "choices": [
+        "Approximately 5% (~250 mL/min)",
+        "Approximately 10% (~500 mL/min)",
+        "Approximately 22% (~1100 mL/min)",
+        "Approximately 50% (~2500 mL/min)",
+        "Approximately 75% (~3750 mL/min)"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. 5% of cardiac output would be inadequate for normal renal function and is far below the typical proportion.",
+        "Incorrect. 10% is below the actual fraction; the kidneys receive substantially more.",
+        "Correct. The kidneys receive approximately 20–25% of cardiac output (≈1.0–1.2 L/min) at rest — among the highest perfusion-to-weight ratios of any organ. This high flow is needed not because the kidneys are metabolically the most demanding tissue, but because they must filter ~180 L of plasma per day. Renal blood flow falls during exercise, hemorrhage, and heart failure as systemic priorities shift.",
+        "Incorrect. 50% would be physiologically untenable and far exceeds renal perfusion at rest.",
+        "Incorrect. The brain plus exercising muscles can claim large shares of cardiac output, but the kidneys do not approach 75%."
+      ]
+    },
+    {
+      "id": 2,
+      "stem": "A medical student traces the path of blood from the renal artery to the glomerulus. The diagram below shows the sequence of major vessels. Which of the following is the smallest-caliber vessel that delivers blood directly to the glomerular capillary tuft?",
+      "diagram": "<div class=\"dgm-title\">Intrarenal arterial path</div><div class=\"dgm-flow\"><div class=\"dgm-row\"><span class=\"pill\">Renal artery</span> → <span class=\"pill\">Segmental</span> → <span class=\"pill\">Interlobar</span> → <span class=\"pill\">Arcuate</span> → <span class=\"pill\">Interlobular (cortical radial)</span> → <span class=\"pill\">Afferent arteriole</span> → <span class=\"pill\">Glomerular capillary</span> → <span class=\"pill\">Efferent arteriole</span> → <span class=\"pill\">Peritubular capillary / vasa recta</span></div></div>",
+      "choices": [
+        "Arcuate artery",
+        "Afferent arteriole",
+        "Efferent arteriole",
+        "Interlobular (cortical radial) artery",
+        "Peritubular capillary"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. The arcuate artery runs along the corticomedullary junction and gives rise to interlobular arteries, which then give rise to afferent arterioles. It does not directly supply the glomerulus.",
+        "Correct. The afferent arteriole is the immediate, smallest-caliber vessel supplying the glomerular capillary tuft. Its smooth-muscle tone, regulated by both myogenic and tubuloglomerular-feedback mechanisms (and by hormones such as AT II, NE, and prostaglandins), is the principal determinant of glomerular capillary hydrostatic pressure and single-nephron GFR.",
+        "Incorrect. The efferent arteriole leaves the glomerulus rather than supplying it.",
+        "Incorrect. The interlobular artery feeds the afferent arteriole; it does not directly supply the glomerulus.",
+        "Incorrect. Peritubular capillaries arise from the efferent arteriole and surround tubular segments; they do not feed the glomerulus."
+      ]
+    },
+    {
+      "id": 3,
+      "stem": "A renal physiologist uses radiolabeled microspheres to study the distribution of blood flow within the kidney of an experimental animal. Which of the following best approximates the fraction of total renal blood flow that is delivered to the renal cortex?",
+      "choices": [
+        "80–90%",
+        "60–70%",
+        "40–50%",
+        "20–30%",
+        "Less than 10%"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Approximately 80–90% of total renal blood flow is delivered to the renal cortex, with only ~10–20% reaching the medulla (and progressively less in the inner medulla via the vasa recta). The cortex receives the bulk of perfusion because nearly all glomeruli are cortical; the medulla's lower flow is a feature of the countercurrent mechanism — vasa recta blood flow must remain low to preserve the medullary osmotic gradient.",
+        "Incorrect. This underestimates cortical share; the cortex dominates.",
+        "Incorrect. 40–50% is far below the actual cortical share.",
+        "Incorrect. 20–30% would correspond more closely to medullary flow as a fraction of total — not cortical.",
+        "Incorrect. Less than 10% applies to the inner medulla in particular."
+      ]
+    },
+    {
+      "id": 4,
+      "stem": "A 65-year-old man undergoes open repair of a ruptured abdominal aortic aneurysm. Postoperatively he develops oliguric acute kidney injury, and biopsy demonstrates ischemic tubular injury concentrated in the outer medulla, particularly affecting the medullary thick ascending limb. Which of the following best explains the susceptibility of this region to ischemic injury?",
+      "choices": [
+        "The outer medulla has the highest blood flow per gram in the kidney",
+        "The outer medulla — and particularly the medullary thick ascending limb — operates at the lowest tissue oxygen tension while sustaining a high metabolic demand for active NaCl reabsorption via NKCC2; this combination makes it highly vulnerable to ischemic injury",
+        "The outer medulla lacks autoregulation",
+        "The outer medulla is supplied only by a single segmental artery",
+        "The medullary thick ascending limb has the lowest mitochondrial density of any tubular segment"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Cortical flow far exceeds medullary; the outer medulla in fact has relatively low blood flow.",
+        "Correct. The countercurrent arrangement of vasa recta keeps medullary blood flow deliberately low (to preserve the osmotic gradient), so medullary tissue PO2 is the lowest in the kidney (~10–20 mm Hg). The medullary thick ascending limb is also among the most metabolically active tubular segments because of NKCC2-mediated active NaCl reabsorption powered by basolateral Na+/K+-ATPase. The combination of low O2 supply and high O2 demand makes this region the 'achilles heel' of the kidney during ischemia or oxygen-supply mismatch.",
+        "Incorrect. Autoregulation operates principally at the afferent arteriole and protects the cortex; the medulla's vulnerability stems from its supply-demand mismatch, not from a lack of autoregulation.",
+        "Incorrect. Renal vascular supply is multi-segmented; the medulla is supplied via vasa recta from juxtamedullary efferent arterioles.",
+        "Incorrect. The TAL is mitochondria-RICH, reflecting its high metabolic demand for active NaCl reabsorption."
+      ]
+    },
+    {
+      "id": 5,
+      "stem": "A renal physiologist infuses an inhibitor of endothelial nitric oxide synthase (eNOS) into the renal artery of an experimental preparation. Which of the following best describes the expected effect on renal vascular tone?",
+      "choices": [
+        "Decreased renal vascular resistance and increased RBF",
+        "Increased renal vascular resistance with vasoconstriction and decreased RBF",
+        "No effect on renal vascular tone, since NO is not produced in the kidney",
+        "Selective dilation of the efferent arteriole only",
+        "Increased GFR with no change in RBF"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. NO is a tonic vasodilator; inhibiting its synthesis raises (not lowers) vascular resistance.",
+        "Correct. NO produced by endothelial cells is a tonic vasodilator that opposes the vasoconstrictor influence of angiotensin II, sympathetic outflow, and endothelin in the renal vasculature. Inhibition of eNOS unmasks underlying vasoconstrictor tone, raising renal vascular resistance and reducing RBF. NO is also implicated in pressure natriuresis and in the maintenance of medullary perfusion.",
+        "Incorrect. NO is produced abundantly in the kidney, including by endothelial cells of the renal arterioles and by macula densa cells.",
+        "Incorrect. NO acts on both arterioles, with effects throughout the renal vascular bed; it is not efferent-selective.",
+        "Incorrect. Because eNOS inhibition raises renal vascular resistance, RBF falls and GFR is also affected."
+      ]
+    },
+    {
+      "id": 6,
+      "stem": "Endothelin-1 is upregulated in conditions including cyclosporine nephrotoxicity, contrast-induced nephropathy, and chronic kidney disease. Which of the following best characterizes the renal vascular effect of endothelin-1?",
+      "choices": [
+        "Vasodilation of the afferent arteriole",
+        "Vasodilation of the efferent arteriole",
+        "Direct stimulation of renin release from JG cells",
+        "Negative inotropic effect on the glomerular tuft",
+        "Potent vasoconstriction of both renal arterioles, contributing to renal hypoperfusion in disease"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. Endothelin-1 constricts (rather than dilates) the afferent arteriole.",
+        "Incorrect. Endothelin-1 also constricts the efferent arteriole; it is broadly vasoconstrictor.",
+        "Incorrect. Endothelin-1 may modestly modulate renin release in some experimental conditions but is not principally a renin secretagogue.",
+        "Incorrect. The glomerulus does not have a contractile 'inotropic' analog; endothelin's renal effects are vascular and mesangial.",
+        "Correct. Endothelin-1, acting through ETA receptors, is one of the most potent vasoconstrictors in the renal circulation. It constricts both arterioles, raises renal vascular resistance, and stimulates mesangial cell contraction. Endothelin antagonists are used in some forms of pulmonary hypertension and have been investigated for proteinuric kidney disease."
+      ]
+    },
+    {
+      "id": 7,
+      "stem": "A 60-year-old man receiving long-term lisinopril for hypertension has a persistent dry cough. Plasma bradykinin levels are elevated due to inhibition of bradykinin breakdown by ACE. Which of the following best characterizes the renal vascular effect of bradykinin?",
+      "choices": [
+        "Vasodilation of renal arterioles, mediated principally by endothelial release of nitric oxide and prostaglandins",
+        "Vasoconstriction via α1-adrenergic receptors",
+        "Stimulation of efferent arteriolar contraction",
+        "Direct stimulation of renin release",
+        "Increased aldosterone release from the adrenal cortex"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Bradykinin is a vasodilator peptide of the kallikrein-kinin system. In renal arterioles it triggers endothelial release of nitric oxide and prostaglandins (PGE2, PGI2), producing vasodilation that opposes the vasoconstrictor influence of angiotensin II. ACE inhibitors reduce angiotensin II AND inhibit bradykinin degradation — augmenting bradykinin levels and contributing to the renal vasodilation that lowers glomerular hydrostatic pressure (helpful in proteinuric disease) and to the side-effect cough.",
+        "Incorrect. Bradykinin does not act on adrenergic receptors.",
+        "Incorrect. Bradykinin promotes vasodilation, not vasoconstriction, of either arteriole.",
+        "Incorrect. Bradykinin does not directly stimulate renin release; the kallikrein-kinin and renin-angiotensin systems run in parallel rather than as direct effectors of each other's secretion.",
+        "Incorrect. Aldosterone secretion is regulated by angiotensin II and potassium, not by bradykinin."
+      ]
+    },
+    {
+      "id": 8,
+      "stem": "Adenosine is a vasodilator in most peripheral vascular beds. Paradoxically, in the renal afferent arteriole adenosine produces vasoconstriction — a property critical to tubuloglomerular feedback. Through which of the following receptors does adenosine produce afferent arteriolar vasoconstriction?",
+      "choices": [
+        "A2A receptor",
+        "β2-adrenergic receptor",
+        "A1 receptor",
+        "Muscarinic M3 receptor",
+        "P2Y12 purinergic receptor"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. A2A activation generally causes vasodilation; it is not the receptor that mediates afferent constriction in TGF.",
+        "Incorrect. β2 adrenergic receptors mediate vasodilation in many vascular beds and are not part of the TGF mechanism.",
+        "Correct. Tubuloglomerular feedback works via macula densa release of ATP, which is rapidly metabolized to adenosine. Adenosine acts on A1 receptors of the afferent arteriole to produce vasoconstriction, lowering single-nephron GFR. The kidney's afferent arteriole is unusual in this regard — most other vascular beds vasodilate to A2A-mediated adenosine signaling instead.",
+        "Incorrect. M3 receptors mediate vasodilation via NO release; they are not the TGF effector.",
+        "Incorrect. P2Y12 receptors are platelet/vascular receptors involved in coagulation, not in adenosine-mediated TGF."
+      ]
+    },
+    {
+      "id": 9,
+      "stem": "A 60-year-old woman with septic shock has been started on a low-dose dopamine infusion (≤2 mcg/kg/min). At this dose, dopamine acts predominantly at D1 receptors on renal arterioles and tubular cells. Compared with no dopamine, which row best describes the expected renal effect of low-dose dopamine?",
+      "choice_table": {
+        "headers": ["Renal blood flow", "GFR", "Urinary Na+ excretion"],
+        "rows": [
+          ["up", "up", "up"],
+          ["down", "down", "down"],
+          ["up", "down", "down"],
+          ["unchanged", "unchanged", "up"],
+          ["down", "up", "up"]
+        ]
+      },
+      "choices": ["A", "B", "C", "D", "E"],
+      "answer": 0,
+      "explanations": [
+        "Correct. At low doses (~0.5–2 mcg/kg/min), dopamine acts at renal D1 receptors. The vascular effect is dilation of both afferent and efferent arterioles (afferent slightly more), increasing RBF and modestly raising GFR. Independently, D1 activation in proximal tubular cells inhibits apical Na+/H+ exchange and basolateral Na+/K+-ATPase, producing a direct natriuresis. Note: although low-dose 'renal' dopamine has been historically used to enhance diuresis, randomized trials have not shown improved renal outcomes; it is no longer recommended for renal protection.",
+        "Incorrect. Down/down/down is the high-dose dopamine pattern (α-adrenergic activation predominates and constricts vessels).",
+        "Incorrect. Up/down/down is internally inconsistent with renal D1 stimulation.",
+        "Incorrect. D1 activation produces vascular AND tubular effects — RBF is increased, not unchanged.",
+        "Incorrect. ↓RBF, ↑GFR, ↑FF describes angiotensin II / efferent constriction, not low-dose dopamine."
+      ]
+    },
+    {
+      "id": 10,
+      "stem": "A 22-year-old soldier in hemorrhagic shock has markedly elevated circulating norepinephrine. Norepinephrine acts at the renal arterioles via which of the following receptors and with which predominant effect?",
+      "choices": [
+        "β1-adrenergic receptors → vasodilation",
+        "α1-adrenergic receptors → vasoconstriction of both arterioles, with afferent predominance at high catecholamine levels, reducing RBF and GFR",
+        "β2-adrenergic receptors → afferent vasoconstriction",
+        "Muscarinic M3 receptors → vasodilation",
+        "D1 dopaminergic receptors → vasodilation and natriuresis"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. β1 receptors on JG cells stimulate renin release, but vascular effects of norepinephrine are mediated principally through α1 receptors with vasoconstriction.",
+        "Correct. Norepinephrine acts on renal vascular smooth muscle through α1-adrenergic receptors, producing vasoconstriction of both afferent and efferent arterioles. At high catecholamine levels (e.g., shock), afferent vasoconstriction predominates, reducing both RBF and GFR. The kidney also receives β1-stimulation of JG cell renin release, indirectly amplifying angiotensin II–mediated efferent constriction. Net result in severe shock: RBF falls more than GFR (FF rises).",
+        "Incorrect. β2 stimulation produces vasodilation in most beds.",
+        "Incorrect. Muscarinic M3 stimulation causes vasodilation via endothelial NO and is not mediated by norepinephrine.",
+        "Incorrect. D1 receptors are activated by dopamine, not norepinephrine."
+      ]
+    },
+    {
+      "id": 11,
+      "stem": "A 62-year-old woman in septic shock with refractory hypotension is started on a vasopressin infusion to support blood pressure. Vasopressin binds the V1 receptor on vascular smooth muscle. Which of the following best characterizes the principal effect of V1-receptor activation?",
+      "choices": [
+        "Direct renal arteriolar vasodilation",
+        "Increased free water excretion in the collecting duct",
+        "Vasoconstriction of vascular smooth muscle, including renal arterioles, raising systemic blood pressure",
+        "Decreased renin release",
+        "Increased apical AQP2 insertion in collecting duct principal cells"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. V1 activation produces vasoconstriction, not vasodilation.",
+        "Incorrect. Free water excretion is reduced (not increased) by the V2 effect of vasopressin in the collecting duct.",
+        "Correct. V1 receptors on vascular smooth muscle are activated by vasopressin (and the synthetic analogs terlipressin, used in hepatorenal syndrome), producing vasoconstriction and raising systemic vascular resistance. In septic shock, where systemic vasoplegia and 'relative vasopressin deficiency' contribute to refractory hypotension, low-dose vasopressin (0.03 U/min) supplements catecholamine pressors to restore MAP. (V2 receptors of the collecting duct mediate the antidiuretic, water-retaining effects of ADH.)",
+        "Incorrect. Renin release is reduced indirectly via afferent arteriolar baroreceptor effects of higher BP, but the principal V1 effect is vasoconstriction.",
+        "Incorrect. AQP2 insertion is mediated by V2 receptors, not V1."
+      ]
+    },
+    {
+      "id": 12,
+      "stem": "A 55-year-old man develops sustained hypertension. Over weeks, increased renal sodium and water excretion at higher mean arterial pressures contributes to negative sodium balance and partially counteracts the rise in BP. Which of the following best describes the renal mechanism of this 'pressure natriuresis'?",
+      "choices": [
+        "Direct stimulation of aldosterone secretion at high blood pressure",
+        "Increased glomerular filtration rate proportional to systemic blood pressure (since autoregulation fails at high pressures)",
+        "Sympathetic outflow rises in proportion to BP and increases Na+ excretion",
+        "Increased renal medullary blood flow at higher renal perfusion pressure raises medullary interstitial hydrostatic pressure, reducing tubular Na+ reabsorption (especially in proximal tubule and loop of Henle); local NO and prostaglandin signals contribute",
+        "Direct ANP release from the kidney"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. High BP suppresses (rather than stimulates) RAAS and aldosterone, contributing to natriuresis only indirectly.",
+        "Incorrect. Autoregulation maintains GFR over the range 80–200 mm Hg; pressure natriuresis is principally a tubular phenomenon, not a GFR-driven one.",
+        "Incorrect. Sympathetic outflow tends to FALL (via baroreceptor reflex) with higher BP, and would in any case promote Na+ retention, not loss.",
+        "Correct. Pressure natriuresis is the kidney's intrinsic property of excreting more Na+ and water as renal perfusion pressure rises, even within the autoregulatory range of GFR. The mechanism is principally tubular: higher perfusion pressure raises medullary blood flow and medullary interstitial hydrostatic pressure, which reduces proximal-tubular and loop-of-Henle Na+ reabsorption (in part by lowering passive paracellular reabsorption). NO and prostaglandins facilitate this response. Pressure natriuresis is critical for long-term BP regulation; impaired pressure natriuresis (e.g., in essential hypertension or salt-sensitive HTN) underlies sustained hypertension.",
+        "Incorrect. ANP is released from the heart (cardiac atria), not the kidney; while ANP contributes to natriuresis, it is not the mechanism named 'pressure natriuresis.'"
+      ]
+    },
+    {
+      "id": 13,
+      "stem": "A 22-year-old man with class III hemorrhagic shock has blood pressure 78/50 mm Hg and heart rate 130/min. Renal blood flow is markedly reduced. Which of the following best describes the dominant mechanism of reduced RBF in this patient?",
+      "choices": [
+        "Renal autoregulation maintains RBF at all blood pressures",
+        "Predominant vasodilation in response to hemorrhage",
+        "Increased medullary blood flow with cortical sparing",
+        "ANP-mediated vasoconstriction",
+        "Combined sympathetic α-adrenergic vasoconstriction, elevated circulating catecholamines, and elevated angiotensin II all narrow renal arterioles, reducing RBF below the autoregulatory limit at MAPs <80 mm Hg"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. Autoregulation maintains RBF only between roughly 80 and 200 mm Hg MAP; below 80 mm Hg the afferent arteriole has reached maximal dilation and RBF falls steeply.",
+        "Incorrect. Hemorrhage drives sympathetic outflow and RAAS activation — both vasoconstrictor — not vasodilation.",
+        "Incorrect. Medullary blood flow is reduced, not increased, in shock; the cortex is preferentially preserved relative to the medulla in some compensatory shifts but this is not the dominant mechanism described.",
+        "Incorrect. ANP is decreased (low atrial stretch) in hypovolemia, and ANP itself is a vasodilator at the afferent — not a vasoconstrictor.",
+        "Correct. Hemorrhagic shock activates the sympathetic nervous system (NE via α1), increases circulating catecholamines, and activates RAAS. All three constrict renal arterioles. Below 80 mm Hg MAP, renal autoregulation fails — the afferent has reached maximal compensatory dilation and cannot offset further pressure drops — so RBF falls steeply. Angiotensin II preferentially constricts the efferent, helping preserve GFR somewhat as RBF declines (filtration fraction rises)."
+      ]
+    },
+    {
+      "id": 14,
+      "stem": "A 75-year-old man with chronic systolic heart failure (ejection fraction 25%) has chronically reduced renal perfusion. His plasma renin, norepinephrine, and ADH levels are all elevated. Which of the following best characterizes his renal blood flow?",
+      "choices": [
+        "Increased renal blood flow due to compensatory vasodilation",
+        "Unchanged renal blood flow because of autoregulation",
+        "Slightly increased renal blood flow",
+        "Reduced renal blood flow from low cardiac output and intense neurohumoral renal vasoconstriction (RAAS, sympathetic, ADH); efferent constriction by AT II preserves GFR more than RBF, raising filtration fraction",
+        "Reversed flow direction in renal arteries"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Heart failure produces neurohumoral activation that constricts (not dilates) the renal vasculature.",
+        "Incorrect. Autoregulation operates within a perfusion-pressure range, but HF reduces effective renal perfusion and the chronic neurohumoral state lowers RBF below normal.",
+        "Incorrect. RBF is reduced, not increased, in advanced systolic HF.",
+        "Correct. In systolic HF, low cardiac output and reduced effective arterial volume activate RAAS, sympathetic outflow, and ADH. All three converge on the renal vasculature: norepinephrine (α1) constricts both arterioles; AT II preferentially constricts the efferent (preserving GFR somewhat); ADH adds further vasoconstriction. The result is reduced RBF with preserved or modestly reduced GFR, raising filtration fraction. Loss of this preservation (e.g., when ACE inhibitors are added in volume-depleted patients) precipitates AKI.",
+        "Incorrect. Renal artery flow is not reversed in heart failure; this would represent vascular pathology, not HF physiology."
+      ]
+    },
+    {
+      "id": 15,
+      "stem": "A 58-year-old man with advanced alcoholic cirrhosis develops worsening renal function with serum creatinine rising from 1.0 to 2.5 mg/dL despite fluid resuscitation and discontinuation of diuretics. Urine sodium is 8 mEq/L, FENa is <0.2%, and the urinalysis is bland. Which of the following best describes the mechanism of his renal hypoperfusion?",
+      "choices": [
+        "Bilateral renal artery stenosis with renin-mediated hypertension",
+        "Direct hepatotoxic effect of unconjugated bilirubin on the renal tubule",
+        "Acute tubular necrosis from infection",
+        "Splanchnic arteriolar vasodilation reduces effective arterial volume; reflex activation of RAAS, sympathetic outflow, and ADH causes intense renal vasoconstriction (hepatorenal syndrome) that is initially reversible with vasoconstrictor therapy or liver transplant",
+        "Pure prerenal azotemia that fully reverses with volume expansion"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. RAS would be expected to produce hypertension and elevated renin/aldosterone; the picture here is HRS in cirrhosis.",
+        "Incorrect. Bilirubin does not directly produce this renal pattern.",
+        "Incorrect. ATN would have FENa >2%, isosthenuric urine, and muddy-brown casts — not the prerenal indices here.",
+        "Correct. In advanced cirrhosis, splanchnic vasodilation (driven by NO, glucagon, and other mediators) reduces effective arterial volume despite total volume overload (ascites). RAAS, sympathetic outflow, and ADH all activate, producing intense intrarenal vasoconstriction. Urinary indices look prerenal (low UNa, low FENa, concentrated urine), but unlike simple prerenal azotemia, hepatorenal syndrome does not respond to volume expansion. Treatment includes vasoconstrictors (terlipressin, midodrine + octreotide) plus albumin, with definitive therapy being liver transplant.",
+        "Incorrect. Failure to respond to volume expansion (as stated) distinguishes HRS from simple prerenal azotemia."
+      ]
+    },
+    {
+      "id": 16,
+      "stem": "A 26-year-old woman is in her 28th week of an uncomplicated pregnancy. She has had no medical complications. Compared with her pre-pregnancy values, which row in the table best characterizes her renal hemodynamics?",
+      "choice_table": {
+        "headers": ["Renal blood flow", "GFR", "Filtration fraction"],
+        "rows": [
+          ["up", "up", "up"],
+          ["up", "up", "down"],
+          ["down", "down", "unchanged"],
+          ["down", "up", "up"],
+          ["unchanged", "unchanged", "unchanged"]
+        ]
+      },
+      "choices": ["A", "B", "C", "D", "E"],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Both RBF and GFR rise in pregnancy — but FF FALLS, not rises, because RBF rises proportionally more than GFR.",
+        "Correct. Pregnancy is characterized by systemic vasodilation, ~50% expansion of plasma volume, and a 60–80% rise in renal plasma flow. GFR rises by approximately 50%, lowering serum creatinine (~0.5 mg/dL is normal). Because RBF rises proportionally more than GFR, filtration fraction (GFR/RPF) actually falls. This pattern is distinct from the angiotensin II–driven 'preserved GFR / lower RBF / higher FF' pattern of volume depletion.",
+        "Incorrect. Down/down describes hypovolemia or shock, not pregnancy.",
+        "Incorrect. ↓RBF, ↑GFR, ↑FF describes angiotensin II effects (volume depletion physiology), not pregnancy.",
+        "Incorrect. Pregnancy produces marked changes in renal hemodynamics — they are not unchanged."
+      ]
+    },
+    {
+      "id": 17,
+      "stem": "A 35-year-old marathon runner has reduced renal blood flow during sustained vigorous exercise. Which of the following best explains the reduction in RBF in this physiological setting?",
+      "choices": [
+        "Increased systemic blood pressure during exercise overrides renal autoregulation, raising RBF",
+        "Vasodilation of renal arterioles in response to lactate accumulation",
+        "Sympathetic α-adrenergic vasoconstriction of renal arterioles redirects blood flow to skeletal muscle and skin; renal vasoconstriction can reduce RBF by 20–30% during sustained vigorous exercise",
+        "Decreased cardiac output during exercise",
+        "Increased adenosine release locally in the kidney"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Exercise raises systemic BP, but autoregulation prevents this from raising renal flow appreciably; the dominant influence is sympathetic vasoconstriction reducing RBF.",
+        "Incorrect. Lactate's effect on the renal vasculature is not the principal mechanism in exercise; sympathetic vasoconstriction dominates.",
+        "Correct. During sustained vigorous exercise, cardiac output rises but is preferentially distributed to working skeletal muscle, skin (for thermoregulation), and the heart. Renal arteriolar α1-adrenergic vasoconstriction redirects blood flow away from the kidney, lowering RBF by 20–30%. Recovery occurs within minutes after exercise stops. This shift is similar in mechanism (though not severity) to that seen in shock.",
+        "Incorrect. Cardiac output rises substantially in exercise; the redistribution away from the kidneys is mediated by selective renal vasoconstriction.",
+        "Incorrect. Adenosine release would not reduce RBF in exercise; its role is in the local renal afferent paradox, not exercise hemodynamics."
+      ]
+    },
+    {
+      "id": 18,
+      "stem": "A 45-year-old man with a single kidney (after donating his other kidney 10 years ago) develops chronic kidney disease. The remaining kidney has undergone compensatory hyperfiltration since donation. Long-term, sustained hyperfiltration is implicated in CKD progression. Which of the following best describes the mechanism by which hyperfiltration drives CKD progression?",
+      "choices": [
+        "Sustained increased glomerular capillary hydrostatic pressure causes mesangial expansion, podocyte injury, and progressive glomerulosclerosis with proteinuria",
+        "Hyperfiltration is fully protective with no long-term sequelae",
+        "Hyperfiltration depletes the renal medullary osmotic gradient",
+        "Hyperfiltration activates only systemic RAAS without local renal effects",
+        "Hyperfiltration directly increases plasma oncotic pressure, accelerating CKD"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. The unifying hypothesis (Brenner et al.) is that compensatory afferent arteriolar dilation raises glomerular capillary hydrostatic pressure in surviving nephrons. Sustained intraglomerular hypertension causes mechanical injury to podocytes and mesangial cells, leading to mesangial expansion, foot-process effacement, segmental sclerosis, and progressive proteinuria — accelerating loss of the remaining nephron mass. ACE inhibitors and ARBs are renoprotective in part because they dilate the efferent arteriole, lowering glomerular capillary pressure and slowing this cycle.",
+        "Incorrect. Compensatory hyperfiltration restores total GFR in the short term but predisposes to progressive injury in the long term.",
+        "Incorrect. Hyperfiltration does not 'wash out' the medullary gradient as a primary mechanism of CKD progression.",
+        "Incorrect. The principal injury is local (intraglomerular hypertension and direct podocyte/mesangial injury), not exclusively systemic.",
+        "Incorrect. Plasma oncotic pressure is not raised by hyperfiltration."
+      ]
+    },
+    {
+      "id": 19,
+      "stem": "A 70-year-old woman with chronic heart failure and stable diuretic therapy is started on ibuprofen for osteoarthritis. Within two weeks her renal function deteriorates significantly. Beyond the well-recognized afferent arteriolar constriction, which of the following additional renal vascular effects of NSAIDs contributes to renal injury in this setting?",
+      "choices": [
+        "Increased local angiotensin II generation",
+        "Increased medullary blood flow producing washout of the osmotic gradient",
+        "Decreased renin secretion that paradoxically worsens GFR",
+        "Direct nephrotoxicity of ibuprofen to the proximal convoluted tubule",
+        "Loss of prostaglandin-mediated medullary vasodilation, reducing medullary perfusion and increasing the susceptibility of the medullary thick ascending limb to ischemic injury"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. NSAIDs reduce prostaglandin-driven afferent dilation; they do not principally raise local AT II.",
+        "Incorrect. Medullary blood flow is reduced, not increased, by NSAIDs.",
+        "Incorrect. Renin secretion can be reduced by NSAIDs, but this is not the principal additional mechanism beyond afferent constriction.",
+        "Incorrect. NSAIDs at therapeutic doses do not cause direct PCT injury in the manner of aminoglycosides or contrast.",
+        "Correct. Renal medullary blood flow is critically dependent on local prostaglandin-mediated vasodilation. NSAIDs inhibit COX, reducing PGE2 and PGI2 production and lowering medullary perfusion. The medullary thick ascending limb — already at low PO2 because of the countercurrent arrangement — becomes more vulnerable to ischemic injury. In volume-depleted patients (CHF, cirrhosis, hypovolemia), this contributes to AKI alongside the better-known afferent vasoconstriction."
+      ]
+    },
+    {
+      "id": 20,
+      "stem": "A 65-year-old woman is admitted to the ICU with septic shock from urosepsis. She develops oliguric acute kidney injury despite resuscitation that achieves a mean arterial pressure of 70 mm Hg with norepinephrine support. Laboratory studies are shown.",
+      "labs": [
+        { "name": "Mean arterial pressure (on NE)", "value": "70 mm Hg", "flag": "", "ref": "≥65" },
+        { "name": "Lactate", "value": "5.2 mmol/L", "flag": "high", "ref": "<2" },
+        { "name": "Serum creatinine", "value": "2.4 mg/dL (was 1.0)", "flag": "high", "ref": "0.6–1.2" },
+        { "name": "Urine output", "value": "0.2 mL/kg/hr", "flag": "low", "ref": "≥0.5" },
+        { "name": "WBC", "value": "22,000/µL", "flag": "high", "ref": "4,000–11,000" },
+        { "name": "Procalcitonin", "value": "Markedly elevated", "flag": "high", "ref": "<0.5" }
+      ],
+      "choices": [
+        "Pure ischemic injury from a single episode of severe hypotension",
+        "Multifactorial septic AKI: intrarenal microcirculatory dysfunction with leukocyte and platelet plugging, cytokine-mediated tubular cell injury, mitochondrial dysfunction, and cellular adaptive 'cell-cycle arrest' — present even when systemic hemodynamics are restored",
+        "Direct toxicity of bacterial endotoxin to the glomerular tuft",
+        "Acute tubular necrosis from contrast administration",
+        "Compensatory hyperfiltration injuring the kidney"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. While transient hypotension contributes, AKI in sepsis frequently develops despite restored MAP and is mechanistically more complex than pure ischemia.",
+        "Correct. Septic AKI is a complex syndrome of intrarenal microcirculatory dysfunction (vasoconstriction, microvascular plugging by leukocytes and platelets), cytokine and pathogen-associated molecular pattern–mediated tubular cell injury, mitochondrial dysfunction, and adaptive cell-cycle arrest. Histology often shows surprisingly preserved tubules (in contrast to classical ischemic ATN), reflecting these distinct mechanisms. This is why simply 'restoring MAP' often fails to reverse septic AKI.",
+        "Incorrect. While endotoxin contributes to systemic and intrarenal cytokine signaling, the dominant lesion is multifactorial rather than direct glomerular toxicity.",
+        "Incorrect. There is no contrast exposure mentioned; the temporal pattern fits sepsis-induced AKI.",
+        "Incorrect. Hyperfiltration is a chronic CKD-progression mechanism, not the cause of acute septic AKI."
+      ]
+    },
+    {
+      "id": 21,
+      "stem": "A 65-year-old woman has 80% atherosclerotic stenosis of her right renal artery. Plasma renin activity is markedly elevated. Which of the following best describes the renal hemodynamics in the affected (stenotic) kidney?",
+      "choices": [
+        "Increased renal blood flow due to compensatory dilation",
+        "Markedly increased GFR independent of perfusion pressure",
+        "Reduced afferent perfusion pressure activates RAAS and angiotensin II preferentially constricts the efferent arteriole, helping preserve GFR at the cost of further reduced RBF; filtration fraction rises",
+        "Filtration fraction falls due to efferent dilation",
+        "Autoregulation fully restores RBF and GFR despite the stenosis"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Compensatory dilation cannot make up for an upstream stenosis; RBF is reduced.",
+        "Incorrect. GFR depends on perfusion pressure; the AT II–mediated efferent constriction PRESERVES GFR but does not raise it above normal.",
+        "Correct. Atherosclerotic renal artery stenosis lowers afferent perfusion pressure. The reduced pressure stimulates JG cell renin release, increasing local and systemic angiotensin II. AT II preferentially constricts the efferent arteriole, raising glomerular capillary pressure and helping preserve GFR despite reduced RBF; filtration fraction rises. This is why ACE inhibitors or ARBs precipitate marked GFR fall in bilateral RAS — they remove the AT II–mediated efferent support of glomerular pressure.",
+        "Incorrect. FF rises (not falls) in stenosis because efferent constriction is the compensatory mechanism.",
+        "Incorrect. Autoregulation cannot fully compensate when perfusion pressure falls below the autoregulatory range distal to a tight stenosis."
+      ]
+    },
+    {
+      "id": 22,
+      "stem": "A 62-year-old man in septic shock has a mean arterial pressure of 55 mm Hg and oliguria despite 2 L of crystalloid resuscitation. Norepinephrine is started and his MAP rises to 75 mm Hg. Although norepinephrine is a renal vasoconstrictor in normal physiology, in this clinical scenario what is the typical effect on renal function?",
+      "choices": [
+        "Decrease RBF and GFR further by adding more vasoconstriction in an already vasoconstricted kidney",
+        "No change in RBF or GFR because the renal vasoconstrictor and pressure effects exactly cancel",
+        "Decrease in GFR despite restored MAP",
+        "Restoration of MAP into the autoregulatory range improves renal perfusion pressure; the resulting increase in RBF and GFR outweighs the direct vasoconstrictive renal effect of norepinephrine, and renal function typically improves",
+        "Direct nephrotoxic injury from catecholamine exposure"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. While NE causes some renal vasoconstriction, restoring MAP from below the autoregulatory range (55) into it (75) is the dominant effect, improving perfusion.",
+        "Incorrect. The pressure effect dominates clinically; RBF rises rather than remaining unchanged.",
+        "Incorrect. With restored MAP and renal perfusion, GFR typically rises, not falls.",
+        "Correct. In septic shock with MAP <65 mm Hg, renal autoregulation is exhausted (the afferent arteriole is maximally dilated). Restoring MAP to within the autoregulatory range with norepinephrine markedly improves renal perfusion. Although NE constricts renal arterioles directly, the pressure effect on perfusion dominates clinically — and randomized trials (e.g., SOAP II) show NE preserves renal function better than dopamine in distributive shock.",
+        "Incorrect. Therapeutic-dose catecholamine pressors do not produce direct nephrotoxic injury; their renal effects are hemodynamic."
+      ]
+    },
+    {
+      "id": 23,
+      "stem": "A 55-year-old woman with truly resistant hypertension undergoes catheter-based renal sympathetic denervation. Renal sympathetic nerves carry both efferent (sympathetic to kidney) and afferent (sensory from kidney) signals. Which of the following best describes the mechanism by which efferent renal sympathetic denervation lowers blood pressure?",
+      "choices": [
+        "Reduced antidiuretic hormone secretion from the posterior pituitary",
+        "Increased aldosterone secretion from the adrenal cortex",
+        "Reduced sympathetic-mediated AQP2 trafficking",
+        "Direct dilation of glomerular capillaries by mechanical injury",
+        "Reduced β1-mediated renin release from juxtaglomerular cells (lowering AT II), reduced α1-mediated renal arteriolar vasoconstriction (lowering renal vascular resistance), and reduced direct sympathetic stimulation of tubular Na+ reabsorption — together producing sustained natriuresis and BP reduction"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. ADH secretion is regulated by hypothalamic osmoreceptors and volume sensors, not directly by renal sympathetic nerves.",
+        "Incorrect. Aldosterone is reduced (via reduced renin and AT II), not increased.",
+        "Incorrect. Sympathetic effects on AQP2 are not the principal antihypertensive mechanism of renal denervation.",
+        "Incorrect. Catheter-based denervation does not significantly mechanically injure glomeruli.",
+        "Correct. Efferent renal sympathetic nerves act on the kidney through three convergent mechanisms: β1-stimulation of JG cell renin release (driving AT II / aldosterone); α1-stimulation of renal arteriolar smooth muscle (raising renal vascular resistance); and direct stimulation of tubular epithelial cells (enhancing Na+ reabsorption in PCT and TAL). Reducing this sympathetic input therefore reduces RAAS activation, lowers renal vascular resistance, and produces natriuresis — together translating to a sustained decrease in BP. Some benefit also derives from interrupting afferent sensory traffic to central sympathetic centers."
+      ]
+    },
+    {
+      "id": 24,
+      "stem": "A 70-year-old man with septic shock has refractory hypotension despite adequate fluid resuscitation and norepinephrine at high dose. Vasopressin (0.03 U/min) is added and produces a substantial rise in mean arterial pressure. Which of the following best explains the disproportionate effect of vasopressin in septic shock compared with healthy individuals?",
+      "choices": [
+        "Endogenous vasopressin levels are markedly suppressed in distributive shock, and exogenous replacement to physiologic levels has an outsized hemodynamic effect (a 'relative vasopressin deficiency')",
+        "Endogenous vasopressin levels are already markedly elevated in distributive shock",
+        "Vasopressin acts via a different receptor in shock than in health",
+        "Vasopressin only affects splanchnic circulation",
+        "Vasopressin causes net fluid retention rather than vasoconstriction"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Although early sepsis releases endogenous vasopressin, prolonged septic shock is associated with depletion of pituitary vasopressin stores and 'relative vasopressin deficiency.' Restoring vasopressin to physiologic levels (0.03 U/min) often produces an outsized increase in MAP, allowing reduction of catecholamine pressor doses. This rationale underlies the clinical use of vasopressin as a 'second-line' pressor in septic shock (e.g., VASST trial).",
+        "Incorrect. The opposite is true — endogenous vasopressin is depleted late in distributive shock.",
+        "Incorrect. The receptor is the same V1 receptor on vascular smooth muscle.",
+        "Incorrect. Vasopressin's vasoconstrictor action affects multiple vascular beds, including renal and systemic vessels.",
+        "Incorrect. Although vasopressin has antidiuretic V2 effects, the hemodynamic benefit in septic shock is from V1-mediated vasoconstriction."
+      ]
+    },
+    {
+      "id": 25,
+      "stem": "A 55-year-old man with diabetic nephropathy and proteinuria of 3.0 g/day is started on lisinopril. After 6 weeks his proteinuria has fallen to 1.5 g/day, and serum creatinine has risen modestly from 1.4 to 1.6 mg/dL. Which of the following best explains the renoprotective effect of ACE inhibitor therapy in this patient?",
+      "choices": [
+        "Reduction in angiotensin II preferentially dilates the efferent arteriole, lowering glomerular capillary hydrostatic pressure; reduced intraglomerular pressure decreases mesangial and podocyte injury and the filtration of plasma proteins, slowing CKD progression",
+        "Direct stimulation of podocyte regeneration",
+        "Markedly increased GFR allowing more rapid clearance of toxins",
+        "Increased renal blood flow alone, without effects on glomerular pressure",
+        "Bradykinin-mediated renal arteriolar vasoconstriction"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. ACE inhibitors and ARBs reduce angiotensin II, which preferentially constricts the efferent arteriole. Removing this efferent tone dilates the efferent and lowers glomerular capillary hydrostatic pressure; this reduces mechanical stress on the filtration barrier (mesangium, podocytes), slows proteinuria, and slows progression of CKD. The modest rise in serum creatinine (~10–30%) often seen on initiation reflects this hemodynamic effect (a lower glomerular pressure with preserved RBF) and is not a sign of nephrotoxicity.",
+        "Incorrect. Podocyte regeneration is not appreciable in injured kidneys; renoprotection is hemodynamic.",
+        "Incorrect. GFR generally falls modestly with ACE inhibitors because efferent dilation lowers Pgc.",
+        "Incorrect. RBF can rise slightly, but the principal renoprotective mechanism is reduction of intraglomerular pressure, not RBF alone.",
+        "Incorrect. Bradykinin actually causes renal arteriolar vasodilation through NO and prostaglandins; it contributes modestly to ACEi cough but not to vasoconstriction."
+      ]
+    },
+    {
+      "id": 26,
+      "stem": "A 75-year-old man with decompensated heart failure and severe right-sided congestion is admitted with worsening renal function despite a preserved mean arterial pressure and adequate cardiac index on echo. Laboratory and hemodynamic studies are shown.",
+      "labs": [
+        { "name": "Mean arterial pressure", "value": "78 mm Hg", "flag": "", "ref": "≥65" },
+        { "name": "Cardiac index", "value": "2.4 L/min/m²", "flag": "", "ref": "2.2–4.0" },
+        { "name": "Central venous pressure", "value": "20 mm Hg", "flag": "high", "ref": "<8" },
+        { "name": "Serum creatinine", "value": "2.4 mg/dL (was 1.5)", "flag": "high", "ref": "0.7–1.3" },
+        { "name": "BNP", "value": "Markedly elevated", "flag": "high", "ref": "—" },
+        { "name": "Lower extremity edema", "value": "3+ pitting", "flag": "high", "ref": "—" }
+      ],
+      "choices": [
+        "Acute glomerulonephritis",
+        "Allergic interstitial nephritis",
+        "Renal artery stenosis with severe hypoperfusion",
+        "Elevated renal venous pressure transmitted to glomerular capillaries and the renal interstitium reduces transglomerular pressure gradient and intrarenal blood flow; venous congestion is increasingly recognized as a major driver of cardiorenal AKI even when arterial perfusion is preserved",
+        "Post-renal obstruction from prostatic hypertrophy"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. GN typically presents with active urine sediment (RBC casts, proteinuria), not the cardiorenal pattern described.",
+        "Incorrect. AIN typically presents with eosinophiluria, sterile pyuria, and frequently rash/fever — none reported.",
+        "Incorrect. RAS would be expected to present with renin-mediated hypertension and hyperaldosteronism; the picture here is venous-congestive, not arterial.",
+        "Correct. In recent decades, elevated central venous pressure has emerged as a major determinant of renal function in heart failure — often more important than reduced cardiac index. High CVP transmits retrograde to the renal veins and interstitium, raising intrarenal hydrostatic pressure and reducing the transglomerular pressure gradient (Pgc − Pbs). It also impairs renal lymphatic drainage and contributes to interstitial edema. Decongestion (with diuretics, ultrafiltration, or vasodilators) often improves renal function more than augmenting cardiac output.",
+        "Incorrect. There is no obstructive picture described; the elevated CVP and edema localize the pathophysiology to venous congestion."
+      ]
+    }
+  ]
+}
