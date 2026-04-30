@@ -222,7 +222,7 @@
       ],
       "choices": [
         "Central DI from cerebral edema",
-        "Glucose-induced osmotic diuresis with water > Na+ loss",
+        "Glucose-induced osmotic diuresis",
         "Lithium-induced NDI",
         "SIADH from acute illness",
         "Heat stroke physiology"
@@ -397,7 +397,7 @@
       "stem": "A 70-year-old woman with chronic hypernatremia (Na+ 168 mEq/L over weeks) is admitted for management. She weighs 60 kg. Which of the following correctly approximates the free water deficit?",
       "choices": [
         "Water deficit = body weight × 0.6",
-        "Water deficit ≈ TBW × [(measured Na+ / 140) − 1]",
+        "Water deficit = TBW × (Na+/140 − 1)",
         "Water deficit = (Na+ − 140) × 100",
         "Water deficit = body weight × 1.5",
         "Water deficit cannot be calculated"

@@ -48,7 +48,7 @@
       "choices": [
         "IV bolus three times daily",
         "Single oral dose monthly",
-        "Intranasal or oral DDAVP 1–2 times daily, titrated",
+        "Intranasal or oral DDAVP daily",
         "Continuous IV infusion at home",
         "No chronic therapy is necessary"
       ],
@@ -344,7 +344,7 @@
       "choices": [
         "Phase 2 is permanent central DI",
         "Phase 2 is acute kidney injury",
-        "Phase 2 is transient SIADH from stored ADH release",
+        "Phase 2 is transient SIADH",
         "Phase 2 is hyperglycemic osmotic diuresis",
         "Phase 2 is recovery to normal"
       ],
@@ -400,7 +400,7 @@
       "stem": "A 32-year-old woman with central DI is concerned about the pregnancy implications of her DDAVP therapy. Which of the following best characterizes DDAVP in pregnancy?",
       "choices": [
         "DDAVP is contraindicated in pregnancy",
-        "DDAVP is preferred over native vasopressin in pregnancy because it resists placental vasopressinase",
+        "DDAVP is preferred because it resists placental vasopressinase",
         "DDAVP causes uterine contraction at clinical doses",
         "Pregnancy itself cures central DI",
         "Native vasopressin should be used instead in pregnancy"
@@ -477,7 +477,7 @@
       "choices": [
         "Take DDAVP only with juice",
         "Take DDAVP only on weekends",
-        "Restrict fluid intake from 1 hour before bedtime through the night",
+        "Restrict fluid intake at bedtime",
         "Give DDAVP with breakfast",
         "DDAVP must be discontinued in summer"
       ],

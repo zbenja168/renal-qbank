@@ -47,7 +47,7 @@
       "stem": "A 65-year-old man with severe symptomatic SIADH (Na+ 116 mEq/L with confusion and seizure) is admitted to the ICU. The team initiates IV conivaptan. Which of the following best characterizes conivaptan compared with tolvaptan?",
       "choices": [
         "Conivaptan is V2-selective like tolvaptan",
-        "Conivaptan is non-selective V1a/V2 IV agent for short-term hospital use",
+        "Conivaptan is non-selective V1a/V2 IV agent",
         "Conivaptan is a V1a antagonist only",
         "Conivaptan is an oral chronic agent",
         "Conivaptan is a V2 agonist"
@@ -149,7 +149,7 @@
       "stem": "A 55-year-old man on tolvaptan for SIADH is started on ketoconazole (a strong CYP3A4 inhibitor) for esophageal candidiasis. Which of the following best describes the expected drug interaction?",
       "choices": [
         "Tolvaptan plasma levels fall, reducing efficacy",
-        "Tolvaptan plasma levels rise, increasing risk of overcorrection and hepatotoxicity",
+        "Tolvaptan levels rise from CYP3A4 inhibition",
         "Ketoconazole is inactivated by tolvaptan",
         "No interaction expected",
         "Both drugs are renally cleared without interaction"
@@ -206,7 +206,7 @@
       "stem": "A 60-year-old woman with chronic SIADH from a CNS tumor is started on tolvaptan in the hospital. Within 4 hours, plasma Na+ has risen from 125 to 138 — exceeding the 24-hour safety limit of 8 mEq/L. She is asymptomatic. Which of the following is the most appropriate next step?",
       "choices": [
         "Continue tolvaptan and observe",
-        "Stop tolvaptan; consider DDAVP or D5W to slow correction",
+        "Stop tolvaptan; rescue with DDAVP/D5W",
         "Increase tolvaptan dose",
         "Begin dialysis",
         "Transfuse blood products"
@@ -286,7 +286,7 @@
       "stem": "A 28-year-old woman with chronic SIADH from a benign brain tumor is being considered for chronic tolvaptan therapy. She is in her first trimester of pregnancy. Which of the following best characterizes tolvaptan in pregnancy?",
       "choices": [
         "Tolvaptan is FDA category A in pregnancy",
-        "Tolvaptan is generally avoided due to teratogenic effects in animal studies",
+        "Tolvaptan is generally avoided due to teratogenicity",
         "Tolvaptan is preferred over fluid restriction in pregnancy",
         "Tolvaptan crosses placenta but is harmless",
         "Pregnancy reverses SIADH spontaneously"
@@ -382,7 +382,7 @@
       "choices": [
         "Tolvaptan must be administered IV initially",
         "Tolvaptan triggers anaphylaxis on first exposure",
-        "Hospital initiation allows monitoring for overly rapid Na+ correction",
+        "Allows monitoring for overly rapid correction",
         "Tolvaptan requires sterile compounding",
         "Pharmacy regulations require it"
       ],
@@ -419,7 +419,7 @@
       "stem": "A 60-year-old man on conivaptan for SIADH is also on simvastatin for hyperlipidemia. The pharmacist flags a potential drug interaction. Which of the following best characterizes the conivaptan-simvastatin interaction?",
       "choices": [
         "Simvastatin lowers conivaptan efficacy",
-        "Conivaptan is a strong CYP3A4 inhibitor that raises simvastatin levels and rhabdomyolysis risk",
+        "Conivaptan inhibits CYP3A4, raising simvastatin levels",
         "Simvastatin causes conivaptan toxicity",
         "No clinically significant interaction",
         "The interaction protects against statin myopathy"
@@ -457,7 +457,7 @@
       "stem": "A 65-year-old woman with severe HFrEF (EF 20%) and hypervolemic hyponatremia (Na+ 124, weight gain 6 kg, edema, JVD) has not responded to loop diuretic + free water restriction. The team adds tolvaptan. Which of the following best characterizes the expected effect on EVEREST trial outcomes?",
       "choices": [
         "Tolvaptan reduces all-cause mortality in HFrEF",
-        "Tolvaptan improves Na+ and short-term symptoms but not mortality",
+        "Tolvaptan improves Na+ but not mortality",
         "Tolvaptan worsens HF outcomes",
         "Tolvaptan replaces guideline-directed HF therapy",
         "Tolvaptan reverses HF"
@@ -476,7 +476,7 @@
       "stem": "A 70-year-old man on tolvaptan for SIADH has stable Na+ for 6 months. He is now being prescribed grapefruit juice as part of a 'detox' diet by an alternative practitioner. Which of the following best characterizes the interaction?",
       "choices": [
         "Grapefruit juice reduces tolvaptan levels",
-        "Grapefruit juice (CYP3A4 inhibitor) raises tolvaptan levels and risks overcorrection / hepatotoxicity",
+        "Grapefruit juice inhibits CYP3A4, raising tolvaptan levels",
         "Grapefruit juice is unrelated to tolvaptan",
         "Grapefruit juice activates tolvaptan elimination",
         "Tolvaptan and grapefruit juice cancel each other"
@@ -495,7 +495,7 @@
       "stem": "A 60-year-old woman on chronic tolvaptan for SIADH presents with Na+ 116 mEq/L, weight gain, and headache. She admits to running out of tolvaptan 3 days ago and being unable to refill due to insurance issues. Which of the following best explains the rapid relapse of hyponatremia?",
       "choices": [
         "Tolvaptan tachyphylaxis",
-        "Reversal of V2 antagonism with rapid AQP2 reactivation and water reabsorption",
+        "Reversal of V2 antagonism",
         "Hepatotoxicity from tolvaptan withdrawal",
         "Drug-induced kidney injury",
         "Conversion to nephrogenic DI"
