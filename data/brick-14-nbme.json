@@ -1,0 +1,532 @@
+{
+  "id": 14,
+  "title": "Osmotic Diuretics",
+  "questions": [
+    {
+      "id": 1,
+      "stem": "A 30-year-old researcher is studying mannitol, the prototype osmotic diuretic. The diagram below summarizes its mechanism. Unlike loop or thiazide diuretics, mannitol does NOT inhibit any specific tubular transporter. Which of the following best describes the mechanism by which mannitol produces diuresis?",
+      "diagram": "<div class=\"dgm-title\">Mannitol — osmotic diuretic mechanism</div><div class=\"dgm-flow\"><div class=\"dgm-row\">Mannitol is freely filtered at the glomerulus</div><div class=\"dgm-row\">NOT reabsorbed and NOT metabolized along the tubule</div><div class=\"dgm-row\">Remains in tubular lumen, raising luminal osmolality</div><div class=\"dgm-row\">Water reabsorption is opposed (osmotic retention) at PCT, thin descending LoH, and CD</div><div class=\"dgm-row\">→ obligate water diuresis with smaller Na+ loss; relatively dilute urine</div></div>",
+      "choices": [
+        "Mannitol is freely filtered, neither reabsorbed nor metabolized along the nephron, and retains water in the tubular lumen by raising luminal osmolality — opposing water reabsorption at the proximal tubule, thin descending limb of Henle, and collecting duct. The net result is obligate water excretion (with proportionally smaller Na+ loss) producing relatively dilute urine",
+        "Direct inhibition of NKCC2 in the thick ascending limb",
+        "Direct inhibition of NCC in the distal convoluted tubule",
+        "Direct inhibition of ENaC in collecting duct principal cells",
+        "Direct stimulation of ANP secretion"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Mannitol is the prototype osmotic diuretic — a polysaccharide (M.W. 182) that is freely filtered, neither reabsorbed nor metabolized, and not bound to plasma proteins. Once in the tubular fluid, mannitol cannot leave (no transporter handles it) and raises luminal osmolality. This osmotic gradient retains water in the tubular fluid, opposing the normal water reabsorption that follows solute uptake. Sites of effect are the water-permeable segments: PCT, thin descending limb of Henle, and collecting duct (under ADH). Net effect: obligate water loss with proportionally smaller Na+ excretion (urine is relatively dilute, since water is lost faster than solute).",
+        "Incorrect. NKCC2 inhibition is the loop diuretic mechanism, distinct from osmotic diuresis.",
+        "Incorrect. NCC inhibition is the thiazide mechanism.",
+        "Incorrect. ENaC inhibition is the K+-sparing diuretic mechanism (amiloride, triamterene).",
+        "Incorrect. Mannitol does not stimulate ANP."
+      ]
+    },
+    {
+      "id": 2,
+      "stem": "A 28-year-old physiologist studies mannitol's site of action along the nephron. Mannitol exerts its osmotic effect at every nephron segment that is water-permeable. Which of the following segments contributes the LARGEST amount to mannitol-induced diuresis?",
+      "choices": [
+        "Thick ascending limb of Henle",
+        "Proximal convoluted tubule (which reabsorbs ~65% of filtered water under normal conditions and is highly water-permeable; mannitol's osmotic retention here produces the largest segment-specific effect)",
+        "Distal convoluted tubule",
+        "Cortical collecting duct",
+        "Bowman's capsule"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. The TAL is water-IMPERMEABLE; mannitol cannot exert an osmotic water-retention effect where water is not transported.",
+        "Correct. The proximal convoluted tubule reabsorbs ~65% of filtered water — the largest fraction of any nephron segment. The PCT is highly water-permeable (constitutive AQP1) and water reabsorption follows osmotically the active solute reabsorption. Mannitol in the PCT lumen raises luminal osmolality and opposes water reabsorption — accounting for most of mannitol's diuretic effect. Smaller contributions come from the thin descending limb of Henle (also AQP1-rich) and the collecting duct (under ADH). The water-impermeable TAL and DCT contribute little.",
+        "Incorrect. The DCT is not significantly water-permeable and contributes little to osmotic diuresis.",
+        "Incorrect. The collecting duct is water-permeable under ADH but reabsorbs a much smaller fraction than the PCT; it contributes some, but less than the PCT.",
+        "Incorrect. Bowman's capsule is the filtration site, not a water-reabsorbing segment."
+      ]
+    },
+    {
+      "id": 3,
+      "stem": "A 55-year-old man with severe traumatic brain injury and elevated intracranial pressure (ICP 28 mm Hg) receives intravenous mannitol 1 g/kg over 20 minutes. ICP falls to 14 mm Hg within 15 minutes — well before any significant diuresis. Which of the following best explains the rapid ICP-lowering effect of mannitol?",
+      "choices": [
+        "Mannitol directly opens vasopressin V2 receptors in the brain",
+        "Mannitol directly inhibits cerebrospinal fluid production",
+        "IV mannitol raises plasma osmolality, creating an osmotic gradient across the intact blood-brain barrier; water moves OUT of the brain (interstitial and cellular) into the plasma, reducing brain volume and ICP within minutes — well before the diuretic effect manifests. The effect is greatest where the BBB is INTACT; areas with disrupted BBB (e.g., contused brain) are less responsive",
+        "Mannitol directly contracts cerebral arteries",
+        "Mannitol increases CSF resorption at arachnoid villi"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Mannitol does not act on V2 receptors.",
+        "Incorrect. Mannitol does not directly inhibit CSF production.",
+        "Correct. Mannitol's rapid ICP-lowering effect is OSMOTIC, not diuretic. IV mannitol raises plasma osmolality (a 1 g/kg dose can raise it by ~10–20 mOsm/kg). The intact blood-brain barrier excludes mannitol from the brain interstitium, but allows water movement. The osmotic gradient draws water OUT of brain cells and interstitium INTO the plasma, reducing brain water content and ICP within minutes — well before any diuretic effect. The effect is most prominent in regions with INTACT BBB; in regions of contused/disrupted BBB, mannitol can leak in and theoretically worsen edema.",
+        "Incorrect. Mannitol does not directly contract cerebral arteries.",
+        "Incorrect. Mannitol does not affect arachnoid villi function."
+      ]
+    },
+    {
+      "id": 4,
+      "stem": "A 40-year-old man is admitted to the neurosurgical ICU after a severe motor vehicle accident with closed head injury. Initial CT shows diffuse cerebral edema with effacement of basal cisterns. ICP monitor shows pressures of 25–32 mm Hg. He receives mannitol 1 g/kg IV over 20 minutes; laboratory studies are obtained 1 hour after the bolus.",
+      "labs": [
+        { "name": "ICP", "value": "12 mm Hg (was 28)", "flag": "", "ref": "—" },
+        { "name": "Plasma osmolality", "value": "318 mOsm/kg (was 295)", "flag": "high", "ref": "275–295" },
+        { "name": "Plasma sodium", "value": "138 mEq/L (was 142)", "flag": "", "ref": "135–145" },
+        { "name": "Hemoglobin", "value": "11.5 g/dL (was 13.0)", "flag": "low", "ref": "—" },
+        { "name": "Urine output", "value": "300 mL in last hour", "flag": "high", "ref": "—" }
+      ],
+      "choices": [
+        "Mannitol caused acute kidney injury",
+        "Mannitol crossed the BBB and entered brain tissue, worsening edema",
+        "Mannitol triggered SIADH",
+        "Mannitol's IV administration raised plasma osmolality, drawing water from brain interstitium and intracellular space across the BBB into plasma — lowering ICP, transiently expanding plasma volume (hemodilution and lower hemoglobin), and producing a 'translational' fall in plasma sodium (water from cells dilutes plasma Na+); subsequent diuresis explains the high urine output",
+        "Mannitol elevated cerebral perfusion pressure by direct vasoconstriction"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. AKI from mannitol is rare with single bolus dosing; the changes here are physiologic shifts.",
+        "Incorrect. With intact BBB, mannitol does not cross significantly; the OSMOTIC gradient is what reduces brain water.",
+        "Incorrect. SIADH would feature euvolemic hyponatremia with concentrated urine and no diuresis; this patient has dilute urine and brisk diuresis.",
+        "Correct. The labs show classic mannitol pharmacology: (1) Pao osm rises (~318) due to circulating mannitol; (2) the osmotic gradient draws water from brain cells and interstitium across the intact BBB into plasma, reducing brain volume and ICP; (3) water from cells throughout the body also enters plasma, producing a transient 'translational' fall in plasma sodium (Na+ stays the same in mass but is diluted by added water) and hemodilution (lower hemoglobin); (4) the renal handling of mannitol then produces water-rich diuresis. Total body water and Na+ trend down over the next hours as the diuresis proceeds. Repeat dosing requires monitoring osm gap and serum osmolality (avoid >320 to limit nephrotoxicity).",
+        "Incorrect. Mannitol does not directly cause cerebral vasoconstriction; the ICP reduction is via brain water reduction."
+      ]
+    },
+    {
+      "id": 5,
+      "stem": "A 55-year-old man with severe TBI and elevated ICP is being managed in the neurocritical care unit. The team is choosing between IV mannitol and IV hypertonic saline (3% NaCl) for ICP control. Compared with mannitol, which row in the table best characterizes hypertonic saline?",
+      "choice_table": {
+        "headers": ["Acts on plasma osmolality?", "Effect on intravascular volume", "Risk of paradoxical effects in disrupted BBB"],
+        "rows": [
+          ["Yes, raises Posm", "Variable — initially expands, then volume contraction with diuresis (mannitol)", "Yes — can leak into damaged brain"],
+          ["Yes, raises Posm", "Sustained intravascular EXPANSION (hypertonic saline) — no obligate diuresis", "Less than mannitol; Na+ does not cross BBB easily"],
+          ["No effect on Posm", "Sustained expansion", "Same as mannitol"],
+          ["Yes, lowers Posm", "Volume depletion", "Worse than mannitol"],
+          ["No effect", "No effect", "No effect"]
+        ]
+      },
+      "choices": ["A", "B", "C", "D", "E"],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Row A describes MANNITOL — raises Posm but produces variable volume effect (initial expansion as water shifts out of cells, then volume contraction with diuresis); can leak across disrupted BBB.",
+        "Correct. Hypertonic saline (3% NaCl typically) raises plasma osmolality similarly to mannitol but expands intravascular volume in a SUSTAINED manner without causing obligate diuresis. Sodium does not readily cross the intact BBB, similar to mannitol, so the osmotic effect on the brain is comparable. Hypertonic saline may be preferred over mannitol in: hypovolemic patients (avoiding mannitol-induced volume contraction), patients with renal failure (no need for renal excretion), and possibly patients with disrupted BBB (less rebound theoretically). Both are effective for ICP reduction; clinical trials have shown comparable efficacy. Hypertonic saline maintains hemodynamics better than mannitol.",
+        "Incorrect. Both mannitol and hypertonic saline raise plasma osmolality.",
+        "Incorrect. Hypertonic saline raises (not lowers) plasma osmolality and does not cause volume depletion.",
+        "Incorrect. Both mannitol and hypertonic saline have substantial effects on plasma osmolality and volume."
+      ]
+    },
+    {
+      "id": 6,
+      "stem": "A 65-year-old man with acute angle-closure glaucoma has marked elevation of intraocular pressure (IOP 55 mm Hg) refractory to topical agents. IV mannitol is administered. Which of the following best explains the mechanism of IOP reduction?",
+      "choices": [
+        "IV mannitol raises plasma osmolality, creating an osmotic gradient across the blood-aqueous barrier; water moves out of the aqueous and vitreous humor into plasma, reducing intraocular volume and pressure within 30–60 minutes. Effect is similar in principle to mannitol's action on cerebral edema",
+        "Mannitol directly contracts the ciliary body",
+        "Mannitol opens trabecular meshwork outflow",
+        "Mannitol blocks aqueous humor production by ciliary body",
+        "Mannitol causes pupillary constriction"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. The same osmotic principle that reduces cerebral edema reduces intraocular pressure. IV mannitol raises plasma osmolality; the osmotic gradient across the blood-aqueous and blood-vitreous barriers draws water out of the eye into plasma, reducing intraocular volume and pressure within 30–60 minutes. IOP reduction is rapid and substantial. Used as adjunctive therapy in acute angle-closure glaucoma (along with topical β-blockers, α-agonists, prostaglandin analogs, miotics, and definitive treatment with laser iridotomy or surgery). Oral glycerol can serve a similar purpose for less severe IOP elevations.",
+        "Incorrect. Mannitol does not directly contract the ciliary body.",
+        "Incorrect. Mannitol does not principally affect trabecular outflow.",
+        "Incorrect. Aqueous humor production reduction is the mechanism of carbonic anhydrase inhibitors (acetazolamide) and β-blockers (timolol).",
+        "Incorrect. Mannitol does not affect pupillary size."
+      ]
+    },
+    {
+      "id": 7,
+      "stem": "A 40-year-old man receives IV mannitol 1 g/kg over 30 minutes for cerebral edema. Plasma sodium falls from 142 to 132 mEq/L within an hour. Which of the following best explains the mechanism of this 'translational' hyponatremia?",
+      "choices": [
+        "Mannitol stimulates posterior pituitary ADH release",
+        "Mannitol raises plasma osmolality, creating an osmotic gradient; water moves OUT of cells throughout the body INTO plasma. The added water dilutes plasma sodium (no net change in total body Na+; the Na+ is just being measured in a larger plasma water volume). This is termed 'translational' or 'redistributive' hyponatremia and is a NORMAL physiologic response to mannitol — distinct from true hyponatremia",
+        "Mannitol directly inhibits Na+/K+-ATPase",
+        "Mannitol shifts intracellular Na+ out of cells",
+        "Mannitol directly destroys plasma sodium"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Mannitol does not principally affect ADH release; the hyponatremia mechanism is osmotic shift.",
+        "Correct. Mannitol raises plasma osmolality without crossing cell membranes. The osmotic gradient draws water OUT of cells (where intracellular osmolality is lower) INTO plasma. The added water in plasma DILUTES plasma sodium without changing total body Na+. This 'translational' or 'redistributive' hyponatremia is a normal physiologic response to mannitol (and to hyperglycemia, which works the same way). It is distinct from true Na+ deficit hyponatremia and corrects spontaneously as mannitol is excreted. Plasma OSMOLALITY is HIGH (not low) — distinguishing this from hypotonic hyponatremia.",
+        "Incorrect. Mannitol does not affect Na+/K+-ATPase.",
+        "Incorrect. The shift is of WATER, not Na+; intracellular Na+ does not move.",
+        "Incorrect. Mannitol does not destroy plasma sodium; the Na+ is still there but diluted."
+      ]
+    },
+    {
+      "id": 8,
+      "stem": "A 65-year-old patient receives mannitol for cerebral edema and develops mild hyperkalemia (K+ 5.4) within 2 hours. Which of the following best explains the mechanism of mannitol-associated hyperkalemia?",
+      "choices": [
+        "Mannitol directly inhibits ENaC",
+        "Mannitol directly stimulates aldosterone synthesis",
+        "Mannitol's osmotic shift draws water OUT of cells; as cells contract, intracellular K+ flows down its concentration gradient into the ECF (a process termed 'solvent drag' through cation channels). Mild hyperkalemia is common after large mannitol doses and is generally transient; severe hyperkalemia is uncommon",
+        "Mannitol directly inhibits Na+/K+-ATPase",
+        "Mannitol enhances renal K+ retention"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Mannitol does not directly act on ENaC.",
+        "Incorrect. Mannitol does not directly stimulate aldosterone.",
+        "Correct. Mannitol's osmotic effect draws water out of cells. As cellular water decreases, intracellular K+ concentration rises transiently, providing a steeper gradient for K+ to diffuse out of cells (through K+ channels) into the ECF. Plasma K+ rises modestly. The same mechanism contributes to hyperglycemia-induced hyperkalemia. Severe hyperkalemia from mannitol is uncommon but can occur with high doses or pre-existing K+ retention (renal failure, RAAS blockade).",
+        "Incorrect. Mannitol does not directly inhibit Na+/K+-ATPase.",
+        "Incorrect. Mannitol does not enhance renal K+ retention; it produces a diuresis with K+ excretion."
+      ]
+    },
+    {
+      "id": 9,
+      "stem": "A 50-year-old patient receives IV mannitol 1 g/kg as a rapid bolus for cerebral edema. Compared with baseline, which row in the table best characterizes the IMMEDIATE plasma changes (within the first 30 minutes after the bolus)?",
+      "choice_table": {
+        "headers": ["Plasma osmolality", "Plasma sodium", "Plasma volume"],
+        "rows": [
+          ["up", "down", "up"],
+          ["up", "up", "up"],
+          ["down", "down", "down"],
+          ["up", "down", "down"],
+          ["unchanged", "unchanged", "unchanged"]
+        ]
+      },
+      "choices": ["A", "B", "C", "D", "E"],
+      "answer": 0,
+      "explanations": [
+        "Correct. Within the first 30 minutes after IV mannitol bolus: (1) plasma osmolality RISES due to circulating mannitol; (2) plasma sodium FALLS (translational hyponatremia — water shifts from cells into plasma, diluting Na+ without changing total body Na+); (3) plasma volume RISES (intracellular water shifts into the vascular compartment, expanding it). This volume expansion can precipitate pulmonary edema in patients with poor cardiac reserve (a key reason mannitol is contraindicated in HF). Over the subsequent hours, mannitol-induced diuresis reverses the volume expansion and shifts toward volume contraction.",
+        "Incorrect. Plasma sodium FALLS (translational dilution), not rises.",
+        "Incorrect. Mannitol RAISES plasma osmolality.",
+        "Incorrect. Plasma volume rises initially as water shifts from cells; it falls only LATER with diuresis.",
+        "Incorrect. Mannitol produces clear immediate effects on all three parameters."
+      ]
+    },
+    {
+      "id": 10,
+      "stem": "A 75-year-old man with chronic systolic heart failure (EF 25%) is given IV mannitol 1 g/kg for unrelated cerebral edema. Within 15 minutes he develops acute respiratory distress, hypoxemia, and frothy pink sputum. Which of the following best explains the mechanism of acute pulmonary edema in this patient?",
+      "choices": [
+        "Mannitol directly damages alveolar epithelium",
+        "Mannitol releases histamine acutely",
+        "Mannitol triggered an anaphylactic reaction",
+        "IV mannitol acutely expands plasma volume (water shifts from cells into plasma in response to the osmotic load); in patients with poor cardiac reserve, the abrupt volume expansion can precipitate acute pulmonary edema BEFORE the diuresis manifests. This is a major reason mannitol is relatively contraindicated in HF and pulmonary edema",
+        "Mannitol crosses the alveolar membrane and pulls water into airspaces"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Mannitol does not damage alveolar epithelium directly.",
+        "Incorrect. Mannitol is not a histamine-releasing agent.",
+        "Incorrect. Anaphylaxis to mannitol is exceedingly rare.",
+        "Correct. Mannitol's osmotic effect draws water from intracellular and interstitial compartments into the plasma. In a healthy person this is well-tolerated. In a patient with HFrEF (poor cardiac reserve) or pre-existing volume overload, the abrupt plasma volume expansion can precipitate acute pulmonary edema BEFORE the diuretic effect manifests. This is a key relative contraindication. Hypertonic saline, which expands volume more sustainably, has similar concerns but its volume effect is more predictable. Patients with HF requiring osmotic therapy for cerebral edema may be better served by hypertonic saline with careful monitoring.",
+        "Incorrect. Mannitol does not principally enter alveolar airspaces."
+      ]
+    },
+    {
+      "id": 11,
+      "stem": "A 70-year-old man with end-stage renal disease (anuric, on hemodialysis) is given IV mannitol 1 g/kg for cerebral edema after a stroke. He had been off dialysis for 3 days. Several hours later he develops worsening pulmonary edema and hypoxemia. Laboratory studies are shown.",
+      "labs": [
+        { "name": "Plasma osmolality", "value": "345 mOsm/kg", "flag": "high", "ref": "275–295" },
+        { "name": "Osmolar gap", "value": "Markedly elevated", "flag": "high", "ref": "<10" },
+        { "name": "Plasma sodium", "value": "128 mEq/L", "flag": "low", "ref": "135–145" },
+        { "name": "Plasma potassium", "value": "5.8 mEq/L", "flag": "high", "ref": "3.5–5.0" },
+        { "name": "Urine output", "value": "0 mL (anuric)", "flag": "low", "ref": "—" },
+        { "name": "Serum creatinine", "value": "8.4 mg/dL", "flag": "high", "ref": "—" }
+      ],
+      "choices": [
+        "Mannitol caused acute pulmonary edema from intravenous fluid administration",
+        "Stroke caused worsening edema unrelated to mannitol",
+        "Acute hemolysis from a transfusion reaction",
+        "Volume overload from concurrent IV fluids",
+        "Mannitol was given to an ANURIC patient who cannot excrete it. Mannitol therefore stays in the plasma, sustains its osmotic effect, continues to draw water from cells, expands plasma volume cumulatively, and causes refractory pulmonary edema, hyponatremia, hyperkalemia, and rising plasma osmolality. ANURIA IS AN ABSOLUTE CONTRAINDICATION TO MANNITOL — without renal excretion, the drug cannot be removed from the body except by hemodialysis (mannitol is dialyzable)"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. While volume effects are part of the picture, the BEST answer specifies WHY this patient was particularly affected — namely, anuria.",
+        "Incorrect. The acute decompensation is temporally tied to mannitol administration in an anuric patient.",
+        "Incorrect. Hemolysis would feature elevated bilirubin, low haptoglobin, elevated LDH — not seen here.",
+        "Incorrect. Mannitol itself is the volume load; it is not 'concurrent IV fluids' producing the picture.",
+        "Correct. ANURIA is an ABSOLUTE contraindication to mannitol because there is no route of excretion. Without renal clearance, plasma mannitol levels rise progressively, sustaining the osmotic gradient and continuously drawing water from cells into plasma. The result is cumulative volume expansion (refractory pulmonary edema in this case), persistent translational hyponatremia, hyperkalemia (water shifts cellular K+ out), elevated plasma osmolality, and a markedly elevated osmolar gap. Hemodialysis can remove mannitol if the patient is in extremis. Mannitol must NEVER be given to anuric patients without a plan for its removal."
+      ]
+    },
+    {
+      "id": 12,
+      "stem": "A 60-year-old woman receives multiple high doses of IV mannitol (>200 g/day for 4 days) for refractory cerebral edema. She develops new-onset acute kidney injury with vacuolated tubular epithelial cells on biopsy ('osmotic nephrosis'). Which of the following best explains the mechanism of mannitol-induced AKI?",
+      "choices": [
+        "High filtered loads of mannitol cannot be reabsorbed and persist in the tubular fluid; tubular epithelial cells take up mannitol by pinocytosis, accumulating osmotically active vacuoles ('osmotic nephrosis'). Cells swell and dysfunction. Mannitol can also produce afferent vasoconstriction and renal medullary hypoxia at high doses. Risk factors: total dose >200 g/day, prolonged therapy, pre-existing renal dysfunction, plasma osm >320. Avoiding excessive cumulative dose and monitoring osm gap minimize this risk",
+        "Mannitol crystallizes in the tubular lumen",
+        "Mannitol directly damages the glomerular basement membrane",
+        "Mannitol triggers an autoimmune reaction in the kidney",
+        "Mannitol blocks renal blood flow"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. 'Osmotic nephrosis' is a well-recognized adverse effect of high-dose mannitol therapy. Tubular epithelial cells take up mannitol from the tubular fluid by pinocytosis, accumulating osmotically active intracellular vacuoles. Cells swell and tubular function is impaired, producing AKI. Additional mechanisms include mannitol-induced afferent arteriolar vasoconstriction (through prostaglandin and other mediators) and medullary hypoxia. Risk factors: total daily dose >200 g, prolonged therapy, pre-existing renal dysfunction, plasma osmolality >320 mOsm/kg. Monitoring serum osmolality (target <320) and osmolar gap, and limiting cumulative dose, reduce this risk. Other agents associated with osmotic nephrosis: IV immunoglobulin (sucrose vehicle), hydroxyethyl starch, dextran.",
+        "Incorrect. Mannitol does not crystallize in the lumen at therapeutic doses.",
+        "Incorrect. Mannitol does not damage the GBM.",
+        "Incorrect. Mannitol does not trigger autoimmune renal disease.",
+        "Incorrect. While afferent vasoconstriction can occur at high doses, the principal lesion is tubular (osmotic nephrosis)."
+      ]
+    },
+    {
+      "id": 13,
+      "stem": "A 50-year-old man receives mannitol 0.5 g/kg every 6 hours for 48 hours for sustained intracranial hypertension. By day 3 his serum sodium has risen from 140 to 154 mEq/L. Which of the following best explains the development of hypernatremia in this patient?",
+      "choices": [
+        "Direct stimulation of ADH secretion by mannitol",
+        "Sustained mannitol-induced osmotic diuresis produces obligate water loss in excess of Na+ loss (mannitol is excreted with relatively dilute urine because it draws water along osmotically without proportional Na+); over time, this 'free water' loss raises plasma sodium and produces hypernatremia. The translational hyponatremia of acute boluses converts to hypernatremia with prolonged therapy",
+        "Mannitol increases renal Na+ reabsorption",
+        "Mannitol activates aldosterone synthesis",
+        "Mannitol blocks free water excretion"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Mannitol does not principally stimulate ADH secretion.",
+        "Correct. Sustained mannitol therapy produces a paradoxical evolution of plasma sodium: acute boluses cause TRANSLATIONAL hyponatremia (water shifts from cells into plasma, diluting Na+); but with sustained therapy, the obligate osmotic diuresis loses MORE water than Na+ (because mannitol's osmotic effect draws water in proportion to luminal mannitol but Na+ excretion is only modestly elevated). Over time, total body water is depleted faster than total body Na+, producing hypernatremia. This shift from 'translational hyponatremia' to 'true hypernatremia' is a recognized pattern. Monitoring requires careful tracking of plasma sodium AND osmolality with the osmolar gap to estimate mannitol contribution.",
+        "Incorrect. Mannitol does not enhance renal Na+ reabsorption.",
+        "Incorrect. Mannitol does not directly activate aldosterone.",
+        "Incorrect. Mannitol promotes (rather than blocks) free water excretion via osmotic diuresis."
+      ]
+    },
+    {
+      "id": 14,
+      "stem": "A 40-year-old man is studying the pharmacokinetics of mannitol. Which of the following best characterizes the renal handling and elimination of mannitol?",
+      "choices": [
+        "Mannitol is extensively metabolized by liver enzymes",
+        "Mannitol is excreted unchanged via tubular secretion",
+        "Mannitol is freely filtered at the glomerulus and is neither reabsorbed nor metabolized along the nephron; ~80% is excreted in the urine within 3 hours of IV bolus, with a half-life of ~100 minutes in patients with normal renal function. Adjusting dose for renal failure is essential because mannitol cannot exit the body without renal excretion (or hemodialysis)",
+        "Mannitol is excreted unchanged in bile",
+        "Mannitol undergoes biliary recycling"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Mannitol is not appreciably metabolized.",
+        "Incorrect. Mannitol is not actively secreted; it is freely filtered.",
+        "Correct. Mannitol is freely filtered at the glomerulus, neither reabsorbed nor secreted by the renal tubule, and not metabolized. ~80% is excreted in urine within 3 hours of an IV bolus, with a half-life of ~100 minutes in patients with normal renal function. In renal failure the half-life is markedly prolonged, and mannitol can accumulate to dangerous levels — making careful dose adjustment critical. Hemodialysis can remove mannitol if needed (e.g., in an anuric patient inadvertently given the drug).",
+        "Incorrect. Mannitol is not excreted in bile.",
+        "Incorrect. Mannitol does not undergo biliary recycling."
+      ]
+    },
+    {
+      "id": 15,
+      "stem": "A 65-year-old man develops a large hemorrhagic stroke with mass effect and elevated ICP. He has uncontrolled hypertension and the team is considering mannitol versus hypertonic saline for ICP control. Which of the following best characterizes mannitol use in this setting?",
+      "choices": [
+        "Mannitol is absolutely contraindicated in any intracerebral hemorrhage",
+        "Mannitol is the first-line agent for any patient with ICH",
+        "Mannitol is generally safe in established ICH and is widely used for elevated ICP from mass effect; its osmotic effect is preserved despite intracerebral blood. Some prefer hypertonic saline in this setting because of its better volume support (some ICH patients are hypertensive and benefit from volume; some are hypovolemic from osmotic diuresis). Both are reasonable; choice depends on hemodynamic and renal factors",
+        "Mannitol crosses the BBB everywhere, making it useless for ICP",
+        "Mannitol triggers more bleeding in ICH"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. ICH is not an absolute contraindication; mannitol is widely used for elevated ICP from mass effect after ICH.",
+        "Incorrect. Both mannitol and hypertonic saline are reasonable; some prefer hypertonic saline for the hemodynamic profile.",
+        "Correct. Mannitol can be used safely for elevated ICP in established ICH, and its osmotic effect is preserved. Some clinicians prefer hypertonic saline in ICH for the more sustained intravascular volume support (some ICH patients are hypovolemic, and mannitol's diuresis can worsen this). Both are reasonable; choice depends on the patient's hemodynamic status, renal function, and other factors. Recent guidelines accept either, with hypertonic saline gaining favor in many neurocritical care contexts.",
+        "Incorrect. Mannitol does NOT cross the BBB at intact regions; this is what makes it useful.",
+        "Incorrect. Mannitol does not directly trigger more ICH bleeding; the osmotic effect is on water, not on hemostasis."
+      ]
+    },
+    {
+      "id": 16,
+      "stem": "A 78-year-old woman with HFrEF (EF 25%) and severe mitral regurgitation is to receive osmotic therapy for cerebral edema. Her clinician is concerned about her cardiac reserve. Which of the following best characterizes the use of mannitol in heart failure?",
+      "choices": [
+        "Mannitol is the agent of choice for cerebral edema in HF",
+        "Mannitol has minimal volume effects and is well-tolerated in HF",
+        "Mannitol's renal excretion is preserved in HF",
+        "Mannitol's diuresis is small and does not affect HF",
+        "Mannitol is RELATIVELY CONTRAINDICATED in heart failure because the acute volume expansion (water shifts from cells into plasma after IV bolus) can precipitate acute pulmonary edema before the diuretic effect manifests. The subsequent diuresis can also produce volume contraction, which may further compromise cardiac output. Hypertonic saline has similar concerns; in HF patients with cerebral edema, both agents require careful hemodynamic monitoring and reduced/divided dosing"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. Mannitol is RELATIVELY CONTRAINDICATED in HF, not the agent of choice.",
+        "Incorrect. Mannitol has SIGNIFICANT acute volume effects.",
+        "Incorrect. Mannitol's renal excretion is preserved as long as kidney function is preserved, but the volume effects predate any excretion.",
+        "Incorrect. Mannitol diuresis can be substantial.",
+        "Correct. Mannitol is RELATIVELY CONTRAINDICATED in heart failure due to its acute volume effects: IV bolus expands plasma volume (water shifts from cells), which can precipitate acute pulmonary edema in patients with poor cardiac reserve BEFORE the diuretic effect manifests. The subsequent diuresis can also produce volume contraction, which may compromise forward output. In HF patients requiring osmotic therapy for cerebral edema, hypertonic saline (with similar but somewhat different volume profile) is sometimes preferred; both require close monitoring and may use reduced/divided dosing."
+      ]
+    },
+    {
+      "id": 17,
+      "stem": "A 50-year-old researcher is reviewing historical uses of mannitol for 'forced diuresis' in poisoning. Which of the following best characterizes contemporary use of mannitol for drug overdose?",
+      "choices": [
+        "Mannitol is no longer recommended for forced diuresis in most poisonings; it has been replaced by other supportive measures (hemodialysis for dialyzable toxins, urinary alkalinization with sodium bicarbonate for weak acid poisonings such as salicylate). Mannitol's volume effects (initial expansion, then contraction) are difficult to manage and offer little advantage over modern alternatives",
+        "Mannitol is first-line for all drug overdoses",
+        "Mannitol is the principal treatment for salicylate overdose",
+        "Mannitol is used to alkalinize urine for amphetamine overdose",
+        "Mannitol triggers vomiting that helps remove ingested toxins"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. 'Forced diuresis' with mannitol was historically used for some drug overdoses to enhance renal excretion, but is no longer recommended for most poisonings. Modern alternatives include: (1) urinary alkalinization with sodium bicarbonate for weak-acid poisonings (salicylate, methotrexate, phenobarbital) — ion-trapping increases excretion; (2) hemodialysis for dialyzable toxins (lithium, salicylate, alcohols, theophylline); (3) supportive care and specific antidotes (acetylcysteine for acetaminophen, naloxone for opioids, etc.). Mannitol's complex volume effects (acute expansion followed by contraction) and potential for AKI offer little advantage over these alternatives.",
+        "Incorrect. Mannitol is not first-line for any common overdose.",
+        "Incorrect. Salicylate overdose is treated with bicarbonate-driven alkalinization and dialysis if severe.",
+        "Incorrect. Amphetamine overdose is treated symptomatically (cooling, sedation); urinary acidification was historic but no longer recommended.",
+        "Incorrect. Mannitol does not principally cause vomiting."
+      ]
+    },
+    {
+      "id": 18,
+      "stem": "A 50-year-old patient receiving mannitol therapy has a measured plasma osmolality of 320 mOsm/kg with a calculated osmolality (2 × Na+ + glucose/18 + BUN/2.8) of 290. The osmolar gap is 30. Which of the following best explains the elevated osmolar gap in this patient?",
+      "choices": [
+        "Mannitol contributes to MEASURED osmolality (which depends on actual osmotically active particles in plasma) but is NOT included in the CALCULATED formula (which assumes only Na+, glucose, and urea are present). The osmolar gap (measured minus calculated) therefore reflects the contribution of unmeasured osmoles such as mannitol. Monitoring the osmolar gap during mannitol therapy estimates plasma mannitol concentration and helps guide dosing decisions",
+        "The patient is hyperglycemic",
+        "The patient is uremic",
+        "The patient has occult ethanol ingestion",
+        "Lab error in measuring osmolality"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. The osmolar gap (measured minus calculated osmolality) detects unmeasured osmoles in plasma. The calculated formula (2 × Na+ + glucose/18 + BUN/2.8) accounts only for Na+ + accompanying anions, glucose, and urea. Other osmotically active substances — mannitol, ethanol, methanol, ethylene glycol, isopropyl alcohol, etc. — contribute to the MEASURED osmolality but are NOT in the calculation. The osmolar gap therefore quantifies the additional contribution. During mannitol therapy, the gap can be used to estimate plasma mannitol concentration; some clinicians limit therapy when the gap exceeds a threshold (e.g., 20 mOsm/kg) to minimize osmotic nephrosis risk.",
+        "Incorrect. Hyperglycemia is INCLUDED in the calculated formula (glucose/18); it would not produce a gap.",
+        "Incorrect. Uremia is INCLUDED in the calculated formula (BUN/2.8); it would not produce a gap.",
+        "Incorrect. Possible but less likely in this clinical setting; the obvious cause is the ongoing mannitol therapy.",
+        "Incorrect. The pattern is internally consistent with mannitol contribution; lab error is unlikely."
+      ]
+    },
+    {
+      "id": 19,
+      "stem": "A 60-year-old man with TBI receives mannitol every 6 hours for ICP control. After 3 days, ICP rises despite continued mannitol therapy and the team notes that each dose produces less ICP reduction than the prior. Which of the following best explains the diminished response (so-called 'rebound' or tolerance)?",
+      "choices": [
+        "Mannitol is being absorbed by the GI tract",
+        "Patient developed antibodies to mannitol",
+        "With repeated doses, mannitol slowly leaks across damaged BBB into brain interstitium and cells, equilibrating with brain water; the osmotic gradient that originally drew water OUT of brain is now reduced — and may even REVERSE if mannitol concentrates in brain tissue, theoretically worsening edema. Brain cells also produce 'idiogenic osmoles' to maintain volume against chronic hyperosmolar plasma. Strategies: limit dose and frequency, monitor osmolality, consider rotating to hypertonic saline",
+        "Renal function decline reduces mannitol delivery to brain",
+        "Mannitol is degraded by brain enzymes"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Mannitol is given IV; GI absorption is not relevant.",
+        "Incorrect. Antibody-mediated reactions to mannitol are exceedingly rare.",
+        "Correct. The 'rebound' or tolerance phenomenon with repeated mannitol dosing has several mechanisms: (1) with disrupted BBB (TBI, contusion), mannitol slowly leaks INTO brain interstitium with repeated doses, dissipating the osmotic gradient and theoretically worsening edema; (2) brain cells produce 'idiogenic osmoles' (organic solutes — myoinositol, glutamine, taurine) to defend their volume against chronic plasma hyperosmolality, reducing further water loss; (3) plasma osmolality may exceed therapeutic range, providing diminishing returns. Strategies: limit dose and frequency, monitor serum osmolality and osm gap, consider rotation to hypertonic saline, and ensure other ICP measures (head elevation, ventilation) are optimized.",
+        "Incorrect. Renal function decline would REDUCE clearance and INCREASE plasma mannitol, not diminish ICP response per dose.",
+        "Incorrect. Mannitol is not degraded by brain enzymes."
+      ]
+    },
+    {
+      "id": 20,
+      "stem": "A 50-year-old man with TBI and elevated ICP receives mannitol. Which of the following is the most appropriate IV bolus dose for cerebral edema management?",
+      "choices": [
+        "0.05 g/kg",
+        "0.1 g/kg",
+        "0.15 g/kg",
+        "0.25–1 g/kg as IV bolus over 15–30 minutes; effect lasts 4–6 hours; may be repeated every 4–6 hours; cumulative dose limited to keep serum osmolality <320 mOsm/kg and avoid osmotic nephrosis",
+        "10 g/kg"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Doses this low are below the typical therapeutic range.",
+        "Incorrect. Below typical dose.",
+        "Incorrect. Below typical dose.",
+        "Correct. Standard IV mannitol dosing for cerebral edema is 0.25–1 g/kg as a bolus over 15–30 minutes. Effect on ICP begins within 15 minutes, peaks at ~1 hour, and lasts 4–6 hours. Doses can be repeated every 4–6 hours. Important monitoring: serum osmolality (target <320; higher levels increase osmotic nephrosis risk), osmolar gap (proxy for plasma mannitol level), serum sodium, urine output, renal function. Cumulative daily dose typically limited to <200 g/day. In refractory cases, hypertonic saline can be added or substituted.",
+        "Incorrect. 10 g/kg would be 10–40× the standard dose and cause severe complications."
+      ]
+    },
+    {
+      "id": 21,
+      "stem": "A 60-year-old man with type 2 diabetes is started on empagliflozin (an SGLT2 inhibitor). His clinician notes that the drug produces a modest natriuresis and weight loss in addition to glucose lowering. Which of the following best characterizes the 'osmotic-like' diuretic effect of SGLT2 inhibitors?",
+      "choices": [
+        "SGLT2 inhibitors block SGLT2 in the early proximal tubule, preventing reabsorption of filtered glucose. Glucose remains in tubular fluid and acts as an OSMOTIC AGENT (analogous to mannitol or hyperglycemia-induced osmotic diuresis), producing diuresis and natriuresis. The diuresis is modest and usually well-tolerated. SGLT2 inhibitors also have direct cardiorenal benefits beyond glucose-lowering, including reduced HF hospitalization and slowed CKD progression; they may even be effective in non-diabetic CKD",
+        "SGLT2 inhibitors directly inhibit NKCC2",
+        "SGLT2 inhibitors stimulate ADH release",
+        "SGLT2 inhibitors directly activate ENaC",
+        "SGLT2 inhibitors stimulate calcitonin secretion"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. SGLT2 inhibitors (empagliflozin, dapagliflozin, canagliflozin, ertugliflozin) block SGLT2 in the early proximal tubule, preventing reabsorption of ~90% of filtered glucose. Glucose remains in tubular fluid, where it acts as an OSMOTIC AGENT — analogous to mannitol or to hyperglycemic osmotic diuresis. The osmotic effect produces modest diuresis (~300–500 mL/day) and natriuresis, contributing to BP-lowering and weight loss alongside glucose-lowering. Beyond their direct effects, SGLT2 inhibitors have remarkable benefits in HFrEF, HFpEF, and CKD (DAPA-HF, EMPEROR-Reduced, EMPA-KIDNEY trials), reducing HF hospitalization and slowing CKD progression — even in non-diabetic patients. The mechanisms include osmotic-like effects, increased SNGFR via TGF-mediated afferent constriction (reducing hyperfiltration), and direct cardiac effects.",
+        "Incorrect. SGLT2 inhibitors do not block NKCC2.",
+        "Incorrect. SGLT2 inhibitors do not stimulate ADH release.",
+        "Incorrect. SGLT2 inhibitors do not directly activate ENaC.",
+        "Incorrect. SGLT2 inhibitors do not affect calcitonin."
+      ]
+    },
+    {
+      "id": 22,
+      "stem": "A 19-year-old woman with newly diagnosed type 1 diabetes presents in DKA. She has had polyuria and polydipsia for 2 weeks. Laboratory studies are shown.",
+      "labs": [
+        { "name": "Plasma glucose", "value": "580 mg/dL", "flag": "high", "ref": "—" },
+        { "name": "Plasma osmolality", "value": "310 mOsm/kg", "flag": "high", "ref": "—" },
+        { "name": "Plasma sodium", "value": "131 mEq/L", "flag": "low", "ref": "—" },
+        { "name": "Urine glucose", "value": "Markedly elevated (>1000 mg/dL)", "flag": "high", "ref": "—" },
+        { "name": "Urine output", "value": "5 L/day for past 5 days", "flag": "high", "ref": "—" },
+        { "name": "Serum BUN", "value": "32 mg/dL", "flag": "high", "ref": "—" }
+      ],
+      "choices": [
+        "Glucose-induced osmotic diuresis: at plasma glucose >180 mg/dL, the filtered load exceeds the proximal tubular capacity for glucose reabsorption (Tm). Excess filtered glucose remains in tubular fluid and acts as an OSMOTIC AGENT (analogous to mannitol), drawing water along with it. The result is polyuria with proportionally greater water than Na+ loss; over days, this produces volume depletion and tendency toward hypernatremia (although the translational shift from hyperglycemia initially produces hyponatremia, sustained diuresis tilts toward hypernatremia)",
+        "SIADH from CNS process",
+        "Cerebral salt wasting",
+        "Primary polydipsia",
+        "Acute kidney injury alone"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Glucose acts as a 'natural' osmotic diuretic when plasma glucose exceeds the renal threshold (~180 mg/dL). Filtered glucose exceeds the proximal tubule's reabsorption capacity (Tm-glucose); the excess remains in tubular fluid and acts osmotically — analogous to mannitol. Water is retained in the lumen, producing polyuria. Each gram of glucose excreted obligately carries ~14 mL of water with it. Over time, this produces volume depletion, total body Na+ loss (smaller than water loss), and tendency toward HYPERNATREMIA (although hyperglycemia initially produces TRANSLATIONAL hyponatremia by drawing water out of cells; the sustained osmotic diuresis tilts toward dehydration and hypernatremia). The sodium of 131 in this patient reflects the dynamic balance — translational hyponatremia from hyperglycemia partially offsetting the underlying water deficit.",
+        "Incorrect. SIADH features EUVOLEMIC hyponatremia with concentrated urine; this patient has volume depletion and dilute polyuria.",
+        "Incorrect. CSW occurs in CNS disease; this patient has DKA, with osmotic diuresis from glucose.",
+        "Incorrect. Primary polydipsia features dilute urine without glucosuria.",
+        "Incorrect. AKI alone would not produce massive polyuria with glucosuria; the osmotic effect of glucose is what drives the picture."
+      ]
+    },
+    {
+      "id": 23,
+      "stem": "A 70-year-old man with chronic kidney disease (eGFR 22 mL/min/1.73 m²) develops cerebral edema and elevated ICP. Mannitol is being considered. Which of the following best characterizes the use of mannitol in CKD?",
+      "choices": [
+        "Mannitol is the first-line agent in CKD-related cerebral edema",
+        "Reduced GFR limits mannitol excretion, prolonging its half-life and increasing the risk of accumulation, persistent hyperosmolality, and osmotic nephrosis with possible acute worsening of CKD. Mannitol can still be used in CKD with reduced doses and careful monitoring of plasma osmolality and osm gap; hypertonic saline may be a safer alternative because it does not depend on renal excretion",
+        "Mannitol is preferentially excreted in CKD",
+        "Mannitol has shorter half-life in CKD",
+        "Mannitol is contraindicated only in stage 5 CKD"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Mannitol is RELATIVELY contraindicated and not first-line in CKD.",
+        "Correct. Mannitol's elimination is entirely renal (freely filtered, neither reabsorbed nor metabolized). In CKD, reduced GFR prolongs the half-life and increases the risk of accumulation, persistent hyperosmolality, and osmotic nephrosis (which can acutely worsen renal function). Mannitol CAN be used in CKD with reduced doses, careful monitoring of plasma osmolality (target <320), and tracking of the osmolar gap (estimating plasma mannitol concentration). Hypertonic saline is often preferred in CKD because it does not depend on renal clearance for elimination.",
+        "Incorrect. Mannitol excretion is REDUCED in CKD.",
+        "Incorrect. Mannitol's half-life is LONGER in CKD.",
+        "Incorrect. Mannitol caution is appropriate at all stages of CKD; it is not specifically permitted at stage 4 and below."
+      ]
+    },
+    {
+      "id": 24,
+      "stem": "A 60-year-old man with TBI has elevated ICP. The team considers furosemide (a loop diuretic) versus mannitol. Which of the following best characterizes the comparison of these two diuretics for ICP control?",
+      "choices": [
+        "Furosemide is equally effective and the agent of choice for ICP",
+        "Mannitol is contraindicated and furosemide is the standard",
+        "Mannitol is the standard agent for acute ICP elevation due to its osmotic mechanism (rapidly lowers ICP within minutes via osmotic shift of water from brain). Furosemide alone has only modest, slow effect on ICP through volume contraction and less direct osmotic gradient. Furosemide is sometimes added to mannitol to enhance renal excretion of the mannitol-mobilized water (synergistic), but it is not a replacement",
+        "Furosemide and mannitol have identical mechanisms",
+        "Both are equally contraindicated in ICP elevation"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Furosemide alone is much less effective than mannitol or hypertonic saline for acute ICP elevation.",
+        "Incorrect. Mannitol is the STANDARD osmotic agent (alongside hypertonic saline); furosemide alone is not.",
+        "Correct. Mannitol's osmotic mechanism produces rapid (within minutes) reduction of brain water via the osmotic gradient across the intact BBB. Furosemide alone has only modest, slow effects on ICP — primarily through volume contraction reducing CSF production and possibly transcellular fluid shifts; it does not produce the osmotic effect that drives mannitol's action. Furosemide is sometimes ADDED to mannitol therapy to enhance renal excretion of the water mobilized from brain (and to prevent volume expansion in HF patients) — but it is an adjunct, not a replacement, for the osmotic agent. Hypertonic saline is the principal alternative to mannitol.",
+        "Incorrect. Furosemide blocks NKCC2; mannitol acts osmotically. The mechanisms are entirely different.",
+        "Incorrect. Mannitol and hypertonic saline are first-line for elevated ICP."
+      ]
+    },
+    {
+      "id": 25,
+      "stem": "A 55-year-old patient receiving mannitol for cerebral edema has the following laboratory studies: plasma osmolality 322 mOsm/kg, plasma sodium 138 mEq/L, calculated osmolality 290, BUN 18 mg/dL, glucose 110 mg/dL. Which of the following best describes the appropriate monitoring strategy and threshold for mannitol therapy?",
+      "choices": [
+        "Continue mannitol regardless of osmolality",
+        "Stop mannitol once plasma sodium reaches 130",
+        "Discontinue mannitol when ICP is normal regardless of osmolality",
+        "Limit additional mannitol doses when serum osmolality exceeds ~320 mOsm/kg or osmolar gap is markedly elevated; further doses provide diminishing benefit and increase the risk of osmotic nephrosis (tubular cell uptake → vacuolation → AKI). Monitor plasma osmolality, sodium, and osm gap before each dose; consider transitioning to hypertonic saline if continued therapy is needed",
+        "Mannitol therapy has no monitoring requirements"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Continued mannitol at high osmolality risks osmotic nephrosis and offers diminishing benefit.",
+        "Incorrect. Plasma sodium 130 is not the principal threshold; serum osmolality and osm gap are more directly relevant.",
+        "Incorrect. ICP normalization is one consideration but does not by itself determine whether further mannitol should be given.",
+        "Correct. Standard practice limits mannitol when serum osmolality exceeds ~320 mOsm/kg or when the osmolar gap is markedly elevated. At higher osmolality, additional mannitol provides diminishing returns (the gradient is already large) and increases risk of osmotic nephrosis (tubular cell uptake of mannitol → cytoplasmic vacuolation → AKI). Monitoring before each dose: plasma osmolality, sodium, BUN, creatinine, urine output, calcuated vs measured osmolality (osm gap). When continued osmotic therapy is needed and threshold is reached, transition to hypertonic saline (which does not have the same nephrotoxic potential).",
+        "Incorrect. Mannitol therapy DOES require monitoring (plasma osm, sodium, renal function)."
+      ]
+    },
+    {
+      "id": 26,
+      "stem": "A 30-year-old researcher is studying historical and modern alternatives to mannitol as osmotic agents. Which of the following best characterizes other osmotic diuretic agents?",
+      "choices": [
+        "Glycerol is administered intravenously and has the same indications as mannitol",
+        "Urea is the most commonly used osmotic diuretic today",
+        "Isosorbide is administered IV for cerebral edema",
+        "Hypertonic glucose can be used for cerebral edema",
+        "Glycerol (oral, 1–1.5 g/kg) — used historically for IOP elevation in glaucoma; oral preparation makes it useful in outpatient settings but bypasses the rapid IV effect of mannitol. Urea — historically used as IV osmotic agent but caused phlebitis and is rarely used now. Isosorbide — oral osmotic agent, occasionally used for IOP elevation. Hypertonic saline — increasingly preferred over mannitol for cerebral edema in many neurocritical care contexts. Lactulose and sorbitol — ORAL osmotic agents used for hepatic encephalopathy and constipation, NOT for diuresis. Mannitol remains the standard IV osmotic diuretic"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. Glycerol is given ORALLY (not IV), with somewhat different pharmacology.",
+        "Incorrect. Urea is rarely used today due to phlebitis and other adverse effects; mannitol replaced it.",
+        "Incorrect. Isosorbide is an ORAL osmotic agent.",
+        "Incorrect. Hypertonic glucose alone is not a standard cerebral edema therapy (although DKA glucose-driven osmotic diuresis is conceptually similar).",
+        "Correct. Mannitol remains the standard IV osmotic diuretic for cerebral edema. Other osmotic agents have been used: (1) GLYCEROL — administered ORALLY (1–1.5 g/kg), historically used for IOP reduction in glaucoma; provides slower onset than mannitol but useful in outpatient settings; metabolized to glucose. (2) UREA — historically used IV but caused phlebitis and is rarely used now. (3) ISOSORBIDE — oral osmotic agent, occasionally used for IOP reduction. (4) HYPERTONIC SALINE — not classically classified as 'osmotic diuretic' but provides comparable osmotic effect for cerebral edema. (5) LACTULOSE and SORBITOL — oral osmotic agents but used for hepatic encephalopathy (lactulose) and constipation (sorbitol), NOT for systemic diuresis. (6) SGLT2 inhibitors — produce 'osmotic-like' diuresis from luminal glucose."
+      ]
+    }
+  ]
+}
