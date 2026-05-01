@@ -2,17 +2,15 @@
 
 const LETTERS = ["A", "B", "C", "D", "E"];
 const STORAGE_PREFIX = "renalqbank_brick_";
-const VALID_MODES = ["basic", "nbme"];
-const MODE_LABELS = { basic: "Basic", nbme: "NBME-tier" };
 
 /* ============ Storage helpers ============ */
-function storageKey(brickId, mode) {
-  return STORAGE_PREFIX + brickId + "_" + mode;
+function storageKey(brickId) {
+  return STORAGE_PREFIX + brickId + "_basic";
 }
 
-function loadProgress(brickId, mode) {
+function loadProgress(brickId) {
   try {
-    const raw = localStorage.getItem(storageKey(brickId, mode));
+    const raw = localStorage.getItem(storageKey(brickId));
     if (!raw) return { answers: {}, current: 0 };
     const parsed = JSON.parse(raw);
     return {
@@ -24,12 +22,12 @@ function loadProgress(brickId, mode) {
   }
 }
 
-function saveProgress(brickId, mode, progress) {
-  localStorage.setItem(storageKey(brickId, mode), JSON.stringify(progress));
+function saveProgress(brickId, progress) {
+  localStorage.setItem(storageKey(brickId), JSON.stringify(progress));
 }
 
-function clearProgress(brickId, mode) {
-  localStorage.removeItem(storageKey(brickId, mode));
+function clearProgress(brickId) {
+  localStorage.removeItem(storageKey(brickId));
 }
 
 function clearAllProgress() {
@@ -51,10 +49,8 @@ function progressStats(progress, total) {
   return { answered, correct, total, percent };
 }
 
-function brickFilePath(brickId, mode) {
-  return mode === "nbme"
-    ? `data/brick-${brickId}-nbme.json`
-    : `data/brick-${brickId}.json`;
+function brickFilePath(brickId) {
+  return `data/brick-${brickId}.json`;
 }
 
 /* ============ Home page ============ */
@@ -75,7 +71,10 @@ async function renderHome() {
   grid.innerHTML = "";
 
   for (const brick of sorted) {
-    const modes = brick.modes || { basic: !!brick.available, nbme: false };
+    const total = 25;
+    const progress = loadProgress(brick.id);
+    const stats = progressStats(progress, total);
+
     const card = document.createElement("article");
     card.className = "brick-card";
     card.innerHTML = `
@@ -83,49 +82,27 @@ async function renderHome() {
         <span class="brick-number">Brick ${brick.id}</span>
       </div>
       <h3 class="brick-title">${escapeHtml(brick.title)}</h3>
-      <div class="mode-buttons" data-brick-id="${brick.id}"></div>
     `;
-    const modeContainer = card.querySelector(".mode-buttons");
 
-    for (const mode of VALID_MODES) {
-      const enabled = !!modes[mode];
-      const total = 25;
-      const progress = enabled ? loadProgress(brick.id, mode) : { answers: {}, current: 0 };
-      const stats = progressStats(progress, total);
-
-      if (enabled) {
-        const link = document.createElement("a");
-        link.className = "mode-btn mode-" + mode;
-        link.href = `quiz.html?brick=${brick.id}&mode=${mode}`;
-        link.innerHTML = `
-          <div class="mode-btn-row">
-            <span class="mode-btn-label">${MODE_LABELS[mode]}</span>
-            <span class="mode-btn-stats">${
-              stats.answered === 0
-                ? "Not started"
-                : stats.answered === total
-                ? `${stats.correct}/${total} · ${stats.percent}%`
-                : `${stats.answered}/${total} · ${stats.percent === null ? "—" : stats.percent + "%"}`
-            }</span>
-          </div>
-          <div class="progress-bar">
-            <div class="progress-bar-fill" style="width:${total ? (stats.answered / total) * 100 : 0}%"></div>
-          </div>
-        `;
-        modeContainer.appendChild(link);
-      } else {
-        const placeholder = document.createElement("div");
-        placeholder.className = "mode-btn mode-" + mode + " disabled";
-        placeholder.innerHTML = `
-          <div class="mode-btn-row">
-            <span class="mode-btn-label">${MODE_LABELS[mode]}</span>
-            <span class="mode-btn-stats">Coming soon</span>
-          </div>
-          <div class="progress-bar"><div class="progress-bar-fill" style="width:0%"></div></div>
-        `;
-        modeContainer.appendChild(placeholder);
-      }
-    }
+    const link = document.createElement("a");
+    link.className = "brick-start-btn";
+    link.href = `quiz.html?brick=${brick.id}`;
+    link.innerHTML = `
+      <div class="brick-start-row">
+        <span class="brick-start-label">Start</span>
+        <span class="brick-start-stats">${
+          stats.answered === 0
+            ? "Not started"
+            : stats.answered === total
+            ? `${stats.correct}/${total} · ${stats.percent}%`
+            : `${stats.answered}/${total} · ${stats.percent === null ? "—" : stats.percent + "%"}`
+        }</span>
+      </div>
+      <div class="progress-bar">
+        <div class="progress-bar-fill" style="width:${total ? (stats.answered / total) * 100 : 0}%"></div>
+      </div>
+    `;
+    card.appendChild(link);
 
     grid.appendChild(card);
   }
@@ -133,7 +110,7 @@ async function renderHome() {
   const resetBtn = document.getElementById("reset-all");
   if (resetBtn) {
     resetBtn.addEventListener("click", () => {
-      if (confirm("Reset progress for all bricks (both modes)?")) {
+      if (confirm("Reset progress for all bricks?")) {
         clearAllProgress();
         renderHome();
       }
@@ -145,13 +122,10 @@ async function renderHome() {
 async function renderQuiz() {
   const params = new URLSearchParams(window.location.search);
   const brickId = parseInt(params.get("brick"), 10);
-  const modeParam = params.get("mode");
-  const mode = VALID_MODES.includes(modeParam) ? modeParam : "basic";
   const titleEl = document.getElementById("brick-title");
   const counterEl = document.getElementById("question-counter");
   const area = document.getElementById("question-area");
   const paletteEl = document.getElementById("palette");
-  const modeBadge = document.getElementById("mode-badge");
 
   if (!brickId || isNaN(brickId)) {
     area.innerHTML = '<div class="notice">No brick selected. <a href="index.html">Back to bricks</a>.</div>';
@@ -160,24 +134,19 @@ async function renderQuiz() {
 
   let brick;
   try {
-    const res = await fetch(brickFilePath(brickId, mode), { cache: "no-store" });
+    const res = await fetch(brickFilePath(brickId), { cache: "no-store" });
     if (!res.ok) throw new Error("missing");
     brick = await res.json();
   } catch (e) {
-    area.innerHTML = '<div class="notice">This brick is not available yet for ' + MODE_LABELS[mode] + ' mode. <a href="index.html">Back to bricks</a>.</div>';
+    area.innerHTML = '<div class="notice">This brick is not available. <a href="index.html">Back to bricks</a>.</div>';
     return;
   }
 
   titleEl.textContent = `Brick ${brick.id}: ${brick.title}`;
-  if (modeBadge) {
-    modeBadge.textContent = MODE_LABELS[mode];
-    modeBadge.classList.add("mode-" + mode);
-  }
 
   const state = {
     brick,
-    mode,
-    progress: loadProgress(brick.id, mode),
+    progress: loadProgress(brick.id),
     lastRenderedId: null,
   };
 
@@ -186,7 +155,7 @@ async function renderQuiz() {
   }
 
   function commit() {
-    saveProgress(brick.id, mode, state.progress);
+    saveProgress(brick.id, state.progress);
   }
 
   function jumpTo(index) {
@@ -237,8 +206,8 @@ async function renderQuiz() {
   const resetBtn = document.getElementById("reset-brick");
   if (resetBtn) {
     resetBtn.addEventListener("click", () => {
-      if (confirm("Reset progress for this brick (" + MODE_LABELS[mode] + ")?")) {
-        clearProgress(brick.id, mode);
+      if (confirm("Reset progress for this brick?")) {
+        clearProgress(brick.id);
         state.progress = { answers: {}, current: 0 };
         state.lastRenderedId = null;
         commit();
@@ -371,7 +340,7 @@ function drawQuestion(state, q, area, advance, jumpTo, paletteEl, counterEl, isN
         if (q.id in state.progress.answers) return;
         const correct = idx === q.answer;
         state.progress.answers[q.id] = { selected: idx, correct };
-        saveProgress(state.brick.id, state.mode, state.progress);
+        saveProgress(state.brick.id, state.progress);
         lockTableRows(idx, true);
         updateScoreBadge(state, true);
         renderPalette(state, paletteEl, jumpTo);
@@ -484,7 +453,7 @@ function drawQuestion(state, q, area, advance, jumpTo, paletteEl, counterEl, isN
       if (q.id in state.progress.answers) return;
       const correct = idx === q.answer;
       state.progress.answers[q.id] = { selected: idx, correct };
-      saveProgress(state.brick.id, state.mode, state.progress);
+      saveProgress(state.brick.id, state.progress);
       lockChoices(idx, true);
       updateScoreBadge(state, true);
       renderPalette(state, paletteEl, jumpTo);
@@ -603,12 +572,12 @@ function renderSummary(state, area) {
   `;
   document.getElementById("review-btn").addEventListener("click", () => {
     state.progress.current = 0;
-    saveProgress(state.brick.id, state.mode, state.progress);
+    saveProgress(state.brick.id, state.progress);
     location.reload();
   });
   document.getElementById("restart-btn").addEventListener("click", () => {
     if (confirm("Restart this brick? This clears your answers.")) {
-      clearProgress(state.brick.id, state.mode);
+      clearProgress(state.brick.id);
       location.reload();
     }
   });
