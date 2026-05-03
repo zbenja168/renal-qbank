@@ -20,6 +20,9 @@
     { "id": 18, "title": "Hyponatremia", "available": true },
     { "id": 19, "title": "Hypernatremia", "available": true },
     { "id": 20, "title": "Antidiuretic Hormone Agonists", "available": true },
-    { "id": 21, "title": "Antidiuretic Hormone Receptor Antagonists", "available": true }
+    { "id": 21, "title": "Antidiuretic Hormone Receptor Antagonists", "available": true },
+    { "id": 22, "title": "Hypokalemia", "available": true },
+    { "id": 23, "title": "Hyperkalemia", "available": true },
+    { "id": 24, "title": "Renal Calcium and Phosphate Regulation", "available": true }
   ]
 }

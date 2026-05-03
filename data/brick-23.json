@@ -1,0 +1,481 @@
+{
+  "id": 23,
+  "title": "Hyperkalemia",
+  "questions": [
+    {
+      "id": 1,
+      "stem": "A 62-year-old construction worker is rescued after being trapped under a collapsed building for 2 hours. He has extensive crush injuries to his legs. Serum potassium on arrival is 6.8 mEq/L. Which mechanism best explains the hyperkalemia?",
+      "choices": [
+        "Acute kidney injury alone",
+        "Cellular K+ release from rhabdomyolysis",
+        "Adrenal insufficiency",
+        "Hyperaldosteronism",
+        "Pseudohyperkalemia from hemolysis"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. AKI may be developing but immediate K+ release is from cell lysis.",
+        "Correct. Crush injury / rhabdomyolysis releases intracellular K+ (and myoglobin, phosphate, urate, CK) into the circulation. Concurrent AKI from myoglobin-induced tubular injury then prevents excretion, compounding the hyperkalemia. Treatment includes aggressive IV fluids, urinary alkalinization, and acute hyperkalemia therapy.",
+        "Incorrect. Adrenal insufficiency would have an insidious onset.",
+        "Incorrect. Hyperaldosteronism would lower (not raise) K+.",
+        "Incorrect. The clinical picture and severity make pseudohyperkalemia unlikely."
+      ]
+    },
+    {
+      "id": 2,
+      "stem": "A 70-year-old man with newly diagnosed CKD has serum K+ 6.5 mEq/L on routine labs. ECG shows new tall, peaked T waves. Which intervention should be administered FIRST?",
+      "choices": [
+        "Insulin plus glucose",
+        "IV calcium gluconate",
+        "Sodium polystyrene sulfonate",
+        "Hemodialysis",
+        "Albuterol nebulizer"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Insulin + glucose shifts K+ into cells but does not stabilize the myocardium.",
+        "Correct. IV calcium (gluconate or chloride) is given FIRST when ECG changes are present to MEMBRANE-STABILIZE the cardiomyocytes. It does not lower serum K+ but immediately reduces arrhythmia risk while shift therapies (insulin/glucose, β2-agonist, bicarbonate) and elimination therapies (loop diuretic, exchange resin, dialysis) take effect. Onset minutes; duration ~30–60 minutes.",
+        "Incorrect. SPS removes K+ from the gut but acts over hours.",
+        "Incorrect. Dialysis may be needed but is not the immediate first step.",
+        "Incorrect. Albuterol shifts K+ but is not first when ECG changes are active."
+      ]
+    },
+    {
+      "id": 3,
+      "stem": "A 45-year-old woman with CKD has serum K+ 6.2. ECG shows peaked T waves. After IV calcium, the team gives IV insulin with dextrose. Which mechanism explains the K+-lowering effect?",
+      "choices": [
+        "Insulin increases urinary K+ excretion",
+        "Insulin activates Na+/K+-ATPase, shifting K+ into cells",
+        "Insulin binds and clears K+ in plasma",
+        "Insulin reduces aldosterone secretion",
+        "Insulin destroys excess K+"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Insulin does not principally enhance renal K+ excretion.",
+        "Correct. Insulin activates Na+/K+-ATPase in skeletal muscle, driving K+ INTO cells. Onset 10–20 min, duration ~4 hours. Dextrose is co-administered to prevent hypoglycemia. The shift effect is temporary; definitive treatment requires elimination (loop diuretic, exchange resin, dialysis).",
+        "Incorrect. Insulin does not bind or clear K+ in plasma.",
+        "Incorrect. Insulin does not principally affect aldosterone.",
+        "Incorrect. K+ is shifted, not destroyed."
+      ]
+    },
+    {
+      "id": 4,
+      "stem": "A 70-year-old man with HFrEF on lisinopril and spironolactone has serum K+ 6.4 after starting ibuprofen for knee pain. Which mechanism best explains this 'triple whammy'?",
+      "choices": [
+        "All three drugs raise aldosterone",
+        "All three impair distal K+ secretion",
+        "Direct cardiotoxicity",
+        "Hemolysis from medications",
+        "Pseudohyperkalemia"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. ACE inhibitors LOWER aldosterone; spironolactone blocks the receptor.",
+        "Correct. The 'triple whammy' converges on impaired distal K+ secretion: lisinopril reduces angiotensin II → reduced aldosterone; spironolactone blocks the mineralocorticoid receptor; ibuprofen lowers afferent prostaglandin-mediated GFR and reduces distal Na+ delivery. Combined, K+ secretion is markedly impaired and life-threatening hyperkalemia can result.",
+        "Incorrect. Direct cardiotoxicity is not the mechanism.",
+        "Incorrect. Hemolysis is not the principal effect.",
+        "Incorrect. The hyperkalemia is real."
+      ]
+    },
+    {
+      "id": 5,
+      "stem": "A 60-year-old man with type 2 diabetes and stage 3 CKD has persistent mild hyperkalemia (K+ 5.5–5.8) and a non-anion-gap metabolic acidosis. Renin is low and aldosterone is low. Which is the most likely diagnosis?",
+      "choices": [
+        "Type 1 RTA",
+        "Type 2 (proximal) RTA",
+        "Type 4 RTA (hyporeninemic hypoaldosteronism)",
+        "Conn syndrome",
+        "Bartter syndrome"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Type 1 RTA features hypokalemia.",
+        "Incorrect. Type 2 RTA features hypokalemia.",
+        "Correct. Type 4 RTA (hyperkalemic distal RTA) results from low aldosterone or aldosterone resistance. The most common adult cause is hyporeninemic hypoaldosteronism in diabetic nephropathy. Treatment: low-K+ diet, loop diuretic, fludrocortisone in selected cases; address contributors (NSAIDs, ACEi/ARB, K+-sparing diuretics).",
+        "Incorrect. Conn syndrome features hypokalemia.",
+        "Incorrect. Bartter features hypokalemia."
+      ]
+    },
+    {
+      "id": 6,
+      "stem": "A 40-year-old man with primary adrenal insufficiency presents with hyponatremia (Na+ 124), hyperkalemia (K+ 6.0), and hypotension. Which hormonal deficiency best explains the K+ elevation?",
+      "choices": [
+        "Cortisol deficiency",
+        "Aldosterone deficiency",
+        "Growth hormone deficiency",
+        "ACTH excess",
+        "ADH deficiency"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Cortisol deficiency contributes to hyponatremia (loss of cortisol's ADH inhibition) but does not principally cause hyperkalemia.",
+        "Correct. Aldosterone normally drives ENaC-mediated Na+ reabsorption and ROMK-mediated K+ secretion in collecting duct principal cells. Aldosterone deficiency in primary adrenal insufficiency causes Na+ wasting (hyponatremia) AND K+ retention (hyperkalemia), often with mild metabolic acidosis. Treatment: hydrocortisone + fludrocortisone.",
+        "Incorrect. GH deficiency does not principally affect K+.",
+        "Incorrect. ACTH excess would not be present in primary adrenal insufficiency causing the K+ effect.",
+        "Incorrect. ADH affects water, not K+."
+      ]
+    },
+    {
+      "id": 7,
+      "stem": "A 50-year-old man's serum K+ is 6.4 on a routine lab draw. He is asymptomatic with a normal ECG. The blood was difficult to draw and the sample was hemolyzed. Repeat K+ on a non-hemolyzed sample is 4.3. Which best characterizes the initial result?",
+      "choices": [
+        "Pseudohyperkalemia from hemolysis",
+        "True hyperkalemia",
+        "Acute kidney injury",
+        "Adrenal insufficiency",
+        "Tumor lysis syndrome"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Pseudohyperkalemia from sample hemolysis (release of intracellular K+ from RBCs in vitro) is a common laboratory artifact. Other causes: tight tourniquet with fist clenching, marked thrombocytosis or leukocytosis (release during clotting). Always repeat on a clean draw before treating, especially when ECG is normal and the patient is asymptomatic.",
+        "Incorrect. The repeat shows normal K+; the high reading was artifactual.",
+        "Incorrect. AKI is not described.",
+        "Incorrect. No adrenal symptoms.",
+        "Incorrect. No tumor or lysis described."
+      ]
+    },
+    {
+      "id": 8,
+      "stem": "A 28-year-old man with newly diagnosed acute leukemia is started on chemotherapy. Within 24 hours he develops K+ 6.7, phosphate 8.2, calcium 7.0, and uric acid 14. Which is the most likely diagnosis?",
+      "choices": [
+        "Adrenal insufficiency",
+        "Tumor lysis syndrome",
+        "Type 4 RTA",
+        "Rhabdomyolysis",
+        "Pseudohyperkalemia"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Adrenal insufficiency does not feature hyperphosphatemia or hyperuricemia.",
+        "Correct. Tumor lysis syndrome — rapid release of intracellular contents from dying tumor cells: K+, phosphate, nucleic acid breakdown to uric acid, with secondary HYPOcalcemia from Ca-phosphate precipitation. Most common with hematologic malignancies and bulky tumors after chemotherapy. Prevention: aggressive hydration, allopurinol or rasburicase prophylaxis.",
+        "Incorrect. Type 4 RTA does not feature this acute pattern.",
+        "Incorrect. Rhabdo would feature elevated CK without nucleic acid breakdown markers.",
+        "Incorrect. The pattern is consistent with a real syndrome."
+      ]
+    },
+    {
+      "id": 9,
+      "stem": "A 35-year-old man with severe burns receives succinylcholine for emergent intubation 8 days after his injury. He develops sudden cardiac arrest with K+ 8.5 mEq/L. Which best explains the lethal hyperkalemia?",
+      "choices": [
+        "Direct succinylcholine cardiotoxicity",
+        "K+ release via upregulated ACh receptors",
+        "Renal failure from burn injury",
+        "Hemolysis from succinylcholine",
+        "Adrenal crisis from stress"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. The toxicity is mediated through K+ shift, not direct cardiotoxicity.",
+        "Correct. After burn injury, denervation, prolonged immobilization, or major trauma (typically 1 week to 6 months), extrajunctional acetylcholine receptors upregulate. Succinylcholine binding releases massive K+ from these widespread receptors, causing hyperkalemic cardiac arrest. Avoid succinylcholine in these settings; use a non-depolarizing agent (rocuronium, vecuronium).",
+        "Incorrect. AKI from burns is possible but the K+ shift is more direct.",
+        "Incorrect. Succinylcholine does not principally cause hemolysis.",
+        "Incorrect. Adrenal crisis would have a different pattern."
+      ]
+    },
+    {
+      "id": 10,
+      "stem": "A 60-year-old man with severe metabolic acidosis (pH 7.18, HCO3− 8) has serum K+ 6.2. Which mechanism best explains why acidosis raises serum K+?",
+      "choices": [
+        "Acidosis stimulates aldosterone",
+        "Acidosis drives K+ out of cells",
+        "Acidosis impairs renal K+ excretion alone",
+        "Acidosis directly opens K+ channels",
+        "Acidosis enhances tissue K+ uptake"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Aldosterone is not the principal acute mechanism for the cellular shift.",
+        "Correct. In metabolic acidosis (especially mineral / non-anion-gap acidosis), excess H+ moves INTO cells down its gradient; K+ shifts OUT to preserve electroneutrality. Each 0.1 fall in pH increases plasma K+ by ~0.6 mEq/L (rough estimate; more variable in organic anion-gap acidoses). Conversely, alkalosis drives K+ into cells.",
+        "Incorrect. Renal K+ excretion can be impaired but the immediate effect is the cellular shift.",
+        "Incorrect. The cellular shift is electrochemical, not via direct channel modulation.",
+        "Incorrect. Acidosis EXTRUDES K+ from cells, not enhances uptake."
+      ]
+    },
+    {
+      "id": 11,
+      "stem": "A 65-year-old woman with HFrEF is on lisinopril, eplerenone, and metoprolol. Serum K+ has crept up from 4.5 to 5.6 over 6 weeks. Which is the most appropriate management?",
+      "choices": [
+        "Discontinue one K+-elevating drug",
+        "Add another ACE inhibitor",
+        "Add intravenous insulin",
+        "Initiate hemodialysis",
+        "Add NSAID for symptom control"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. RAAS inhibitors and MR antagonists both impair distal K+ secretion; combination therapy raises hyperkalemia risk especially in elderly or CKD patients. Management: reduce or stop one agent (eplerenone is often first to reduce); continue ACEi/ARB for prognostic benefit if possible; counsel on low-K+ diet; monitor more frequently. Patiromer or sodium zirconium cyclosilicate can allow continued RAAS therapy in some patients.",
+        "Incorrect. A second ACEi worsens hyperkalemia and is contraindicated.",
+        "Incorrect. IV insulin is for acute severe hyperkalemia, not chronic mild elevation.",
+        "Incorrect. Dialysis is reserved for severe / refractory cases.",
+        "Incorrect. NSAIDs add to the hyperkalemia risk."
+      ]
+    },
+    {
+      "id": 12,
+      "stem": "A 50-year-old man with severe hyperkalemia (K+ 7.0, ECG with widened QRS) has received calcium gluconate, insulin/dextrose, and albuterol. Which intervention REMOVES K+ from the body?",
+      "choices": [
+        "Calcium gluconate",
+        "Insulin and dextrose",
+        "Sodium bicarbonate",
+        "Loop diuretic or dialysis",
+        "Albuterol nebulizer"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Calcium stabilizes the myocardium; it does not remove K+.",
+        "Incorrect. Insulin SHIFTS K+ into cells but does not remove it from the body.",
+        "Incorrect. Bicarbonate may shift K+ in metabolic acidosis but is not principally an eliminator.",
+        "Correct. The only definitive REMOVAL strategies are renal (loop diuretic enhances K+ excretion if kidneys still work), GI (sodium polystyrene sulfonate, patiromer, sodium zirconium cyclosilicate), or dialysis. Stabilization (calcium) and shift (insulin, β2-agonist, bicarbonate) buy time; elimination must follow.",
+        "Incorrect. Albuterol shifts K+; does not eliminate it."
+      ]
+    },
+    {
+      "id": 13,
+      "stem": "A 55-year-old woman with CKD stage 4 has chronic hyperkalemia (K+ 5.5–5.8) on her ACE inhibitor. Patiromer is added. Which best characterizes patiromer's mechanism?",
+      "choices": [
+        "Binds K+ in the colon, exchanging for calcium",
+        "Inhibits distal Na+/K+-ATPase",
+        "Increases urinary K+ excretion",
+        "Blocks intestinal K+ absorption via SGLT2",
+        "Lowers aldosterone"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Patiromer is a non-absorbed polymer that exchanges calcium for potassium in the colon, removing K+ via stool. Slower onset than acute therapies (hours to days). Allows continued RAAS therapy in CKD/HF patients with chronic hyperkalemia. Other GI K+ binders: sodium polystyrene sulfonate (SPS — older, exchanges Na+ for K+, GI necrosis risk especially with sorbitol); sodium zirconium cyclosilicate (ZS-9 — exchanges Na+ for K+, faster onset).",
+        "Incorrect. Patiromer is not a tubular drug.",
+        "Incorrect. Patiromer does not alter renal K+ handling.",
+        "Incorrect. K+ absorption is not via SGLT2.",
+        "Incorrect. Patiromer does not affect aldosterone."
+      ]
+    },
+    {
+      "id": 14,
+      "stem": "A 45-year-old patient with HIV is on trimethoprim-sulfamethoxazole at high dose for Pneumocystis pneumonia. Serum K+ rises from 4.2 to 5.8 within 5 days. Which mechanism best explains the hyperkalemia?",
+      "choices": [
+        "Direct nephrotoxicity",
+        "Trimethoprim blocks ENaC like amiloride",
+        "Sulfonamide hypersensitivity",
+        "Cellular shift from acidosis",
+        "TLS-like syndrome"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Direct nephrotoxicity is not the principal mechanism.",
+        "Correct. Trimethoprim is structurally similar to amiloride and blocks ENaC in the cortical collecting duct. ENaC blockade reduces the lumen-negative voltage that drives K+ secretion → hyperkalemia. The effect is dose-related and most prominent at high doses (e.g., PCP treatment) or in patients with reduced renal function. Pentamidine does the same.",
+        "Incorrect. Sulfonamide hypersensitivity produces other findings (rash, AKI from interstitial nephritis).",
+        "Incorrect. No acidosis described.",
+        "Incorrect. TLS does not occur from antibiotic therapy."
+      ]
+    },
+    {
+      "id": 15,
+      "stem": "A 60-year-old patient develops K+ 5.8 within 1 week of starting unfractionated heparin for DVT. Which mechanism best explains the hyperkalemia?",
+      "choices": [
+        "Direct ENaC blockade",
+        "Heparin suppresses adrenal aldosterone synthesis",
+        "Heparin causes hemolysis",
+        "Heparin causes TLS",
+        "Pseudohyperkalemia from platelet activation"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Heparin does not block ENaC.",
+        "Correct. Heparin (unfractionated and LMWH) suppresses adrenal aldosterone synthesis, producing hyporeninemic hypoaldosteronism and hyperkalemia, especially with prolonged use, advanced age, CKD, or concurrent RAAS inhibitors. Effect typically seen within days. Other effects (HIT, bleeding) are more familiar; the K+ effect is sometimes overlooked.",
+        "Incorrect. Heparin does not cause hemolysis.",
+        "Incorrect. TLS is not heparin-related.",
+        "Incorrect. Pseudohyperkalemia from platelets occurs in thrombocytosis, not heparin."
+      ]
+    },
+    {
+      "id": 16,
+      "stem": "A 70-year-old man with K+ 7.2, peaked T waves, and widened QRS has not responded adequately to calcium, insulin/glucose, and albuterol. Serum creatinine is 4.8 (CKD). Which is the most appropriate definitive intervention?",
+      "choices": [
+        "Higher doses of insulin",
+        "Furosemide alone",
+        "Hemodialysis",
+        "Sodium bicarbonate alone",
+        "Repeat calcium gluconate"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Repeat insulin without dextrose risks hypoglycemia; shift therapies are temporizing.",
+        "Incorrect. Furosemide requires functional kidneys; ineffective in advanced CKD with oligo-anuria.",
+        "Correct. Severe refractory hyperkalemia in a patient with advanced renal failure (or no urine output) requires HEMODIALYSIS for definitive K+ removal. Indications: severe hyperkalemia not responsive to medical therapy, ongoing K+ release (rhabdo, TLS), or ESRD with hyperkalemia. Dialysis can lower K+ by 1–1.5 mEq/L per hour.",
+        "Incorrect. Bicarbonate alone is unreliable in CKD without acidosis.",
+        "Incorrect. Calcium does not lower K+; it stabilizes the myocardium temporarily."
+      ]
+    },
+    {
+      "id": 17,
+      "stem": "A 45-year-old man with severe metabolic acidosis from septic shock has serum K+ 6.0. The team gives IV sodium bicarbonate. Which best explains the K+-lowering effect?",
+      "choices": [
+        "Bicarbonate enhances renal K+ excretion",
+        "Bicarbonate causes alkalemia, shifting K+ into cells",
+        "Bicarbonate binds K+ in plasma",
+        "Bicarbonate stimulates aldosterone",
+        "Bicarbonate displaces K+ from albumin"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Renal K+ excretion is not the principal acute effect of bicarbonate.",
+        "Correct. Sodium bicarbonate raises pH (alkalemia) and shifts K+ INTO cells, mirror-image of the acidosis-induced shift. Most useful when hyperkalemia is paired with significant metabolic acidosis. Onset minutes to hours. Less reliable in patients without acidosis or in those who cannot tolerate sodium load (HF, edema).",
+        "Incorrect. Bicarbonate does not bind K+.",
+        "Incorrect. Bicarbonate does not directly stimulate aldosterone.",
+        "Incorrect. K+ is not principally bound to albumin."
+      ]
+    },
+    {
+      "id": 18,
+      "stem": "A 75-year-old man with K+ 7.0 and ECG changes is treated. Which sequence best matches the ECG changes as hyperkalemia worsens?",
+      "choices": [
+        "U waves → wide QRS → sine wave",
+        "Peaked T → wide QRS → sine wave",
+        "Delta wave → ST elevation → AV block",
+        "QT prolongation → torsades → asystole",
+        "ST depression → flat T → U waves"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. U waves are a HYPOkalemia finding.",
+        "Correct. Hyperkalemia ECG progression: peaked, narrow T waves (early, K+ ~5.5–6.5) → P-wave flattening, PR prolongation, QRS widening (K+ ~6.5–8.0) → sine wave morphology, ventricular fibrillation, asystole (K+ >8.0–10). ECG changes do not always correlate strictly with K+ level — chronic hyperkalemia is often less ECG-active than acute. Any new ECG change with hyperkalemia warrants urgent treatment.",
+        "Incorrect. Delta wave is WPW.",
+        "Incorrect. QT prolongation is associated with hypocalcemia, hypokalemia, hypomagnesemia, and many drugs.",
+        "Incorrect. This pattern describes hypokalemia."
+      ]
+    },
+    {
+      "id": 19,
+      "stem": "A 30-year-old man has recurrent attacks of muscle weakness lasting 1–2 hours, often after exercise or potassium-rich meals. Serum K+ during an attack is 6.4; between attacks K+ is normal. Which is the most likely diagnosis?",
+      "choices": [
+        "Bartter syndrome",
+        "Hyperkalemic periodic paralysis",
+        "Type 4 RTA",
+        "Liddle syndrome",
+        "Adrenal insufficiency"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Bartter has chronic baseline hypokalemia.",
+        "Correct. Hyperkalemic periodic paralysis — autosomal-dominant gain-of-function mutation in the SCN4A skeletal muscle Na+ channel. Attacks of weakness with hyperkalemia, often triggered by exercise (rest after), cold exposure, or K+-rich meals. Management: avoid triggers; carbohydrate-loading or β2-agonist during attacks (drives K+ into cells); acetazolamide or thiazides for prophylaxis.",
+        "Incorrect. Type 4 RTA features chronic mild hyperkalemia and acidosis.",
+        "Incorrect. Liddle has hypokalemia.",
+        "Incorrect. Adrenal insufficiency features chronic hyperkalemia with hypotension."
+      ]
+    },
+    {
+      "id": 20,
+      "stem": "A patient with K+ 6.2 is being treated. The clinician considers sodium polystyrene sulfonate (SPS). Which adverse effect is most concerning, particularly when given with sorbitol?",
+      "choices": [
+        "Hypoglycemia",
+        "Intestinal necrosis",
+        "Hepatic failure",
+        "Pancreatitis",
+        "Pulmonary edema"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. SPS does not principally cause hypoglycemia.",
+        "Correct. SPS, especially when administered with sorbitol (older formulations), has been associated with intestinal necrosis (colonic ischemia, perforation), particularly in postoperative patients, transplant recipients, and those with bowel hypomotility. The FDA boxed warning (2009) led to switching to sorbitol-free preparations. Newer agents (patiromer, sodium zirconium cyclosilicate) lack this risk and are increasingly preferred.",
+        "Incorrect. SPS is not principally hepatotoxic.",
+        "Incorrect. Pancreatitis is not the principal SPS adverse effect.",
+        "Incorrect. SPS does sometimes cause volume overload from Na+ load but pulmonary edema is not the primary GI concern."
+      ]
+    },
+    {
+      "id": 21,
+      "stem": "A 28-year-old woman with severe acute hemolysis from a blood transfusion reaction develops serum K+ 6.5. Which best explains the hyperkalemia?",
+      "choices": [
+        "Cellular K+ release from RBC lysis",
+        "Aldosterone deficiency",
+        "Tubular dysfunction from hemoglobinuria",
+        "Pseudohyperkalemia in vitro",
+        "Trimethoprim-like effect"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Acute intravascular hemolysis releases intracellular K+ from RBCs into plasma. Other consequences include hemoglobinuria (which can cause AKI by tubular obstruction and direct toxicity), DIC, and shock. Concurrent AKI then prevents K+ excretion. Treatment includes stopping the offending unit, supportive care, and acute hyperkalemia management.",
+        "Incorrect. Aldosterone deficiency is not the acute cause here.",
+        "Incorrect. Tubular dysfunction develops over days; the K+ rise is acute from cell lysis.",
+        "Incorrect. The hyperkalemia is real; in vitro hemolysis would not be reproducible.",
+        "Incorrect. No trimethoprim exposure described."
+      ]
+    },
+    {
+      "id": 22,
+      "stem": "A 65-year-old man with K+ 6.4 is given calcium gluconate IV. Within 90 seconds the peaked T waves resolve. Which best characterizes calcium's mechanism in hyperkalemia?",
+      "choices": [
+        "Lowers serum K+ by 1–2 mEq/L",
+        "Stabilizes the cardiomyocyte membrane",
+        "Shifts K+ into cells",
+        "Removes K+ via stool",
+        "Activates Na+/K+-ATPase"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Calcium does NOT lower serum K+.",
+        "Correct. Calcium raises the threshold potential of the myocardial membrane, restoring the gap between the (more positive) resting potential of hyperkalemic cardiomyocytes and the threshold for excitation. ECG changes resolve within seconds. Effect is short-lived (~30–60 minutes); other K+-lowering measures must follow. Calcium chloride has more elemental Ca2+ than gluconate but is more vesicant.",
+        "Incorrect. Calcium does not shift K+ into cells.",
+        "Incorrect. Calcium does not bind/remove K+.",
+        "Incorrect. Calcium does not principally activate Na+/K+-ATPase."
+      ]
+    },
+    {
+      "id": 23,
+      "stem": "A 50-year-old woman with newly diagnosed CKD (eGFR 25) is told to follow a low-potassium diet. Which food is the HIGHEST in potassium and should be limited?",
+      "choices": [
+        "White rice",
+        "Bananas, oranges, tomatoes, potatoes",
+        "Apples and grapes",
+        "White bread",
+        "Eggs"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. White rice is low in K+.",
+        "Correct. Bananas, oranges and orange juice, tomatoes and tomato products, potatoes, beans/legumes, dried fruits, melons, and many vegetables are high in K+ and should be limited in patients with hyperkalemia or CKD-related K+ retention. Salt substitutes (often KCl-based) are also high K+ and should be avoided. Boiling potatoes and discarding the water reduces K+ content somewhat.",
+        "Incorrect. Apples and grapes are relatively low K+.",
+        "Incorrect. White bread is low K+.",
+        "Incorrect. Eggs are low K+."
+      ]
+    },
+    {
+      "id": 24,
+      "stem": "A 45-year-old man receives 8 units of packed red cells over 4 hours for hemorrhagic shock. Toward the end of transfusion he develops K+ 6.2. Which mechanism best explains this?",
+      "choices": [
+        "Hemolysis from transfusion reaction",
+        "K+ leak from stored RBCs",
+        "Aldosterone deficiency from shock",
+        "TLS from RBCs",
+        "Acidosis-induced cellular shift only"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Hemolysis from incompatibility would have other features (fever, hemoglobinuria, hypotension).",
+        "Correct. Stored RBCs progressively leak K+ into the storage medium as Na+/K+-ATPase activity declines without ATP. Older units have plasma K+ concentrations up to 30 mEq/L. Massive transfusion (especially in renal failure, infants, or with rapid administration) can produce clinically significant hyperkalemia. Strategies: use fresh units in pediatric / massive transfusion; consider washing; monitor K+.",
+        "Incorrect. Aldosterone deficiency is not acute in shock.",
+        "Incorrect. RBCs do not have nuclei to lyse in TLS fashion.",
+        "Incorrect. While acidosis contributes, the principal mechanism in massive transfusion is the storage-related K+ load."
+      ]
+    },
+    {
+      "id": 25,
+      "stem": "A 60-year-old woman with K+ 5.8 is on lisinopril and has CKD stage 3. The cardiologist wants to continue the ACE inhibitor for renoprotection. Which strategy best balances continued RAAS therapy with hyperkalemia control?",
+      "choices": [
+        "Stop ACE inhibitor permanently",
+        "Add patiromer or sodium zirconium cyclosilicate",
+        "Add a second ACE inhibitor",
+        "Add an NSAID for symptom control",
+        "Add spironolactone"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. RAAS inhibitors offer renoprotective benefit in CKD; stopping forfeits this.",
+        "Correct. Modern K+ binders (patiromer, sodium zirconium cyclosilicate) allow continuation of ACEi/ARB therapy in CKD or HF patients who would otherwise need to discontinue due to hyperkalemia. Combined with a low-K+ diet and avoidance of contributing drugs (NSAIDs, K+-sparing diuretics, K+ supplements), they enable patients to maintain renoprotective therapy.",
+        "Incorrect. Two ACEi worsen hyperkalemia and provide no added benefit.",
+        "Incorrect. NSAIDs add hyperkalemia risk.",
+        "Incorrect. Adding spironolactone to ACEi worsens hyperkalemia."
+      ]
+    }
+  ]
+}
