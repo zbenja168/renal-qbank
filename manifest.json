@@ -23,6 +23,9 @@
     { "id": 21, "title": "Antidiuretic Hormone Receptor Antagonists", "available": true },
     { "id": 22, "title": "Hypokalemia", "available": true },
     { "id": 23, "title": "Hyperkalemia", "available": true },
-    { "id": 24, "title": "Renal Calcium and Phosphate Regulation", "available": true }
+    { "id": 24, "title": "Renal Calcium and Phosphate Regulation", "available": true },
+    { "id": 25, "title": "Magnesium Homeostasis", "available": true },
+    { "id": 26, "title": "Hereditary Renal Transport Disorders", "available": true },
+    { "id": 27, "title": "Mechanisms of Acid-Base Transport", "available": true }
   ]
 }

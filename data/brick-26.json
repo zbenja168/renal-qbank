@@ -1,0 +1,451 @@
+{
+  "id": 26,
+  "title": "Hereditary Renal Transport Disorders",
+  "questions": [
+    {
+      "id": 1,
+      "stem": "A 6-year-old boy with growth retardation, polyuria, and salt craving has hypokalemic metabolic alkalosis, hypomagnesemia, hypercalciuria with nephrocalcinosis, normal-low BP, and elevated renin and aldosterone. Genetic testing reveals NKCC2 loss-of-function mutation. Which is the most likely diagnosis?",
+      "choices": ["Gitelman syndrome", "Bartter syndrome", "Liddle syndrome", "Type 1 RTA", "Conn syndrome"],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Gitelman has hypocalciuria and milder presentation.",
+        "Correct. Bartter syndrome — autosomal recessive loss-of-function in TAL transporters (NKCC2, ROMK, ClC-Kb, barttin, or CaSR-activating). Phenocopies chronic loop diuretic therapy. Hallmarks: hypokalemic alkalosis, hypomagnesemia, HYPERcalciuria (loss of TAL lumen-positive voltage that normally drives paracellular Ca2+ reabsorption), normal-low BP, severe presentation in infancy/childhood with growth retardation.",
+        "Incorrect. Liddle has hypertension and suppressed renin/aldosterone.",
+        "Incorrect. Type 1 RTA has acidosis.",
+        "Incorrect. Conn has hypertension and elevated aldosterone with suppressed renin."
+      ]
+    },
+    {
+      "id": 2,
+      "stem": "A 22-year-old woman has chronic fatigue and is found to have K+ 2.9, HCO3− 32, Mg 1.4, hypocalciuria, normal BP, and elevated renin and aldosterone. SLC12A3 (NCC) mutation is identified. Which is the most likely diagnosis?",
+      "choices": ["Bartter syndrome", "Gitelman syndrome", "Liddle syndrome", "PHA1", "FHH"],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Bartter has hypercalciuria and presents earlier.",
+        "Correct. Gitelman syndrome — autosomal recessive loss-of-function in NCC (SLC12A3). Phenocopies chronic thiazide therapy. Hallmarks: hypokalemic alkalosis, HYPOmagnesemia (DCT atrophy reduces TRPM6 activity), HYPOcalciuria (the key lab to distinguish from Bartter), normal-low BP, milder/later presentation in adolescence/young adulthood. Treatment: K+, Mg2+, Na+ supplementation.",
+        "Incorrect. Liddle has hypertension.",
+        "Incorrect. PHA1 has hyperkalemia and hyponatremia.",
+        "Incorrect. FHH has hypercalcemia and hypocalciuria, not hypokalemic alkalosis."
+      ]
+    },
+    {
+      "id": 3,
+      "stem": "A 24-year-old man with severe early-onset hypertension, hypokalemia, and SUPPRESSED renin AND aldosterone responds dramatically to amiloride. Spironolactone was previously ineffective. Which is the most likely diagnosis?",
+      "choices": ["Conn syndrome", "Liddle syndrome", "Bartter syndrome", "Apparent mineralocorticoid excess", "Renal artery stenosis"],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Conn has elevated aldosterone.",
+        "Correct. Liddle syndrome — autosomal-dominant gain-of-function mutation in the β or γ subunit of ENaC (deletion of a PY motif that targets ENaC for ubiquitin-mediated degradation). Constitutive ENaC activity produces Na+ retention, hypertension, hypokalemia, and SUPPRESSED renin/aldosterone (volume expansion suppresses both). Treat with amiloride or triamterene (direct ENaC blockade); spironolactone is INEFFECTIVE because the lesion is downstream of the mineralocorticoid receptor.",
+        "Incorrect. Bartter has normal-low BP.",
+        "Incorrect. AME has elevated cortisol-mineralocorticoid effects but typically responds to spironolactone.",
+        "Incorrect. RAS has elevated renin and aldosterone."
+      ]
+    },
+    {
+      "id": 4,
+      "stem": "A 5-day-old male newborn presents with severe failure to thrive, dehydration, hyponatremia (Na 122), hyperkalemia (K 7.2), and metabolic acidosis. Plasma renin and aldosterone are markedly elevated. Sweat chloride is high. Which is the most likely diagnosis?",
+      "choices": [
+        "Conn syndrome",
+        "Pseudohypoaldosteronism type 1 (PHA1)",
+        "Liddle syndrome",
+        "Bartter syndrome",
+        "Type 4 RTA"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Conn has hypertension and hypokalemia.",
+        "Correct. Pseudohypoaldosteronism type 1 (PHA1) — autosomal recessive (severe, multisystem) form caused by loss-of-function mutations in ENaC subunits, affecting kidney AND sweat glands AND intestine. The autosomal dominant (kidney-limited, milder) form is from MR mutation. The kidney cannot respond to aldosterone — Na+ wasting, K+ retention, H+ retention. Aldosterone and renin are HIGH but ineffective. Treatment: salt supplementation, K+ control, careful management. Spironolactone WOULD NOT WORK (lesion is at or distal to MR).",
+        "Incorrect. Liddle has hypertension and suppressed renin/aldosterone.",
+        "Incorrect. Bartter has hypokalemic alkalosis.",
+        "Incorrect. Type 4 RTA in adults is acquired (often diabetic nephropathy)."
+      ]
+    },
+    {
+      "id": 5,
+      "stem": "A 30-year-old man has familial hypertension, hyperkalemia, and metabolic acidosis. Plasma renin is suppressed and aldosterone is low. Thiazides dramatically correct his BP and electrolytes. WNK4 mutation is identified. Which is the most likely diagnosis?",
+      "choices": [
+        "PHA type 2 (Gordon)",
+        "Liddle syndrome",
+        "Bartter syndrome",
+        "Gitelman syndrome",
+        "Conn syndrome"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Pseudohypoaldosteronism type 2 (PHA2, Gordon syndrome, familial hyperkalemic hypertension) — autosomal-dominant mutations in WNK1, WNK4, KLHL3, or CUL3. Result: increased NCC activity in the DCT (the 'opposite' of Gitelman), producing hypertension, HYPERkalemia, mild metabolic acidosis. THIAZIDES are the treatment of choice (inhibit the overactive NCC).",
+        "Incorrect. Liddle has hypokalemia.",
+        "Incorrect. Bartter has hypokalemic alkalosis.",
+        "Incorrect. Gitelman has hypokalemic alkalosis.",
+        "Incorrect. Conn has hypokalemic alkalosis."
+      ]
+    },
+    {
+      "id": 6,
+      "stem": "A 12-year-old boy with severe hypertension, hypokalemia, low renin, and LOW aldosterone has elevated urinary cortisol/cortisone ratio. Genetic testing reveals 11β-HSD2 mutation. Which is the most likely diagnosis?",
+      "choices": [
+        "Apparent mineralocorticoid excess (AME)",
+        "Liddle syndrome",
+        "Conn syndrome",
+        "Cushing syndrome",
+        "Bartter syndrome"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Apparent mineralocorticoid excess (AME) — loss-of-function mutations in 11β-HSD2 (which normally inactivates cortisol to cortisone in distal tubular cells, protecting the MR from cortisol). Loss of this enzyme allows cortisol (which is normally circulating at much higher levels than aldosterone) to activate the MR, producing apparent mineralocorticoid effect: HTN, hypokalemia, suppressed renin AND aldosterone. Same mechanism is induced by licorice ingestion (glycyrrhizic acid inhibits 11β-HSD2). Treatment: spironolactone, low-Na+ diet.",
+        "Incorrect. Liddle has the same lab pattern but the genetic defect is ENaC.",
+        "Incorrect. Conn has elevated aldosterone.",
+        "Incorrect. Cushing has cortisol excess from systemic causes (pituitary, adrenal, ectopic).",
+        "Incorrect. Bartter has hypokalemic alkalosis with normal-low BP."
+      ]
+    },
+    {
+      "id": 7,
+      "stem": "A 25-year-old man has hypertension and hypokalemic alkalosis with elevated aldosterone and suppressed renin. Adrenal MRI is unremarkable. Symptoms improve with low-dose dexamethasone. Which is the most likely diagnosis?",
+      "choices": [
+        "Conn syndrome",
+        "Glucocorticoid-remediable aldosteronism (GRA)",
+        "Liddle syndrome",
+        "Apparent mineralocorticoid excess",
+        "Bartter syndrome"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Conn typically does not respond to dexamethasone.",
+        "Correct. GRA (familial hyperaldosteronism type 1) — autosomal-dominant gene fusion (CYP11B1 / CYP11B2) places aldosterone synthase under ACTH control. Aldosterone secretion becomes ACTH-driven (zona fasciculata pattern) instead of angiotensin II-driven (zona glomerulosa). DEXAMETHASONE suppresses ACTH → suppresses aldosterone → corrects the hypertension and hypokalemia. Confirmation: genetic testing for the fusion gene; or DEX-suppression of urinary aldosterone.",
+        "Incorrect. Liddle has suppressed aldosterone.",
+        "Incorrect. AME has suppressed aldosterone.",
+        "Incorrect. Bartter has normal-low BP."
+      ]
+    },
+    {
+      "id": 8,
+      "stem": "A 30-year-old woman with longstanding mild hypercalcemia, normal-high PTH, and inappropriately LOW urinary calcium has a CaSR mutation. Family members are similarly affected. Surgery for parathyroidectomy was done elsewhere without correction. Which is the most likely diagnosis?",
+      "choices": [
+        "Familial hypocalciuric hypercalcemia (FHH)",
+        "Primary hyperparathyroidism",
+        "MEN1",
+        "Sarcoidosis",
+        "Vitamin D toxicity"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. FHH — autosomal-dominant inactivating mutation in the calcium-sensing receptor (CaSR). Higher 'set point' for Ca2+ sensing means PTH is not appropriately suppressed at mildly elevated Ca2+, and the kidney does not appropriately excrete Ca2+ (so HYPOcalciuria — the diagnostic feature). Clinically benign; parathyroidectomy does NOT correct it. Diagnosis: urine Ca/Cr clearance ratio <0.01; genetic testing.",
+        "Incorrect. Primary HPT features HYPERcalciuria.",
+        "Incorrect. MEN1 features primary hyperparathyroidism (with hypercalciuria) plus pituitary and pancreatic tumors.",
+        "Incorrect. Sarcoid has elevated 1,25-OH D, suppressed PTH, and granulomatous disease.",
+        "Incorrect. Vit D toxicity has elevated 25-OH D and suppressed PTH."
+      ]
+    },
+    {
+      "id": 9,
+      "stem": "A 35-year-old woman with hypocalcemia, hyperphosphatemia, and inappropriately LOW PTH has a family history of similar findings. Genetic testing reveals an activating mutation in CaSR. Which is the most likely diagnosis?",
+      "choices": [
+        "Familial hypocalciuric hypercalcemia",
+        "Autosomal dominant hypocalcemia",
+        "DiGeorge syndrome",
+        "Pseudohypoparathyroidism",
+        "Vitamin D deficiency"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. FHH has hypercalcemia (CaSR loss-of-function).",
+        "Correct. Autosomal dominant hypocalcemia (ADH) — gain-of-function mutation in CaSR. The receptor is over-sensitive to Ca2+, suppressing PTH at normal-low Ca2+ levels and producing hypocalcemia, hyperphosphatemia, hypercalciuria (kidney 'thinks' Ca2+ is high). Treatment is delicate: aggressive Ca2+/vit D supplementation can worsen hypercalciuria and cause nephrocalcinosis. Calcilytic agents under investigation.",
+        "Incorrect. DiGeorge has parathyroid aplasia from 22q11 deletion with cardiac and immune findings.",
+        "Incorrect. Pseudohypoparathyroidism has elevated PTH (end-organ resistance).",
+        "Incorrect. Vit D deficiency has elevated PTH (secondary)."
+      ]
+    },
+    {
+      "id": 10,
+      "stem": "A 35-year-old man with progressive flank pain has bilateral renal cysts on ultrasound. Father had similar disease and died of subarachnoid hemorrhage. Genetic testing shows PKD1 mutation. Which is the most likely diagnosis?",
+      "choices": [
+        "Autosomal recessive PKD",
+        "Autosomal dominant PKD (ADPKD)",
+        "Medullary sponge kidney",
+        "Acquired cystic disease",
+        "Tuberous sclerosis"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. ARPKD presents in infancy/childhood with severe renal and hepatic involvement.",
+        "Correct. Autosomal dominant polycystic kidney disease — PKD1 (chromosome 16, ~85% of cases, more severe) or PKD2 (chromosome 4, ~15%, milder). Polycystin-1 / polycystin-2 dysfunction → progressive cyst growth. Extrarenal: cerebral aneurysms (~10%; subarachnoid hemorrhage risk), liver cysts, mitral valve prolapse, colonic diverticula. Tolvaptan slows progression. Eventually leads to ESRD.",
+        "Incorrect. Medullary sponge kidney is sporadic and benign.",
+        "Incorrect. Acquired cystic disease occurs in long-term dialysis.",
+        "Incorrect. Tuberous sclerosis has angiomyolipomas, not principally cysts."
+      ]
+    },
+    {
+      "id": 11,
+      "stem": "A newborn boy presents with bilateral abdominal masses and respiratory distress. Renal ultrasound shows enlarged echogenic kidneys. Hepatic involvement (congenital hepatic fibrosis) is also present. Which is the most likely diagnosis?",
+      "choices": [
+        "ADPKD",
+        "ARPKD",
+        "Medullary sponge kidney",
+        "Tuberous sclerosis",
+        "Multicystic dysplastic kidney"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. ADPKD typically presents in adulthood.",
+        "Correct. Autosomal recessive PKD — PKHD1 mutation (chromosome 6) encoding fibrocystin. Presents in infancy/early childhood with bilateral enlarged echogenic kidneys, oligohydramnios → Potter sequence (pulmonary hypoplasia, limb deformities) in severe cases, congenital hepatic fibrosis (portal hypertension, esophageal varices). High infant mortality from pulmonary hypoplasia.",
+        "Incorrect. MSK is benign and sporadic.",
+        "Incorrect. Tuberous sclerosis features other findings.",
+        "Incorrect. MCDK is unilateral and not familial."
+      ]
+    },
+    {
+      "id": 12,
+      "stem": "A 20-year-old man has hematuria, sensorineural hearing loss, and a family history of progressive renal failure in young men. Skin/kidney biopsy shows abnormal type IV collagen. Which is the most likely diagnosis?",
+      "choices": [
+        "Alport syndrome",
+        "ADPKD",
+        "Fabry disease",
+        "Thin basement membrane disease",
+        "IgA nephropathy"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Alport syndrome — typically X-linked (COL4A5 mutation) defect in type IV collagen α3/4/5 chains. Affected males have progressive glomerulonephritis with hematuria, sensorineural hearing loss, and ocular abnormalities (anterior lenticonus). Female carriers may have milder findings. Progresses to ESRD. Treatment: ACEi/ARB to slow progression; transplant when ESRD develops; gene therapy in development.",
+        "Incorrect. ADPKD has cysts, not collagen IV defect.",
+        "Incorrect. Fabry has lysosomal α-galactosidase A deficiency with multisystem findings.",
+        "Incorrect. Thin basement membrane is benign familial hematuria.",
+        "Incorrect. IgA nephropathy is sporadic and not associated with deafness."
+      ]
+    },
+    {
+      "id": 13,
+      "stem": "A 35-year-old man has acroparesthesias, angiokeratomas, hypohidrosis, and progressive renal failure. Family history reveals affected male relatives. Lysosomal α-galactosidase A activity is markedly reduced. Which is the most likely diagnosis?",
+      "choices": [
+        "Fabry disease",
+        "Alport syndrome",
+        "Cystinuria",
+        "Cystinosis",
+        "Tay-Sachs disease"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Fabry disease — X-linked deficiency of α-galactosidase A (GLA gene) → accumulation of globotriaosylceramide (Gb3) in vascular endothelium and podocytes. Renal: progressive proteinuria and decline; characteristic 'zebra body' inclusions on EM. Other: acroparesthesias, hypohidrosis, angiokeratomas, cardiac, stroke. Treatment: enzyme replacement therapy (agalsidase) or oral migalastat (chaperone).",
+        "Incorrect. Alport has hearing loss and collagen IV defect.",
+        "Incorrect. Cystinuria causes recurrent kidney stones.",
+        "Incorrect. Cystinosis is a different lysosomal disease (cystine accumulation).",
+        "Incorrect. Tay-Sachs is a CNS lysosomal disease without renal involvement."
+      ]
+    },
+    {
+      "id": 14,
+      "stem": "A 22-year-old man with recurrent kidney stones has hexagonal crystals in urine. Stone analysis shows cystine. Family history is positive. Which transporter is defective?",
+      "choices": [
+        "SLC3A1 / SLC7A9",
+        "NCC",
+        "ENaC",
+        "CFTR",
+        "URAT1"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Cystinuria — autosomal recessive defect in SLC3A1 or SLC7A9 (proximal tubular and intestinal transporter for cystine and dibasic amino acids: cystine, ornithine, lysine, arginine — 'COLA'). Cystine is poorly soluble in acidic urine and forms recurrent radio-opaque hexagonal-crystal stones. Treatment: aggressive hydration, urinary alkalinization (potassium citrate), dietary Na+ restriction, tiopronin or D-penicillamine for refractory cases.",
+        "Incorrect. NCC mutations → Gitelman.",
+        "Incorrect. ENaC mutations → Liddle or PHA1.",
+        "Incorrect. CFTR is cystic fibrosis.",
+        "Incorrect. URAT1 dysfunction relates to uric acid handling."
+      ]
+    },
+    {
+      "id": 15,
+      "stem": "A 4-year-old boy with growth failure, photophobia, and Fanconi-pattern aminoaciduria, glycosuria, and phosphaturia has corneal cystine crystals. CTNS mutation is found. Which is the most likely diagnosis?",
+      "choices": [
+        "Cystinuria",
+        "Cystinosis",
+        "Wilson disease",
+        "Tyrosinemia",
+        "Hartnup disease"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Cystinuria is a transport defect causing kidney stones; cystinosis is a lysosomal storage disease.",
+        "Correct. Cystinosis — autosomal recessive mutation in CTNS (lysosomal cystine transporter). Cystine accumulates in lysosomes throughout the body, causing: Fanconi syndrome (proximal tubular dysfunction), growth failure, photophobia (corneal crystals), hypothyroidism, eventual ESRD. Treatment: cysteamine (depletes intracellular cystine) systemic and topical; vitamin D, electrolyte replacement, eventually transplant.",
+        "Incorrect. Wilson is copper accumulation.",
+        "Incorrect. Tyrosinemia is amino acid metabolism disorder.",
+        "Incorrect. Hartnup is neutral amino acid transport defect (pellagra-like)."
+      ]
+    },
+    {
+      "id": 16,
+      "stem": "A 20-year-old man has bowed legs, short stature, and lifelong hypophosphatemia despite normal Ca2+ and PTH. Family pedigree shows X-linked inheritance. PHEX mutation is found. Which best explains the phosphate wasting?",
+      "choices": [
+        "Vitamin D deficiency",
+        "Primary hyperparathyroidism",
+        "Excess FGF-23 activity",
+        "NCC mutation",
+        "ENaC mutation"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Vit D deficiency has elevated PTH.",
+        "Incorrect. PTH is normal in XLH.",
+        "Correct. X-linked hypophosphatemic rickets (XLH) — loss-of-function PHEX mutations impair degradation of FGF-23 → ELEVATED FGF-23 activity → renal phosphate wasting (NaPi-IIa downregulation in PCT) AND reduced calcitriol synthesis. Phenotype: rickets/osteomalacia, growth retardation, dental abnormalities. Treatment: oral phosphate + active vitamin D (calcitriol); newer therapy with burosumab (anti-FGF-23 monoclonal antibody).",
+        "Incorrect. NCC mutations cause Gitelman.",
+        "Incorrect. ENaC mutations cause Liddle or PHA1."
+      ]
+    },
+    {
+      "id": 17,
+      "stem": "A 7-year-old child with recurrent dehydration, polyuria, and developmental delay fails to concentrate urine despite high plasma osmolality and DOES NOT respond to DDAVP. His maternal uncle had similar findings. Which is the most likely diagnosis?",
+      "choices": [
+        "Central DI",
+        "X-linked nephrogenic DI",
+        "Primary polydipsia",
+        "Liddle syndrome",
+        "Bartter syndrome"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Central DI responds robustly to DDAVP.",
+        "Correct. X-linked nephrogenic DI — most common hereditary form (~90% of inherited NDI). Loss-of-function mutations in AVPR2 gene (V2 receptor) on Xq28. Affected males present in infancy with polyuria, dehydration, hypernatremia, failure to thrive. NO response to DDAVP (V2 receptor non-functional). Treatment: free water access, low-Na+ diet, thiazide ± amiloride for paradoxical antidiuresis. Less common autosomal recessive AQP2 mutations cause similar phenotype.",
+        "Incorrect. Primary polydipsia has hyponatremia.",
+        "Incorrect. Liddle has hypertension.",
+        "Incorrect. Bartter has hypokalemic alkalosis."
+      ]
+    },
+    {
+      "id": 18,
+      "stem": "A child with severe rickets has aminoaciduria, glycosuria with normal serum glucose, hypophosphatemia, hypokalemia, and a normal-anion-gap metabolic acidosis. Which best characterizes this pattern?",
+      "choices": ["Type 1 RTA", "Fanconi syndrome", "Bartter syndrome", "Gitelman syndrome", "Liddle syndrome"],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Type 1 RTA does not feature glycosuria, phosphaturia, or aminoaciduria.",
+        "Correct. Fanconi syndrome — generalized proximal tubular dysfunction. Manifestations: HCO3− wasting (proximal RTA), hypokalemia, hypophosphatemia, glycosuria with normal serum glucose, aminoaciduria, uricosuria. Causes: genetic (cystinosis, Wilson, tyrosinemia, Lowe syndrome); acquired (multiple myeloma light-chain proximal tubulopathy, tenofovir, ifosfamide, heavy metals). Severe phosphate loss → rickets in children, osteomalacia in adults.",
+        "Incorrect. Bartter is a TAL disorder without proximal involvement.",
+        "Incorrect. Gitelman is a DCT disorder.",
+        "Incorrect. Liddle has hypertension and hypokalemia."
+      ]
+    },
+    {
+      "id": 19,
+      "stem": "A 28-year-old man with chronic vague joint pains has glycosuria with normal blood glucose, mild hypophosphatemia, and Mg 1.6. Genetic testing reveals an isolated SLC2A2 mutation. Which best characterizes this disorder?",
+      "choices": [
+        "Renal glucosuria (familial isolated)",
+        "Diabetes mellitus type 1",
+        "Cystinosis",
+        "Bartter syndrome",
+        "Fanconi syndrome"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Familial renal glucosuria — autosomal recessive defect in SLC5A2 (SGLT2) most commonly, or SLC2A2 (GLUT2 — Fanconi-Bickel syndrome). Glucose appears in urine despite normal blood glucose. Mild and benign in isolated SGLT2 deficiency. SLC2A2 (GLUT2, Fanconi-Bickel) features hepatic glycogen storage and a more complex phenotype. SGLT2 inhibitors mimic this pharmacologically.",
+        "Incorrect. T1DM has hyperglycemia.",
+        "Incorrect. Cystinosis has cystine crystals and Fanconi syndrome.",
+        "Incorrect. Bartter is a TAL disorder.",
+        "Incorrect. Fanconi has more complete proximal tubular dysfunction."
+      ]
+    },
+    {
+      "id": 20,
+      "stem": "A 24-year-old man with Liddle syndrome is being managed. Which combination of treatments is most appropriate?",
+      "choices": [
+        "Spironolactone and ACE inhibitor",
+        "Amiloride or triamterene plus low-Na+ diet",
+        "Thiazide plus ACE inhibitor",
+        "Loop diuretic plus K+ supplementation",
+        "Beta-blocker monotherapy"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Spironolactone is INEFFECTIVE in Liddle (the lesion is downstream of MR).",
+        "Correct. Direct ENaC blockade (amiloride or triamterene) corrects BP and electrolytes in Liddle by acting at the constitutively active mutant ENaC channel. Combined with low-Na+ diet to reduce substrate availability. ACEi/ARB does not work because aldosterone is already suppressed; the disease is NOT renin-dependent.",
+        "Incorrect. Thiazides may help BP modestly but do not address the underlying ENaC defect.",
+        "Incorrect. Loop diuretics worsen K+ wasting.",
+        "Incorrect. β-blockers do not address the ENaC overactivity."
+      ]
+    },
+    {
+      "id": 21,
+      "stem": "A 17-year-old girl with Gitelman syndrome has chronic K+ 3.0, Mg 1.5, and intermittent muscle cramps. Which long-term management is most appropriate?",
+      "choices": [
+        "Spironolactone plus K+/Mg2+ supplementation",
+        "Loop diuretic monotherapy",
+        "Hydrochlorothiazide",
+        "ACE inhibitor monotherapy",
+        "Liver transplant"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Gitelman is managed with K+- and Mg2+-sparing strategies: oral K+ and Mg2+ replacement (often lifelong); K+-sparing diuretic (spironolactone, eplerenone, or amiloride) reduces ongoing K+ wasting; high-Na+/Cl− intake supports volume; NSAIDs in selected cases reduce prostaglandin-mediated wasting. Patients live a generally normal life with monitoring.",
+        "Incorrect. Loop diuretics worsen K+ and Mg2+ wasting.",
+        "Incorrect. Thiazides also worsen the underlying defect.",
+        "Incorrect. ACEi/ARB do not address the K+ and Mg2+ deficits.",
+        "Incorrect. Gitelman does not require organ transplant."
+      ]
+    },
+    {
+      "id": 22,
+      "stem": "A 6-month-old infant with Bartter syndrome has severe polyuria, growth failure, and hypokalemia. Which medication class is most useful in addition to electrolyte replacement?",
+      "choices": ["Loop diuretic", "NSAID (e.g., indomethacin)", "ACE inhibitor", "Mannitol", "β-agonist"],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Loop diuretics worsen Bartter (the defect already mimics chronic loop blockade).",
+        "Correct. NSAIDs (indomethacin) reduce prostaglandin-driven renin secretion and natriuresis in Bartter syndrome, modestly improving K+ and volume status. Used in addition to aggressive K+ and Mg2+ supplementation, salt repletion, and sometimes K+-sparing diuretics. Risks: GI ulceration, NSAID nephropathy.",
+        "Incorrect. ACEi could worsen volume contraction in Bartter.",
+        "Incorrect. Mannitol is osmotic; not used for Bartter.",
+        "Incorrect. β-agonists shift K+ INTO cells, worsening hypokalemia."
+      ]
+    },
+    {
+      "id": 23,
+      "stem": "A 50-year-old woman with FHH discovered after a parathyroidectomy that did not correct her hypercalcemia is being counseled. Which best describes the clinical course?",
+      "choices": [
+        "Progressive renal failure",
+        "Generally benign with normal life expectancy",
+        "High risk of pancreatitis",
+        "Progressive hypocalcemic seizures",
+        "ESRD by middle age"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. FHH does not principally cause CKD.",
+        "Correct. FHH is a generally BENIGN condition with normal life expectancy, not requiring treatment. Recognition is important to avoid unnecessary parathyroidectomy (which does not correct the elevated set point at the parathyroid OR kidney). Monitor periodically; reassure patients and family.",
+        "Incorrect. Pancreatitis risk is not characteristic.",
+        "Incorrect. FHH has hypercalcemia, not hypocalcemia.",
+        "Incorrect. ESRD is not characteristic."
+      ]
+    },
+    {
+      "id": 24,
+      "stem": "A 6-year-old girl has lifelong hypomagnesemia, hypercalciuria, nephrocalcinosis, and progressive renal failure. CLDN16 mutation is identified. Which best characterizes this disorder?",
+      "choices": [
+        "FHHNC",
+        "Bartter syndrome",
+        "Gitelman syndrome",
+        "Cystinosis",
+        "X-linked NDI"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. FHHNC — autosomal recessive loss-of-function in CLDN16 (or CLDN19) encoding claudins of the TAL paracellular pathway. The TAL cannot reabsorb Mg2+ or Ca2+ paracellularly. Result: hypomagnesemia, HYPERcalciuria with nephrocalcinosis and stones, progressive CKD often presenting in childhood. Treatment: thiazides (paradoxically reduce hypercalciuria); aggressive Mg2+ replacement; renal transplant if ESRD.",
+        "Incorrect. Bartter has hypokalemic alkalosis dominating.",
+        "Incorrect. Gitelman has HYPOcalciuria.",
+        "Incorrect. Cystinosis has lysosomal cystine crystals.",
+        "Incorrect. X-linked NDI features hypernatremia and dilute urine."
+      ]
+    },
+    {
+      "id": 25,
+      "stem": "A 30-year-old researcher is summarizing the principal hereditary tubular disorders. Which pairing of disorder and underlying defect is correct?",
+      "choices": [
+        "Bartter — gain-of-function ENaC",
+        "Gitelman — NCC loss-of-function",
+        "Liddle — NKCC2 loss-of-function",
+        "FHH — gain-of-function CaSR",
+        "Cystinuria — claudin-16 mutation"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Bartter is loss-of-function in TAL transporters (NKCC2, ROMK, ClC-Kb, barttin).",
+        "Correct. Gitelman is autosomal recessive loss-of-function in NCC (SLC12A3) — phenocopies chronic thiazide. The pairings: Bartter ↔ TAL transporters; Gitelman ↔ NCC; Liddle ↔ ENaC gain-of-function; PHA1 ↔ ENaC LOF or MR; PHA2/Gordon ↔ WNK1/4; FHH ↔ CaSR LOF; ADH ↔ CaSR GOF; Cystinuria ↔ SLC3A1/SLC7A9; FHHNC ↔ claudin-16/19.",
+        "Incorrect. Liddle is gain-of-function ENaC.",
+        "Incorrect. FHH is loss-of-function CaSR.",
+        "Incorrect. Cystinuria is SLC3A1/SLC7A9; claudin-16 is FHHNC."
+      ]
+    }
+  ]
+}
