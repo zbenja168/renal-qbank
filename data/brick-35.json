@@ -1,0 +1,463 @@
+{
+  "id": 35,
+  "title": "Chronic Kidney Disease",
+  "questions": [
+    {
+      "id": 1,
+      "stem": "A 65-year-old man has eGFR 50 mL/min/1.73 m² and urine albumin/creatinine ratio (ACR) 50 mg/g. Both findings have been present for 4 months. Which best characterizes his CKD?",
+      "choices": ["No CKD", "CKD G3a, A2", "CKD G5", "CKD G1, A1", "AKI"],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. eGFR <60 for >3 months meets CKD criteria.",
+        "Correct. CKD: structural or functional kidney damage for >3 months. Staging by eGFR: G1 ≥90; G2 60–89; G3a 45–59; G3b 30–44; G4 15–29; G5 <15. Albuminuria: A1 (<30 mg/g); A2 (30–300 mg/g, 'moderately increased'); A3 (>300 mg/g, 'severely increased'). This patient is G3a (eGFR 50) A2 (ACR 50). Risk stratification combines both axes (KDIGO heat map). Higher stages and higher albuminuria → higher CV and progression risk.",
+        "Incorrect. G5 is eGFR <15.",
+        "Incorrect. G1 with A1 would have eGFR ≥90 and minimal albuminuria.",
+        "Incorrect. AKI is acute (<3 months)."
+      ]
+    },
+    {
+      "id": 2,
+      "stem": "A 30-year-old researcher reviews the leading causes of CKD in the United States. Which is most common?",
+      "choices": [
+        "Polycystic kidney disease",
+        "Diabetes mellitus",
+        "Lupus",
+        "Glomerulonephritis",
+        "Alport syndrome"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. PKD is a recognized but uncommon cause.",
+        "Correct. The leading causes of CKD/ESRD in the US: (1) DIABETES MELLITUS (~45% of incident ESRD), (2) HYPERTENSION (~30%), (3) GLOMERULONEPHRITIS (~10%), (4) polycystic kidney disease (~3%), (5) other/unknown. Diabetic nephropathy progresses through hyperfiltration → microalbuminuria → macroalbuminuria → declining GFR → ESRD over decades. Treatment includes glycemic control, ACEi/ARB for proteinuria, SGLT2 inhibitors (slow progression), finerenone (non-steroidal MR antagonist).",
+        "Incorrect. Lupus is uncommon.",
+        "Incorrect. GN is third.",
+        "Incorrect. Alport is rare hereditary."
+      ]
+    },
+    {
+      "id": 3,
+      "stem": "A 60-year-old man with diabetic nephropathy has eGFR 35 and ACR 800 mg/g. Which medication class is most renoprotective in proteinuric diabetic CKD?",
+      "choices": [
+        "ACE inhibitor or ARB",
+        "Calcium channel blocker",
+        "β-blocker",
+        "Loop diuretic",
+        "Hydralazine"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. ACE inhibitors and ARBs are first-line renoprotective therapy for proteinuric CKD (especially diabetic nephropathy). Mechanisms: dilate efferent arteriole (reducing intraglomerular pressure and proteinuria), antifibrotic effects, BP control. Slows progression and reduces CV events. Combined ACEi + ARB is AVOIDED (no added benefit, increased AKI/hyperkalemia risk — ONTARGET, VA NEPHRON-D). Modern additions: SGLT2 inhibitors (canagliflozin, dapagliflozin, empagliflozin — slow progression in DM and non-DM CKD), FINERENONE (non-steroidal MR antagonist, FIDELIO/FIGARO trials in diabetic CKD).",
+        "Incorrect. CCBs reduce BP but are not principally antiproteinuric.",
+        "Incorrect. β-blockers don't have specific renoprotection.",
+        "Incorrect. Loop diuretics control volume but are not renoprotective per se.",
+        "Incorrect. Hydralazine is a vasodilator without renoprotection."
+      ]
+    },
+    {
+      "id": 4,
+      "stem": "A 55-year-old woman with diabetic CKD stage 3 has Hb 9.5 g/dL with normal iron studies. Which best explains her anemia?",
+      "choices": [
+        "Iron deficiency",
+        "B12 deficiency",
+        "Reduced erythropoietin",
+        "Hemolysis",
+        "Bleeding"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Iron studies normal.",
+        "Incorrect. Not described.",
+        "Correct. Anemia of CKD — multifactorial, principally from reduced erythropoietin production by peritubular fibroblasts (kidney is the primary site of EPO synthesis; failing kidneys make less). Other contributors: shortened RBC lifespan, iron deficiency (poor absorption and increased losses), inflammation (hepcidin elevation, functional iron deficiency), folate deficiency. Treatment: ESAs (erythropoiesis-stimulating agents — epoetin α, darbepoetin) targeting Hb 10–11 (NOT normal — TREAT trial showed harm at higher targets); IV iron (oral often inadequate); HIF-PHI agents (roxadustat, vadadustat, daprodustat — newer oral options).",
+        "Incorrect. Hemolysis would have specific labs.",
+        "Incorrect. Not described."
+      ]
+    },
+    {
+      "id": 5,
+      "stem": "A 60-year-old woman with CKD stage 4 has serum phosphate 6.2, calcium 8.4, PTH 380 (high), and low calcitriol. Which best characterizes this picture?",
+      "choices": [
+        "Primary hyperparathyroidism",
+        "Secondary hyperparathyroidism (CKD-MBD)",
+        "Vitamin D toxicity",
+        "FHH",
+        "Tertiary hyperparathyroidism"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Primary HPT has elevated calcium.",
+        "Correct. Chronic kidney disease-mineral and bone disorder (CKD-MBD): (1) reduced calcitriol synthesis (failing 1α-hydroxylase) → reduced GI Ca absorption → hypocalcemia; (2) phosphate retention → directly suppresses calcitriol AND lowers ionized Ca → stimulates PTH; (3) elevated FGF-23 contributes to phosphate excretion AND further suppresses calcitriol; (4) chronic stimulation → parathyroid hyperplasia → SECONDARY hyperparathyroidism. Treatment: phosphate binders (sevelamer, lanthanum, ferric citrate, calcium-based), active vitamin D (calcitriol), calcimimetics (cinacalcet — sensitizes CaSR), low-phosphate diet.",
+        "Incorrect. Vit D toxicity has elevated 25-OH D and Ca.",
+        "Incorrect. FHH has hypercalcemia.",
+        "Incorrect. Tertiary HPT has elevated calcium (autonomous gland)."
+      ]
+    },
+    {
+      "id": 6,
+      "stem": "A 60-year-old man with longstanding CKD has eGFR 22, severe hyperphosphatemia (phosphate 7.5), elevated PTH, and elevated serum calcium (11.0). His secondary hyperparathyroidism is now autonomous after parathyroid hyperplasia. Which best characterizes this stage?",
+      "choices": [
+        "Primary hyperparathyroidism",
+        "Tertiary hyperparathyroidism",
+        "Secondary hyperparathyroidism",
+        "FHH",
+        "Vitamin D toxicity"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Primary HPT is the initial pathology, not after CKD-driven chronic stimulation.",
+        "Correct. TERTIARY HYPERPARATHYROIDISM — autonomous parathyroid hyperplasia/adenomas develop after prolonged secondary HPT. Glands now secrete PTH independent of feedback, producing HYPERCALCEMIA despite the underlying CKD or even after renal transplant when calcitriol normalizes. Treatment: calcimimetics (cinacalcet) sensitize CaSR; partial parathyroidectomy for refractory cases. Distinguishes from secondary by hypercalcemia.",
+        "Incorrect. Secondary HPT has normal/low calcium.",
+        "Incorrect. FHH is not preceded by chronic CKD-MBD.",
+        "Incorrect. Vit D toxicity has different markers."
+      ]
+    },
+    {
+      "id": 7,
+      "stem": "A 55-year-old woman with CKD stage 4 has BP 145/95 despite ACE inhibitor and amlodipine. Which is the recommended BP target in CKD with proteinuria?",
+      "choices": ["<160/100", "<140/90", "<130/80", "<120/70", "No target"],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Too high.",
+        "Incorrect. Too high for CKD with proteinuria.",
+        "Correct. KDIGO 2021 BP target in CKD: <120 systolic in non-dialysis CKD without diabetes (based on SPRINT extrapolation); historically ACC/AHA recommends <130/80 for CKD generally. Most clinicians use <130/80 as a balanced target, especially with proteinuria. Strict BP control slows CKD progression and reduces CV events; achieve gradually with combination therapy. Avoid hypotension/orthostasis particularly in elderly.",
+        "Incorrect. Too aggressive; hypotension risk.",
+        "Incorrect. BP target is essential."
+      ]
+    },
+    {
+      "id": 8,
+      "stem": "A 60-year-old man with diabetic CKD (eGFR 30) has been started on dapagliflozin in addition to ACE inhibitor. Which best explains the rationale?",
+      "choices": [
+        "Glucose lowering only",
+        "Slows CKD progression",
+        "Replaces insulin",
+        "Treats anemia",
+        "Reduces parathyroid hormone"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Beyond glucose lowering.",
+        "Correct. SGLT2 INHIBITORS slow CKD progression and reduce CV events through mechanisms BEYOND glucose lowering: (1) tubuloglomerular feedback restoration (reduces hyperfiltration); (2) modest natriuresis and BP reduction; (3) anti-inflammatory and antifibrotic effects; (4) cardioprotection. Trials: CREDENCE (canagliflozin in DM CKD), DAPA-CKD (dapagliflozin in CKD with or without DM), EMPA-KIDNEY (empagliflozin in broad CKD population). Approved down to eGFR 20 (some agents). Adverse: euglycemic DKA in DM, mycotic genital infections, slight initial Cr rise (expected), volume depletion. Hold during sick days.",
+        "Incorrect. Doesn't replace insulin.",
+        "Incorrect. Not principally for anemia.",
+        "Incorrect. Doesn't directly reduce PTH."
+      ]
+    },
+    {
+      "id": 9,
+      "stem": "A 62-year-old woman with diabetic CKD and ACR 800 has hyperkalemia (K+ 5.2) on lisinopril. The team wants to add finerenone for further proteinuria reduction. Which best characterizes finerenone?",
+      "choices": [
+        "Steroidal MR antagonist like spironolactone",
+        "Non-steroidal selective MR antagonist",
+        "ACE inhibitor",
+        "Calcimimetic",
+        "Vasopressin agonist"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Finerenone is non-steroidal.",
+        "Correct. FINERENONE — non-steroidal selective mineralocorticoid receptor antagonist. Distinct from steroidal MRAs (spironolactone, eplerenone): more selective for MR (less androgen / progesterone effects), preferential heart/kidney distribution, and lower hyperkalemia rates. FIDELIO-DKD (2020) and FIGARO-DKD (2021) showed reduced CKD progression and CV events in diabetic CKD. Used as add-on to maximally tolerated ACEi/ARB. Monitor K+ at start and during therapy. Indicated for stage 3–4 CKD with type 2 DM and albuminuria.",
+        "Incorrect. ACEi is different.",
+        "Incorrect. Not a calcimimetic.",
+        "Incorrect. Not vasopressin agonist."
+      ]
+    },
+    {
+      "id": 10,
+      "stem": "A 70-year-old man with CKD stage 4 has phosphate 6.8 mg/dL despite dietary restriction. Which best characterizes treatment options?",
+      "choices": [
+        "Vitamin D only",
+        "Phosphate binders with meals",
+        "Increased dietary phosphate",
+        "ACE inhibitor",
+        "Diuretics alone"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Vit D may worsen Ca x Phos product.",
+        "Correct. PHOSPHATE BINDERS taken with meals to bind dietary phosphate in gut. Calcium-based (Ca acetate, Ca carbonate): cheap, but Ca load contributes to vascular calcification — limit total elemental Ca to <1.5 g/day. SEVELAMER (carbonate or hydrochloride): non-absorbed polymer, no Ca load, may have lipid-lowering effect; expensive. LANTHANUM CARBONATE: another non-Ca option. IRON-BASED (ferric citrate, sucroferric oxyhydroxide): provide some iron supplementation as bonus. Aluminum hydroxide rarely used (Al toxicity). Choice depends on individual factors (Ca status, lipids, iron, GI tolerance, cost).",
+        "Incorrect. Restrict, not increase, phosphate.",
+        "Incorrect. ACEi doesn't directly lower phosphate.",
+        "Incorrect. Diuretics don't principally lower phosphate."
+      ]
+    },
+    {
+      "id": 11,
+      "stem": "A 55-year-old man with CKD stage 5 has Hb 8.2, and ferritin 50, TSAT 12% (low). Which is the most appropriate management?",
+      "choices": [
+        "Start ESA only",
+        "IV iron, then ESA",
+        "Oral iron only",
+        "Transfusion only",
+        "Observation"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. ESA without correcting iron deficiency is ineffective.",
+        "Correct. CKD anemia management: (1) ASSESS IRON STATUS first — TSAT <20% or ferritin <100 (in non-dialysis CKD; <200 in dialysis) suggests iron deficiency. (2) REPLETE IRON — IV iron preferred in advanced CKD/dialysis (oral often inadequate due to poor GI absorption in CKD); options include iron sucrose, ferric gluconate, ferric carboxymaltose, ferumoxytol. (3) ESA (epoetin α, darbepoetin) added if iron-replete and Hb <10. Target Hb 10–11 (NOT >11 — TREAT, CHOIR, CREATE trials showed harm at higher targets). (4) HIF-PHI agents (roxadustat, vadadustat, daprodustat) are newer alternatives.",
+        "Incorrect. Oral iron is often inadequate in CKD.",
+        "Incorrect. Transfusion alone is reserved for severe symptomatic.",
+        "Incorrect. Anemia is symptomatic and warrants treatment."
+      ]
+    },
+    {
+      "id": 12,
+      "stem": "A 28-year-old researcher considers the cardiovascular risk in CKD. Which best characterizes the leading cause of death in CKD?",
+      "choices": [
+        "Cancer",
+        "Cardiovascular disease",
+        "Infection",
+        "Suicide",
+        "Trauma"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Cancer is not principal.",
+        "Correct. CARDIOVASCULAR DISEASE is the leading cause of death in CKD and ESRD patients (50%+). Mechanisms: traditional CV risk factors (HTN, DM, dyslipidemia, smoking) PLUS uremia-specific factors (vascular calcification from Ca×Phos product, hyperhomocysteinemia, oxidative stress, anemia, fluid overload, LVH from chronic pressure/volume overload, sympathetic activation). Most patients with CKD die of CV disease before reaching ESRD. CKD is considered a CV risk equivalent. Aggressive CV risk reduction is essential: BP control, statins (regardless of LDL in CKD G3+), SGLT2 inhibitors, RAAS blockade, smoking cessation.",
+        "Incorrect. Infection is significant but second.",
+        "Incorrect. Suicide is not principal.",
+        "Incorrect. Trauma is not principal."
+      ]
+    },
+    {
+      "id": 13,
+      "stem": "A 60-year-old man with diabetic CKD (eGFR 18) is being considered for dialysis preparation. Which best characterizes preferred dialysis access placement?",
+      "choices": [
+        "Tunneled catheter as default",
+        "AVF placement 6+ months early",
+        "Peritoneal catheter only",
+        "Wait until dialysis is required",
+        "AV graft is always preferred"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Catheters have highest complication rates.",
+        "Correct. Vascular access hierarchy for HD: (1) ARTERIOVENOUS FISTULA (AVF) — preferred, lowest infection/thrombosis rates, longest patency. Placed 3–6+ months before anticipated dialysis (needs to mature). (2) AV GRAFT — synthetic conduit between artery and vein; 2–6 weeks to use. (3) TUNNELED CENTRAL CATHETER — last resort, highest infection/thrombosis/mortality. KDIGO recommends 'Fistula First / Catheter Last' approach. Refer for AVF placement when eGFR ~20 or anticipated dialysis within 1 year. Spare arm veins (avoid IV draws on dominant arm) once CKD progression is established.",
+        "Incorrect. PD is one option but not the preferred for all.",
+        "Incorrect. Late preparation leads to catheter use.",
+        "Incorrect. AVF is preferred over graft."
+      ]
+    },
+    {
+      "id": 14,
+      "stem": "A 50-year-old woman with CKD stage 3 wants to know her risk of progression. Which factor most strongly predicts CKD progression?",
+      "choices": [
+        "Age alone",
+        "Albuminuria",
+        "Hemoglobin",
+        "Calcium",
+        "Heart rate"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Age is one factor.",
+        "Correct. ALBUMINURIA is the single strongest predictor of CKD progression and CV events. The KDIGO heat map combines eGFR and albuminuria to stratify risk: A1 (low), A2 (moderate), A3 (severe). Higher albuminuria → faster decline + higher CV risk. Other progression risk factors: rapid eGFR decline (>5/year), hypertension, DM, smoking, obesity, primary disease (DM, GN > HTN > others), genetic factors (APOL1 in African ancestry), elevated FGF-23, proteinuria. Reducing albuminuria with ACEi/ARB + SGLT2 inhibitor + finerenone slows progression.",
+        "Incorrect. Hb is one factor.",
+        "Incorrect. Calcium is not principal predictor.",
+        "Incorrect. HR is not principal."
+      ]
+    },
+    {
+      "id": 15,
+      "stem": "A 65-year-old woman with CKD has elevated FGF-23. Which is the principal source and effect of FGF-23?",
+      "choices": [
+        "Made by parathyroid; raises calcitriol",
+        "Made by osteocytes; phosphaturic and reduces calcitriol",
+        "Made by liver; raises Ca",
+        "Made by kidney; raises K+",
+        "Made by intestine; raises phosphate"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. PTH is from parathyroid; FGF-23 is osteocyte-derived.",
+        "Correct. FIBROBLAST GROWTH FACTOR 23 (FGF-23) is made by osteocytes (and osteoblasts). Acts on the kidney via FGF receptor + co-receptor klotho to: (1) inhibit NaPi-IIa in PCT → phosphaturia; (2) inhibit 1α-hydroxylase → reduced calcitriol synthesis. FGF-23 rises EARLY in CKD (before phosphate is overtly elevated) as a compensatory response to phosphate retention. Elevated FGF-23 is associated with LVH, vascular calcification, and CV mortality. Klotho deficiency develops in CKD, contributing to bone-vascular axis dysfunction. Drugs targeting FGF-23 (burosumab) used in X-linked hypophosphatemic rickets.",
+        "Incorrect. Liver is not source.",
+        "Incorrect. Kidney is target, not source.",
+        "Incorrect. Intestine is not source."
+      ]
+    },
+    {
+      "id": 16,
+      "stem": "A 70-year-old man with CKD stage 4 has a vascular calcification score that is markedly elevated. Which best characterizes vascular calcification in CKD?",
+      "choices": [
+        "Identical to atherosclerosis",
+        "Medial calcification plus intimal atherosclerosis",
+        "Reversible with ACE inhibitor",
+        "Only intimal atherosclerosis",
+        "No clinical significance"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Two distinct types in CKD.",
+        "Correct. CKD vascular calcification has two components: INTIMAL (atherosclerotic, lipid-driven; same as general population) AND MEDIAL (Mönckeberg sclerosis — circumferential calcification of media without lipid; specific to CKD, driven by uremic milieu — hyperphosphatemia, hypercalcemia, elevated Ca×Phos product, FGF-23 elevations, klotho deficiency, inflammation, oxidative stress, vitamin K deficiency). Medial calcification produces vessel stiffening → high systolic BP, wide pulse pressure, LVH. Both contribute to CV events. Strategies: phosphate control (binders), avoid Ca-based binders/excessive vitamin D, address inflammation; non-Ca binders preferred.",
+        "Incorrect. Once established, calcification is hard to reverse.",
+        "Incorrect. Two distinct types.",
+        "Incorrect. Major clinical impact."
+      ]
+    },
+    {
+      "id": 17,
+      "stem": "A 60-year-old man with CKD has elevated 25-OH vitamin D 28 (low) and PTH 250. Which is the most appropriate vitamin D supplementation?",
+      "choices": [
+        "Active vitamin D (calcitriol) only",
+        "Cholecalciferol for deficiency; calcitriol for HPT",
+        "No supplementation",
+        "Topical vitamin D",
+        "Vitamin K2 only"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Activate AFTER addressing 25-OH D deficiency.",
+        "Correct. Vitamin D in CKD has TWO COMPONENTS: (1) 25-HYDROXY VITAMIN D — replete with cholecalciferol or ergocalciferol (oral D3 or D2) targeting 25-OH D >30 ng/mL. Even in CKD, the liver can hydroxylate D3 to 25-OH D. (2) ACTIVE VITAMIN D (CALCITRIOL or analogs PARICALCITOL, DOXERCALCIFEROL) — added for elevated PTH/secondary HPT, since the failing kidney cannot make calcitriol. Monitor calcium and phosphate; risk of hypercalcemia and hyperphosphatemia. Calcimimetics (cinacalcet) also reduce PTH in dialysis patients.",
+        "Incorrect. Replenishment indicated for low 25-OH D.",
+        "Incorrect. Topical not standard.",
+        "Incorrect. K2 is being studied but not principal."
+      ]
+    },
+    {
+      "id": 18,
+      "stem": "A 55-year-old woman with CKD stage 4 has a planned IV contrast study. Which best characterizes the most appropriate prophylaxis?",
+      "choices": [
+        "N-acetylcysteine alone",
+        "Isotonic IV fluids",
+        "Mannitol",
+        "Furosemide pre-contrast",
+        "ACE inhibitor"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. NAC has fallen out of favor (PRESERVE trial).",
+        "Correct. Contrast nephropathy prophylaxis in high-risk patients: (1) ISOTONIC IV FLUID before and after contrast (NS or NaHCO3 — both effective); (2) MINIMIZE contrast volume; use ISO-OSMOLAR or low-osmolar contrast; (3) HOLD nephrotoxins around contrast (NSAIDs, ACEi/ARB, diuretics — controversial); (4) HOLD METFORMIN at time of contrast (lactic acidosis risk if AKI develops); (5) consider alternative imaging (US, non-contrast CT, MRI without gadolinium-based contrast; though gadolinium has its own concern in advanced CKD: nephrogenic systemic fibrosis with older agents). N-ACETYLCYSTEINE has not consistently shown benefit and is no longer routinely recommended.",
+        "Incorrect. Mannitol is not protective.",
+        "Incorrect. Furosemide is not protective.",
+        "Incorrect. ACEi may need to be held."
+      ]
+    },
+    {
+      "id": 19,
+      "stem": "A 30-year-old researcher reviews the staging system for albuminuria. Which best characterizes the categories?",
+      "choices": [
+        "A1<30; A2 30-300; A3 >300 mg/g",
+        "A1: <100; A2: 100–500; A3: >500",
+        "A1: <500; A2: 500–1000; A3: >1000",
+        "Only one category",
+        "Only nephrotic-range counts"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. KDIGO albuminuria categories (urine albumin/creatinine ratio in mg/g): A1 = <30 mg/g (normal-mildly increased); A2 = 30–300 mg/g (moderately increased; 'microalbuminuria'); A3 = >300 mg/g (severely increased; 'macroalbuminuria'). Combined with eGFR (G1–G5) for risk stratification on the KDIGO heat map. Spot urine ACR is acceptable; first-morning sample preferred. Repeat to confirm; transient causes (exercise, fever, UTI, pregnancy, HF, hyperglycemia) can elevate albuminuria.",
+        "Incorrect. Different cutoffs.",
+        "Incorrect. Different cutoffs.",
+        "Incorrect. Three categories.",
+        "Incorrect. Microalbuminuria (A2) is also relevant."
+      ]
+    },
+    {
+      "id": 20,
+      "stem": "A 28-year-old researcher reviews the eGFR formulas. Which best characterizes the current preferred GFR estimating equation?",
+      "choices": [
+        "Cockcroft-Gault (creatinine clearance)",
+        "MDRD",
+        "CKD-EPI 2021 race-free creatinine equation",
+        "Schwartz formula",
+        "Inulin clearance only"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Cockcroft-Gault estimates CrCl (not standardized).",
+        "Incorrect. MDRD has been superseded.",
+        "Correct. CKD-EPI 2021 (or CKD-EPIcr 2021) is the current preferred eGFR equation. It removes the race coefficient (which had limitations and exacerbated disparities). Performs well across CKD stages. Combined creatinine + cystatin C equation (CKD-EPIcr-cys) is more accurate but less widely available. Schwartz is for pediatrics. Cockcroft-Gault still used for some drug dosing. Direct measurement (inulin, iohexol) reserved for research or specific clinical scenarios.",
+        "Incorrect. Schwartz is pediatric.",
+        "Incorrect. Inulin reserved for research."
+      ]
+    },
+    {
+      "id": 21,
+      "stem": "A 50-year-old woman with CKD stage 3 develops symptomatic anemia (Hb 9). Which is the recommended Hb target with ESA therapy?",
+      "choices": ["Normal Hb >13", "Hb 11.5–12.5", "Hb 10–11.5", "Hb <8", "No target"],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Targets >13 are HARMFUL (TREAT, CHOIR, CREATE trials).",
+        "Incorrect. Slightly above current target.",
+        "Correct. ESA target Hb in CKD: 10–11.5 g/dL (KDIGO). Trials (TREAT — darbepoetin in DM CKD; CHOIR — epoetin α; CREATE) consistently showed HARM at higher targets (Hb >13): increased CV events, stroke, mortality, cancer-related mortality. Lower target balances symptom improvement against thrombotic and CV risks. Iron repletion first (TSAT >20%, ferritin >100 in non-dialysis or >200 in dialysis). Newer HIF-PHI agents (roxadustat) are alternatives.",
+        "Incorrect. <8 is severe anemia.",
+        "Incorrect. Target exists."
+      ]
+    },
+    {
+      "id": 22,
+      "stem": "A 60-year-old man with CKD stage 5 develops pruritis, dysgeusia, and asterixis. Cr is 7.5, BUN 110. Which best characterizes uremic syndrome?",
+      "choices": [
+        "Mild electrolyte disturbance",
+        "Multi-organ uremic toxin accumulation",
+        "Acute infection",
+        "Only encephalopathy",
+        "Hyperkalemia alone"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Multi-organ involvement.",
+        "Correct. Uremic syndrome — clinical manifestations of accumulated uremic toxins (urea is a marker but not principal toxin; many small and middle-molecule toxins contribute). Manifestations: NEUROLOGIC (encephalopathy, asterixis, seizures, peripheral neuropathy); GI (anorexia, nausea, vomiting, hiccups, GI bleeding); HEMATOLOGIC (platelet dysfunction with bleeding, anemia); CARDIAC (pericarditis, pericardial effusion); SKIN (pruritis, sallow skin); ENDOCRINE (insulin resistance, sexual dysfunction); IMMUNE (impaired function); MUSCULOSKELETAL (myopathy). Treatment: dialysis or transplant. Symptomatic management: dialysis (definitive), gabapentin or pregabalin for pruritis, transfusions for severe anemia.",
+        "Incorrect. Not infection.",
+        "Incorrect. More than encephalopathy.",
+        "Incorrect. Multi-system."
+      ]
+    },
+    {
+      "id": 23,
+      "stem": "A 65-year-old man with CKD stage 4 has elevated K+ 5.4. He is on lisinopril. Which is the most appropriate management?",
+      "choices": [
+        "Stop lisinopril permanently",
+        "Low-K+ diet and K+ binders",
+        "Add another ACEi",
+        "Add NSAID",
+        "Begin dialysis immediately"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Stopping ACEi forfeits renoprotection if avoidable.",
+        "Correct. Hyperkalemia in CKD on RAAS inhibitor: (1) low-K+ diet; (2) review and reduce/discontinue other K+ elevators (NSAIDs, K+-sparing diuretics, K+ supplements, MRAs at high doses); (3) K+ BINDERS — modern agents (patiromer, sodium zirconium cyclosilicate) allow continuation of RAAS therapy; older sodium polystyrene sulfonate has GI necrosis risk. (4) Loop diuretic helps K+ excretion. (5) Reduce lisinopril dose if persistent; only DC if K+ refractory or severe. Goal: maintain RAAS therapy for renoprotection while controlling K+.",
+        "Incorrect. Worsens.",
+        "Incorrect. Worsens.",
+        "Incorrect. Mild hyperkalemia not dialysis indication."
+      ]
+    },
+    {
+      "id": 24,
+      "stem": "A 70-year-old woman with CKD has eGFR 16 and is symptomatic with dyspnea. The team is considering renal replacement therapy. Which best lists RRT modalities?",
+      "choices": [
+        "Hemodialysis only",
+        "HD, PD, transplant, conservative",
+        "Plasma exchange",
+        "Hemoperfusion only",
+        "Lithotripsy"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Multiple options.",
+        "Correct. RRT options for ESRD: (1) IN-CENTER HEMODIALYSIS — 3×/week, 3–4 h sessions, dialysis center. (2) HOME HEMODIALYSIS — short daily or nocturnal; better quality of life. (3) PERITONEAL DIALYSIS — CAPD (manual) or APD (cycler-assisted, often nocturnal); independence and home-based; risk of peritonitis. (4) KIDNEY TRANSPLANT — best survival and quality of life; deceased or living donor; long wait times; lifelong immunosuppression. (5) CONSERVATIVE / SUPPORTIVE CARE — appropriate for elderly frail patients where dialysis offers limited benefit; symptom management without dialysis. Patient education and shared decision-making essential.",
+        "Incorrect. Plex is for specific autoimmune disorders.",
+        "Incorrect. Hemoperfusion is for poisonings.",
+        "Incorrect. Stones."
+      ]
+    },
+    {
+      "id": 25,
+      "stem": "A 30-year-old researcher considers dietary recommendations for CKD. Which best characterizes the recommended approach?",
+      "choices": [
+        "High-protein diet for all",
+        "Low-Na, low-Phos, modest protein",
+        "No dietary modifications",
+        "Strict protein elimination",
+        "Pure vegetarian only"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. High-protein worsens proteinuria/progression.",
+        "Correct. CKD diet: SODIUM RESTRICTION <2 g/day (BP control, edema); MODEST PROTEIN RESTRICTION (~0.8 g/kg/day in non-dialysis CKD; higher needs in dialysis 1.0–1.2 g/kg); PHOSPHATE RESTRICTION (avoid processed foods with inorganic phosphate additives, dairy, nuts, beans); POTASSIUM as needed (low-K diet for hyperkalemia — limit bananas, oranges, tomatoes, potatoes); avoid salt substitutes (often KCl). Overall: balanced, sufficient calories (35 kcal/kg in non-dialysis, more in dialysis); registered dietitian referral helpful. Plant-based diets emerging as beneficial (lower acid load, lower inorganic phosphate bioavailability).",
+        "Incorrect. Diet is essential.",
+        "Incorrect. Severe restriction harmful.",
+        "Incorrect. Not required."
+      ]
+    }
+  ]
+}
