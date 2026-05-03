@@ -1,0 +1,481 @@
+{
+  "id": 33,
+  "title": "Fanconi Syndrome",
+  "questions": [
+    {
+      "id": 1,
+      "stem": "A 35-year-old man with multiple myeloma has glycosuria with normal blood glucose, hypophosphatemia, hypokalemia, and a non-anion-gap metabolic acidosis. Aminoaciduria is also present. Which best characterizes this clinical pattern?",
+      "choices": [
+        "Distal RTA",
+        "Type 4 RTA",
+        "Fanconi syndrome (generalized PCT dysfunction)",
+        "Bartter syndrome",
+        "Liddle syndrome"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Distal RTA features urine pH inappropriately high without proximal tubular dysfunction features.",
+        "Incorrect. Type 4 RTA features hyperkalemia.",
+        "Correct. Fanconi syndrome — generalized PROXIMAL TUBULAR DYSFUNCTION with impaired reabsorption of multiple solutes. Characteristic findings: glycosuria with normal blood glucose, aminoaciduria, hypophosphatemia (phosphaturia), hypokalemia, normal-anion-gap metabolic acidosis (proximal RTA / bicarbonate wasting), uricosuria, low-molecular-weight proteinuria. Causes: genetic (cystinosis, Wilson, tyrosinemia type 1, Lowe, Dent disease) or acquired (multiple myeloma light-chain proximal tubulopathy, tenofovir, ifosfamide, heavy metals).",
+        "Incorrect. Bartter is a TAL disorder.",
+        "Incorrect. Liddle is a CD disorder with hypertension."
+      ]
+    },
+    {
+      "id": 2,
+      "stem": "A 30-year-old researcher reviews the proximal tubule's principal reabsorption activities. Which substances are typically lost in the urine in Fanconi syndrome?",
+      "choices": [
+        "Only glucose",
+        "Multiple solutes (glucose, AA, phosphate)",
+        "Only amino acids",
+        "Only HCO3−",
+        "Only phosphate"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Multiple solutes are lost.",
+        "Correct. Fanconi syndrome features GENERALIZED proximal tubular dysfunction with loss of multiple substances normally reabsorbed in the PCT: GLUCOSE (glycosuria with normal blood glucose, absent in iso-glycemic states), AMINO ACIDS (generalized aminoaciduria, both essential and nonessential), PHOSPHATE (phosphaturia, hypophosphatemia, rickets/osteomalacia), BICARBONATE (proximal RTA, normal-AG metabolic acidosis), URIC ACID (uricosuria, hypouricemia), POTASSIUM (hypokalemia), LOW-MW PROTEINS (β2-microglobulin, retinol binding protein, lysozyme), and sometimes magnesium and calcium.",
+        "Incorrect. Multiple losses.",
+        "Incorrect. Multiple losses.",
+        "Incorrect. Multiple losses."
+      ]
+    },
+    {
+      "id": 3,
+      "stem": "A 4-year-old boy with growth failure, photophobia, and Fanconi syndrome has cystine crystals on slit-lamp examination of the cornea. Genetic testing confirms a CTNS mutation. Which best characterizes this disorder?",
+      "choices": [
+        "Cystinuria",
+        "Cystinosis (lysosomal cystine accumulation)",
+        "Wilson disease",
+        "Lowe syndrome",
+        "Multiple myeloma"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Cystinuria features kidney stones from defective transport, not lysosomal storage.",
+        "Correct. Cystinosis — autosomal recessive mutation in CTNS (lysosomal cystine transporter). Cystine accumulates in lysosomes throughout the body, producing: Fanconi syndrome (proximal tubular dysfunction), growth failure, photophobia (corneal cystine crystals — diagnostic on slit-lamp), hypothyroidism, eventual ESRD. Treatment: cysteamine (depletes intracellular cystine) systemic + topical eye drops; vitamin D, electrolyte replacement; eventually transplant (recurrence is rare).",
+        "Incorrect. Wilson features copper accumulation, hepatic and neurologic disease.",
+        "Incorrect. Lowe (oculocerebrorenal) has cataracts and developmental delay (X-linked).",
+        "Incorrect. Myeloma is acquired in adults."
+      ]
+    },
+    {
+      "id": 4,
+      "stem": "A 30-year-old woman with hepatic and neurologic abnormalities (psychiatric symptoms, tremor, dysarthria) has Kayser-Fleischer rings on examination. She also has Fanconi syndrome with mild proximal RTA. Which best characterizes this disorder?",
+      "choices": [
+        "Cystinosis",
+        "Wilson disease",
+        "Cushing disease",
+        "Multiple myeloma",
+        "Tyrosinemia"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Cystinosis presents in childhood with corneal crystals.",
+        "Correct. Wilson disease — autosomal recessive ATP7B mutation → impaired copper excretion in bile → copper accumulation in liver, brain, cornea (Kayser-Fleischer rings), AND kidney (Fanconi syndrome from copper-induced PCT injury). Diagnosis: low ceruloplasmin, high 24-hour urine copper, KF rings on slit-lamp, liver biopsy with copper quantification. Treatment: D-penicillamine, trientine (chelators); zinc (blocks GI absorption); transplant for severe liver failure.",
+        "Incorrect. Cushing has cortisol excess features.",
+        "Incorrect. Myeloma typically presents in older adults.",
+        "Incorrect. Tyrosinemia type 1 presents in infancy with liver failure and Fanconi."
+      ]
+    },
+    {
+      "id": 5,
+      "stem": "A 40-year-old man with HIV on tenofovir disoproxil fumarate develops Fanconi syndrome with hypophosphatemia, glycosuria, and proximal RTA. Which best characterizes the toxicity?",
+      "choices": [
+        "Tenofovir is renoprotective",
+        "Mitochondrial PCT toxicity",
+        "Direct chelation of glucose",
+        "Allergic interstitial nephritis",
+        "Glomerular injury only"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Tenofovir is recognized as nephrotoxic.",
+        "Correct. Tenofovir disoproxil fumarate (TDF) accumulates in PCT cells (taken up by OAT transporters), where it inhibits mitochondrial DNA polymerase γ → mitochondrial toxicity → PCT dysfunction → Fanconi syndrome (hypophosphatemia, glycosuria, proximal RTA, osteomalacia). Risk factors: older age, low body weight, concurrent nephrotoxins, low CD4. Newer prodrug TENOFOVIR ALAFENAMIDE (TAF) has lower PCT exposure and reduced renal toxicity. Management: switch to TAF, abacavir-based regimen, or other agent; monitor renal function and proximal tubular markers.",
+        "Incorrect. No chelation.",
+        "Incorrect. AIN has different presentation (eosinophiluria, sterile pyuria, AKI without typical Fanconi pattern).",
+        "Incorrect. The injury is principally tubular."
+      ]
+    },
+    {
+      "id": 6,
+      "stem": "A 25-year-old man with osteosarcoma receives high-dose ifosfamide. He develops glycosuria with normal glucose, hypophosphatemia, and proximal RTA. Which best characterizes ifosfamide-induced renal toxicity?",
+      "choices": [
+        "Glomerular injury only",
+        "Chloroacetaldehyde tubular toxicity",
+        "Direct hemolysis",
+        "Lactic acidosis",
+        "Allergic interstitial nephritis"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Tubular injury is principal.",
+        "Correct. Ifosfamide metabolizes to CHLOROACETALDEHYDE, which is directly toxic to proximal tubular cells, producing Fanconi syndrome (often with concurrent hemorrhagic cystitis from acrolein, mitigated by mesna). Risk factors: high cumulative dose, young age, concurrent cisplatin. The Fanconi can be irreversible. Cyclophosphamide (less commonly Fanconi) has hemorrhagic cystitis but milder PCT effects.",
+        "Incorrect. No hemolysis.",
+        "Incorrect. Not lactic acidosis.",
+        "Incorrect. Tubular toxicity is direct."
+      ]
+    },
+    {
+      "id": 7,
+      "stem": "A 50-year-old man with multiple myeloma has Fanconi syndrome on biopsy showing 'crystalline inclusions' in PCT cells. Urine immunofixation shows kappa light chain. Which best explains the renal pathology?",
+      "choices": [
+        "Light-chain glomerulonephritis",
+        "Light-chain proximal tubulopathy",
+        "Cast nephropathy alone",
+        "Amyloidosis",
+        "Membranous nephropathy"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Glomerular involvement in myeloma typically presents differently.",
+        "Correct. LIGHT-CHAIN PROXIMAL TUBULOPATHY — kappa or lambda light chains (Bence Jones proteins) are filtered, taken up by PCT cells via cubilin/megalin, and cause cellular injury with characteristic crystalline inclusions (especially with kappa). Result: Fanconi syndrome with the multi-solute losses. Other myeloma renal manifestations: cast nephropathy (myeloma kidney — lambda light chains forming Tamm-Horsfall casts in distal nephron, producing AKI), AL amyloidosis (light-chain amyloid in glomerulus → nephrotic syndrome), light-chain deposition disease, hypercalcemic nephropathy. Treatment: anti-myeloma therapy, hydration, supportive care.",
+        "Incorrect. Cast nephropathy involves distal tubule and presents with AKI.",
+        "Incorrect. Amyloidosis presents with nephrotic syndrome.",
+        "Incorrect. Membranous is a glomerular disease."
+      ]
+    },
+    {
+      "id": 8,
+      "stem": "A 40-year-old man working in a battery recycling plant has chronic anemia, abdominal pain, and renal Fanconi syndrome. Whole-blood lead level is 80 µg/dL. Which best characterizes lead nephrotoxicity?",
+      "choices": [
+        "Acute glomerulonephritis only",
+        "Tubular dysfunction with chronic fibrosis",
+        "Pure papillary necrosis",
+        "Allergic interstitial nephritis",
+        "Membranous nephropathy"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Lead is principally tubulointerstitial.",
+        "Correct. Lead nephrotoxicity: acute exposure → reversible PCT dysfunction with Fanconi syndrome; chronic exposure → chronic interstitial nephritis, hyperuricemia ('saturnine gout'), hypertension, progressive CKD. Diagnosis: blood lead level, urine lead (24-hour), EDTA chelation challenge. Treatment: remove from exposure; chelation with EDTA, succimer, or D-penicillamine for severe / symptomatic. Other heavy metals causing Fanconi: cadmium (Itai-itai disease), mercury, uranium, copper (Wilson).",
+        "Incorrect. Papillary necrosis is from analgesics, sickle cell, NSAIDs.",
+        "Incorrect. AIN has different mechanism.",
+        "Incorrect. Membranous is glomerular."
+      ]
+    },
+    {
+      "id": 9,
+      "stem": "A 60-year-old woman with longstanding rheumatoid arthritis on Sjögren's-related drugs has Fanconi syndrome. Salivary biopsy shows lymphocytic infiltration. Which best explains the renal involvement?",
+      "choices": [
+        "Drug toxicity",
+        "Sjögren tubulointerstitial nephritis",
+        "Multiple myeloma",
+        "Tenofovir toxicity",
+        "Glomerulonephritis"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. The Sjögren context is dominant.",
+        "Correct. Sjögren syndrome — autoimmune lymphocytic infiltration of exocrine glands AND sometimes the renal interstitium. Renal manifestations: tubulointerstitial nephritis, distal RTA (more common, hypokalemic), Fanconi syndrome (less common), cryoglobulinemic glomerulonephritis. Treatment: glucocorticoids ± immunosuppression; symptomatic management of Fanconi (Phos, K, HCO3−, Mg replacement); treat Sjögren symptoms (artificial tears/saliva, hydroxychloroquine).",
+        "Incorrect. The Sjögren features point to autoimmune etiology.",
+        "Incorrect. No tenofovir exposure stated.",
+        "Incorrect. Sjögren typically has tubular, not glomerular, renal involvement."
+      ]
+    },
+    {
+      "id": 10,
+      "stem": "A child with hypophosphatemic rickets, growth failure, and renal stones has Fanconi syndrome plus low-MW proteinuria. Genetic testing shows X-linked CLCN5 mutation. Which best characterizes this disorder?",
+      "choices": [
+        "Cystinosis",
+        "Dent disease",
+        "Lowe syndrome",
+        "Cystinuria",
+        "Liddle syndrome"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Cystinosis is autosomal recessive with corneal crystals.",
+        "Correct. Dent disease — X-linked recessive disorders (CLCN5 in Dent-1, OCRL in Dent-2) of PCT chloride/H+ exchange and endocytic recycling. Features: low-MW proteinuria, hypercalciuria, nephrocalcinosis, kidney stones, partial Fanconi syndrome, progressive CKD. Onset in childhood; affected males. Female carriers may have mild findings. Treatment: thiazides for hypercalciuria; phosphate replacement; ACE inhibitor for proteinuria; eventual transplant.",
+        "Incorrect. Lowe (OCRL) has cataracts, developmental delay, AND renal Fanconi (X-linked).",
+        "Incorrect. Cystinuria is a different transport defect (kidney stones only).",
+        "Incorrect. Liddle is hypertension."
+      ]
+    },
+    {
+      "id": 11,
+      "stem": "A 6-month-old boy with cataracts, mental retardation, and proximal RTA has X-linked OCRL mutation. Which best characterizes this disorder?",
+      "choices": [
+        "Cystinosis",
+        "Lowe (oculocerebrorenal) syndrome",
+        "Wilson disease",
+        "Tyrosinemia",
+        "Galactosemia"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Cystinosis is CTNS, autosomal recessive.",
+        "Correct. Lowe (oculocerebrorenal) syndrome — X-linked recessive OCRL gene mutation encoding a phosphatidylinositol 4,5-bisphosphate 5-phosphatase. Triad: OCULAR (congenital cataracts, glaucoma), CEREBRAL (mental retardation, seizures, areflexia, behavior issues), RENAL (Fanconi syndrome, proximal RTA, progressive CKD). Females are unaffected carriers (may have lens opacities). Treatment: cataract surgery, supportive renal management, anticonvulsants if needed.",
+        "Incorrect. Wilson is hepatic and neurologic, not principally cataracts.",
+        "Incorrect. Tyrosinemia presents in infancy with liver failure.",
+        "Incorrect. Galactosemia has E. coli sepsis risk and cataracts but different gene/inheritance."
+      ]
+    },
+    {
+      "id": 12,
+      "stem": "A 6-month-old infant develops liver failure with hepatomegaly, hypoglycemia, and Fanconi syndrome. Plasma tyrosine and methionine are markedly elevated; urine succinylacetone is positive. Which best characterizes this disorder?",
+      "choices": [
+        "Tyrosinemia type 1",
+        "Wilson disease",
+        "Cystinosis",
+        "Galactosemia",
+        "Hereditary fructose intolerance"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Tyrosinemia type 1 — autosomal recessive deficiency of fumarylacetoacetate hydrolase (FAH). Tyrosine catabolism intermediates accumulate; succinylacetone is a specific marker. Manifestations: liver failure / hepatocellular carcinoma risk, neurologic crises (porphyria-like), Fanconi syndrome with rickets (from PCT injury), 'cabbage-like' odor. Treatment: NTBC (nitisinone) blocks upstream tyrosine breakdown; tyrosine/phenylalanine-restricted diet; liver transplant for refractory cases.",
+        "Incorrect. Wilson presents later with KF rings.",
+        "Incorrect. Cystinosis has corneal crystals.",
+        "Incorrect. Galactosemia presents with E. coli sepsis, jaundice, cataracts.",
+        "Incorrect. HFI presents on fructose introduction."
+      ]
+    },
+    {
+      "id": 13,
+      "stem": "A 28-year-old researcher reviews lab tests for proximal tubular dysfunction. Which urine finding most directly indicates Fanconi syndrome?",
+      "choices": [
+        "Heavy proteinuria with broad casts",
+        "Glycosuria with aminoaciduria and phosphaturia",
+        "Hyaline casts",
+        "Hematuria with red cell casts",
+        "Sterile pyuria"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Heavy proteinuria with casts suggests glomerular injury.",
+        "Correct. Fanconi syndrome lab features: GLYCOSURIA at normal blood glucose; GENERALIZED AMINOACIDURIA (essential AND nonessential); LOW-MW PROTEINURIA (β2-microglobulin, retinol binding protein, α1-microglobulin, lysozyme — these are normally filtered and reabsorbed by megalin/cubilin in the PCT); PHOSPHATURIA with low TmP/GFR (and hypophosphatemia); URICOSURIA with hypouricemia; HYPOKALEMIA; non-AG (proximal RTA) metabolic acidosis. Bicarbonate-loading test confirms PCT bicarbonate handling defect.",
+        "Incorrect. Hyaline casts are nonspecific.",
+        "Incorrect. RBC casts suggest glomerulonephritis.",
+        "Incorrect. Sterile pyuria is interstitial."
+      ]
+    },
+    {
+      "id": 14,
+      "stem": "A 35-year-old man with Fanconi syndrome from cystinosis has hypophosphatemia (1.2), hypokalemia (3.0), HCO3− 18, and bone pain. Which best summarizes his treatment?",
+      "choices": [
+        "Cysteamine alone",
+        "Cysteamine + electrolyte replacement",
+        "Renal transplant only",
+        "ACE inhibitor only",
+        "Bisphosphonate"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Cysteamine targets the underlying disease but does not replace electrolytes.",
+        "Correct. Cystinosis Fanconi syndrome treatment: (1) CYSTEAMINE — depletes intracellular cystine, slows kidney/extra-renal disease progression; (2) ELECTROLYTE REPLACEMENT — phosphate (often need very high doses, multiple daily, to support skeletal mineralization), potassium (K-citrate provides K+ AND alkali), bicarbonate (sodium or potassium), magnesium as needed; (3) ACTIVE VITAMIN D (calcitriol) for bone disease; (4) growth hormone for growth failure in selected cases; (5) topical eye cysteamine for corneal crystals; (6) eventually renal transplant (recurrence is rare).",
+        "Incorrect. Many patients eventually need transplant but adjunctive therapy is essential first.",
+        "Incorrect. ACEi is not principal Fanconi treatment.",
+        "Incorrect. Bisphosphonate is not principal."
+      ]
+    },
+    {
+      "id": 15,
+      "stem": "A 50-year-old man with newly diagnosed multiple myeloma has Fanconi syndrome and AKI. Which best characterizes the management priorities?",
+      "choices": [
+        "ACE inhibitor only",
+        "Anti-myeloma therapy + supportive care",
+        "Long-term tenofovir",
+        "Lithium",
+        "Magnesium chelation"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. ACEi is not the principal treatment.",
+        "Correct. Myeloma-related Fanconi syndrome management: (1) ANTI-MYELOMA THERAPY (proteasome inhibitors like bortezomib, immunomodulators like lenalidomide, monoclonal antibodies like daratumumab, autologous stem cell transplant) — addressing the underlying light chain production; (2) HYDRATION to reduce light chain concentration in tubules; (3) ELECTROLYTE REPLACEMENT (phosphate, K+, HCO3−); (4) avoid nephrotoxins (NSAIDs, contrast); (5) PLEX or hemodialysis with high-cutoff filter for severe cases (controversial). Distinguish from cast nephropathy (myeloma kidney — distal tubule, AKI).",
+        "Incorrect. Tenofovir would worsen Fanconi.",
+        "Incorrect. Lithium is unrelated.",
+        "Incorrect. Mg chelation is not a treatment."
+      ]
+    },
+    {
+      "id": 16,
+      "stem": "A 30-year-old researcher considers acquired Fanconi causes by drug class. Which drug is recognized to cause Fanconi syndrome?",
+      "choices": [
+        "Acetaminophen at standard doses",
+        "Tenofovir",
+        "Aspirin",
+        "Vitamin C",
+        "Iron"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. APAP at standard doses is hepatotoxic but not principally Fanconi.",
+        "Correct. Drugs causing acquired Fanconi syndrome: TENOFOVIR DISOPROXIL FUMARATE (mitochondrial toxicity, switch to TAF if possible); IFOSFAMIDE (chloroacetaldehyde metabolite); AMINOGLYCOSIDES (gentamicin, tobramycin); CISPLATIN; VALPROIC ACID; expired TETRACYCLINES (Fanconi-Bickel-like; outdated tetracyclines degrade to a tubulotoxic metabolite); STREPTOZOTOCIN; LITHIUM (chronic, with NDI); CIDOFOVIR. Heavy metals (lead, cadmium, mercury) also.",
+        "Incorrect. Aspirin can cause papillary necrosis but not principally Fanconi.",
+        "Incorrect. Vit C does not cause Fanconi.",
+        "Incorrect. Iron overload (hemochromatosis) does not principally cause Fanconi."
+      ]
+    },
+    {
+      "id": 17,
+      "stem": "A 35-year-old man with Fanconi syndrome has hypophosphatemia (1.5) with bone pain and fractures on imaging. Which is the most likely bone disease?",
+      "choices": [
+        "Paget disease",
+        "Osteomalacia / rickets",
+        "Osteopetrosis",
+        "Multiple myeloma bone disease",
+        "Osteosclerosis"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Paget is asymmetric overgrowth.",
+        "Correct. Osteomalacia (in adults) or rickets (in children) — defective bone mineralization due to chronic hypophosphatemia from PCT phosphate wasting. Manifestations: bone pain, fractures, pseudofractures (Looser zones), proximal muscle weakness, growth retardation in children. Treatment: aggressive phosphate replacement (multiple daily doses) + active vitamin D (calcitriol — corrects the relative calcitriol deficiency). XLH and TIO are similar but FGF-23-mediated.",
+        "Incorrect. Osteopetrosis is opposite (increased density).",
+        "Incorrect. Myeloma has lytic lesions.",
+        "Incorrect. Not osteosclerotic."
+      ]
+    },
+    {
+      "id": 18,
+      "stem": "A 40-year-old man with Fanconi syndrome has uricosuria with hypouricemia (uric acid 2.0). Which best characterizes this finding?",
+      "choices": [
+        "Pseudohypouricemia",
+        "Loss of URAT1 reabsorption",
+        "Increased xanthine oxidase",
+        "Acute gout",
+        "Tumor lysis"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Hypouricemia is real.",
+        "Correct. URAT1 (proximal tubular urate-anion exchanger) is impaired along with other PCT transporters in Fanconi syndrome. Result: increased urinary urate excretion (uricosuria) and decreased plasma uric acid (hypouricemia, often <2 mg/dL). Hypouricemia is a useful clinical clue to PCT dysfunction (along with hypophosphatemia and glycosuria). Probenecid mimics this pharmacologically (treats gout by uricosuria).",
+        "Incorrect. XO is unchanged.",
+        "Incorrect. Gout features hyperuricemia.",
+        "Incorrect. TLS features hyperuricemia."
+      ]
+    },
+    {
+      "id": 19,
+      "stem": "A 50-year-old woman with Fanconi syndrome has glycosuria with normal blood glucose (BG 95). Which transporter dysfunction best explains this?",
+      "choices": [
+        "GLUT1",
+        "SGLT2 in proximal tubule",
+        "GLUT4",
+        "SGLT3",
+        "GLUT2 in liver"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. GLUT1 is brain/RBC, not principally renal.",
+        "Correct. SGLT2 (and to a lesser extent SGLT1) in the proximal tubule reabsorb ~99% of filtered glucose. In Fanconi syndrome, SGLT function is impaired along with other PCT transporters → glycosuria with normal blood glucose. SGLT2 inhibitors (empagliflozin, dapagliflozin) pharmacologically mimic this for treatment of diabetes (and HF/CKD). FAMILIAL RENAL GLUCOSURIA (isolated SGLT2 mutation) features mild benign glycosuria without other Fanconi features.",
+        "Incorrect. GLUT4 is muscle/adipose.",
+        "Incorrect. SGLT3 has minor role.",
+        "Incorrect. GLUT2 is hepatic and pancreatic β-cell."
+      ]
+    },
+    {
+      "id": 20,
+      "stem": "A 28-year-old researcher reviews how proximal RTA differs from distal RTA. Which best contrasts them?",
+      "choices": [
+        "Proximal HCO3− vs distal H+ defect",
+        "Both have hyperkalemia",
+        "Distal is always asymptomatic",
+        "Proximal RTA features hyperkalemia",
+        "They are identical"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Proximal RTA (type 2): defective PCT HCO3− reabsorption (lowered renal threshold) → bicarbonaturia until plasma HCO3− falls below new threshold; once below threshold, distal acidification works (urine CAN be acidic). Hypokalemia common; often Fanconi pattern (associated proximal tubular dysfunction). Causes: myeloma, Wilson, cystinosis, tenofovir, ifosfamide, heavy metals. Distal RTA (type 1): defective α-intercalated H+ secretion → urine pH always inappropriately high (>5.5) regardless of plasma HCO3−. Hypokalemia common. Causes: Sjögren, autoimmune, amphotericin, lithium, hereditary. Both have non-AG metabolic acidosis but differ in mechanism, urine pH, and associated features.",
+        "Incorrect. Both have HYPOkalemia.",
+        "Incorrect. Distal RTA is symptomatic.",
+        "Incorrect. Proximal has hypokalemia.",
+        "Incorrect. They differ markedly."
+      ]
+    },
+    {
+      "id": 21,
+      "stem": "A 50-year-old man with Fanconi syndrome from light-chain proximal tubulopathy has chronic mild AKI. Which best characterizes outcomes after appropriate treatment?",
+      "choices": [
+        "Always reversible",
+        "Partial or full recovery possible",
+        "Always permanent",
+        "Always progresses to ESRD",
+        "Treatment is contraindicated"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Recovery varies.",
+        "Correct. With effective anti-myeloma therapy reducing light chain production, kidney function may partially or fully recover. Residual tubular dysfunction (some Fanconi features) is common, especially with prolonged exposure or crystalline deposits. Renal recovery correlates with hematologic response (deeper response → better renal recovery). Some require maintenance electrolyte replacement; minority progress to ESRD requiring dialysis or transplant.",
+        "Incorrect. Some recovery is possible.",
+        "Incorrect. Not all patients progress to ESRD.",
+        "Incorrect. Treatment is essential."
+      ]
+    },
+    {
+      "id": 22,
+      "stem": "A 40-year-old man with HIV is being switched from tenofovir disoproxil fumarate to tenofovir alafenamide because of mild Fanconi syndrome. Which best characterizes the rationale?",
+      "choices": [
+        "TAF is more nephrotoxic",
+        "TAF has lower PCT exposure than TDF",
+        "TAF is for hepatitis B only",
+        "TAF cures HIV",
+        "They are identical pharmacologically"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Reverse — TAF is less nephrotoxic.",
+        "Correct. Tenofovir alafenamide (TAF) is a prodrug with intracellular activation in lymphocytes (where it is needed) but lower plasma tenofovir levels — reducing PCT exposure and nephrotoxicity. Bone mineral density is also better preserved with TAF vs TDF. For patients on TDF developing Fanconi or osteomalacia, switching to TAF is appropriate. TAF is also approved for hepatitis B. Cost is higher than TDF.",
+        "Incorrect. TAF is also for HIV.",
+        "Incorrect. Neither cures HIV.",
+        "Incorrect. They differ in renal/bone profile."
+      ]
+    },
+    {
+      "id": 23,
+      "stem": "A 55-year-old woman has chronic mild Fanconi syndrome from valproic acid for seizures. Which best characterizes the recommended management?",
+      "choices": [
+        "Continue valproic acid; ignore the Fanconi",
+        "Switch antiepileptic; replace electrolytes",
+        "High-dose vitamin D",
+        "Lithium therapy",
+        "Ifosfamide infusion"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Continuing offending drug is not optimal.",
+        "Correct. Valproic acid-related Fanconi: switch to an alternative antiepileptic if seizure control allows (levetiracetam, lamotrigine, etc.); if valproate must continue, replace electrolytes (K+, Mg2+, phos, HCO3−), monitor renal function and growth in children. Mitochondrial toxicity is the principal mechanism. Other antiseizure drugs causing Fanconi or proximal tubular injury: TOPIRAMATE (CA inhibition, mild proximal RTA pattern).",
+        "Incorrect. Vit D may be useful but is not the principal management.",
+        "Incorrect. Lithium causes nephrogenic DI, not relevant here.",
+        "Incorrect. Ifosfamide causes Fanconi."
+      ]
+    },
+    {
+      "id": 24,
+      "stem": "A 30-year-old researcher reviews Fanconi syndrome in pediatrics. Which is the MOST common hereditary cause?",
+      "choices": [
+        "Wilson disease",
+        "Cystinosis",
+        "Multiple myeloma",
+        "Tenofovir",
+        "Lead poisoning"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Wilson presents in older children/young adults.",
+        "Correct. CYSTINOSIS is the most common hereditary Fanconi syndrome in pediatrics (incidence ~1:100,000–1:200,000). Autosomal recessive CTNS mutation. Presents in infancy (6–12 months) with growth failure, polyuria, dehydration episodes, photophobia. Distinctive corneal cystine crystals on slit-lamp. Untreated → ESRD by age 10. Cysteamine therapy slows progression. Other hereditary Fanconi: Wilson, tyrosinemia type 1, Lowe, galactosemia, hereditary fructose intolerance, mitochondrial diseases, Dent disease.",
+        "Incorrect. Myeloma is acquired, adult.",
+        "Incorrect. Tenofovir is an acquired drug toxicity.",
+        "Incorrect. Lead is acquired."
+      ]
+    },
+    {
+      "id": 25,
+      "stem": "A 30-year-old researcher considers the bicarbonate-loading test for proximal RTA. Which best characterizes the expected response in a patient with proximal RTA?",
+      "choices": [
+        "Normal HCO3− reabsorption",
+        "FE-HCO3− >15% with bicarbonate loading",
+        "Urine pH always >5.5",
+        "Identical to distal RTA pattern",
+        "No response to HCO3−"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Reabsorption is impaired.",
+        "Correct. Bicarbonate-loading test (NaHCO3 IV until plasma HCO3− >24): proximal RTA features fractional excretion of bicarbonate >15% (vs <3% in normal or in distal RTA); urine pH rises sharply (often >7.5) once the lowered threshold is exceeded. Distal RTA features urine pH inappropriately high (>5.5) at baseline OR after acid load (NH4Cl loading test), with FE-HCO3− <3%. The two tests together (HCO3− loading for proximal; NH4Cl loading for distal) confirm the type of RTA in difficult cases.",
+        "Incorrect. Distal has urine pH high WITHOUT HCO3− loading; proximal has urine pH that varies with loading.",
+        "Incorrect. They differ.",
+        "Incorrect. Response is real."
+      ]
+    }
+  ]
+}

@@ -29,6 +29,9 @@
     { "id": 27, "title": "Mechanisms of Acid-Base Transport", "available": true },
     { "id": 28, "title": "Metabolic Acidosis", "available": true },
     { "id": 29, "title": "Metabolic Alkalosis", "available": true },
-    { "id": 30, "title": "Respiratory Acidosis", "available": true }
+    { "id": 30, "title": "Respiratory Acidosis", "available": true },
+    { "id": 31, "title": "Respiratory Alkalosis", "available": true },
+    { "id": 32, "title": "Carbonic Anhydrase Inhibitors", "available": true },
+    { "id": 33, "title": "Fanconi Syndrome", "available": true }
   ]
 }
