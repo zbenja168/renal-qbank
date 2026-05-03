@@ -1,0 +1,482 @@
+{
+  "id": 39,
+  "title": "Hematuria",
+  "questions": [
+    {
+      "id": 1,
+      "stem": "A 30-year-old researcher considers definitions of hematuria. Which best characterizes microscopic hematuria?",
+      "choices": [
+        "≥1 RBC/HPF",
+        "≥3 RBCs/HPF on microscopy",
+        "Visible blood in urine",
+        "Any blood-tinged",
+        "Cannot be quantified"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. ≥3 RBCs is the threshold.",
+        "Correct. MICROSCOPIC HEMATURIA — ≥3 RBCs per high-power field on properly collected (midstream, clean catch) urine specimen. Confirm on repeat (transient causes — exercise, menses, catheterization). GROSS HEMATURIA — visible blood (red, pink, or cola-colored urine; depends on amount of blood and pH). Workup: distinguish glomerular (dysmorphic RBCs, RBC casts, proteinuria) from non-glomerular (isomorphic RBCs); assess for risk factors of malignancy (age >35, smoking, occupational exposures); imaging (CT urogram, ultrasound) and cystoscopy for high-risk cases.",
+        "Incorrect. That's gross.",
+        "Incorrect. Quantitative threshold.",
+        "Incorrect. Standardized."
+      ]
+    },
+    {
+      "id": 2,
+      "stem": "A 25-year-old man with mild URI has dark cola-colored urine 24 hours later. Urinalysis shows hematuria, proteinuria, RBC casts, dysmorphic RBCs. Which best characterizes the principal cause?",
+      "choices": [
+        "Bladder cancer",
+        "IgA nephropathy",
+        "Stone",
+        "BPH",
+        "Trauma"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Bladder cancer is non-glomerular.",
+        "Correct. GLOMERULAR HEMATURIA features: cola/tea-colored urine, dysmorphic RBCs, RBC CASTS (pathognomonic), proteinuria, often AKI. Hematuria SYNPHARYNGITIC (concurrent with URI) → IgA NEPHROPATHY. Hematuria 1–3 weeks AFTER URI → POST-STREPTOCOCCAL glomerulonephritis. Hematuria with hemoptysis → anti-GBM (Goodpasture) or ANCA-vasculitis. Recurrent hematuria + family history → ALPORT syndrome or thin basement membrane disease. Workup: serologies (ANA, ANCA, anti-GBM, complement, hepatitis), serum Cr, proteinuria quantification, renal biopsy for definitive diagnosis.",
+        "Incorrect. Stone is non-glomerular.",
+        "Incorrect. BPH would not cause this.",
+        "Incorrect. No trauma history."
+      ]
+    },
+    {
+      "id": 3,
+      "stem": "A 65-year-old smoker with painless gross hematuria has urine sediment without dysmorphic RBCs or casts. Which best characterizes the most concerning differential?",
+      "choices": [
+        "Glomerulonephritis",
+        "Urothelial cancer",
+        "Stone",
+        "BPH",
+        "Pyelonephritis"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Glomerular has casts.",
+        "Correct. PAINLESS GROSS HEMATURIA in an OLDER SMOKER → BLADDER CANCER until proven otherwise. Risk factors: SMOKING (most important; 50% of bladder cancers), age >50, occupational exposures (aromatic amines — rubber, dye, leather), schistosomiasis (squamous cell), cyclophosphamide, prior radiation. Workup: CT UROGRAM (multiphase) for upper tract + CYSTOSCOPY for bladder. Histology: urothelial (transitional cell) most common; squamous (associated with chronic irritation/schisto); adenocarcinoma (rare). Treatment: TURBT for non-muscle-invasive; radical cystectomy ± chemotherapy for invasive.",
+        "Incorrect. Possible but less concerning given context.",
+        "Incorrect. BPH causes hematuria but other features.",
+        "Incorrect. Pyelonephritis has fever, dysuria."
+      ]
+    },
+    {
+      "id": 4,
+      "stem": "A 35-year-old man has microhematuria, mild proteinuria, family history of progressive renal failure in young men with deafness. Which is the most likely diagnosis?",
+      "choices": [
+        "IgA nephropathy",
+        "Alport syndrome",
+        "Thin basement membrane disease",
+        "Polycystic kidney disease",
+        "Post-streptococcal GN"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. IgA usually does not have hearing loss or family pattern of male progression.",
+        "Correct. Alport syndrome — typically X-linked (COL4A5 mutation) defect in α3/α4/α5 chains of type IV collagen in glomerular AND cochlear AND ocular basement membranes. Affected males: progressive glomerulonephritis with hematuria → ESRD, sensorineural HEARING LOSS, ocular abnormalities (anterior LENTICONUS — diagnostic). Female carriers: variable mild findings. Treatment: ACEi/ARB to slow progression; transplant for ESRD; gene therapy in development. Distinguishes from THIN BASEMENT MEMBRANE DISEASE — autosomal dominant 'benign familial hematuria,' similar collagen defect but milder, no progression to ESRD.",
+        "Incorrect. TBM is benign familial hematuria without hearing loss.",
+        "Incorrect. PKD has cysts.",
+        "Incorrect. PSGN has acute course."
+      ]
+    },
+    {
+      "id": 5,
+      "stem": "A 30-year-old man has persistent microscopic hematuria. Renal ultrasound and family history negative. He is asymptomatic. Renal biopsy shows thinning of glomerular basement membrane. Which is the most likely diagnosis?",
+      "choices": [
+        "Alport syndrome",
+        "Thin basement membrane disease",
+        "IgA nephropathy",
+        "Membranous nephropathy",
+        "Diabetic nephropathy"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Alport has progressive disease, hearing loss.",
+        "Correct. THIN BASEMENT MEMBRANE DISEASE / BENIGN FAMILIAL HEMATURIA — autosomal dominant defect in α3 or α4 type IV collagen (COL4A3/4 mutations, heterozygous; homozygous → autosomal recessive Alport). Histology: GBM thinning (<200 nm vs normal 300–400 nm) on EM. Asymptomatic isolated microscopic hematuria; rarely progresses to CKD (most carriers are entirely benign; some develop late-onset CKD with longer follow-up). NO hearing loss, NO ocular findings (distinguishes from Alport). Family history of microscopic hematuria common. No treatment needed; monitor for proteinuria/hypertension/AKI.",
+        "Incorrect. IgA has mesangial deposits.",
+        "Incorrect. Membranous has subepithelial deposits.",
+        "Incorrect. DN has different histology."
+      ]
+    },
+    {
+      "id": 6,
+      "stem": "A 28-year-old woman with severe hematuria, hemoptysis, and AKI has positive anti-GBM antibodies. Which best characterizes this?",
+      "choices": [
+        "ANCA-vasculitis",
+        "Anti-GBM disease",
+        "IgA nephropathy",
+        "Lupus",
+        "Post-streptococcal GN"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. ANCA-negative described.",
+        "Correct. Anti-GBM disease (also called Goodpasture syndrome when pulmonary involvement) — autoantibodies against α3 chain of type IV collagen in glomerular AND alveolar basement membranes. Features: rapidly progressive GN (hematuria, RBC casts, AKI), pulmonary hemorrhage (hemoptysis, hypoxia, pulmonary infiltrates). Diagnosis: serum anti-GBM antibody, biopsy with linear IgG deposition along GBM. Treatment: PLASMAPHERESIS (urgent, removes antibodies), high-dose corticosteroids, cyclophosphamide. Time-critical — Cr >5 at presentation, oliguria, >50% crescents predict poor renal outcome. ANCA + anti-GBM 'double positive' in ~30%.",
+        "Incorrect. IgA has different features.",
+        "Incorrect. Lupus has multi-system features.",
+        "Incorrect. PSGN has different time course."
+      ]
+    },
+    {
+      "id": 7,
+      "stem": "A 35-year-old woman with palpable purpura, hematuria, and AKI has positive ANCA p-pattern. Which best characterizes this?",
+      "choices": [
+        "Anti-GBM disease",
+        "ANCA-associated vasculitis",
+        "Lupus",
+        "IgA nephropathy",
+        "Diabetic nephropathy"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Anti-GBM has different antibodies.",
+        "Correct. p-ANCA (perinuclear, anti-MPO) → MICROSCOPIC POLYANGIITIS (MPA, no granulomas) or EOSINOPHILIC GRANULOMATOSIS WITH POLYANGIITIS (EGPA / Churg-Strauss; with asthma and eosinophilia). c-ANCA (anti-PR3) → GRANULOMATOSIS WITH POLYANGIITIS (GPA, formerly Wegener; sinus, lung, kidney triad). Both pauci-immune crescentic GN. Treatment: HIGH-DOSE STEROIDS + CYCLOPHOSPHAMIDE OR RITUXIMAB for induction; rituximab/azathioprine/MMF for maintenance; PLEX for severe (RPGN, alveolar hemorrhage). Renal biopsy guides treatment.",
+        "Incorrect. Lupus features.",
+        "Incorrect. IgA has different features.",
+        "Incorrect. DN has chronic course."
+      ]
+    },
+    {
+      "id": 8,
+      "stem": "A 6-year-old child has macroscopic hematuria and brown urine 2 weeks after a strep throat infection. He has periorbital edema. Which is the most likely diagnosis?",
+      "choices": [
+        "IgA nephropathy",
+        "Post-streptococcal glomerulonephritis",
+        "Anti-GBM disease",
+        "Alport syndrome",
+        "Minimal change disease"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. IgA has SYNPHARYNGITIC hematuria (concurrent), not delayed.",
+        "Correct. POST-STREPTOCOCCAL GLOMERULONEPHRITIS (PSGN) — type III hypersensitivity / immune complex deposition after Group A streptococcal pharyngitis (1–3 weeks delay) or impetigo (3–6 weeks). Features: nephritic syndrome (hematuria, RBC casts, proteinuria, edema, hypertension), low C3 (returns to normal in 6–8 weeks), elevated ASO/anti-DNase B titers, mild AKI. Mostly benign in children (>95% recovery); some adults progress. Treatment: supportive (BP control, salt restriction, treat infection if active). Self-limited.",
+        "Incorrect. Anti-GBM has hemoptysis.",
+        "Incorrect. Alport has hearing loss and family history.",
+        "Incorrect. MCD has nephrotic syndrome."
+      ]
+    },
+    {
+      "id": 9,
+      "stem": "A 50-year-old woman with sickle cell trait has recurrent hematuria. Which best characterizes the mechanism?",
+      "choices": [
+        "Glomerulonephritis",
+        "Renal papillary necrosis",
+        "Bladder cancer",
+        "Stone",
+        "Pyelonephritis"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Sickle does not principally cause GN.",
+        "Correct. Sickle cell trait and disease — recurrent hematuria from RENAL MEDULLARY PAPILLARY NECROSIS. The medulla has hypoxic, hypertonic, acidic environment that PROMOTES SICKLING in vasa recta capillaries → ischemic injury to papillae → bleeding. Other sickle-related renal manifestations: hyposthenuria (cannot concentrate urine), hyperuricemia, increased risk of MEDULLARY CARCINOMA (rare but specific to sickle trait), focal segmental glomerulosclerosis, papillary necrosis. Workup hematuria like other patients (CT urogram, cystoscopy in adults) — sickle does not exclude other causes.",
+        "Incorrect. Always rule out but the mechanism here is sickling.",
+        "Incorrect. Stones not principally sickle-related.",
+        "Incorrect. Not infection."
+      ]
+    },
+    {
+      "id": 10,
+      "stem": "A 35-year-old man with severe loin pain and hematuria has imaging showing 8 mm stone in distal ureter. Which best characterizes the management?",
+      "choices": [
+        "Conservative management with hydration, analgesia, possibly tamsulosin",
+        "Immediate surgery for any stone",
+        "Lithotripsy for all",
+        "Antibiotics only",
+        "Diuretics"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Ureteral stone management depends on size, location, symptoms: <5 mm → 80% pass spontaneously; 5–7 mm → ~50%; >7 mm → less likely. Distal stones pass more easily than proximal. Conservative management: HYDRATION, ANALGESIA (NSAIDs preferred over opioids if no AKI), MEDICAL EXPULSIVE THERAPY (tamsulosin α-blocker for medium-sized stones, especially distal — modest evidence). Indications for surgical/endoscopic intervention: stone >10 mm (rarely passes), failed expulsive therapy, infection (urgent decompression), refractory pain, AKI, single kidney with obstruction, large/complete obstruction. Options: ESWL, ureteroscopy with laser lithotripsy, percutaneous nephrolithotomy.",
+        "Incorrect. Conservative first.",
+        "Incorrect. Selective.",
+        "Incorrect. Only if infection.",
+        "Incorrect. Not for stones."
+      ]
+    },
+    {
+      "id": 11,
+      "stem": "A 40-year-old man has dipstick urine positive for blood but no RBCs on microscopy. Plasma is pink. Which best characterizes this?",
+      "choices": [
+        "Bladder cancer",
+        "Hemoglobinuria from intravascular hemolysis",
+        "Myoglobinuria",
+        "Pseudohematuria from beets",
+        "UTI"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Cancer features RBCs.",
+        "Correct. Dipstick BLOOD positive + NO RBCs on microscopy = pigment (hemoglobinuria or myoglobinuria). Distinguish: PLASMA COLOR — PINK plasma → INTRAVASCULAR HEMOLYSIS → hemoglobinuria (free Hb in plasma exceeds haptoglobin binding, then enters urine); CLEAR plasma → MYOGLOBINURIA (myoglobin clears too quickly to color plasma) → check CK for rhabdomyolysis. Causes of intravascular hemolysis: transfusion reaction, AIHA (cold agglutinin), DIC, mechanical (heart valve), G6PD deficiency, paroxysmal nocturnal hemoglobinuria, malaria. Myoglobinuria: rhabdomyolysis from any cause. Each may cause AKI through different mechanisms (heme-mediated tubular toxicity).",
+        "Incorrect. Plasma not pink in myoglobinuria.",
+        "Incorrect. Beets are pseudohematuria but have negative dipstick.",
+        "Incorrect. UTI has WBCs."
+      ]
+    },
+    {
+      "id": 12,
+      "stem": "A 30-year-old man on rifampin for TB exposure has reddish-orange urine. Dipstick is negative for blood. Which best characterizes this?",
+      "choices": [
+        "Hematuria",
+        "Pseudohematuria",
+        "Hemoglobinuria",
+        "Stone",
+        "UTI"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Real hematuria has dipstick positive.",
+        "Correct. PSEUDOHEMATURIA — discolored urine without blood. Dipstick is NEGATIVE for heme (key distinguishing feature). Causes: DRUGS — rifampin (orange-red), phenazopyridine (orange), nitrofurantoin (brown), methyldopa (dark red), levodopa, metronidazole; FOODS — beets (in some individuals — beeturia is genetic), blackberries; PORPHYRIA (porphyrins fluoresce); BILIRUBINURIA (yellow-brown, dark beer color); MYOGLOBIN/HEMOGLOBIN (dipstick positive though). Always check dipstick + microscopy to confirm.",
+        "Incorrect. Hgb-uria has positive dipstick.",
+        "Incorrect. Stone has positive dipstick if hematuria.",
+        "Incorrect. UTI has WBCs."
+      ]
+    },
+    {
+      "id": 13,
+      "stem": "A 28-year-old marathon runner has hematuria after a long race. Dipstick positive, repeat 24 hours later is negative. Which best characterizes this?",
+      "choices": [
+        "Glomerulonephritis",
+        "Exercise-induced (transient) hematuria",
+        "Bladder cancer",
+        "Stone",
+        "Pyelonephritis"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. GN persists.",
+        "Correct. EXERCISE-INDUCED HEMATURIA — transient hematuria after vigorous exercise (running, swimming, contact sports). Mechanisms: bladder mucosal trauma (running), mild myoglobinuria, pigmenturia, microcirculatory changes. Resolves within 24–72 hours of rest. Workup: confirm resolution; if persistent or worsening, full hematuria evaluation. Other transient causes: menstrual contamination, recent catheterization, sexual activity, mild trauma. Persistent hematuria warrants standard workup (CT urogram, cystoscopy in adults at risk).",
+        "Incorrect. Cancer doesn't resolve in 24 h.",
+        "Incorrect. Stone causes persistent.",
+        "Incorrect. Pyelo has fever."
+      ]
+    },
+    {
+      "id": 14,
+      "stem": "A 20-year-old man has familial hematuria, hearing loss, and worsening kidney function. Which best characterizes the inheritance and the renal pathology?",
+      "choices": [
+        "Autosomal dominant; mesangial deposits",
+        "X-linked; type IV collagen defect",
+        "Autosomal recessive; cystic disease",
+        "Mitochondrial",
+        "Sporadic"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Alport mostly X-linked.",
+        "Correct. Alport syndrome — most commonly X-LINKED (~85%, COL4A5 mutation). Affected males have full phenotype. Female carriers may have mild/variable findings (skewed X-inactivation). Less common: AUTOSOMAL RECESSIVE Alport (~15%, homozygous COL4A3/4 mutation); AUTOSOMAL DOMINANT (~5%, heterozygous COL4A3/4). Pathology: defective α3/α4/α5 chains of type IV collagen in GBM (and cochlear, lens basement membranes). EM: 'BASKET-WEAVE' appearance of GBM with lamination/splitting. Treatment: ACEi/ARB; transplant for ESRD; gene therapy under study.",
+        "Incorrect. Not cystic.",
+        "Incorrect. Not mitochondrial.",
+        "Incorrect. Strong familial pattern."
+      ]
+    },
+    {
+      "id": 15,
+      "stem": "A 35-year-old man has Henoch-Schönlein purpura (now called IgA vasculitis) with palpable purpura, abdominal pain, joint pain, and hematuria. Which best characterizes the renal pathology?",
+      "choices": [
+        "Membranous nephropathy",
+        "IgA vasculitis nephritis",
+        "Lupus nephritis",
+        "Anti-GBM disease",
+        "FSGS"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Membranous is different.",
+        "Correct. IgA VASCULITIS (formerly Henoch-Schönlein purpura, HSP) — small-vessel vasculitis with IgA-dominant immune complexes. Tetrad: PALPABLE PURPURA (lower extremities, dependent), ABDOMINAL PAIN (intussusception risk in children), ARTHRITIS, HEMATURIA / GLOMERULONEPHRITIS. Renal involvement is the principal long-term concern; same histology as IgA NEPHROPATHY (mesangial IgA deposits). Most common in children but occurs in adults (often more severe). Treatment: supportive in mild cases; corticosteroids for severe nephritis or GI involvement; immunosuppression for severe RPGN. Most children recover; adults more often progress to CKD.",
+        "Incorrect. Lupus has multi-system features.",
+        "Incorrect. Anti-GBM has hemoptysis.",
+        "Incorrect. FSGS is not vasculitis."
+      ]
+    },
+    {
+      "id": 16,
+      "stem": "A 30-year-old researcher considers cystoscopy indications. Which best characterizes the principal indication?",
+      "choices": [
+        "All hematuria in young patients",
+        "Adults with risk factors for urothelial cancer",
+        "All pediatric hematuria",
+        "Routine screening",
+        "Glomerulonephritis"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Selective.",
+        "Correct. CYSTOSCOPY indications: PAINLESS GROSS HEMATURIA (any age, especially adults); MICROSCOPIC HEMATURIA in adults with RISK FACTORS for urothelial cancer (age >35–40, SMOKING, occupational exposures — aromatic amines, prior cyclophosphamide, prior radiation); persistent hematuria after benign workup; surveillance after bladder cancer. Younger patients without risk factors and with isolated low-grade microhematuria — workup is risk-stratified (AUA guidelines); not all need cystoscopy. Direct visualization of urethra, bladder; biopsy capability; therapeutic potential (TURBT for bladder tumor).",
+        "Incorrect. Not for asymptomatic young.",
+        "Incorrect. Selective in children.",
+        "Incorrect. Not screening.",
+        "Incorrect. GN is intrinsic, not bladder."
+      ]
+    },
+    {
+      "id": 17,
+      "stem": "A 40-year-old woman has microhematuria on routine screening. She has no risk factors. Repeat is positive. Which best characterizes the workup?",
+      "choices": [
+        "Cystoscopy and CT urogram in all patients regardless of risk",
+        "Risk-stratified AUA workup",
+        "No workup",
+        "Renal biopsy as first step",
+        "Pediatric protocol"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Risk-stratified.",
+        "Correct. AUA 2020 GUIDELINES (microhematuria) RISK STRATIFICATION: LOW-RISK (women <50 / men <40, never smoker, low RBC count 3–10 RBC/HPF, no risk factors) → repeat urinalysis in 6 months OR cystoscopy + ultrasound; INTERMEDIATE-RISK → cystoscopy + ultrasound (or CT urogram); HIGH-RISK (older, smoker, gross hematuria, occupational exposures) → CYSTOSCOPY + CT UROGRAM. Glomerular features (dysmorphic RBCs, RBC casts, proteinuria) shift workup toward NEPHROLOGY (serologies, biopsy). Pediatric workup is different (serologies, US, often no cystoscopy unless specific indication).",
+        "Incorrect. Workup needed.",
+        "Incorrect. Biopsy not first step.",
+        "Incorrect. Adult algorithm."
+      ]
+    },
+    {
+      "id": 18,
+      "stem": "A 25-year-old woman has dysuria, frequency, and microscopic hematuria. Urine culture grows E. coli. Which best characterizes this?",
+      "choices": [
+        "Glomerulonephritis",
+        "Lower UTI / cystitis",
+        "Bladder cancer",
+        "Stone",
+        "Trauma"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. UTI is non-glomerular.",
+        "Correct. UTI / CYSTITIS — common cause of hematuria with dysuria, frequency, urgency, suprapubic pain. Urine: pyuria, bacteriuria, often microscopic hematuria, sometimes gross. Causative organism: E. coli most common (~80%); also Klebsiella, Proteus, Staphylococcus saprophyticus (young women), Enterococcus. Treatment: short-course antibiotics (nitrofurantoin, fosfomycin, TMP-SMX, fluoroquinolone in selected). Hematuria should RESOLVE with treatment. PERSISTENT hematuria after UTI treatment warrants further workup (cancer, stone, glomerular cause). Risk factors for complicated UTI: pregnancy, DM, immunocompromise, anatomic abnormality, recent instrumentation, obstruction.",
+        "Incorrect. Cancer is painless typically.",
+        "Incorrect. Stone has loin pain.",
+        "Incorrect. No trauma."
+      ]
+    },
+    {
+      "id": 19,
+      "stem": "A 70-year-old man with BPH has microscopic hematuria. Which best characterizes the workup?",
+      "choices": [
+        "Attribute all to BPH; no workup",
+        "BPH plus standard workup",
+        "Pediatric protocol",
+        "Begin immediate surgery",
+        "Renal biopsy"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. BPH is risk factor but other causes possible.",
+        "Correct. BPH commonly causes hematuria (engorged prostatic vessels at bladder neck). However, BPH should NOT be assumed to be the sole cause — concurrent BLADDER CANCER, PROSTATE CANCER, STONES, glomerular disease all possible. Standard hematuria workup: cystoscopy + CT urogram or US in this risk group. If BPH is the cause, finasteride or 5α-reductase inhibitor reduces prostate vascularity and hematuria. Prostate biopsy or evaluation if PSA elevated. RECURRENT hematuria after BPH treatment also warrants reassessment.",
+        "Incorrect. Adult guideline.",
+        "Incorrect. Workup first.",
+        "Incorrect. Renal biopsy not first."
+      ]
+    },
+    {
+      "id": 20,
+      "stem": "A 45-year-old man has gross hematuria after blunt abdominal trauma. CT shows renal laceration. Which best characterizes management of traumatic hematuria?",
+      "choices": [
+        "Always surgical exploration",
+        "Stability and grade determine management",
+        "All conservative",
+        "Antibiotics only",
+        "Lithotripsy"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Many treated nonoperatively.",
+        "Correct. Renal trauma management depends on AAST grade (I–V) and hemodynamic status. GRADES I-III (most blunt trauma): NONOPERATIVE MANAGEMENT — bed rest, analgesia, serial hemoglobin, repeat imaging if needed; >90% of blunt trauma. GRADE IV-V or HEMODYNAMIC INSTABILITY: surgical exploration or angiographic embolization; nephrectomy in severe cases. Penetrating trauma: more often requires exploration. CT critical for grading. Workup: hemoglobin, type and cross, imaging. Persistent gross hematuria or hematoma growth warrants angiography. Hematuria typically clears over days as injury heals.",
+        "Incorrect. Selective surgery.",
+        "Incorrect. Not for trauma alone.",
+        "Incorrect. Not for trauma."
+      ]
+    },
+    {
+      "id": 21,
+      "stem": "A 40-year-old man on cyclophosphamide for lupus nephritis develops gross hematuria. Cystoscopy shows diffuse bladder wall hemorrhage. Which best characterizes this?",
+      "choices": [
+        "Bladder cancer (acute presentation)",
+        "Acrolein-induced hemorrhagic cystitis",
+        "Lupus flare",
+        "Pyelonephritis",
+        "Stone"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Cancer would be focal.",
+        "Correct. HEMORRHAGIC CYSTITIS — diffuse bladder mucosal hemorrhage from chemical irritation. Causes: cyclophosphamide and ifosfamide (ACROLEIN metabolite is bladder-toxic), radiation cystitis, BK polyomavirus (post-bone-marrow-transplant), adenovirus. Prevention with cyclophosphamide/ifosfamide: aggressive HYDRATION (forced diuresis); MESNA (sodium 2-mercaptoethane sulfonate — binds and inactivates acrolein in urine); empty bladder frequently. Treatment of established hemorrhagic cystitis: continuous bladder irrigation, transfusion if severe, intravesical formalin/silver nitrate/alum for refractory; rarely cystectomy. LATE complications: BLADDER CANCER (cyclophosphamide is a recognized bladder cancer risk factor years later).",
+        "Incorrect. Lupus flare causes GN, not isolated hemorrhagic cystitis.",
+        "Incorrect. Pyelo would have fever, flank pain.",
+        "Incorrect. Stone is focal."
+      ]
+    },
+    {
+      "id": 22,
+      "stem": "A 30-year-old researcher considers nutcracker syndrome. Which best characterizes this anatomic cause of hematuria?",
+      "choices": [
+        "Renal cell cancer",
+        "Left renal vein compression",
+        "Bladder mass",
+        "Stone",
+        "Pyelonephritis"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Different.",
+        "Correct. NUTCRACKER SYNDROME — anatomic compression of LEFT RENAL VEIN between the AORTA and SUPERIOR MESENTERIC ARTERY (or rarely posterior between aorta and vertebral body) → left renal venous hypertension → fragile thin-walled venules in collecting system rupture → hematuria. Often in slim young women. Other features: left flank pain, varicocele in men (left side), pelvic congestion (women). Diagnosis: Doppler US (renal vein peak velocity), CT or MRI angiography (anatomic). Treatment: conservative if mild; stenting or surgical (left renal vein transposition) for severe.",
+        "Incorrect. Not bladder.",
+        "Incorrect. Not stone.",
+        "Incorrect. Not infection."
+      ]
+    },
+    {
+      "id": 23,
+      "stem": "A 25-year-old woman with recurrent gross hematuria coinciding with menstrual periods has CT showing endometriosis lesion in bladder. Which best characterizes this?",
+      "choices": [
+        "Bladder cancer",
+        "Bladder endometriosis",
+        "UTI",
+        "Stone",
+        "Glomerulonephritis"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Cancer is non-cyclical typically.",
+        "Correct. BLADDER ENDOMETRIOSIS — ectopic endometrial tissue in bladder wall responds to hormonal cycle, producing CYCLICAL HEMATURIA timed with menses. Symptoms: hematuria during menses, dysuria, urgency, pelvic pain. Diagnosis: cystoscopy with biopsy showing endometrial-type tissue. Treatment: hormonal suppression (progestins, GnRH analogs, OCPs continuously to suppress menses); surgical excision (transurethral or laparoscopic) for refractory or definitive. Distinguish from other causes by the cyclical pattern.",
+        "Incorrect. UTI not cyclical.",
+        "Incorrect. Stone not cyclical.",
+        "Incorrect. GN not cyclical."
+      ]
+    },
+    {
+      "id": 24,
+      "stem": "A 30-year-old researcher considers pediatric hematuria evaluation. Which best characterizes the approach?",
+      "choices": [
+        "Identical to adult workup with cystoscopy",
+        "Focus on glomerular and structural causes",
+        "No workup needed",
+        "Always biopsy",
+        "Surgical exploration"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Different from adult.",
+        "Correct. PEDIATRIC HEMATURIA differs from adult workup: malignancy (urothelial cancer) is rare in children; cystoscopy infrequent. Focus: GLOMERULAR causes (post-strep GN — most common cause of acute pediatric hematuria; IgA nephropathy / IgA vasculitis-HSP; Alport syndrome — family history of hematuria + hearing loss; thin BMD; lupus); STRUCTURAL causes (stones, hydronephrosis, VUR with reflux nephropathy, congenital anomalies); IDIOPATHIC HYPERCALCIURIA — common in pediatrics, manage with hydration, salt restriction, sometimes thiazide; PIGMENTURIA. Workup: family history, urine sediment, BUN/Cr, complement, ASO, ANA, urine Ca/Cr, ULTRASOUND, sometimes biopsy. Cystoscopy rare unless specific indication.",
+        "Incorrect. Workup needed.",
+        "Incorrect. Selective.",
+        "Incorrect. Selective."
+      ]
+    },
+    {
+      "id": 25,
+      "stem": "A 30-year-old researcher reviews the principal differential diagnoses for hematuria. Which best classifies them?",
+      "choices": [
+        "Only glomerular",
+        "Glomerular vs non-glomerular causes",
+        "Only cancer",
+        "Only stones",
+        "Only infection"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Both categories.",
+        "Correct. Hematuria differential — broad differential by category: GLOMERULAR (RBC casts, dysmorphic RBCs, proteinuria) — IgA nephropathy, post-streptococcal GN, anti-GBM disease, ANCA-vasculitis (GPA, MPA), Alport syndrome, thin BM disease, IgA vasculitis (HSP), lupus nephritis, MPGN. NON-GLOMERULAR (isomorphic RBCs, no casts) — UROTHELIAL CANCER (bladder > upper tract), STONES, PROSTATE (BPH, cancer), INFECTION (UTI, pyelonephritis), TRAUMA, EXERCISE, SICKLE CELL (papillary necrosis), DRUG-INDUCED CYSTITIS (cyclophosphamide), ENDOMETRIOSIS, NUTCRACKER syndrome, papillary necrosis. Clinical context, age, risk factors, urine sediment guide workup.",
+        "Incorrect. Many causes.",
+        "Incorrect. Many causes.",
+        "Incorrect. Many causes."
+      ]
+    }
+  ]
+}

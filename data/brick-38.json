@@ -1,0 +1,476 @@
+{
+  "id": 38,
+  "title": "Renal Imaging",
+  "questions": [
+    {
+      "id": 1,
+      "stem": "A 60-year-old man with new AKI is being evaluated. Which is the most appropriate FIRST imaging study?",
+      "choices": ["CT abdomen with contrast", "Renal ultrasound", "MRI", "Renal angiogram", "VCUG"],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Avoid contrast in AKI when possible.",
+        "Correct. RENAL ULTRASOUND is the FIRST-LINE imaging in AKI. Provides: kidney size and echogenicity, presence of HYDRONEPHROSIS (post-renal obstruction — must rule out promptly), masses, cysts, vascular Doppler. Bedside, no contrast, no radiation. Limitations: operator-dependent; less sensitive for stones than CT; difficult in obese patients. Other indications: CKD evaluation, hematuria, transplant kidney monitoring, renal artery stenosis screening (Doppler).",
+        "Incorrect. MRI is more for masses, vascular complex.",
+        "Incorrect. Angio is invasive, second-line.",
+        "Incorrect. VCUG is for VUR (pediatric)."
+      ]
+    },
+    {
+      "id": 2,
+      "stem": "A 50-year-old man with severe flank pain and hematuria has imaging concerning for kidney stone. Which is the MOST sensitive imaging study for renal stones?",
+      "choices": [
+        "Plain abdominal X-ray",
+        "Non-contrast CT (low-dose CT KUB)",
+        "Renal ultrasound",
+        "MRI",
+        "VCUG"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. KUB sensitivity ~60% (only radio-opaque stones).",
+        "Correct. NON-CONTRAST CT (low-dose 'CT KUB' or stone protocol CT) is the GOLD STANDARD for kidney stone diagnosis: sensitivity ~95%, specificity ~95%. Detects radio-opaque AND radiolucent stones (uric acid, cystine), measures size precisely, shows ureteral location, hydronephrosis, alternative diagnoses. Disadvantages: ionizing radiation (low-dose protocols reduce this). ULTRASOUND is alternative for: pregnancy (avoid radiation), pediatrics, repeated imaging follow-up; sensitivity ~85% but lower for ureteral stones. KUB has limited role.",
+        "Incorrect. US is less sensitive but used in pregnancy.",
+        "Incorrect. MRI is not ideal for stones (Ca doesn't show well on MRI).",
+        "Incorrect. VCUG is for reflux."
+      ]
+    },
+    {
+      "id": 3,
+      "stem": "A 65-year-old man with worsening hypertension and difficult-to-control BP is suspected of having renal artery stenosis. Which is the most appropriate initial imaging modality?",
+      "choices": [
+        "CT or MR angiography",
+        "Plain X-ray",
+        "VCUG",
+        "DMSA scan",
+        "PET scan"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. RENAL ARTERY STENOSIS imaging hierarchy: (1) DOPPLER ULTRASOUND — useful screening (peak systolic velocity, resistive index), operator-dependent; (2) CT ANGIOGRAPHY (CTA) — high sensitivity/specificity, but contrast load; (3) MAGNETIC RESONANCE ANGIOGRAPHY (MRA) — comparable accuracy without iodinated contrast (gadolinium concerns in CKD though limited with newer agents); (4) RENAL ANGIOGRAM — gold standard, allows intervention (angioplasty/stent), but invasive. Captopril renogram is functional test but largely supplanted by CTA/MRA. Decision based on patient factors (CKD, contrast allergy, suspicion).",
+        "Incorrect. X-ray is not principal.",
+        "Incorrect. VCUG is for reflux.",
+        "Incorrect. DMSA is for cortical scarring.",
+        "Incorrect. PET is for malignancy."
+      ]
+    },
+    {
+      "id": 4,
+      "stem": "A 50-year-old woman with hematuria and concern for urothelial malignancy is being evaluated. Which best characterizes the recommended imaging?",
+      "choices": [
+        "CT urogram plus cystoscopy",
+        "Renal ultrasound only",
+        "Plain X-ray only",
+        "VCUG",
+        "MRA"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Hematuria evaluation in adults (especially with risk factors — age >35, smoking, occupational exposures): CT UROGRAM (CTU) — multiphase contrast CT with non-contrast, nephrographic, and excretory phases; evaluates kidneys, ureters, bladder for stones, masses, urothelial cancer. Plus CYSTOSCOPY for direct bladder evaluation (urothelial cancer most often in bladder; ~5% in upper tract). MR urography is alternative if contrast contraindicated. AUA guidelines stratify by risk; not all microhematuria requires full workup. Painless gross hematuria + smoking history → bladder cancer until proven otherwise.",
+        "Incorrect. Insufficient.",
+        "Incorrect. Insufficient.",
+        "Incorrect. Pediatric reflux test.",
+        "Incorrect. Different indication."
+      ]
+    },
+    {
+      "id": 5,
+      "stem": "A 70-year-old man with CKD stage 4 needs imaging for suspected renal mass. Which best characterizes contrast considerations?",
+      "choices": [
+        "Iodinated contrast is safe in CKD 4",
+        "Risk of contrast nephropathy and NSF",
+        "Gadolinium is always safe",
+        "No imaging is possible in CKD",
+        "Only X-ray"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Contrast nephropathy concern.",
+        "Correct. Imaging in advanced CKD: IODINATED CONTRAST — risk of contrast-induced nephropathy / contrast-associated AKI (CIN/CA-AKI) — especially eGFR <30. Mitigation: hydration, lowest volume, alternative imaging. GADOLINIUM (for MRI) — historical concern for NEPHROGENIC SYSTEMIC FIBROSIS (NSF) in advanced CKD/dialysis, particularly with older Gd agents (gadolinium chloride, gadodiamide). Newer macrocyclic Gd agents are considered safer. Modern guidelines often allow contrast use with appropriate risk-benefit consideration. ALTERNATIVE: non-contrast CT, ultrasound, MRI without contrast, or carefully justified contrast study with informed consent.",
+        "Incorrect. Specific risk in advanced CKD.",
+        "Incorrect. Many imaging options exist.",
+        "Incorrect. Multiple modalities."
+      ]
+    },
+    {
+      "id": 6,
+      "stem": "A 30-year-old woman with new bilateral renal cysts on ultrasound has a family history of similar disease. Genetic testing for ADPKD is positive. Which best characterizes the imaging features of ADPKD?",
+      "choices": [
+        "Single renal cyst",
+        "Multiple bilateral renal cysts",
+        "Tumor",
+        "Hydronephrosis",
+        "Glomerular abnormality"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Multiple cysts.",
+        "Correct. Autosomal dominant polycystic kidney disease imaging: MULTIPLE BILATERAL RENAL CYSTS of varying sizes (often hundreds), enlarging both kidneys progressively. Liver cysts in 80% (often coexisting). Diagnosis criteria (Ravine): age 15–39 with 3+ cysts uni- or bilaterally; 40–59 with 2+ in each kidney; >60 with 4+ in each. Cerebral aneurysms in ~10% (screen with MRA in family history of subarachnoid hemorrhage). Other extra-renal: mitral valve prolapse, colonic diverticula. Tolvaptan slows progression. Ultrasound is first-line; MRI for total kidney volume estimation (predicts progression).",
+        "Incorrect. Multiple.",
+        "Incorrect. Different finding.",
+        "Incorrect. Glomerular not seen on imaging."
+      ]
+    },
+    {
+      "id": 7,
+      "stem": "A 4-year-old child with recurrent UTI is being evaluated for vesicoureteral reflux (VUR). Which is the appropriate imaging?",
+      "choices": [
+        "MRI",
+        "Voiding cystourethrogram (VCUG)",
+        "Cystoscopy",
+        "Renal arteriogram",
+        "PET scan"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. MRI is not principal for VUR.",
+        "Correct. VOIDING CYSTOURETHROGRAM (VCUG) — fluoroscopic study filling the bladder with contrast and observing during voiding to detect vesicoureteral reflux (VUR — urine refluxing back up the ureters into the kidneys). Indications: recurrent febrile UTI in children, abnormal renal ultrasound findings (hydronephrosis), antenatal hydronephrosis. Grades I-V (severity). Higher grades increase risk of pyelonephritis and renal scarring. Treatment: prophylactic antibiotics, surgical reimplantation (Cohen, Lich-Gregoir) for high-grade VUR. Radioisotope cystogram is an alternative with less radiation.",
+        "Incorrect. Cystoscopy is bladder-only, not for reflux assessment.",
+        "Incorrect. Arteriogram is vascular.",
+        "Incorrect. PET is oncologic."
+      ]
+    },
+    {
+      "id": 8,
+      "stem": "A 30-year-old man with recurrent pyelonephritis has imaging to assess for renal scarring. Which best characterizes the imaging modality?",
+      "choices": [
+        "DTPA renogram",
+        "DMSA renal scintigraphy",
+        "MRA",
+        "VCUG",
+        "Plain X-ray"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. DTPA is for GFR/renogram (perfusion).",
+        "Correct. DMSA (DIMERCAPTOSUCCINIC ACID) — radioisotope renal scan; concentrates in proximal tubular cells, providing CORTICAL imaging. Indications: detection of CORTICAL SCARRING (chronic pyelonephritis, congenital scars), assessment of split renal function (each kidney's contribution to total). Acute pyelonephritis shows photopenic defects. Cleared from circulation slowly (vs MAG3 for tubular function/perfusion). DTPA is for filtration / GFR measurement. MAG3 (mercaptoacetyltriglycine) — combined glomerular and tubular function assessment.",
+        "Incorrect. MRA is vascular.",
+        "Incorrect. VCUG is for reflux.",
+        "Incorrect. Plain X-ray is not for scarring."
+      ]
+    },
+    {
+      "id": 9,
+      "stem": "A 50-year-old man with possible renal artery stenosis is undergoing captopril renogram. Which best characterizes the test?",
+      "choices": [
+        "Useful for stone disease",
+        "Unmasks RAS",
+        "Detects malignancy",
+        "Measures bladder function",
+        "Diagnoses HF"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Not for stones.",
+        "Correct. CAPTOPRIL RENOGRAM — renal scintigraphy (typically MAG3 or DTPA) before and after ACE inhibitor administration. In RAS, the ACE inhibitor blocks angiotensin II-mediated efferent constriction that normally maintains GFR distal to the stenosis; the affected kidney's perfusion/function falls dramatically post-captopril, while the contralateral side is preserved. This relative change supports RAS. Largely SUPPLANTED by CTA/MRA in modern practice (anatomic imaging more direct). Still useful in selected cases.",
+        "Incorrect. Not for malignancy.",
+        "Incorrect. Not for bladder.",
+        "Incorrect. Not for HF."
+      ]
+    },
+    {
+      "id": 10,
+      "stem": "A 50-year-old man has incidentally discovered renal mass on CT. Which best characterizes the imaging assessment of solid renal masses?",
+      "choices": [
+        "Always benign",
+        "Multiphase contrast CT/MRI",
+        "Cystic only",
+        "Always malignant",
+        "Only ultrasound needed"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Many solid masses are RCC or other malignancy.",
+        "Correct. Solid renal mass evaluation: CT or MRI WITH CONTRAST (multiphase: non-contrast, corticomedullary, nephrographic, excretory) to characterize. ENHANCEMENT >15–20 HU on CT after contrast → solid component → likely neoplasm. RCC features: heterogeneous enhancement, hemorrhage, necrosis, occasional calcification, vascular invasion (renal vein, IVC). ANGIOMYOLIPOMA (benign) — fat density (negative HU) is diagnostic. ONCOCYTOMA — benign but often indistinguishable from RCC on imaging; biopsy or surgery for confirmation. Bosniak classification for cystic masses (I–IV) guides management.",
+        "Incorrect. Renal masses are diverse.",
+        "Incorrect. Not all malignant.",
+        "Incorrect. CT/MRI more comprehensive."
+      ]
+    },
+    {
+      "id": 11,
+      "stem": "A 35-year-old man with severe flank pain has imaging showing hyperdense mass at the renal pelvis with hydronephrosis. Which best characterizes the differential?",
+      "choices": [
+        "Renal artery aneurysm",
+        "Stone, mass, or clot",
+        "Cyst",
+        "Vascular thrombosis",
+        "Glomerulonephritis"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Less common.",
+        "Correct. Hyperdense mass at the renal pelvis with hydronephrosis — STONE most common (high HU, often >300, calcified). Other considerations: urothelial mass (transitional cell carcinoma — heterogeneous enhancement); blood clot (recent trauma or anticoagulation); fungal ball (immunocompromised, especially Candida); sloughed papilla (papillary necrosis from analgesics, sickle cell, NSAIDs). CT urogram with delayed phase (excretory) helps characterize. Biopsy or surgical exploration may be needed for definitive diagnosis if not obviously a stone.",
+        "Incorrect. Different appearance.",
+        "Incorrect. Different appearance.",
+        "Incorrect. Glomerular not seen on imaging."
+      ]
+    },
+    {
+      "id": 12,
+      "stem": "A 70-year-old man with painless gross hematuria and smoking history has CT urogram showing a filling defect in the bladder. Which best characterizes the next step?",
+      "choices": [
+        "Observation",
+        "Cystoscopy with biopsy",
+        "Antibiotic course",
+        "Diuretic",
+        "Reassurance"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Concerning for urothelial cancer.",
+        "Correct. Painless gross hematuria + smoking + filling defect on imaging → BLADDER CANCER until proven otherwise. CYSTOSCOPY WITH BIOPSY is the diagnostic gold standard for bladder cancer, allows visualization, biopsy, and staging. Transurethral resection (TURBT) provides histologic diagnosis and initial treatment for non-muscle-invasive cancer. Risk factors for urothelial cancer: SMOKING (most important; 50% of bladder cancers), occupational exposures (aromatic amines — rubber, dye, leather, petrochemical), schistosomiasis (squamous cell), cyclophosphamide, radiation. CT urogram + cystoscopy together cover upper and lower urinary tract.",
+        "Incorrect. Not infection.",
+        "Incorrect. Not for bladder mass.",
+        "Incorrect. Concerning finding."
+      ]
+    },
+    {
+      "id": 13,
+      "stem": "A 30-year-old researcher considers Bosniak classification of renal cysts. Which best characterizes the system?",
+      "choices": [
+        "Single category",
+        "I to IV by complexity",
+        "Only stones",
+        "All malignant",
+        "Only one stage"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Multiple categories.",
+        "Correct. BOSNIAK classification of renal cysts (radiologic): I — simple (water density, smooth thin wall, no enhancement) — BENIGN, no follow-up needed. II — minimally complex (thin septations, fine calcifications), benign, no follow-up. IIF — moderately complex (more septations, higher density), follow-up imaging. III — indeterminate (thicker walls or septations, irregular calcifications, possible enhancement), 50–60% malignancy risk → SURGERY usually. IV — frankly malignant features (enhancing soft tissue, mural nodules) → high malignancy risk → surgery. Newer Bosniak 2019 incorporates MRI features. Important for management decisions.",
+        "Incorrect. Cyst classification.",
+        "Incorrect. Many benign.",
+        "Incorrect. Multiple stages."
+      ]
+    },
+    {
+      "id": 14,
+      "stem": "A 30-year-old researcher considers renal angiography indications. Which best characterizes the role of formal renal angiogram in modern practice?",
+      "choices": [
+        "First-line in all renal disease",
+        "Reserved for therapy or unclear diagnosis",
+        "Pediatric screening",
+        "Routine in all CKD",
+        "Replaced by X-ray"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Reserved for specific cases.",
+        "Correct. RENAL ANGIOGRAPHY — invasive procedure with iodinated contrast and arterial access. Modern indications: (1) THERAPEUTIC — angioplasty / stenting of renal artery stenosis, embolization (renal mass, AVM, post-trauma bleeding), tumor embolization before nephrectomy, kidney biopsy of vascular lesions; (2) DIAGNOSTIC — selected cases where less invasive imaging (CTA, MRA) is inconclusive; vasculitis assessment (microaneurysms in PAN). Risks: contrast nephropathy, atheroembolism (cholesterol crystal embolization → AKI, livedo reticularis, eosinophilia, low complement), bleeding, dissection. Largely supplanted by CTA/MRA for diagnostic purposes.",
+        "Incorrect. Not routine.",
+        "Incorrect. Not routine in CKD.",
+        "Incorrect. Specialized procedure."
+      ]
+    },
+    {
+      "id": 15,
+      "stem": "A 28-year-old researcher considers imaging in pregnancy. Which best characterizes the recommended approach in suspected nephrolithiasis in pregnancy?",
+      "choices": [
+        "CT first",
+        "Ultrasound first",
+        "MRI only",
+        "X-ray first",
+        "PET scan"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Avoid CT initially.",
+        "Correct. Imaging in pregnancy: AVOID IONIZING RADIATION when possible, especially in 1st trimester. ULTRASOUND first-line for: nephrolithiasis (less sensitive than CT but no radiation), AKI, hydronephrosis, masses. Limitations: less sensitive than CT for ureteral stones; physiologic hydronephrosis of pregnancy (right > left from gravid uterus compression) can mimic obstruction. MR UROGRAPHY (without gadolinium ideally) is alternative in 2nd/3rd trimester for unclear cases. LOW-DOSE NON-CONTRAST CT only when clinically essential. Gadolinium concerns in pregnancy (older agents); modern macrocyclic Gd if needed in compelling cases.",
+        "Incorrect. MRI may be needed but US first.",
+        "Incorrect. KUB has limited role.",
+        "Incorrect. PET not standard."
+      ]
+    },
+    {
+      "id": 16,
+      "stem": "A 50-year-old patient with chronic loin pain has imaging showing 'ring sign' on contrast study suggesting papillary necrosis. Which condition best fits?",
+      "choices": [
+        "Acute ureteral obstruction",
+        "Papillary necrosis",
+        "Renal cell carcinoma",
+        "Polycystic kidney",
+        "Acute glomerulonephritis"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Different appearance.",
+        "Correct. PAPILLARY NECROSIS — ischemic injury to renal medullary papillae. Causes (mnemonic POSTCARDS): Pyelonephritis, Obstruction, Sickle cell disease, TB, Cirrhosis, Analgesic abuse, Renal vein thrombosis, Diabetes, Systemic vasculitis. Imaging: 'RING SIGN' on excretory phase (contrast around the necrotic papilla); cavities, sloughed papillae causing distal obstruction. Hematuria, sterile pyuria, recurrent UTI, AKI from ureteral obstruction by sloughed tissue. Treatment: address underlying cause; relieve obstruction.",
+        "Incorrect. Different finding.",
+        "Incorrect. Different appearance.",
+        "Incorrect. Cysts have different finding.",
+        "Incorrect. Glomerular not seen on imaging."
+      ]
+    },
+    {
+      "id": 17,
+      "stem": "A 75-year-old man has bilateral renal artery stenosis confirmed on CTA. Which best characterizes the imaging finding for diagnostic significance?",
+      "choices": [
+        ">25% lumen narrowing",
+        ">75% lumen narrowing",
+        "Any narrowing",
+        "Only complete occlusion",
+        "Visible renal artery"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Insufficient narrowing for clinical relevance.",
+        "Correct. HEMODYNAMICALLY SIGNIFICANT renal artery stenosis: >70–75% LUMEN NARROWING; or peak systolic velocity >180–200 cm/s on Doppler ultrasound; or translesional pressure gradient >10–20 mm Hg at angiogram. Causes: ATHEROSCLEROSIS (most common, elderly, ostial/proximal); FIBROMUSCULAR DYSPLASIA (younger women, mid/distal vessel, 'string of beads' appearance). Manifestations: refractory HTN (often new onset or sudden worsening), AKI on ACE inhibitor, asymmetric kidney size, audible bruit. Treatment: medical optimization first; angioplasty/stent for selected (CORAL trial — modest benefit, not for all).",
+        "Incorrect. Lower threshold insufficient.",
+        "Incorrect. Direct narrowing matters.",
+        "Incorrect. Not just complete occlusion."
+      ]
+    },
+    {
+      "id": 18,
+      "stem": "A 30-year-old researcher reviews ultrasound findings in CKD. Which best characterizes the typical sonographic features?",
+      "choices": [
+        "Enlarged kidneys",
+        "Small echogenic kidneys",
+        "Cystic kidneys only",
+        "Normal kidneys",
+        "Hyperdense kidneys"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. CKD typically smaller.",
+        "Correct. CKD ultrasound features: SMALL KIDNEYS (<9 cm in adult), INCREASED CORTICAL ECHOGENICITY (cortex brighter than liver/spleen — reflects fibrosis/scarring), CORTICAL THINNING, loss of corticomedullary differentiation. Kidney size >9 cm with normal echogenicity in CKD suggests potentially reversible cause or recent onset. Conditions where CKD has LARGE kidneys: diabetic nephropathy (early), HIV-associated nephropathy, amyloidosis, polycystic kidney disease, infiltrative disease (myeloma, lymphoma). Imaging guides diagnosis and biopsy decisions; small kidneys generally do not warrant biopsy (low yield, high bleeding risk).",
+        "Incorrect. Cysts only suggest PKD.",
+        "Incorrect. Specific findings in CKD.",
+        "Incorrect. Hyperdense is one feature."
+      ]
+    },
+    {
+      "id": 19,
+      "stem": "A 60-year-old woman with new AKI has ultrasound showing bilateral hydronephrosis. Which best characterizes the workup?",
+      "choices": [
+        "Begin dialysis immediately",
+        "Identify cause; relieve obstruction",
+        "Renal biopsy",
+        "Conservative observation",
+        "Low-protein diet"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. First treat the obstruction.",
+        "Correct. Bilateral hydronephrosis suggests bladder outlet or BILATERAL ureteral obstruction. Workup: (1) Bladder catheterization first (relieves bladder outlet obstruction immediately if BPH); (2) CT abdomen/pelvis (often without contrast initially in AKI) to identify cause: BPH, bladder cancer, prostate cancer, malignant ureteral obstruction (gynecologic, GI, lymph nodes, metastatic), retroperitoneal fibrosis, stones; (3) Urology consultation for definitive treatment: prostate management, ureteral stents, percutaneous nephrostomy, surgical debulking. Post-obstructive diuresis monitoring after relief. AKI typically reverses with timely intervention.",
+        "Incorrect. No biopsy needed for obstruction.",
+        "Incorrect. Active intervention.",
+        "Incorrect. Diet is not the principal step."
+      ]
+    },
+    {
+      "id": 20,
+      "stem": "A 30-year-old researcher considers renal biopsy imaging guidance. Which best characterizes the modality?",
+      "choices": [
+        "MRI-guided",
+        "Ultrasound-guided",
+        "X-ray-guided",
+        "Cystoscopy",
+        "PET-guided"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Not principal.",
+        "Correct. Renal biopsy GUIDANCE: ULTRASOUND-GUIDED PERCUTANEOUS biopsy is the standard approach (lower pole of kidney to avoid hilar vessels). CT-GUIDED for difficult cases (obese patients, deep kidneys, transplant biopsies in difficult location). LAPAROSCOPIC OR OPEN biopsy reserved for cases when percutaneous fails. Native kidney biopsy: post-procedure monitoring 4–6 hours (or overnight) for bleeding. Transplant biopsy: similar approach. Major risks: bleeding (10% gross hematuria, 1% transfusion, rare surgery for pole avulsion or AVF formation), pain, infection.",
+        "Incorrect. X-ray not real-time enough.",
+        "Incorrect. Cysto for bladder.",
+        "Incorrect. PET unrelated."
+      ]
+    },
+    {
+      "id": 21,
+      "stem": "A 30-year-old researcher considers DTPA renogram. Which best characterizes the test?",
+      "choices": [
+        "Stone imaging",
+        "Radioisotope filtration study",
+        "Cystic measurement",
+        "Bladder volume",
+        "Vascular only"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Not for stones.",
+        "Correct. DTPA (diethylenetriaminepentaacetic acid) renogram — IV-administered radioisotope, freely filtered (like inulin), no tubular reabsorption or secretion. Used to: (1) MEASURE GFR (single kidney or combined); (2) RENOGRAM CURVE — perfusion phase, filtration phase, excretion phase; assesses obstruction (delayed excretion); RAS (delayed perfusion); transplant kidney function. MAG3 (mercaptoacetyltriglycine) — alternative, also tubular function (better in low-GFR or pediatric patients). DMSA — cortical imaging (scarring). Renal scintigraphy is FUNCTIONAL imaging complementing anatomic CT/US.",
+        "Incorrect. Not for cysts.",
+        "Incorrect. Not bladder.",
+        "Incorrect. Functional study."
+      ]
+    },
+    {
+      "id": 22,
+      "stem": "A 50-year-old man with acute right flank pain and microscopic hematuria has CT showing 5 mm stone in mid-ureter with mild proximal hydronephrosis. Which best characterizes the management implication?",
+      "choices": [
+        "Immediate surgery",
+        "Conservative management with tamsulosin",
+        "Always requires lithotripsy",
+        "Begin dialysis",
+        "Antibiotics only"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. <5 mm often passes spontaneously.",
+        "Correct. Ureteral stone passage rates depend on size and location: <5 mm → ~80% pass spontaneously; 5–7 mm → ~50%; >7 mm → unlikely to pass. Distal ureter passes more easily than proximal. Conservative management: hydration, analgesia (NSAIDs preferred over opioids if no AKI), MEDICAL EXPULSIVE THERAPY (tamsulosin α-blocker — modest evidence; debated). Indications for surgical/endoscopic intervention: failed expulsive therapy, large stone, infection (urgent decompression), refractory pain, AKI. Options: ESWL (extracorporeal shock-wave lithotripsy), URETEROSCOPY with laser lithotripsy, percutaneous nephrolithotomy (large stones).",
+        "Incorrect. Lithotripsy for selected.",
+        "Incorrect. Not for stones.",
+        "Incorrect. Antibiotics only if infection."
+      ]
+    },
+    {
+      "id": 23,
+      "stem": "A 45-year-old woman with renal mass on imaging has features suggesting fat density (negative Hounsfield units). Which best characterizes this imaging finding?",
+      "choices": [
+        "Renal cell carcinoma",
+        "Angiomyolipoma (AML)",
+        "Renal cyst",
+        "Pyelonephritis",
+        "Stone"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. RCC does not have fat density.",
+        "Correct. ANGIOMYOLIPOMA (AML) — benign tumor composed of vascular, smooth muscle, and FAT components. CT shows characteristic FAT DENSITY (negative HU, <-20). Diagnostic by imaging alone (no biopsy needed in classic appearance). Solitary AMLs are usually sporadic; multiple bilateral AMLs suggest TUBEROUS SCLEROSIS COMPLEX (genetic, AML + cardiac rhabdomyoma + cortical tubers + ash-leaf macules + facial angiofibromas). Management: small (<4 cm) — observation; larger or symptomatic — selective embolization or partial nephrectomy (rupture risk with tumors >4 cm). Aggressive resection avoided to preserve nephrons. mTOR inhibitors (sirolimus, everolimus) shrink AMLs in TSC.",
+        "Incorrect. Cyst is fluid density.",
+        "Incorrect. Pyelonephritis is functional.",
+        "Incorrect. Stone is high density."
+      ]
+    },
+    {
+      "id": 24,
+      "stem": "A 30-year-old researcher considers retroperitoneal fibrosis imaging. Which best characterizes the findings?",
+      "choices": [
+        "Kidney mass",
+        "Aortic mantle of fibrosis",
+        "Single cyst",
+        "Stone",
+        "Polycystic kidneys"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Not principally a kidney mass.",
+        "Correct. RETROPERITONEAL FIBROSIS — mantle of fibrotic tissue surrounding aorta, IVC, and ureters in retroperitoneum. Imaging (CT or MRI): SOFT-TISSUE MANTLE around aorta extending to encase ureters; URETERS MEDIALLY DEVIATED (vs lateral with retroperitoneal masses); BILATERAL HYDRONEPHROSIS from ureteral obstruction. Causes: idiopathic (Ormond disease, often IgG4-related), drugs (methysergide, ergot alkaloids, β-blockers, methyldopa, hydralazine), aortic aneurysm, malignancy, radiation, infection. Treatment: corticosteroids (idiopathic), tamoxifen, ureteral stents/nephrostomy for obstruction, surgical ureterolysis. PET-CT to assess malignancy.",
+        "Incorrect. Not single cyst.",
+        "Incorrect. Not stone.",
+        "Incorrect. Different presentation."
+      ]
+    },
+    {
+      "id": 25,
+      "stem": "A 30-year-old researcher considers renal transplant imaging. Which best characterizes ultrasound monitoring of a transplant kidney?",
+      "choices": [
+        "Not done routinely",
+        "Routine monitoring with Doppler",
+        "Only at transplant time",
+        "Replaces biopsy",
+        "Not useful"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Routine.",
+        "Correct. Transplant kidney imaging — routine monitoring, especially in early postoperative period: KIDNEY SIZE; HYDRONEPHROSIS (ureteral kink/stenosis, BPH; lymphocele compressing); PERINEPHRIC COLLECTIONS — hematoma (early, often resolves), lymphocele (peri-lymphatic disruption, late, often asymptomatic; symptomatic ones need drainage), urinoma (anastomotic leak), abscess; VASCULAR DOPPLER — renal artery patency, resistive index (RI elevated in rejection or thrombosis), arterial stenosis (anastomotic, post-transplant). Biopsy guides definitive diagnosis when ultrasound suggests rejection or other intrinsic dysfunction.",
+        "Incorrect. Ongoing.",
+        "Incorrect. Doesn't replace biopsy.",
+        "Incorrect. Useful tool."
+      ]
+    }
+  ]
+}

@@ -35,6 +35,9 @@
     { "id": 33, "title": "Fanconi Syndrome", "available": true },
     { "id": 34, "title": "Acute Kidney Injury", "available": true },
     { "id": 35, "title": "Chronic Kidney Disease", "available": true },
-    { "id": 36, "title": "End-Stage Kidney Disease and Kidney Replacement Therapy", "available": true }
+    { "id": 36, "title": "End-Stage Kidney Disease and Kidney Replacement Therapy", "available": true },
+    { "id": 37, "title": "Renal Laboratory Tests", "available": true },
+    { "id": 38, "title": "Renal Imaging", "available": true },
+    { "id": 39, "title": "Hematuria", "available": true }
   ]
 }

@@ -1,0 +1,481 @@
+{
+  "id": 37,
+  "title": "Renal Laboratory Tests",
+  "questions": [
+    {
+      "id": 1,
+      "stem": "A 30-year-old researcher is studying serum creatinine. Which best characterizes its production and clearance?",
+      "choices": [
+        "Produced by liver, hepatic clearance",
+        "Muscle creatine; filtered with mild secretion",
+        "Produced by kidney, biliary clearance",
+        "Produced by gut, fully reabsorbed",
+        "Inert with no relationship to GFR"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Liver is not principal source.",
+        "Correct. Creatinine is produced from creatine in muscle (relatively constant production proportional to muscle mass). Cleared by kidneys: freely filtered (low MW, not protein-bound) and SMALL TUBULAR SECRETION in PCT (10–15%) — leading to slight overestimation of true GFR by Cr clearance compared with inulin. Cr is widely used as a GFR estimate but limitations include: muscle mass dependence (overestimates GFR in low muscle mass: elderly, malnourished, paraplegic; underestimates in high muscle mass: bodybuilders); slow rise after acute injury (24–48 h); affected by drugs that block tubular secretion (cimetidine, trimethoprim — raise Cr without GFR change); may rise with cooked meat ingestion.",
+        "Incorrect. Renal clearance, not biliary.",
+        "Incorrect. Not GI source.",
+        "Incorrect. Cr is the principal GFR marker."
+      ]
+    },
+    {
+      "id": 2,
+      "stem": "A 60-year-old man with cachexia has eGFR 55. He weighs 50 kg with low muscle mass. Which best characterizes Cr-based eGFR in this patient?",
+      "choices": [
+        "Underestimates true GFR",
+        "Overestimates true GFR",
+        "Accurately estimates GFR",
+        "Cannot be calculated",
+        "Equal to inulin clearance"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Reverse direction.",
+        "Correct. Cr-based eGFR OVERESTIMATES true GFR in patients with low muscle mass (cachexia, sarcopenia, paraplegia, amputees, elderly). The formula assumes typical muscle-based Cr production; with low Cr generation, low Cr levels misleadingly suggest preserved GFR. Conversely, Cr-based eGFR UNDERESTIMATES true GFR in muscular individuals (bodybuilders) and after high-protein meals. Cystatin C (or combined Cr-cystatin C) is better in patients at extremes of muscle mass; iohexol or inulin clearance for research-grade measurement.",
+        "Incorrect. Not accurate in low-muscle.",
+        "Incorrect. Calculation works but is inaccurate.",
+        "Incorrect. Inulin is gold standard; Cr is approximation."
+      ]
+    },
+    {
+      "id": 3,
+      "stem": "A 30-year-old researcher studies cystatin C. Which best characterizes cystatin C compared with creatinine?",
+      "choices": [
+        "Cystatin C depends on muscle mass like Cr",
+        "Less muscle-dependent than creatinine",
+        "Cystatin C is identical to Cr",
+        "Cystatin C depends on diet",
+        "Cystatin C is not used clinically"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Less muscle-dependent than Cr.",
+        "Correct. Cystatin C is a 13 kDa protein produced by all nucleated cells at relatively constant rate, freely filtered, and fully reabsorbed and METABOLIZED by PCT cells (not secreted, unlike Cr). Production is less affected by muscle mass, age, sex, race compared with Cr — making it advantageous in patients with extremes of muscle mass (cachexia, paraplegia, bodybuilders), elderly, children, and women. Combined CKD-EPIcr-cys equation is more accurate than Cr alone. Limitations: affected by inflammation, hyperthyroidism, steroids, smoking; cost; less widely available.",
+        "Incorrect. Different molecules.",
+        "Incorrect. Not principally diet-dependent.",
+        "Incorrect. Cystatin C is increasingly used clinically."
+      ]
+    },
+    {
+      "id": 4,
+      "stem": "A 28-year-old researcher considers the gold standard for measured GFR. Which best characterizes inulin clearance?",
+      "choices": [
+        "Inulin is endogenously produced",
+        "Exogenous filter marker; gold standard GFR",
+        "Inulin is bound to plasma proteins",
+        "Inulin is unrelated to GFR",
+        "Inulin is identical to creatinine"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Exogenously administered.",
+        "Correct. INULIN is an exogenous fructose polymer (~5 kDa) administered IV. Properties: freely filtered at glomerulus, NEITHER reabsorbed NOR secreted along the nephron, NOT metabolized. Renal clearance = GFR exactly. The GOLD STANDARD for GFR measurement, used for research and clinical studies of medication renal clearance. Limitations: requires steady-state IV infusion, expensive, time-consuming. Newer alternatives: IOHEXOL (radiocontrast, single-injection plasma clearance) — increasingly used as the practical gold standard. CYSTATIN C and creatinine are estimates.",
+        "Incorrect. Not protein-bound.",
+        "Incorrect. Inulin clearance = GFR.",
+        "Incorrect. Different molecules."
+      ]
+    },
+    {
+      "id": 5,
+      "stem": "A 65-year-old man has BUN 90, Cr 1.2 (baseline 1.0), and ratio 75:1 (very high). Which best explains this disproportion?",
+      "choices": [
+        "Pre-renal AKI alone",
+        "GI bleeding plus pre-renal",
+        "Acute kidney injury",
+        "Decreased protein intake",
+        "Pure muscle wasting"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Cr is barely elevated; pre-renal alone usually has Cr 1.5–2× baseline.",
+        "Correct. BUN:Cr ratio >40:1 (especially with normal Cr) suggests UREA GENERATION exceeds clearance — most commonly GI BLEEDING (blood protein metabolized to urea in gut, producing 'pseudo-uremia' without kidney injury). Also: hypercatabolic states (sepsis, fever, tetracyclines, corticosteroids), high-protein diet. Pre-renal AKI typically has BUN:Cr 20–40:1 with rising Cr. Workup: stool guaiac, hemoglobin trend, endoscopy if suspicion. Distinguishing important — GI bleed treatment vs volume resuscitation are different priorities.",
+        "Incorrect. Cr essentially normal.",
+        "Incorrect. Reduced protein LOWERS BUN.",
+        "Incorrect. Muscle wasting lowers Cr but doesn't raise BUN this much."
+      ]
+    },
+    {
+      "id": 6,
+      "stem": "A 28-year-old researcher reviews dipstick urinalysis. Which best characterizes the dipstick result for blood when myoglobin is present?",
+      "choices": [
+        "Negative for blood",
+        "Positive (heme reaction)",
+        "Specific for RBCs only",
+        "Positive only with hemolysis",
+        "Positive only with bilirubin"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Heme reaction is positive.",
+        "Correct. Urine dipstick 'BLOOD' detects heme by peroxidase-like activity, reacting positively to: (1) intact RBCs, (2) FREE HEMOGLOBIN (intravascular hemolysis), (3) MYOGLOBIN (rhabdomyolysis). Microscopic examination distinguishes them: dipstick+ with RBCs visible = hematuria; dipstick+ with NO RBCs = pigment (myoglobin or hemoglobin). Plasma color: pink with hemolysis, normal with myoglobinuria (myoglobin clears too quickly). Confirm with myoglobin assay or CK if suspecting rhabdomyolysis.",
+        "Incorrect. Cross-reacts with myoglobin and hemoglobin.",
+        "Incorrect. Hemolysis-related but also myoglobin.",
+        "Incorrect. Bilirubin is separate."
+      ]
+    },
+    {
+      "id": 7,
+      "stem": "A 50-year-old patient has urine specific gravity of 1.005 with plasma osmolality 295. Which best characterizes the urine?",
+      "choices": [
+        "Highly concentrated",
+        "Maximally dilute urine",
+        "Iso-osmotic",
+        "Cannot interpret",
+        "Concentrated with normal serum osmolality"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. SG 1.005 is dilute.",
+        "Correct. Urine specific gravity (SG) approximately reflects urine osmolality: SG 1.005 ≈ 200 mOsm/kg (dilute); SG 1.010 ≈ 300 mOsm/kg (iso-osmotic); SG 1.020 ≈ 700; SG 1.030+ ≈ >1000 (maximally concentrated). SG 1.005 with high plasma osmolality 295 represents DILUTE urine — appropriate for water-loaded states, OR inappropriate (suggesting DI, primary polydipsia, intrinsic kidney disease impairing concentration). Urine osmolality directly is more accurate; SG can be elevated by glucose, contrast, or proteins (without true high osmolality).",
+        "Incorrect. SG 1.005 is below iso-osmotic.",
+        "Incorrect. Direct calculation.",
+        "Incorrect. SG 1.005 is dilute."
+      ]
+    },
+    {
+      "id": 8,
+      "stem": "A 60-year-old man has urine ACR 50 mg/g on a routine screening. Repeat is similar. Which best characterizes this finding?",
+      "choices": [
+        "Normal",
+        "Moderately increased albuminuria (A2; previously 'microalbuminuria')",
+        "Severely increased albuminuria (A3)",
+        "Pure pyuria",
+        "Glomerular failure"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. >30 mg/g is abnormal.",
+        "Correct. KDIGO albuminuria categories (urine albumin/creatinine ratio in mg/g): A1 = <30 mg/g (normal); A2 = 30–300 mg/g (moderately increased; previously 'microalbuminuria'); A3 = >300 mg/g (severely increased; 'macroalbuminuria'). Repeat for confirmation. Persistent A2/A3 indicates kidney damage (regardless of eGFR). Important risk factor for CKD progression and CV events. Treatment: ACEi/ARB for proteinuria reduction; SGLT2 inhibitor and finerenone in diabetic CKD.",
+        "Incorrect. >300 is A3.",
+        "Incorrect. ACR measures albumin, not WBCs.",
+        "Incorrect. Glomerular failure is more severe."
+      ]
+    },
+    {
+      "id": 9,
+      "stem": "A 30-year-old researcher considers urine sediment findings. Which best matches 'muddy brown granular casts'?",
+      "choices": [
+        "Glomerulonephritis",
+        "Acute tubular necrosis",
+        "Acute interstitial nephritis",
+        "UTI",
+        "Pre-renal AKI"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. GN has RBC casts.",
+        "Correct. MUDDY BROWN GRANULAR CASTS (renal tubular epithelial casts) — pathognomonic for acute tubular necrosis (ATN). Other ATN findings: tubular epithelial cells, FENa >2%, isosthenuric urine. Cast types and their associations: RBC casts → glomerulonephritis; WBC casts → acute interstitial nephritis (AIN), pyelonephritis; FATTY casts and oval fat bodies (Maltese cross under polarized) → nephrotic syndrome; HYALINE casts → benign, dehydration; WAXY casts → CKD; BROAD casts → advanced CKD ('CKD castology').",
+        "Incorrect. AIN has WBC casts.",
+        "Incorrect. UTI has WBCs and bacteria.",
+        "Incorrect. Pre-renal has bland sediment."
+      ]
+    },
+    {
+      "id": 10,
+      "stem": "A 30-year-old researcher considers FENa. Which best characterizes FENa interpretation in AKI?",
+      "choices": [
+        "FENa <1% suggests pre-renal physiology",
+        "FENa <1% suggests intrinsic AKI",
+        "FENa >2% suggests pre-renal",
+        "FENa >5% suggests pure pre-renal",
+        "FENa is unrelated to AKI"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. FENa = (UNa × PCr) / (PNa × UCr) × 100%. FENa <1% indicates kidney appropriately reabsorbing Na+ (pre-renal physiology — hypovolemia, decreased EAV, hepatorenal syndrome). FENa >2% indicates kidney unable to reabsorb Na+ (intrinsic — ATN, AIN, GN). FENa 1–2% is intermediate. CAVEATS: diuretics make FENa unreliable (use FE-urea); rhabdo and contrast nephropathy may have low FENa despite intrinsic injury; CKD raises baseline FENa; FENa interpretation requires not being on diuretics in last 24 h.",
+        "Incorrect. Reverse.",
+        "Incorrect. Reverse.",
+        "Incorrect. Reverse direction.",
+        "Incorrect. Useful in AKI workup."
+      ]
+    },
+    {
+      "id": 11,
+      "stem": "A 28-year-old researcher considers urine anion gap (UAG). Which best characterizes UAG interpretation in non-AG metabolic acidosis?",
+      "choices": [
+        "Negative UAG suggests RTA",
+        "Negative = diarrhea; positive = RTA",
+        "Positive UAG suggests diarrhea",
+        "UAG is irrelevant",
+        "UAG measures Cl alone"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Reverse.",
+        "Correct. Urine anion gap (UAG) = Na+ + K+ − Cl−. Estimates urinary NH4+ excretion (Cl− is the principal anion accompanying NH4+; high NH4+ → high Cl− → negative UAG). NEGATIVE UAG (Cl− > Na+ + K+) → HIGH NH4+ EXCRETION → appropriate response to extra-renal acidosis (DIARRHEA). POSITIVE UAG (Na+ + K+ > Cl−) → LOW NH4+ EXCRETION → inappropriate for the acidosis → suggests RTA. Useful in non-AG metabolic acidosis to differentiate causes.",
+        "Incorrect. Reverse.",
+        "Incorrect. Useful tool.",
+        "Incorrect. Includes Na+, K+, Cl−."
+      ]
+    },
+    {
+      "id": 12,
+      "stem": "A 30-year-old researcher considers spot urine protein/Cr ratio (UPCR) interpretation. Which best characterizes the relationship to 24-hour urine protein?",
+      "choices": [
+        "UPCR mg/mg ≈ g/day",
+        "UPCR is unrelated to 24-hour collection",
+        "UPCR underestimates by 10×",
+        "UPCR is only valid in pregnancy",
+        "UPCR cannot be calculated"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Spot urine protein/Cr ratio in mg/mg approximates 24-hour urine protein in grams (assuming ~1 g/day Cr excretion in adults). Example: UPCR 3.5 mg/mg ≈ 3.5 g/day proteinuria. Convenient, avoids errors of timed collection. Caveats: less accurate at extremes of muscle mass (cachexia, body builders); first-morning urine preferred (avoid orthostatic / postural proteinuria). Albumin/Cr ratio (ACR) is preferred for diabetic nephropathy and microalbuminuria screening (more sensitive); UPCR for established proteinuria assessment.",
+        "Incorrect. Strong relationship.",
+        "Incorrect. Approximate equality.",
+        "Incorrect. Wide validity.",
+        "Incorrect. Calculation works."
+      ]
+    },
+    {
+      "id": 13,
+      "stem": "A 65-year-old patient with CKD has urine spot UPCR 4.5 mg/mg. Which best characterizes this finding?",
+      "choices": [
+        "Normal",
+        "Nephrotic-range proteinuria (>3.5 g/day)",
+        "Mild proteinuria",
+        "UTI",
+        "Pyuria"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. >150 mg/day is abnormal.",
+        "Correct. NEPHROTIC-RANGE PROTEINURIA = >3.5 g/day (or UPCR >3.5 mg/mg). Suggests glomerular disease (membranous, FSGS, minimal change, diabetic nephropathy, lupus, amyloidosis). Workup: serologies (ANA, complement, hepatitis, HIV, SPEP/UPEP/free light chains), assess for nephrotic syndrome features (proteinuria + hypoalbuminemia + edema + hyperlipidemia + hypercoagulability), renal biopsy unless clear cause (e.g., diabetic with retinopathy and consistent course). Treatment: ACEi/ARB, SGLT2 inhibitor (recently shown beneficial), specific therapy for underlying cause.",
+        "Incorrect. >3.5 is nephrotic.",
+        "Incorrect. UTI doesn't principally cause heavy proteinuria.",
+        "Incorrect. Pyuria is WBCs."
+      ]
+    },
+    {
+      "id": 14,
+      "stem": "A 30-year-old researcher considers β2-microglobulin in urine. Which best characterizes this finding?",
+      "choices": [
+        "β2-microglobulin in urine is normal",
+        "Indicates proximal tubular dysfunction",
+        "β2-microglobulin is bone marrow-specific",
+        "β2-microglobulin is excreted in feces",
+        "β2-microglobulin is bound to albumin"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Normally absent or trace.",
+        "Correct. β2-microglobulin (~12 kDa, light chain of MHC class I) is freely filtered and normally fully reabsorbed in the PCT by the megalin/cubilin system. Urinary β2-microglobulin presence indicates PROXIMAL TUBULAR DYSFUNCTION — classic feature of Fanconi syndrome, tubulotoxic drug effects, heavy metal exposure. Other low-MW proteins similarly handled: retinol-binding protein, α1-microglobulin, lysozyme. In dialysis patients, β2-microglobulin accumulates systemically (poorly cleared by conventional dialysis) → dialysis-related amyloidosis.",
+        "Incorrect. Source is widespread cells.",
+        "Incorrect. Renal excretion principally.",
+        "Incorrect. Not albumin-bound."
+      ]
+    },
+    {
+      "id": 15,
+      "stem": "A 30-year-old researcher considers fractional excretion of phosphate (FEPO4 or TmP/GFR). Which best characterizes this measurement?",
+      "choices": [
+        "Assesses PCT phosphate handling",
+        "Measures plasma phosphate alone",
+        "Measures GFR alone",
+        "Same as FENa",
+        "Irrelevant clinically"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. TmP/GFR (renal phosphate threshold) — the plasma phosphate level above which urinary phosphate excretion rises sharply (PCT NaPi-IIa is saturated). Calculated from spot or fasting urine and serum phosphate. REDUCED TmP/GFR (phosphate wasting): primary HPT (PTH inhibits NaPi-IIa), FGF-23 excess (XLH, TIO), Fanconi syndrome, vitamin D deficiency. ELEVATED TmP/GFR (phosphate retention): hypoparathyroidism, low FGF-23, CKD (initially). FEPO4 = (UPO4 × PCr) / (PPO4 × UCr) × 100; >5% suggests phosphate wasting. Useful when investigating hypophosphatemia or phosphate handling abnormalities.",
+        "Incorrect. Measures handling, not just plasma.",
+        "Incorrect. Specific to phosphate.",
+        "Incorrect. Different.",
+        "Incorrect. Useful tool."
+      ]
+    },
+    {
+      "id": 16,
+      "stem": "A 30-year-old researcher considers KIM-1 and NGAL biomarkers. Which best characterizes these?",
+      "choices": [
+        "Long-established traditional markers",
+        "Newer tubular injury biomarkers",
+        "Glomerular markers only",
+        "Used to diagnose UTI",
+        "Replaced by Cr"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Newer biomarkers.",
+        "Correct. NGAL (neutrophil gelatinase-associated lipocalin) and KIM-1 (kidney injury molecule 1) — markers of TUBULAR injury. Rise within HOURS of injury (vs Cr 24–48 h delay), allowing earlier AKI detection in critically ill patients. Other emerging biomarkers: TIMP-2 × IGFBP-7 (Nephrocheck — FDA-approved AKI risk prediction), L-FABP (liver-type fatty acid binding protein), IL-18. Clinical adoption is gradual; cost and availability limit routine use. Useful in clinical trials, contrast nephropathy prediction, and very high-risk ICU patients.",
+        "Incorrect. Tubular markers.",
+        "Incorrect. Not for UTI.",
+        "Incorrect. Cr is still standard but newer markers add."
+      ]
+    },
+    {
+      "id": 17,
+      "stem": "A 35-year-old woman with new AKI and hematuria has positive ANCA c-pattern. Which best characterizes the diagnostic implications?",
+      "choices": [
+        "Lupus nephritis",
+        "ANCA-associated vasculitis",
+        "Anti-GBM disease",
+        "Membranous nephropathy",
+        "Diabetic nephropathy"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Lupus has positive ANA and dsDNA, low complement.",
+        "Correct. ANCA — antineutrophil cytoplasmic antibodies. c-ANCA (cytoplasmic, anti-PR3) → granulomatosis with polyangiitis (GPA, formerly Wegener) — pulmonary-renal-sinus involvement. p-ANCA (perinuclear, anti-MPO) → microscopic polyangiitis (MPA) and eosinophilic granulomatosis with polyangiitis (EGPA / Churg-Strauss); also some IBD, IgG4 disease. Both produce pauci-immune (no/few immune deposits) crescentic GN with rapid progression. Treatment: induction with high-dose corticosteroids + cyclophosphamide or RITUXIMAB; maintenance with rituximab, azathioprine, or mycophenolate; PLEX considered for severe/refractory; renal biopsy guides treatment.",
+        "Incorrect. Anti-GBM has anti-GBM antibodies and pulmonary-renal.",
+        "Incorrect. Membranous has anti-PLA2R or other glomerular antigens.",
+        "Incorrect. DN has long course."
+      ]
+    },
+    {
+      "id": 18,
+      "stem": "A 25-year-old man has rapidly progressive glomerulonephritis with pulmonary hemorrhage (hemoptysis). Anti-GBM antibody is positive. Which best characterizes the diagnosis?",
+      "choices": [
+        "ANCA-vasculitis",
+        "Anti-GBM disease (Goodpasture syndrome)",
+        "IgA nephropathy",
+        "Lupus",
+        "Post-streptococcal GN"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. ANCA negative described.",
+        "Correct. Anti-GBM disease / Goodpasture syndrome — autoantibodies against α3 chain of type IV collagen in glomerular AND alveolar basement membrane. Renal-pulmonary syndrome: rapidly progressive GN + pulmonary hemorrhage (hemoptysis). Diagnosis: serum anti-GBM antibodies; renal biopsy with linear IgG deposition along GBM. Treatment: PLASMAPHERESIS (urgent, removes circulating antibodies), high-dose corticosteroids, cyclophosphamide. Time-critical — outcomes worse with delayed treatment (Cr >5 at presentation; oliguria; >50% crescents). Anti-GBM disease can also coexist with ANCA-vasculitis (~30%) — 'double positive'.",
+        "Incorrect. IgA does not feature pulmonary hemorrhage.",
+        "Incorrect. Lupus has multi-system features.",
+        "Incorrect. PSGN has different time course."
+      ]
+    },
+    {
+      "id": 19,
+      "stem": "A 30-year-old researcher considers complement levels in renal disease. Which best matches LOW complement (C3 / C4) with disease?",
+      "choices": [
+        "ANCA-vasculitis (low complement)",
+        "Lupus, PSGN, MPGN, cryo",
+        "Diabetic nephropathy",
+        "FSGS",
+        "Minimal change disease"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. ANCA features NORMAL complement.",
+        "Correct. LOW complement glomerulonephritides: LUPUS NEPHRITIS (low C3 and C4); POST-STREPTOCOCCAL GN (low C3, normal C4); MPGN type I/II (low C3, low C4 in type I); CRYOGLOBULINEMIA (low C4 especially); shunt nephritis (subacute bacterial endocarditis-related, low C3/C4); atypical HUS. NORMAL complement: ANCA-vasculitis, IgA nephropathy, anti-GBM disease, Goodpasture, primary FSGS, membranous (mostly), diabetic. Workup: C3, C4, sometimes CH50; trends with disease activity.",
+        "Incorrect. Normal complement.",
+        "Incorrect. Normal complement.",
+        "Incorrect. Normal complement."
+      ]
+    },
+    {
+      "id": 20,
+      "stem": "A 35-year-old patient with hepatitis C has palpable purpura, arthritis, and renal involvement. Cryoglobulins are positive. Which best characterizes this?",
+      "choices": [
+        "Lupus",
+        "Cryoglobulinemic vasculitis",
+        "ANCA-vasculitis",
+        "Anti-GBM disease",
+        "IgA nephropathy"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Lupus serology different.",
+        "Correct. Cryoglobulinemic vasculitis — most commonly TYPE II (mixed, polyclonal IgG + monoclonal IgM with rheumatoid factor activity) associated with HEPATITIS C (~80% of mixed cryos). Manifestations: PALPABLE PURPURA, arthralgia, weakness (Meltzer triad), peripheral neuropathy, renal involvement (MPGN-like with low C4), hepatic involvement. Treatment: TREAT UNDERLYING HEPATITIS C with DAA therapy (highly effective, often resolves cryo); rituximab for refractory; PLEX in severe; corticosteroids for acute flares. Type I (monoclonal) is malignancy-associated; type III (polyclonal) is autoimmune-associated.",
+        "Incorrect. ANCA different.",
+        "Incorrect. Anti-GBM has different features.",
+        "Incorrect. IgA different."
+      ]
+    },
+    {
+      "id": 21,
+      "stem": "A 30-year-old researcher considers when renal biopsy is indicated. Which best characterizes the principal indications?",
+      "choices": [
+        "Always before treatment",
+        "Selected indications and contraindications",
+        "Only for cancer",
+        "Never indicated",
+        "Only after dialysis"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Selective indications.",
+        "Correct. Renal biopsy indications: (1) unexplained AKI (especially RPGN); (2) nephrotic syndrome in adults (and children with steroid resistance); (3) isolated glomerular hematuria with proteinuria or rising Cr; (4) persistent unexplained proteinuria >1 g/day; (5) transplant dysfunction (workup for rejection, BK, recurrence, drug toxicity); (6) systemic disease with renal involvement (lupus, vasculitis); (7) suspected hereditary kidney disease. Procedure: ultrasound or CT-guided percutaneous; native or transplant. Risks: bleeding (gross hematuria 5–10%, transfusion 1%, surgery rare), AVF formation. Relative contraindications: uncontrolled HTN, bleeding diathesis, severe CKD with small kidneys (low yield), anticoagulation, single kidney (unless transplant).",
+        "Incorrect. Multiple indications.",
+        "Incorrect. Often indicated.",
+        "Incorrect. Often pre-dialysis."
+      ]
+    },
+    {
+      "id": 22,
+      "stem": "A 30-year-old researcher considers urine culture interpretation. Which best characterizes asymptomatic bacteriuria treatment?",
+      "choices": [
+        "Always treat",
+        "Treat in pregnancy and pre-procedure",
+        "Treat all elderly",
+        "Treat all diabetics",
+        "Treat all catheterized"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Selective treatment.",
+        "Correct. ASYMPTOMATIC BACTERIURIA management — IDSA guidelines: TREAT ONLY in (1) PREGNANT WOMEN (untreated → pyelonephritis, preterm labor, low birth weight) and (2) BEFORE INVASIVE UROLOGIC PROCEDURE (e.g., TURP, where bacteremia risk is significant). DO NOT TREAT in: nonpregnant women, elderly (including in long-term care), diabetic, spinal cord injury, catheterized patients (unless symptomatic UTI). Treating asymptomatic bacteriuria does not improve outcomes and contributes to antibiotic resistance and C. difficile infection. Exception: ALSO consider treatment in renal transplant recipients (controversial).",
+        "Incorrect. Avoid in elderly.",
+        "Incorrect. Avoid in diabetic.",
+        "Incorrect. Avoid in catheterized unless symptomatic."
+      ]
+    },
+    {
+      "id": 23,
+      "stem": "A 30-year-old researcher considers urinary biomarker for AKI in clinical practice. Which best characterizes the role of biomarkers vs creatinine?",
+      "choices": [
+        "Biomarkers have replaced creatinine entirely",
+        "Cr is standard; biomarkers earlier in research",
+        "Biomarkers are unhelpful",
+        "Biomarkers are only for transplant",
+        "Cr is obsolete"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Cr is still standard.",
+        "Correct. Despite known limitations of creatinine (24–48 h delay, muscle-mass dependence, secretion confounding), it REMAINS THE CLINICAL STANDARD for AKI diagnosis and KDIGO classification. Newer biomarkers (NGAL, KIM-1, NEPHROCHECK [TIMP-2×IGFBP-7], L-FABP) provide EARLIER DETECTION in research settings and selected high-risk ICU patients. Cost, availability, and incomplete trial data limit routine adoption. Cystatin C is more widely available and useful in extremes of muscle mass. Combined Cr-cystatin C is more accurate than either alone.",
+        "Incorrect. Some clinical role.",
+        "Incorrect. Broader use.",
+        "Incorrect. Not obsolete."
+      ]
+    },
+    {
+      "id": 24,
+      "stem": "A 30-year-old researcher considers urine osmolality interpretation. Which best characterizes urine osm 800 in a patient with hyponatremia (Na 125)?",
+      "choices": [
+        "Maximally dilute urine (appropriate)",
+        "Inappropriately concentrated urine",
+        "Iso-osmotic",
+        "Cannot interpret",
+        "Diluted appropriately"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. 800 is concentrated.",
+        "Correct. Hyponatremia (low plasma osm) should suppress ADH and result in DILUTE urine (urine osm <100 mOsm/kg, maximally suppressed concentrating). URINE OSM >100 in setting of hyponatremia indicates inappropriate ADH activity → SIADH (euvolemic), hypovolemia with non-osmotic ADH (low effective arterial volume), HF, cirrhosis, adrenal insufficiency, hypothyroidism, post-operative state, drug effects. Urine osm helps distinguish causes of hyponatremia along with volume status, urine Na+, and serum osmolality.",
+        "Incorrect. 800 is concentrated.",
+        "Incorrect. Direct interpretation.",
+        "Incorrect. Inappropriate concentration."
+      ]
+    },
+    {
+      "id": 25,
+      "stem": "A 30-year-old researcher reviews the interpretation of urine sediment for casts. Which best characterizes the principal cast types and their associations?",
+      "choices": [
+        "Only one cast type",
+        "Multiple cast types with specific associations",
+        "All casts indicate the same disease",
+        "Casts are irrelevant",
+        "Only RBC casts matter"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Multiple cast types.",
+        "Correct. Cast types and their associations: HYALINE — benign, dehydration, normal urine; RBC CASTS — glomerulonephritis (pathognomonic when present); WBC CASTS — acute interstitial nephritis, pyelonephritis; EPITHELIAL CELL / MUDDY BROWN GRANULAR — acute tubular necrosis (pathognomonic); FATTY CASTS / OVAL FAT BODIES (Maltese cross under polarized) — nephrotic syndrome; WAXY / BROAD — chronic kidney disease ('CKD castology'); GRANULAR (general) — non-specific, can occur in many. Together with cells (RBC, WBC, epithelial), crystals, and bacteria, sediment microscopy is invaluable for AKI workup.",
+        "Incorrect. Different.",
+        "Incorrect. Important diagnostic tool.",
+        "Incorrect. Multiple types matter."
+      ]
+    }
+  ]
+}
