@@ -1,0 +1,463 @@
+{
+  "id": 28,
+  "title": "Metabolic Acidosis",
+  "questions": [
+    {
+      "id": 1,
+      "stem": "A 55-year-old man has arterial pH 7.20, HCO3− 12 mEq/L, and PCO2 28 mm Hg. Which best characterizes the primary acid-base disorder?",
+      "choices": [
+        "Respiratory acidosis",
+        "Metabolic acidosis",
+        "Respiratory alkalosis",
+        "Metabolic alkalosis",
+        "Mixed disorder only"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Respiratory acidosis features ELEVATED PCO2 and high HCO3− (chronic compensation).",
+        "Correct. Primary metabolic acidosis: low pH, LOW HCO3− (the primary derangement), with appropriate respiratory compensation lowering PCO2. Use the Winters formula to assess whether compensation is appropriate: predicted PCO2 = 1.5 × HCO3− + 8 ± 2; here 1.5 × 12 + 8 = 26 ± 2 — actual PCO2 of 28 is appropriately compensated.",
+        "Incorrect. Respiratory alkalosis has high pH.",
+        "Incorrect. Metabolic alkalosis has high pH and high HCO3−.",
+        "Incorrect. The compensation is appropriate; this is a pure metabolic acidosis."
+      ]
+    },
+    {
+      "id": 2,
+      "stem": "A 30-year-old woman has serum Na+ 140, Cl− 100, HCO3− 14. Which best characterizes her anion gap?",
+      "choices": ["Normal anion gap", "High anion gap", "Negative anion gap", "Cannot calculate", "Pseudoacidosis"],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Normal AG is ~8–12. Her AG is 26.",
+        "Correct. Anion gap = Na+ − (Cl− + HCO3−) = 140 − (100 + 14) = 26 (HIGH). High AG metabolic acidosis indicates accumulation of unmeasured anions: lactate, ketoacids, toxic alcohol metabolites, uremic anions. Mnemonic: MUDPILES — methanol, uremia, DKA, propylene glycol, iron/isoniazid, lactic acidosis, ethylene glycol, salicylates.",
+        "Incorrect. Negative AG suggests lab error or rare conditions.",
+        "Incorrect. The values allow calculation.",
+        "Incorrect. The acidosis is real."
+      ]
+    },
+    {
+      "id": 3,
+      "stem": "A 58-year-old man with septic shock has pH 7.15, HCO3− 10, lactate 9.5 mmol/L, and high anion gap. Which type of lactic acidosis is this?",
+      "choices": [
+        "Type A — tissue hypoperfusion",
+        "Type B — drugs/disease without hypoxia",
+        "Pseudo-lactic acidosis",
+        "Mixed alkalosis",
+        "DKA"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Type A lactic acidosis — tissue hypoperfusion / hypoxia → anaerobic metabolism → lactate production. Causes: shock (septic, cardiogenic, hypovolemic), severe hypoxemia, mesenteric ischemia, severe anemia. Treatment: address the underlying cause (fluids, vasopressors, blood, oxygen). Bicarbonate is generally not given except for very severe cases (pH <7.10).",
+        "Incorrect. Type B is non-hypoxic — drugs (metformin), liver disease, malignancy, thiamine deficiency.",
+        "Incorrect. Lactate is genuinely elevated.",
+        "Incorrect. The pH is low; this is acidosis.",
+        "Incorrect. DKA features ketoacids, glucose, and a different clinical context."
+      ]
+    },
+    {
+      "id": 4,
+      "stem": "A 65-year-old woman with type 2 diabetes on metformin presents with severe lactic acidosis (pH 7.10, lactate 11). Renal function shows AKI (creatinine 4.5). Which best explains the acidosis?",
+      "choices": [
+        "Type A lactic acidosis",
+        "Metformin-associated lactic acidosis (type B)",
+        "DKA",
+        "Salicylate poisoning",
+        "Methanol ingestion"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Type A is hypoperfusion-driven; this case is drug-related.",
+        "Correct. Metformin-associated lactic acidosis (MALA) is a type B lactic acidosis. Metformin inhibits mitochondrial complex 1, impairing oxidative phosphorylation and shifting metabolism toward lactate. Risk increases markedly when metformin accumulates in renal impairment, severe illness, or contrast exposure. AKI in this case allowed metformin accumulation. Treatment: stop metformin; supportive care; hemodialysis for severe cases (clears metformin AND corrects acidosis).",
+        "Incorrect. DKA features hyperglycemia and ketones.",
+        "Incorrect. Salicylate produces mixed disorder with respiratory alkalosis.",
+        "Incorrect. Methanol features high osmolar gap and visual symptoms."
+      ]
+    },
+    {
+      "id": 5,
+      "stem": "A 28-year-old man with type 1 diabetes has pH 7.18, glucose 580, HCO3− 10, anion gap 22, and serum ketones positive. Which best characterizes the primary acid-base disorder and ketone type?",
+      "choices": [
+        "DKA with predominance of β-hydroxybutyrate",
+        "DKA with predominance of acetoacetate",
+        "Alcoholic ketoacidosis",
+        "Starvation ketoacidosis",
+        "Lactic acidosis"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. DKA — high-anion-gap metabolic acidosis from ketoacid accumulation, predominantly β-hydroxybutyrate (which is NOT detected by the standard nitroprusside-based ketone test, which only detects acetoacetate). β-OHB:acetoacetate ratio is typically 5:1 in DKA. With insulin treatment, β-OHB is converted to acetoacetate; bedside ketone testing may PARADOXICALLY worsen during recovery as more acetoacetate becomes detectable.",
+        "Incorrect. β-OHB predominates over acetoacetate in DKA.",
+        "Incorrect. AKA has lower glucose and a different clinical context.",
+        "Incorrect. Starvation ketoacidosis is mild; pH typically not <7.30.",
+        "Incorrect. Lactic acidosis lacks ketones."
+      ]
+    },
+    {
+      "id": 6,
+      "stem": "A 25-year-old man is brought to the ED after drinking what he thought was vodka but turned out to contain methanol. He has pH 7.10, anion gap 28, osmolar gap 25, and visual disturbance. Which is the most appropriate initial therapy?",
+      "choices": [
+        "Activated charcoal",
+        "Fomepizole and consideration for hemodialysis",
+        "Sodium bicarbonate alone",
+        "Insulin",
+        "Naloxone"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Charcoal is not effective for absorbed alcohols.",
+        "Correct. Methanol metabolizes via alcohol dehydrogenase to formaldehyde then to FORMIC ACID, which is the toxic metabolite causing high anion gap acidosis and retinal toxicity (visual loss). Treatment: (1) fomepizole (4-methylpyrazole) is the first-line ADH inhibitor — blocks methanol metabolism; (2) hemodialysis for severe cases (clears methanol AND corrects acidosis); (3) folate (cofactor for formic acid metabolism); (4) sodium bicarbonate for severe acidosis. Ethanol is an alternative ADH inhibitor where fomepizole is unavailable.",
+        "Incorrect. Bicarbonate alone does not treat the underlying poisoning.",
+        "Incorrect. No insulin indicated.",
+        "Incorrect. Not an opioid overdose."
+      ]
+    },
+    {
+      "id": 7,
+      "stem": "A 35-year-old man drinks antifreeze in a suicide attempt. He has pH 7.05, anion gap 30, osmolar gap 30, and calcium oxalate crystals in urine. Which best characterizes ethylene glycol toxicity?",
+      "choices": [
+        "Ethanol-like CNS depression only",
+        "Glycolate and oxalate accumulation",
+        "Methemoglobinemia",
+        "Hypoglycemia",
+        "Cyanide poisoning"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. CNS depression occurs early but the acidosis and AKI are the principal toxicity.",
+        "Correct. Ethylene glycol metabolizes via alcohol dehydrogenase to glycolaldehyde → glycolic acid → oxalic acid. Glycolate causes the high-anion-gap acidosis; oxalate precipitates with calcium → calcium oxalate crystals in urine and acute kidney injury. Treatment: fomepizole + folate/thiamine/pyridoxine + hemodialysis for severe (clears EG AND corrects acidosis). Calcium replacement if hypocalcemia from chelation.",
+        "Incorrect. Methemoglobinemia is a different toxicity (e.g., aniline dyes).",
+        "Incorrect. Not principally hypoglycemic.",
+        "Incorrect. Not cyanide."
+      ]
+    },
+    {
+      "id": 8,
+      "stem": "A 50-year-old woman with chronic salicylate ingestion has pH 7.42, HCO3− 16, PCO2 25, anion gap 22, and tinnitus. Which best characterizes the acid-base disorder?",
+      "choices": [
+        "Pure metabolic acidosis",
+        "Pure respiratory alkalosis",
+        "Mixed acidosis + alkalosis",
+        "Metabolic alkalosis",
+        "Pure respiratory acidosis"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. PCO2 is too low for pure metabolic acidosis (Winters formula expects PCO2 ~32 for HCO3− 16); the actual lower PCO2 indicates concurrent respiratory alkalosis.",
+        "Incorrect. The HCO3− is too low for pure respiratory alkalosis.",
+        "Correct. Salicylate poisoning produces a CLASSIC mixed disorder: high-anion-gap metabolic acidosis (salicylate + uncoupled oxidative phosphorylation generating lactate) PLUS direct respiratory center stimulation (primary respiratory alkalosis). The pH may be near-normal (the two opposing disorders), but each component is identifiable: low HCO3−, high AG, AND inappropriately low PCO2. Treatment: urinary alkalinization with bicarbonate (ion-trapping); hemodialysis for severe.",
+        "Incorrect. Acidosis component is present (low HCO3−, high AG).",
+        "Incorrect. PCO2 is low, not high."
+      ]
+    },
+    {
+      "id": 9,
+      "stem": "A 55-year-old man with severe diarrhea has pH 7.28, HCO3− 16, Na+ 138, Cl− 112, and anion gap 10. Urine pH is 5.0. Which best characterizes his acidosis?",
+      "choices": [
+        "High anion gap acidosis",
+        "Non-anion-gap acidosis from diarrhea",
+        "Distal RTA",
+        "Lactic acidosis",
+        "DKA"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. AG is normal (10), not high.",
+        "Correct. Non-anion-gap metabolic acidosis (also called hyperchloremic acidosis) — characterized by Cl− replacing HCO3− to maintain electroneutrality. Mnemonic HARDUP: hyperalimentation (TPN), Acetazolamide / Addison disease, RTA, Diarrhea, Ureteral diversion, Pancreatic fistula. The intact kidney appropriately responds with low urine pH and high NH4+ (negative urine anion gap) — distinguishing diarrhea from RTA (which has positive UAG).",
+        "Incorrect. Distal RTA features urine pH >5.5 inappropriately.",
+        "Incorrect. Lactic acidosis is high-AG.",
+        "Incorrect. DKA is high-AG."
+      ]
+    },
+    {
+      "id": 10,
+      "stem": "A 65-year-old woman with chronic kidney disease (eGFR 18) has pH 7.30, HCO3− 18, anion gap 16. Which best explains the acid-base disorder?",
+      "choices": [
+        "Acute lactic acidosis",
+        "Uremic high-anion-gap metabolic acidosis",
+        "Diarrhea",
+        "Distal RTA",
+        "DKA"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. No hypoperfusion or drug exposure described.",
+        "Correct. Uremic acidosis — accumulation of organic acids (sulfate, phosphate, urate, hippurate) and impaired ammoniagenesis from fewer functioning nephrons. Mild high-anion-gap acidosis develops once eGFR <30. Treatment: oral sodium bicarbonate or potassium citrate to maintain HCO3− >22 — slows CKD progression and improves outcomes.",
+        "Incorrect. Diarrhea has normal AG.",
+        "Incorrect. Distal RTA has normal AG.",
+        "Incorrect. DKA features hyperglycemia and ketones."
+      ]
+    },
+    {
+      "id": 11,
+      "stem": "A 30-year-old researcher applies the Winters formula to a patient with HCO3− 14. What is the predicted PCO2 for appropriate respiratory compensation?",
+      "choices": ["20 mm Hg", "29 mm Hg", "40 mm Hg", "50 mm Hg", "60 mm Hg"],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. 20 would suggest superimposed respiratory alkalosis.",
+        "Correct. Winters formula: predicted PCO2 = 1.5 × HCO3− + 8 ± 2. For HCO3− 14: 1.5 × 14 + 8 = 29 ± 2. Actual PCO2 within this range = appropriately compensated metabolic acidosis. Higher than predicted → superimposed respiratory acidosis (mixed). Lower than predicted → superimposed respiratory alkalosis (mixed; e.g., salicylate poisoning).",
+        "Incorrect. 40 is normal PCO2.",
+        "Incorrect. 50 suggests respiratory acidosis.",
+        "Incorrect. 60 is severe respiratory acidosis."
+      ]
+    },
+    {
+      "id": 12,
+      "stem": "A 40-year-old woman with DKA has glucose 600, HCO3− 8, anion gap 30, and Cl− 95. The anion gap is elevated by 18 (above normal 12). The HCO3− has fallen by 16 (from baseline 24). Which best characterizes the delta-delta ratio?",
+      "choices": [
+        "Δ AG / Δ HCO3− ≈ 1.1, suggesting pure high-AG acidosis",
+        "Δ AG / Δ HCO3− ≈ 0.5, suggesting concurrent non-AG acidosis",
+        "Δ AG / Δ HCO3− ≈ 2.0, suggesting concurrent metabolic alkalosis",
+        "Cannot apply delta-delta",
+        "Pure non-AG acidosis"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Delta-delta ratio = (ΔAG / ΔHCO3−) ≈ 1 in pure high-AG acidosis (each 1 mEq/L drop in HCO3− is matched by 1 mEq/L rise in AG). For this patient: ΔAG = 30 − 12 = 18; ΔHCO3− = 24 − 8 = 16; ratio = 18/16 ≈ 1.1 — consistent with PURE high-AG acidosis. Ratio <1 suggests concurrent non-AG acidosis (more HCO3− loss than AG rise). Ratio >2 suggests concurrent metabolic alkalosis (less HCO3− loss than expected from AG rise).",
+        "Incorrect. The actual ratio is ~1.1, not 0.5.",
+        "Incorrect. Not 2.0.",
+        "Incorrect. The values allow calculation.",
+        "Incorrect. AG is clearly elevated."
+      ]
+    },
+    {
+      "id": 13,
+      "stem": "A 28-year-old researcher is computing the urine anion gap (UAG) in a non-AG metabolic acidosis. Urine Na+ + K+ − Cl− = +20. Which best characterizes this finding?",
+      "choices": [
+        "Negative UAG suggesting diarrhea",
+        "Positive UAG suggesting RTA",
+        "Pseudohyponatremia",
+        "Adrenal insufficiency",
+        "Lactic acidosis"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. POSITIVE UAG, not negative.",
+        "Correct. Urine anion gap (Na + K − Cl) is an indirect measure of urinary NH4+ excretion. Negative UAG = HIGH NH4+ excretion (Cl− follows the unmeasured NH4+ cation) → appropriate response to extra-renal acidosis (e.g., diarrhea). POSITIVE UAG = LOW NH4+ excretion → inappropriate, suggesting RTA. This patient's positive UAG points to RTA.",
+        "Incorrect. UAG measures NH4+ excretion, not pseudohyponatremia.",
+        "Incorrect. Adrenal insufficiency is one cause of type 4 RTA, but the UAG is consistent with RTA generally.",
+        "Incorrect. Lactic acidosis is high-AG."
+      ]
+    },
+    {
+      "id": 14,
+      "stem": "A 45-year-old man has chronic alcoholism, recently stopped drinking, and presents with nausea and abdominal pain. Labs: pH 7.30, HCO3− 14, anion gap 24, glucose 80, urine ketones positive, lactate 2.5. Which is the most likely diagnosis?",
+      "choices": [
+        "DKA",
+        "Alcoholic ketoacidosis (AKA)",
+        "Lactic acidosis (type A)",
+        "Methanol ingestion",
+        "Salicylate poisoning"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. DKA has hyperglycemia (typically >250).",
+        "Correct. Alcoholic ketoacidosis — chronic alcohol use + acute starvation → suppressed insulin and elevated counter-regulatory hormones → ketoacid generation (β-OHB predominant). Glucose is typically normal or low (distinguishes from DKA). Treatment: IV dextrose-containing fluid (D5NS) — restores insulin secretion and resolves ketoacidosis; IV thiamine (Wernicke prevention); correct concurrent electrolyte abnormalities (K+, Mg2+, phosphate).",
+        "Incorrect. Lactate is mildly elevated but the picture is principally ketotic.",
+        "Incorrect. Methanol features visual symptoms and high osmolar gap.",
+        "Incorrect. Salicylate has tinnitus and respiratory alkalosis."
+      ]
+    },
+    {
+      "id": 15,
+      "stem": "A 25-year-old woman with anorexia nervosa and prolonged starvation has pH 7.32, HCO3− 18, anion gap 16, glucose 78, ketones positive. Which best characterizes the acid-base disorder?",
+      "choices": [
+        "DKA",
+        "Starvation ketoacidosis",
+        "Type B lactic acidosis",
+        "Methanol ingestion",
+        "Distal RTA"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. DKA has marked hyperglycemia and severe acidosis.",
+        "Correct. Starvation ketoacidosis — prolonged fasting → suppressed insulin → ketogenesis. Mild high-anion-gap acidosis (HCO3− typically >18, pH typically >7.30) with normal-low glucose. Resolves with refeeding (with caution for refeeding syndrome). Distinct from DKA (hyperglycemia, more severe pH) and AKA (alcohol use, more severe).",
+        "Incorrect. Lactate would be elevated.",
+        "Incorrect. Methanol features visual loss and osmolar gap.",
+        "Incorrect. Distal RTA has normal AG."
+      ]
+    },
+    {
+      "id": 16,
+      "stem": "A 45-year-old man on chronic acetaminophen ingestion has pH 7.20, HCO3− 12, anion gap 22, urine ketones negative, lactate 2.0. He has chronic malnutrition. Which is the most likely diagnosis?",
+      "choices": [
+        "Pyroglutamic (5-oxoproline) acidosis",
+        "Distal RTA",
+        "Salicylate poisoning",
+        "Methanol",
+        "DKA"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Pyroglutamic acidosis (5-oxoproline acidosis) — uncommon but recognized cause of high-AG metabolic acidosis. Chronic acetaminophen depletes glutathione; in the setting of malnutrition or other GSH-stressing conditions, the γ-glutamyl cycle generates 5-oxoproline (pyroglutamate). Urine 5-oxoproline measurement confirms diagnosis. Treatment: stop acetaminophen, N-acetylcysteine, supportive care.",
+        "Incorrect. Distal RTA has normal AG.",
+        "Incorrect. Salicylate features tinnitus and concurrent respiratory alkalosis.",
+        "Incorrect. Methanol features visual symptoms and osmolar gap.",
+        "Incorrect. DKA has hyperglycemia and ketones."
+      ]
+    },
+    {
+      "id": 17,
+      "stem": "A 50-year-old man with bladder cancer has had ileal conduit urinary diversion. He develops chronic pH 7.30, HCO3− 18, Cl− 110, and a non-anion-gap metabolic acidosis. Which best explains this?",
+      "choices": [
+        "Lactic acidosis",
+        "Hyperchloremic acidosis from diverted bowel",
+        "DKA",
+        "Type 1 RTA",
+        "Distal RTA"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. No hypoperfusion described.",
+        "Correct. Ureteral diversion (ileal conduit, ureterosigmoidostomy) places urine in contact with bowel mucosa. The bowel reabsorbs Cl− and NH4+ (which is a weak acid) and secretes HCO3− into the urine, producing hyperchloremic non-anion-gap metabolic acidosis with hypokalemia. More common with sigmoidostomy than ileal conduit. Treatment: oral bicarbonate; consider continent urinary reservoir if severe.",
+        "Incorrect. DKA has hyperglycemia and ketones.",
+        "Incorrect. Type 1 RTA is a separate entity.",
+        "Incorrect. Distal RTA features inappropriately high urine pH and is from intrinsic α-intercalated cell dysfunction."
+      ]
+    },
+    {
+      "id": 18,
+      "stem": "A 30-year-old man receives 4 L of normal saline over 6 hours for trauma resuscitation. Six hours later, pH is 7.30, HCO3− 18, Cl− 112, anion gap 10. Which best explains the acid-base change?",
+      "choices": [
+        "Lactic acidosis",
+        "Hyperchloremic non-anion-gap acidosis from saline",
+        "DKA",
+        "Type 4 RTA",
+        "Methanol"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Lactate would be elevated; here AG is normal.",
+        "Correct. Saline (NS) has [Cl−] 154 mEq/L (vs plasma ~100) and no buffer base. Large-volume NS resuscitation produces hyperchloremic non-anion-gap metabolic acidosis through the Stewart strong-ion theory (excess Cl− shifts the strong ion difference, producing acidosis). Balanced crystalloids (lactated Ringer's, Plasma-Lyte) avoid this effect by including buffer bases. Common in trauma, sepsis, and surgical resuscitation; preferred to use balanced solutions when large volumes anticipated.",
+        "Incorrect. No hyperglycemia or ketones.",
+        "Incorrect. Type 4 RTA features hyperkalemia.",
+        "Incorrect. Methanol has high osmolar gap."
+      ]
+    },
+    {
+      "id": 19,
+      "stem": "A 50-year-old man in DKA has K+ 5.6 on initial labs. Which best characterizes potassium handling in DKA?",
+      "choices": [
+        "Total body K+ is high",
+        "Total body K+ depleted; plasma K+ variable",
+        "Plasma K+ is always low",
+        "K+ replacement is unnecessary",
+        "K+ is irrelevant in DKA"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Total body K+ is DEPLETED in DKA (osmotic diuresis losses).",
+        "Correct. DKA produces total body K+ depletion (renal losses from osmotic diuresis), but plasma K+ may be normal, high, or low at presentation due to insulin deficiency causing K+ efflux from cells, acidosis-driven cellular K+ shift, and concentration from volume depletion. With insulin therapy, K+ rapidly shifts INTO cells, unmasking the deficit. Standard DKA management includes K+ replacement once K+ <5.0–5.5 (some guidelines start replacement immediately if K+ already low-normal, before K+ drops dangerously with insulin).",
+        "Incorrect. K+ varies on presentation.",
+        "Incorrect. K+ replacement is essential.",
+        "Incorrect. K+ is critical to monitor in DKA."
+      ]
+    },
+    {
+      "id": 20,
+      "stem": "A 50-year-old patient has high-anion-gap metabolic acidosis (HCO3− 8). Which is the threshold below which IV sodium bicarbonate is most generally considered for severe acidosis?",
+      "choices": [
+        "pH <7.35",
+        "pH <7.10–7.20 in selected cases",
+        "Always for any AG acidosis",
+        "Never indicated",
+        "pH <6.50"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Mild acidosis is not generally treated with NaHCO3.",
+        "Correct. IV sodium bicarbonate is generally reserved for severe acidosis (pH <7.10–7.20) with hemodynamic instability, severe hyperkalemia, or specific scenarios (e.g., toxic alcohol ingestions, salicylate, TCA overdose). Routine use in lactic acidosis is controversial — does not improve outcomes. Risks: paradoxical CSF acidosis (CO2 crosses BBB faster than HCO3−), volume overload, hypokalemia, hypocalcemia, tissue hypoxia from leftward Hb-O2 shift. Treat the underlying cause first.",
+        "Incorrect. Routine bicarbonate for any AG acidosis is not standard.",
+        "Incorrect. NaHCO3 has selected indications (severe acidosis, specific toxic ingestions).",
+        "Incorrect. Most clinicians consider treating well before pH 6.50."
+      ]
+    },
+    {
+      "id": 21,
+      "stem": "A 65-year-old man with septic shock has pH 7.05, HCO3− 8, lactate 12. The team is considering IV sodium bicarbonate. Which best characterizes the evidence in lactic acidosis from sepsis?",
+      "choices": [
+        "Routine NaHCO3 improves outcomes",
+        "No consistent benefit; possible intracellular acidosis",
+        "NaHCO3 cures lactic acidosis",
+        "NaHCO3 lowers lactate directly",
+        "NaHCO3 is contraindicated in any acidosis"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Routine NaHCO3 in sepsis-related lactic acidosis has not shown clear benefit.",
+        "Correct. Routine NaHCO3 in lactic acidosis from sepsis has not consistently shown outcome benefit. Theoretical concerns: paradoxical intracellular and CSF acidosis (CO2 generated diffuses into cells faster than HCO3−), Na+ load, and hypokalemia. The BICAR-ICU trial (2018) suggested benefit only in patients with AKI. Address the underlying cause (fluids, antibiotics, vasopressors). Use NaHCO3 selectively for very severe pH (<7.10) or specific scenarios (TCA, salicylate, toxic alcohols).",
+        "Incorrect. NaHCO3 does not cure lactic acidosis.",
+        "Incorrect. NaHCO3 raises pH but does not directly lower lactate.",
+        "Incorrect. NaHCO3 has selected indications."
+      ]
+    },
+    {
+      "id": 22,
+      "stem": "A 28-year-old researcher computes the osmolar gap in a patient with high-AG acidosis. Plasma measured osm 320, calculated osm 285. Osmolar gap = 35. Which is the most likely cause?",
+      "choices": [
+        "Hyperglycemic translational",
+        "Toxic alcohol ingestion",
+        "Lactic acidosis",
+        "DKA",
+        "Uremia"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Glucose is in the calculated formula; would not produce a gap.",
+        "Correct. An OSMOLAR GAP >10–20 in the setting of high-AG metabolic acidosis strongly suggests an unmeasured osmotically active substance — classically a toxic alcohol (methanol, ethylene glycol, isopropyl alcohol). The calculated osmolality formula (2×Na+ + glucose/18 + BUN/2.8) does not include these solutes. Initial empiric treatment: fomepizole + hemodialysis pending confirmation. Note: ethanol itself causes osmolar gap; subtract estimated ethanol contribution (ethanol/4.6 in mg/dL).",
+        "Incorrect. Lactic acidosis does not produce significant osmolar gap.",
+        "Incorrect. DKA glucose is in the formula.",
+        "Incorrect. Uremia BUN is in the formula."
+      ]
+    },
+    {
+      "id": 23,
+      "stem": "A 70-year-old man with HFrEF is on chronic furosemide. He has chronic pH 7.46, HCO3− 32, Cl− 92, K+ 3.4. Which best characterizes this acid-base picture?",
+      "choices": [
+        "Metabolic acidosis",
+        "Diuretic-induced metabolic alkalosis",
+        "Respiratory alkalosis",
+        "Mixed acidosis",
+        "Pure respiratory acidosis"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. The picture is alkalotic (high pH, high HCO3−).",
+        "Correct. Chronic loop diuretic therapy commonly produces metabolic alkalosis through volume contraction → RAAS activation → aldosterone-driven distal H+ secretion + chloride depletion + hypokalemia. This 'contraction alkalosis' is chloride-responsive. Same picture occurs with chronic vomiting. Treatment: replete Cl− and K+; address the underlying volume status; consider K+-sparing diuretic to mitigate.",
+        "Incorrect. PCO2 would be lower in respiratory alkalosis.",
+        "Incorrect. The picture is pure metabolic alkalosis.",
+        "Incorrect. The pH is high, not low."
+      ]
+    },
+    {
+      "id": 24,
+      "stem": "A 45-year-old patient with DKA is being treated. Which order best describes the standard initial treatment priorities?",
+      "choices": [
+        "Insulin first, then fluids",
+        "Bicarbonate first, then fluids and insulin",
+        "Aggressive isotonic fluids, K+ assessment/replacement, then insulin",
+        "Glucose first to prevent hypoglycemia",
+        "K+ infusion first, then insulin"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Fluids precede insulin to address volume depletion and reduce risk of insulin-induced K+ shift.",
+        "Incorrect. Bicarbonate is reserved for very severe pH (<6.9–7.0).",
+        "Correct. DKA initial priorities: (1) aggressive isotonic IV fluids (0.9% NaCl initially, then transition); (2) check K+ — if low, REPLETE before insulin (insulin drives K+ into cells and can precipitate severe hypokalemia); (3) insulin infusion (regular insulin 0.1 units/kg/h) to suppress ketogenesis and lower glucose; (4) monitor and replace K+, phosphate, Mg2+; (5) transition to dextrose-containing fluids when glucose ~200 to allow continued insulin (suppress ketogenesis) without hypoglycemia. Bicarbonate only for very severe acidosis (pH <6.9–7.0).",
+        "Incorrect. Glucose comes later (when serum glucose ~200) to allow continued insulin without hypoglycemia.",
+        "Incorrect. K+ first would not address hyperkalemic patients."
+      ]
+    },
+    {
+      "id": 25,
+      "stem": "A 30-year-old researcher reviews a metabolic acidosis case. Which mnemonic lists the principal causes of HIGH-anion-gap acidosis?",
+      "choices": ["HARDUP", "MUDPILES", "USEDCAR", "ABCDE", "MEN1"],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. HARDUP is for non-anion-gap acidosis.",
+        "Correct. MUDPILES — Methanol, Uremia, DKA/AKA/starvation, Propylene glycol, INH/Iron, Lactic acidosis, Ethylene glycol, Salicylates. Workup: history, anion gap, osmolar gap, lactate, ketones, glucose, BUN/Cr, salicylate level. Newer mnemonics include GOLDMARK (glycols, oxoproline, L-lactate, D-lactate, methanol, aspirin, renal failure, ketoacidosis).",
+        "Incorrect. USEDCAR is sometimes cited but MUDPILES is the most common high-AG mnemonic.",
+        "Incorrect. ABCDE is unrelated.",
+        "Incorrect. MEN1 is multiple endocrine neoplasia."
+      ]
+    }
+  ]
+}

@@ -26,6 +26,9 @@
     { "id": 24, "title": "Renal Calcium and Phosphate Regulation", "available": true },
     { "id": 25, "title": "Magnesium Homeostasis", "available": true },
     { "id": 26, "title": "Hereditary Renal Transport Disorders", "available": true },
-    { "id": 27, "title": "Mechanisms of Acid-Base Transport", "available": true }
+    { "id": 27, "title": "Mechanisms of Acid-Base Transport", "available": true },
+    { "id": 28, "title": "Metabolic Acidosis", "available": true },
+    { "id": 29, "title": "Metabolic Alkalosis", "available": true },
+    { "id": 30, "title": "Respiratory Acidosis", "available": true }
   ]
 }
