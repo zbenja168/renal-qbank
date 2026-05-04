@@ -4,471 +4,477 @@
   "questions": [
     {
       "id": 1,
-      "stem": "A 65-year-old man with severe COPD has pH 7.30, PCO2 65, HCO3− 31. Which best characterizes the primary acid-base disorder?",
+      "stem": "A 22-year-old man is brought to the ED unresponsive. His friend reports finding him on the couch breathing slowly with needles on the floor. Exam shows pinpoint pupils and a respiratory rate of 7 breaths/min. Which combination of arterial blood gas findings is most consistent with his expected primary acid-base disturbance?",
       "choices": [
-        "Acute metabolic acidosis",
-        "Acute respiratory acidosis",
-        "Chronic respiratory acidosis",
-        "Mixed disorder",
-        "Respiratory alkalosis"
+        "pH 7.30, PaCO2 55 mm Hg, HCO3- 26 mEq/L",
+        "pH 7.30, PaCO2 25 mm Hg, HCO3- 12 mEq/L",
+        "pH 7.50, PaCO2 25 mm Hg, HCO3- 22 mEq/L",
+        "pH 7.50, PaCO2 50 mm Hg, HCO3- 36 mEq/L",
+        "pH 7.40, PaCO2 40 mm Hg, HCO3- 24 mEq/L"
       ],
-      "answer": 2,
+      "answer": 0,
       "explanations": [
-        "Incorrect. HCO3− is high (renal compensation), not low.",
-        "Incorrect. In acute respiratory acidosis, HCO3− would only rise by 1 per 10 mm Hg PCO2 elevation; here HCO3− rise is much greater.",
-        "Correct. Chronic respiratory acidosis is characterized by renal compensation: HCO3− rises ~3.5 mEq/L per 10 mm Hg PCO2 elevation (vs ~1 in acute). For PCO2 65 (rise of 25), expected HCO3− rise ~9 (from 24 to 33) — this patient's HCO3− 31 is appropriately compensated. The pH is closer to normal in chronic than in acute (where pH would be more depressed).",
-        "Incorrect. The compensation is appropriate for pure chronic respiratory acidosis.",
-        "Incorrect. The pH is low, not high."
+        "Correct. Respiratory acidosis is defined by PaCO2 >40 mm Hg and pH <7.35; in acute disease the bicarbonate is normal or only minimally elevated by 1-2 mEq/L.",
+        "Incorrect. A low PaCO2 with low bicarbonate fits a metabolic acidosis with respiratory compensation, not respiratory acidosis.",
+        "Incorrect. A high pH with low PaCO2 describes respiratory alkalosis.",
+        "Incorrect. A high pH with elevated PaCO2 and bicarbonate describes a metabolic alkalosis.",
+        "Incorrect. These are normal values and do not represent any acid-base disorder."
       ]
     },
     {
       "id": 2,
-      "stem": "A 30-year-old researcher applies the compensation rules for respiratory acidosis. Which is correct?",
+      "stem": "A 60-year-old man with severe COPD is admitted with worsening dyspnea. His arterial blood gas shows pH 7.32, PaCO2 65 mm Hg, and HCO3- 34 mEq/L. Which underlying mechanism best explains the elevated bicarbonate seen in this patient?",
       "choices": [
-        "Acute: +1 HCO3− per 10 PCO2; Chronic: +3.5 per 10",
-        "Acute: HCO3− falls by 2 per 10 mmHg",
-        "Acute and chronic compensation are identical",
-        "Chronic: HCO3− unchanged",
-        "Compensation is not predictable"
+        "Acute hyperventilation lowering serum CO2",
+        "Decreased renal H+ secretion as compensation",
+        "Loss of gastric acid through chronic vomiting",
+        "Renal generation of new bicarbonate over time",
+        "Rapid extracellular shift of intracellular bicarbonate"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanations": [
-        "Correct. Respiratory acidosis compensation: ACUTE (minutes to hours) — intracellular and ECF buffering only, HCO3− rises by ~1 mEq/L per 10 mm Hg PCO2 elevation. CHRONIC (>3–5 days) — renal compensation with increased H+ secretion and NH4+ excretion, HCO3− rises by ~3.5 mEq/L per 10 mm Hg PCO2 elevation. Distinguishing acute vs chronic in a patient with stable elevated PCO2 is critical for management — acute decompensation requires urgent ventilatory support, while chronic compensation is well-tolerated.",
-        "Incorrect. HCO3− rises (compensation) in respiratory acidosis, not falls.",
-        "Incorrect. They differ markedly.",
-        "Incorrect. Chronic compensation produces a substantial HCO3− rise.",
-        "Incorrect. Compensation is predictable."
+        "Incorrect. Hyperventilation would lower PaCO2; this patient is hypoventilating with elevated PaCO2.",
+        "Incorrect. The kidneys compensate by increasing, not decreasing, H+ excretion.",
+        "Incorrect. Loss of gastric acid causes a metabolic alkalosis unrelated to chronic CO2 retention.",
+        "Correct. In chronic respiratory acidosis the kidneys excrete H+ buffered by phosphate and ammonium and regenerate new bicarbonate, raising serum HCO3- over hours to days.",
+        "Incorrect. Bicarbonate elevation in chronic respiratory acidosis is from renal generation, not transcellular shifts."
       ]
     },
     {
       "id": 3,
-      "stem": "A 60-year-old man with COPD exacerbation has pH 7.20, PCO2 60, HCO3− 24. Which best characterizes this acid-base picture?",
+      "stem": "A 45-year-old woman with myasthenia gravis develops progressive weakness and shallow breathing. Her arterial blood gas shows pH 7.28, PaCO2 60 mm Hg. According to the brick, which of the following best describes the primary problem leading to her acid-base disturbance?",
       "choices": [
-        "Chronic respiratory acidosis only",
-        "Acute respiratory acidosis without prior compensation",
-        "Acute on chronic respiratory acidosis (acute decompensation)",
-        "Pure metabolic acidosis",
-        "Respiratory alkalosis"
+        "Decreased respiratory drive from the brainstem",
+        "Decreased respiratory muscle function reducing tidal volume",
+        "Impaired alveolar diffusion barrier",
+        "Trapping of CO2 from airway obstruction",
+        "Upper airway obstruction from a foreign body"
       ],
-      "answer": 2,
+      "answer": 1,
       "explanations": [
-        "Incorrect. Chronic acidosis would have HIGHER HCO3− (~31).",
-        "Incorrect. Pure acute would expect HCO3− slightly elevated (~26) per the 1:10 rule.",
-        "Correct. ACUTE-ON-CHRONIC respiratory acidosis: a patient with chronic CO2 retention has acute deterioration. The HCO3− 24 is INADEQUATELY elevated for the acute PCO2 of 60 (chronic compensation would predict HCO3− ~33; acute compensation alone ~26). The intermediate value plus low pH suggests the patient has lost some chronic compensation OR is not adapted. Common in COPD exacerbation, sedation, sleep apnea, and during weaning failure. Management: ventilatory support; treat underlying cause (bronchodilators, antibiotics, oxygen with care).",
-        "Incorrect. PCO2 is high.",
-        "Incorrect. PCO2 high, not low."
+        "Incorrect. Decreased respiratory drive is seen with opioids, sedatives, alcohol, OHS, and central sleep apnea, not myasthenia gravis.",
+        "Correct. Myasthenia gravis is listed as a cause of decreased respiratory muscle function, which reduces tidal volume and produces hypoventilation.",
+        "Incorrect. An impaired diffusion barrier (eg, pulmonary fibrosis, emphysema) is a gas exchange problem, not a muscle weakness problem.",
+        "Incorrect. CO2 trapping is the mechanism in asthma and COPD exacerbations, not in myasthenia gravis.",
+        "Incorrect. Foreign body aspiration causes upper airway obstruction; myasthenia is a neuromuscular disease."
       ]
     },
     {
       "id": 4,
-      "stem": "A 50-year-old man with severe morbid obesity has chronic daytime hypercapnia (PCO2 55), nocturnal hypoxemia, and morning headaches. He has a low overnight oxygen saturation. Which is the most likely diagnosis?",
+      "stem": "A 70-year-old man is found at home obtunded after taking extra hydromorphone for back pain. The brick states that the body's natural tendency is to become acidic largely because of the volume of acid produced daily by the Krebs cycle. Approximately how much CO2-derived acid does the Krebs cycle generate per day?",
       "choices": [
-        "Asthma",
-        "Pulmonary embolism",
-        "Obesity hypoventilation syndrome",
-        "Pulmonary fibrosis",
-        "COPD"
+        "150 millimoles",
+        "1,500 millimoles",
+        "More than 15,000 millimoles",
+        "150,000 millimoles",
+        "1.5 millimoles"
       ],
       "answer": 2,
       "explanations": [
-        "Incorrect. Asthma typically does not produce chronic hypercapnia.",
-        "Incorrect. PE is acute, not chronic.",
-        "Correct. Obesity hypoventilation syndrome (OHS, Pickwickian syndrome) — daytime hypercapnia (PCO2 >45) due to chronic alveolar hypoventilation in severely obese patients (BMI typically >35). Often coexists with obstructive sleep apnea (most patients have both). Mechanism: increased work of breathing, blunted ventilatory response to hypercapnia, mechanical restriction. Treatment: CPAP/BiPAP, weight loss (sometimes bariatric surgery), supplemental O2 carefully (can worsen hypercapnia by removing hypoxic drive).",
-        "Incorrect. Pulmonary fibrosis typically presents with hypoxia and may have low PCO2 (compensatory hyperventilation).",
-        "Incorrect. COPD is possible but the morbid obesity context points more to OHS."
+        "Incorrect. This figure is far below the brick-stated value.",
+        "Incorrect. This is roughly the daily non-volatile acid load, not the Krebs-cycle volatile acid load.",
+        "Correct. The brick states the Krebs cycle produces more than 15,000 millimoles of CO2-derived (volatile) acid per day, which must be exhaled by the lungs.",
+        "Incorrect. This overstates the brick's quoted figure.",
+        "Incorrect. This is far too small to reflect daily metabolic acid production."
       ]
     },
     {
       "id": 5,
-      "stem": "A 55-year-old man with severe daytime hypercapnia from chronic COPD is given high-flow oxygen by nasal cannula. Within hours his pH falls from 7.36 to 7.18 and PCO2 rises from 60 to 90. Which best explains this deterioration?",
+      "stem": "A medical student is reviewing acid-base physiology. She notes that acids generated from protein metabolism that cannot be excreted via the lungs are removed by the kidneys. Which of the following is an example of such a non-volatile acid as listed in the brick?",
       "choices": [
-        "Acute pulmonary embolism",
-        "Loss of hypoxic ventilatory drive",
-        "Bronchospasm",
-        "Pneumonia",
-        "Cardiac arrest"
+        "Carbonic acid",
+        "Carbon dioxide",
+        "Sulfuric acid",
+        "Hydrogen peroxide",
+        "Bicarbonate"
       ],
-      "answer": 1,
+      "answer": 2,
       "explanations": [
-        "Incorrect. Possible but not the most likely cause.",
-        "Correct. Patients with chronic CO2 retention rely partly on HYPOXIC ventilatory drive (the central PCO2 chemoreceptor sensitivity is reset). Aggressive O2 therapy raises PaO2, removes the hypoxic drive, and reduces minute ventilation → PCO2 RISES (CO2 narcosis). Two other mechanisms also contribute: (1) Haldane effect (oxygenated Hb releases CO2 less avidly than deoxy Hb); (2) V/Q mismatch from loss of hypoxic pulmonary vasoconstriction. Strategy: titrate O2 to target SaO2 88–92% (not 100%) in chronic CO2 retainers.",
-        "Incorrect. Bronchospasm is one possible contributor but not the principal mechanism here.",
-        "Incorrect. Pneumonia would feature fever and infiltrate.",
-        "Incorrect. Cardiac arrest would have other findings."
+        "Incorrect. Carbonic acid is the volatile acid form of CO2 and is eliminated by the lungs.",
+        "Incorrect. CO2 is the prototypical volatile acid.",
+        "Correct. The brick lists sulfuric, phosphoric, and lactic acids as non-volatile acids generated from protein and other metabolism, which the kidneys excrete.",
+        "Incorrect. Hydrogen peroxide is not categorized as a non-volatile acid in the brick.",
+        "Incorrect. Bicarbonate is a base/buffer, not an acid."
       ]
     },
     {
       "id": 6,
-      "stem": "A 28-year-old man with severe asthma exacerbation has pH 7.32, PCO2 50, HCO3− 25, RR 28, and is using accessory muscles. The PCO2 was 25 one hour earlier. Which best characterizes this finding?",
+      "stem": "A 67-year-old woman with severe community-acquired pneumonia has progressively worsening hypoxemia and hypercapnia. According to the brick, which mechanism best explains how pneumonia produces respiratory acidosis?",
       "choices": [
-        "Pure metabolic acidosis",
-        "Impending respiratory arrest",
-        "Pure respiratory alkalosis",
-        "Improvement in asthma",
-        "Chronic respiratory acidosis"
+        "Trapping of CO2 from bronchospasm",
+        "Decreased central respiratory drive from infection",
+        "Filling of alveolar spaces with exudates impairing gas exchange",
+        "Decreased respiratory muscle function from sepsis",
+        "Upper airway obstruction by purulent secretions"
       ],
-      "answer": 1,
+      "answer": 2,
       "explanations": [
-        "Incorrect. The picture is respiratory.",
-        "Correct. In acute severe asthma, PCO2 should be LOW (compensatory hyperventilation). A rising or normal PCO2 (often called a 'pseudonormal' PCO2) in a patient with worsening asthma indicates RESPIRATORY MUSCLE FATIGUE and impending respiratory failure. This is an EMERGENCY requiring urgent intubation and mechanical ventilation. Other concerning signs: silent chest, decreased mental status, paradoxical breathing, severe hypoxemia.",
-        "Incorrect. PCO2 is high (or rising), not low.",
-        "Incorrect. Rising PCO2 in asthma = WORSE, not better.",
-        "Incorrect. Acute presentation with worsening course."
+        "Incorrect. CO2 trapping from bronchospasm describes asthma or COPD, not pneumonia.",
+        "Incorrect. Pneumonia is grouped under impaired gas exchange, not decreased respiratory drive.",
+        "Correct. The brick states that pneumonia and pulmonary edema impair gas exchange by filling alveolar spaces with exudates, preventing CO2 from crossing the alveolar membrane.",
+        "Incorrect. Pneumonia is not listed as a cause of respiratory muscle weakness in the brick.",
+        "Incorrect. Pneumonia impairs gas exchange at the alveolar level, not via upper airway obstruction."
       ]
     },
     {
       "id": 7,
-      "stem": "A 35-year-old woman has rapidly progressive ascending weakness 1 week after gastroenteritis. She has labored breathing with vital capacity falling from 30 mL/kg to 12 mL/kg. ABG: pH 7.30, PCO2 55. Which is the most likely diagnosis?",
+      "stem": "A 58-year-old man with longstanding emphysema undergoes pulmonary function testing and develops a mild chronic respiratory acidosis. Which mechanism best explains how emphysema contributes to CO2 retention according to the brick?",
       "choices": [
-        "Asthma",
-        "Guillain-Barré syndrome",
-        "Pulmonary embolism",
-        "Pulmonary fibrosis",
-        "COPD exacerbation"
+        "Bronchospasm trapping CO2 in the airways",
+        "Decreased alveolar surface area available for gas exchange",
+        "Diaphragmatic paralysis from phrenic nerve compression",
+        "Filling of alveoli with proteinaceous exudate",
+        "Upper airway collapse during sleep"
       ],
       "answer": 1,
       "explanations": [
-        "Incorrect. Asthma has wheezing, not ascending weakness.",
-        "Correct. Guillain-Barré syndrome (acute inflammatory demyelinating polyneuropathy) — postinfectious autoimmune attack on peripheral nerves producing ascending paralysis, often after Campylobacter, EBV, CMV, Mycoplasma, or COVID. Respiratory muscle weakness can produce hypercapnic respiratory failure. Indications for intubation: vital capacity <15–20 mL/kg, NIF less negative than −20 cm H2O, bulbar weakness with aspiration risk, declining trajectory. Other neuromuscular causes of respiratory acidosis: myasthenia gravis crisis, ALS, botulism, organophosphate poisoning, succinylcholine.",
-        "Incorrect. PE has acute hypoxemia with hypocapnia (hyperventilation).",
-        "Incorrect. Pulmonary fibrosis has hypoxemia with hypocapnia.",
-        "Incorrect. COPD has chronic course."
+        "Incorrect. CO2 trapping from bronchospasm is the mechanism listed for asthma and COPD exacerbations, not emphysema specifically.",
+        "Correct. The brick states emphysema decreases the alveolar surface area available for gas exchange, impairing CO2 elimination.",
+        "Incorrect. Diaphragm paralysis is listed as a cause of decreased respiratory muscle function, not the mechanism of emphysema.",
+        "Incorrect. Alveolar exudates describe pneumonia or pulmonary edema.",
+        "Incorrect. Upper airway collapse during sleep describes obstructive sleep apnea."
       ]
     },
     {
       "id": 8,
-      "stem": "A 28-year-old man receives a fentanyl bolus for procedural sedation. Within 5 minutes RR is 4 and PCO2 rises to 70. Which best explains the respiratory acidosis?",
+      "stem": "A 50-year-old man with severe obesity has daytime somnolence and an arterial blood gas showing chronic CO2 retention without evidence of intrinsic lung disease, neuromuscular disease, or sleep apnea. According to the brick, his disorder is best categorized under which mechanism of respiratory acidosis?",
       "choices": [
-        "Acute pulmonary embolism",
-        "Opioid-induced respiratory depression",
-        "Asthma",
-        "Anaphylaxis",
-        "Cardiogenic shock"
+        "Decreased respiratory drive",
+        "Decreased respiratory muscle function",
+        "Impaired diffusion barrier",
+        "Upper airway obstruction",
+        "CO2 trapping"
       ],
-      "answer": 1,
+      "answer": 0,
       "explanations": [
-        "Incorrect. PE is unlikely from a sedation procedure.",
-        "Correct. Opioids depress the medullary respiratory center via µ-receptor agonism, producing dose-dependent reduction in RR and tidal volume → hypoventilation → respiratory acidosis. Reversal: NALOXONE (titrated to respiratory rate, not full reversal in chronic users to avoid acute withdrawal). Other CNS depressants with similar effects: benzodiazepines (reverse with flumazenil — but rarely used; can precipitate seizures in chronic users), barbiturates, GHB, alcohol. Recognition is critical in procedural sedation.",
-        "Incorrect. Asthma has wheezing.",
-        "Incorrect. Anaphylaxis has urticaria, hypotension, bronchospasm.",
-        "Incorrect. Cardiogenic shock has hemodynamic features."
+        "Correct. The brick lists obesity hypoventilation syndrome (OHS) under decreased respiratory drive, alongside opioids, sedatives, alcohol, cardiac arrest, and central sleep apnea.",
+        "Incorrect. Decreased respiratory muscle function is exemplified by neuromuscular diseases like myasthenia gravis or ALS.",
+        "Incorrect. Impaired diffusion barrier is a gas exchange problem (pulmonary fibrosis, emphysema).",
+        "Incorrect. Upper airway obstruction in the brick refers to OSA and foreign body aspiration.",
+        "Incorrect. CO2 trapping is the mechanism for asthma and COPD exacerbations."
       ]
     },
     {
       "id": 9,
-      "stem": "A 75-year-old woman with severe kyphoscoliosis has chronic PCO2 55, HCO3− 33. Which best characterizes the mechanism?",
+      "stem": "A 28-year-old woman with severe asthma exacerbation initially had tachypnea and a low PaCO2. Over the next hour she becomes increasingly fatigued and her PaCO2 rises to 50 mm Hg with pH 7.31. According to the brick, asthma exacerbations cause respiratory acidosis primarily through which mechanism?",
       "choices": [
-        "Airway disease",
-        "Chest wall restriction limiting ventilation",
-        "Acute lung injury",
-        "Cardiac dysfunction",
-        "Pulmonary embolism"
+        "Alveolar filling with exudates",
+        "Decreased alveolar surface area",
+        "Decreased central respiratory drive",
+        "Airway obstruction trapping CO2 within the lungs",
+        "Diaphragmatic muscle weakness"
       ],
-      "answer": 1,
+      "answer": 3,
       "explanations": [
-        "Incorrect. Airway is intrinsic; this is chest wall.",
-        "Correct. Chest wall restriction (kyphoscoliosis, severe obesity, ankylosing spondylitis, neuromuscular weakness, large pleural effusions, diaphragmatic paralysis, post-thoracoplasty) reduces tidal volume and increases work of breathing → chronic alveolar hypoventilation → chronic respiratory acidosis. May progress to right HF (cor pulmonale), pulmonary hypertension. Treatment: noninvasive ventilation (NIV) at night ± daytime; correct underlying mechanical cause when possible.",
-        "Incorrect. Acute lung injury has hypoxia ± hypocapnia.",
-        "Incorrect. Cardiac dysfunction does not principally cause CO2 retention.",
-        "Incorrect. PE is acute."
+        "Incorrect. Alveolar filling with exudates is the mechanism for pneumonia and pulmonary edema.",
+        "Incorrect. Decreased alveolar surface area characterizes emphysema, not asthma.",
+        "Incorrect. Asthma does not affect central respiratory drive.",
+        "Correct. The brick states that COPD and asthma exacerbations cause airway obstruction that traps CO2 within the lungs, which then diffuses back into blood; these disorders also decrease ventilation.",
+        "Incorrect. Asthma is not listed as a respiratory muscle weakness disorder."
       ]
     },
     {
       "id": 10,
-      "stem": "A 50-year-old man with severe COPD on home BiPAP has pH 7.40, PCO2 50, HCO3− 32. He is at his baseline. Which best characterizes this acid-base picture?",
+      "stem": "A 35-year-old woman with Guillain-Barre syndrome develops shallow breathing and a rising PaCO2. Which of the following best characterizes how this disorder produces respiratory acidosis according to the brick?",
       "choices": [
-        "Inadequately compensated",
-        "Pure respiratory alkalosis",
-        "Compensated chronic respiratory acidosis",
-        "Acute decompensation",
-        "Metabolic alkalosis"
+        "Decreased respiratory drive from brainstem demyelination",
+        "Reduced tidal volume from impaired respiratory muscle function",
+        "Bronchospasm and CO2 trapping",
+        "Alveolar consolidation impairing diffusion",
+        "Upper airway obstruction during sleep"
       ],
-      "answer": 2,
+      "answer": 1,
       "explanations": [
-        "Incorrect. The compensation is appropriate (HCO3− rise of 8 for PCO2 rise of 10 is in the chronic range).",
-        "Incorrect. PCO2 is high, not low.",
-        "Correct. Chronic respiratory acidosis with appropriate renal compensation: pH near normal due to renal HCO3− retention. PCO2 elevated by 10 above normal; expected HCO3− rise ~3.5/10 = 3.5 + baseline 24 = 27.5; the patient is somewhat MORE compensated than predicted but in the chronic range. Stable patients adapted to chronic CO2 retention are well-tolerated; treatment focuses on optimizing underlying disease and avoiding decompensation.",
-        "Incorrect. pH is normal at baseline.",
-        "Incorrect. The picture is principally respiratory."
+        "Incorrect. Guillain-Barre is grouped under respiratory muscle dysfunction, not decreased respiratory drive.",
+        "Correct. The brick lists Guillain-Barre syndrome as a neuromuscular disease that impairs respiratory muscle function and reduces tidal volume.",
+        "Incorrect. Bronchospasm and CO2 trapping describe asthma/COPD exacerbations.",
+        "Incorrect. Alveolar consolidation describes pneumonia/pulmonary edema.",
+        "Incorrect. Upper airway obstruction in sleep is OSA, not GBS."
       ]
     },
     {
       "id": 11,
-      "stem": "A 60-year-old man with chronic CO2 retention is intubated for pneumonia. The team sets the ventilator to achieve a normal PCO2 of 40 within hours. The pH then rises to 7.55 with HCO3− 33. Which best describes the resulting acid-base disturbance?",
+      "stem": "A 19-year-old woman is found unresponsive after a drinking binge. Her respiratory rate is 8 breaths/min. The brick groups alcohol with several other agents and conditions that share a common mechanism of producing respiratory acidosis. That shared mechanism is best described as:",
       "choices": [
-        "Acute respiratory acidosis",
-        "Acute respiratory alkalosis from over-ventilation",
-        "Post-hypercapnic metabolic alkalosis",
-        "Pure metabolic acidosis",
-        "Mixed disorder of acidosis"
+        "Decreased respiratory drive with reduced rate and/or tidal volume",
+        "Direct toxicity to type II alveolar pneumocytes",
+        "Increased airway resistance via bronchospasm",
+        "Pulmonary capillary leak with alveolar flooding",
+        "Skeletal muscle paralysis at the neuromuscular junction"
       ],
-      "answer": 2,
+      "answer": 0,
       "explanations": [
-        "Incorrect. PCO2 is now normal, not high.",
-        "Incorrect. Over-ventilation alone would not produce HCO3− 33 — that is preserved chronic compensation.",
-        "Correct. Post-hypercapnic metabolic alkalosis — chronic respiratory acidosis is renally compensated by HCO3− retention. When ventilation is rapidly normalized, PCO2 falls but the elevated HCO3− persists (renal HCO3− excretion is slow, especially with associated Cl− and K+ depletion). Result: unmasked metabolic alkalosis. Strategy: ventilate to BASELINE PCO2 (not normal), correcting gradually. If alkalosis develops, replete Cl− and K+; consider acetazolamide.",
-        "Incorrect. The pH is high, not low.",
-        "Incorrect. Single disorder."
+        "Correct. The brick groups opioids, sedatives, alcohol, trauma, cardiac arrest, OHS, and central sleep apnea as causes of decreased respiratory drive with decreased respiratory rate and/or tidal volume.",
+        "Incorrect. Type II pneumocyte toxicity is not the brick's described mechanism for any of these agents.",
+        "Incorrect. Bronchospasm is the mechanism of asthma/COPD exacerbations.",
+        "Incorrect. Capillary leak with alveolar flooding describes ARDS/pulmonary edema, not alcohol intoxication.",
+        "Incorrect. NMJ paralysis describes botulism, a respiratory muscle weakness mechanism."
       ]
     },
     {
       "id": 12,
-      "stem": "A 45-year-old woman post-thoracic surgery has pain limiting her ability to take deep breaths. ABG shows pH 7.32, PCO2 55. Which is the most appropriate intervention?",
+      "stem": "A 44-year-old man is brought in unresponsive with pinpoint pupils and a respiratory rate of 6 breaths/min. According to the brick, what is the most appropriate immediate treatment, even before completing the diagnostic workup?",
       "choices": [
-        "Aggressive analgesia",
-        "Bronchodilators",
-        "Diuretics",
-        "Acetazolamide",
-        "Sodium bicarbonate"
+        "Bilevel positive airway pressure (BiPAP)",
+        "Endotracheal intubation",
+        "Intravenous sodium bicarbonate",
+        "Naloxone",
+        "Emergency dialysis"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanations": [
-        "Correct. Postoperative respiratory acidosis from pain-limited ventilation responds to AGGRESSIVE PAIN CONTROL — epidural analgesia, regional blocks (intercostal, paravertebral), patient-controlled analgesia, multimodal regimens (acetaminophen, NSAIDs, gabapentinoids). Adequate analgesia allows normal tidal volume, deep breathing exercises, incentive spirometry, ambulation — preventing atelectasis and respiratory failure. Avoid excessive opioids (themselves cause respiratory depression). Other adjuncts: incentive spirometry, mucus mobilization.",
-        "Incorrect. No bronchospasm described.",
-        "Incorrect. Diuretics would not address the pain-driven hypoventilation.",
-        "Incorrect. Acetazolamide is for severe alkalosis, not acidosis.",
-        "Incorrect. Bicarbonate would worsen the situation if hypoventilation persists."
+        "Incorrect. BiPAP can improve ventilation but does not treat the underlying opioid effect.",
+        "Incorrect. Intubation is reserved for patients with markedly low PaO2, rising PaCO2, or fatigue despite CPAP/BiPAP.",
+        "Incorrect. The brick notes that IV sodium bicarbonate produces only a small transient pH rise and risks raising CO2 further.",
+        "Correct. The brick instructs that suspected opioid overdose (slow shallow respirations, altered mental state, pinpoint pupils) should receive the opioid antagonist naloxone even before workup is complete.",
+        "Incorrect. Dialysis does not treat hypercapnia."
       ]
     },
     {
       "id": 13,
-      "stem": "A 55-year-old man with COPD has a pH 7.32, PCO2 60, HCO3− 30, and is mildly tachypneic but hemodynamically stable. He is alert. Which is the most appropriate initial treatment?",
+      "stem": "A 72-year-old man with COPD presents with cough and shortness of breath. He is treated with bronchodilators but his arterial blood gas continues to show worsening respiratory acidosis. According to the brick, which intervention is most appropriate next?",
       "choices": [
-        "Immediate intubation",
-        "Noninvasive positive pressure ventilation (BiPAP)",
-        "Sodium bicarbonate IV",
-        "Intravenous magnesium",
-        "Hemodialysis"
+        "Intravenous sodium bicarbonate",
+        "Bilevel positive airway pressure (BiPAP)",
+        "Naloxone",
+        "Emergency dialysis",
+        "Inhaled corticosteroids only"
       ],
       "answer": 1,
       "explanations": [
-        "Incorrect. Intubation is reserved for failure of NIV or rapid deterioration.",
-        "Correct. Bilevel NIV (BiPAP) is first-line for COPD exacerbation with respiratory acidosis (pH <7.35 or PCO2 >45) in alert, hemodynamically stable patients. NIV reduces work of breathing, improves alveolar ventilation, and reduces intubation rates and mortality. Contraindications: cardiac arrest, severe altered mental status, inability to protect airway, hemodynamic instability, vomiting. Reassess in 1–2 hours; if no improvement → intubation. Concurrent therapy: bronchodilators, corticosteroids, antibiotics if indicated.",
-        "Incorrect. NaHCO3 is not standard for respiratory acidosis (does not address ventilation).",
-        "Incorrect. IV Mg has minor role in severe asthma, less for COPD.",
-        "Incorrect. Dialysis is irrelevant."
+        "Incorrect. IV bicarbonate provides only transient pH benefit and risks worsening hypercapnia.",
+        "Correct. The brick states that COPD exacerbations with ongoing respiratory acidosis despite bronchodilators are commonly treated with BiPAP, which increases the depth of ventilation (tidal volume) and helps blow off CO2.",
+        "Incorrect. Naloxone reverses opioid effects and is not indicated for COPD exacerbations.",
+        "Incorrect. Dialysis does not address CO2 retention.",
+        "Incorrect. Inhaled steroids alone do not address acute hypercapnia and are not the brick's recommended next step."
       ]
     },
     {
       "id": 14,
-      "stem": "A 30-year-old woman with myasthenia gravis presents with worsening weakness, dysphagia, and PCO2 50. Vital capacity is 12 mL/kg. Which is the most appropriate management?",
+      "stem": "A 65-year-old man with a COPD exacerbation is on BiPAP. Despite this, his PaCO2 continues to rise, his PaO2 falls markedly, and he becomes increasingly fatigued. According to the brick, what is the most appropriate next step?",
       "choices": [
-        "Outpatient observation",
-        "Intubate; plasma exchange or IVIG",
-        "Sodium bicarbonate IV",
-        "Atropine",
-        "Magnesium sulfate"
+        "Continue current BiPAP settings unchanged",
+        "Switch to nasal cannula oxygen alone",
+        "Endotracheal intubation",
+        "Administer naloxone",
+        "Initiate hemodialysis"
       ],
-      "answer": 1,
+      "answer": 2,
       "explanations": [
-        "Incorrect. Severe myasthenic crisis with respiratory failure requires urgent intervention.",
-        "Correct. Myasthenic crisis — severe weakness with respiratory failure (or bulbar weakness with aspiration risk). Vital capacity <15–20 mL/kg or NIF less negative than −20 cm H2O are indications for ICU admission and intubation. Treatment: plasma exchange or IVIG (rapid effect); high-dose corticosteroids (avoid initial worsening); thymectomy in selected cases; pyridostigmine or other AChEi for chronic management. Avoid magnesium (worsens weakness), aminoglycosides, fluoroquinolones, and other neuromuscular-blocking drugs.",
-        "Incorrect. Bicarbonate does not address ventilation.",
-        "Incorrect. Atropine is for cholinergic excess.",
-        "Incorrect. Magnesium WORSENS myasthenic weakness."
+        "Incorrect. The brick warns that ongoing fatigue and rising PaCO2 on CPAP/BiPAP herald respiratory arrest.",
+        "Incorrect. Stepping down to nasal cannula would worsen ventilation in a fatiguing patient.",
+        "Correct. The brick states that markedly decreased PaO2, rising PaCO2, or continued fatigue despite CPAP/BiPAP require endotracheal intubation, as these findings are preludes to respiratory arrest.",
+        "Incorrect. Naloxone is for opioid overdose, not COPD-related fatigue.",
+        "Incorrect. Hemodialysis does not address hypercapnia."
       ]
     },
     {
       "id": 15,
-      "stem": "A 28-year-old researcher considers what happens to plasma K+ in acute respiratory acidosis. Which best describes the relationship?",
+      "stem": "A 30-year-old man with no known medical history collapses at home and is brought to the ED. Initial arterial blood gas shows pH 7.20, PaCO2 70 mm Hg, HCO3- 26 mEq/L. According to the brick, the bicarbonate level in this acute respiratory acidosis is best described as:",
       "choices": [
-        "Acidosis lowers plasma K+",
-        "Acidosis raises K+ via cellular shift",
-        "Acidosis has no effect on K+",
-        "Acidosis principally affects Na+, not K+",
-        "Hypokalemia always accompanies acidosis"
+        "Markedly elevated due to robust renal compensation",
+        "Normal or only minimally increased by 1-2 mEq/L",
+        "Markedly low because the kidneys are excreting bicarbonate",
+        "Normal because pH is unchanged",
+        "Markedly low because of acute lactic acidosis"
       ],
       "answer": 1,
       "explanations": [
-        "Incorrect. Acidosis raises (not lowers) K+.",
-        "Correct. In metabolic mineral acidosis (HCl, NH4Cl loading) the cellular H+/K+ shift is prominent: H+ enters cells, K+ leaves, raising plasma K+. In RESPIRATORY acidosis the cellular shift is much SMALLER (CO2 readily crosses cell membranes and partly buffers intracellularly without driving as much K+ out). Organic-acid metabolic acidoses (DKA, lactic) also produce smaller K+ shifts than mineral acidoses. Total body K+ in DKA is depleted regardless of plasma value.",
-        "Incorrect. There is a relationship.",
-        "Incorrect. K+ is also affected.",
-        "Incorrect. Hypokalemia is not always associated."
+        "Incorrect. Renal compensation requires hours to days; in acute disease there is no time for marked elevation.",
+        "Correct. The brick states that in acute respiratory acidosis there is no time for renal compensation, so serum bicarbonate may be normal or just minimally increased by 1-2 mEq/L.",
+        "Incorrect. The kidneys retain (not excrete) bicarbonate during respiratory acidosis.",
+        "Incorrect. The pH is decreased here, and bicarbonate is not normal because of stable pH.",
+        "Incorrect. The disturbance is respiratory, and the brick does not describe acute lactic acidosis as part of acute respiratory acidosis compensation."
       ]
     },
     {
       "id": 16,
-      "stem": "A 60-year-old man with severe COPD has stable chronic hypercapnia (PCO2 55). He is being assessed for nighttime BiPAP. Which physiologic derangement most directly indicates need for nocturnal NIV?",
+      "stem": "A nephrology fellow is teaching a student about the renal response to chronic respiratory acidosis. According to the brick, the kidneys regenerate new bicarbonate by which of the following actions?",
       "choices": [
-        "Daytime PCO2 alone",
-        "Nocturnal hypoventilation with desaturation",
-        "Forced vital capacity",
-        "Diffusion capacity",
-        "FEV1/FVC ratio"
+        "Reabsorbing filtered bicarbonate without H+ excretion",
+        "Excreting H+ buffered by phosphate and ammonium in the urine",
+        "Increasing CO2 exhalation through pulmonary feedback",
+        "Generating bicarbonate from the breakdown of urea",
+        "Excreting potassium in exchange for bicarbonate"
       ],
       "answer": 1,
       "explanations": [
-        "Incorrect. Daytime PCO2 is one indicator but the principal sleep finding drives NIV.",
-        "Correct. Nocturnal hypoventilation with sustained oxygen desaturation (esp <88% for >5 min) plus daytime hypercapnia indicates need for nocturnal NIV. NIV reduces hypercapnic episodes, improves daytime PCO2, prevents cor pulmonale, and may improve survival in selected patients (severe stable COPD, OHS, neuromuscular disease, restrictive thoracic disease). Strict criteria are reimbursement-driven (e.g., PCO2 >52 with desaturation criteria).",
-        "Incorrect. FVC reflects restrictive disease severity but is not the principal sleep finding.",
-        "Incorrect. DLCO measures gas exchange.",
-        "Incorrect. FEV1/FVC quantifies obstruction severity."
+        "Incorrect. Simple reabsorption does not generate new bicarbonate; new bicarbonate generation requires H+ excretion.",
+        "Correct. The brick states the kidneys excrete H+ into the urine buffered by phosphate and ammonium, and for each H+ excreted they regenerate a new bicarbonate that is added to the blood.",
+        "Incorrect. The kidneys do not control pulmonary CO2 exhalation.",
+        "Incorrect. Urea breakdown is not the bicarbonate-generating mechanism described in the brick.",
+        "Incorrect. Potassium-bicarbonate exchange is not the brick's described mechanism."
       ]
     },
     {
       "id": 17,
-      "stem": "A 65-year-old man with severe asthma exacerbation requires intubation for hypercapnic respiratory failure. The team sets up 'permissive hypercapnia' on the ventilator. Which best characterizes this strategy?",
+      "stem": "A 19-year-old woman is brought to the ED somnolent with a respiratory rate of 8 breaths/min. Heart and lung exam are normal. Arterial blood gas shows pH 7.30, PaCO2 55 mm Hg, HCO3- 26 mEq/L, PaO2 85 mm Hg. Which of the following is the most likely diagnosis?",
       "choices": [
-        "Aggressive hyperventilation to normal PCO2",
-        "Tolerate high PCO2 to avoid barotrauma",
-        "High plateau pressures",
-        "Extremely high tidal volume",
-        "Low respiratory rate at any cost"
+        "Asthma exacerbation",
+        "Myasthenia gravis",
+        "Obstructive sleep apnea",
+        "Pneumococcal pneumonia",
+        "Sedative overdose"
       ],
-      "answer": 1,
+      "answer": 4,
       "explanations": [
-        "Incorrect. The strategy is the opposite — accept high PCO2.",
-        "Correct. Permissive hypercapnia: in severe asthma or ARDS, aggressive hyperventilation at normal PCO2 requires high tidal volumes and high airway pressures, causing barotrauma/volutrauma. Strategy: tolerate elevated PCO2 (often 60–80, sometimes higher) and corresponding pH (usually >7.20) by using lower tidal volumes (4–6 mL/kg ideal body weight), allowing slower respiratory rates, and minimizing airway pressures. Sedation and sometimes neuromuscular blockade are needed. Outcomes are improved compared with normocapnic strategies in ARDS (ARMA trial). Avoid in raised ICP, severe pulmonary hypertension.",
-        "Incorrect. Plateau pressure should be MINIMIZED.",
-        "Incorrect. Tidal volume is REDUCED, not increased.",
-        "Incorrect. RR is reduced as needed but not at any cost."
+        "Incorrect. Asthma would cause respiratory acidosis only if severe with wheezing, which is not present here.",
+        "Incorrect. Myasthenia causes muscle weakness but central drive is intact, so the rate would be high, not low.",
+        "Incorrect. OSA can cause respiratory acidosis but is unlikely to cause confusion in this acute setting.",
+        "Incorrect. Pneumonia would typically cause tachypnea, not bradypnea.",
+        "Correct. Sedative overdose decreases respiratory drive, producing low respiratory rate, hypercapnia, acidosis, and somnolence as in this patient."
       ]
     },
     {
       "id": 18,
-      "stem": "A 50-year-old man with severe pneumonia is in the ICU. ABG shows pH 7.20, PCO2 55, HCO3− 22. Which best characterizes the picture?",
+      "stem": "A 50-year-old man presents with confusion and possible respiratory acidosis. Which of the following is most helpful in initially diagnosing respiratory acidosis according to the brick?",
       "choices": [
-        "Pure respiratory acidosis",
-        "Pure metabolic acidosis",
-        "Mixed respiratory + metabolic acidosis",
-        "Respiratory alkalosis",
-        "Metabolic alkalosis"
+        "Chest x-ray",
+        "Pulmonary function testing",
+        "Pulse oximetry",
+        "Serum electrolytes",
+        "Venous blood gas"
       ],
-      "answer": 2,
+      "answer": 4,
       "explanations": [
-        "Incorrect. Pure acute resp acidosis would have higher HCO3− (~24).",
-        "Incorrect. Pure metabolic acidosis would have lower PCO2 (Winters formula).",
-        "Correct. MIXED acute respiratory acidosis + metabolic acidosis. PCO2 elevated (resp acidosis) AND HCO3− low normal (metabolic acidosis component, since acute resp acidosis would predict HCO3− ~24+ with the rise; here it's not appropriately elevated). Common in critically ill patients with combined respiratory failure (sepsis-related ARDS) AND metabolic acidosis (sepsis-related lactic acidosis). Approach: ventilatory support; treat underlying cause (sepsis, infection); careful fluid management.",
-        "Incorrect. The pH is low.",
-        "Incorrect. HCO3− is low, not high."
+        "Incorrect. Chest x-ray helps identify an underlying cause but is not the initial diagnostic test for the acid-base disturbance.",
+        "Incorrect. PFTs help identify COPD as a cause but are not used for initial diagnosis.",
+        "Incorrect. Pulse oximetry detects hypoxemia but does not measure PaCO2.",
+        "Incorrect. The serum bicarbonate from electrolytes is less helpful than a blood gas because it does not give PaCO2.",
+        "Correct. The brick states a venous blood gas yields blood pH and PaCO2 critical to diagnosis, is less painful than arterial sampling, and shows essentially no significant difference in acid-base parameters."
       ]
     },
     {
       "id": 19,
-      "stem": "A 20-year-old man is found unconscious near an empty bottle of unknown pills. ABG: pH 7.20, PCO2 60, HCO3− 23. Which class of drugs is most likely to cause this picture?",
+      "stem": "A 68-year-old woman with chronic respiratory acidosis from severe COPD is asked why she does not feel as ill as a younger patient with acute hypercapnia of similar magnitude. According to the brick, which best explains why chronic respiratory acidosis is less symptomatic than acute respiratory acidosis?",
       "choices": [
-        "Salicylates",
-        "Opioids or benzodiazepines",
-        "Methanol",
-        "Acetaminophen",
-        "Lithium"
+        "Higher CO2 levels are well tolerated when chronic",
+        "Renal compensation reduces the impact of high CO2 on the CSF",
+        "Chronic disease blunts central chemoreceptor sensitivity to CO2",
+        "Cerebral autoregulation completely prevents vasodilation when chronic",
+        "Bicarbonate levels are lower in chronic disease, normalizing pH"
       ],
       "answer": 1,
       "explanations": [
-        "Incorrect. Salicylate produces respiratory ALKALOSIS plus metabolic acidosis.",
-        "Correct. CNS depressants (opioids, benzodiazepines, barbiturates, alcohol, GHB, propofol) depress the medullary respiratory center, producing hypoventilation and respiratory acidosis. Often combined with hypoxic respiratory failure if airway compromise. Treatment: airway management, naloxone for opioids (titrate to respiratory rate), flumazenil for benzodiazepines (rarely used; can precipitate seizures in chronic users), supportive care. Recognize as acute-onset respiratory acidosis with depressed mental status — don't miss treatable causes.",
-        "Incorrect. Methanol features anion-gap metabolic acidosis.",
-        "Incorrect. Acetaminophen at standard doses does not cause acute respiratory acidosis (principally hepatotoxic).",
-        "Incorrect. Lithium toxicity has tremor, encephalopathy, but not principally respiratory acidosis."
+        "Incorrect. The brick attributes the difference to compensation, not innate tolerance.",
+        "Correct. The brick states that in chronic respiratory acidosis the kidneys help balance blood acidity, which reduces the impact of high CO2 levels in the CSF and makes chronic disease less symptomatic.",
+        "Incorrect. The brick does not describe blunted chemoreceptor sensitivity as the explanation.",
+        "Incorrect. Cerebral vasodilation is mentioned in the brick's pathophysiology but the brick does not invoke autoregulation as the chronic-versus-acute explanation.",
+        "Incorrect. Bicarbonate is higher, not lower, in chronic respiratory acidosis."
       ]
     },
     {
       "id": 20,
-      "stem": "A 30-year-old woman with severe asthma is intubated. Auto-PEEP develops with hyperinflation. Which best explains the cardiovascular consequence?",
+      "stem": "A 60-year-old hospitalized woman is found somnolent at midnight with a respiratory rate of 9 and a new respiratory acidosis on blood gas. The brick describes this scenario as a common hospital presentation. According to the brick, this clinical situation most likely represents which type of respiratory acidosis?",
       "choices": [
-        "Auto-PEEP enhances venous return",
-        "Hyperinflation reduces venous return",
-        "Auto-PEEP improves cardiac output",
-        "Auto-PEEP raises preload",
-        "Auto-PEEP has no hemodynamic effect"
+        "Acute respiratory acidosis presenting with altered mental status",
+        "Chronic respiratory acidosis discovered incidentally on lab testing",
+        "Respiratory alkalosis from hyperventilation",
+        "Mixed metabolic alkalosis and respiratory acidosis",
+        "Acute respiratory acidosis with markedly elevated bicarbonate"
       ],
-      "answer": 1,
+      "answer": 0,
       "explanations": [
-        "Incorrect. Reverse — auto-PEEP reduces venous return.",
-        "Correct. AUTO-PEEP (intrinsic PEEP, dynamic hyperinflation) — incomplete exhalation in obstructive disease produces progressive lung hyperinflation, raising mean intrathoracic pressure, REDUCING venous return, and producing hypotension (sometimes shock-like, mimicking PE or cardiac tamponade). Strategy: disconnect ventilator briefly (allowing chest recoil); reduce respiratory rate, allow longer expiratory time; reduce tidal volume; bronchodilators; permissive hypercapnia. Differs from extrinsic PEEP which is set by the ventilator.",
-        "Incorrect. Reverse.",
-        "Incorrect. Auto-PEEP reduces preload.",
-        "Incorrect. Major hemodynamic effects."
+        "Correct. The brick describes a common acute presentation as patients found with altered mental status in the middle of the night, with ABG showing acidosis and hypercapnia.",
+        "Incorrect. Chronic respiratory acidosis tends to be more or less incidentally discovered in mostly asymptomatic patients, not acutely altered.",
+        "Incorrect. Respiratory alkalosis would not present with hypercapnic acidosis.",
+        "Incorrect. The brick frames this as an acute respiratory acidosis, not a mixed disorder.",
+        "Incorrect. In acute respiratory acidosis bicarbonate is normal or only minimally elevated."
       ]
     },
     {
       "id": 21,
-      "stem": "A 28-year-old researcher considers respiratory acidosis effects on intracranial pressure. Which best characterizes the effect of acute hypercapnia on cerebral blood flow?",
+      "stem": "A 35-year-old man with botulism develops weak respirations. According to the brick, this represents which subcategory of impaired ventilation?",
       "choices": [
-        "Cerebral vasoconstriction lowering ICP",
-        "Cerebral vasodilation raising ICP",
-        "No effect on cerebral vessels",
-        "Direct neurotoxicity from CO2",
-        "Acute cerebral infarction"
+        "Decreased respiratory drive",
+        "Decreased respiratory muscle function",
+        "Upper airway obstruction",
+        "CO2 trapping",
+        "Impaired diffusion barrier"
       ],
       "answer": 1,
       "explanations": [
-        "Incorrect. Hypercapnia DILATES cerebral vessels, not constricts.",
-        "Correct. Acute hypercapnia is a powerful CEREBRAL VASODILATOR — increases cerebral blood flow and intracranial pressure. Conversely, hyperventilation (lowering PCO2) reduces CBF and ICP. Used acutely (not as long-term strategy) in elevated ICP from TBI; chronic hyperventilation is harmful (cerebral ischemia from sustained vasoconstriction). Avoid permissive hypercapnia in patients with elevated ICP. Other features of severe hypercapnia: confusion, drowsiness, coma (CO2 narcosis at very high PCO2), papilledema in chronic cases.",
-        "Incorrect. CO2 markedly affects cerebral vessels.",
-        "Incorrect. Not direct toxicity at clinical levels.",
-        "Incorrect. Not principally infarction."
+        "Incorrect. Decreased respiratory drive is associated with opioids, sedatives, alcohol, OHS, and central sleep apnea.",
+        "Correct. The brick lists botulism among the neuromuscular causes (myasthenia gravis, ALS, diaphragm paralysis, GBS, muscular dystrophy, botulism) of decreased respiratory muscle function leading to reduced tidal volume.",
+        "Incorrect. Upper airway obstruction refers to OSA and foreign body aspiration in the brick.",
+        "Incorrect. CO2 trapping refers to asthma and COPD exacerbations.",
+        "Incorrect. Impaired diffusion barrier refers to pulmonary fibrosis and emphysema."
       ]
     },
     {
       "id": 22,
-      "stem": "A 70-year-old man with chronic CO2 retention from COPD is unconscious in the ED. The team suspects 'CO2 narcosis.' Which PCO2 level typically produces this state?",
-      "choices": ["PCO2 45", "PCO2 50", "PCO2 70+", "PCO2 30", "PCO2 normal"],
-      "answer": 2,
+      "stem": "A medical student is asked which of the following best describes the renal compensation for respiratory acidosis. Based on the brick, the correct answer is:",
+      "choices": [
+        "The blood pH becomes alkalemic",
+        "The blood pH corrects all the way to 7.40",
+        "The serum bicarbonate falls, more in acute disease",
+        "The serum bicarbonate rises, more in acute disease",
+        "The serum bicarbonate rises, more in chronic disease"
+      ],
+      "answer": 4,
       "explanations": [
-        "Incorrect. 45 is mildly elevated and rarely produces narcosis.",
-        "Incorrect. 50 is mildly elevated.",
-        "Correct. CO2 narcosis — depressed mental status from severe hypercapnia, typically PCO2 >70–80 in patients without prior chronic adaptation. Chronic CO2 retainers may tolerate higher levels without narcosis (renal compensation buffers the pH). Acute rises (e.g., excessive O2 in COPD, oversedation, weaning failure) produce more dramatic neurologic effects. Other features: tremor, asterixis, headache, papilledema (in severe chronic), confusion, somnolence, coma. Treatment: address underlying cause; ventilatory support; correct precipitating factors.",
-        "Incorrect. 30 is hypocapnia.",
-        "Incorrect. Normal is not associated with narcosis."
+        "Incorrect. The pH corrects toward, but does not exceed, normal because the primary respiratory disorder persists.",
+        "Incorrect. The pH does not return all the way to 7.40 because the primary disorder persists.",
+        "Incorrect. Bicarbonate rises with compensation, and the rise is greater in chronic, not acute, disease.",
+        "Incorrect. Bicarbonate does rise but the rise is greater with chronic disease, not acute.",
+        "Correct. The kidney generates new bicarbonate, raising serum HCO3- and pH toward normal; this takes hours to days, so it is most pronounced in chronic respiratory acidosis."
       ]
     },
     {
       "id": 23,
-      "stem": "A 45-year-old man with morbid obesity is to undergo elective surgery. Preoperative ABG shows pH 7.40, PCO2 50, HCO3− 30. Which best characterizes the perioperative respiratory risk?",
+      "stem": "A 70-year-old man with chronic kidney disease who recently had abdominal surgery is found somnolent at midnight with pinpoint pupils and a respiratory rate of 9. He has been on IV morphine for pain. ABG and BMP confirm respiratory acidosis. According to the brick, which intervention provides definitive management of the cause of his respiratory acidosis?",
       "choices": [
-        "Risk is low",
-        "Increased postoperative respiratory failure risk",
-        "Surgery is contraindicated",
-        "Use sedation freely",
-        "Encourage extubation early"
+        "Intravenous sodium bicarbonate",
+        "Emergency dialysis",
+        "Naloxone",
+        "Bilevel positive airway pressure (BiPAP)",
+        "High-dose inhaled bronchodilators"
       ],
-      "answer": 1,
+      "answer": 2,
       "explanations": [
-        "Incorrect. Risk is significant.",
-        "Correct. OHS / chronic CO2 retention raises perioperative respiratory failure risk. Strategies: optimize preoperative NIV / weight reduction; minimize sedation, especially long-acting opioids and benzodiazepines; multimodal pain control with regional anesthesia where possible; postoperative NIV (continued home BiPAP); cautious extubation with NIV bridge; close postoperative monitoring (telemetry, SpO2, end-tidal CO2). Other risks: aspiration, OSA, difficult airway.",
-        "Incorrect. Surgery is not absolutely contraindicated.",
-        "Incorrect. Sedation should be MINIMIZED.",
-        "Incorrect. Premature extubation is a recognized risk."
+        "Incorrect. The brick notes that IV sodium bicarbonate produces only a small transient pH rise and risks raising the CO2 level further.",
+        "Incorrect. The brick states emergency dialysis will not treat the hypercapnia.",
+        "Correct. Naloxone is a competitive opioid receptor antagonist that quickly reverses opioid effects within 1-2 minutes, treating the underlying cause of the acidosis.",
+        "Incorrect. The brick states BiPAP increases ventilation but does not treat the underlying opioid toxicity.",
+        "Incorrect. Bronchodilators do not address opioid-induced hypoventilation."
       ]
     },
     {
       "id": 24,
-      "stem": "A 60-year-old woman with COPD has chronic respiratory acidosis. Her PCO2 is 55. Which renal mechanism principally compensates over the chronic timeframe?",
+      "stem": "A medical student reads that high CO2 in the brain produces several CNS effects in respiratory acidosis. According to the brick, which of the following is a direct CNS consequence of elevated CO2 cited in the brick's pathophysiology of altered mental status?",
       "choices": [
-        "Increased GFR",
-        "Increased H+ secretion and NH4+ excretion",
-        "Increased aldosterone alone",
-        "Increased renal HCO3− loss",
-        "Decreased K+ secretion"
+        "Cerebral vasoconstriction reducing intracranial pressure",
+        "Decreased CSF pH that alters sodium and calcium channels and neurotransmitter activity",
+        "Direct neuronal toxicity from hyperoxia",
+        "Increased cerebral perfusion pressure due to vasodilation",
+        "Stimulation of voluntary respiratory pathways"
       ],
       "answer": 1,
       "explanations": [
-        "Incorrect. GFR is not the principal mechanism.",
-        "Correct. Chronic respiratory acidosis → kidneys upregulate H+ secretion and NH4+ excretion (PCT ammoniagenesis), generating 'new' HCO3− added to plasma. Adaptation requires ~3–5 days to develop fully. Compensation: HCO3− rises by ~3.5 mEq/L per 10 mm Hg PCO2 elevation. Same machinery compensates for chronic metabolic acidosis or generates HCO3− to defend against an acid load. Loss of this compensation in CKD contributes to chronic metabolic acidosis.",
-        "Incorrect. Aldosterone has secondary contribution.",
-        "Incorrect. Loss would WORSEN acidosis.",
-        "Incorrect. K+ secretion increases (with the H+ secretion driven by the lumen-negative voltage)."
+        "Incorrect. The brick states high CO2 produces cerebral vasodilation, increasing (not decreasing) intracranial pressure.",
+        "Correct. The brick states high CO2 in the brain drops the CSF pH, which alters sodium and calcium channels and affects neurotransmitter activity, contributing to altered mental status.",
+        "Incorrect. The brick describes hypercapnia, not hyperoxia, and does not cite direct neuronal toxicity.",
+        "Incorrect. The brick states cerebral vasodilation increases intracranial pressure, which then decreases cerebral perfusion pressure.",
+        "Incorrect. The brick does not describe stimulation of voluntary respiratory pathways."
       ]
     },
     {
       "id": 25,
-      "stem": "A 30-year-old researcher reviews the principal causes of respiratory acidosis. Which best classifies the etiologies?",
+      "stem": "A 5-year-old child aspirates a small toy and develops acute respiratory distress with hypercapnia. According to the brick's classification, this scenario represents respiratory acidosis from which mechanism?",
       "choices": [
-        "Only COPD",
-        "Airway, lung, neuromuscular, CNS",
-        "Only CNS depression",
-        "Only neuromuscular disease",
-        "Cardiac disease"
+        "Decreased respiratory drive",
+        "Decreased respiratory muscle function",
+        "Decreased ventilation due to upper airway obstruction",
+        "Impaired alveolar diffusion barrier",
+        "Alveolar filling defect"
       ],
-      "answer": 1,
+      "answer": 2,
       "explanations": [
-        "Incorrect. Multiple causes.",
-        "Correct. Respiratory acidosis causes group as: (1) AIRWAY — COPD, asthma, foreign body, laryngeal edema; (2) PARENCHYMAL — pneumonia, ARDS, severe pulmonary edema, severe pulmonary embolism; (3) NEUROMUSCULAR — myasthenia, GBS, ALS, spinal cord injury, botulism, organophosphate, succinylcholine; (4) CHEST WALL — kyphoscoliosis, severe obesity, ankylosing spondylitis, flail chest; (5) CNS DEPRESSION — opioids, benzodiazepines, barbiturates, alcohol, anesthesia; (6) IATROGENIC — under-ventilation on the ventilator, permissive hypercapnia. Recognition guides specific therapy (intubation, NIV, naloxone, plasma exchange, etc.).",
-        "Incorrect. CNS is one category, not exclusive.",
-        "Incorrect. Same.",
-        "Incorrect. Cardiac is rarely the principal cause."
+        "Incorrect. Decreased drive applies to opioids, sedatives, alcohol, OHS, and central sleep apnea.",
+        "Incorrect. Respiratory muscle weakness applies to neuromuscular diseases like myasthenia gravis or GBS.",
+        "Correct. The brick states tidal volume can be decreased by upper airway obstruction in obstructive sleep apnea and foreign body aspiration.",
+        "Incorrect. Impaired diffusion barrier applies to pulmonary fibrosis and emphysema.",
+        "Incorrect. Alveolar filling defects describe pneumonia and pulmonary edema, not foreign body aspiration."
       ]
     }
   ]

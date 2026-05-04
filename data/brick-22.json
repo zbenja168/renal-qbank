@@ -4,417 +4,411 @@
   "questions": [
     {
       "id": 1,
-      "stem": "A 46-year-old woman comes to the emergency department with palpitations and muscle cramps. She admits to taking her husband's furosemide for ankle swelling. Serum potassium is 2.6 mEq/L. Which classification of hypokalemia best fits this value?",
-      "choices": ["Mild (3.0–3.5)", "Moderate (2.5–3.0)", "Severe (<2.5)", "Pseudohypokalemia", "Within normal limits"],
-      "answer": 1,
+      "stem": "A 46-year-old woman presents to the emergency department with palpitations and muscle cramps after taking her husband's prescription water pills for leg swelling. Her serum potassium is 2.1 mEq/L. At what serum potassium threshold is hypokalemia clinically defined?",
+      "choices": ["<5.0 mEq/L", "<4.5 mEq/L", "<4.0 mEq/L", "<3.5 mEq/L", "<3.0 mEq/L"],
+      "answer": 3,
       "explanations": [
-        "Incorrect. Mild hypokalemia is 3.0–3.5 mEq/L; this patient is 2.6.",
-        "Correct. Moderate hypokalemia is conventionally defined as serum K+ 2.5–3.0 mEq/L.",
-        "Incorrect. Severe hypokalemia is <2.5 mEq/L; symptoms typically appear at this level.",
-        "Incorrect. Pseudohypokalemia (e.g., from leukemic cells consuming K+ in vitro) is uncommon.",
-        "Incorrect. Normal K+ is 3.5–5.0 mEq/L."
+        "Incorrect. 5.0 mEq/L is within the normal serum K+ range.",
+        "Incorrect. 4.5 mEq/L is within the normal serum K+ range.",
+        "Incorrect. 4.0 mEq/L is within the normal serum K+ range.",
+        "Correct. Hypokalemia is clinically defined as a serum potassium level <3.5 mEq/L.",
+        "Incorrect. <3.0 mEq/L is the threshold below which symptoms typically appear, not the diagnostic cutoff for hypokalemia itself."
       ]
     },
     {
       "id": 2,
-      "stem": "A 30-year-old man with diabetic ketoacidosis is started on IV insulin. Within 90 minutes, his serum potassium falls from 4.8 to 3.2 mEq/L despite no urinary losses. Which mechanism best explains the drop?",
-      "choices": ["Aldosterone surge", "Insulin-driven cellular shift", "Renal K+ wasting", "Direct GI loss", "Pseudohypokalemia"],
-      "answer": 1,
+      "stem": "A 70-year-old man on hydrochlorothiazide for hypertension has a routine serum potassium of 3.2 mEq/L but reports no symptoms. Below what serum potassium level do patients generally begin to complain of symptoms?",
+      "choices": ["3.5 mEq/L", "3.3 mEq/L", "3.0 mEq/L", "2.5 mEq/L", "2.0 mEq/L"],
+      "answer": 2,
       "explanations": [
-        "Incorrect. Aldosterone is not the principal acute mechanism with insulin.",
-        "Correct. Insulin activates the basolateral Na+/K+-ATPase in skeletal muscle and other tissues, shifting K+ INTO cells. K+ supplementation is routine when treating DKA.",
-        "Incorrect. The change is too rapid for renal wasting; transcellular shift is the mechanism.",
-        "Incorrect. No GI losses described.",
-        "Incorrect. The fall is real, not artifactual."
+        "Incorrect. 3.5 mEq/L is the cutoff for the diagnosis of hypokalemia itself; mild hypokalemia (3.0-3.5) is most often asymptomatic.",
+        "Incorrect. Mild hypokalemia in the 3.0-3.5 range is typically asymptomatic.",
+        "Correct. Patients do not generally complain of symptoms until serum K+ falls below 3.0 mEq/L.",
+        "Incorrect. <2.5 mEq/L is the threshold for very severe hypokalemia with risk of cardiac arrest and rhabdomyolysis, not the threshold at which symptoms first appear.",
+        "Incorrect. By 2.0 mEq/L, patients are nearly always profoundly symptomatic; symptoms begin much earlier."
       ]
     },
     {
       "id": 3,
-      "stem": "A 62-year-old man with severe asthma is given high-dose nebulized albuterol every 20 minutes. After 3 doses his serum potassium falls from 4.2 to 3.0 mEq/L. Which mechanism best explains this?",
-      "choices": [
-        "β2-agonist activates Na+/K+-ATPase",
-        "Albuterol increases urinary K+ excretion",
-        "Bronchospasm consumes K+",
-        "Albuterol triggers vomiting",
-        "Asthma directly lowers K+"
-      ],
-      "answer": 0,
+      "stem": "A 58-year-old woman with chronic alcohol use is admitted with serum K+ of 2.3 mEq/L. She develops diffuse muscle pain, and creatine kinase is markedly elevated. Below what potassium threshold do very severe complications such as cardiac arrest and rhabdomyolysis typically occur?",
+      "choices": ["<3.5 mEq/L", "<3.3 mEq/L", "<3.0 mEq/L", "<2.5 mEq/L", "<2.0 mEq/L"],
+      "answer": 3,
       "explanations": [
-        "Correct. β2-agonists stimulate Na+/K+-ATPase in skeletal muscle (via cAMP), driving K+ into cells. The same mechanism is exploited acutely to treat hyperkalemia.",
-        "Incorrect. β2-agonists do not principally increase renal K+ excretion.",
-        "Incorrect. Bronchospasm does not consume K+.",
-        "Incorrect. Albuterol does not principally cause vomiting at this dose.",
-        "Incorrect. Asthma per se does not lower K+."
+        "Incorrect. <3.5 mEq/L defines hypokalemia but is most often asymptomatic.",
+        "Incorrect. The 3.0-3.5 range is mild hypokalemia and rarely produces severe complications.",
+        "Incorrect. Below 3.0 mEq/L symptoms appear, but severe complications like cardiac arrest occur at lower levels.",
+        "Correct. Very severe hypokalemia (usually <2.5 mEq/L) carries the risk of cardiac arrest from arrhythmias and overt muscle pain from rhabdomyolysis.",
+        "Incorrect. The brick specifies <2.5 mEq/L, not <2.0 mEq/L, as the threshold for very severe complications."
       ]
     },
     {
       "id": 4,
-      "stem": "A 25-year-old woman is admitted for severe metabolic alkalosis (HCO3− 38) from chronic vomiting. Serum potassium is 2.8 mEq/L despite supplementation. Which mechanism best explains how alkalosis lowers serum K+?",
+      "stem": "A 32-year-old woman with severe asthma uses her albuterol inhaler frequently during an exacerbation. Her serum potassium drops from 4.2 to 3.2 mEq/L, although her total body K+ stores are normal. Which mechanism best explains her hypokalemia?",
       "choices": [
-        "Alkalosis stimulates aldosterone synthesis",
-        "Alkalosis inhibits NKCC2",
-        "Alkalosis drives K+ into cells",
-        "Alkalosis enhances GI K+ loss",
-        "Alkalosis is unrelated to K+"
+        "Direct renal K+ wasting from beta-2 agonist",
+        "Stimulation of Na+/K+-ATPase shifting K+ into cells",
+        "Aldosterone-driven cortical collecting duct K+ secretion",
+        "Loss of K+ in respiratory secretions",
+        "Decreased intestinal absorption of K+"
       ],
-      "answer": 2,
+      "answer": 1,
       "explanations": [
-        "Incorrect. Aldosterone may rise from volume depletion, but the cellular shift is direct.",
-        "Incorrect. Alkalosis does not inhibit NKCC2.",
-        "Correct. In alkalosis, intracellular H+ moves out of cells (down the gradient) and K+ moves IN to preserve electroneutrality. Acidosis does the reverse.",
-        "Incorrect. GI K+ loss is not the principal mechanism for alkalosis-driven hypokalemia.",
-        "Incorrect. Alkalosis is closely linked to hypokalemia."
+        "Incorrect. Beta-agonists do not primarily cause renal K+ wasting; their effect is intracellular shifting.",
+        "Correct. Beta-adrenergic stimulation activates the Na+/K+-ATPase, driving K+ into cells and producing hypokalemia even when total body K+ is normal.",
+        "Incorrect. Aldosterone is not the mediator of beta-agonist-induced hypokalemia; the mechanism is intracellular shifting.",
+        "Incorrect. Respiratory secretions are not a meaningful route of K+ loss.",
+        "Incorrect. K+ is normally easily absorbed in the small intestine; albuterol does not impair this."
       ]
     },
     {
       "id": 5,
-      "stem": "A 68-year-old woman on chronic furosemide for heart failure has serum K+ 2.9 mEq/L. Which mechanism best explains her hypokalemia?",
+      "stem": "A 60-year-old woman with type 2 diabetes is given an insulin infusion for hyperglycemia. One hour later her serum K+ falls from 4.0 to 3.1 mEq/L. Which mechanism is responsible for her hypokalemia?",
       "choices": [
-        "Direct ROMK blockade by furosemide",
-        "Increased distal Na+ delivery and aldosterone",
-        "Reduced GFR",
-        "Direct GI K+ loss",
-        "Alkalosis-induced cellular shift only"
+        "Increased renal K+ excretion",
+        "Diarrhea induced by insulin",
+        "Stimulation of Na+/K+-ATPase shifting K+ intracellularly",
+        "Aldosterone secretion from the adrenal cortex",
+        "Decreased K+ absorption from the gut"
       ],
-      "answer": 1,
+      "answer": 2,
       "explanations": [
-        "Incorrect. Furosemide does not block ROMK directly; the mechanism is upstream.",
-        "Correct. Loop diuretics block NKCC2 in the TAL, increasing distal Na+ delivery to the collecting duct; volume contraction activates aldosterone, which drives ENaC and ROMK in principal cells. The combination produces brisk renal K+ wasting.",
-        "Incorrect. Reduced GFR would tend to RETAIN K+, not lose it.",
-        "Incorrect. No GI losses described.",
-        "Incorrect. The alkalosis contributes but is secondary to the renal wasting mechanism."
+        "Incorrect. Insulin does not cause renal K+ wasting; its effect is intracellular shifting.",
+        "Incorrect. Insulin does not cause diarrhea or any meaningful GI K+ loss.",
+        "Correct. Insulin stimulates the Na+/K+-ATPase, driving K+ into cells and causing hypokalemia even with normal total body K+.",
+        "Incorrect. Insulin does not act through aldosterone to lower serum K+.",
+        "Incorrect. Insulin does not impair intestinal K+ absorption."
       ]
     },
     {
       "id": 6,
-      "stem": "A 70-year-old hypertensive man on hydrochlorothiazide develops K+ 2.7 mEq/L. Which mechanism most directly causes thiazide-related hypokalemia?",
+      "stem": "A 38-year-old woman with persistent vomiting from gastroparesis has a serum K+ of 2.8 mEq/L. Although gastric fluid contains relatively little potassium, she is severely hypokalemic. Which mechanism is the major contributor to her renal K+ wasting?",
       "choices": [
-        "NCC blockade increases distal Na+ delivery",
-        "Direct ENaC inhibition",
-        "Reduced aldosterone secretion",
-        "Decreased GFR",
-        "Increased GI K+ loss"
+        "Direct loss of K+ in the vomitus due to its very high K+ concentration",
+        "Volume depletion stimulating aldosterone, which drives renal K+ secretion",
+        "Acidemia shifting K+ out of cells into the urine",
+        "Decreased intestinal K+ absorption from gastric atony",
+        "Loss of magnesium in vomitus inhibiting ROMK"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanations": [
-        "Correct. Thiazides block NCC in the early DCT, increasing Na+ delivery to the collecting duct; volume contraction raises aldosterone, which drives ENaC-dependent K+ secretion via ROMK. Net effect is renal K+ wasting.",
-        "Incorrect. Thiazides do not block ENaC; that is amiloride.",
-        "Incorrect. Aldosterone is INCREASED, not decreased.",
-        "Incorrect. Thiazides do not principally lower GFR.",
-        "Incorrect. GI loss is not the mechanism."
+        "Incorrect. Upper GI fluid has only 10-15 mEq/L of K+, so direct loss in vomitus is small; the main loss is renal.",
+        "Correct. Vomiting causes volume depletion and metabolic alkalosis; aldosterone stimulation, HCl loss, and chloride depletion (causing bicarbonaturia and increased distal Na+ delivery) drive renal K+ wasting.",
+        "Incorrect. Vomiting causes alkalemia, not acidemia, and the alkalemia shifts K+ into cells rather than out.",
+        "Incorrect. Vomiting does not significantly impair K+ absorption in the gut.",
+        "Incorrect. Magnesium is not preferentially lost in vomitus; this mechanism is more relevant to diarrhea."
       ]
     },
     {
       "id": 7,
-      "stem": "A 35-year-old woman with anorexia nervosa and frequent self-induced vomiting has K+ 2.5 mEq/L, HCO3− 36 mEq/L, and urine K+ 50 mEq/L (high). Which best explains the high urinary K+ despite vomiting?",
+      "stem": "A 25-year-old man with chronic infectious diarrhea has a serum K+ of 2.7 mEq/L. Why does diarrhea, but not a comparable volume of vomiting, cause direct GI loss of potassium sufficient to produce hypokalemia?",
       "choices": [
-        "Direct K+ loss in gastric fluid",
-        "Aldosterone-driven renal wasting from volume depletion",
-        "Acidosis-induced K+ shift",
-        "Pseudohypokalemia",
-        "Bartter syndrome"
+        "Lower GI fluid contains 30-90 mEq/L of K+, while upper GI fluid contains only 10-15 mEq/L",
+        "Diarrhea selectively activates aldosterone while vomiting does not",
+        "Diarrhea blocks intestinal Na+/K+-ATPase",
+        "Lower GI fluid is acidic and shifts K+ out of cells",
+        "Diarrhea increases ENaC activity in the colon"
       ],
-      "answer": 1,
+      "answer": 0,
       "explanations": [
-        "Incorrect. Gastric K+ is only ~10–15 mEq/L; direct GI loss is small.",
-        "Correct. Vomiting causes volume contraction → aldosterone activation → renal K+ wasting. Concurrent loss of HCl produces metabolic alkalosis, which also drives K+ into cells. The kidney is the principal route of K+ loss in vomiting.",
-        "Incorrect. The patient has alkalosis, not acidosis.",
-        "Incorrect. The hypokalemia is real.",
-        "Incorrect. Bartter has similar labs but no vomiting history; the case here is clearly behavioral."
+        "Correct. Lower GI fluid is rich in K+ (30-90 mEq/L) compared with upper GI fluid (10-15 mEq/L), so diarrhea directly depletes potassium with little time for reabsorption.",
+        "Incorrect. Both vomiting and diarrhea cause volume depletion that activates aldosterone; the key difference is the K+ content of the fluid.",
+        "Incorrect. The brick does not implicate blockade of intestinal Na+/K+-ATPase as the mechanism.",
+        "Incorrect. The brick does not describe stool acidity shifting K+ out of cells in this context.",
+        "Incorrect. Increased ENaC activity is not described as the mechanism of diarrheal hypokalemia in the brick."
       ]
     },
     {
       "id": 8,
-      "stem": "A 22-year-old man returning from a backpacking trip has watery diarrhea for 5 days, K+ 2.8, HCO3− 18, and a non-anion-gap metabolic acidosis. Which best explains the hypokalemia?",
+      "stem": "A 65-year-old man with congestive heart failure is started on furosemide. Two weeks later his serum K+ is 3.0 mEq/L. Through which combination of mechanisms do loop diuretics produce hypokalemia?",
       "choices": [
-        "Stool K+ losses",
-        "Vomiting-induced alkalosis",
-        "Primary hyperaldosteronism",
-        "Liddle syndrome",
-        "Type 1 distal RTA"
+        "Direct blockade of K+ reabsorption in the proximal tubule",
+        "Increased urine flow plus volume depletion-driven aldosterone, both enhancing K+ secretion",
+        "Inhibition of the Na+/K+-ATPase in tubular cells",
+        "Blockade of ENaC in the principal cell",
+        "Inhibition of aldosterone receptors in the collecting duct"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanations": [
-        "Correct. Diarrhea fluid is rich in K+ and bicarbonate. Direct stool K+ loss combined with HCO3− loss produces hypokalemic non-anion-gap metabolic acidosis. Distinguishes from vomiting (alkalosis).",
-        "Incorrect. The acidosis (HCO3− 18) is opposite of the alkalosis seen in vomiting.",
-        "Incorrect. Conn syndrome features hypertension and alkalosis.",
-        "Incorrect. Liddle features hypertension and alkalosis.",
-        "Incorrect. Type 1 RTA can cause hypokalemic acidosis but is not preceded by acute travel-related diarrhea."
+        "Incorrect. Loop diuretics inhibit the Na+/K+/2Cl- cotransporter, not proximal K+ reabsorption directly.",
+        "Correct. Loop diuretics increase urine flow and produce volume depletion, which stimulates aldosterone; both effects enhance distal K+ secretion and cause hypokalemia.",
+        "Incorrect. Loops do not inhibit the Na+/K+-ATPase.",
+        "Incorrect. Blocking ENaC (e.g., amiloride) is potassium-sparing, not potassium-wasting.",
+        "Incorrect. Blocking aldosterone receptors (e.g., spironolactone) is potassium-sparing."
       ]
     },
     {
       "id": 9,
-      "stem": "A 38-year-old man has sustained hypertension, hypokalemia (K+ 2.9), suppressed plasma renin, and elevated plasma aldosterone. CT shows a 2 cm right adrenal mass. Which is the most likely diagnosis?",
-      "choices": ["Cushing syndrome", "Liddle syndrome", "Conn syndrome", "Bartter syndrome", "Renal artery stenosis"],
-      "answer": 2,
+      "stem": "A 55-year-old man with heart failure on furosemide has recurrent hypokalemia despite oral potassium supplementation. His cardiologist adds spironolactone, both for additional heart failure benefit and to prevent hypokalemia. By what mechanism does spironolactone raise serum K+?",
+      "choices": [
+        "Direct stimulation of intestinal K+ absorption",
+        "Blockade of the Na+/K+/2Cl- cotransporter",
+        "Blockade of the Na+/Cl- cotransporter (NCC)",
+        "Blockade of aldosterone activity in the collecting duct",
+        "Direct blockade of ENaC in the principal cell"
+      ],
+      "answer": 3,
       "explanations": [
-        "Incorrect. Cushing features cortisol excess with characteristic body habitus.",
-        "Incorrect. Liddle has SUPPRESSED renin AND aldosterone.",
-        "Correct. Conn syndrome (primary hyperaldosteronism, often from an adrenal adenoma) produces hypertension with hypokalemic alkalosis, suppressed renin, and elevated aldosterone.",
-        "Incorrect. Bartter has normal-low BP and elevated renin.",
-        "Incorrect. RAS has elevated renin and elevated aldosterone (secondary)."
+        "Incorrect. Spironolactone does not act on the intestine.",
+        "Incorrect. The Na+/K+/2Cl- cotransporter is the target of loop diuretics, which cause K+ wasting.",
+        "Incorrect. The NCC is the target of thiazides, which are also K+-wasting.",
+        "Correct. Spironolactone blocks aldosterone activity in the collecting duct, causing the body to retain K+ and preventing hypokalemia from concurrent loop diuretic therapy.",
+        "Incorrect. Amiloride (and triamterene), not spironolactone, directly block ENaC."
       ]
     },
     {
       "id": 10,
-      "stem": "A 24-year-old man with severe hypertension since age 18, hypokalemia, and suppressed renin AND suppressed aldosterone has a strong family history of early-onset HTN. Which is the most likely diagnosis?",
-      "choices": ["Conn syndrome", "Liddle syndrome", "Bartter syndrome", "Gitelman syndrome", "Renin-secreting tumor"],
+      "stem": "A 35-year-old woman is found to have hypertension, serum K+ of 2.9 mEq/L, and elevated plasma aldosterone with suppressed renin. Which feature distinguishes primary hyperaldosteronism from most other causes of hypokalemia?",
+      "choices": [
+        "Concurrent hypocalcemia",
+        "Hypertension due to sodium retention",
+        "Hypotension from volume depletion",
+        "Metabolic acidosis with normal anion gap",
+        "Profound hypomagnesemia"
+      ],
       "answer": 1,
       "explanations": [
-        "Incorrect. Conn has high aldosterone.",
-        "Correct. Liddle syndrome — autosomal-dominant gain-of-function mutation in ENaC. Constitutive Na+ reabsorption produces hypertension, hypokalemia, and SUPPRESSED renin/aldosterone (volume expansion suppresses both). Treat with amiloride or triamterene; spironolactone is INEFFECTIVE.",
-        "Incorrect. Bartter has normal-low BP and elevated renin/aldosterone.",
-        "Incorrect. Gitelman has normal-low BP and elevated renin/aldosterone.",
-        "Incorrect. Renin-secreting tumor would have HIGH renin."
+        "Incorrect. The brick does not list hypocalcemia as a distinguishing feature of primary hyperaldosteronism.",
+        "Correct. Unlike most other causes of hypokalemia, primary hyperaldosteronism presents with hypertension because of the sodium-retaining effects of aldosterone.",
+        "Incorrect. Hypotension/volume depletion is characteristic of vomiting, diarrhea, and diuretic use; aldosterone excess causes the opposite.",
+        "Incorrect. Normal anion gap metabolic acidosis with hypokalemia is the clue for renal tubular acidosis, not primary hyperaldosteronism.",
+        "Incorrect. Hypomagnesemia is not the key distinguishing feature of primary hyperaldosteronism in this brick."
       ]
     },
     {
       "id": 11,
-      "stem": "A 7-year-old boy with growth retardation, salt craving, hypokalemic alkalosis, hypomagnesemia, HYPERcalciuria, and elevated renin/aldosterone is being evaluated. Which is the most likely diagnosis?",
-      "choices": ["Bartter syndrome", "Gitelman syndrome", "Liddle syndrome", "Conn syndrome", "Type 1 RTA"],
-      "answer": 0,
+      "stem": "A 28-year-old woman presents with chronic mild hypokalemia (K+ 3.0 mEq/L), metabolic alkalosis, and normal blood pressure. Genetic testing reveals a loss-of-function mutation in SLC12A3. Which transporter does this gene encode, and which diuretic does the syndrome mimic?",
+      "choices": [
+        "Na+/K+/2Cl- cotransporter; loop diuretic",
+        "Na+/Cl- cotransporter (NCC); thiazide diuretic",
+        "ENaC; amiloride",
+        "ROMK; spironolactone",
+        "Na+/H+ exchanger; acetazolamide"
+      ],
+      "answer": 1,
       "explanations": [
-        "Correct. Bartter is loss-of-function in TAL transporters (NKCC2, ROMK, ClC-Kb, barttin) — phenocopies chronic loop diuretic use. Hallmarks: hypokalemic alkalosis, HYPERcalciuria (loss of TAL lumen-positive voltage that drives paracellular Ca2+ reabsorption), normal-low BP, severe presentation in childhood.",
-        "Incorrect. Gitelman has HYPOcalciuria and milder, later presentation.",
-        "Incorrect. Liddle has HYPERtension and suppressed renin/aldosterone.",
-        "Incorrect. Conn has hypertension.",
-        "Incorrect. Type 1 RTA has acidosis, not alkalosis."
+        "Incorrect. The Na+/K+/2Cl- cotransporter is affected in Bartter syndrome, which mimics a loop diuretic.",
+        "Correct. SLC12A3 encodes the Na+/Cl- cotransporter (NCC); loss-of-function causes Gitelman syndrome, which mimics the phenotype of thiazide diuretic use.",
+        "Incorrect. ENaC mutations are associated with Liddle syndrome, not SLC12A3.",
+        "Incorrect. ROMK is not encoded by SLC12A3, and spironolactone is not mimicked by Gitelman syndrome.",
+        "Incorrect. SLC12A3 does not encode a Na+/H+ exchanger."
       ]
     },
     {
       "id": 12,
-      "stem": "A 22-year-old woman presents with chronic fatigue, hypokalemic alkalosis, hypomagnesemia, HYPOcalciuria, and normal blood pressure with elevated renin and aldosterone. Which is the most likely diagnosis?",
-      "choices": ["Bartter syndrome", "Gitelman syndrome", "Liddle syndrome", "Conn syndrome", "Renal artery stenosis"],
-      "answer": 1,
+      "stem": "A 7-year-old boy is found to have polyuria, hypokalemia, metabolic alkalosis, and normal-to-low blood pressure. The pediatric nephrologist explains the disorder behaves as if the patient were taking a loop diuretic. Which condition is most consistent with this description?",
+      "choices": ["Bartter syndrome", "Gitelman syndrome", "Liddle syndrome", "Primary hyperaldosteronism", "Type 1 renal tubular acidosis"],
+      "answer": 0,
       "explanations": [
-        "Incorrect. Bartter has HYPERcalciuria and presents in childhood.",
-        "Correct. Gitelman is loss-of-function in NCC — phenocopies chronic thiazide use. Hallmarks: hypokalemic alkalosis, HYPOcalciuria (the distinguishing lab from Bartter), hypomagnesemia, normal-low BP, milder presentation in adolescence/young adulthood.",
-        "Incorrect. Liddle has hypertension and suppressed renin/aldosterone.",
-        "Incorrect. Conn has hypertension.",
-        "Incorrect. RAS has hypertension and is renovascular."
+        "Correct. Bartter syndrome behaves like a loop diuretic, producing hypokalemia and metabolic alkalosis without hypertension.",
+        "Incorrect. Gitelman syndrome behaves like a thiazide diuretic, not a loop.",
+        "Incorrect. Liddle syndrome involves a permanently open ENaC and presents with hypertension and hypokalemia.",
+        "Incorrect. Primary hyperaldosteronism causes hypertension; Bartter is the loop-diuretic-mimicking disorder described here.",
+        "Incorrect. Type 1 RTA produces hypokalemia with normal anion gap acidosis, not metabolic alkalosis."
       ]
     },
     {
       "id": 13,
-      "stem": "A 28-year-old woman with Sjögren syndrome has K+ 2.5 mEq/L, HCO3− 14, and urine pH 6.5 despite the systemic acidosis. Plasma anion gap is normal. Which best explains her hypokalemia?",
-      "choices": ["Type 1 distal RTA", "Type 2 proximal RTA", "Type 4 RTA", "Bartter syndrome", "Vomiting"],
-      "answer": 0,
+      "stem": "A 22-year-old man with a strong family history of early-onset hypertension has serum K+ of 2.8 mEq/L and is found to have a permanently open epithelial sodium channel in the principal cell. Which condition does he have?",
+      "choices": ["Bartter syndrome", "Gitelman syndrome", "Liddle syndrome", "Type 2 renal tubular acidosis", "Primary hyperaldosteronism"],
+      "answer": 2,
       "explanations": [
-        "Correct. Type 1 (distal) RTA — failure of α-intercalated cell H+ secretion. Inability to acidify urine (urine pH >5.5 despite systemic acidosis) is the hallmark. Hypokalemia results from compensatory K+ secretion. Sjögren is a classic association.",
-        "Incorrect. Type 2 (proximal) RTA features urine pH that CAN be acidic once HCO3− is fully wasted; also features Fanconi-pattern findings.",
-        "Incorrect. Type 4 RTA features HYPERkalemia.",
-        "Incorrect. Bartter features alkalosis.",
-        "Incorrect. Vomiting causes alkalosis."
+        "Incorrect. Bartter syndrome mimics a loop diuretic and is not associated with hypertension.",
+        "Incorrect. Gitelman syndrome mimics a thiazide and is not associated with hypertension.",
+        "Correct. Liddle syndrome is caused by a permanently open ENaC in the principal cell, leading to enhanced renal Na+ reabsorption, hypertension, and hypokalemia.",
+        "Incorrect. Type 2 RTA produces normal anion gap metabolic acidosis with hypokalemia, not hypertension.",
+        "Incorrect. Primary hyperaldosteronism causes hypertension and hypokalemia, but the underlying defect is excess aldosterone, not a constitutively open ENaC."
       ]
     },
     {
       "id": 14,
-      "stem": "A 35-year-old man with multiple myeloma has hypokalemia, hypophosphatemia, glycosuria with normal serum glucose, aminoaciduria, and a normal-anion-gap metabolic acidosis. Which is the most likely diagnosis?",
-      "choices": ["Type 1 RTA", "Type 2 (proximal) RTA", "Type 4 RTA", "Liddle syndrome", "Hypokalemic periodic paralysis"],
-      "answer": 1,
+      "stem": "A 50-year-old woman with chronic diarrhea has a serum K+ of 2.8 mEq/L. Aggressive oral potassium supplementation fails to correct her potassium. Which additional electrolyte should be measured and replaced to allow her hypokalemia to resolve?",
+      "choices": ["Calcium", "Phosphate", "Magnesium", "Bicarbonate", "Chloride"],
+      "answer": 2,
       "explanations": [
-        "Incorrect. Type 1 RTA does not feature glycosuria, phosphaturia, or aminoaciduria.",
-        "Correct. Type 2 (proximal) RTA in the context of Fanconi syndrome — generalized proximal tubular dysfunction. HCO3− wasting, hypokalemia, hypophosphatemia, glycosuria, aminoaciduria, uricosuria. Multiple myeloma (light chain proximal tubulopathy), Wilson disease, and tenofovir are classic causes.",
-        "Incorrect. Type 4 RTA has hyperkalemia.",
-        "Incorrect. Liddle has hypertension.",
-        "Incorrect. HPP is acute paralysis without acidosis."
+        "Incorrect. Calcium does not directly cause refractory hypokalemia in this scenario.",
+        "Incorrect. Phosphate deficiency is not the brick's explanation for refractory hypokalemia.",
+        "Correct. Hypomagnesemia (often co-lost with K+ in diarrhea) causes refractory hypokalemia because magnesium normally inhibits ROMK-mediated K+ secretion in the distal convoluted tubule; without Mg2+, more K+ is wasted.",
+        "Incorrect. Low bicarbonate would suggest acidosis but is not the cause of refractoriness described here.",
+        "Incorrect. Chloride depletion plays a role in vomiting-related hypokalemia, but magnesium repletion is the key step in refractory cases."
       ]
     },
     {
       "id": 15,
-      "stem": "A 60-year-old man on chronic furosemide has refractory hypokalemia (K+ 2.8) despite IV KCl supplementation. Serum magnesium is 1.2 mg/dL (low). Which intervention is most likely to correct his potassium?",
+      "stem": "A 40-year-old man presents with a serum K+ of 3.0 mEq/L, a normal anion gap metabolic acidosis, and serum bicarbonate of 16 mEq/L. Which diagnosis best fits this combination?",
       "choices": [
-        "Higher-dose IV KCl",
-        "Replace magnesium",
-        "Stop furosemide briefly",
-        "Add insulin",
-        "Add hypertonic saline"
+        "Primary hyperaldosteronism",
+        "Liddle syndrome",
+        "Type 1 or type 2 renal tubular acidosis",
+        "Bartter syndrome",
+        "Vomiting-induced metabolic alkalosis"
       ],
-      "answer": 1,
+      "answer": 2,
       "explanations": [
-        "Incorrect. Hypokalemia refractory to K+ replacement strongly suggests concurrent hypomagnesemia.",
-        "Correct. Hypomagnesemia perpetuates renal K+ wasting because low intracellular Mg2+ removes its inhibition of ROMK, allowing ongoing K+ secretion. Replete Mg2+ first (or together with K+); without it, K+ supplementation is wasted.",
-        "Incorrect. Stopping furosemide may help but does not address the Mg2+ issue.",
-        "Incorrect. Insulin SHIFTS K+ into cells but does not correct total body K+.",
-        "Incorrect. Hypertonic saline is for hyponatremia, not hypokalemia."
+        "Incorrect. Primary hyperaldosteronism causes hypokalemia with metabolic alkalosis, not normal anion gap acidosis.",
+        "Incorrect. Liddle syndrome causes hypokalemia with hypertension and metabolic alkalosis.",
+        "Correct. Type 1 and type 2 RTA both produce hypokalemia with normal anion gap metabolic acidosis; this combination is the classic clue.",
+        "Incorrect. Bartter syndrome produces hypokalemia with metabolic alkalosis.",
+        "Incorrect. Vomiting causes alkalosis, not acidosis."
       ]
     },
     {
       "id": 16,
-      "stem": "A 32-year-old man with severe malnutrition is started on aggressive enteral feeding. Within 48 hours he develops K+ 2.3, phosphate 1.0, and Mg 1.1. Which best explains the electrolyte disturbance?",
+      "stem": "A 72-year-old woman on chronic diuretic therapy presents with palpitations and serum K+ of 2.4 mEq/L. Which two ECG findings are most characteristic of hypokalemia?",
       "choices": [
-        "Refeeding syndrome",
-        "Acute kidney injury",
-        "Conn syndrome",
-        "Distal RTA",
-        "Hypokalemic periodic paralysis"
+        "Peaked T waves and shortened QT",
+        "Widened QRS and sine wave",
+        "Shallow T waves and U waves",
+        "Delta wave and short PR",
+        "ST elevation and Q waves"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanations": [
-        "Correct. Refeeding syndrome — carbohydrate reintroduction triggers insulin release, driving K+, phosphate, and Mg2+ INTO cells. Severe deficiency of all three can produce arrhythmia, weakness, and respiratory failure. Prevention: start feeds slowly, monitor electrolytes, supplement before and during refeeding.",
-        "Incorrect. AKI tends to RETAIN K+, not lower it.",
-        "Incorrect. Conn syndrome has hypertension and is not triggered by feeding.",
-        "Incorrect. RTA does not present in this acute manner.",
-        "Incorrect. HPP is hypokalemia without phosphate or Mg shifts."
+        "Incorrect. Peaked T waves are characteristic of hyperkalemia, not hypokalemia.",
+        "Incorrect. Widened QRS and sine wave are late hyperkalemia findings.",
+        "Correct. Hypokalemia classically produces shallow (flattened) T waves and U waves on ECG; with worsening hypokalemia, U waves become more prominent and T waves invert.",
+        "Incorrect. Delta wave and short PR suggest pre-excitation (WPW), unrelated to hypokalemia.",
+        "Incorrect. ST elevation and Q waves suggest myocardial infarction, not hypokalemia."
       ]
     },
     {
       "id": 17,
-      "stem": "A 70-year-old woman on chronic diuretics has K+ 2.5 mEq/L. ECG shows flattened T waves, prominent U waves, and ST depression. Which finding is the most specific ECG sign of hypokalemia?",
-      "choices": ["Peaked T waves", "U waves", "Wide QRS", "Sine wave pattern", "Delta wave"],
+      "stem": "A 60-year-old man with serum K+ of 2.2 mEq/L has an ECG showing prominent U waves, ST depression, and inverted T waves. The clinician explains that hypokalemia disrupts cardiac and skeletal muscle function because the membrane resting potential becomes more negative. What is this electrical change called?",
+      "choices": ["Depolarization", "Hyperpolarization", "Repolarization", "Threshold shift", "Membrane stabilization"],
       "answer": 1,
       "explanations": [
-        "Incorrect. Peaked T waves are the early sign of HYPERkalemia.",
-        "Correct. Prominent U waves are the most characteristic ECG finding in hypokalemia. Other changes include T-wave flattening/inversion and ST depression. Severe hypokalemia predisposes to ventricular arrhythmia.",
-        "Incorrect. Wide QRS is a feature of hyperkalemia.",
-        "Incorrect. Sine wave pattern is severe hyperkalemia.",
-        "Incorrect. Delta wave is WPW pre-excitation, unrelated to K+."
+        "Incorrect. Depolarization is a less negative membrane potential, the opposite of what hypokalemia produces.",
+        "Correct. Hypokalemia causes hyperpolarization (a more negative resting potential) of cardiac and skeletal muscle cells, requiring a greater stimulus to depolarize and producing arrhythmias and weakness.",
+        "Incorrect. Repolarization is the return of the membrane to its resting potential after an action potential, not the resting state change.",
+        "Incorrect. The brick describes hyperpolarization, not threshold shift.",
+        "Incorrect. Membrane stabilization is a term used for treatment of hyperkalemia (calcium gluconate), not for the membrane changes of hypokalemia."
       ]
     },
     {
       "id": 18,
-      "stem": "A 78-year-old woman on digoxin and chronic furosemide presents with confusion, nausea, and ECG showing premature ventricular contractions. Serum K+ is 2.8 mEq/L; digoxin level is at the upper limit of normal. Which best explains the increased toxicity at this 'normal' digoxin level?",
+      "stem": "A 65-year-old woman with chronic hypokalemia (K+ 2.8 mEq/L for several months) reports new polyuria and polydipsia. Urine osmolality is low and does not improve after desmopressin administration. Which complication of chronic hypokalemia best explains her presentation?",
       "choices": [
-        "Hypokalemia potentiates digoxin toxicity",
-        "Furosemide raises digoxin levels",
-        "Age increases digoxin clearance",
-        "Confusion is unrelated to digoxin",
-        "Hypokalemia is irrelevant"
+        "Central diabetes insipidus",
+        "Nephrogenic diabetes insipidus",
+        "Osmotic diuresis from glucosuria",
+        "Primary polydipsia",
+        "Renal tubular acidosis type 1"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanations": [
-        "Correct. Digoxin and K+ compete at Na+/K+-ATPase. Hypokalemia INCREASES digoxin binding and potentiates toxicity even at therapeutic drug levels. Loop and thiazide diuretics, which often accompany digoxin therapy, are common precipitants.",
-        "Incorrect. Furosemide does not principally raise digoxin levels directly.",
-        "Incorrect. Age decreases (not increases) digoxin clearance.",
-        "Incorrect. Confusion is a recognized digoxin toxicity symptom.",
-        "Incorrect. Hypokalemia is the key potentiating factor."
+        "Incorrect. The lack of response to desmopressin indicates renal resistance to ADH, not central deficiency.",
+        "Correct. Chronic hypokalemia can cause nephrogenic diabetes insipidus by decreasing aquaporin expression and downregulating urea transporters, impairing the medullary concentrating gradient and ADH responsiveness.",
+        "Incorrect. Osmotic diuresis from glucosuria would not be caused by hypokalemia and would show high urine osmolality with glucose present.",
+        "Incorrect. Primary polydipsia is a behavioral disorder, not a complication of hypokalemia.",
+        "Incorrect. Type 1 RTA causes hypokalemia and acidosis but is not the brick's explanation for polyuria with ADH resistance."
       ]
     },
     {
       "id": 19,
-      "stem": "A 24-year-old man of Asian descent has recurrent episodes of acute generalized weakness lasting hours, often after large carbohydrate meals or rest after exercise. K+ during attacks is 2.4. Between episodes labs are normal. He has thyrotoxicosis on workup. Which is the most likely diagnosis?",
-      "choices": [
-        "Familial hypokalemic periodic paralysis",
-        "Thyrotoxic periodic paralysis",
-        "Bartter syndrome",
-        "Gitelman syndrome",
-        "Myasthenia gravis"
-      ],
-      "answer": 1,
+      "stem": "A 50-year-old woman with hypokalemia of unclear etiology undergoes a 24-hour urine collection. Above what urinary K+ excretion does the brick consider renal K+ loss to be the cause of hypokalemia?",
+      "choices": [">5-10 mEq/day", ">15-20 mEq/day", ">25-30 mEq/day", ">50-60 mEq/day", ">100 mEq/day"],
+      "answer": 2,
       "explanations": [
-        "Incorrect. Familial HPP would not have thyrotoxicosis; the thyroid disease points to thyrotoxic HPP.",
-        "Correct. Thyrotoxic periodic paralysis — recurrent acute hypokalemia from intracellular K+ shift, classically in young Asian men with hyperthyroidism. Treat the underlying thyroid disease; β-blockers (propranolol) prevent attacks; cautious K+ supplementation during episodes (rebound HYPERkalemia possible).",
-        "Incorrect. Bartter has chronic baseline hypokalemia.",
-        "Incorrect. Gitelman has chronic baseline hypokalemia.",
-        "Incorrect. Myasthenia features fatigability without K+ changes."
+        "Incorrect. This range is below the threshold the brick gives for renal K+ loss.",
+        "Incorrect. This range is below the threshold the brick gives for renal K+ loss.",
+        "Correct. A 24-hour urine K+ greater than 25-30 mEq/day suggests hypokalemia caused by renal K+ loss.",
+        "Incorrect. Above the threshold cited in the brick.",
+        "Incorrect. Above the threshold cited in the brick."
       ]
     },
     {
       "id": 20,
-      "stem": "A patient with new hypokalemia of unclear cause has urine K+ 8 mEq/L (low) and urine Cl 12 mEq/L (low). Which etiology is most consistent with this pattern?",
+      "stem": "A 45-year-old man has hypokalemia and a spot urine sample is sent. Which spot urine value supports a renal cause of K+ loss according to the brick?",
       "choices": [
-        "Loop diuretic use",
-        "Vomiting (remote, no longer active)",
-        "Bartter syndrome",
-        "Conn syndrome",
-        "Liddle syndrome"
+        "Urine K+/creatinine ratio >13 mEq/g or spot urine K+ >30 mEq/L",
+        "Urine K+/creatinine ratio <5 mEq/g",
+        "Spot urine K+ <10 mEq/L",
+        "Spot urine Na+ >100 mEq/L",
+        "Urine osmolality <100 mOsm/kg"
       ],
-      "answer": 1,
+      "answer": 0,
       "explanations": [
-        "Incorrect. Active loop diuretic use would have HIGH urine K+ and HIGH urine Cl.",
-        "Correct. Low urine K+ (<20) suggests extrarenal loss or remote loss after the kidney has corrected. Low urine Cl (<10) is the classic clue to PRIOR vomiting (HCl loss with subsequent renal correction). Urine Cl is more useful than urine Na+ here because volume contraction drives Na+ retention but Cl excretion follows the prior loss.",
-        "Incorrect. Bartter has high urine K+ and high urine Cl.",
-        "Incorrect. Conn has high urine K+ and high urine Cl.",
-        "Incorrect. Liddle has high urine K+."
+        "Correct. A spot urine K+/creatinine ratio >13 mEq/g or a spot urine K+ >30 mEq/L suggests renal K+ loss.",
+        "Incorrect. Low urine K+/creatinine ratios suggest extrarenal loss, not renal loss.",
+        "Incorrect. A low spot urine K+ would suggest extrarenal loss.",
+        "Incorrect. Spot urine sodium does not establish renal K+ loss.",
+        "Incorrect. Urine osmolality is not the criterion for diagnosing renal K+ loss."
       ]
     },
     {
       "id": 21,
-      "stem": "A 65-year-old woman with K+ 3.1 mEq/L and no symptoms is being treated as an outpatient. Which is the most appropriate replacement?",
+      "stem": "A 55-year-old man has serum K+ of 3.1 mEq/L attributed to thiazide-induced renal K+ loss. He is asymptomatic and has a normal ECG. According to the brick, which is the preferred initial route for potassium repletion in nonemergent cases?",
       "choices": [
-        "Oral potassium chloride",
-        "IV KCl 40 mEq/h peripheral",
-        "IV KCl 80 mEq/h central",
-        "Spironolactone monotherapy",
-        "No treatment needed"
+        "Intravenous potassium chloride at 30 mEq/h",
+        "Oral or enteral potassium",
+        "Subcutaneous potassium",
+        "Intramuscular potassium",
+        "Inhaled potassium"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanations": [
-        "Correct. Mild asymptomatic hypokalemia is treated orally with potassium chloride (KCl). Each 10 mEq oral dose typically raises serum K+ by ~0.1 mEq/L. KCl is preferred over potassium bicarbonate or citrate when alkalosis is present (chloride helps correct concurrent volume contraction).",
-        "Incorrect. 40 mEq/h peripheral exceeds the safe rate (10 mEq/h max via peripheral line).",
-        "Incorrect. 80 mEq/h central is dangerous and reserved for life-threatening cases with continuous ECG monitoring.",
-        "Incorrect. Spironolactone is reasonable for K+-sparing maintenance but not first-line for active replacement.",
-        "Incorrect. K+ 3.1 with diuretic exposure warrants treatment to reduce arrhythmia risk."
+        "Incorrect. IV K+ should be reserved for severe cases with ECG changes or inability to take oral; it carries the risk of arrhythmias.",
+        "Correct. Oral or enteral potassium is safer and is the preferred route for repletion in all nonemergent cases.",
+        "Incorrect. Subcutaneous administration is not a route used for K+ repletion.",
+        "Incorrect. Intramuscular potassium is not used.",
+        "Incorrect. Inhaled administration is not a route for potassium repletion."
       ]
     },
     {
       "id": 22,
-      "stem": "A 60-year-old man with K+ 2.0 mEq/L and ECG changes is being given IV KCl. Which is the maximum safe rate of IV KCl through a peripheral IV?",
-      "choices": ["2 mEq/h", "10 mEq/h", "40 mEq/h", "80 mEq/h", "No upper limit"],
-      "answer": 1,
+      "stem": "A 68-year-old man with serum K+ of 2.0 mEq/L and ECG changes is given intravenous potassium. To minimize the risk of life-threatening hyperkalemia and infusion-related vein burning, what is the maximum recommended infusion rate?",
+      "choices": ["1 mEq/h", "5 mEq/h", "10 mEq/h", "20 mEq/h", "40 mEq/h"],
+      "answer": 2,
       "explanations": [
-        "Incorrect. 2 mEq/h is below the typical maximum and may be too slow for severe hypokalemia.",
-        "Correct. The standard maximum peripheral IV KCl rate is 10 mEq/h (some sources allow up to 20 with monitoring) due to vein irritation and arrhythmia risk. Higher rates (up to 40 mEq/h) require central venous access AND continuous ECG monitoring, typically in an ICU setting.",
-        "Incorrect. 40 mEq/h requires central access and ICU monitoring.",
-        "Incorrect. 80 mEq/h is above standard limits even centrally.",
-        "Incorrect. Rate limits are essential to prevent arrhythmia."
+        "Incorrect. 1 mEq/h is far below the standard safe rate cited in the brick.",
+        "Incorrect. 5 mEq/h is below the standard safe rate cited in the brick.",
+        "Correct. IV potassium should generally never be given faster than 10 mEq/h; faster rates risk acute hyperkalemia, lethal arrhythmias, and infusion-site burning.",
+        "Incorrect. 20 mEq/h exceeds the safe rate and risks life-threatening arrhythmias.",
+        "Incorrect. 40 mEq/h is far above the safe rate and is dangerous."
       ]
     },
     {
       "id": 23,
-      "stem": "A 50-year-old woman with chronic vomiting has K+ 2.6, HCO3− 35, and Cl 92. Which oral potassium salt best addresses both the K+ deficit and concurrent acid-base disturbance?",
-      "choices": [
-        "Potassium chloride (KCl)",
-        "Potassium citrate",
-        "Potassium bicarbonate",
-        "Potassium phosphate",
-        "Potassium gluconate"
-      ],
-      "answer": 0,
+      "stem": "A 60-year-old woman with hypokalemia of 3.6 mEq/L is given 40 mEq of oral potassium chloride. Based on the general rule of thumb cited in the brick, what serum K+ would you expect after repletion?",
+      "choices": ["3.7 mEq/L", "4.0 mEq/L", "4.5 mEq/L", "5.0 mEq/L", "5.6 mEq/L"],
+      "answer": 1,
       "explanations": [
-        "Correct. KCl is preferred when concurrent metabolic alkalosis with chloride depletion is present (e.g., vomiting, diuretics). The chloride helps correct volume status and bicarbonaturia, allowing the alkalosis to resolve.",
-        "Incorrect. K+ citrate generates HCO3− and can WORSEN alkalosis.",
-        "Incorrect. K+ bicarbonate would WORSEN alkalosis.",
-        "Incorrect. K+ phosphate is reserved for concurrent severe hypophosphatemia.",
-        "Incorrect. K+ gluconate is acceptable but does not specifically address chloride depletion."
+        "Incorrect. The expected rise is greater than 0.1 mEq/L for a 40 mEq dose at this baseline level.",
+        "Correct. Each 10 mEq of K+ raises the serum level by approximately 0.1 mEq/L; 40 mEq would raise the level from 3.6 to about 4.0 mEq/L.",
+        "Incorrect. This overestimates the rise predicted by the brick's rule.",
+        "Incorrect. This overestimates the rise predicted by the brick's rule.",
+        "Incorrect. This vastly overestimates the rise predicted by the brick's rule."
       ]
     },
     {
       "id": 24,
-      "stem": "A 40-year-old woman on chronic loop diuretics has K+ 3.2 and Mg 1.5 mg/dL. Both have remained low despite oral KCl supplementation. Which is the most appropriate next intervention?",
+      "stem": "A 48-year-old man has hypokalemia (K+ 3.0 mEq/L) and a normal anion gap metabolic acidosis from type 1 renal tubular acidosis. According to the brick, which oral potassium product is best suited to address both problems?",
       "choices": [
-        "Triple the K+ dose",
-        "Add oral magnesium replacement",
-        "Switch to IV K+ infusion",
-        "Add hypertonic saline",
-        "Stop all diuretic therapy"
+        "Potassium chloride",
+        "Potassium gluconate",
+        "Potassium phosphate",
+        "Potassium bicarbonate or potassium citrate",
+        "Potassium acetate"
       ],
-      "answer": 1,
+      "answer": 3,
       "explanations": [
-        "Incorrect. Higher K+ dosing alone does not correct the underlying problem.",
-        "Correct. Concurrent hypomagnesemia is a common cause of refractory hypokalemia. Without adequate intracellular Mg2+, ROMK loses its Mg2+-dependent inhibition and continues to leak K+ into the urine. Adding magnesium replacement breaks the cycle.",
-        "Incorrect. IV K+ alone, without magnesium, will not solve refractory wasting.",
-        "Incorrect. Hypertonic saline is unrelated to this problem.",
-        "Incorrect. Diuretic therapy is often necessary; consider adding K+-sparing diuretic (amiloride, spironolactone) to reduce ongoing wasting."
+        "Incorrect. KCl is the default for hypokalemia with metabolic alkalosis or chloride depletion (e.g., diuretics, vomiting), not for acidosis.",
+        "Incorrect. Potassium gluconate is a low-yield OTC formulation often insufficient for true repletion.",
+        "Incorrect. Potassium phosphate is reserved for hypokalemia with concurrent hypophosphatemia.",
+        "Correct. Potassium bicarbonate or potassium citrate (which is converted to bicarbonate) is best when hypokalemia is accompanied by metabolic acidosis such as RTA, because it provides alkali.",
+        "Incorrect. Potassium acetate is an IV alternative used when less chloride load is desired; the brick highlights bicarbonate/citrate for oral use in acidosis."
       ]
     },
     {
       "id": 25,
-      "stem": "A 70-year-old man on chronic diuretics presents with palpitations and is found to have K+ 2.1 mEq/L with ventricular bigeminy on ECG. Which is the most concerning clinical consequence of severe hypokalemia in this patient?",
-      "choices": [
-        "Acute kidney injury",
-        "Ventricular arrhythmia",
-        "Rhabdomyolysis",
-        "Hyperglycemia",
-        "Hypertension"
-      ],
-      "answer": 1,
+      "stem": "A 65-year-old woman with primary hyperaldosteronism has hypokalemia and hypertension. According to the brick, which single agent best addresses both problems?",
+      "choices": ["Furosemide", "Hydrochlorothiazide", "Spironolactone", "Lisinopril", "Amlodipine"],
+      "answer": 2,
       "explanations": [
-        "Incorrect. AKI is not the principal acute danger of hypokalemia.",
-        "Correct. Severe hypokalemia (K+ <2.5) increases the risk of life-threatening ventricular arrhythmias including torsades de pointes, especially with concurrent hypomagnesemia, digoxin, or QT-prolonging drugs. Severe muscle weakness and even respiratory failure can also occur but arrhythmia is the most immediate danger.",
-        "Incorrect. Severe hypokalemia can cause rhabdomyolysis but it is not the most acute danger.",
-        "Incorrect. Hyperglycemia can occur (impaired insulin secretion) but is secondary.",
-        "Incorrect. Hypokalemia does not principally cause hypertension."
+        "Incorrect. Furosemide would worsen the hypokalemia by enhancing renal K+ wasting.",
+        "Incorrect. Hydrochlorothiazide would worsen the hypokalemia.",
+        "Correct. Spironolactone, an aldosterone-receptor blocker, treats both the hypokalemia and the hypertension of primary hyperaldosteronism.",
+        "Incorrect. ACE inhibitors may modestly help renal K+ retention but do not directly block aldosterone at its receptor; the brick specifically recommends spironolactone for primary hyperaldosteronism.",
+        "Incorrect. Amlodipine is a calcium channel blocker that lowers blood pressure but does not address the hypokalemia."
       ]
     }
   ]

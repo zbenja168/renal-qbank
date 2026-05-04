@@ -4,453 +4,429 @@
   "questions": [
     {
       "id": 1,
-      "stem": "A 28-year-old physiologist studies the body distribution of magnesium. Approximately what fraction of total body magnesium is located in the extracellular fluid?",
-      "choices": ["1%", "10%", "30%", "50%", "99%"],
-      "answer": 0,
+      "stem": "A 45-year-old woman undergoes a routine metabolic panel showing a serum magnesium of 1.9 mEq/L. Her physician explains that serum magnesium can be a poor estimate of total body stores. Approximately what percentage of total body magnesium is stored within the bone?",
+      "choices": ["1%", "10%", "30%", "60%", "99%"],
+      "answer": 4,
       "explanations": [
-        "Correct. Only ~1% of total body Mg2+ is in the ECF; serum levels poorly reflect total body stores. ~50% is in bone (largely non-exchangeable), ~49% is intracellular (muscle, liver, soft tissue), and ~1% is in ECF. Patients can have profound intracellular depletion with normal-appearing serum Mg.",
-        "Incorrect. 10% is too high.",
-        "Incorrect. 30% does not match any compartment.",
-        "Incorrect. ~50% is in BONE, not ECF.",
-        "Incorrect. 99% is in bone + intracellular combined."
+        "Incorrect. Only about 1% of total body magnesium is in the extracellular fluid, including serum and interstitium.",
+        "Incorrect. 10% does not match any of the major storage compartments described in the brick.",
+        "Incorrect. 30% does not reflect the brick's distribution of body magnesium.",
+        "Incorrect. 60% refers to the proportion of serum magnesium that is free ionized, not total body distribution.",
+        "Correct. Approximately 99% of total body magnesium is stored within bone, with muscle and other tissue serving as additional reservoirs."
       ]
     },
     {
       "id": 2,
-      "stem": "A 32-year-old researcher studies renal Mg2+ handling. Which nephron segment reabsorbs the LARGEST fraction of filtered magnesium?",
-      "choices": [
-        "Proximal convoluted tubule",
-        "Thick ascending limb of Henle",
-        "Distal convoluted tubule",
-        "Cortical collecting duct",
-        "Inner medullary collecting duct"
-      ],
+      "stem": "A clinical laboratory reports the breakdown of extracellular magnesium forms on a patient's specimen. Which form constitutes the largest fraction of total serum magnesium and is the most clinically important?",
+      "choices": ["Anion-complexed magnesium", "Free ionized magnesium", "Intracellular magnesium", "Magnesium bound to hemoglobin", "Protein-bound magnesium"],
       "answer": 1,
       "explanations": [
-        "Incorrect. PCT reabsorbs only ~15–25% of filtered Mg2+.",
-        "Correct. The TAL reabsorbs ~60–70% of filtered Mg2+ paracellularly through claudin-16/19 tight junctions, driven by the lumen-positive transepithelial voltage from ROMK-mediated K+ recycling. Loop diuretics abolish this and produce Mg2+ wasting.",
-        "Incorrect. DCT reabsorbs only ~5–10% (active, via TRPM6).",
-        "Incorrect. Collecting duct does not principally handle Mg2+.",
-        "Incorrect. Same."
+        "Incorrect. Magnesium complexed to anions such as phosphate accounts for about 15% of serum magnesium.",
+        "Correct. Approximately 60% of serum magnesium is free ionized, and like calcium, the free ionized form is most important clinically.",
+        "Incorrect. Intracellular magnesium is not part of the extracellular distribution and is not measured by serum magnesium.",
+        "Incorrect. The brick does not list hemoglobin as a magnesium-binding protein.",
+        "Incorrect. Protein-bound magnesium accounts for only 25-30% of serum magnesium."
       ]
     },
     {
       "id": 3,
-      "stem": "A 28-year-old physiologist studies Mg2+ uptake in the DCT. Which apical channel mediates fine-tuned active Mg2+ reabsorption in the distal convoluted tubule?",
-      "choices": ["TRPV5", "TRPM6", "ROMK", "NCC", "ENaC"],
-      "answer": 1,
+      "stem": "A medical student is reviewing nephron handling of magnesium. After free filtration at the glomerulus, which segment of the nephron normally reabsorbs the largest fraction of filtered magnesium?",
+      "choices": ["Collecting duct", "Distal convoluted tubule", "Proximal convoluted tubule", "Thick ascending limb of the loop of Henle", "Thin descending limb of the loop of Henle"],
+      "answer": 3,
       "explanations": [
-        "Incorrect. TRPV5 is the apical Ca2+ channel in the DCT.",
-        "Correct. TRPM6 is the apical Mg2+ channel in DCT cells. Loss-of-function mutations cause autosomal recessive familial hypomagnesemia with secondary hypocalcemia. TRPM6 is also downregulated in chronic thiazide use, contributing to thiazide-induced hypomagnesemia.",
-        "Incorrect. ROMK is the apical K+ channel.",
-        "Incorrect. NCC is the Na+-Cl− cotransporter (thiazide target).",
-        "Incorrect. ENaC is the K+-sparing diuretic target."
+        "Incorrect. The collecting duct excretes only 0-10% of filtered magnesium and is not a major reabsorptive site.",
+        "Incorrect. The DCT reabsorbs only about 10-20% of filtered magnesium for fine-tuning.",
+        "Incorrect. The proximal tubule reabsorbs only 10-20% of filtered magnesium.",
+        "Correct. The thick ascending limb reabsorbs up to 70% of filtered magnesium, making it the major site of reabsorption.",
+        "Incorrect. The thin descending limb is not described in the brick as a magnesium reabsorption site."
       ]
     },
     {
       "id": 4,
-      "stem": "A 60-year-old man with chronic alcoholism and chronic diarrhea has serum Mg 1.2 mg/dL. He has tremor, tetany, and hyperreflexia. Which best characterizes severe hypomagnesemia?",
-      "choices": [
-        "Mg <1.2 with neuromuscular irritability",
-        "Mg >2.5 with respiratory depression",
-        "Mg >5 with hypotension",
-        "Pseudohypomagnesemia",
-        "No clinical concern"
-      ],
-      "answer": 0,
+      "stem": "A renal physiologist is studying the driving force for magnesium reabsorption in the thick ascending limb. Which transporter creates the lumen-positive electrical gradient that drives paracellular magnesium reabsorption?",
+      "choices": ["Apical NCC cotransporter", "Apical NKCC2 cotransporter", "Apical TRPM6 channel", "Basolateral Na+/Ca2+ exchanger", "Basolateral plasma membrane Ca2+ ATPase"],
+      "answer": 1,
       "explanations": [
-        "Correct. Severe hypomagnesemia (Mg <1.0–1.2 mg/dL) presents with neuromuscular hyperexcitability — tetany, tremor, weakness, hyperreflexia, seizures — and increased risk of cardiac arrhythmias including torsades de pointes (especially with concurrent hypokalemia or QT-prolonging drugs).",
-        "Incorrect. Those values describe HYPERmagnesemia.",
-        "Incorrect. Severe hypermagnesemia.",
-        "Incorrect. Lab artifacts are not the main concern here.",
-        "Incorrect. The clinical situation is dangerous."
+        "Incorrect. The NCC cotransporter is in the DCT, not the TAL, and is associated with thiazide action and Gitelman disease.",
+        "Correct. NKCC2 brings Na+, K+, and 2Cl- into the cell; potassium is then recycled to the lumen via ROMK, generating the lumen-positive charge that drives paracellular Mg2+ reabsorption.",
+        "Incorrect. TRPM6 is a transcellular magnesium channel in the DCT, not the TAL.",
+        "Incorrect. NCX exits magnesium across the basolateral membrane of the DCT and does not create the TAL luminal charge.",
+        "Incorrect. PMCA exits magnesium across the basolateral membrane of the DCT and does not generate the TAL luminal charge."
       ]
     },
     {
       "id": 5,
-      "stem": "A 70-year-old woman on chronic furosemide has Mg 1.4, K+ 2.8 (refractory to KCl supplementation). Which mechanism explains why magnesium repletion is critical for correcting her potassium?",
+      "stem": "A researcher generates a mouse model lacking claudin-16 and claudin-19 in the renal tubules. Which renal process would be most directly impaired in these animals?",
       "choices": [
-        "Mg2+ activates ROMK directly",
-        "Low intracellular Mg2+ removes ROMK inhibition",
-        "Mg2+ binds K+ in the gut",
-        "Mg2+ stimulates aldosterone",
-        "Mg2+ enhances Na+/K+-ATPase"
+        "Active transcellular magnesium reabsorption in the DCT",
+        "Active transcellular magnesium secretion in the collecting duct",
+        "Free filtration of magnesium at the glomerulus",
+        "Paracellular magnesium reabsorption in the thick ascending limb",
+        "Sodium-driven basolateral exit of magnesium from DCT cells"
       ],
-      "answer": 1,
+      "answer": 3,
       "explanations": [
-        "Incorrect. Mg2+ does not principally activate ROMK; it inhibits it.",
-        "Correct. Intracellular Mg2+ normally INHIBITS ROMK (the apical K+ channel in collecting duct principal cells). When intracellular Mg2+ is low, this inhibition is removed and ROMK conducts more K+ into the lumen — perpetuating renal K+ wasting. This is why concurrent hypomagnesemia produces refractory hypokalemia, and why Mg2+ repletion is essential before K+ replacement will work.",
-        "Incorrect. Mg2+ does not principally bind K+.",
-        "Incorrect. Mg2+ does not principally affect aldosterone.",
-        "Incorrect. Mg2+ does not principally regulate Na+/K+-ATPase."
+        "Incorrect. Transcellular DCT reabsorption depends on TRPM6, not claudin tight-junction proteins.",
+        "Incorrect. The brick does not describe active magnesium secretion in the collecting duct.",
+        "Incorrect. Glomerular filtration of magnesium is a passive size/charge-based process and does not require claudins.",
+        "Correct. Claudin-16 and claudin-19 form the tight-junction pore through which Mg2+ moves paracellularly in the TAL down the lumen-positive gradient.",
+        "Incorrect. Basolateral exit from DCT cells occurs via NCX and PMCA, not claudins."
       ]
     },
     {
       "id": 6,
-      "stem": "A 35-year-old woman with severe Crohn disease and short bowel syndrome has Mg 1.0 mg/dL. Which mechanism best explains her hypomagnesemia?",
+      "stem": "A 60-year-old man with heart failure is started on furosemide. Two weeks later his serum magnesium has dropped from 2.0 to 1.4 mEq/L. Which mechanism best explains the new hypomagnesemia?",
       "choices": [
-        "Renal Mg2+ wasting",
-        "Intestinal Mg2+ malabsorption",
-        "Adrenal insufficiency",
-        "Diuretic exposure",
-        "Pseudohypomagnesemia"
+        "Activation of TRPM6 channels in the DCT",
+        "Direct tubular cell toxicity from drug accumulation",
+        "Disruption of the lumen-positive charge in the thick ascending limb",
+        "Increased epidermal growth factor signaling at the DCT",
+        "Inhibition of gut TRPM6/7 absorption"
       ],
-      "answer": 1,
+      "answer": 2,
       "explanations": [
-        "Incorrect. Renal wasting is plausible if she had diuretics, but the Crohn / short-bowel context points to GI loss.",
-        "Correct. GI causes are common: chronic diarrhea, short bowel syndrome, malabsorption (Crohn, celiac), pancreatic insufficiency, and PPI-related Mg wasting (long-term PPI reduces TRPM6 expression in intestine). Mg2+ absorption is principally in the small intestine via passive paracellular flow plus active TRPM6.",
-        "Incorrect. Adrenal insufficiency does not principally cause hypomagnesemia.",
-        "Incorrect. No diuretic exposure described.",
-        "Incorrect. The hypomagnesemia is real."
+        "Incorrect. Loop diuretics do not activate TRPM6; that would actually promote magnesium retention.",
+        "Incorrect. Furosemide does not work by directly damaging tubular cells; cisplatin does.",
+        "Correct. Furosemide inhibits NKCC2, abolishing the lumen-positive charge in the TAL and causing significant urinary magnesium loss.",
+        "Incorrect. EGF promotes magnesium retention by stimulating TRPM6 and is not the mechanism of loop diuretic-induced wasting.",
+        "Incorrect. Inhibition of gut TRPM6/7 absorption is the mechanism of PPI-induced hypomagnesemia, not loop diuretics."
       ]
     },
     {
       "id": 7,
-      "stem": "A 60-year-old man on long-term omeprazole for GERD has Mg 1.3 mg/dL. Which best explains the proton-pump inhibitor effect?",
+      "stem": "A 70-year-old woman on long-term omeprazole for GERD presents with serum magnesium of 1.2 mEq/L. Stool studies and 24-hour urine magnesium are consistent with gastrointestinal magnesium loss. Which mechanism best explains this finding?",
       "choices": [
-        "PPI causes renal Mg2+ wasting",
-        "PPI reduces intestinal TRPM6-mediated Mg2+ absorption",
-        "PPI directly chelates Mg2+",
-        "PPI increases sweat Mg2+ losses",
-        "PPI is unrelated to magnesium"
+        "Cisplatin-like tubular damage",
+        "Defective NCC cotransporter activity",
+        "Inhibition of intestinal TRPM6/7 channels",
+        "Inhibition of NKCC2 in the thick ascending limb",
+        "Saponification of magnesium in the small intestine"
       ],
-      "answer": 1,
+      "answer": 2,
       "explanations": [
-        "Incorrect. PPIs do not principally cause renal wasting.",
-        "Correct. Long-term PPI use is associated with hypomagnesemia, likely via reduced TRPM6-mediated active intestinal Mg2+ absorption (the mechanism is incompletely understood but TRPM6 expression and function are reduced). FDA warning issued in 2011. Resolves on discontinuation. More common with high-dose, prolonged use, and concurrent diuretic therapy. Other PPI long-term concerns: B12 deficiency, Clostridium difficile, fractures, AKI/AIN.",
-        "Incorrect. PPIs do not chemically chelate Mg2+.",
-        "Incorrect. Sweat is not the principal mechanism.",
-        "Incorrect. PPI-related hypomagnesemia is a recognized association."
+        "Incorrect. Cisplatin causes renal tubular damage and renal Mg wasting, not GI loss from a PPI.",
+        "Incorrect. Defective NCC describes Gitelman disease and causes renal magnesium wasting.",
+        "Correct. Proton pump inhibitors inhibit gut TRPM6/7 activity, reducing intestinal magnesium absorption.",
+        "Incorrect. NKCC2 inhibition occurs with loop diuretics and causes renal, not GI, magnesium wasting.",
+        "Incorrect. Saponification of magnesium with fat occurs in pancreatitis, not with PPI use."
       ]
     },
     {
       "id": 8,
-      "stem": "A 65-year-old woman with metastatic colon cancer is receiving cetuximab. She develops Mg 1.1 mg/dL and weakness. Which mechanism best explains cetuximab-induced hypomagnesemia?",
+      "stem": "A 28-year-old woman is found to have chronic hypomagnesemia, hypokalemia, and metabolic alkalosis. Genetic testing reveals a defective NCC cotransporter. Through which mechanism does her underlying disease cause renal magnesium wasting?",
       "choices": [
-        "Cetuximab is a diuretic",
-        "EGFR antagonism impairs renal TRPM6 function",
-        "Cetuximab causes GI bleeding losing Mg2+",
-        "Cetuximab is a calcimimetic",
-        "Tumor cells consume plasma Mg2+"
+        "Activation of the calcium-sensing receptor in the TAL",
+        "Direct destruction of TRPM6 channels by autoantibodies",
+        "Impaired DCT sodium reuptake reducing the gradient for magnesium reabsorption",
+        "Inhibition of NKCC2 reducing the lumen-positive charge in the TAL",
+        "Loss of claudin-16 and claudin-19 tight junction function"
       ],
-      "answer": 1,
+      "answer": 2,
       "explanations": [
-        "Incorrect. Cetuximab is a monoclonal antibody, not a diuretic.",
-        "Correct. EGFR inhibitors (cetuximab, panitumumab) cause hypomagnesemia via inhibition of EGFR signaling that normally activates TRPM6 in the DCT. Loss of EGFR-driven TRPM6 activation produces renal Mg2+ wasting. Hypomagnesemia is dose- and duration-dependent and very common with these agents (~50% of patients on cetuximab develop low Mg). Aggressive Mg2+ replacement is often needed.",
-        "Incorrect. Cetuximab does not principally cause GI bleeding.",
-        "Incorrect. Calcimimetics affect calcium, not magnesium.",
-        "Incorrect. Tumor cells do not consume plasma Mg2+."
+        "Incorrect. CaSR activation in the TAL is a separate mechanism for magnesium wasting and is not linked to NCC defects.",
+        "Incorrect. The brick does not describe an autoimmune mechanism against TRPM6 in Gitelman disease.",
+        "Correct. In Gitelman disease, the defective NCC lowers DCT sodium reuptake, which compromises Mg2+ reabsorption in the DCT.",
+        "Incorrect. NKCC2 is in the TAL, not the DCT, and is not the defective transporter in Gitelman disease.",
+        "Incorrect. Claudin-16/19 defects affect the TAL paracellular pathway, not NCC-driven DCT reabsorption."
       ]
     },
     {
       "id": 9,
-      "stem": "A 40-year-old man being treated for an aggressive infection with high-dose IV gentamicin develops Mg 1.0 and hypokalemia after 1 week of therapy. Which mechanism best explains aminoglycoside-induced hypomagnesemia?",
+      "stem": "A 55-year-old man with metastatic colon cancer is started on cetuximab. Routine labs three weeks later show a serum magnesium of 1.3 mEq/L. Which mechanism best accounts for this finding?",
       "choices": [
-        "Aminoglycosides cause GI Mg2+ loss",
-        "Aminoglycosides cause renal tubular Mg2+ wasting",
-        "Aminoglycosides inhibit ENaC",
-        "Aminoglycosides cause cellular shift of Mg2+",
-        "Aminoglycosides chelate Mg2+ in plasma"
+        "Blockade of the EGF receptor reducing TRPM6 activity in the DCT",
+        "Direct activation of the calcium-sensing receptor",
+        "Inhibition of NKCC2 in the thick ascending limb",
+        "Inhibition of intestinal magnesium absorption via TRPM6/7 blockade",
+        "Saponification of magnesium with intraluminal fatty acids"
       ],
-      "answer": 1,
+      "answer": 0,
       "explanations": [
-        "Incorrect. The mechanism is renal, not GI.",
-        "Correct. Aminoglycosides (gentamicin, tobramycin, amikacin) cause proximal tubular injury and TAL/DCT dysfunction, producing renal Mg2+ (and Ca2+, K+) wasting. Onset typically within 1–2 weeks. Other nephrotoxins with similar effects: cisplatin, amphotericin B, foscarnet, calcineurin inhibitors (cyclosporine, tacrolimus). Monitor electrolytes routinely; replete Mg2+ aggressively.",
-        "Incorrect. Aminoglycosides do not inhibit ENaC.",
-        "Incorrect. The mechanism is renal, not cellular shift.",
-        "Incorrect. Aminoglycosides do not chelate Mg2+."
+        "Correct. Cetuximab blocks the EGF receptor, decreasing TRPM6 activity in the DCT and increasing urinary magnesium loss.",
+        "Incorrect. Cetuximab does not activate the CaSR; CaSR activation is a separate cause of TAL magnesium wasting.",
+        "Incorrect. NKCC2 inhibition is the mechanism of loop diuretics, not cetuximab.",
+        "Incorrect. Cetuximab acts on the renal DCT, not on intestinal TRPM6/7.",
+        "Incorrect. Saponification is a mechanism of magnesium loss in pancreatitis, not with EGFR blockade."
       ]
     },
     {
       "id": 10,
-      "stem": "A 55-year-old man with chronic alcoholism has Mg 1.1 mg/dL and Ca 7.6 mg/dL with inappropriately LOW PTH. Which best explains the hypocalcemia?",
+      "stem": "A 50-year-old man with pulmonary aspergillosis is treated with amphotericin B. Serial labs show progressive hypomagnesemia and hypokalemia. Which mechanism best explains the renal magnesium wasting in this patient?",
       "choices": [
-        "Hypomagnesemia impairs PTH secretion",
-        "Acute pancreatitis",
-        "Vitamin D toxicity",
-        "Primary hyperparathyroidism",
-        "Pseudohypocalcemia"
+        "Blockade of the EGF receptor",
+        "Defective NCC cotransporter",
+        "Direct tubular cell death blocking transcellular Mg transport",
+        "Increased tubular membrane permeability causing magnesium and potassium leakage",
+        "Inhibition of NKCC2 in the thick ascending limb"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanations": [
-        "Correct. Severe hypomagnesemia (typically Mg <1.0–1.5) IMPAIRS PTH secretion AND parathyroid end-organ responsiveness, producing functional hypoparathyroidism with hypocalcemia. The hypocalcemia is REFRACTORY to calcium replacement until Mg2+ is repleted. Always check Mg2+ in any unexplained hypocalcemia, especially in alcoholics, malnutrition, chronic diuretic use, or PPI use.",
-        "Incorrect. Pancreatitis can cause hypocalcemia (saponification) but does not lower PTH.",
-        "Incorrect. Vit D toxicity raises Ca2+.",
-        "Incorrect. Primary hyperparathyroidism has elevated PTH.",
-        "Incorrect. The hypocalcemia is real."
+        "Incorrect. EGF receptor blockade is the mechanism of cetuximab, not amphotericin B.",
+        "Incorrect. Defective NCC describes Gitelman disease, not amphotericin toxicity.",
+        "Incorrect. Direct tubular damage with impaired transport describes cisplatin nephrotoxicity.",
+        "Correct. Amphotericin B increases tubular membrane permeability, causing magnesium and potassium leakage out of the cells.",
+        "Incorrect. NKCC2 inhibition is the mechanism of loop diuretics, not amphotericin B."
       ]
     },
     {
       "id": 11,
-      "stem": "A 22-year-old woman with chronic fatigue has Mg 1.4 mg/dL, K+ 3.0, HCO3− 32, hypocalciuria, and normal blood pressure. She has elevated renin and aldosterone. Which is the most likely diagnosis?",
+      "stem": "A 65-year-old woman receives cisplatin chemotherapy for ovarian cancer. Six weeks into treatment her serum magnesium is 1.1 mEq/L with a fractional excretion of magnesium of 8%. Which mechanism best explains the renal magnesium wasting?",
       "choices": [
-        "Bartter syndrome",
-        "Gitelman syndrome",
-        "Liddle syndrome",
-        "Conn syndrome",
-        "Type 1 RTA"
+        "Activation of the calcium-sensing receptor in the TAL",
+        "Direct damage to renal tubular cells impairing magnesium transport and reabsorption",
+        "Inhibition of EGF receptor signaling at TRPM6",
+        "Inhibition of intestinal TRPM6/7 channels",
+        "Inhibition of the NKCC2 cotransporter"
       ],
       "answer": 1,
       "explanations": [
-        "Incorrect. Bartter has HYPERcalciuria.",
-        "Correct. Gitelman syndrome — autosomal recessive loss-of-function in NCC. Phenocopies chronic thiazide use: hypokalemic alkalosis, HYPOmagnesemia (DCT atrophy reduces TRPM6 activity), HYPOcalciuria (the distinguishing feature from Bartter), normal-low BP, elevated renin/aldosterone. Treatment: K+ and Mg2+ supplementation, NaCl, sometimes K+-sparing diuretic.",
-        "Incorrect. Liddle has hypertension.",
-        "Incorrect. Conn has hypertension.",
-        "Incorrect. Type 1 RTA features acidosis and hypokalemia."
+        "Incorrect. CaSR activation reduces TAL paracellular reabsorption but is not the mechanism of cisplatin toxicity.",
+        "Correct. Cisplatin directly damages renal tubular cells, impairing magnesium transport and reabsorption.",
+        "Incorrect. EGFR inhibition at TRPM6 is the mechanism of cetuximab.",
+        "Incorrect. Intestinal TRPM6/7 inhibition is the mechanism of PPIs and causes GI magnesium loss.",
+        "Incorrect. NKCC2 inhibition is the mechanism of loop diuretics."
       ]
     },
     {
       "id": 12,
-      "stem": "A child has hypomagnesemia, hypercalciuria, nephrocalcinosis, and progressive CKD from infancy. Genetic testing reveals a mutation in claudin-16. Which best characterizes this disorder?",
+      "stem": "A 40-year-old woman with hypocalcemia is found to have a gain-of-function mutation in the calcium-sensing receptor (CaSR). She also has hypomagnesemia. Which mechanism in the thick ascending limb best explains her renal magnesium wasting?",
       "choices": [
-        "FHHNC",
-        "Bartter syndrome",
-        "Gitelman syndrome",
-        "Liddle syndrome",
-        "Familial hypocalciuric hypercalcemia"
+        "Direct activation of TRPM6 in the DCT",
+        "Increased lumen-positive charge promoting magnesium secretion",
+        "Reduced lumen-positive charge decreasing paracellular Mg2+ reabsorption",
+        "Stimulation of NKCC2 driving magnesium into the lumen",
+        "Upregulation of claudin-16/19 tight junctions"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanations": [
-        "Correct. FHHNC — autosomal recessive loss-of-function mutations in CLDN16 or CLDN19 (claudins of the TAL paracellular pathway). The TAL cannot properly reabsorb Mg2+ or Ca2+ paracellularly. Result: hypomagnesemia, HYPERcalciuria with nephrocalcinosis and renal stones, progressive CKD often presenting in childhood. Treatment: thiazides reduce hypercalciuria; aggressive Mg2+ replacement; eventually transplant if ESRD.",
-        "Incorrect. Bartter has hypokalemic alkalosis dominating, often with hypomagnesemia, but classically without nephrocalcinosis as the principal feature.",
-        "Incorrect. Gitelman has HYPOcalciuria.",
-        "Incorrect. Liddle has hypertension.",
-        "Incorrect. FHH is benign and features hypocalciuria with hypercalcemia."
+        "Incorrect. CaSR activation does not directly stimulate TRPM6 in the DCT.",
+        "Incorrect. CaSR activation reduces, not increases, the lumen-positive charge in the TAL.",
+        "Correct. Activation of the CaSR decreases the lumen-positive charge in the TAL, reducing paracellular Mg2+ reabsorption and increasing urinary loss.",
+        "Incorrect. NKCC2 brings sodium, potassium, and chloride into the cell, not magnesium into the lumen.",
+        "Incorrect. CaSR activation reduces magnesium reabsorption rather than upregulating claudins."
       ]
     },
     {
       "id": 13,
-      "stem": "A 70-year-old man with severe hypomagnesemia (Mg 0.9) has a generalized tonic-clonic seizure. ECG shows a wide QRS complex and prolonged QT. Which therapy is most appropriate?",
-      "choices": [
-        "Oral magnesium oxide",
-        "IV magnesium sulfate",
-        "Calcium gluconate",
-        "Hydrochlorothiazide",
-        "Vitamin D"
-      ],
-      "answer": 1,
+      "stem": "A 35-year-old man with poorly controlled epilepsy is treated with high-dose IV magnesium for refractory hypomagnesemia. Which hormone, locally produced in the kidney, serves as the primary driver of magnesium reabsorption via TRPM6 in the DCT?",
+      "choices": ["Aldosterone", "Antidiuretic hormone", "Calcitonin", "Epidermal growth factor (EGF)", "Parathyroid hormone (PTH)"],
+      "answer": 3,
       "explanations": [
-        "Incorrect. Oral Mg is for non-urgent replacement; this patient needs IV.",
-        "Correct. Severe symptomatic hypomagnesemia (seizure, tetany, arrhythmia) is treated with IV magnesium sulfate — typically 1–2 g over 15–60 min, followed by continuous infusion or repeat dosing. Concurrent IV calcium and K+ replacement may be needed. Monitor DTRs and ECG; reduced reflexes are a sign of overdose.",
-        "Incorrect. Calcium is not the primary treatment for Mg deficiency itself; it is given separately if hypocalcemia is symptomatic.",
-        "Incorrect. Thiazides actually cause Mg2+ wasting.",
-        "Incorrect. Vit D does not directly correct Mg deficiency."
+        "Incorrect. Aldosterone is not described as a regulator of magnesium handling in this brick.",
+        "Incorrect. ADH regulates water reabsorption and is not the primary driver of TRPM6 activity.",
+        "Incorrect. Calcitonin is not described in the brick as a regulator of magnesium reabsorption.",
+        "Correct. Locally produced EGF stimulates TRPM6 activity and serves as the primary hormonal driver of magnesium reabsorption.",
+        "Incorrect. PTH increases magnesium reabsorption in the TAL but is not the primary driver of TRPM6 in the DCT."
       ]
     },
     {
       "id": 14,
-      "stem": "A 28-year-old woman with severe preeclampsia receives IV magnesium sulfate. Six hours later she has loss of deep tendon reflexes, blood pressure 90/60, and Mg level 9 mg/dL. Which is the most appropriate immediate treatment?",
+      "stem": "A 58-year-old woman with chronic alcoholism presents with a serum magnesium of 1.1 mEq/L, potassium of 2.7 mEq/L, and a calcium of 7.4 mg/dL. Despite aggressive oral and IV potassium replacement, her potassium remains low. Which mechanism best explains her refractory hypokalemia?",
       "choices": [
-        "More magnesium",
-        "Stop Mg; give IV calcium",
-        "Furosemide alone",
-        "Insulin and dextrose",
-        "Hemodialysis"
+        "Aldosterone-driven distal sodium reabsorption with potassium secretion",
+        "Hypocalcemia directly inhibiting potassium reabsorption",
+        "Loss of magnesium plug on ROMK channels increasing distal potassium secretion",
+        "Reduced PTH causing hypokalemia",
+        "Upregulation of NKCC2 increasing potassium delivery to the lumen"
       ],
-      "answer": 1,
+      "answer": 2,
       "explanations": [
-        "Incorrect. More Mg worsens toxicity.",
-        "Correct. Hypermagnesemia toxicity progresses: loss of DTRs (Mg ~5–7) → respiratory depression (~7–10) → cardiac arrest (>12). Treatment: STOP Mg; IV calcium gluconate ANTAGONIZES Mg2+ at the neuromuscular junction (similar physiology to calcium's role in hyperkalemia membrane stabilization); supportive care; furosemide if euvolemic to enhance excretion; dialysis for severe / refractory.",
-        "Incorrect. Furosemide alone is not the immediate first step (though useful adjunct).",
-        "Incorrect. Insulin/glucose is for hyperkalemia.",
-        "Incorrect. Dialysis is reserved for severe / refractory cases."
+        "Incorrect. While aldosterone drives K+ secretion, the brick attributes refractory hypokalemia in hypomagnesemia specifically to ROMK disinhibition.",
+        "Incorrect. Hypocalcemia is not described in the brick as a direct cause of potassium loss.",
+        "Correct. Magnesium normally plugs ROMK channels; in hypomagnesemia this inhibition is removed, leading to excessive distal K+ secretion and refractory hypokalemia.",
+        "Incorrect. Reduced PTH from hypomagnesemia causes hypocalcemia, not hypokalemia.",
+        "Incorrect. NKCC2 is in the TAL and is not the mechanism of refractory hypokalemia in this setting."
       ]
     },
     {
       "id": 15,
-      "stem": "A 60-year-old woman with end-stage renal disease takes a magnesium-containing antacid for indigestion. Two weeks later she has Mg 7.5, weakness, and reduced reflexes. Which best explains the hypermagnesemia?",
+      "stem": "A 47-year-old woman with severe hypomagnesemia (Mg 1.0 mEq/L) is found to have hypocalcemia (Ca 7.2 mg/dL). Her PTH level is inappropriately low. Which mechanism best explains her hypocalcemia?",
       "choices": [
-        "Iatrogenic Mg overload",
-        "Acute pancreatitis",
-        "Acute hemolysis",
-        "Pseudohypermagnesemia",
-        "Adrenal insufficiency"
+        "Direct binding of magnesium to circulating calcium",
+        "Enhanced renal calcium excretion via TRPM6",
+        "Increased calcitonin secretion driven by hypomagnesemia",
+        "Magnesium deficiency decreases PTH secretion and reduces tissue responsiveness to PTH",
+        "Magnesium-induced suppression of vitamin D activation"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanations": [
-        "Correct. Hypermagnesemia is rare with normal renal function (kidneys readily excrete excess Mg2+). In ESRD or AKI, excretion is impaired and exogenous Mg2+ from antacids (Mg(OH)2, milk of magnesia), laxatives, or supplements can accumulate. Other causes: IV Mg in eclampsia treatment, lithium therapy, adrenal insufficiency, tumor lysis. Educate ESRD patients to avoid Mg-containing OTC products.",
-        "Incorrect. Pancreatitis is associated with HYPOcalcemia, not principally hypermagnesemia.",
-        "Incorrect. Hemolysis releases K+ more than Mg2+.",
-        "Incorrect. The hypermagnesemia is real.",
-        "Incorrect. Adrenal insufficiency is a cause but the antacid history is more direct here."
+        "Incorrect. The brick does not describe magnesium binding directly to calcium in the circulation.",
+        "Incorrect. TRPM6 is a magnesium channel and does not control renal calcium excretion in this context.",
+        "Incorrect. Calcitonin is not described as a mediator of hypomagnesemia-induced hypocalcemia.",
+        "Correct. Magnesium deficiency decreases PTH secretion and the responsiveness of bone and kidney to PTH, leading to hypocalcemia that resists correction until magnesium is replaced.",
+        "Incorrect. The brick does not implicate vitamin D suppression as the mechanism."
       ]
     },
     {
       "id": 16,
-      "stem": "A 50-year-old man on chronic loop diuretic for HFrEF has Mg 1.4. Which mechanism best explains loop diuretic-induced hypomagnesemia?",
+      "stem": "A 52-year-old man is admitted with serum Mg 0.9 mEq/L, K 2.8 mEq/L, and Ca 7.0 mg/dL. He has received potassium and calcium boluses without improvement. According to the brick's clinical correlation, which intervention should be prioritized?",
       "choices": [
-        "GI loss of Mg2+",
-        "Loss of TAL lumen-positive voltage",
-        "Direct inhibition of TRPM6",
-        "Increased aldosterone",
-        "Adrenal cortex injury"
+        "Begin calcitriol to enhance intestinal calcium absorption",
+        "Continue calcium replacement and add a thiazide diuretic",
+        "Correct the magnesium first so PTH can be released and electrolytes corrected",
+        "Give a loop diuretic to promote distal sodium delivery",
+        "Start high-dose oral potassium chloride alone"
       ],
-      "answer": 1,
+      "answer": 2,
       "explanations": [
-        "Incorrect. The mechanism is renal, not GI.",
-        "Correct. Loop diuretics inhibit NKCC2 in the TAL, abolishing the K+ recycling and lumen-positive voltage that drives PARACELLULAR Mg2+ (and Ca2+) reabsorption through claudin-16/19. Result: renal Mg2+ wasting. Same mechanism produces hypercalciuria.",
-        "Incorrect. TRPM6 is in the DCT; loop diuretics do not principally inhibit it.",
-        "Incorrect. Increased aldosterone affects K+ secretion, not principally Mg2+.",
-        "Incorrect. Loop diuretics do not directly injure the adrenal cortex."
+        "Incorrect. Calcitriol does not address the underlying hypomagnesemia that is preventing PTH release.",
+        "Incorrect. Thiazides cause additional renal magnesium wasting and worsen the situation.",
+        "Correct. In patients with low Mg and Ca, magnesium must be corrected first so that PTH can be released from the parathyroid gland.",
+        "Incorrect. Loop diuretics worsen renal magnesium wasting via NKCC2 inhibition.",
+        "Incorrect. Potassium will remain low in the setting of unaddressed hypomagnesemia (refractory hypokalemia)."
       ]
     },
     {
       "id": 17,
-      "stem": "A 55-year-old woman on chronic thiazide develops Mg 1.5 mg/dL. Which mechanism best explains thiazide-induced hypomagnesemia?",
-      "choices": [
-        "Acute thiazide-induced TAL injury",
-        "DCT atrophy with reduced TRPM6 expression",
-        "Direct intestinal Mg2+ chelation",
-        "Increased adrenal aldosterone synthesis",
-        "Pseudohypomagnesemia"
-      ],
-      "answer": 1,
+      "stem": "A 38-year-old woman presents with muscle cramps, tetany, and a prolonged QT interval on ECG. Labs show Mg 1.0 mEq/L. Which arrhythmia is she most at risk of developing?",
+      "choices": ["Atrial fibrillation", "First-degree AV block", "Sinus bradycardia", "Torsades de pointes", "Wolff-Parkinson-White tachycardia"],
+      "answer": 3,
       "explanations": [
-        "Incorrect. Thiazides act in the DCT, not principally TAL.",
-        "Correct. Chronic thiazide therapy causes structural and functional atrophy of DCT cells with downregulation of TRPM6 expression — reducing apical Mg2+ uptake. Combined with the proximal volume contraction effect, the net result is Mg2+ wasting. Hypomagnesemia from chronic thiazide is common and contributes to refractory hypokalemia by removing Mg2+-dependent ROMK inhibition.",
-        "Incorrect. Thiazides do not chelate Mg2+ in the gut.",
-        "Incorrect. Aldosterone elevation does not directly cause Mg2+ wasting.",
-        "Incorrect. Hypomagnesemia is real."
+        "Incorrect. The brick does not list atrial fibrillation as a hypomagnesemia complication.",
+        "Incorrect. First-degree AV block is not the arrhythmia specifically tied to hypomagnesemia in this brick.",
+        "Incorrect. Sinus bradycardia is not the highlighted arrhythmia of hypomagnesemia in the brick.",
+        "Correct. Hypomagnesemia is associated with prolonged QT and arrhythmias including torsades de pointes.",
+        "Incorrect. WPW is not associated with hypomagnesemia in this brick."
       ]
     },
     {
       "id": 18,
-      "stem": "A 35-year-old woman with chronic chemotherapy receives high-dose cisplatin. Within 2 weeks she has Mg 1.1 and K+ 3.0. Which best explains the cisplatin effect?",
+      "stem": "A 48-year-old man has a serum magnesium of 1.2 mEq/L. To distinguish renal magnesium wasting from GI losses, which finding would best support a renal cause?",
       "choices": [
-        "Cisplatin causes tubular dysfunction",
-        "Cisplatin is a calcimimetic",
-        "Cisplatin causes adrenal insufficiency",
-        "Cisplatin causes acute hemolysis",
-        "Cisplatin causes pseudohypomagnesemia"
+        "24-hour urine magnesium less than 10 mg/day",
+        "24-hour urine magnesium greater than 30 mg/day",
+        "Fractional excretion of magnesium less than 1%",
+        "Stool magnesium greater than 50 mg/day",
+        "Urine sodium less than 10 mEq/L"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanations": [
-        "Correct. Cisplatin is a recognized nephrotoxin causing both proximal and distal tubular injury. The DCT effect downregulates TRPM6 and reduces Mg2+ reabsorption, often producing severe and persistent hypomagnesemia (sometimes lasting months after therapy). Concurrent K+ and Ca2+ wasting is common. Aggressive electrolyte replacement and adequate hydration during cisplatin therapy reduce nephrotoxicity.",
-        "Incorrect. Cisplatin is not a calcimimetic.",
-        "Incorrect. Cisplatin does not principally cause adrenal insufficiency.",
-        "Incorrect. Cisplatin does not principally cause hemolysis.",
-        "Incorrect. The hypomagnesemia is real."
+        "Incorrect. A low urine magnesium would suggest appropriate renal conservation, indicating a non-renal (GI) cause.",
+        "Correct. A 24-hour urine magnesium greater than 30 mg/day in the setting of hypomagnesemia indicates inappropriate renal magnesium wasting.",
+        "Incorrect. The brick uses FEMg greater than 3-4% (not less than 1%) to indicate renal wasting.",
+        "Incorrect. Stool magnesium is not the threshold cited in the brick to distinguish causes.",
+        "Incorrect. Urine sodium reflects volume status, not magnesium handling."
       ]
     },
     {
       "id": 19,
-      "stem": "A 60-year-old man on chronic tacrolimus after a renal transplant develops Mg 1.5. Which mechanism best explains calcineurin inhibitor-induced hypomagnesemia?",
+      "stem": "A 30-year-old man with hypomagnesemia has a 24-hour urine collection. The fractional excretion of magnesium (FEMg) is 5%. Which formula correctly defines FEMg per the brick?",
       "choices": [
-        "GI Mg2+ loss",
-        "Calcineurin inhibitors downregulate DCT TRPM6",
-        "Direct intestinal Mg2+ chelation",
-        "Acute pancreatitis from tacrolimus",
-        "Hemolysis"
+        "FEMg = (PMg x UCr) / (UMg x PCr) x 100",
+        "FEMg = (UMg x PCr) / (PMg x UCr x 0.7) x 100",
+        "FEMg = (UMg x UCr) / (PMg x PCr) x 100",
+        "FEMg = UMg / PMg x 100",
+        "FEMg = UMg / UCr x 100"
       ],
       "answer": 1,
       "explanations": [
-        "Incorrect. The mechanism is renal.",
-        "Correct. Calcineurin inhibitors (tacrolimus, cyclosporine) downregulate TRPM6 expression in the DCT, producing renal Mg2+ wasting. Hypomagnesemia is common in transplant recipients on these agents and contributes to seizure risk (especially with neurologic toxicity already a concern with tacrolimus). Aggressive oral or IV repletion; sometimes amiloride is added (it has Mg2+-sparing effect).",
-        "Incorrect. Tacrolimus does not chelate Mg2+ in the gut.",
-        "Incorrect. Tacrolimus does not principally cause pancreatitis.",
-        "Incorrect. Tacrolimus does not principally cause hemolysis."
+        "Incorrect. This formula inverts the standard FEMg calculation.",
+        "Correct. The brick defines FEMg = [(UMg x PCr) / (PMg x UCr x 0.7)] x 100; the 0.7 corrects for protein-bound, non-filterable magnesium.",
+        "Incorrect. This formula omits the 0.7 correction factor for protein-bound magnesium.",
+        "Incorrect. This is not a fractional excretion equation; it lacks the creatinine ratio.",
+        "Incorrect. This is a urine concentration ratio, not a fractional excretion calculation."
       ]
     },
     {
       "id": 20,
-      "stem": "A 70-year-old woman has refractory hypomagnesemia despite adequate oral Mg replacement. Adding which K+-sparing diuretic can paradoxically reduce her renal Mg2+ wasting?",
-      "choices": ["Furosemide", "Hydrochlorothiazide", "Amiloride", "Acetazolamide", "Mannitol"],
-      "answer": 2,
+      "stem": "A 42-year-old woman has asymptomatic mild hypomagnesemia (Mg 1.4 mEq/L) attributed to chronic PPI use. Per the brick, what is the preferred initial replacement strategy?",
+      "choices": [
+        "Hemodialysis",
+        "Intramuscular magnesium gluconate",
+        "Intravenous magnesium sulfate with cardiac monitoring",
+        "No replacement; observation alone",
+        "Oral magnesium oxide or magnesium chloride"
+      ],
+      "answer": 4,
       "explanations": [
-        "Incorrect. Loop diuretics WORSEN Mg2+ wasting.",
-        "Incorrect. Thiazides also worsen Mg2+ wasting.",
-        "Correct. Amiloride blocks ENaC in the cortical collecting duct, with secondary effect of REDUCING distal Mg2+ wasting (the mechanism involves modulating the lumen-negative voltage that influences Mg2+ secretion in the late nephron). Used as adjunctive therapy in refractory renal Mg2+ wasting (e.g., from cisplatin, calcineurin inhibitors, Gitelman). Risk: hyperkalemia.",
-        "Incorrect. Acetazolamide is not Mg2+-sparing.",
-        "Incorrect. Mannitol is osmotic; not Mg2+-sparing."
+        "Incorrect. Hemodialysis is reserved for hypermagnesemia in anuric patients.",
+        "Incorrect. The brick does not recommend intramuscular magnesium for replacement.",
+        "Incorrect. IV magnesium sulfate with cardiac monitoring is reserved for severe or symptomatic hypomagnesemia.",
+        "Incorrect. The brick recommends addressing the cause and replacing magnesium even in mild cases.",
+        "Correct. Oral magnesium oxide or magnesium chloride is preferred for mild or asymptomatic hypomagnesemia, though GI upset and diarrhea may limit dosing."
       ]
     },
     {
       "id": 21,
-      "stem": "A 40-year-old man has Mg 1.4, K+ 3.0, and recurrent ventricular arrhythmias. After Mg2+ supplementation, his arrhythmias resolve. Which arrhythmia is most classically associated with hypomagnesemia?",
+      "stem": "A 60-year-old woman presents with seizures and ventricular arrhythmias. Serum magnesium is 0.7 mEq/L. What is the most appropriate management?",
       "choices": [
-        "Atrial flutter",
-        "Sinus bradycardia",
-        "Torsades de pointes",
-        "First-degree AV block",
-        "Right bundle branch block"
+        "Add a thiazide to enhance Mg reabsorption",
+        "IV magnesium sulfate with cardiac monitoring",
+        "Oral magnesium oxide alone",
+        "Start a loop diuretic to promote diuresis",
+        "Withhold magnesium and treat the seizures with benzodiazepines only"
       ],
-      "answer": 2,
+      "answer": 1,
       "explanations": [
-        "Incorrect. Atrial flutter is not the classic Mg2+ arrhythmia.",
-        "Incorrect. Bradycardia is not the classic association.",
-        "Correct. Torsades de pointes — polymorphic ventricular tachycardia in the setting of QT prolongation — is the classic arrhythmia associated with hypomagnesemia (often combined with hypokalemia and QT-prolonging drugs). IV Mg2+ is first-line treatment regardless of measured Mg level. Other Mg2+-related arrhythmias: atrial fibrillation, ventricular ectopy, polymorphic VT.",
-        "Incorrect. AV block is not the classic association.",
-        "Incorrect. RBBB is not the classic association."
+        "Incorrect. Thiazides cause renal magnesium wasting and would worsen hypomagnesemia.",
+        "Correct. Severe or symptomatic hypomagnesemia (such as arrhythmias or seizures) requires IV magnesium sulfate with cardiac monitoring.",
+        "Incorrect. Oral replacement is inadequate for severe symptomatic hypomagnesemia and may be limited by GI side effects.",
+        "Incorrect. Loop diuretics increase urinary magnesium loss.",
+        "Incorrect. Magnesium replacement is needed to address the cause of the seizures and arrhythmias."
       ]
     },
     {
       "id": 22,
-      "stem": "A 32-year-old woman with eclampsia is given IV magnesium sulfate as seizure prophylaxis. Which best explains MgSO4's role in eclampsia?",
-      "choices": [
-        "Direct antihypertensive",
-        "Anticonvulsant via NMDA blockade",
-        "Diuretic",
-        "Corticosteroid",
-        "Tocolytic only"
-      ],
-      "answer": 1,
+      "stem": "A 55-year-old man with refractory renal magnesium wasting from chronic cisplatin therapy continues to lose magnesium despite oral repletion. Per the brick, which adjunctive medication can be used to reduce ongoing renal magnesium loss?",
+      "choices": ["Amiloride", "Furosemide", "Hydrochlorothiazide", "Mannitol", "Spironolactone"],
+      "answer": 0,
       "explanations": [
-        "Incorrect. MgSO4 has modest antihypertensive effect but is not principally a BP-lowering agent.",
-        "Correct. IV MgSO4 is first-line for prevention and treatment of eclamptic seizures. Mechanisms include NMDA-receptor blockade (anticonvulsant), cerebral vasodilation (counters cerebral vasospasm), and stabilization of the neuromuscular junction. Standard regimen: 4–6 g IV loading + 1–2 g/h infusion. Monitor: DTRs (loss = early toxicity), respiratory rate, urine output, Mg level. Antidote for toxicity: IV calcium gluconate.",
-        "Incorrect. MgSO4 is not principally diuretic.",
-        "Incorrect. Not a corticosteroid.",
-        "Incorrect. While Mg has tocolytic effects, the principal eclampsia indication is seizure prevention/treatment."
+        "Correct. The brick states that in cases of ongoing refractory renal magnesium wasting, amiloride or SGLT2 inhibitors can be used.",
+        "Incorrect. Furosemide is a loop diuretic that worsens renal magnesium wasting.",
+        "Incorrect. Hydrochlorothiazide is a thiazide diuretic that causes renal magnesium wasting.",
+        "Incorrect. Mannitol is not mentioned in the brick as a treatment for refractory renal magnesium loss.",
+        "Incorrect. Spironolactone is not the agent specified by the brick for refractory renal magnesium wasting."
       ]
     },
     {
       "id": 23,
-      "stem": "A 28-year-old man has Mg 0.9 mg/dL after recovery from severe DKA with insulin therapy. Which mechanism best explains the post-DKA hypomagnesemia?",
-      "choices": [
-        "Insulin-driven cellular Mg2+ shift",
-        "Acute pancreatitis from DKA",
-        "Increased GI Mg2+ loss",
-        "Aldosterone surge",
-        "Direct ketone toxicity to TRPM6"
-      ],
-      "answer": 0,
+      "stem": "A 68-year-old man with stage 4 CKD (eGFR 22 mL/min/1.73 m2) is taking magnesium citrate for chronic constipation. He presents with lethargy, decreased deep tendon reflexes, and hypotension. ECG shows peaked T waves and a prolonged QRS. Which lab abnormality best explains his clinical picture?",
+      "choices": ["Hypercalcemia", "Hyperkalemia from primary potassium overload", "Hypermagnesemia", "Hypocalcemia", "Hypomagnesemia"],
+      "answer": 2,
       "explanations": [
-        "Correct. DKA produces total-body Mg2+ depletion through osmotic diuresis (renal Mg2+ losses) before treatment. After insulin therapy, the cellular shift effect (insulin drives Mg2+ INTO cells along with K+ and phosphate) unmasks the depletion as serum Mg2+ falls. Replete Mg2+ alongside K+ and phosphate during DKA correction.",
-        "Incorrect. DKA is not principally complicated by pancreatitis.",
-        "Incorrect. GI loss is not the principal route in DKA.",
-        "Incorrect. Aldosterone is not the principal driver.",
-        "Incorrect. Ketones do not directly damage TRPM6."
+        "Incorrect. The constellation of findings (areflexia, hypotension, peaked T waves with prolonged QRS in a CKD patient on Mg citrate) points to magnesium excess.",
+        "Incorrect. Although ECG findings mimic hyperkalemia, the brick attributes this picture in CKD on magnesium citrate to hypermagnesemia.",
+        "Correct. Hypermagnesemia in CKD patients on magnesium-containing products causes muscular weakness, decreased reflexes, lethargy, hypotension, and ECG changes mimicking hyperkalemia (peaked T waves, prolonged QRS).",
+        "Incorrect. Hypocalcemia would present with tetany and prolonged QT, not the constellation described.",
+        "Incorrect. Hypomagnesemia would cause muscle cramps, tetany, prolonged QT, and torsades, not areflexia and hypotension."
       ]
     },
     {
       "id": 24,
-      "stem": "A 45-year-old patient is being given IV magnesium for severe hypomagnesemia. The clinician wants to monitor for toxicity. Which clinical finding is the EARLIEST sign of hypermagnesemia?",
-      "choices": ["Cardiac arrest", "Loss of DTRs", "Coma", "Respiratory paralysis", "Asystole"],
-      "answer": 1,
+      "stem": "A 75-year-old woman with stage 4 CKD has a serum magnesium of 1.3 mEq/L on a loop diuretic. The team plans magnesium repletion. Per the brick, which approach best anticipates CKD-related risk?",
+      "choices": [
+        "Aggressive IV magnesium boluses to normalize Mg quickly",
+        "Avoid all magnesium replacement because of CKD",
+        "Cautious replacement with lower doses, slower repletion, and close monitoring of serum magnesium",
+        "Initiate emergent dialysis prior to any magnesium replacement",
+        "Switch the loop diuretic to a thiazide for better Mg retention"
+      ],
+      "answer": 2,
       "explanations": [
-        "Incorrect. Cardiac arrest is the latest, terminal sign.",
-        "Correct. Loss of deep tendon reflexes is the EARLIEST clinical sign of hypermagnesemia (Mg ~5–7 mg/dL). Progression: → flaccid paralysis → respiratory depression (~7–10) → bradycardia, hypotension → cardiac arrest (>12). Routine monitoring of DTRs, respiratory rate, and BP allows early detection. Treatment: stop Mg, IV calcium, supportive care.",
-        "Incorrect. Coma is a later finding.",
-        "Incorrect. Respiratory paralysis is later.",
-        "Incorrect. Asystole is terminal."
+        "Incorrect. Rapid boluses risk hypermagnesemia in CKD because magnesium excretion is reduced.",
+        "Incorrect. Replacement is still indicated; it should just be slower and carefully monitored.",
+        "Correct. In CKD, magnesium excretion is reduced and hypermagnesemia risk is increased, so replacement should be slower with lower doses and close monitoring.",
+        "Incorrect. Dialysis is reserved for severe hypermagnesemia in anuric patients, not as routine prep.",
+        "Incorrect. Thiazides also cause renal magnesium wasting and would not solve the problem."
       ]
     },
     {
       "id": 25,
-      "stem": "A 50-year-old man has Mg 1.5 mg/dL discovered on routine labs. He is asymptomatic with no medication use that explains it. Which is the most appropriate next step?",
+      "stem": "A 32-year-old woman is admitted at 34 weeks gestation with severe preeclampsia and is started on a continuous magnesium sulfate infusion. Several hours later she becomes lethargic with decreased deep tendon reflexes. Which finding would most strongly support magnesium toxicity as the cause?",
       "choices": [
-        "IV magnesium sulfate immediately",
-        "Oral Mg replacement",
-        "Hemodialysis",
-        "Ignore the result",
-        "Add furosemide"
+        "Hyperreflexia and hypertension",
+        "Hypocalcemia with prolonged QT interval",
+        "Peaked T waves and prolonged QRS on ECG",
+        "Refractory hypokalemia and torsades de pointes",
+        "Tetany and seizures"
       ],
-      "answer": 1,
+      "answer": 2,
       "explanations": [
-        "Incorrect. IV is reserved for severe / symptomatic.",
-        "Correct. Mild asymptomatic hypomagnesemia is treated with oral magnesium salts (Mg oxide, gluconate, citrate); a 24-hour urinary Mg measurement helps distinguish renal wasting (urine Mg >24 mg/day in setting of low serum Mg suggests renal loss) from extra-renal causes (urine Mg <24 mg/day suggests GI loss or redistribution). Identify and address the underlying cause; oral supplementation may be needed long-term in chronic GI or renal causes.",
-        "Incorrect. Dialysis is for hypermagnesemia, not hypomagnesemia.",
-        "Incorrect. Hypomagnesemia warrants attention even if asymptomatic.",
-        "Incorrect. Furosemide worsens Mg2+ wasting."
+        "Incorrect. Hyperreflexia and hypertension are features of preeclampsia, not magnesium toxicity.",
+        "Incorrect. Hypocalcemia with prolonged QT is more characteristic of hypomagnesemia.",
+        "Correct. Hypermagnesemia produces ECG findings mimicking hyperkalemia, including peaked T waves and prolonged QRS, along with decreased reflexes, lethargy, and hypotension.",
+        "Incorrect. Refractory hypokalemia and torsades are features of hypomagnesemia, not hypermagnesemia.",
+        "Incorrect. Tetany and seizures are features of hypomagnesemia and hypocalcemia, not magnesium toxicity."
       ]
     }
   ]

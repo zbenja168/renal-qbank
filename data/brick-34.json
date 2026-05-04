@@ -4,477 +4,477 @@
   "questions": [
     {
       "id": 1,
-      "stem": "A 65-year-old man's serum creatinine rises from 1.0 to 1.5 mg/dL over 48 hours. Urine output is 0.4 mL/kg/h for 8 hours. Which best characterizes his AKI?",
+      "stem": "A 62-year-old woman presents to the ED after a week of severe diarrhea contracted on a cruise. BP is 106/68 mm Hg with orthostasis. Her serum creatinine is 1.8 mg/dL today versus 0.9 mg/dL two months ago, drawn within the last 48 hours. Which finding alone is sufficient to diagnose acute kidney injury by KDIGO criteria in this patient?",
       "choices": [
-        "No AKI",
-        "KDIGO stage 1 AKI",
-        "KDIGO stage 3 AKI",
-        "Chronic kidney disease",
-        "Pseudo-AKI"
+        "Increase in serum creatinine ≥0.3 mg/dL within 48 hours",
+        "Increase in serum creatinine ≥0.1 mg/dL within 24 hours",
+        "Decrease in eGFR by 10 mL/min over 1 month",
+        "Proteinuria ≥1 g/day",
+        "BUN:creatinine ratio >10"
       ],
-      "answer": 1,
+      "answer": 0,
       "explanations": [
-        "Incorrect. Creatinine rise of 0.5 (>0.3) within 48 hours meets AKI criteria.",
-        "Correct. KDIGO stage 1 AKI: serum Cr rise of ≥0.3 mg/dL within 48 hours OR rise to 1.5–1.9× baseline within 7 days, OR urine output <0.5 mL/kg/h for 6–12 hours. Stage 2: Cr 2.0–2.9× baseline OR urine output <0.5 mL/kg/h ≥12 h. Stage 3: Cr ≥3× baseline OR Cr ≥4 OR initiation of RRT OR urine output <0.3 mL/kg/h ≥24 h or anuria ≥12 h.",
-        "Incorrect. Stage 3 requires Cr ≥3× or RRT.",
-        "Incorrect. CKD requires >3 months of dysfunction.",
-        "Incorrect. The Cr rise is real."
+        "Correct. KDIGO defines AKI by an increase in serum creatinine ≥0.3 mg/dL within 48 hours, an increase to ≥1.5× baseline within 7 days, or urine output <0.5 mL/kg/hr for 6–12 hours.",
+        "Incorrect. The KDIGO threshold is ≥0.3 mg/dL within 48 hours, not 0.1 mg/dL within 24 hours.",
+        "Incorrect. KDIGO criteria for AKI are based on creatinine rise or urine output, not a 1-month eGFR trend.",
+        "Incorrect. Proteinuria is not part of the KDIGO definition of AKI.",
+        "Incorrect. A BUN:Cr >20 (not >10) suggests prerenal AKI but is not part of the KDIGO definition."
       ]
     },
     {
       "id": 2,
-      "stem": "A 70-year-old man with severe diarrhea has BUN 60, Cr 2.0 (baseline 1.0), urine Na+ 8, FENa 0.3%, urine osm 580. Which best characterizes his AKI?",
+      "stem": "An 80-kg man in the ICU has produced 200 mL of urine over the past 8 hours. Which urine output threshold from the KDIGO criteria is met by this patient, supporting a diagnosis of acute kidney injury?",
       "choices": [
-        "Acute tubular necrosis",
-        "Pre-renal AKI",
-        "Acute interstitial nephritis",
-        "Post-renal obstruction",
-        "Chronic kidney disease"
+        "Urine output <0.5 mL/kg/hr for 6–12 hours",
+        "Urine output <1.0 mL/kg/hr for 24 hours",
+        "Urine output <100 mL over 6 hours",
+        "Urine output <2 L/day for 2 days",
+        "Urine output <30 mL/hr for 1 hour"
       ],
-      "answer": 1,
+      "answer": 0,
       "explanations": [
-        "Incorrect. ATN features FENa >2%, isosthenuric urine, muddy brown casts.",
-        "Correct. Pre-renal AKI features: BUN:Cr ratio >20:1 (here 30:1); FENa <1%; urine Na+ <20; urine osm >500 (concentrated); bland urine sediment. Causes: hypovolemia (GI losses, blood loss, sepsis early), reduced effective arterial volume (HF, cirrhosis), renal artery stenosis, drugs (NSAIDs, ACEi/ARB). Reversible with restoration of perfusion. If untreated, can progress to ATN.",
-        "Incorrect. AIN features WBC casts, eosinophiluria, drug history.",
-        "Incorrect. Post-renal would have hydronephrosis.",
-        "Incorrect. Acute presentation."
+        "Correct. KDIGO defines AKI by urine output <0.5 mL/kg/hr sustained for 6–12 hours; this patient averages ~0.31 mL/kg/hr over 8 hours.",
+        "Incorrect. The KDIGO cutoff is <0.5 mL/kg/hr, not <1.0 mL/kg/hr.",
+        "Incorrect. KDIGO uses a weight-based rate (mL/kg/hr) rather than a flat 6-hour total.",
+        "Incorrect. KDIGO does not define AKI by a 2-day total urine volume.",
+        "Incorrect. A 1-hour snapshot is too brief; the criterion requires 6–12 hours of low output."
       ]
     },
     {
       "id": 3,
-      "stem": "A 58-year-old man post-cardiac surgery has Cr 3.2 (baseline 1.0), FENa 4%, urine osm 280. Sediment shows muddy brown granular casts. Which is the most likely diagnosis?",
+      "stem": "A 75-year-old man with NYHA class III heart failure is started on ibuprofen for knee pain while continuing his lisinopril. Two weeks later his creatinine has risen from 1.1 to 1.9 mg/dL and BP is 98/60 mm Hg. Which combination of glomerular hemodynamic changes best explains his prerenal AKI?",
       "choices": [
-        "Pre-renal AKI",
-        "Acute tubular necrosis",
-        "Acute interstitial nephritis",
-        "Post-renal obstruction",
-        "Cardiorenal syndrome"
+        "Afferent arteriole constriction from NSAIDs and efferent arteriole dilation from ACE inhibitor",
+        "Afferent arteriole dilation from NSAIDs and efferent arteriole constriction from ACE inhibitor",
+        "Mesangial cell contraction from angiotensin II",
+        "Tubuloglomerular feedback from increased distal sodium delivery",
+        "Direct toxicity to proximal tubular cells"
       ],
-      "answer": 1,
+      "answer": 0,
       "explanations": [
-        "Incorrect. Pre-renal has FENa <1% and concentrated urine.",
-        "Correct. Acute tubular necrosis (ATN) features: FENa >2%, isosthenuric urine (osm ~300), muddy brown granular casts (renal tubular epithelial cells), failure of urine concentrating ability. Causes: ischemic (prolonged hypoperfusion, sepsis, post-cardiac surgery, contrast), nephrotoxic (aminoglycosides, vancomycin, contrast, cisplatin, amphotericin B), pigment-related (myoglobin from rhabdomyolysis, hemoglobinuria). Recovery typically over 1–3 weeks; some cases progress to CKD.",
-        "Incorrect. AIN has WBC casts and eosinophiluria.",
-        "Incorrect. Post-renal would have obstruction.",
-        "Incorrect. Cardiorenal is a specific HF-AKI interaction."
+        "Correct. NSAIDs block prostaglandin-mediated vasodilation, constricting the afferent arteriole, while ACE inhibitors prevent angiotensin II–mediated efferent constriction, dilating the efferent; both lower glomerular filtration pressure.",
+        "Incorrect. NSAIDs constrict (not dilate) the afferent, and ACE inhibitors dilate (not constrict) the efferent.",
+        "Incorrect. Mesangial contraction is not the mechanism described in the brick for NSAID/ACEi-induced prerenal AKI.",
+        "Incorrect. Tubuloglomerular feedback is the mechanism by which ATN reduces GFR, not the NSAID/ACEi combination.",
+        "Incorrect. NSAIDs and ACE inhibitors cause prerenal AKI hemodynamically, not by direct tubular toxicity."
       ]
     },
     {
       "id": 4,
-      "stem": "A 35-year-old man received high-dose IV vancomycin and zosyn for MRSA bacteremia. Two weeks later he has Cr 3.5 (baseline 1.0), eosinophiluria, sterile pyuria, and a maculopapular rash. Which is the most likely diagnosis?",
+      "stem": "A 68-year-old man with severe heart failure presents with edema, an S3 gallop, and rising creatinine. The brick describes this combination of reduced cardiac output and increased renal venous pressure as a blend of pre- and postrenal contributions. Which treatment most directly addresses both components?",
       "choices": [
-        "ATN",
-        "Acute interstitial nephritis",
-        "Pre-renal AKI",
-        "Post-renal obstruction",
-        "Glomerulonephritis"
+        "Loop diuretic to reduce venous congestion",
+        "Normal saline bolus to expand intravascular volume",
+        "ACE inhibitor to lower afterload",
+        "Aminoglycoside antibiotic for occult sepsis",
+        "Bladder catheter for postrenal relief"
       ],
-      "answer": 1,
+      "answer": 0,
       "explanations": [
-        "Incorrect. ATN does not feature rash or eosinophiluria.",
-        "Correct. Acute interstitial nephritis (AIN) — drug-induced hypersensitivity reaction with classic features: AKI, RASH, FEVER, EOSINOPHILIA, eosinophiluria (now considered insensitive), WBC casts, sterile pyuria. Common drugs: PPIs (most common cause now), NSAIDs (often without classic triad), antibiotics (β-lactams, sulfonamides, quinolones, vancomycin), allopurinol, 5-aminosalicylates. Treatment: stop offending drug; corticosteroids if no improvement after 5–7 days. Recovery often slow; some progress to CKD.",
-        "Incorrect. Pre-renal lacks the inflammatory features.",
-        "Incorrect. Post-renal would have obstruction.",
-        "Incorrect. GN features RBC casts and dysmorphic RBCs."
+        "Correct. Per the brick, loop diuretics relieve venous congestion in cardiorenal syndrome, improving both heart and kidney function.",
+        "Incorrect. Saline would worsen volume overload in a patient who is already congested from heart failure.",
+        "Incorrect. The brick specifies ACE inhibitors should NOT be used in this acute setting because they can worsen prerenal AKI.",
+        "Incorrect. Aminoglycosides are nephrotoxic and cause ATN, not a treatment for cardiorenal syndrome.",
+        "Incorrect. Cardiorenal syndrome is not caused by lower urinary obstruction, so a bladder catheter does not address the mechanism."
       ]
     },
     {
       "id": 5,
-      "stem": "A 75-year-old man with BPH has acute oliguria. Cr 3.0 (baseline 1.2). Renal ultrasound shows bilateral hydronephrosis. Which best characterizes his AKI?",
+      "stem": "A 70-year-old woman with septic shock develops AKI on hospital day 3. Her urinalysis shows muddy brown granular casts. Which of the following best explains the fall in GFR according to the brick's description of acute tubular necrosis?",
       "choices": [
-        "Pre-renal AKI",
-        "ATN",
-        "AIN",
-        "Post-renal obstruction",
-        "Glomerulonephritis"
+        "Damaged tubular cells fail to reabsorb sodium, triggering tubuloglomerular feedback that constricts the afferent arteriole",
+        "Immune complex deposition in the glomerular basement membrane",
+        "Hydrostatic obstruction from a kidney stone",
+        "Antibody-mediated podocyte injury",
+        "Efferent arteriole dilation from angiotensin II blockade"
       ],
-      "answer": 3,
+      "answer": 0,
       "explanations": [
-        "Incorrect. Pre-renal has no obstruction.",
-        "Incorrect. ATN does not have hydronephrosis.",
-        "Incorrect. AIN does not have hydronephrosis.",
-        "Correct. Post-renal AKI from BLADDER OUTLET OBSTRUCTION (BPH, urethral stricture) is the most common cause in elderly men. Other causes: bilateral ureteral obstruction (stones, malignancy, retroperitoneal fibrosis, lymph nodes), unilateral obstruction with single functioning kidney. Imaging: renal ultrasound (first-line, shows hydronephrosis), CT for stones or other causes. Treatment: relieve obstruction (Foley catheter for BPH, ureteral stent or nephrostomy for ureteral causes); post-obstructive diuresis monitoring.",
-        "Incorrect. GN has hematuria and RBC casts."
+        "Correct. The brick states that injured tubular cells lose sodium reabsorption, the macula densa senses high distal sodium, and tubuloglomerular feedback constricts the afferent arteriole, lowering GFR. Backleak and tubular obstruction also contribute.",
+        "Incorrect. Immune complex deposition characterizes glomerulonephritis, not ATN.",
+        "Incorrect. Stone obstruction causes postrenal AKI, not the tubular injury seen in ATN.",
+        "Incorrect. Podocyte injury underlies nephrotic glomerular disease, not ATN.",
+        "Incorrect. Efferent dilation describes ACE inhibitor–induced prerenal physiology, not ATN."
       ]
     },
     {
       "id": 6,
-      "stem": "A 70-year-old patient has post-obstructive diuresis after Foley catheter relieved bilateral hydronephrosis from BPH. Urine output is 8 L over 8 hours. Which best characterizes the management?",
+      "stem": "A 64-year-old man develops AKI 24 hours after a coronary angiogram with iodinated contrast. Urine sediment shows renal tubular epithelial cells and muddy brown granular casts. Which segments of the nephron are most directly injured according to the brick?",
       "choices": [
-        "No fluid replacement; observation only",
-        "Aggressive diuresis to prevent edema",
-        "Replace 50–75% of urine output",
-        "ACE inhibitor",
-        "Re-obstruction"
+        "Proximal tubule and thick ascending limb",
+        "Bowman capsule and afferent arteriole",
+        "Distal convoluted tubule and macula densa",
+        "Cortical and medullary collecting ducts",
+        "Glomerular podocytes and mesangium"
       ],
-      "answer": 2,
+      "answer": 0,
       "explanations": [
-        "Incorrect. Without replacement, severe hypovolemia can develop.",
-        "Incorrect. Already diuresing; do not amplify.",
-        "Correct. Post-obstructive diuresis can produce massive water and electrolyte losses (Na+, K+, Mg2+, phosphate). Most patients have appropriate physiologic diuresis (release of retained Na+/water); some develop pathologic diuresis (impaired tubular function, urea-driven). Replace 50–75% of urine output with isotonic fluid (often 0.45% NaCl + dextrose), monitor electrolytes (Na+, K+, Mg2+, phos) every 4–6 hours, monitor weight and BP. Avoid full 1:1 replacement (perpetuates polyuria); avoid no replacement (volume depletion).",
-        "Incorrect. ACEi is not for post-obstructive management.",
-        "Incorrect. Catheter is in place."
+        "Correct. The brick states that renal tubular epithelial cells in the proximal tubule and thick ascending limb are the segments injured during ATN.",
+        "Incorrect. The afferent arteriole constricts secondarily via tubuloglomerular feedback but is not where the tubular cells die.",
+        "Incorrect. The macula densa senses sodium but is not the primarily injured tubular segment in ATN.",
+        "Incorrect. Collecting ducts are not the segments specified by the brick as injured in ATN.",
+        "Incorrect. Glomerular structures are involved in glomerulonephritis, not ATN."
       ]
     },
     {
       "id": 7,
-      "stem": "A 70-year-old man with HFrEF on chronic ACE inhibitor and chronic loop diuretic develops AKI 3 days after starting ibuprofen for back pain. Which mechanism best explains the AKI?",
+      "stem": "A 28-year-old man is brought in after being found down for an unknown duration. CK is 42,000 U/L and urine dipstick is strongly positive for blood with no RBCs on microscopy. His creatinine is rising. Which mechanism best explains his acute kidney injury per the brick?",
       "choices": [
-        "Direct kidney toxicity from ibuprofen",
-        "ACEi + diuretic + NSAID reducing GFR",
-        "Allergic interstitial nephritis",
-        "Rhabdomyolysis",
-        "Acute glomerulonephritis"
+        "Filtered myoglobin causing acute tubular necrosis",
+        "Hemoglobinuria from massive intravascular hemolysis",
+        "Hypersensitivity interstitial nephritis from medications",
+        "Cholesterol embolization from atherosclerotic plaques",
+        "Postinfectious glomerulonephritis"
       ],
-      "answer": 1,
+      "answer": 0,
       "explanations": [
-        "Incorrect. Direct toxicity is one component but the multidrug interaction is the principal mechanism.",
-        "Correct. The 'triple whammy' — NSAID (constricts afferent arteriole by blocking prostaglandin-mediated vasodilation) + ACE inhibitor (dilates efferent arteriole reducing intraglomerular pressure) + diuretic (volume contraction reducing renal perfusion) — combines to reduce GFR. Each individually may be tolerated; together they precipitate AKI especially in elderly, CKD, HF, cirrhosis patients. Recognition: stop NSAID first (most reversible), reduce diuretic, hold ACEi until recovery; optimize volume status.",
-        "Incorrect. AIN can occur with NSAIDs but the temporal pattern with ACEi + diuretic suggests hemodynamic AKI.",
-        "Incorrect. No CK elevation or muscle injury described.",
-        "Incorrect. No GN features."
+        "Correct. The brick lists myoglobinuria from rhabdomyolysis as a filtered toxin that causes ATN.",
+        "Incorrect. Hemoglobinuria from hemolysis can cause ATN but the elevated CK and crush picture point to myoglobin.",
+        "Incorrect. AIN is triggered by drugs or infections via hypersensitivity, not by muscle breakdown.",
+        "Incorrect. Cholesterol emboli typically follow vascular procedures, not crush injury.",
+        "Incorrect. Postinfectious GN follows streptococcal infection and presents with nephritic features, not rhabdomyolysis."
       ]
     },
     {
       "id": 8,
-      "stem": "A 30-year-old man is found unconscious 24 hours after a drug overdose. CK is 45,000, urine dipstick positive for 'blood' but no RBCs on microscopy. Cr is 4.0 (baseline 1.0). Which best characterizes his AKI?",
+      "stem": "A 55-year-old woman is started on a 2-week course of nafcillin for endocarditis. Ten days in, her creatinine rises from 0.9 to 2.4 mg/dL and urinalysis shows WBCs and WBC casts; eosinophils are seen on Hansel staining. Which intrarenal disorder best fits these findings?",
       "choices": [
-        "Glomerulonephritis",
-        "Pigment nephropathy from rhabdomyolysis",
-        "AIN",
-        "Pre-renal",
-        "Post-renal obstruction"
+        "Acute interstitial nephritis",
+        "Acute tubular necrosis",
+        "Rapidly progressive glomerulonephritis",
+        "Cholesterol embolization",
+        "Prerenal azotemia"
       ],
-      "answer": 1,
+      "answer": 0,
       "explanations": [
-        "Incorrect. GN features RBC casts.",
-        "Correct. Rhabdomyolysis-induced AKI from MYOGLOBIN: muscle injury releases myoglobin (and CK, K+, phosphate) into circulation. Myoglobin is filtered, then causes injury via three mechanisms: (1) tubular obstruction (myoglobin casts), (2) direct cytotoxicity, (3) renal vasoconstriction. Diagnostic clue: urine dipstick positive for 'blood' (heme reaction) but NO RBCs on microscopy (myoglobin or hemoglobin without intact cells). Management: aggressive isotonic fluids (target 200–300 mL/h urine output); urinary alkalinization with bicarbonate (pH >6.5) to reduce myoglobin tubular toxicity (controversial); monitor for hyperkalemia, hyperphosphatemia, hypocalcemia.",
-        "Incorrect. AIN has different sediment.",
-        "Incorrect. Pre-renal has different presentation.",
-        "Incorrect. No obstruction."
+        "Correct. AIN is most commonly triggered by antibiotics or NSAIDs via a hypersensitivity reaction; the brick describes WBCs, WBC casts, and eosinophils on Hansel/Wright staining as classic urinalysis findings.",
+        "Incorrect. ATN typically shows tubular epithelial cells and muddy brown casts rather than WBC casts and eosinophils.",
+        "Incorrect. RPGN urinalysis features proteinuria, dysmorphic RBCs, and RBC casts, not WBC casts.",
+        "Incorrect. Cholesterol emboli typically follow a vascular procedure and cause subacute injury over 1–2 weeks; a drug-hypersensitivity picture better fits AIN.",
+        "Incorrect. Prerenal AKI has a normal urinalysis."
       ]
     },
     {
       "id": 9,
-      "stem": "A 65-year-old man with CKD stage 3 (eGFR 35) underwent CT angiography with contrast 48 hours ago. Cr has risen from 1.6 to 2.5. Which best characterizes contrast-induced nephropathy?",
+      "stem": "A 30-year-old man presents with hemoptysis, AKI, and a urinalysis showing proteinuria, dysmorphic RBCs, and RBC casts. Anti-GBM antibodies are positive. According to the brick, which next step is most appropriate to confirm the diagnosis given this presentation?",
       "choices": [
-        "Cr peaks at 24 hours then resolves",
-        "Cr rises 24–72 h after contrast",
-        "Cr falls after contrast",
-        "Cr unchanged",
-        "Cr rises permanently"
+        "Renal biopsy",
+        "Renal ultrasound to look for hydronephrosis",
+        "Trial of intravenous saline",
+        "Bladder catheter placement",
+        "Repeat creatinine in 7 days"
       ],
-      "answer": 1,
+      "answer": 0,
       "explanations": [
-        "Incorrect. Peak is typically 3–5 days, not 24 hours.",
-        "Correct. Contrast-induced nephropathy (CIN) / contrast-associated AKI: rise in Cr within 24–72 hours after IV contrast, peak at 3–5 days, return to baseline by 1–2 weeks in most. Risk factors: pre-existing CKD (especially eGFR <60), diabetes, volume depletion, age, large contrast volume, NSAIDs, ACEi/ARB, metformin (lactic acidosis risk if AKI develops). Prevention: isotonic IV fluid (NaHCO3 or NS) before/after; lowest contrast volume; iso-osmolar contrast; hold NSAIDs/diuretics around contrast. N-acetylcysteine has fallen out of favor (PRESERVE trial).",
-        "Incorrect. Cr rises with CIN.",
-        "Incorrect. Effect is real.",
-        "Incorrect. Most cases reversible."
+        "Correct. The brick states that most patients with suspected RPGN (e.g., Goodpasture syndrome) need a renal biopsy because of the specific immunosuppressive treatment required.",
+        "Incorrect. Ultrasound is the test of choice for postrenal AKI, not RPGN.",
+        "Incorrect. A saline trial is a diagnostic/therapeutic maneuver for prerenal AKI from volume depletion.",
+        "Incorrect. A bladder catheter is used to evaluate suspected bladder outlet obstruction, not RPGN.",
+        "Incorrect. Delaying diagnostic workup for a week risks irreversible nephron loss in RPGN."
       ]
     },
     {
       "id": 10,
-      "stem": "A 55-year-old woman with newly diagnosed acute leukemia is started on chemotherapy. Within 24 hours she develops AKI with K+ 6.5, phosphate 9.0, uric acid 14, and Ca 7.2. Which best characterizes her AKI?",
+      "stem": "A 72-year-old man develops AKI 10 days after coronary catheterization. He has livedo reticularis on his lower extremities, eosinophilia, eosinophiluria, and low complement levels. Which mechanism best explains his subacute kidney injury per the brick?",
       "choices": [
-        "Tumor lysis syndrome",
-        "Allergic interstitial nephritis",
-        "Pre-renal AKI",
-        "Post-renal obstruction",
-        "Membranous nephropathy"
+        "Cholesterol crystals breaking off atherosclerotic plaques and lodging in renal arterioles",
+        "Direct tubular toxicity from iodinated contrast",
+        "IgA deposition in the mesangium",
+        "Bilateral ureteral compression from a pelvic mass",
+        "ACE inhibitor–induced efferent arteriole dilation"
       ],
       "answer": 0,
       "explanations": [
-        "Correct. Tumor lysis syndrome — rapid release of intracellular contents from dying tumor cells: K+ (hyperkalemia), phosphate (hyperphosphatemia), nucleic acid breakdown to URIC ACID. Calcium falls (Ca-phosphate precipitation in tissues including kidney). Kidney injury from URIC ACID (uric acid crystals in tubules in acidic urine) and CALCIUM-PHOSPHATE deposition. Most common with hematologic malignancies (leukemia, lymphoma) and bulky tumors after chemotherapy. Prevention: aggressive hydration, allopurinol (reduces new uric acid formation), or rasburicase (degrades existing uric acid — more effective). Treatment: aggressive IV fluids, urinary alkalinization (controversial — promotes Ca-phos precipitation), rasburicase, dialysis for severe.",
-        "Incorrect. AIN has different presentation.",
-        "Incorrect. Pre-renal does not feature this electrolyte profile.",
-        "Incorrect. Post-renal has hydronephrosis.",
-        "Incorrect. Membranous is glomerular with proteinuria."
+        "Correct. The brick describes cholesterol embolization after invasive arterial procedures, causing subacute AKI over 1–2 weeks with eosinophilia, eosinophiluria, and low complement.",
+        "Incorrect. Contrast-induced ATN occurs over hours to days, not 1–2 weeks, and does not classically produce low complement.",
+        "Incorrect. IgA vasculitis can cause RPGN but is not associated with the post-catheterization, low-complement, eosinophilic picture described.",
+        "Incorrect. Ureteral compression causes postrenal AKI with hydronephrosis, not eosinophiluria.",
+        "Incorrect. ACE inhibitor effects are hemodynamic and do not cause eosinophiluria or low complement."
       ]
     },
     {
       "id": 11,
-      "stem": "A 60-year-old man with cirrhosis and refractory ascites has Cr rising from 1.0 to 2.5 with oliguria. Urine Na+ <10, urine sediment bland, no improvement with volume challenge. Which best characterizes his AKI?",
+      "stem": "An 82-year-old man with benign prostatic hyperplasia is brought in unable to void for 24 hours. Suprapubic fullness is present and creatinine is 3.2 mg/dL. Which intervention is most appropriate as both diagnostic and therapeutic for his suspected postrenal AKI?",
       "choices": [
-        "Pre-renal AKI from volume depletion",
-        "Hepatorenal syndrome",
-        "Acute tubular necrosis",
-        "Glomerulonephritis",
-        "Allergic interstitial nephritis"
+        "Place a urinary catheter and observe for improvement in urine output and creatinine",
+        "Bolus 2 L of normal saline",
+        "Start an ACE inhibitor",
+        "Begin empiric high-dose corticosteroids",
+        "Order an aminoglycoside antibiotic"
       ],
-      "answer": 1,
+      "answer": 0,
       "explanations": [
-        "Incorrect. Lack of response to volume distinguishes from typical pre-renal.",
-        "Correct. Hepatorenal syndrome (HRS) — functional renal failure in advanced cirrhosis from intense renal vasoconstriction triggered by splanchnic vasodilation and reduced effective arterial volume. Diagnostic features: cirrhosis with portal hypertension; AKI; absence of other identifiable cause; lack of improvement after volume challenge with albumin (1 g/kg up to 100 g for 2 days); bland urine sediment; low urine Na+. Treatment: terlipressin + albumin (FDA approved 2022); norepinephrine alternative; TIPS for selected; liver transplant is definitive. Avoid further nephrotoxins.",
-        "Incorrect. ATN typically has muddy brown casts and FENa >2%.",
-        "Incorrect. GN features RBC casts.",
-        "Incorrect. AIN features pyuria, eosinophiluria, drug history."
+        "Correct. The brick states that in suspected obstruction below the bladder, placing a urinary catheter to see whether urine output improves and creatinine falls is both diagnostic and therapeutic for postrenal AKI.",
+        "Incorrect. Saline bolus addresses prerenal volume depletion, not bladder outlet obstruction.",
+        "Incorrect. ACE inhibitors can worsen AKI and do not relieve obstruction.",
+        "Incorrect. Steroids are used for some glomerular diseases or AIN, not BPH-related obstruction.",
+        "Incorrect. Aminoglycosides are nephrotoxic and unrelated to relieving obstruction."
       ]
     },
     {
       "id": 12,
-      "stem": "A 75-year-old man with HFrEF and worsening pulmonary edema has rising Cr from 1.4 to 2.5 over 2 days during diuresis. Which best characterizes his AKI?",
+      "stem": "A 65-year-old woman with diabetic CKD (baseline eGFR 25) develops AKI after passing a kidney stone that obstructs her left ureter. The right kidney has chronic atrophy. Which concept from the brick best explains why a unilateral obstruction caused AKI in this patient?",
       "choices": [
-        "ATN",
-        "Cardiorenal syndrome",
-        "AIN",
-        "Post-renal obstruction",
-        "Membranous nephropathy"
+        "The contralateral kidney could not hyperfiltrate enough to compensate because of advanced CKD",
+        "Unilateral obstruction always causes AKI",
+        "The obstructed kidney releases toxins that damage the contralateral kidney",
+        "Stones cause direct tubular toxicity",
+        "Stones trigger systemic vasoconstriction"
       ],
-      "answer": 1,
+      "answer": 0,
       "explanations": [
-        "Incorrect. ATN typically has muddy brown casts.",
-        "Correct. Cardiorenal syndrome — bidirectional dysfunction between heart and kidney. Type 1 (acute cardiorenal): acute HF causes AKI through reduced cardiac output, elevated venous pressure transmitted backward to renal veins (impaired renal perfusion despite low cardiac output), neurohormonal activation, diuretic effects. Type 2: chronic HF causes CKD; Type 3 acute renocardiac (AKI causes acute HF); Type 4 chronic renocardiac; Type 5 secondary cardiorenal (sepsis, etc). Management: balance volume (continue diuresis carefully — venous congestion impairs kidney perfusion), tolerate mild Cr rise with effective decongestion; avoid over-diuresis; ultrafiltration in selected cases.",
-        "Incorrect. AIN features eosinophiluria.",
-        "Incorrect. No obstruction.",
-        "Incorrect. Membranous is glomerular."
+        "Correct. The brick notes that unilateral obstruction usually does not cause AKI because the contralateral kidney hyperfiltrates, but in advanced CKD with low baseline eGFR this compensation is inadequate.",
+        "Incorrect. The brick explicitly states unilateral obstruction typically does NOT cause AKI.",
+        "Incorrect. The brick attributes AKI in this scenario to inadequate compensation, not toxin release.",
+        "Incorrect. Postrenal AKI is hemodynamic (back-pressure on Bowman space), not direct tubular toxicity.",
+        "Incorrect. Systemic vasoconstriction is not the mechanism described for postrenal AKI."
       ]
     },
     {
       "id": 13,
-      "stem": "A 50-year-old man with sepsis from pneumonia has Cr 3.0 (baseline 1.0) and oliguria. He has received aggressive fluid resuscitation. Which best characterizes sepsis-related AKI?",
+      "stem": "A 55-year-old man with cirrhosis presents with dehydration. Labs show BUN 60 mg/dL, creatinine 2.0 mg/dL, urine sodium 12 mEq/L, and FENa 0.4%. Which AKI category do these urine indices most strongly support per the brick?",
       "choices": [
-        "Pure pre-renal physiology",
-        "Multifactorial sepsis-related AKI",
-        "Direct bacterial invasion of nephrons",
-        "Allergic interstitial nephritis",
-        "Post-renal obstruction"
+        "Prerenal AKI",
+        "Acute tubular necrosis",
+        "Acute interstitial nephritis",
+        "Postrenal AKI from BPH",
+        "Rapidly progressive glomerulonephritis"
       ],
-      "answer": 1,
+      "answer": 0,
       "explanations": [
-        "Incorrect. Sepsis-AKI is multifactorial, not pure pre-renal.",
-        "Correct. Sepsis is the most common cause of AKI in hospitalized patients. Pathophysiology is multifactorial: hemodynamic (vasodilation, distributive shock), microcirculatory dysfunction (capillary leak, endothelial injury), direct cytokine-mediated tubular injury, mitochondrial dysfunction, increased oxidative stress. Despite the name 'septic ATN', the histology often shows minimal frank necrosis. Management: source control, antibiotics, fluid resuscitation (avoiding over-resuscitation), vasopressors, vasopressin, supportive care, RRT when indicated.",
-        "Incorrect. Direct bacterial invasion is rare.",
-        "Incorrect. AIN features different sediment.",
-        "Incorrect. Sepsis does not principally cause obstruction."
+        "Correct. Prerenal AKI shows BUN:Cr >20, urine sodium <20 mEq/L, and FENa <1% from avid renal sodium retention.",
+        "Incorrect. ATN typically has urine Na >40 mEq/L and FENa >2% because damaged tubules cannot reabsorb sodium.",
+        "Incorrect. AIN urine sodium and FENa vary and are not characterized by these tightly low values.",
+        "Incorrect. FENa and urine sodium are not reliable in postrenal AKI per the brick.",
+        "Incorrect. RPGN urinary indices vary and are not specifically low; the diagnostic clue is dysmorphic RBCs and RBC casts."
       ]
     },
     {
       "id": 14,
-      "stem": "A 65-year-old man with AKI (Cr 5.0) has K+ 7.0, HCO3− 12, BUN 95, and uremic pericarditis on echo. He is fluid-overloaded with pulmonary edema. Which is the most appropriate management?",
+      "stem": "A 70-year-old woman on chronic furosemide for heart failure becomes volume depleted from gastroenteritis. Urinalysis is normal but urine sodium is 55 mEq/L and FENa is 2.5%. What is the most likely explanation for these urine indices according to the brick?",
       "choices": [
-        "Continued conservative therapy",
-        "Initiate renal replacement therapy",
-        "Stop all medications",
-        "ACE inhibitor for BP",
-        "Aggressive diuresis alone"
+        "Diuretic use raises urine sodium and FENa even in prerenal AKI",
+        "She has acute tubular necrosis",
+        "She has rapidly progressive glomerulonephritis",
+        "She has obstructive uropathy",
+        "She has a falsely low serum creatinine"
       ],
-      "answer": 1,
+      "answer": 0,
       "explanations": [
-        "Incorrect. Multiple severe RRT indications exist.",
-        "Correct. Indications for RRT in AKI (mnemonic AEIOU): ACIDOSIS (severe metabolic, refractory); ELECTROLYTES (severe hyperkalemia not responsive to medical therapy); INTOXICATIONS (dialyzable toxins — lithium, salicylate, methanol, ethylene glycol, metformin); OVERLOAD (refractory volume overload, especially with pulmonary edema); UREMIA (symptomatic — pericarditis, encephalopathy, bleeding). This patient has multiple indications. Modalities: intermittent HD, continuous (CRRT — preferred in hemodynamically unstable), peritoneal dialysis. Initiation timing remains debated; most data support no clear benefit to early vs late RRT in AKI without urgent indications.",
-        "Incorrect. Some medications (ACEi, NSAIDs) need to be stopped, but RRT is needed.",
-        "Incorrect. ACEi is contraindicated in AKI with hyperkalemia.",
-        "Incorrect. Diuresis alone won't address acidosis, hyperkalemia, uremia."
+        "Correct. The brick warns that patients with prerenal AKI on ongoing diuretics may have high urine sodium and FENa, not low, because diuretics force sodium excretion.",
+        "Incorrect. ATN urinalysis typically shows tubular cells and muddy brown casts; this patient's UA is normal.",
+        "Incorrect. RPGN would show proteinuria, dysmorphic RBCs, and RBC casts.",
+        "Incorrect. Obstructive uropathy is suggested by hydronephrosis, not by elevated FENa.",
+        "Incorrect. Diuretics do not falsely lower serum creatinine."
       ]
     },
     {
       "id": 15,
-      "stem": "A 30-year-old researcher reviews FENa interpretation. Which best characterizes FENa <1% in AKI?",
+      "stem": "A 60-year-old woman has AKI of unclear etiology. Renal ultrasound shows a swollen, dilated collecting system with prominent dilated calyces — the classic 'bear paw' appearance. Which AKI category does this finding diagnose?",
       "choices": [
-        "Pre-renal AKI",
-        "ATN",
-        "AIN",
-        "Post-renal",
-        "Pseudo-AKI"
+        "Postrenal AKI",
+        "Prerenal AKI",
+        "Acute tubular necrosis",
+        "Acute interstitial nephritis",
+        "Rapidly progressive glomerulonephritis"
       ],
       "answer": 0,
       "explanations": [
-        "Correct. FENa = (UNa × PCr) / (PNa × UCr) × 100. FENa <1% suggests pre-renal physiology — kidney appropriately retaining Na+. FENa >2% suggests intrinsic AKI (ATN, AIN, GN) — kidney unable to reabsorb Na+. FENa 1–2% is intermediate. Caveats: diuretic use makes FENa unreliable (use FE-urea instead, <35% suggests pre-renal); contrast nephropathy and rhabdomyolysis often have low FENa despite intrinsic injury; chronic CKD complicates interpretation; severe hepatorenal syndrome has very low FENa. Always interpret in clinical context.",
-        "Incorrect. ATN has high FENa.",
-        "Incorrect. AIN typically has variable FENa.",
-        "Incorrect. Post-renal has variable FENa.",
-        "Incorrect. The Cr rise is real."
+        "Correct. Hydronephrosis on ultrasound (the bear paw appearance from dilated calyces) is the brick's defining finding for postrenal AKI.",
+        "Incorrect. Renal ultrasound is normal in prerenal AKI.",
+        "Incorrect. Renal ultrasound is normal in ATN.",
+        "Incorrect. Renal ultrasound is normal in AIN.",
+        "Incorrect. Renal ultrasound is normal in RPGN."
       ]
     },
     {
       "id": 16,
-      "stem": "A 70-year-old man on chronic furosemide has AKI with Cr 2.5 (baseline 1.0). FENa is 1.5%. Which alternative test best assesses pre-renal physiology in this diuretic-treated patient?",
+      "stem": "A 50-year-old man develops AKI in the hospital. Microscopy of his urine shows oval cells with eccentric nuclei whose diameter is roughly two-thirds of the cell diameter ('fried egg' cells), along with dark rectangular granular casts. Which intrarenal diagnosis do these findings most support?",
       "choices": [
-        "FE-creatinine",
-        "Fractional excretion of urea (<35%)",
-        "FENa repeat",
-        "Urine specific gravity alone",
-        "Plasma osmolality alone"
+        "Acute tubular necrosis",
+        "Acute interstitial nephritis",
+        "Rapidly progressive glomerulonephritis",
+        "Prerenal azotemia",
+        "Bladder outlet obstruction"
       ],
-      "answer": 1,
+      "answer": 0,
       "explanations": [
-        "Incorrect. FE-Cr is not the standard.",
-        "Correct. Diuretics increase urinary Na+ excretion, falsely elevating FENa. FRACTIONAL EXCRETION OF UREA (FE-urea) is more reliable in diuretic-treated patients because urea handling is less affected by loop and thiazide diuretics. FE-urea <35% suggests pre-renal physiology; >50% suggests intrinsic AKI. Calculate similarly to FENa: (Uurea × PCr) / (Purea × UCr) × 100. Caveat: still affected by some conditions (CKD, age).",
-        "Incorrect. FENa is unreliable with diuretic.",
-        "Incorrect. SG alone is insensitive.",
-        "Incorrect. Plasma osm alone does not differentiate."
+        "Correct. The brick identifies renal tubular epithelial cells (fried-egg appearance) and muddy brown granular casts as the classic urinalysis findings of ATN.",
+        "Incorrect. AIN shows WBCs, WBC casts, and sometimes eosinophils, not muddy brown casts.",
+        "Incorrect. RPGN urinalysis features proteinuria, dysmorphic RBCs, and RBC casts.",
+        "Incorrect. Prerenal AKI has a normal urinalysis.",
+        "Incorrect. Bladder outlet obstruction may show hematuria and is diagnosed by imaging, not muddy brown casts."
       ]
     },
     {
       "id": 17,
-      "stem": "A 55-year-old woman on a third-line antibiotic for refractory infection has AKI with FENa 3%, sterile pyuria, and WBC casts. Which is the most appropriate first step?",
+      "stem": "A 35-year-old woman presents with AKI, hemoptysis, and a urinalysis with proteinuria, hematuria, and acanthocytes (ring-shaped dysmorphic RBCs with blebs) plus RBC casts. Which AKI subtype is most consistent with these findings?",
       "choices": [
-        "Continue antibiotic; observe",
-        "Stop offending drug; consider corticosteroids",
-        "Begin dialysis immediately",
-        "Aggressive diuresis",
-        "Surgical evaluation"
+        "Rapidly progressive glomerulonephritis",
+        "Acute tubular necrosis",
+        "Acute interstitial nephritis",
+        "Prerenal AKI",
+        "Postrenal AKI from a stone"
       ],
-      "answer": 1,
+      "answer": 0,
       "explanations": [
-        "Incorrect. Continuing the offender worsens AIN.",
-        "Correct. Acute interstitial nephritis (AIN) management: STOP THE OFFENDING DRUG (most important step) — recovery often follows over weeks. Corticosteroids (prednisone 1 mg/kg/day for 4–6 weeks tapered) are considered if no recovery in 5–7 days; benefit is debated but commonly used for severe or refractory cases. Renal biopsy may be needed for confirmation if the diagnosis is unclear or recovery is delayed. Dialysis only if severe AKI with indications.",
-        "Incorrect. Dialysis only if specific indications.",
-        "Incorrect. Diuresis is not the principal treatment.",
-        "Incorrect. AIN is not surgical."
+        "Correct. The brick lists proteinuria, dysmorphic RBCs (acanthocytes), and RBC casts as the urinalysis hallmarks of RPGN, including Goodpasture syndrome and lupus nephritis.",
+        "Incorrect. ATN shows tubular cells and muddy brown casts, not acanthocytes.",
+        "Incorrect. AIN shows WBCs, WBC casts, and eosinophils.",
+        "Incorrect. Prerenal AKI has a normal urinalysis.",
+        "Incorrect. Stones produce hematuria with crystals, not dysmorphic RBCs and RBC casts."
       ]
     },
     {
       "id": 18,
-      "stem": "A 30-year-old researcher reviews the timing of AKI biomarkers. Which best characterizes the rise of serum creatinine in AKI?",
+      "stem": "A 62-year-old woman returns from a cruise with a week of diarrhea, BP 106/68 mm Hg with orthostasis, BUN 41 mg/dL and creatinine 1.8 mg/dL (both previously normal). She is alert without edema. What is the most appropriate initial management per the brick?",
       "choices": [
-        "Cr rises within seconds",
-        "Cr rises 24–48 h after injury",
-        "Cr rises only when AKI is irreversible",
-        "Cr is the earliest AKI biomarker",
-        "Cr does not change in AKI"
+        "Volume repletion with isotonic 0.9% normal saline",
+        "Loop diuretic to increase urine output",
+        "Start an ACE inhibitor",
+        "Initiate hemodialysis",
+        "Begin empiric corticosteroids"
       ],
-      "answer": 1,
+      "answer": 0,
       "explanations": [
-        "Incorrect. Cr is delayed.",
-        "Correct. Serum creatinine rises 24–48 hours after the injury — a fundamental limitation that delays AKI recognition. This delay has prompted research into earlier biomarkers: NGAL (neutrophil gelatinase-associated lipocalin), KIM-1 (kidney injury molecule 1), TIMP-2 × IGFBP-7 (Nephrocheck — FDA-approved for early AKI risk prediction). Cystatin C is an alternative GFR marker less affected by muscle mass. None has fully replaced Cr in clinical practice. Urinary biomarkers may aid early recognition in critically ill patients at risk.",
-        "Incorrect. Cr is reversibly elevated in many AKI cases.",
-        "Incorrect. Cr is delayed.",
-        "Incorrect. Cr does change."
+        "Correct. Prerenal AKI from volume depletion is treated with isotonic saline, which increases GFR by restoring effective arterial blood volume.",
+        "Incorrect. Diuretics would worsen volume depletion in this hypovolemic patient.",
+        "Incorrect. ACE inhibitors should be avoided in AKI as they can worsen prerenal physiology.",
+        "Incorrect. Dialysis is not indicated for uncomplicated prerenal AKI that is responsive to fluids.",
+        "Incorrect. Steroids are used for selected glomerular diseases or AIN, not for prerenal AKI from diarrhea."
       ]
     },
     {
       "id": 19,
-      "stem": "A 60-year-old woman has Cr 2.0 (baseline 1.0). Urine sediment shows muddy brown granular casts. Which best characterizes the implication of these casts?",
+      "stem": "A 70-year-old woman with AKI after cardiac surgery has potassium 6.7 mEq/L, creatinine 4.0 mg/dL, bicarbonate 15 mEq/L, peaked T waves on ECG, anuria, and worsening hyperkalemia despite insulin/glucose and a potassium-binding resin. Which definitive intervention is now indicated per the brick?",
       "choices": [
-        "Glomerulonephritis",
-        "Acute tubular necrosis",
-        "Pre-renal AKI",
-        "Acute interstitial nephritis",
-        "UTI"
+        "Urgent dialysis",
+        "Begin erythropoietin injections",
+        "Start an ACE inhibitor",
+        "Restrict dietary protein",
+        "Increase the loop diuretic dose"
       ],
-      "answer": 1,
+      "answer": 0,
       "explanations": [
-        "Incorrect. GN has RBC casts.",
-        "Correct. Muddy brown granular casts (renal tubular epithelial casts) are PATHOGNOMONIC for ATN. Their presence is highly specific. Other findings supporting ATN: tubular epithelial cells, FENa >2%, isosthenuric urine. Sediment findings in other AKI: pre-renal — bland, hyaline casts; AIN — WBCs, eosinophils, WBC casts; GN — RBCs, dysmorphic RBCs, RBC casts; nephrotic — fatty casts, oval fat bodies, lipid droplets ('Maltese cross' under polarized light); post-renal — variable.",
-        "Incorrect. Pre-renal has bland sediment.",
-        "Incorrect. AIN has WBC casts.",
-        "Incorrect. UTI has WBCs and bacteria but not principally muddy brown casts."
+        "Correct. Severe electrolyte imbalance (hyperkalemia >6.5 mEq/L) refractory to medical therapy is an AEIOU indication for emergent dialysis.",
+        "Incorrect. Erythropoietin treats anemia of CKD; it is not a treatment for hyperkalemia.",
+        "Incorrect. ACE inhibitors raise potassium and would worsen this patient's hyperkalemia.",
+        "Incorrect. Protein restriction does not address acute, life-threatening hyperkalemia.",
+        "Incorrect. The patient is anuric and refractory to medical therapy, so loop diuretics will not work."
       ]
     },
     {
       "id": 20,
-      "stem": "A 70-year-old man with sustained AKI is being assessed for continuous renal replacement therapy (CRRT) vs intermittent hemodialysis. Which best characterizes the choice?",
+      "stem": "A 67-year-old man with ATN develops nausea, asterixis, and a pericardial friction rub on day 7. Labs show BUN 110, Cr 6.0, and pH 7.18. Per the brick's AEIOU mnemonic, which finding represents an indication for emergent dialysis in this patient?",
       "choices": [
-        "CRRT is contraindicated in AKI",
-        "CRRT for unstable; IHD for stable",
-        "IHD is contraindicated in AKI",
-        "Both are identical",
-        "Peritoneal dialysis is always preferred"
+        "Uremic pericarditis",
+        "BUN >100 alone",
+        "Asymptomatic anemia",
+        "Mild hyperphosphatemia",
+        "Isolated metabolic alkalosis"
       ],
-      "answer": 1,
+      "answer": 0,
       "explanations": [
-        "Incorrect. CRRT is the dialysis modality of choice in many ICU AKI patients.",
-        "Correct. CRRT (continuous renal replacement therapy: CVVH, CVVHD, CVVHDF) is preferred in HEMODYNAMICALLY UNSTABLE patients — slower fluid removal and solute clearance over 24 hours minimize hemodynamic shifts. Intermittent HEMODIALYSIS (IHD) is faster (3–4 hours) and preferred in stable patients. SLED (sustained low-efficiency dialysis) is intermediate (8–12 h). Peritoneal dialysis is rarely used in adult AKI. No mortality difference between CRRT and IHD in stable patients (RENAL trial); CRRT preferred for unstable.",
-        "Incorrect. IHD is widely used.",
-        "Incorrect. They differ.",
-        "Incorrect. PD is rarely used in adult AKI."
+        "Correct. AEIOU includes Uremic signs such as pericarditis or encephalopathy as indications for dialysis; uremic pericarditis is an emergent indication per the brick.",
+        "Incorrect. The brick does not list a BUN threshold alone as an AEIOU criterion.",
+        "Incorrect. Anemia is a complication of CKD, not an emergent dialysis indication.",
+        "Incorrect. Mild hyperphosphatemia is not in the AEIOU mnemonic.",
+        "Incorrect. AEIOU includes acidosis (pH <7.1), not alkalosis."
       ]
     },
     {
       "id": 21,
-      "stem": "A 50-year-old man with crush injuries from a building collapse has Cr 3.5, K+ 6.8, phosphate 8.0, calcium 7.2, and CK 80,000. Which is the most appropriate INITIAL fluid management?",
+      "stem": "An intern asks about the AEIOU dialysis indications. Which pH value represents the acidosis threshold for dialysis as defined by the brick?",
       "choices": [
-        "Restrict fluids",
-        "Aggressive isotonic fluids",
-        "D5W only",
-        "Hypertonic saline",
-        "Mannitol monotherapy"
+        "pH <7.1",
+        "pH <7.35",
+        "pH <7.25",
+        "pH <6.9",
+        "pH <7.45"
       ],
-      "answer": 1,
+      "answer": 0,
       "explanations": [
-        "Incorrect. Restriction worsens rhabdo AKI.",
-        "Correct. Rhabdomyolysis-induced AKI: aggressive isotonic IV fluid resuscitation (often 1–2 L initial bolus, then 200–500 mL/h) targeting urine output 200–300 mL/h to dilute and clear myoglobin, prevent crystal precipitation. Urinary alkalinization with bicarbonate (pH >6.5) is theoretically protective (reduces myoglobin breakdown to nephrotoxic metabolites and Ca-phosphate precipitation) — practice variable. Watch for hyperkalemia, hyperphosphatemia, hypocalcemia (Ca-phos precipitation), compartment syndrome. Mannitol historic; not routinely recommended.",
-        "Incorrect. D5W alone does not provide effective volume.",
-        "Incorrect. Hypertonic saline not standard.",
-        "Incorrect. Mannitol monotherapy is no longer standard."
+        "Correct. The brick lists 'Metabolic Acidosis (pH <7.1)' as the A in the AEIOU dialysis indications.",
+        "Incorrect. pH <7.35 is the general definition of acidemia, not the dialysis threshold.",
+        "Incorrect. pH <7.25 is not the brick's stated dialysis threshold.",
+        "Incorrect. pH <6.9 is more severe than the brick's stated threshold of <7.1.",
+        "Incorrect. pH <7.45 is alkalemia and is not an indication for dialysis."
       ]
     },
     {
       "id": 22,
-      "stem": "A 60-year-old woman has rapidly progressive glomerulonephritis (Cr 4.5, hematuria, RBC casts, proteinuria 3 g/day). Which best characterizes the initial workup?",
+      "stem": "A 60-year-old woman with AKI is producing 350 mL of urine per day. Per the brick's classification of AKI by urine output, how should her output be categorized?",
       "choices": [
-        "Urology consult only",
-        "Serologies and urgent biopsy",
-        "Long observation",
-        "Diuretic challenge",
-        "Urine culture only"
+        "Oliguric",
+        "Non-oliguric",
+        "Anuric",
+        "Polyuric",
+        "Normal"
       ],
-      "answer": 1,
+      "answer": 0,
       "explanations": [
-        "Incorrect. RPGN is a medical, not urologic, emergency.",
-        "Correct. RAPIDLY PROGRESSIVE GLOMERULONEPHRITIS (RPGN) — clinical syndrome of rapid Cr rise + nephritic sediment (RBC casts, dysmorphic RBCs, proteinuria). Workup: SEROLOGIES — ANA + dsDNA (lupus), ANCA c/p (granulomatosis with polyangiitis, microscopic polyangiitis), anti-GBM (Goodpasture / anti-GBM disease), complement C3/C4 (low in lupus, post-strep, MPGN, cryoglobulinemia), cryoglobulins, hepatitis B/C, HIV. URGENT RENAL BIOPSY guides treatment. Treatment by category: Pulse methylprednisolone + cyclophosphamide or rituximab for ANCA / lupus / anti-GBM; plasma exchange added in anti-GBM and severe ANCA. Time-critical — irreversible glomerular damage develops within days to weeks.",
-        "Incorrect. RPGN is time-critical.",
-        "Incorrect. Diuretic challenge is not the principal step.",
-        "Incorrect. UTI is not the principal cause."
+        "Correct. The brick defines oliguric AKI as urine output 100–500 mL/day; 350 mL/day falls into this range.",
+        "Incorrect. Non-oliguric is defined as UOP >500 mL/day.",
+        "Incorrect. Anuric is defined as UOP <100 mL/day.",
+        "Incorrect. Polyuric is not a category used in the brick's UOP classification of AKI.",
+        "Incorrect. 350 mL/day is well below normal urine output."
       ]
     },
     {
       "id": 23,
-      "stem": "A 65-year-old man with AKI on amphotericin B has K+ 2.8, Mg 1.4, and metabolic acidosis. Which best characterizes amphotericin B nephrotoxicity?",
+      "stem": "A 73-year-old man with AKI develops volume overload with pulmonary edema. He is still making urine. Per the brick, which initial pharmacologic intervention should be tried before considering dialysis for fluid removal?",
       "choices": [
-        "Amphotericin B is renoprotective",
-        "ATN with K+/Mg2+ wasting and RTA",
-        "Amphotericin B causes obstruction",
-        "Amphotericin B is glomerulonephritis-inducing",
-        "Amphotericin B has no renal effect"
+        "A loop diuretic such as furosemide",
+        "An ACE inhibitor",
+        "An aminoglycoside antibiotic",
+        "An NSAID",
+        "Erythropoietin"
       ],
-      "answer": 1,
+      "answer": 0,
       "explanations": [
-        "Incorrect. Highly nephrotoxic.",
-        "Correct. Amphotericin B (especially conventional deoxycholate) is highly nephrotoxic via direct tubular injury — produces ATN with characteristic K+ wasting, Mg2+ wasting, and distal RTA pattern. Liposomal amphotericin (AmBisome) reduces nephrotoxicity. Risk factors: dose, duration, concurrent nephrotoxins (aminoglycosides, cyclosporine), volume depletion. Prevention: salt loading (sodium-rich fluids before infusion), use liposomal formulation, monitor electrolytes and renal function. Other tubulotoxic antifungals: voriconazole (less so).",
-        "Incorrect. Not principally obstructive.",
-        "Incorrect. Not glomerular.",
-        "Incorrect. Significant renal toxicity."
+        "Correct. The brick states that loop diuretics like furosemide can be used as an initial trial for fluid overload in AKI; if patients fail to respond, dialysis may be needed.",
+        "Incorrect. ACE inhibitors are listed as drugs to avoid in AKI.",
+        "Incorrect. Aminoglycosides cause ATN and are listed as drugs to avoid in AKI.",
+        "Incorrect. NSAIDs cause prerenal AKI and are listed as drugs to avoid in AKI.",
+        "Incorrect. Erythropoietin treats anemia, not fluid overload."
       ]
     },
     {
       "id": 24,
-      "stem": "A 50-year-old woman has AKI 1 week after starting cefazolin for cellulitis. Cr 2.5, eosinophiluria, fever. Which is the most appropriate management?",
+      "stem": "A 58-year-old man has AKI with metabolic acidosis. The brick describes the 'uremic' metabolic acidosis as having which acid–base pattern, reflecting reduced filtration of multiple metabolic acids?",
       "choices": [
-        "Continue cefazolin",
-        "Stop cefazolin; consider corticosteroids",
-        "Switch to vancomycin",
-        "Begin dialysis",
-        "Add NSAID"
+        "Elevated anion gap metabolic acidosis",
+        "Normal anion gap metabolic acidosis",
+        "Respiratory acidosis",
+        "Metabolic alkalosis",
+        "Mixed respiratory alkalosis and metabolic acidosis"
       ],
-      "answer": 1,
+      "answer": 0,
       "explanations": [
-        "Incorrect. Continuing the offender worsens AIN.",
-        "Correct. Drug-induced AIN management: (1) STOP the offending drug — the most important step; (2) supportive care, hydration; (3) CORTICOSTEROIDS (prednisone 1 mg/kg/day for 4–6 weeks tapered) considered if no improvement in 5–7 days. Steroid use is debated (no large RCTs); commonly used for severe or refractory cases. (4) Renal biopsy if diagnosis unclear or recovery delayed. (5) Avoid further nephrotoxins. Recovery often slow (weeks); some progress to CKD.",
-        "Incorrect. Vancomycin is also a recognized AIN cause.",
-        "Incorrect. Dialysis is not first-line for AIN.",
-        "Incorrect. NSAIDs are common AIN cause; should not be added."
+        "Correct. The brick states that uremic metabolic acidosis has an elevated anion gap, reflecting accumulation of multiple metabolic acids that the failing kidney cannot excrete.",
+        "Incorrect. Normal anion gap acidosis (e.g., from RTA or diarrhea) is not how the brick characterizes uremic acidosis.",
+        "Incorrect. Respiratory acidosis is from impaired ventilation, not impaired kidney filtration.",
+        "Incorrect. Acidosis, not alkalosis, complicates AKI.",
+        "Incorrect. The brick describes a single elevated anion gap metabolic acidosis, not a mixed disorder."
       ]
     },
     {
       "id": 25,
-      "stem": "A 30-year-old researcher reviews the principal categories of AKI. Which best characterizes the classification?",
+      "stem": "A 76-year-old woman has worsening AKI on hospital day 4. Her serum creatinine has continued to rise. Per the brick's general management principles, which medication class should be discontinued because of its association with AKI?",
       "choices": [
-        "Pre-renal, intrinsic, post-renal",
-        "Only ATN",
-        "Only chronic",
-        "Only allergic",
-        "Only obstructive"
+        "Aminoglycoside antibiotics",
+        "Beta-blockers",
+        "Statins",
+        "Proton pump inhibitors",
+        "Iron supplements"
       ],
       "answer": 0,
       "explanations": [
-        "Correct. AKI is classically classified into three categories: PRE-RENAL — reduced renal perfusion (hypovolemia, decreased EAV, drugs, RAS); INTRINSIC — direct kidney injury (ATN, AIN, glomerular, vascular); POST-RENAL — obstruction (BPH, stones, malignancy, retroperitoneal fibrosis). Workup combines history, BUN/Cr, urine sediment, urine indices, and imaging. Each category has different management: pre-renal (restore perfusion), intrinsic (treat underlying), post-renal (relieve obstruction). Most AKI is multifactorial in critical illness.",
-        "Incorrect. ATN is only one type.",
-        "Incorrect. AKI is acute.",
-        "Incorrect. AIN is one type.",
-        "Incorrect. Obstructive is one type."
+        "Correct. The brick explicitly lists aminoglycoside antibiotics, NSAIDs, and ACE inhibitors as drugs to be avoided in AKI until the problem resolves.",
+        "Incorrect. Beta-blockers are not specifically named in the brick as drugs to avoid in AKI.",
+        "Incorrect. Statins are not specifically named in the brick as drugs to avoid in AKI.",
+        "Incorrect. PPIs are associated with AIN in some literature but are not specifically listed in this brick's avoidance list.",
+        "Incorrect. Iron supplements are not specifically named in the brick as drugs to avoid in AKI."
       ]
     }
   ]

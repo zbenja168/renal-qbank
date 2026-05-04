@@ -4,453 +4,441 @@
   "questions": [
     {
       "id": 1,
-      "stem": "A 28-year-old physiologist is studying the principal extracellular buffer system. Which buffer system is most important for buffering acid loads in plasma?",
-      "choices": [
-        "Phosphate buffer",
-        "Hemoglobin buffer",
-        "Bicarbonate / CO2 buffer",
-        "Albumin buffer",
-        "Bone carbonate"
-      ],
-      "answer": 2,
+      "stem": "A 27-year-old healthy adult is studied as part of a physiology experiment. Investigators measure his arterial pH every hour for 24 hours and find it remains within a narrow range. Which of the following best represents the normal physiologic range of arterial pH that the body works to maintain?",
+      "choices": ["6.80 to 7.20", "7.00 to 7.30", "7.20 to 7.40", "7.35 to 7.45", "7.45 to 7.65"],
+      "answer": 3,
       "explanations": [
-        "Incorrect. Phosphate buffering is significant intracellularly and in urine but minor in plasma.",
-        "Incorrect. Hemoglobin is important in red cells but is intracellular.",
-        "Correct. The bicarbonate/CO2 system is the principal ECF buffer. Henderson-Hasselbalch: pH = 6.1 + log([HCO3−] / 0.03 × PCO2). The system is 'open' — CO2 is exhaled by lungs and HCO3− is regulated by kidneys, allowing rapid and effective buffering.",
-        "Incorrect. Albumin is a smaller plasma buffer.",
-        "Incorrect. Bone is important for chronic acid loads but slow."
+        "Incorrect. This range is well below normal and is incompatible with normal protein function.",
+        "Incorrect. These values represent acidemia, not the physiologic range.",
+        "Incorrect. The lower bound of normal is 7.35, not 7.20.",
+        "Correct. The body keeps blood pH within a narrow range of 7.35 to 7.45 so that proteins maintain proper tertiary structure and function.",
+        "Incorrect. These values represent alkalemia, not the physiologic range."
       ]
     },
     {
       "id": 2,
-      "stem": "A 32-year-old researcher studies bicarbonate reabsorption. Which nephron segment reabsorbs the LARGEST fraction of filtered HCO3−?",
+      "stem": "A medical student is reviewing daily acid production in a healthy adult. Krebs cycle metabolism produces large amounts of CO2 that combine with water to form carbonic acid. Approximately how much CO2 is produced per day, and what is this category of acid called?",
       "choices": [
-        "Proximal convoluted tubule (~80%)",
-        "Thick ascending limb (~80%)",
-        "Distal convoluted tubule",
-        "Cortical collecting duct",
-        "Medullary collecting duct"
+        "~50 mmol; non-volatile acid",
+        "~500 mmol; fixed acid",
+        "~4,000 mmol; titratable acid",
+        "~15,000 mmol; volatile acid",
+        "~50,000 mmol; volatile acid"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanations": [
-        "Correct. The PCT reabsorbs ~80% of filtered HCO3−, principally via apical NHE3 (Na+/H+ exchanger): H+ secreted into the lumen combines with HCO3− to form H2CO3, which is dehydrated by luminal carbonic anhydrase IV to CO2 + H2O. CO2 enters the cell, where intracellular CA II re-forms H+ and HCO3−; HCO3− exits basolaterally via NBCe1.",
-        "Incorrect. TAL reabsorbs ~10–15%.",
-        "Incorrect. DCT contributes minimally.",
-        "Incorrect. CCD has further H+ secretion / HCO3− adjustment but much smaller volumes.",
-        "Incorrect. MCD adjusts urine pH at the end stage."
+        "Incorrect. 50-100 mmol/day is the production of non-volatile (fixed) acids, not CO2.",
+        "Incorrect. CO2 production is much greater, and CO2-derived acid is volatile.",
+        "Incorrect. Titratable acid refers to phosphate/sulfate buffers, not CO2 production.",
+        "Correct. Normal metabolism generates ~15,000 mmol of CO2 per day; because it can be reconverted to CO2 and exhaled, it is termed volatile acid.",
+        "Incorrect. The brick states ~15,000 mmol, not 50,000 mmol."
       ]
     },
     {
       "id": 3,
-      "stem": "A 30-year-old researcher studies the proximal tubule. Which apical transporter is principally responsible for H+ secretion in the PCT?",
-      "choices": ["NKCC2", "NCC", "NHE3 (Na+/H+ exchanger)", "ENaC", "H+/K+-ATPase"],
+      "stem": "A nutritionist counsels a patient on a high-protein diet about the source of fixed acids. Approximately 50-100 mmol of non-volatile acid is produced daily from protein metabolism. Which organ is responsible for excreting these non-volatile acids?",
+      "choices": ["Lungs", "Liver", "Kidneys", "Skin", "Gastrointestinal tract"],
       "answer": 2,
       "explanations": [
-        "Incorrect. NKCC2 is in the TAL.",
-        "Incorrect. NCC is in the DCT.",
-        "Correct. NHE3 (Na+/H+ exchanger isoform 3) is the apical PCT transporter that secretes H+ in exchange for Na+. The H+ combines with luminal HCO3− to be effectively reabsorbed. NHE3 also operates in the TAL and contributes there. Inhibited by angiotensin II (stimulates) — explained PT bicarbonate handling regulation.",
-        "Incorrect. ENaC is in the collecting duct.",
-        "Incorrect. H+/K+-ATPase is in α-intercalated cells of the collecting duct."
+        "Incorrect. The lungs excrete volatile acid as CO2; they cannot excrete fixed acids like sulfuric or phosphoric acid.",
+        "Incorrect. The liver does not excrete fixed acids.",
+        "Correct. Non-volatile (fixed) acids such as sulfuric and phosphoric acid cannot be exhaled and must be excreted by the kidneys.",
+        "Incorrect. The skin is not a route for fixed acid excretion.",
+        "Incorrect. The GI tract does not excrete fixed acids."
       ]
     },
     {
       "id": 4,
-      "stem": "A 28-year-old researcher studies carbonic anhydrase isoforms. Which isoform is membrane-bound at the brush border of proximal tubular cells?",
+      "stem": "A physiologist is teaching a class about renal acid-base homeostasis. She lists the three core roles the kidney plays in maintaining pH. Which of the following is one of these three core roles described in the brick?",
       "choices": [
-        "Carbonic anhydrase I",
-        "Carbonic anhydrase II",
-        "Carbonic anhydrase IV",
-        "Carbonic anhydrase IX",
-        "Carbonic anhydrase XII"
+        "Synthesize new hemoglobin to buffer blood",
+        "Reclaim filtered bicarbonate from the glomerular filtrate",
+        "Convert CO2 to oxygen in the cortex",
+        "Exhale volatile acids as CO2",
+        "Produce sulfuric acid for buffering"
       ],
-      "answer": 2,
+      "answer": 1,
       "explanations": [
-        "Incorrect. CA I is principally in red blood cells.",
-        "Incorrect. CA II is cytoplasmic (intracellular in PT and many other tissues).",
-        "Correct. Carbonic anhydrase IV is the brush-border / luminal isoform of the proximal tubule. It catalyzes the dehydration of luminal H2CO3 to CO2 + H2O, enabling efficient HCO3− reabsorption. CA II (intracellular) then re-forms H+ and HCO3−. Acetazolamide inhibits both isoforms.",
-        "Incorrect. CA IX is associated with cancer biology.",
-        "Incorrect. CA XII is in distal nephron / various tissues."
+        "Incorrect. The kidney does not synthesize hemoglobin for buffering.",
+        "Correct. The three core roles of the kidney in acid-base homeostasis are reclaiming filtered bicarbonate, generating new bicarbonate, and excreting hydrogen ions in buffered form.",
+        "Incorrect. The kidney does not perform gas exchange.",
+        "Incorrect. CO2 excretion via exhalation is a function of the lungs.",
+        "Incorrect. Sulfuric acid is produced by metabolism and excreted, not produced by the kidney."
       ]
     },
     {
       "id": 5,
-      "stem": "A 35-year-old man is given oral acetazolamide for high-altitude sickness. Within hours, urine pH rises from 5.5 to 7.5 and HCO3− level falls. Which mechanism best explains the effect?",
+      "stem": "A renal physiologist measures bicarbonate handling along the nephron in a healthy subject. Approximately 4,000 mmol of HCO3- is filtered each day, and nearly all is reabsorbed. Which nephron segment reabsorbs the largest fraction of filtered bicarbonate?",
       "choices": [
-        "Direct ENaC inhibition",
-        "Carbonic anhydrase inhibition",
-        "Inhibition of NKCC2",
-        "Direct H+-ATPase inhibition",
-        "Aldosterone antagonism"
+        "Proximal tubule (70-80%)",
+        "Thin descending limb (50%)",
+        "Thick ascending limb (50%)",
+        "Distal convoluted tubule (30%)",
+        "Collecting duct (70%)"
       ],
-      "answer": 1,
+      "answer": 0,
       "explanations": [
-        "Incorrect. Acetazolamide does not act at ENaC.",
-        "Correct. Acetazolamide inhibits carbonic anhydrase (II and IV) in the proximal tubule, reducing H+ secretion and impairing HCO3− reabsorption. Result: bicarbonaturia, alkaline urine, mild metabolic acidosis. Used: glaucoma (reduces aqueous humor production), altitude sickness (induces metabolic acidosis offsetting respiratory alkalosis), idiopathic intracranial hypertension, and as a weak diuretic. Adverse: alkaline urine promotes Ca-phosphate stones; sulfa allergy potential; metabolic acidosis with chronic use.",
-        "Incorrect. Acetazolamide does not inhibit NKCC2.",
-        "Incorrect. Acetazolamide does not directly inhibit H+-ATPase.",
-        "Incorrect. Acetazolamide is not an aldosterone antagonist."
+        "Correct. The proximal tubule reabsorbs 70-80% of filtered bicarbonate, making it the most important segment for HCO3- reabsorption.",
+        "Incorrect. The thin descending limb is not described as a major site of bicarbonate reabsorption.",
+        "Incorrect. The thick ascending limb reabsorbs ~15%, not 50%.",
+        "Incorrect. The DCT is not highlighted as a major site of bicarbonate reabsorption in this brick.",
+        "Incorrect. The collecting duct reabsorbs only ~5% of filtered bicarbonate."
       ]
     },
     {
       "id": 6,
-      "stem": "A 32-year-old researcher studies the cellular structure of the distal collecting duct. Which cell type is responsible for H+ secretion?",
+      "stem": "A research fellow is diagramming proximal tubule bicarbonate reclamation. After H+ is secreted into the lumen and combines with filtered HCO3- to form CO2 and H2O, the CO2 diffuses into the cell. Once inside the cell, bicarbonate is regenerated and then transported across the basolateral membrane into the blood. Which transporter mediates this basolateral exit step?",
       "choices": [
-        "Principal cell",
-        "α-intercalated cell",
-        "β-intercalated cell",
-        "Macula densa cell",
-        "Mesangial cell"
+        "NHE3 (Na+/H+ antiporter)",
+        "NBCe1 (Na+/HCO3- cotransporter)",
+        "Pendrin (Cl-/HCO3- exchanger)",
+        "H+/K+-ATPase",
+        "H+-ATPase"
       ],
       "answer": 1,
       "explanations": [
-        "Incorrect. Principal cells handle Na+ (ENaC) and K+ (ROMK), not H+.",
-        "Correct. α-intercalated cells secrete H+ via apical H+-ATPase (and H+/K+-ATPase). H+ combines with urinary buffers (NH3 → NH4+; HPO4²− → H2PO4−) for excretion. Basolateral AE1 (Cl−/HCO3− exchanger) returns HCO3− to plasma, generating 'new' HCO3−. Aldosterone enhances α-intercalated H+ secretion via the lumen-negative voltage created by ENaC-driven Na+ reabsorption.",
-        "Incorrect. β-intercalated cells SECRETE HCO3− (do the reverse) via apical pendrin and basolateral H+-ATPase.",
-        "Incorrect. Macula densa cells are part of the JGA.",
-        "Incorrect. Mesangial cells are in the glomerulus."
+        "Incorrect. NHE3 sits on the apical (luminal) membrane and exchanges intracellular H+ for luminal Na+.",
+        "Correct. NBCe1, a sodium/bicarbonate cotransporter on the basolateral membrane, returns the regenerated HCO3- to the interstitium and blood.",
+        "Incorrect. Pendrin is the Cl-/HCO3- exchanger of beta-intercalated cells, not the proximal tubule.",
+        "Incorrect. H+/K+-ATPase is on alpha-intercalated cells of the collecting duct.",
+        "Incorrect. H+-ATPase is on alpha-intercalated cells of the collecting duct, not the proximal tubule basolateral membrane."
       ]
     },
     {
       "id": 7,
-      "stem": "A 28-year-old researcher studies the β-intercalated cell. Which is the principal apical transporter?",
-      "choices": [
-        "H+-ATPase",
-        "Pendrin (Cl−/HCO3− exchanger)",
-        "ENaC",
-        "NHE3",
-        "AQP2"
-      ],
+      "stem": "A pharmacology student studies bicarbonate reabsorption. In the proximal tubule, an apical antiporter exchanges intracellular H+ for luminal Na+, providing the H+ that drives the conversion of filtered HCO3- to CO2 and H2O. Which transporter performs this apical exchange?",
+      "choices": ["NBCe1", "NHE3", "Na+/K+-ATPase", "ROMK", "ENaC"],
       "answer": 1,
       "explanations": [
-        "Incorrect. The α-intercalated cell has apical H+-ATPase.",
-        "Correct. β-intercalated cells secrete HCO3− into the lumen via apical pendrin (Cl−/HCO3− exchanger, SLC26A4) and reabsorb H+ basolaterally via H+-ATPase. They function in alkalosis to excrete excess HCO3−. Pendrin mutations cause Pendred syndrome (sensorineural hearing loss + thyroid goiter).",
-        "Incorrect. ENaC is in principal cells.",
-        "Incorrect. NHE3 is proximal.",
-        "Incorrect. AQP2 is the ADH-regulated water channel in principal cells."
+        "Incorrect. NBCe1 is the basolateral Na+/HCO3- cotransporter that returns bicarbonate to blood.",
+        "Correct. NHE3 is the apical sodium/hydrogen antiporter that secretes H+ into the lumen in exchange for Na+, driving proximal HCO3- reclamation.",
+        "Incorrect. Na+/K+-ATPase sits on the basolateral membrane and does not exchange H+.",
+        "Incorrect. ROMK secretes K+ and is unrelated to proximal H+ secretion.",
+        "Incorrect. ENaC is a sodium channel in the collecting duct, not a proximal H+ exchanger."
       ]
     },
     {
       "id": 8,
-      "stem": "A 30-year-old physiologist studies renal ammoniagenesis. Which substrate is principally metabolized in the proximal tubule to generate NH4+?",
-      "choices": ["Glycine", "Glutamine", "Urea", "Glucose", "Lactate"],
-      "answer": 1,
+      "stem": "A 25-year-old climber takes acetazolamide before ascending to high altitude. The drug inhibits carbonic anhydrase in the proximal tubule. Which acid-base disturbance does acetazolamide produce, and how does this help with altitude sickness?",
+      "choices": [
+        "Metabolic alkalosis; triggers hypoventilation to retain CO2",
+        "Respiratory acidosis; decreases minute ventilation",
+        "Respiratory alkalosis; directly raises PaO2 in the alveoli",
+        "Metabolic acidosis; triggers hyperventilation that raises blood oxygen",
+        "Mixed acidosis; lowers cerebral blood flow"
+      ],
+      "answer": 3,
       "explanations": [
-        "Incorrect. Glycine is not the principal substrate.",
-        "Correct. Glutamine is the principal substrate for renal ammoniagenesis. PCT cells take up glutamine and metabolize it via glutaminase and glutamate dehydrogenase to α-ketoglutarate + 2 NH4+. NH4+ is secreted into the tubular fluid (via NHE3 with NH4+ substituting for H+), trapped in the medulla, and excreted in urine. Each NH4+ excreted represents 'new' HCO3− added to plasma. Acidosis upregulates ammoniagenesis (chronic adaptation).",
-        "Incorrect. Urea is the breakdown product, not the substrate.",
-        "Incorrect. Glucose is not the principal substrate.",
-        "Incorrect. Lactate is not the principal substrate."
+        "Incorrect. Acetazolamide causes acidosis, not alkalosis, because it blocks HCO3- reabsorption.",
+        "Incorrect. The disturbance is metabolic, not respiratory, in origin.",
+        "Incorrect. Acetazolamide does not directly raise alveolar oxygen; it acts in the kidney.",
+        "Correct. By blocking carbonic anhydrase, acetazolamide causes urinary HCO3- loss and metabolic acidosis; the body responds with hyperventilation, which increases blood oxygen and reduces altitude symptoms.",
+        "Incorrect. The brick describes a single metabolic acidosis with respiratory compensation, not a mixed acidosis."
       ]
     },
     {
       "id": 9,
-      "stem": "A 32-year-old researcher studies how NH4+ is concentrated in the medulla. NH4+ is reabsorbed in the TAL by which transporter, where it substitutes for K+?",
+      "stem": "A 60-year-old man on chronic acetazolamide has a urine pH measurement obtained. By blocking the proximal tubule's CO2 shuttle, the drug causes urinary loss of bicarbonate. What change in urine pH and serum bicarbonate is expected?",
       "choices": [
-        "ENaC",
-        "ROMK",
-        "NKCC2",
-        "NCC",
-        "NHE3"
+        "Acidic urine; high serum HCO3-",
+        "Alkaline urine; low serum HCO3-",
+        "Alkaline urine; high serum HCO3-",
+        "Acidic urine; low serum HCO3-",
+        "Neutral urine; unchanged serum HCO3-"
       ],
-      "answer": 2,
+      "answer": 1,
       "explanations": [
-        "Incorrect. ENaC is in the collecting duct.",
-        "Incorrect. ROMK recycles K+ apically in the TAL.",
-        "Correct. NH4+ substitutes for K+ at NKCC2 in the TAL, allowing apical reabsorption of NH4+ from tubular fluid into the medullary interstitium. This concentrates NH4+ in the medulla, where it is then secreted again into the late distal nephron. The NH4+ recycling supports a high medullary NH3/NH4+ gradient, allowing efficient titration of distal H+ secretion.",
-        "Incorrect. NCC is the DCT thiazide target.",
-        "Incorrect. NHE3 is in PCT and TAL but does not principally recycle NH4+ in TAL."
+        "Incorrect. Loss of HCO3- in urine alkalinizes the urine, not acidifies it.",
+        "Correct. Acetazolamide prevents proximal HCO3- reclamation, so bicarbonate is excreted, alkalinizing the urine and lowering serum HCO3- (metabolic acidosis).",
+        "Incorrect. Serum HCO3- falls because it is lost in the urine.",
+        "Incorrect. Bicarbonaturia produces alkaline, not acidic, urine.",
+        "Incorrect. Acetazolamide produces measurable changes in both urine pH and serum HCO3-."
       ]
     },
     {
       "id": 10,
-      "stem": "A 28-year-old researcher studies the principal urinary buffers. Which compound, in addition to NH4+, is the most important titratable acid buffer in the urine?",
-      "choices": ["Sulfate", "Phosphate (HPO4²−)", "Citrate", "Albumin", "Lactate"],
+      "stem": "A 55-year-old man with severe COPD has chronic CO2 retention. His arterial PaCO2 is 60 mm Hg. According to the brick, how does the kidney respond to chronically elevated PaCO2?",
+      "choices": [
+        "Decreases bicarbonate reabsorption and increases H+ excretion",
+        "Increases bicarbonate reabsorption and increases H+ secretion",
+        "Decreases both bicarbonate reabsorption and H+ secretion",
+        "Increases bicarbonate excretion to alkalinize the blood",
+        "No change because the kidney only senses metabolic disturbances"
+      ],
       "answer": 1,
       "explanations": [
-        "Incorrect. Sulfate is excreted but is not principally a buffer.",
-        "Correct. Phosphate (HPO4²−) is the principal urinary titratable acid buffer. As distal H+ is secreted, HPO4²− picks up H+ to become H2PO4−, allowing excretion as a 'titratable acid'. Total net acid excretion = NH4+ excretion + titratable acid (mostly H2PO4−) − HCO3− loss. Daily net acid excretion ~70 mEq/day matches dietary acid load on a typical Western diet.",
-        "Incorrect. Citrate is excreted but as conjugate base; not a titratable acid in the standard sense.",
-        "Incorrect. Albumin is largely retained, not excreted.",
-        "Incorrect. Lactate is metabolized."
+        "Incorrect. The kidney increases, not decreases, HCO3- reabsorption when pH falls.",
+        "Correct. Increased PaCO2 causes respiratory acidosis; pH sensors in the kidney trigger increased HCO3- reabsorption in the PT, TAL, and collecting duct, with increased H+ secretion to raise pH.",
+        "Incorrect. The kidney increases both processes during acidosis.",
+        "Incorrect. Bicarbonate excretion would worsen the acidosis.",
+        "Incorrect. The kidney responds to both respiratory and metabolic acid-base disturbances."
       ]
     },
     {
       "id": 11,
-      "stem": "A 32-year-old physiologist measures net acid excretion. Which formula correctly captures it?",
+      "stem": "A 45-year-old woman is admitted for severe vomiting and is found to be volume depleted with elevated angiotensin II. According to the brick, increased angiotensin II affects bicarbonate handling in the proximal tubule by which mechanism?",
       "choices": [
-        "Net acid = UNH4+ + UTA − UHCO3−",
-        "Net acid = UNa+ + UCl− + UHCO3−",
-        "Net acid = UNa+ × volume",
-        "Net acid = UK+ excretion only",
-        "Net acid = serum HCO3− concentration"
+        "Inhibiting NHE3 to decrease bicarbonate reabsorption",
+        "Stimulating NHE3 to increase bicarbonate reabsorption",
+        "Activating pendrin to secrete bicarbonate",
+        "Blocking NBCe1 on the basolateral membrane",
+        "Inhibiting carbonic anhydrase"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanations": [
-        "Correct. Net acid excretion = (urinary NH4+) + (urinary titratable acid, mostly H2PO4−) − (urinary HCO3− loss). Approximately 70 mEq/day on a typical Western diet, balancing the metabolic acid load. NH4+ excretion is the principal mechanism for handling chronic acid loads (upregulates over days). Acidosis: ↑NH4+ excretion (compensation). RTA: inappropriately ↓ NH4+ excretion or ↓ titratable acid.",
-        "Incorrect. This formula is unrelated to acid excretion.",
-        "Incorrect. Volume × Na+ is sodium excretion.",
-        "Incorrect. K+ alone is not net acid.",
-        "Incorrect. Serum HCO3− is the concentration, not the rate of acid excretion."
+        "Incorrect. Angiotensin II stimulates rather than inhibits NHE3.",
+        "Correct. Volume depletion raises angiotensin II, which increases NHE3 activity in the proximal tubule and thereby increases bicarbonate reabsorption.",
+        "Incorrect. Pendrin activation secretes HCO3- into urine; this is not the angiotensin II effect described.",
+        "Incorrect. NBCe1 is not blocked by angiotensin II.",
+        "Incorrect. Angiotensin II does not inhibit carbonic anhydrase."
       ]
     },
     {
       "id": 12,
-      "stem": "A 50-year-old man with diarrhea has K+ 3.0, HCO3− 16, and a non-anion-gap metabolic acidosis. Urine pH is 5.0. Urine anion gap (Na+ + K+ − Cl−) is −20 (negative). Which best explains this pattern?",
+      "stem": "A 62-year-old woman with persistent metabolic alkalosis is given several liters of normal saline. According to the brick, IV fluid administration helps correct metabolic alkalosis through which renal mechanism?",
       "choices": [
-        "Distal RTA (type 1)",
-        "Proximal RTA (type 2)",
-        "Hyporeninemic hypoaldosteronism (type 4)",
-        "Extra-renal acidosis (high urine NH4+)",
-        "Bartter syndrome"
+        "Volume expansion increases angiotensin II and HCO3- reabsorption",
+        "Volume expansion decreases angiotensin II and increases HCO3- excretion",
+        "Saline directly chelates serum bicarbonate",
+        "Saline acidifies the blood by adding H+",
+        "Saline increases aldosterone-driven H+ secretion"
       ],
-      "answer": 3,
+      "answer": 1,
       "explanations": [
-        "Incorrect. Distal RTA features high urine pH (>5.5) and POSITIVE urine anion gap (low NH4+).",
-        "Incorrect. Proximal RTA also typically features positive UAG.",
-        "Incorrect. Type 4 RTA features hyperkalemia.",
-        "Correct. Negative urine anion gap indicates HIGH urinary NH4+ excretion (Cl− > Na+ + K+ because Cl− accompanies the unmeasured NH4+ cation). This is the appropriate renal response to extra-renal acidosis (e.g., diarrhea). Distinguishes diarrhea from RTA (which has positive UAG = low NH4+, the renal lesion).",
-        "Incorrect. Bartter has alkalosis."
+        "Incorrect. Volume expansion lowers angiotensin II; raising it would worsen alkalosis.",
+        "Correct. Volume expansion decreases angiotensin II levels, which decreases proximal HCO3- reabsorption and increases bicarbonate excretion, helping to correct metabolic alkalosis.",
+        "Incorrect. Saline does not chelate bicarbonate.",
+        "Incorrect. Normal saline is pH-neutral and does not directly add H+.",
+        "Incorrect. Saline does not raise aldosterone; it suppresses RAAS."
       ]
     },
     {
       "id": 13,
-      "stem": "A 30-year-old woman with a non-anion-gap metabolic acidosis has urine pH 6.5 (inappropriately high), urine anion gap +18 (positive), and K+ 3.0. Which best explains this pattern?",
+      "stem": "A medical student examines a diagram of the alpha-intercalated cell of the collecting duct. The cell uses carbonic anhydrase to make H+ and HCO3- from CO2 and H2O. Which two apical transporters secrete H+ into the tubular lumen?",
       "choices": [
-        "Diarrhea-induced acidosis",
-        "Distal RTA (type 1)",
-        "Salicylate poisoning",
-        "Adrenal insufficiency",
-        "Lactic acidosis"
+        "NHE3 and NBCe1",
+        "H+-ATPase and H+/K+-ATPase",
+        "Pendrin and ENaC",
+        "Na+/K+-ATPase and ROMK",
+        "H+-ATPase and Na+/H+ exchanger"
       ],
       "answer": 1,
       "explanations": [
-        "Incorrect. Diarrhea has negative UAG.",
-        "Correct. Type 1 (distal) RTA — failure of α-intercalated cell H+ secretion. Hallmarks: inability to acidify urine (urine pH >5.5 despite systemic acidosis), POSITIVE urine anion gap (low NH4+), HYPOkalemia. Causes: Sjögren syndrome, autoimmune, amphotericin B, lithium, hereditary. Treatment: oral alkali (potassium citrate, sodium bicarbonate), correct hypokalemia, address underlying cause.",
-        "Incorrect. Salicylate poisoning produces high anion-gap acidosis.",
-        "Incorrect. Adrenal insufficiency typically has hyperkalemic acidosis (type 4 pattern).",
-        "Incorrect. Lactic acidosis is high anion-gap."
+        "Incorrect. NHE3 and NBCe1 are proximal tubule transporters.",
+        "Correct. Alpha-intercalated cells secrete H+ into the lumen via two apical pumps: H+-ATPase and H+/K+-ATPase.",
+        "Incorrect. Pendrin is on beta-intercalated cells and ENaC is on principal cells; neither secretes H+.",
+        "Incorrect. These transporters do not secrete H+ in alpha-intercalated cells.",
+        "Incorrect. There is no apical Na+/H+ exchanger in alpha-intercalated cells."
       ]
     },
     {
       "id": 14,
-      "stem": "A 50-year-old woman with distal RTA (urine pH 6.5, K+ 2.8, HCO3− 14) is being treated. Which oral therapy is most appropriate?",
+      "stem": "A 30-year-old woman with chronic metabolic alkalosis is found to have urine pH approaching 8.0 due to active bicarbonate secretion in the collecting duct. Which cell type and transporter are responsible for this bicarbonate secretion?",
       "choices": [
-        "Sodium chloride",
-        "Potassium citrate",
-        "Furosemide",
-        "Acetazolamide",
-        "Spironolactone"
+        "Alpha-intercalated cell via H+-ATPase",
+        "Beta-intercalated cell via pendrin (Cl-/HCO3- exchanger)",
+        "Principal cell via ENaC",
+        "Proximal tubule cell via NBCe1",
+        "Thick ascending limb cell via NKCC2"
       ],
       "answer": 1,
       "explanations": [
-        "Incorrect. NaCl does not address the acid-base or K+ deficit.",
-        "Correct. Potassium citrate (or potassium bicarbonate, or sodium bicarbonate with K+ replacement) is the standard oral therapy for distal RTA. Citrate is metabolized to bicarbonate, correcting the acidosis AND supplying needed K+. Reduces stone formation in distal RTA (which predisposes to Ca-phosphate stones).",
-        "Incorrect. Furosemide worsens K+ wasting.",
-        "Incorrect. Acetazolamide WORSENS acidosis (it is a CA inhibitor).",
-        "Incorrect. Spironolactone may help with hyperkalemic states but is not first-line for distal RTA."
+        "Incorrect. Alpha-intercalated cells secrete H+, not HCO3-.",
+        "Correct. During alkalosis, beta-intercalated cells in the collecting duct actively secrete HCO3- into the lumen via the pendrin Cl-/HCO3- exchanger, alkalinizing the urine to pH 8.0.",
+        "Incorrect. Principal cells reabsorb Na+ via ENaC and do not secrete bicarbonate.",
+        "Incorrect. NBCe1 returns HCO3- to blood at the proximal tubule, not the collecting duct lumen.",
+        "Incorrect. NKCC2 transports Na+, K+, and 2Cl- and is unrelated to HCO3- secretion."
       ]
     },
     {
       "id": 15,
-      "stem": "A 35-year-old man with multiple myeloma has Fanconi syndrome with proximal RTA. Bicarbonate replacement requires very high doses to maintain serum HCO3− because urinary HCO3− losses are large. Which best characterizes proximal RTA?",
+      "stem": "A 19-year-old healthy female has a urine pH of 4.7 measured after fasting overnight. According to the brick, what is the lowest urine pH that the nephron is capable of producing, and why?",
       "choices": [
-        "Defective distal H+ secretion",
-        "Defective proximal HCO3− reabsorption with reset threshold",
-        "Hyperkalemic acidosis",
-        "Inability to lower urine pH at any HCO3−",
-        "Adrenal aldosterone deficiency"
+        "3.0; below this, NHE3 reverses direction",
+        "4.0; below this, carbonic anhydrase denatures",
+        "4.6; below this, the H+ gradient prevents further cellular H+ secretion",
+        "5.5; below this, the urine becomes too dilute",
+        "6.0; below this, the bicarbonate buffer breaks down"
       ],
-      "answer": 1,
+      "answer": 2,
       "explanations": [
-        "Incorrect. Distal H+ defect is type 1, not type 2.",
-        "Correct. Proximal RTA — defective HCO3− reabsorption in PCT (lowered renal threshold for HCO3−). Once serum HCO3− falls below the new threshold, the kidney CAN acidify urine appropriately. Hallmarks: hypokalemia, often Fanconi syndrome (glycosuria, phosphaturia, aminoaciduria), urine pH that CAN be acidic when serum HCO3− is low. Causes: multiple myeloma (light chain proximal tubulopathy), Wilson disease, tenofovir, ifosfamide, cystinosis, heavy metals. Treatment: VERY high-dose alkali (alkali wastes in urine until threshold restored).",
-        "Incorrect. Type 4 RTA is hyperkalemic.",
-        "Incorrect. Distal acidification is preserved in proximal RTA.",
-        "Incorrect. Type 4 is the aldosterone-deficient pattern."
+        "Incorrect. The brick specifies 4.6 as the minimum, not 3.0.",
+        "Incorrect. The minimum is 4.6, and the limit is gradient-based, not enzyme denaturation.",
+        "Correct. The minimum urine pH is 4.6; below this, the H+ gradient between lumen and cell becomes so steep that cellular H+ secretion ceases, making excretion of the daily acid load impossible without buffering.",
+        "Incorrect. Urine concentration is not the limit on pH minimum.",
+        "Incorrect. The buffer system limits pH drop, but the actual minimum stated is 4.6."
       ]
     },
     {
       "id": 16,
-      "stem": "A 60-year-old man with type 2 diabetes and CKD has K+ 5.6, HCO3− 18, and a non-anion-gap metabolic acidosis. Urine anion gap is positive. Renin and aldosterone are LOW. Which is the most likely diagnosis?",
-      "choices": ["Type 1 RTA", "Type 2 RTA", "Type 4 RTA (hyporeninemic hypoaldosteronism)", "Bartter syndrome", "Liddle syndrome"],
+      "stem": "A 28-year-old patient with a normal acid-base status has a urine pH measured. Across the range of normal acid-base perturbations the human kidney can handle, what is the typical range of urine pH described in the brick?",
+      "choices": ["3.0 to 5.0", "4.6 to 6.0", "4.6 to 8.0", "5.5 to 7.4", "6.0 to 9.0"],
       "answer": 2,
       "explanations": [
-        "Incorrect. Type 1 RTA has hypokalemia.",
-        "Incorrect. Type 2 RTA has hypokalemia.",
-        "Correct. Type 4 RTA (hyperkalemic distal RTA) — typically from hyporeninemic hypoaldosteronism in diabetic nephropathy. Mild non-anion-gap acidosis with HYPERkalemia. Reduced aldosterone effect lowers ENaC-driven Na+ reabsorption → reduced lumen-negative voltage → reduced K+ AND H+ secretion. Drug-induced type 4 also common (ACEi/ARB, K+-sparing diuretics, NSAIDs, heparin, trimethoprim, calcineurin inhibitors). Treatment: low-K+ diet, loop diuretic, fludrocortisone in selected cases.",
-        "Incorrect. Bartter has hypokalemic alkalosis.",
-        "Incorrect. Liddle has hypokalemic alkalosis with HTN."
+        "Incorrect. Urine cannot reach a pH as low as 3.0 in vivo.",
+        "Incorrect. Maximal alkalinization can go up to 8.0, not 6.0.",
+        "Correct. Urine pH ranges from 4.6 (maximally acidic, alpha-cell H+ secretion) to 8.0 (maximally alkaline, beta-cell HCO3- secretion).",
+        "Incorrect. The lower bound is 4.6 and the upper bound is 8.0.",
+        "Incorrect. Urine does not reach pH 9.0; the upper limit described is 8.0."
       ]
     },
     {
       "id": 17,
-      "stem": "A 45-year-old man with chronic salicylate ingestion has a high-anion-gap metabolic acidosis with respiratory alkalosis. He has tinnitus, hyperthermia, and altered mental status. Which best explains the dual acid-base disturbance?",
+      "stem": "A 50-year-old patient has primary hyperaldosteronism. Aldosterone stimulates renal acid-base handling in which way?",
       "choices": [
-        "Salicylate causes proximal RTA",
-        "Anion-gap acidosis plus direct respiratory stimulation",
-        "Salicylate causes adrenal insufficiency",
-        "Salicylate is purely an acid",
-        "Salicylate inhibits NHE3"
+        "Inhibits H+ secretion and promotes HCO3- excretion",
+        "Stimulates H+ secretion and new HCO3- generation",
+        "Inhibits ammoniagenesis in the proximal tubule",
+        "Increases urinary HCO3- loss in the collecting duct",
+        "Has no effect on intercalated cells"
       ],
       "answer": 1,
       "explanations": [
-        "Incorrect. Salicylate is not principally a proximal RTA cause.",
-        "Correct. Salicylate (aspirin) overdose produces a CLASSIC mixed acid-base disorder: (1) high-anion-gap metabolic acidosis from accumulation of salicylate and other organic anions, plus uncoupling of oxidative phosphorylation generating lactate; (2) primary respiratory alkalosis from direct stimulation of the medullary respiratory center. Other features: tinnitus, hyperthermia, AMS, hypoglycemia. Treatment: urinary alkalinization with sodium bicarbonate (ion-trapping increases excretion); hemodialysis for severe.",
-        "Incorrect. Adrenal insufficiency is not the mechanism.",
-        "Incorrect. The dual disturbance is the classic feature.",
-        "Incorrect. NHE3 inhibition is not the principal mechanism."
+        "Incorrect. Aldosterone stimulates rather than inhibits H+ secretion.",
+        "Correct. Aldosterone stimulates H+ secretion by alpha-intercalated cells and promotes generation of new bicarbonate, contributing to metabolic alkalosis in primary hyperaldosteronism.",
+        "Incorrect. Aldosterone increases ammoniagenesis; in primary aldosteronism this contributes to metabolic alkalosis.",
+        "Incorrect. Aldosterone reduces, not increases, urinary HCO3- loss.",
+        "Incorrect. Aldosterone strongly stimulates alpha-intercalated cell activity."
       ]
     },
     {
       "id": 18,
-      "stem": "A 35-year-old researcher studies the buffering of an acid load in the body. After acute ingestion of a strong acid, which buffer system reacts FASTEST?",
+      "stem": "A 56-year-old woman is found to have hypertension, hypokalemia, and metabolic alkalosis. According to the brick, this clinical triad should immediately suggest which diagnosis?",
       "choices": [
-        "Bone carbonate",
-        "Bicarbonate / CO2 in plasma",
-        "Renal compensation (HCO3− retention)",
-        "Hepatic urea synthesis",
-        "Erythropoiesis"
+        "Diabetic ketoacidosis",
+        "Type 4 (hyperkalemic) renal tubular acidosis",
+        "Chronic kidney disease",
+        "Primary hyperaldosteronism",
+        "Acetazolamide overdose"
       ],
-      "answer": 1,
+      "answer": 3,
       "explanations": [
-        "Incorrect. Bone is slow (hours-days for acute, weeks-months for chronic).",
-        "Correct. The bicarbonate buffer system responds within seconds to minutes. Cellular buffering (intracellular proteins, phosphates) follows over minutes to hours. Renal compensation (NH4+ excretion adaptation) takes days. Bone (chronic acid load) buffers over weeks-months but contributes significantly to chronic acidosis like CKD.",
-        "Incorrect. Renal compensation is slow (days).",
-        "Incorrect. Hepatic urea cycle is involved in nitrogen / ammonia handling, not acute acid buffering.",
-        "Incorrect. Erythropoiesis is unrelated."
+        "Incorrect. DKA causes anion-gap metabolic acidosis with hyperkalemia, not the alkalosis triad.",
+        "Incorrect. Type 4 RTA causes hyperkalemia and metabolic acidosis, the opposite picture.",
+        "Incorrect. CKD typically causes metabolic acidosis, not alkalosis.",
+        "Correct. The brick states that hypertension with hypokalemia and metabolic alkalosis (from increased K+ and H+ secretion plus increased ammoniagenesis) should make you think of primary hyperaldosteronism.",
+        "Incorrect. Acetazolamide causes metabolic acidosis, not alkalosis."
       ]
     },
     {
       "id": 19,
-      "stem": "A 40-year-old researcher studies how chronic acidosis affects ammoniagenesis. After 4 days of dietary acid loading, urinary NH4+ excretion has tripled. Which mechanism best explains this?",
+      "stem": "A renal physiology student is reviewing buffers in the tubular lumen. Approximately what fraction of the body's titratable acid is phosphate, and what other ions are also included in this category?",
       "choices": [
-        "Acidosis upregulates glutaminase and PEPCK in PCT",
-        "Acidosis increases tubular flow rate",
-        "Acidosis activates aldosterone synthesis",
-        "Acidosis stimulates ADH release",
-        "Acidosis directly opens AQP2"
+        "10%; ammonium and creatinine",
+        "25%; bicarbonate and lactate",
+        "50%; sulfate and citrate",
+        "75%; chloride and potassium",
+        "90%; ammonia and urea"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanations": [
-        "Correct. Chronic acidosis upregulates glutaminase (and PEPCK) in PCT cells, increasing ammoniagenesis. Each NH4+ excreted represents 'new' HCO3− added to plasma. The adaptation takes 3–5 days to develop and is the principal mechanism by which kidneys defend against chronic acid loads. CKD patients lose this capacity, contributing to chronic metabolic acidosis.",
-        "Incorrect. Tubular flow is not the principal driver.",
-        "Incorrect. Acidosis does not principally drive aldosterone (volume status does).",
-        "Incorrect. ADH is unrelated to NH4+ excretion.",
-        "Incorrect. AQP2 is for water, not NH4+."
+        "Incorrect. The brick specifies 50%, not 10%, and lists different co-buffers.",
+        "Incorrect. Bicarbonate and lactate are not categorized as titratable acids.",
+        "Correct. The brick states 50% of the body's titratable acids are phosphate, with citrate and sulfate making up the rest.",
+        "Incorrect. Chloride and potassium are not titratable acid buffers.",
+        "Incorrect. Ammonia/ammonium is a separate buffer system from titratable acid."
       ]
     },
     {
       "id": 20,
-      "stem": "A 32-year-old researcher studies aldosterone's effect on distal H+ secretion. Which mechanism explains how aldosterone enhances α-intercalated cell H+-ATPase activity?",
+      "stem": "A 65-year-old man with stage 3 chronic kidney disease and a falling GFR develops a metabolic acidosis. According to the brick, which mechanism related to titratable acid contributes to acidosis in CKD?",
       "choices": [
-        "Direct H+-ATPase activation by aldosterone",
-        "ENaC-driven lumen-negative voltage favors H+ extrusion",
-        "Aldosterone blocks Na+/K+-ATPase",
-        "Aldosterone activates pendrin",
-        "Aldosterone stimulates carbonic anhydrase"
+        "Increased pendrin secretion of HCO3- in beta-intercalated cells",
+        "Reduced filtration of phosphate and other titratable acids, limiting H+ buffering",
+        "Increased activity of carbonic anhydrase in the proximal tubule",
+        "Excess ammoniagenesis driving urinary acid loss",
+        "Hypoaldosteronism increasing distal HCO3- secretion"
       ],
       "answer": 1,
       "explanations": [
-        "Incorrect. The effect is indirect via principal-cell-driven voltage.",
-        "Correct. Aldosterone drives ENaC-mediated Na+ reabsorption in adjacent principal cells, generating a lumen-NEGATIVE transepithelial voltage. This voltage favors H+ secretion at α-intercalated cells (and K+ secretion at principal cells). Aldosterone also directly stimulates the H+-ATPase in α-intercalated cells. Net effect: increased renal acid excretion. Hyperaldosteronism produces metabolic alkalosis; hypoaldosteronism produces hyperkalemic acidosis (type 4 RTA).",
-        "Incorrect. Aldosterone activates (not blocks) Na+/K+-ATPase in principal cells.",
-        "Incorrect. Pendrin is on β-intercalated cells (alkalosis defense).",
-        "Incorrect. Aldosterone does not principally stimulate CA."
+        "Incorrect. Pendrin secretion would alkalinize urine and is not the CKD mechanism described.",
+        "Correct. In CKD the GFR drops, so less titratable acid (e.g., phosphate) is filtered into the tubule, reducing buffering capacity and limiting acid excretion - one cause of CKD-related metabolic acidosis.",
+        "Incorrect. CA activity is not described as increased in CKD.",
+        "Incorrect. Ammoniagenesis is impaired (decreased) in CKD, contributing to acidosis.",
+        "Incorrect. Aldosterone status is not the titratable acid mechanism described."
       ]
     },
     {
       "id": 21,
-      "stem": "A 30-year-old researcher studies how respiratory acidosis is renally compensated. After 4 days of CO2 retention from chronic respiratory disease, plasma HCO3− has risen from 24 to 36 mEq/L. Which mechanism produced this rise?",
-      "choices": [
-        "Increased renal NH4+ excretion",
-        "Increased respiratory rate",
-        "Decreased CO2 production",
-        "Aldosterone deficiency",
-        "Increased GI HCO3− absorption"
-      ],
-      "answer": 0,
+      "stem": "A 34-year-old woman with severe diabetic ketoacidosis has dramatically increased renal acid excretion. The ammonia-ammonium buffer system can be upregulated dramatically during acidosis. By approximately what factor can ammonium excretion increase during systemic acidosis according to the brick?",
+      "choices": ["Less than 2-fold", "5-fold", "10-fold", "Over 100-fold (over 300-fold)", "Unable to be upregulated"],
+      "answer": 3,
       "explanations": [
-        "Correct. Chronic respiratory acidosis is renally compensated by increased H+ secretion and NH4+ excretion in the kidneys, with corresponding 'new' HCO3− addition to plasma. The full response takes 3–5 days. Expected: HCO3− rises by ~3.5 mEq/L per 10 mmHg PCO2 elevation in chronic compensation (vs ~1 in acute). Failure to compensate suggests superimposed metabolic acidosis.",
-        "Incorrect. Increased respiratory rate would lower CO2.",
-        "Incorrect. CO2 production is from metabolism, not the compensation route.",
-        "Incorrect. Aldosterone is not the principal mechanism.",
-        "Incorrect. GI HCO3− is minor."
+        "Incorrect. The increase is far greater than 2-fold.",
+        "Incorrect. Ammonium excretion can be upregulated much more than 5-fold.",
+        "Incorrect. The brick states an increase over 300-fold, not just 10-fold.",
+        "Correct. Unlike titratable acid (which depends only on filtration), ammonium excretion can be upregulated over 300-fold during acidosis, making it the kidney's most adaptable acid-excretion mechanism.",
+        "Incorrect. The ammonium system is the most upregulatable buffer."
       ]
     },
     {
       "id": 22,
-      "stem": "A 28-year-old researcher studies respiratory compensation for metabolic acidosis. Which best characterizes the expected respiratory compensation?",
+      "stem": "A medical student traces the path of ammonia in the nephron. Glutamine metabolism in the proximal tubule produces NH4+ and new bicarbonate. NH4+ is then handled along the nephron via reabsorption, dissociation, and trapping. Which sequence correctly describes ammonium/ammonia handling along the nephron?",
       "choices": [
-        "PCO2 rises modestly",
-        "Predicted PCO2 = 1.5 × HCO3− + 8 (Winters formula)",
-        "PCO2 falls by 5 mm Hg per 1 unit pH drop",
-        "PCO2 unchanged",
-        "PCO2 rises proportionally to anion gap"
+        "Filtered at glomerulus → reabsorbed in DCT → secreted in collecting duct as NH3",
+        "Made in PT → reabsorbed in thick ascending limb → dissociates to NH3 in medullary interstitium → diffuses into collecting duct → trapped as NH4+ after binding H+",
+        "Made in collecting duct → reabsorbed in PT → excreted as urea",
+        "Made in TAL → reabsorbed in PT → excreted as NH3 gas",
+        "Made in DCT → diffuses into blood → exhaled by lungs"
       ],
       "answer": 1,
       "explanations": [
-        "Incorrect. PCO2 falls in metabolic acidosis (compensatory hyperventilation).",
-        "Correct. Winters formula: predicted PCO2 = 1.5 × [HCO3−] + 8 ± 2. If actual PCO2 is appropriately low per this formula → pure metabolic acidosis with appropriate compensation. Higher-than-predicted PCO2 → superimposed respiratory acidosis (mixed disorder). Lower-than-predicted PCO2 → superimposed respiratory alkalosis. Compensation begins within minutes; full effect within hours; PCO2 rarely falls below ~10 mmHg.",
-        "Incorrect. Not the standard compensation formula.",
-        "Incorrect. PCO2 changes with respiratory drive in metabolic acidosis.",
-        "Incorrect. The Winters formula uses HCO3−, not anion gap."
+        "Incorrect. NH4+ is made in the proximal tubule, not filtered at the glomerulus.",
+        "Correct. NH4+ is generated in the PT from glutamine, reabsorbed in the thick ascending limb, dissociates to uncharged NH3 in the medullary interstitium, diffuses into the collecting duct, and is trapped there as NH4+ when it binds secreted H+.",
+        "Incorrect. Ammonium is made in the proximal tubule, not the collecting duct.",
+        "Incorrect. Ammonium is not exhaled and is not made in the TAL.",
+        "Incorrect. Ammonia is not exhaled by the lungs."
       ]
     },
     {
       "id": 23,
-      "stem": "A 35-year-old man has chronic kidney disease (eGFR 25) with metabolic acidosis (HCO3− 18). Which mechanism best explains the acidosis?",
-      "choices": [
-        "Acute hyperkalemia",
-        "Reduced ammoniagenesis from fewer functioning nephrons",
-        "Loss of bone calcium",
-        "Reduced respiratory rate",
-        "Gastric acid loss"
-      ],
+      "stem": "A 24-year-old woman is admitted with severe metabolic acidosis. The kidney generates new bicarbonate as part of ammoniagenesis. Which proximal tubule substrate is metabolized to produce both NH4+ and new HCO3-?",
+      "choices": ["Glucose", "Glutamine", "Glycine", "Glutathione", "Glycogen"],
       "answer": 1,
       "explanations": [
-        "Incorrect. Acute hyperkalemia is a separate phenomenon.",
-        "Correct. CKD-associated metabolic acidosis principally results from reduced renal ammoniagenesis (fewer functioning nephrons → less NH4+ excretion → reduced 'new' HCO3− regeneration). Phosphate retention contributes (less HPO4²− available as titratable acid). Bone buffering of chronic acidosis can lead to mineral loss / osteoporosis. Treatment: oral sodium bicarbonate or oral citrate to maintain HCO3− >22 — slows CKD progression and improves outcomes.",
-        "Incorrect. Bone calcium loss is a CONSEQUENCE of chronic acidosis, not the cause.",
-        "Incorrect. Respiratory rate often increases (compensation).",
-        "Incorrect. Gastric acid loss would cause alkalosis."
+        "Incorrect. Glucose is reabsorbed in the PT but is not the source of NH4+ and HCO3-.",
+        "Correct. In the proximal tubule, glutamine metabolism produces NH4+ (secreted) and new HCO3- (returned to blood), making it the kidney's key defense against metabolic acidosis.",
+        "Incorrect. Glycine is not the substrate described.",
+        "Incorrect. Glutathione is an antioxidant, not the ammoniagenesis substrate.",
+        "Incorrect. Glycogen storage occurs in liver and muscle, not as a renal NH4+ source."
       ]
     },
     {
       "id": 24,
-      "stem": "A 28-year-old researcher studies how the kidney generates 'new' bicarbonate to replace HCO3− consumed in buffering acid. Which process generates new HCO3−?",
+      "stem": "A 58-year-old diabetic man with low aldosterone has chronic hyperkalemia. His arterial blood gas shows a low pH consistent with type 4 (hyperkalemic) renal tubular acidosis. According to the brick, hyperkalemia contributes to acidosis by which mechanism?",
       "choices": [
-        "Filtration of HCO3− at the glomerulus",
-        "PCT NHE3 H+ secretion (recycles existing HCO3−)",
-        "Each NH4+ excreted represents new HCO3− added to plasma",
-        "Tubular HCO3− secretion",
-        "Bone Ca-HCO3− release"
+        "Inhibits the enzymatic creation of ammonium in the proximal tubule",
+        "Stimulates pendrin to dump HCO3- into urine",
+        "Directly inhibits H+-ATPase on alpha-intercalated cells",
+        "Increases NHE3 activity, causing Na+ wasting",
+        "Activates carbonic anhydrase to dump CO2"
       ],
-      "answer": 2,
+      "answer": 0,
       "explanations": [
-        "Incorrect. Filtration is the start of HCO3− handling but does not generate new HCO3−.",
-        "Incorrect. PCT NHE3 reabsorbs filtered HCO3− but does not generate new HCO3−.",
-        "Correct. Each NH4+ excreted in urine represents 'new' HCO3− added to plasma (because the H+ that joined NH3 to form NH4+ came from carbonic acid dissociation in the cell, and the matched HCO3− stays with the body). Same principle for titratable acid (each H+ secreted on phosphate generates an HCO3− retained). Net acid excretion (NH4+ + TA − HCO3− loss) ≈ daily acid load.",
-        "Incorrect. Tubular HCO3− secretion (β-intercalated cells) excretes excess HCO3−, not generates it.",
-        "Incorrect. Bone is not the principal renal mechanism."
+        "Correct. Hyperkalemia inhibits the enzymatic creation of ammonium in the proximal tubule, limiting the kidney's ability to excrete acid and producing type 4 RTA with low blood pH.",
+        "Incorrect. Pendrin stimulation is not the mechanism of hyperkalemia-induced acidosis.",
+        "Incorrect. Hyperkalemia does not directly inhibit H+-ATPase per the brick.",
+        "Incorrect. NHE3 activity changes are not the described mechanism.",
+        "Incorrect. CA is not activated by hyperkalemia."
       ]
     },
     {
       "id": 25,
-      "stem": "A 30-year-old researcher studies the difference between α- and β-intercalated cells. Which best characterizes their relative roles?",
+      "stem": "A 45-year-old woman with severe vomiting from gastroenteritis develops volume depletion and hypokalemia. Her arterial blood gas shows metabolic alkalosis. According to the brick, which mechanism best explains how hypokalemia helps maintain this metabolic alkalosis?",
       "choices": [
-        "Both secrete H+ exclusively",
-        "α: H+ secretion; β: HCO3− secretion",
-        "α: HCO3− secretion; β: H+ secretion",
-        "Both secrete HCO3−",
-        "They are functionally identical"
+        "Hypokalemia inhibits NHE3 in the proximal tubule",
+        "Hypokalemia decreases aldosterone levels and reduces H+ secretion",
+        "Hypokalemia lowers intracellular K+ in tubular cells; H+ shifts in, producing intracellular acidosis that drives proximal cells to increase H+ secretion and HCO3- reabsorption",
+        "Hypokalemia stimulates pendrin secretion of HCO3-",
+        "Hypokalemia inhibits ammoniagenesis"
       ],
-      "answer": 1,
+      "answer": 2,
       "explanations": [
-        "Incorrect. Only α-intercalated cells secrete H+; β secrete HCO3−.",
-        "Correct. α-intercalated cells: APICAL H+-ATPase + H+/K+-ATPase (acid-secreting); BASOLATERAL Cl−/HCO3− exchanger (AE1) returning HCO3− to plasma. β-intercalated cells: APICAL pendrin (Cl−/HCO3− exchanger, secreting HCO3−); BASOLATERAL H+-ATPase. The two cell types are functional mirror images, allowing the kidney to handle both acid and alkali loads. β-cells become more prominent in alkalosis.",
-        "Incorrect. Reversed roles.",
-        "Incorrect. Only β-cells secrete HCO3−.",
-        "Incorrect. They have opposite roles."
+        "Incorrect. Hypokalemia increases, not inhibits, H+/HCO3- handling that worsens alkalosis.",
+        "Incorrect. Volume depletion raises aldosterone, which adds to alkalosis.",
+        "Correct. Hypokalemia lowers intracellular K+; H+ shifts into cells to maintain electrochemical balance, producing intracellular acidosis. Cells interpret this as a need to conserve base, so they increase H+ secretion and HCO3- reabsorption, raising serum HCO3- and maintaining alkalosis.",
+        "Incorrect. Pendrin secretes HCO3- and would oppose alkalosis maintenance.",
+        "Incorrect. Hyperkalemia (not hypokalemia) inhibits ammoniagenesis; hypokalemia actually increases it."
       ]
     }
   ]

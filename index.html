@@ -10,16 +10,38 @@
   <header class="site-header">
     <div class="container">
       <h1 class="site-title">Renal QBank</h1>
-      <p class="site-subtitle">Week 1 &middot; Clinical vignette practice questions</p>
+      <p class="site-subtitle">Clinical vignette practice questions</p>
     </div>
   </header>
 
   <main class="container">
     <section class="bricks-section">
-      <h2 class="section-title">Select a brick</h2>
+      <div class="bricks-toolbar">
+        <h2 class="section-title">Select a brick</h2>
+        <div class="bricks-toolbar-actions">
+          <button id="select-week-1" class="btn btn-ghost btn-small" type="button">Week 1</button>
+          <button id="select-week-2" class="btn btn-ghost btn-small" type="button">Week 2</button>
+          <button id="select-all" class="btn btn-ghost btn-small" type="button">All</button>
+          <button id="select-clear" class="btn btn-ghost btn-small" type="button">Clear</button>
+        </div>
+      </div>
+      <p class="bricks-hint">Tap <span class="bricks-hint-pill">+</span> on multiple cards to build a mixed quiz with questions interleaved across bricks.</p>
       <div id="brick-grid" class="brick-grid"></div>
     </section>
   </main>
+
+  <div id="mix-bar" class="mix-bar" hidden>
+    <div class="container mix-bar-row">
+      <div class="mix-bar-info">
+        <span id="mix-count" class="mix-bar-count">0</span>
+        <span class="mix-bar-label">selected · <span id="mix-q-count">0</span> questions</span>
+      </div>
+      <div class="mix-bar-actions">
+        <button id="mix-clear" class="btn btn-ghost btn-small" type="button">Clear</button>
+        <button id="mix-start" class="btn btn-small" type="button">Start mixed quiz →</button>
+      </div>
+    </div>
+  </div>
 
   <footer class="site-footer">
     <div class="container">

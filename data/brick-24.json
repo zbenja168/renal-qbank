@@ -4,447 +4,447 @@
   "questions": [
     {
       "id": 1,
-      "stem": "A 32-year-old physiologist studies calcium handling along the nephron. Approximately what percentage of filtered calcium is reabsorbed in the proximal convoluted tubule under normal conditions?",
-      "choices": ["10%", "25%", "65%", "85%", "100%"],
+      "stem": "A 45-year-old woman has a routine metabolic panel drawn during an annual physical. Her total serum calcium is 9.4 mg/dL. Approximately what fraction of this circulating calcium is in the ionized (free) form available for physiologic activity?",
+      "choices": ["10%", "30%", "50%", "70%", "99%"],
       "answer": 2,
       "explanations": [
-        "Incorrect. 10% is too low for the PCT.",
-        "Incorrect. 25% is the approximate TAL contribution.",
-        "Correct. ~65% of filtered Ca2+ is reabsorbed paracellularly in the proximal convoluted tubule, following Na+ and water (passive 'tag-along'). Another ~25% is reabsorbed paracellularly in the TAL (driven by lumen-positive voltage), and ~5–10% is reabsorbed transcellularly in the DCT (regulated by PTH).",
-        "Incorrect. 85% is the cumulative PCT + TAL fraction.",
-        "Incorrect. ~1% is excreted normally."
+        "Incorrect. Roughly 10% of circulating calcium is bound to anions, not the ionized fraction.",
+        "Incorrect. No major fraction of serum calcium accounts for 30%.",
+        "Correct. About 50% of blood calcium is ionized (free); 40% is protein-bound (largely to albumin) and 10% is bound to anions.",
+        "Incorrect. The ionized fraction is closer to half, not 70%.",
+        "Incorrect. Approximately 99% of total body calcium is stored in bone, but circulating ionized calcium is only ~50% of serum calcium."
       ]
     },
     {
       "id": 2,
-      "stem": "A 28-year-old researcher studies the mechanism of calcium reabsorption in the thick ascending limb. Which mechanism drives Ca2+ reabsorption in the TAL?",
+      "stem": "A 22-year-old woman is brought to the emergency department with carpopedal spasm and perioral paresthesias after a thyroidectomy. Serum total calcium is 6.8 mg/dL. Her presentation is best explained by which physiologic effect of low calcium?",
       "choices": [
-        "Apical TRPV5 channel",
-        "Apical PMCA pump",
-        "Paracellular flow driven by lumen-positive voltage",
-        "Basolateral Ca2+/Na+ exchanger",
-        "Direct vitamin D-driven transcytosis"
+        "Increased oxygen delivery from red blood cells",
+        "Increased vascular calcification",
+        "Neuromuscular irritability with tetany and seizures",
+        "Reduced bone resorption",
+        "Suppressed parathyroid hormone secretion"
       ],
       "answer": 2,
       "explanations": [
-        "Incorrect. TRPV5 is in the DCT, not TAL.",
-        "Incorrect. PMCA is basolateral in the DCT.",
-        "Correct. The TAL reabsorbs Ca2+ (and Mg2+) PARACELLULARLY through claudin-16/19 tight junctions, driven by the lumen-POSITIVE transepithelial voltage created by ROMK-mediated K+ recycling. Loop diuretics abolish this voltage and produce hypercalciuria.",
-        "Incorrect. The TAL does not principally use a basolateral Ca2+/Na+ exchanger.",
-        "Incorrect. Vitamin D regulates DCT Ca2+ uptake, not TAL transport."
+        "Incorrect. Decreased 2,3-DPG and impaired oxygen release are features of hypophosphatemia, not hypocalcemia.",
+        "Incorrect. Vascular calcification is associated with chronic hyperphosphatemia, not hypocalcemia.",
+        "Correct. Hypocalcemia causes neuromuscular irritability manifesting as tetany, seizures, paresthesias, and arrhythmias.",
+        "Incorrect. Hypocalcemia stimulates PTH, which increases bone resorption rather than reducing it.",
+        "Incorrect. Low serum calcium stimulates, rather than suppresses, PTH release."
       ]
     },
     {
       "id": 3,
-      "stem": "A 45-year-old woman has primary hyperparathyroidism with elevated PTH and elevated serum calcium. Which renal effect of PTH is responsible for raising serum calcium?",
+      "stem": "A 68-year-old man with metastatic breast cancer presents with confusion, abdominal pain, and a kidney stone. Serum calcium is 13.6 mg/dL. Which clinical finding from the brick is most directly attributable to his hypercalcemia?",
       "choices": [
-        "Inhibits NCC in the DCT",
-        "Increases distal tubular Ca2+ reabsorption",
-        "Inhibits proximal tubular Na+ reabsorption",
-        "Activates aldosterone synthesis",
-        "Decreases vitamin D activation"
+        "Carpopedal spasm",
+        "Hyperphosphatemia-induced soft tissue calcification",
+        "Impaired cognition",
+        "Rhabdomyolysis",
+        "Seizures from neuromuscular irritability"
       ],
-      "answer": 1,
+      "answer": 2,
       "explanations": [
-        "Incorrect. PTH does not principally affect NCC.",
-        "Correct. PTH binds to PTH-1R receptors in the distal convoluted tubule, increasing apical TRPV5 activity, intracellular calbindin, and basolateral PMCA/NCX1 — enhancing transcellular Ca2+ reabsorption. PTH also INCREASES 1α-hydroxylase activity (more calcitriol → more intestinal Ca2+ absorption) and INHIBITS proximal tubular phosphate reabsorption (NaPi-IIa).",
-        "Incorrect. PTH effects on the proximal tubule are principally on phosphate, not Na+.",
-        "Incorrect. PTH does not principally activate aldosterone.",
-        "Incorrect. PTH ACTIVATES vitamin D (via 1α-hydroxylase)."
+        "Incorrect. Carpopedal spasm reflects neuromuscular irritability seen with hypocalcemia.",
+        "Incorrect. Vascular calcification is a complication of chronic hyperphosphatemia, not the immediate manifestation listed for hypercalcemia.",
+        "Correct. The brick lists kidney stones, abdominal pain, and impaired cognition as consequences of hypercalcemia.",
+        "Incorrect. Rhabdomyolysis is described as a complication of severe hypophosphatemia.",
+        "Incorrect. Seizures and tetany are features of hypocalcemia, not hypercalcemia."
       ]
     },
     {
       "id": 4,
-      "stem": "A 50-year-old man with primary hyperparathyroidism has serum phosphate 1.8 mg/dL (low). Which renal effect of PTH explains this?",
+      "stem": "A 55-year-old man on long-term parenteral nutrition develops profound muscle weakness, respiratory difficulty, and elevated CK. Serum phosphate is 1.1 mg/dL. The reduced oxygen delivery contributing to his weakness is most directly explained by which mechanism described in the brick?",
       "choices": [
-        "PTH increases NaPi-IIa activity",
-        "PTH inhibits NaPi-IIa in the proximal tubule",
-        "PTH increases distal phosphate reabsorption",
-        "PTH activates intestinal phosphate transport",
-        "PTH degrades plasma phosphate"
+        "Decreased 2,3-DPG in red blood cells",
+        "Decreased calcitriol synthesis",
+        "Increased calcium-phosphate complex formation",
+        "Increased hemoglobin affinity due to alkalosis",
+        "Vascular calcification of pulmonary capillaries"
       ],
-      "answer": 1,
+      "answer": 0,
       "explanations": [
-        "Incorrect. PTH inhibits (not increases) NaPi-IIa.",
-        "Correct. PTH downregulates apical NaPi-IIa (and NaPi-IIc) in proximal tubular cells, reducing phosphate reabsorption and producing phosphaturia. The result is HYPOphosphatemia in primary hyperparathyroidism. Same mechanism (NaPi-IIa inhibition) is shared with FGF-23, the other major phosphaturic hormone.",
-        "Incorrect. Distal phosphate reabsorption is minimal.",
-        "Incorrect. PTH effects on intestine are indirect (via calcitriol).",
-        "Incorrect. PTH does not degrade phosphate."
+        "Correct. Hypophosphatemia causes muscle weakness, rhabdomyolysis, impaired diaphragm function, and reduced oxygen delivery via decreased 2,3-DPG in red blood cells.",
+        "Incorrect. Calcitriol synthesis impairment relates to CKD-MBD, not to acute hypophosphatemic oxygen-delivery problems.",
+        "Incorrect. Calcium-phosphate complex formation occurs with hyperphosphatemia and lowers ionized calcium, not 2,3-DPG.",
+        "Incorrect. The brick attributes reduced oxygen delivery in hypophosphatemia specifically to decreased 2,3-DPG.",
+        "Incorrect. Vascular calcification is a complication of chronic hyperphosphatemia, not hypophosphatemia."
       ]
     },
     {
       "id": 5,
-      "stem": "A 60-year-old man with CKD has elevated FGF-23 levels. Which best characterizes FGF-23's renal action?",
+      "stem": "A 70-year-old man with end-stage renal disease has serum phosphate 7.8 mg/dL and total calcium 7.2 mg/dL. He develops perioral tingling. The drop in his ionized calcium despite oral calcium supplementation is best explained by which mechanism stated in the brick?",
       "choices": [
-        "Phosphate-retaining hormone",
-        "Phosphaturic hormone",
-        "Calcium-conserving hormone",
-        "Magnesium-wasting hormone",
-        "Aldosterone-stimulating hormone"
+        "Acidosis-induced shift of phosphate species",
+        "Albumin-bound calcium displacement",
+        "Calcium binding by elevated phosphate to form calcium-phosphate complexes",
+        "Increased renal calcium excretion from a CaSR effect",
+        "PTH-driven calcium uptake into bone"
       ],
-      "answer": 1,
+      "answer": 2,
       "explanations": [
-        "Incorrect. FGF-23 increases (not retains) urinary phosphate.",
-        "Correct. FGF-23 (made by osteocytes) acts on the kidney to: (1) inhibit NaPi-IIa → phosphaturia; (2) inhibit 1α-hydroxylase → reduce calcitriol synthesis. Its main role is defending against phosphate loading. Levels rise progressively in CKD as a compensatory response and contribute to early CKD-related secondary hyperparathyroidism.",
-        "Incorrect. FGF-23 acts principally on phosphate, not calcium.",
-        "Incorrect. FGF-23 does not principally affect Mg2+.",
-        "Incorrect. FGF-23 does not stimulate aldosterone."
+        "Incorrect. Acid-base shifts in phosphate species relate to its buffering role, not to lowering ionized calcium.",
+        "Incorrect. Albumin binding affects total calcium reporting but is not the brick's mechanism for hypocalcemia in hyperphosphatemia.",
+        "Correct. High phosphate binds calcium to form calcium-phosphate complexes, which lowers ionized calcium and produces hypocalcemic symptoms.",
+        "Incorrect. The CaSR in CKD is overwhelmed; the dominant mechanism for low ionized calcium is complex formation with phosphate.",
+        "Incorrect. PTH mobilizes calcium out of bone (resorption), not into bone."
       ]
     },
     {
       "id": 6,
-      "stem": "A 28-year-old researcher studies vitamin D activation. Where does the FINAL hydroxylation of 25-OH vitamin D to active calcitriol occur?",
-      "choices": ["Skin", "Liver", "Kidney", "Intestine", "Bone"],
+      "stem": "A medical student is reviewing the buffering role of phosphate. At a normal blood pH of 7.40, which phosphate species is the predominant form in serum?",
+      "choices": ["H3PO4", "H2PO4-", "HPO4 2-", "PO4 3-", "Calcium phosphate"],
       "answer": 2,
       "explanations": [
-        "Incorrect. 7-dehydrocholesterol → cholecalciferol (D3) occurs in skin under UV light.",
-        "Incorrect. 25-hydroxylation (cholecalciferol → 25-OH D) occurs in liver.",
-        "Correct. 1α-hydroxylation (25-OH D → 1,25-(OH)2D, calcitriol) occurs in proximal tubular cells of the kidney. PTH stimulates this enzyme; FGF-23 inhibits it. CKD-related loss of 1α-hydroxylase activity is a major contributor to secondary hyperparathyroidism. Calcitriol acts on intestinal VDR to enhance Ca2+ and phosphate absorption.",
-        "Incorrect. Intestine is the target organ for calcitriol, not the activation site.",
-        "Incorrect. Bone is not the activation site."
+        "Incorrect. H3PO4 has pKa1 ≈ 2.1, far below physiologic pH.",
+        "Incorrect. H2PO4- is only ~20% at pH 7.40, becoming more prominent at lower pH (7.20).",
+        "Correct. At pH 7.40, monohydrogen phosphate (HPO4 2-) is the predominant form (~80%).",
+        "Incorrect. PO4 3- has pKa3 ≈ 12.4, well outside physiologic pH range.",
+        "Incorrect. Calcium phosphate is a complex, not a phosphate species in the H3PO4 dissociation series."
       ]
     },
     {
       "id": 7,
-      "stem": "A 55-year-old woman with breast cancer has hypercalcemia (Ca 13.5), low PTH, and elevated PTH-related peptide (PTHrP). Which best describes the mechanism?",
-      "choices": [
-        "Direct osteolytic metastases",
-        "PTHrP-mediated humoral hypercalcemia",
-        "Paraneoplastic calcitriol secretion",
-        "Tumor lysis syndrome",
-        "Vitamin D toxicity"
-      ],
-      "answer": 1,
+      "stem": "A 60-year-old woman has serum total calcium of 7.8 mg/dL and serum albumin of 2.0 g/dL. Using the traditional correction formula presented in the brick, what is her corrected calcium?",
+      "choices": ["7.0 mg/dL", "7.8 mg/dL", "8.6 mg/dL", "9.4 mg/dL", "10.2 mg/dL"],
+      "answer": 3,
       "explanations": [
-        "Incorrect. Direct osteolytic mets cause hypercalcemia in some cancers (breast, multiple myeloma) but PTHrP elevation indicates the humoral mechanism.",
-        "Correct. Humoral hypercalcemia of malignancy (HHM) — paraneoplastic secretion of PTHrP, which acts at PTH receptors to raise calcium via the same renal and skeletal effects as PTH (but PTH itself is suppressed by the high Ca2+). Most common in squamous cell lung cancer, head/neck, renal cell, breast. Treat the underlying tumor; bisphosphonates, denosumab, calcitonin, and IV fluids manage the hypercalcemia.",
-        "Incorrect. Calcitriol-mediated hypercalcemia is more typical of lymphoma and granulomatous disease.",
-        "Incorrect. TLS produces hyperkalemia, hyperphosphatemia, hyperuricemia, and HYPOcalcemia.",
-        "Incorrect. Vitamin D toxicity has elevated 1,25-OH D, not PTHrP."
+        "Incorrect. This is below the measured value and does not use the correction formula.",
+        "Incorrect. This is the uncorrected total calcium.",
+        "Incorrect. This applies a correction of only 0.8 instead of 0.8 × (4.0 − 2.0) = 1.6.",
+        "Correct. Corrected calcium = 7.8 + 0.8 × (4.0 − 2.0) = 7.8 + 1.6 = 9.4 mg/dL.",
+        "Incorrect. This overestimates the correction; the formula yields 9.4 mg/dL."
       ]
     },
     {
       "id": 8,
-      "stem": "A 45-year-old man with sarcoidosis has hypercalcemia (Ca 12.1), suppressed PTH, and elevated 1,25-OH vitamin D. Which best explains the mechanism?",
-      "choices": [
-        "Tumor PTHrP secretion",
-        "Granuloma-derived 1α-hydroxylase activity",
-        "Renal failure with secondary hyperparathyroidism",
-        "Familial hypocalciuric hypercalcemia",
-        "Vitamin D deficiency"
-      ],
-      "answer": 1,
+      "stem": "A nephrology fellow is reviewing renal divalent handling. In a healthy adult, approximately what percentage of the filtered calcium load is reabsorbed by the kidney over the course of a day?",
+      "choices": ["10-20%", "50-60%", "70-80%", "85-90%", "98-99%"],
+      "answer": 4,
       "explanations": [
-        "Incorrect. PTHrP would imply malignancy, not sarcoid.",
-        "Correct. Granulomatous diseases (sarcoidosis, tuberculosis, fungal infections, lymphoma) produce activated macrophages with EXTRARENAL 1α-hydroxylase activity, generating calcitriol unregulated by PTH. The result is increased intestinal Ca2+ absorption and hypercalcemia. Treatment: glucocorticoids (suppress macrophage 1α-hydroxylase), reduce vitamin D and dietary Ca2+, treat the underlying disease.",
-        "Incorrect. Secondary hyperparathyroidism in CKD has elevated PTH, not suppressed.",
-        "Incorrect. FHH features mild hypercalcemia and HYPOcalciuria with normal-high PTH.",
-        "Incorrect. Vitamin D deficiency causes HYPOcalcemia."
+        "Incorrect. Only a tiny fraction of filtered calcium is excreted; the vast majority is reabsorbed.",
+        "Incorrect. This figure underestimates calcium reabsorption.",
+        "Incorrect. The proximal tubule alone reabsorbs ~70%; total reabsorption is much higher.",
+        "Incorrect. About 85-90% is the figure for phosphate reabsorption, not calcium.",
+        "Correct. About 98-99% of filtered calcium is reabsorbed; only 1-2% is excreted."
       ]
     },
     {
       "id": 9,
-      "stem": "A 30-year-old woman with mild lifelong hypercalcemia (Ca 11.0), normal PTH, and inappropriately LOW urinary calcium has a benign clinical course. Family members have similar findings. Which is the most likely diagnosis?",
-      "choices": [
-        "Primary hyperparathyroidism",
-        "Familial hypocalciuric hypercalcemia (FHH)",
-        "Sarcoidosis",
-        "Vitamin D toxicity",
-        "Multiple myeloma"
-      ],
-      "answer": 1,
+      "stem": "A medical student is mapping segmental phosphate handling. According to the brick, approximately what percentage of filtered phosphate is reabsorbed in the proximal tubule?",
+      "choices": ["10%", "25%", "50%", "70%", "85%"],
+      "answer": 4,
       "explanations": [
-        "Incorrect. Primary hyperparathyroidism features HYPERcalciuria.",
-        "Correct. FHH is autosomal-dominant inactivating mutation in the calcium-sensing receptor (CaSR). The set point for Ca2+ sensing is shifted upward — PTH is not appropriately suppressed at mildly elevated Ca2+, and the kidney does not appropriately excrete Ca2+. Clinically benign; distinguished from primary hyperparathyroidism by HYPOcalciuria (urinary Ca/Cr clearance ratio <0.01). Important to recognize because parathyroidectomy does NOT correct FHH.",
-        "Incorrect. Sarcoid features elevated 1,25-OH D and granulomatous disease.",
-        "Incorrect. Vitamin D toxicity has elevated 25-OH D.",
-        "Incorrect. Myeloma typically features high calcium with renal involvement and lytic lesions."
+        "Incorrect. About 10% of filtered phosphate is excreted, not reabsorbed in the PT.",
+        "Incorrect. The PT reclaims most filtered phosphate, not just a quarter.",
+        "Incorrect. This underestimates PT phosphate reabsorption.",
+        "Incorrect. 70% is the proximal tubule figure for calcium, not phosphate.",
+        "Correct. The proximal tubule reabsorbs approximately 85% of the filtered phosphate load and is essentially the only site of phosphate reabsorption."
       ]
     },
     {
       "id": 10,
-      "stem": "A 65-year-old woman with metastatic breast cancer has acute hypercalcemia (Ca 14.0) and is dehydrated. Which is the most appropriate INITIAL therapy?",
+      "stem": "A researcher is studying the apical phosphate uptake step in the proximal tubule. The sodium-phosphate cotransporter on the apical membrane uses the inward sodium gradient established by the basolateral Na+/K+-ATPase. This best illustrates which type of transport?",
       "choices": [
-        "IV bisphosphonate alone",
-        "Calcitonin alone",
-        "Aggressive isotonic saline rehydration",
-        "Hemodialysis",
-        "Oral phosphate"
+        "Facilitated diffusion",
+        "Paracellular diffusion driven by lumen-positive potential",
+        "Primary active transport",
+        "Secondary active transport",
+        "Simple diffusion"
       ],
-      "answer": 2,
+      "answer": 3,
       "explanations": [
-        "Incorrect. Bisphosphonates take 2–4 days; not first-line acute therapy.",
-        "Incorrect. Calcitonin works within hours but tachyphylaxes; useful as bridge but not initial step.",
-        "Correct. Aggressive isotonic saline rehydration is first-line for symptomatic hypercalcemia. Volume restoration enhances Ca2+ excretion and improves GFR. After volume repletion, if persistent, add furosemide (after volume restored — DO NOT use as initial therapy in dehydrated patients). Bisphosphonates (zoledronate, pamidronate) provide durable Ca2+ lowering over days. Calcitonin provides rapid bridge effect (hours).",
-        "Incorrect. Dialysis is reserved for severe / refractory cases.",
-        "Incorrect. Oral phosphate is rarely used and may precipitate calcium-phosphate."
+        "Incorrect. Facilitated diffusion describes the basolateral exit of phosphate via an organic anion transporter, not the apical Na-coupled uptake.",
+        "Incorrect. The lumen-positive potential drives paracellular calcium reabsorption, not apical Na-phosphate cotransport.",
+        "Incorrect. Primary active transport directly hydrolyzes ATP, as in the Na+/K+-ATPase itself.",
+        "Correct. Secondary active transport couples phosphate uptake to the downhill Na+ gradient that is itself maintained by ATP hydrolysis at the Na+/K+-ATPase.",
+        "Incorrect. Phosphate does not move into the cell by simple diffusion; it requires the cotransporter."
       ]
     },
     {
       "id": 11,
-      "stem": "A 55-year-old woman with metastatic breast cancer has Ca 13.5 after volume repletion. The team adds zoledronic acid. Which best explains the mechanism?",
+      "stem": "A renal physiologist is examining how calcium crosses the proximal tubule epithelium. Which mechanism best describes the majority of calcium reabsorption in this segment?",
       "choices": [
-        "Stimulates osteoblast activity",
-        "Inhibits osteoclast-mediated bone resorption",
-        "Increases urinary calcium excretion",
-        "Decreases intestinal calcium absorption",
-        "Suppresses PTH directly"
+        "Apical Na/Ca antiporter under PTH control",
+        "Basolateral Ca-ATPase driven by direct ATP hydrolysis",
+        "Paracellular movement driven by a positive luminal potential",
+        "Transcellular movement through an apical channel stimulated by calcitriol",
+        "Vesicular endocytosis at the brush border"
       ],
-      "answer": 1,
+      "answer": 2,
       "explanations": [
-        "Incorrect. Bisphosphonates do not principally stimulate osteoblasts.",
-        "Correct. Bisphosphonates (zoledronate, pamidronate, alendronate) bind hydroxyapatite, are taken up by osteoclasts, and inhibit osteoclast function (farnesyl pyrophosphate synthase pathway → impaired prenylation of GTPases) and induce apoptosis. The result is reduced bone resorption and lower serum Ca2+. Onset takes 2–4 days. Adverse effects: AKI (especially with rapid IV infusion), osteonecrosis of the jaw, atypical femur fractures, atrial fibrillation in some studies.",
-        "Incorrect. Bisphosphonates do not principally enhance urinary Ca2+ excretion.",
-        "Incorrect. Bisphosphonates do not affect GI Ca2+.",
-        "Incorrect. Bisphosphonates do not directly suppress PTH."
+        "Incorrect. The Na/Ca antiporter is a basolateral DCT mechanism, not the proximal tubule pathway.",
+        "Incorrect. The basolateral Ca-ATPase is described in the DCT, not as the major proximal route.",
+        "Correct. In the proximal tubule, the majority of calcium reabsorption is paracellular and driven by the positive luminal potential generated by reabsorption of other ions.",
+        "Incorrect. PTH- and calcitriol-regulated transcellular calcium uptake occurs in the DCT, not the proximal tubule.",
+        "Incorrect. Calcium is not reabsorbed by endocytosis."
       ]
     },
     {
       "id": 12,
-      "stem": "A 60-year-old woman with renal cell carcinoma and bone metastases has refractory hypercalcemia despite zoledronate. Denosumab is given. Which best characterizes denosumab?",
+      "stem": "A renal investigator notes that calcium reabsorption in the thick ascending limb is sensitive to changes in serum calcium. Which structure in this segment senses elevated serum calcium and reduces calcium reabsorption?",
       "choices": [
-        "Bisphosphonate analog",
-        "Monoclonal antibody against RANKL",
-        "Calcitonin analog",
-        "Vitamin D antagonist",
-        "PTH receptor agonist"
+        "Apical NKCC2 cotransporter",
+        "Apical TRPV5 calcium channel",
+        "Basolateral calcium-sensing receptor (CaSR)",
+        "Basolateral organic anion transporter",
+        "Sodium-phosphate cotransporter"
       ],
-      "answer": 1,
+      "answer": 2,
       "explanations": [
-        "Incorrect. Denosumab is structurally distinct from bisphosphonates.",
-        "Correct. Denosumab is a fully humanized monoclonal antibody against RANKL (receptor activator of NF-κB ligand). It prevents RANKL from binding RANK on osteoclast precursors, blocking osteoclast formation, function, and survival. Used in osteoporosis (60 mg q6mo) and in bone-metastasis disease (120 mg q4wk). Advantage in renal failure (no renal clearance). Adverse: hypocalcemia (especially in vit D deficiency or CKD), ONJ, atypical fractures, REBOUND vertebral fractures on discontinuation.",
-        "Incorrect. Calcitonin is a different agent.",
-        "Incorrect. Denosumab does not antagonize vitamin D.",
-        "Incorrect. Denosumab does not act at PTH receptors."
+        "Incorrect. NKCC2 transports Na+, K+, and Cl-; it is not the calcium sensor.",
+        "Incorrect. An apical calcium channel is the route for transcellular DCT uptake, not the TAL sensor.",
+        "Correct. The basolateral calcium-sensing receptor (CaSR) in the thick ascending limb detects high calcium and signals the cell to reabsorb less sodium, which decreases the lumen-positive potential and thus paracellular calcium reabsorption.",
+        "Incorrect. The basolateral organic anion transporter handles phosphate exit in the proximal tubule.",
+        "Incorrect. The Na-phosphate cotransporter is a phosphate apical uptake protein, not a calcium sensor."
       ]
     },
     {
       "id": 13,
-      "stem": "A 55-year-old man undergoes total thyroidectomy for thyroid cancer. On postoperative day 2 he has perioral numbness, Chvostek sign, and Ca 7.4 mg/dL. PTH is undetectable. Which best explains the hypocalcemia?",
+      "stem": "A 38-year-old woman with primary hyperparathyroidism has elevated PTH and elevated serum calcium. Which segment of the nephron is most directly responsible for the PTH-mediated increase in calcium reabsorption?",
       "choices": [
-        "Magnesium deficiency",
-        "Surgical hypoparathyroidism",
-        "Acute pancreatitis",
-        "Vitamin D deficiency",
-        "Pseudohypoparathyroidism"
+        "Collecting duct",
+        "Distal convoluted tubule",
+        "Proximal tubule",
+        "Thick ascending limb of the loop of Henle",
+        "Thin descending limb of the loop of Henle"
       ],
       "answer": 1,
       "explanations": [
-        "Incorrect. Mg deficiency can cause hypocalcemia by impairing PTH secretion, but the temporal relationship to thyroidectomy points to surgical injury.",
-        "Correct. Surgical hypoparathyroidism — the parathyroid glands are anatomically adjacent to the thyroid and can be inadvertently removed or devascularized during thyroidectomy. Acute postoperative hypocalcemia presents with perioral numbness, paresthesias, Chvostek (facial twitch on tapping CN VII) and Trousseau (carpopedal spasm with BP cuff inflation) signs, and risk of laryngospasm and seizure if severe. Treatment: oral calcium + calcitriol; IV calcium for severe / symptomatic.",
-        "Incorrect. Pancreatitis can cause hypocalcemia (saponification) but is unrelated to thyroid surgery.",
-        "Incorrect. Vit D deficiency has a more chronic course and would not present this acutely.",
-        "Incorrect. Pseudohypoparathyroidism features ELEVATED PTH (with end-organ resistance)."
+        "Incorrect. The collecting duct is not described as a major hormonally regulated calcium reabsorption site in the brick.",
+        "Correct. Calcium reabsorption in the DCT is transcellular and is regulated by PTH and calcitriol, both of which increase apical calcium channel expression.",
+        "Incorrect. PT calcium reabsorption is paracellular and not hormonally regulated.",
+        "Incorrect. TAL calcium reabsorption is paracellular and modulated by the CaSR rather than directly by PTH.",
+        "Incorrect. The thin descending limb does not perform regulated calcium reabsorption."
       ]
     },
     {
       "id": 14,
-      "stem": "A 35-year-old woman with chronic alcoholism has Mg 1.2 mg/dL, Ca 7.6 mg/dL, and inappropriately LOW PTH despite the hypocalcemia. Which mechanism best explains the impaired PTH response?",
+      "stem": "A medical student is mapping calcium movement across distal convoluted tubule cells. After calcium enters the cell apically, how does it exit across the basolateral membrane into the interstitium?",
       "choices": [
-        "Magnesium deficiency impairs PTH secretion",
-        "Magnesium toxicity from alcohol",
-        "Direct alcohol-induced parathyroid destruction",
-        "Vitamin D toxicity",
-        "Acute pancreatitis"
+        "Apical paracellular leak driven by a positive luminal potential",
+        "Basolateral Ca2+-ATPase and a basolateral sodium-calcium antiporter",
+        "Basolateral organic anion transporter",
+        "Facilitated diffusion through the same calcium channel",
+        "Secondary active cotransport with phosphate"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanations": [
-        "Correct. Severe hypomagnesemia (Mg <1.0–1.5 mg/dL) IMPAIRS PTH secretion AND end-organ PTH responsiveness, producing functional hypoparathyroidism with hypocalcemia. The hypocalcemia is REFRACTORY to Ca2+ replacement until Mg2+ is repleted. Common in alcoholics, malnutrition, chronic diuretics, PPI long-term use. Always check Mg2+ in unexplained hypocalcemia.",
-        "Incorrect. Magnesium is LOW, not toxic.",
-        "Incorrect. Alcohol does not directly destroy the parathyroid gland.",
-        "Incorrect. Vit D toxicity raises (not lowers) Ca2+.",
-        "Incorrect. Pancreatitis is associated with hypocalcemia but not principally via PTH suppression."
+        "Incorrect. DCT calcium reabsorption is transcellular, not paracellular.",
+        "Correct. In the DCT, calcium exits basolaterally via a Ca2+-ATPase and a sodium-calcium antiporter to enter the interstitium.",
+        "Incorrect. The basolateral organic anion transporter handles phosphate exit in the proximal tubule.",
+        "Incorrect. The apical calcium channel is unidirectional inward; basolateral exit uses different transporters.",
+        "Incorrect. There is no Na-phosphate-like cotransport for calcium exit in the DCT."
       ]
     },
     {
       "id": 15,
-      "stem": "A 60-year-old man with CKD stage 5 has elevated PTH, normal calcium, elevated phosphate, and decreased calcitriol. Which is the term for this pattern?",
+      "stem": "A 30-year-old man with several days of severe diarrhea is volume depleted on exam. Serum calcium is 10.5 mg/dL. Which segmental change in calcium handling, described in the brick, most directly accounts for his slightly elevated calcium?",
       "choices": [
-        "Primary hyperparathyroidism",
-        "Secondary hyperparathyroidism",
-        "Tertiary hyperparathyroidism",
-        "Familial hypocalciuric hypercalcemia",
-        "Pseudohypoparathyroidism"
+        "Activation of the calcium-sensing receptor in the TAL",
+        "Decreased calcium reabsorption in the DCT due to PTH suppression",
+        "Increased calcium reabsorption in the proximal tubule with volume contraction",
+        "Increased filtered calcium load from increased GFR",
+        "Reduced bone resorption"
       ],
-      "answer": 1,
+      "answer": 2,
       "explanations": [
-        "Incorrect. Primary hyperparathyroidism has elevated PTH AND elevated Ca2+.",
-        "Correct. Secondary hyperparathyroidism in CKD: reduced calcitriol synthesis (1α-hydroxylase loss), phosphate retention (which directly stimulates PTH and lowers ionized Ca2+), and reduced ionized Ca2+ all combine to drive parathyroid hyperplasia and elevated PTH. PTH is appropriately responding to the chronic hypocalcemic stimulus. Treatment: phosphate binders, active vitamin D, calcimimetics (cinacalcet) which sensitize the CaSR.",
-        "Incorrect. Tertiary hyperparathyroidism is autonomous PTH secretion (with HYPERcalcemia) after prolonged secondary, often after renal transplant.",
-        "Incorrect. FHH has high Ca2+ and low urinary Ca2+.",
-        "Incorrect. Pseudohypoparathyroidism has high PTH but end-organ resistance with HYPOcalcemia."
+        "Incorrect. CaSR activation would decrease calcium reabsorption, lowering serum calcium.",
+        "Incorrect. Volume depletion does not directly suppress PTH; the brick attributes the rise to PT handling.",
+        "Correct. The brick states that volume contraction (decreased ECF) increases calcium reabsorption in the proximal tubule, raising serum calcium.",
+        "Incorrect. Volume depletion lowers, not raises, GFR.",
+        "Incorrect. Volume status does not directly modulate bone resorption in this setting."
       ]
     },
     {
       "id": 16,
-      "stem": "A 50-year-old man on long-term hemodialysis has Ca 11.5 mg/dL, phosphate 6.2, and markedly elevated PTH. He had longstanding secondary hyperparathyroidism. Which best characterizes his condition now?",
+      "stem": "A 58-year-old woman with hypertension is started on hydrochlorothiazide. Several months later her serum calcium is mildly elevated at 10.6 mg/dL. According to the brick, what is the main mechanism by which thiazides cause this hypercalcemia?",
       "choices": [
-        "Primary hyperparathyroidism",
-        "Tertiary hyperparathyroidism",
-        "Familial hypocalciuric hypercalcemia",
-        "Sarcoidosis",
-        "Resolved 2° hyperparathyroidism"
+        "Direct activation of the apical calcium channel in the DCT",
+        "Inhibition of NKCC2 in the thick ascending limb",
+        "Inhibition of the calcium-sensing receptor",
+        "Induction of mild volume depletion that increases proximal calcium reabsorption",
+        "Stimulation of PTH secretion"
       ],
-      "answer": 1,
+      "answer": 3,
       "explanations": [
-        "Incorrect. Primary HPT is the initial pathology, not after CKD-driven chronic stimulation.",
-        "Correct. Tertiary hyperparathyroidism — autonomous parathyroid hyperplasia/adenomas develop after prolonged secondary hyperparathyroidism. Glands now secrete PTH independent of feedback, producing HYPERcalcemia despite the underlying CKD. Often emerges after renal transplant when calcitriol normalizes but the autonomous glands persist. Treatment: cinacalcet, partial parathyroidectomy.",
-        "Incorrect. FHH does not develop in this manner.",
-        "Incorrect. Sarcoid is a different mechanism.",
-        "Incorrect. The pattern shows hypercalcemia with high PTH — autonomous, not resolved."
+        "Incorrect. The brick does not attribute thiazide-induced hypercalcemia to direct DCT channel activation.",
+        "Incorrect. NKCC2 inhibition characterizes loop diuretics, which cause hypocalcemia, not hypercalcemia.",
+        "Incorrect. CaSR inhibition is not the mechanism described for thiazides.",
+        "Correct. The brick states that induction of volume depletion appears to be the main mechanism by which thiazides increase renal calcium reabsorption and produce mild hypercalcemia.",
+        "Incorrect. Thiazides are not described as stimulating PTH release."
       ]
     },
     {
       "id": 17,
-      "stem": "A 28-year-old woman with chronic vitamin D deficiency has Ca 7.8 mg/dL, phosphate 1.8, elevated PTH, and bone pain. Which best characterizes her bone disease?",
-      "choices": ["Paget disease", "Osteomalacia", "Osteopetrosis", "Multiple myeloma", "Hyperphosphatemic bone disease"],
-      "answer": 1,
+      "stem": "A 72-year-old woman with malignancy-associated hypercalcemia (calcium 14.2 mg/dL) is given intravenous isotonic fluids and then furosemide. According to the brick, how does furosemide promote calcium excretion?",
+      "choices": [
+        "Activates the calcium-sensing receptor in the DCT",
+        "Blocks the basolateral Ca2+-ATPase in the DCT",
+        "Directly inhibits PTH-stimulated calcium reabsorption in the DCT",
+        "Inhibits NKCC2 in the thick ascending limb, reducing the lumen-positive voltage that drives calcium reabsorption",
+        "Inhibits sodium-phosphate cotransport in the proximal tubule"
+      ],
+      "answer": 3,
       "explanations": [
-        "Incorrect. Paget features asymmetric bone overgrowth and elevated alkaline phosphatase without nutritional cause.",
-        "Correct. Osteomalacia (in adults) / rickets (in children) — defective bone mineralization due to vitamin D deficiency or inadequate Ca/phosphate. Lab pattern: low-normal Ca, LOW phosphate (PTH-driven phosphaturia), elevated PTH (secondary), elevated alkaline phosphatase. Bone pain, proximal muscle weakness, fractures, pseudofractures (Looser zones). Treatment: vitamin D + calcium replacement.",
-        "Incorrect. Osteopetrosis is increased bone density from osteoclast dysfunction.",
-        "Incorrect. Myeloma features lytic lesions and monoclonal protein.",
-        "Incorrect. The pattern is hypophosphatemic, not hyperphosphatemic."
+        "Incorrect. Loop diuretics do not act through CaSR activation in the DCT.",
+        "Incorrect. The basolateral Ca2+-ATPase is not the loop diuretic target.",
+        "Incorrect. Loops do not directly inhibit PTH-mediated DCT calcium reabsorption.",
+        "Correct. Loop diuretics inhibit NKCC2 in the thick ascending limb, reducing the lumen-positive voltage that normally drives paracellular calcium reabsorption, leading to increased urinary calcium loss.",
+        "Incorrect. The proximal Na-phosphate cotransporter is not the loop diuretic site of action."
       ]
     },
     {
       "id": 18,
-      "stem": "A 65-year-old man with metastatic breast cancer has Ca 13.2. Which diuretic, when added to volume repletion, enhances urinary calcium excretion?",
-      "choices": ["Hydrochlorothiazide", "Spironolactone", "Furosemide", "Amiloride", "Acetazolamide"],
-      "answer": 2,
+      "stem": "A 50-year-old man is given a high-phosphate meal as part of a metabolic study. According to the brick, what is the expected renal response?",
+      "choices": [
+        "Decreased phosphate reabsorption in the proximal tubule due to downregulation of transport proteins",
+        "Increased FGF-23 release from the parathyroid gland",
+        "Increased PTH-driven phosphate reabsorption in the DCT",
+        "Increased proximal tubular phosphate reabsorption to maintain balance",
+        "No change because dietary phosphate is regulated solely in the gut"
+      ],
+      "answer": 0,
       "explanations": [
-        "Incorrect. Thiazides REDUCE urinary Ca2+ (used for stone prevention).",
-        "Incorrect. Spironolactone does not principally affect Ca2+.",
-        "Correct. Loop diuretics (furosemide, bumetanide) inhibit NKCC2, abolishing the lumen-positive voltage that drives paracellular Ca2+ reabsorption in the TAL. The result is INCREASED urinary Ca2+ excretion. Used as adjunct in hypercalcemia AFTER volume repletion (using before volume restoration WORSENS hypercalcemia by aggravating volume contraction).",
-        "Incorrect. Amiloride does not principally affect Ca2+ handling.",
-        "Incorrect. Acetazolamide does not principally affect Ca2+."
+        "Correct. The brick states that increased phosphate intake leads to reduced phosphate reabsorption in the proximal tubule by downregulation of the transport proteins.",
+        "Incorrect. FGF-23 is produced by osteocytes, not the parathyroid gland.",
+        "Incorrect. PTH decreases (not increases) phosphate reabsorption, and the DCT is not a phosphate reabsorption site.",
+        "Incorrect. Increased intake decreases, not increases, proximal tubular reabsorption.",
+        "Incorrect. The kidney actively adjusts phosphate handling in response to dietary load."
       ]
     },
     {
       "id": 19,
-      "stem": "A 55-year-old woman with idiopathic hypercalciuria forms recurrent calcium oxalate stones. Which diuretic class is appropriate for stone prevention?",
-      "choices": ["Loop diuretic", "Thiazide diuretic", "Acetazolamide", "Mannitol", "Spironolactone"],
-      "answer": 1,
+      "stem": "A 24-year-old man develops a severe metabolic acidosis after a methanol ingestion. According to the brick, how does the kidney use phosphate to help clear acid?",
+      "choices": [
+        "Excretes more phosphate so it can bind hydrogen ions in the urine as titratable acid",
+        "Generates new bicarbonate via phosphate-driven transport in the DCT",
+        "Increases proximal phosphate reabsorption to free up bicarbonate buffering",
+        "Promotes phosphate uptake into red blood cells",
+        "Shifts phosphate species toward PO4 3- to buffer cellular acid"
+      ],
+      "answer": 0,
       "explanations": [
-        "Incorrect. Loop diuretics INCREASE urinary Ca2+ and worsen stone risk.",
-        "Correct. Thiazides reduce urinary Ca2+ excretion by ~40% via two mechanisms: (1) volume contraction enhances proximal Ca2+ reabsorption with Na+; (2) reduced intracellular Na+ in DCT cells (NCC blocked) increases basolateral NCX1 activity, which pulls more Ca2+ into the cell via apical TRPV5. Used for prevention in idiopathic hypercalciuric stone formers; combined with potassium citrate in some patients.",
-        "Incorrect. Acetazolamide alkalinizes urine (and promotes calcium phosphate stones).",
-        "Incorrect. Mannitol is not a stone-prevention diuretic.",
-        "Incorrect. Spironolactone does not principally affect Ca2+ excretion."
+        "Correct. During metabolic acidosis the kidney reabsorbs less phosphate; the extra phosphate in the urine binds hydrogen ions, functioning as a titratable acid that helps remove acid from the body.",
+        "Incorrect. Bicarbonate generation is not described as a phosphate-driven DCT process in the brick.",
+        "Incorrect. The brick states reabsorption decreases, not increases, during acidosis.",
+        "Incorrect. RBC phosphate uptake is not the renal acid-handling mechanism described.",
+        "Incorrect. PO4 3- exists only at very high pH (pKa3 ≈ 12.4) and is not relevant to physiologic buffering."
       ]
     },
     {
       "id": 20,
-      "stem": "A 40-year-old man undergoes parathyroidectomy for primary hyperparathyroidism. Within 24 hours he develops Ca 7.0, phosphate 5.8, and Mg 1.3 with severe weakness. Which best explains 'hungry bone syndrome'?",
+      "stem": "A researcher creates a knockout of the renal calcium-sensing receptor (CaSR) in mice (loss-of-function). Based on the role of the renal CaSR described in the brick, what urinary calcium phenotype would be expected?",
       "choices": [
-        "Acute hypoparathyroidism",
-        "Rapid skeletal mineral uptake",
-        "Vitamin D deficiency",
-        "Acute kidney injury",
-        "Pancreatitis"
+        "Anuria",
+        "High urinary calcium because the CaSR normally promotes reabsorption",
+        "No change in urinary calcium",
+        "Reduced urinary calcium because reabsorption is no longer inhibited at high serum calcium",
+        "Reduced urinary phosphate but unchanged calcium"
       ],
-      "answer": 1,
+      "answer": 3,
       "explanations": [
-        "Incorrect. Hypoparathyroidism is a separate complication; hungry bone is the rapid skeletal uptake.",
-        "Correct. 'Hungry bone syndrome' — after parathyroidectomy in patients with longstanding severe hyperparathyroidism, the suddenly-suppressed PTH allows the previously-resorbed skeleton to rapidly UPTAKE Ca2+, phosphate, and Mg2+ into bone. Severe hypocalcemia, hypophosphatemia, and hypomagnesemia can develop. Can persist for weeks. Aggressive Ca2+ + Mg2+ + active vitamin D supplementation; close monitoring.",
-        "Incorrect. Vit D deficiency is a chronic cause, not acute postoperative.",
-        "Incorrect. AKI does not principally cause this pattern.",
-        "Incorrect. Pancreatitis-associated hypocalcemia has different mechanism."
+        "Incorrect. CaSR loss does not produce anuria.",
+        "Incorrect. The renal CaSR normally inhibits, not promotes, calcium reabsorption when serum calcium is high.",
+        "Incorrect. CaSR loss alters paracellular TAL calcium handling, so urine calcium does change.",
+        "Correct. Without functional CaSR in the TAL, the kidney does not appropriately reduce calcium reabsorption when serum calcium is high, so urinary calcium is inappropriately low and serum calcium tends to rise.",
+        "Incorrect. CaSR primarily modulates calcium handling in the TAL; phosphate handling is not the primary effect."
       ]
     },
     {
       "id": 21,
-      "stem": "A 32-year-old man with newly diagnosed acute leukemia receiving chemotherapy develops Ca 7.0, phosphate 8.6, K+ 6.2, and uric acid 14. Which mechanism explains the HYPOcalcemia in this setting?",
+      "stem": "A 60-year-old man with stage 4 chronic kidney disease has serum phosphate 6.8 mg/dL. The brick describes a hormone produced by osteocytes in response to high phosphate that acts on the kidney to lower serum phosphate. Which hormone and action are these?",
       "choices": [
-        "Direct calcium consumption by tumor",
-        "Calcium-phosphate precipitation in tissues",
-        "Vitamin D deficiency from chemotherapy",
-        "Aldosterone excess",
-        "Hypoparathyroidism"
+        "Calcitonin; inhibits osteoclast activity",
+        "Calcitriol; increases intestinal phosphate absorption",
+        "FGF-23; reduces proximal tubular phosphate reabsorption",
+        "PTH; increases distal calcium reabsorption",
+        "PTH; stimulates 1-α hydroxylase in the kidney"
       ],
-      "answer": 1,
+      "answer": 2,
       "explanations": [
-        "Incorrect. Tumor cells do not directly consume Ca2+.",
-        "Correct. Tumor lysis syndrome — released intracellular phosphate from dying cells COMPLEXES with calcium, depositing as calcium phosphate in tissues (including kidney, contributing to AKI). This consumes plasma Ca2+, producing hypocalcemia. The combination of hyperphosphatemia + hypocalcemia + hyperkalemia + hyperuricemia is diagnostic. Treat hypocalcemia cautiously (avoid Ca-phosphate precipitation; use only for symptomatic patients).",
-        "Incorrect. Vit D deficiency does not arise acutely from chemotherapy.",
-        "Incorrect. Aldosterone is not relevant.",
-        "Incorrect. PTH is not principally involved in TLS hypocalcemia."
+        "Incorrect. Calcitonin acts on bone to lower calcium and is not the osteocyte-derived phosphate-regulating hormone.",
+        "Incorrect. Calcitriol increases intestinal phosphate absorption, which would raise (not lower) serum phosphate.",
+        "Correct. FGF-23 is produced by osteocytes in response to high phosphate and reduces proximal tubular phosphate reabsorption, increasing renal phosphate excretion.",
+        "Incorrect. PTH does increase phosphate excretion but is produced by the parathyroid glands, not osteocytes.",
+        "Incorrect. PTH does stimulate 1-α hydroxylase, but this question asks about the osteocyte-derived phosphate-lowering hormone."
       ]
     },
     {
       "id": 22,
-      "stem": "A 60-year-old man with severe chronic kidney disease has phosphate 7.2 mg/dL. The nephrologist prescribes sevelamer with meals. Which best explains its mechanism?",
+      "stem": "A 64-year-old man with chronic kidney disease has retained phosphate, low calcitriol, hypocalcemia, and elevated PTH. According to the CKD-MBD pathway in the brick, the reduction in calcitriol is most directly the result of which step?",
       "choices": [
-        "Aluminum-based binding",
-        "Calcium-based binding",
-        "Non-absorbed polymer binding gut phosphate",
-        "Inhibitor of NaPi-IIa in the gut",
-        "Direct phosphate destruction"
+        "FGF-23-mediated decrease in renal 1-α hydroxylase activity",
+        "Increased hepatic 25-hydroxylase activity",
+        "Increased intestinal calcium absorption suppressing vitamin D",
+        "PTH-driven inhibition of 1-α hydroxylase",
+        "Sevelamer binding of dietary vitamin D"
       ],
-      "answer": 2,
+      "answer": 0,
       "explanations": [
-        "Incorrect. Aluminum hydroxide is a different binder (now rarely used due to Al toxicity).",
-        "Incorrect. Calcium acetate / carbonate are different binders (limited by Ca2+ load).",
-        "Correct. Sevelamer is a non-absorbed polymeric binder that binds dietary phosphate in the gut, preventing absorption. Advantages over Ca-based binders: no calcium load (lower vascular calcification risk in CKD). Other binders: lanthanum carbonate (non-Ca, non-Al), iron-based binders (sucroferric oxyhydroxide, ferric citrate). All are taken WITH meals to bind food phosphate.",
-        "Incorrect. The mechanism is luminal binding, not transporter inhibition.",
-        "Incorrect. Phosphate is bound, not destroyed."
+        "Correct. FGF-23 (produced in response to phosphate retention) decreases renal 1-α hydroxylase activity, which reduces conversion of calcifediol to calcitriol.",
+        "Incorrect. Hepatic 25-hydroxylase activity is not the regulated step that fails in CKD.",
+        "Incorrect. Intestinal calcium absorption is decreased (not increased) in CKD because of low calcitriol.",
+        "Incorrect. PTH normally stimulates 1-α hydroxylase; the brick attributes its inhibition in CKD to FGF-23.",
+        "Incorrect. Sevelamer binds dietary phosphate, not vitamin D."
       ]
     },
     {
       "id": 23,
-      "stem": "A 35-year-old woman with chronic alcoholism is admitted for malnutrition and started on enteral feeds. Within 48 hours she develops phosphate 1.0 mg/dL, K+ 2.3, and Mg 1.1 with weakness and respiratory difficulty. Which best explains the hypophosphatemia?",
+      "stem": "A 72-year-old woman with longstanding CKD develops bone pain and a vertebral fragility fracture. Imaging and labs are consistent with renal osteodystrophy. According to the brick, which sequence best explains why her bones are weakened?",
       "choices": [
-        "Refeeding syndrome",
-        "Primary hyperparathyroidism",
-        "Renal phosphate wasting",
-        "Tumor lysis syndrome",
-        "Vitamin D toxicity"
+        "Calcitonin excess inhibits osteoblasts, weakening bone",
+        "FGF-23 directly causes osteoblast apoptosis in CKD",
+        "Hyperphosphatemia drives calcium into bone, leading to brittle bone",
+        "Phosphate retention → FGF-23↑ and calcitriol↓ → hypocalcemia → PTH↑ → increased bone resorption",
+        "Sevelamer use leads to vitamin D deficiency and osteomalacia"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanations": [
-        "Correct. Refeeding syndrome — carbohydrate reintroduction after starvation triggers insulin release, driving phosphate, K+, and Mg2+ INTO cells for ATP synthesis and protein assembly. Severe hypophosphatemia (often <1.0) can produce respiratory muscle failure, rhabdomyolysis, hemolysis, and cardiac arrhythmias. Prevention: start feeds slowly, supplement electrolytes prophylactically, monitor closely in high-risk patients (alcoholics, anorexia, prolonged starvation).",
-        "Incorrect. Primary hyperparathyroidism is a chronic cause.",
-        "Incorrect. Renal phosphate wasting from drugs or genetic causes is more chronic.",
-        "Incorrect. TLS has the OPPOSITE pattern (hyperphosphatemia).",
-        "Incorrect. Vit D toxicity raises Ca2+ and phosphate."
+        "Incorrect. Calcitonin is not implicated in renal osteodystrophy in the brick.",
+        "Incorrect. FGF-23 acts at the kidney to reduce phosphate reabsorption and 1-α hydroxylase, not by directly killing osteoblasts.",
+        "Incorrect. In CKD, hyperphosphatemia binds calcium to form complexes that lower ionized calcium; bone weakening occurs through PTH-driven resorption, not deposition.",
+        "Correct. The CKD-MBD cascade in the brick is phosphate retention → FGF-23↑ and calcitriol↓ → hypocalcemia → PTH↑ → increased bone resorption, producing renal osteodystrophy.",
+        "Incorrect. Sevelamer is a phosphate binder used to treat hyperphosphatemia, not a cause of osteodystrophy."
       ]
     },
     {
       "id": 24,
-      "stem": "A 20-year-old man has bowed legs from childhood, short stature, and persistent hypophosphatemia despite normal calcium and PTH. Family history reveals similar findings. Genetic testing shows X-linked hypophosphatemic rickets. Which mechanism best explains the phosphate wasting?",
+      "stem": "A 55-year-old woman is admitted with primary hyperparathyroidism and serum calcium of 14.0 mg/dL. After volume expansion with isotonic fluids, the team adds a bisphosphonate. According to the brick, which mechanism best explains how bisphosphonates lower serum calcium?",
       "choices": [
-        "Vitamin D deficiency",
-        "Primary hyperparathyroidism",
-        "Excessive FGF-23 activity",
-        "NCC mutation",
-        "Carbonic anhydrase deficiency"
+        "Activate the calcium-sensing receptor in the parathyroid gland",
+        "Bind hydroxyapatite in bone and inhibit osteoclast-mediated bone resorption",
+        "Bind phosphate in the gastrointestinal tract",
+        "Increase renal calcium excretion via the loop of Henle",
+        "Stimulate calcitonin release from C-cells"
       ],
-      "answer": 2,
+      "answer": 1,
       "explanations": [
-        "Incorrect. Vit D deficiency has elevated PTH and presents nutritionally.",
-        "Incorrect. PTH is normal in this disease.",
-        "Correct. X-linked hypophosphatemic rickets (XLH) — loss-of-function mutations in PHEX gene → impaired FGF-23 degradation → ELEVATED FGF-23 activity → renal phosphate wasting (NaPi-IIa downregulation) AND reduced calcitriol synthesis. Phenotype: rickets/osteomalacia, growth retardation, dental abnormalities. Treatment: oral phosphate + active vitamin D (calcitriol); newer therapy with burosumab (anti-FGF-23 monoclonal antibody).",
-        "Incorrect. NCC mutations cause Gitelman.",
-        "Incorrect. CA deficiency causes proximal RTA / Fanconi pattern."
+        "Incorrect. The brick does not describe bisphosphonates as CaSR activators.",
+        "Correct. Bisphosphonates (alendronate, risedronate, ibandronate, zoledronic acid, pamidronate) bind hydroxyapatite in bone and inhibit osteoclast-mediated bone resorption, gradually lowering serum calcium.",
+        "Incorrect. GI phosphate binding describes sevelamer for hyperphosphatemia, not bisphosphonates.",
+        "Incorrect. Increasing urinary calcium via the TAL is the mechanism of loop diuretics, not bisphosphonates.",
+        "Incorrect. Bisphosphonates do not act by stimulating endogenous calcitonin release."
       ]
     },
     {
       "id": 25,
-      "stem": "A 28-year-old researcher studies the calcium-sensing receptor (CaSR). Which tissue distribution and function best characterizes the CaSR?",
+      "stem": "A 68-year-old man with stage 5 CKD has serum phosphate 7.6 mg/dL and serum calcium 8.4 mg/dL despite dietary counseling. The team wants to add an oral phosphate binder that will not increase his calcium load. According to the brick, which medication is most appropriate?",
       "choices": [
-        "Only in parathyroid; senses Ca2+ for PTH regulation",
-        "Parathyroid and kidney; suppresses PTH and Ca2+ reabsorption",
-        "Only in bone; regulates osteoclast activity",
-        "Only in intestine; regulates dietary Ca2+ uptake",
-        "Only in skin; regulates vitamin D synthesis"
+        "Calcitonin",
+        "Calcitriol",
+        "Furosemide",
+        "Pamidronate",
+        "Sevelamer"
       ],
-      "answer": 1,
+      "answer": 4,
       "explanations": [
-        "Incorrect. CaSR has wider distribution than parathyroid alone.",
-        "Correct. The calcium-sensing receptor (CaSR) is a Gq-coupled GPCR expressed in: (1) parathyroid chief cells — high Ca2+ → CaSR activation → SUPPRESSED PTH secretion; (2) renal TAL — high Ca2+ → CaSR activation → reduced NKCC2 activity → reduced lumen-positive voltage → reduced paracellular Ca2+/Mg2+ reabsorption → calciuria/magnesuria (a 'self-correcting' loop). Mutations: inactivating → FHH (HYPOcalciuria with hypercalcemia); activating → autosomal dominant hypocalcemia. Calcimimetics (cinacalcet) target CaSR for treatment of secondary hyperparathyroidism.",
-        "Incorrect. CaSR is not exclusively bone.",
-        "Incorrect. CaSR is not principally intestinal.",
-        "Incorrect. CaSR is not principally cutaneous."
+        "Incorrect. Calcitonin is used for rapid lowering of serum calcium in hypercalcemia, not for binding phosphate.",
+        "Incorrect. Calcitriol increases intestinal calcium and phosphate absorption, which would worsen hyperphosphatemia.",
+        "Incorrect. Furosemide increases renal calcium excretion in hypercalcemia; it is not a phosphate binder.",
+        "Incorrect. Pamidronate is a bisphosphonate used to reduce bone resorption in hypercalcemia, not a phosphate binder.",
+        "Correct. Sevelamer is a non-calcium-containing phosphate binder that binds dietary phosphate in the intestine, forming insoluble complexes excreted in stool, lowering serum phosphate without increasing calcium load."
       ]
     }
   ]

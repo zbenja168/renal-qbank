@@ -4,477 +4,477 @@
   "questions": [
     {
       "id": 1,
-      "stem": "A 30-year-old researcher is studying serum creatinine. Which best characterizes its production and clearance?",
+      "stem": "A 36-year-old healthy woman applying for life insurance has routine bloodwork drawn. Her electrolytes are normal but her serum creatinine returns at 1.9 mg/dL. Her physician is concerned about kidney function. The serum creatinine is used as a marker of kidney function primarily because of which property?",
       "choices": [
-        "Produced by liver, hepatic clearance",
-        "Muscle creatine; filtered with mild secretion",
-        "Produced by kidney, biliary clearance",
-        "Produced by gut, fully reabsorbed",
-        "Inert with no relationship to GFR"
+        "It is actively secreted by the renal tubules in proportion to GFR",
+        "It is produced from muscle at a relatively constant daily rate",
+        "It is reabsorbed completely by the proximal tubule",
+        "It is synthesized by the liver from dietary protein",
+        "Its level is independent of muscle mass"
       ],
       "answer": 1,
       "explanations": [
-        "Incorrect. Liver is not principal source.",
-        "Correct. Creatinine is produced from creatine in muscle (relatively constant production proportional to muscle mass). Cleared by kidneys: freely filtered (low MW, not protein-bound) and SMALL TUBULAR SECRETION in PCT (10–15%) — leading to slight overestimation of true GFR by Cr clearance compared with inulin. Cr is widely used as a GFR estimate but limitations include: muscle mass dependence (overestimates GFR in low muscle mass: elderly, malnourished, paraplegic; underestimates in high muscle mass: bodybuilders); slow rise after acute injury (24–48 h); affected by drugs that block tubular secretion (cimetidine, trimethoprim — raise Cr without GFR change); may rise with cooked meat ingestion.",
-        "Incorrect. Renal clearance, not biliary.",
-        "Incorrect. Not GI source.",
-        "Incorrect. Cr is the principal GFR marker."
+        "Incorrect. Creatinine is freely filtered, and the brick does not emphasize secretion as the basis for its use as a GFR marker.",
+        "Correct. Creatinine is generated from breakdown of creatine and creatine phosphate in muscle at about 1-2% of muscle stores daily, and because muscle mass is relatively stable, production is constant so a rising SCr indicates reduced kidney function.",
+        "Incorrect. Creatinine is not significantly reabsorbed; it is excreted, which is what allows it to track GFR.",
+        "Incorrect. Urea (and thus BUN) is made in the liver from protein catabolism, not creatinine.",
+        "Incorrect. SCr does depend on muscle mass, which is why person-to-person variability limits a single value and SCr is best used to follow trends."
       ]
     },
     {
       "id": 2,
-      "stem": "A 60-year-old man with cachexia has eGFR 55. He weighs 50 kg with low muscle mass. Which best characterizes Cr-based eGFR in this patient?",
+      "stem": "A 70-year-old frail woman with sarcopenia and a 25-year-old male bodybuilder both have a measured GFR of 90 mL/min/1.73 m^2. Compared with the bodybuilder, the elderly woman is most likely to have which serum creatinine pattern?",
       "choices": [
-        "Underestimates true GFR",
-        "Overestimates true GFR",
-        "Accurately estimates GFR",
-        "Cannot be calculated",
-        "Equal to inulin clearance"
+        "A higher SCr because of decreased renal clearance",
+        "A lower SCr because of reduced muscle mass and creatinine production",
+        "An identical SCr because GFR fully determines SCr",
+        "An undetectable SCr because of decreased dietary protein",
+        "A markedly elevated SCr because of age alone"
       ],
       "answer": 1,
       "explanations": [
-        "Incorrect. Reverse direction.",
-        "Correct. Cr-based eGFR OVERESTIMATES true GFR in patients with low muscle mass (cachexia, sarcopenia, paraplegia, amputees, elderly). The formula assumes typical muscle-based Cr production; with low Cr generation, low Cr levels misleadingly suggest preserved GFR. Conversely, Cr-based eGFR UNDERESTIMATES true GFR in muscular individuals (bodybuilders) and after high-protein meals. Cystatin C (or combined Cr-cystatin C) is better in patients at extremes of muscle mass; iohexol or inulin clearance for research-grade measurement.",
-        "Incorrect. Not accurate in low-muscle.",
-        "Incorrect. Calculation works but is inaccurate.",
-        "Incorrect. Inulin is gold standard; Cr is approximation."
+        "Incorrect. Their GFRs are equal, so renal clearance of creatinine is the same.",
+        "Correct. SCr depends on both GFR and muscle mass; the brick lists muscle mass, age (young more than old), sex (males more than females), and diet as predictors of higher SCr, so a sarcopenic elderly woman generates less creatinine and has a lower SCr.",
+        "Incorrect. SCr is not solely determined by GFR; muscle mass and other factors also influence it.",
+        "Incorrect. Dietary protein influences BUN more than SCr, and SCr would not be undetectable.",
+        "Incorrect. Age alone does not raise SCr; in fact older patients with low muscle mass tend to have lower creatinine production."
       ]
     },
     {
       "id": 3,
-      "stem": "A 30-year-old researcher studies cystatin C. Which best characterizes cystatin C compared with creatinine?",
+      "stem": "A healthy 20-year-old man undergoes a research evaluation that includes a directly measured glomerular filtration rate. According to the brick, what is the approximate normal GFR for a healthy 20-year-old?",
       "choices": [
-        "Cystatin C depends on muscle mass like Cr",
-        "Less muscle-dependent than creatinine",
-        "Cystatin C is identical to Cr",
-        "Cystatin C depends on diet",
-        "Cystatin C is not used clinically"
+        "30 to 50 mL/min/1.73 m^2",
+        "60 to 80 mL/min/1.73 m^2",
+        "90 to 110 mL/min/1.73 m^2",
+        "120 to 130 mL/min/1.73 m^2",
+        "180 to 200 mL/min/1.73 m^2"
       ],
-      "answer": 1,
+      "answer": 3,
       "explanations": [
-        "Incorrect. Less muscle-dependent than Cr.",
-        "Correct. Cystatin C is a 13 kDa protein produced by all nucleated cells at relatively constant rate, freely filtered, and fully reabsorbed and METABOLIZED by PCT cells (not secreted, unlike Cr). Production is less affected by muscle mass, age, sex, race compared with Cr — making it advantageous in patients with extremes of muscle mass (cachexia, paraplegia, bodybuilders), elderly, children, and women. Combined CKD-EPIcr-cys equation is more accurate than Cr alone. Limitations: affected by inflammation, hyperthyroidism, steroids, smoking; cost; less widely available.",
-        "Incorrect. Different molecules.",
-        "Incorrect. Not principally diet-dependent.",
-        "Incorrect. Cystatin C is increasingly used clinically."
+        "Incorrect. This range corresponds to chronic kidney disease, not a healthy young adult.",
+        "Incorrect. This is below the normal range for a 20-year-old.",
+        "Incorrect. Although close to normal, this is below the value cited in the brick.",
+        "Correct. The brick states that in a healthy 20-year-old, GFR is approximately 120 to 130 mL/min/1.73 m^2 and decreases by about 10 mL/min/1.73 m^2 per decade after age 30 to 40.",
+        "Incorrect. This value exceeds normal physiologic GFR."
       ]
     },
     {
       "id": 4,
-      "stem": "A 28-year-old researcher considers the gold standard for measured GFR. Which best characterizes inulin clearance?",
+      "stem": "A 65-year-old man with no known kidney disease has a stable serum creatinine. According to the brick, after age 30 to 40, GFR is expected to decline at approximately what rate?",
       "choices": [
-        "Inulin is endogenously produced",
-        "Exogenous filter marker; gold standard GFR",
-        "Inulin is bound to plasma proteins",
-        "Inulin is unrelated to GFR",
-        "Inulin is identical to creatinine"
+        "1 mL/min/1.73 m^2 per decade",
+        "5 mL/min/1.73 m^2 per decade",
+        "10 mL/min/1.73 m^2 per decade",
+        "25 mL/min/1.73 m^2 per decade",
+        "50 mL/min/1.73 m^2 per decade"
       ],
-      "answer": 1,
+      "answer": 2,
       "explanations": [
-        "Incorrect. Exogenously administered.",
-        "Correct. INULIN is an exogenous fructose polymer (~5 kDa) administered IV. Properties: freely filtered at glomerulus, NEITHER reabsorbed NOR secreted along the nephron, NOT metabolized. Renal clearance = GFR exactly. The GOLD STANDARD for GFR measurement, used for research and clinical studies of medication renal clearance. Limitations: requires steady-state IV infusion, expensive, time-consuming. Newer alternatives: IOHEXOL (radiocontrast, single-injection plasma clearance) — increasingly used as the practical gold standard. CYSTATIN C and creatinine are estimates.",
-        "Incorrect. Not protein-bound.",
-        "Incorrect. Inulin clearance = GFR.",
-        "Incorrect. Different molecules."
+        "Incorrect. This understates the brick's stated rate of physiologic decline.",
+        "Incorrect. The brick specifies a faster decline than this.",
+        "Correct. The brick states that GFR decreases by about 10 mL/min/1.73 m^2 for every decade of life after the age of 30 to 40.",
+        "Incorrect. This rate would represent pathologic decline, not normal aging.",
+        "Incorrect. This dramatic decline is not consistent with normal physiologic aging."
       ]
     },
     {
       "id": 5,
-      "stem": "A 65-year-old man has BUN 90, Cr 1.2 (baseline 1.0), and ratio 75:1 (very high). Which best explains this disproportion?",
+      "stem": "A nephrology fellow is reviewing the historical evolution of GFR estimating equations. The 1976 Cockcroft-Gault equation is built around which set of variables, captured by the mnemonic SWAG?",
       "choices": [
-        "Pre-renal AKI alone",
-        "GI bleeding plus pre-renal",
-        "Acute kidney injury",
-        "Decreased protein intake",
-        "Pure muscle wasting"
+        "Sex, weight, albumin, glucose",
+        "Serum creatinine, weight, age, gender",
+        "Sodium, water, albumin, GFR",
+        "Sex, age, gender, ethnicity",
+        "SCr, BUN, albumin, glucose"
       ],
       "answer": 1,
       "explanations": [
-        "Incorrect. Cr is barely elevated; pre-renal alone usually has Cr 1.5–2× baseline.",
-        "Correct. BUN:Cr ratio >40:1 (especially with normal Cr) suggests UREA GENERATION exceeds clearance — most commonly GI BLEEDING (blood protein metabolized to urea in gut, producing 'pseudo-uremia' without kidney injury). Also: hypercatabolic states (sepsis, fever, tetracyclines, corticosteroids), high-protein diet. Pre-renal AKI typically has BUN:Cr 20–40:1 with rising Cr. Workup: stool guaiac, hemoglobin trend, endoscopy if suspicion. Distinguishing important — GI bleed treatment vs volume resuscitation are different priorities.",
-        "Incorrect. Cr essentially normal.",
-        "Incorrect. Reduced protein LOWERS BUN.",
-        "Incorrect. Muscle wasting lowers Cr but doesn't raise BUN this much."
+        "Incorrect. Albumin and glucose are not part of the Cockcroft-Gault equation.",
+        "Correct. The brick states Cockcroft-Gault estimates creatinine clearance using serum creatinine, weight, age, and gender (mnemonic SWAG) and approximates GFR based on a 24-hour urine creatinine clearance.",
+        "Incorrect. These are not the inputs of Cockcroft-Gault.",
+        "Incorrect. SAGE (sex, age, gender, ethnicity) is the mnemonic for the MDRD equation, not Cockcroft-Gault.",
+        "Incorrect. These are not the variables in the equation."
       ]
     },
     {
       "id": 6,
-      "stem": "A 28-year-old researcher reviews dipstick urinalysis. Which best characterizes the dipstick result for blood when myoglobin is present?",
+      "stem": "A 58-year-old man with chronic kidney disease has his eGFR calculated using the MDRD equation. The MDRD equation, validated against radioisotope dilution studies, uses which variables (mnemonic SAGE)?",
       "choices": [
-        "Negative for blood",
-        "Positive (heme reaction)",
-        "Specific for RBCs only",
-        "Positive only with hemolysis",
-        "Positive only with bilirubin"
+        "Serum creatinine, age, glucose, electrolytes",
+        "Sex, age, gender, ethnicity",
+        "Sex, albumin, GFR, ethnicity",
+        "Sodium, age, glucose, electrolytes",
+        "Serum creatinine, weight, age, gender"
       ],
       "answer": 1,
       "explanations": [
-        "Incorrect. Heme reaction is positive.",
-        "Correct. Urine dipstick 'BLOOD' detects heme by peroxidase-like activity, reacting positively to: (1) intact RBCs, (2) FREE HEMOGLOBIN (intravascular hemolysis), (3) MYOGLOBIN (rhabdomyolysis). Microscopic examination distinguishes them: dipstick+ with RBCs visible = hematuria; dipstick+ with NO RBCs = pigment (myoglobin or hemoglobin). Plasma color: pink with hemolysis, normal with myoglobinuria (myoglobin clears too quickly). Confirm with myoglobin assay or CK if suspecting rhabdomyolysis.",
-        "Incorrect. Cross-reacts with myoglobin and hemoglobin.",
-        "Incorrect. Hemolysis-related but also myoglobin.",
-        "Incorrect. Bilirubin is separate."
+        "Incorrect. Glucose and electrolytes are not MDRD variables.",
+        "Correct. The brick states MDRD (1999) used radioisotope dilution as the gold standard and improved accuracy with the variables sex, age, gender, and ethnicity (SAGE).",
+        "Incorrect. Albumin is not part of the MDRD equation.",
+        "Incorrect. These are not MDRD variables.",
+        "Incorrect. Serum creatinine, weight, age, and gender (SWAG) describes Cockcroft-Gault, not MDRD."
       ]
     },
     {
       "id": 7,
-      "stem": "A 50-year-old patient has urine specific gravity of 1.005 with plasma osmolality 295. Which best characterizes the urine?",
+      "stem": "A health system is updating its electronic record to use the most current and accurate eGFR equation. According to the brick, the 2021 CKD-EPI equation differs from MDRD primarily because it:",
       "choices": [
-        "Highly concentrated",
-        "Maximally dilute urine",
-        "Iso-osmotic",
-        "Cannot interpret",
-        "Concentrated with normal serum osmolality"
+        "Adds body weight as a variable",
+        "Adds cystatin C as a required input",
+        "Removes ethnicity as a variable to improve equity and clinical applicability",
+        "Removes age and sex as variables",
+        "Replaces creatinine with BUN"
       ],
-      "answer": 1,
+      "answer": 2,
       "explanations": [
-        "Incorrect. SG 1.005 is dilute.",
-        "Correct. Urine specific gravity (SG) approximately reflects urine osmolality: SG 1.005 ≈ 200 mOsm/kg (dilute); SG 1.010 ≈ 300 mOsm/kg (iso-osmotic); SG 1.020 ≈ 700; SG 1.030+ ≈ >1000 (maximally concentrated). SG 1.005 with high plasma osmolality 295 represents DILUTE urine — appropriate for water-loaded states, OR inappropriate (suggesting DI, primary polydipsia, intrinsic kidney disease impairing concentration). Urine osmolality directly is more accurate; SG can be elevated by glucose, contrast, or proteins (without true high osmolality).",
-        "Incorrect. SG 1.005 is below iso-osmotic.",
-        "Incorrect. Direct calculation.",
-        "Incorrect. SG 1.005 is dilute."
+        "Incorrect. The brick does not state that body weight was added; CKD-EPI uses sex, age, and gender.",
+        "Incorrect. The brick does not describe cystatin C as part of CKD-EPI.",
+        "Correct. The brick states the 2021 CKD-EPI equation uses sex, age, and gender but removes ethnicity as a variable to improve equity and clinical applicability.",
+        "Incorrect. CKD-EPI continues to use age and sex.",
+        "Incorrect. CKD-EPI remains based on serum creatinine, not BUN."
       ]
     },
     {
       "id": 8,
-      "stem": "A 60-year-old man has urine ACR 50 mg/g on a routine screening. Repeat is similar. Which best characterizes this finding?",
+      "stem": "A 72-year-old woman with chronic kidney disease is started on a medication whose dosing guideline is based on an older pharmacokinetic study from the 1980s. According to the brick, drug dosing in CKD is often based on creatinine clearance rather than eGFR for which reason?",
       "choices": [
-        "Normal",
-        "Moderately increased albuminuria (A2; previously 'microalbuminuria')",
-        "Severely increased albuminuria (A3)",
-        "Pure pyuria",
-        "Glomerular failure"
+        "CrCl better reflects tubular drug secretion than eGFR",
+        "eGFR cannot be calculated in patients over age 70",
+        "Many older pharmacokinetic studies were performed when Cockcroft-Gault was used, before MDRD and CKD-EPI were developed",
+        "MDRD systematically underestimates GFR in CKD",
+        "Cockcroft-Gault is more accurate than CKD-EPI for all drugs"
       ],
-      "answer": 1,
+      "answer": 2,
       "explanations": [
-        "Incorrect. >30 mg/g is abnormal.",
-        "Correct. KDIGO albuminuria categories (urine albumin/creatinine ratio in mg/g): A1 = <30 mg/g (normal); A2 = 30–300 mg/g (moderately increased; previously 'microalbuminuria'); A3 = >300 mg/g (severely increased; 'macroalbuminuria'). Repeat for confirmation. Persistent A2/A3 indicates kidney damage (regardless of eGFR). Important risk factor for CKD progression and CV events. Treatment: ACEi/ARB for proteinuria reduction; SGLT2 inhibitor and finerenone in diabetic CKD.",
-        "Incorrect. >300 is A3.",
-        "Incorrect. ACR measures albumin, not WBCs.",
-        "Incorrect. Glomerular failure is more severe."
+        "Incorrect. The brick does not justify CrCl-based dosing on the basis of tubular secretion.",
+        "Incorrect. eGFR can be calculated regardless of age.",
+        "Correct. The brick explains that drug dosing in CKD is often based on CrCl because many older pharmacokinetic studies were performed when Cockcroft-Gault was the standard, before MDRD and CKD-EPI were developed; guidelines are gradually being converted to eGFR metrics.",
+        "Incorrect. The brick does not make this claim.",
+        "Incorrect. The brick describes CKD-EPI, not Cockcroft-Gault, as the most accurate and current equation."
       ]
     },
     {
       "id": 9,
-      "stem": "A 30-year-old researcher considers urine sediment findings. Which best matches 'muddy brown granular casts'?",
+      "stem": "A patient completes a 24-hour urine collection. The lab reports a urine creatinine (UCr), urine volume (V) over 24 hours, and a plasma creatinine (PCr). According to the brick, the formula for creatinine clearance in mL/min is:",
       "choices": [
-        "Glomerulonephritis",
-        "Acute tubular necrosis",
-        "Acute interstitial nephritis",
-        "UTI",
-        "Pre-renal AKI"
+        "(PCr × V) / (UCr × 1440)",
+        "(UCr × V) / (PCr × 1440)",
+        "(UCr × PCr) / (V × 1440)",
+        "(UCr + V) / (PCr × 1440)",
+        "(UCr × 1440) / (PCr × V)"
       ],
       "answer": 1,
       "explanations": [
-        "Incorrect. GN has RBC casts.",
-        "Correct. MUDDY BROWN GRANULAR CASTS (renal tubular epithelial casts) — pathognomonic for acute tubular necrosis (ATN). Other ATN findings: tubular epithelial cells, FENa >2%, isosthenuric urine. Cast types and their associations: RBC casts → glomerulonephritis; WBC casts → acute interstitial nephritis (AIN), pyelonephritis; FATTY casts and oval fat bodies (Maltese cross under polarized) → nephrotic syndrome; HYALINE casts → benign, dehydration; WAXY casts → CKD; BROAD casts → advanced CKD ('CKD castology').",
-        "Incorrect. AIN has WBC casts.",
-        "Incorrect. UTI has WBCs and bacteria.",
-        "Incorrect. Pre-renal has bland sediment."
+        "Incorrect. This inverts the numerator and denominator.",
+        "Correct. The brick gives CrCl (mL/min) = (UCr × V) / (PCr × 1440), where 1440 represents the number of minutes in 24 hours.",
+        "Incorrect. This rearrangement is not the clearance formula.",
+        "Incorrect. The formula uses multiplication, not addition.",
+        "Incorrect. This rearrangement is not correct."
       ]
     },
     {
       "id": 10,
-      "stem": "A 30-year-old researcher considers FENa. Which best characterizes FENa interpretation in AKI?",
+      "stem": "A 68-year-old man with cirrhosis presents with melena from a bleeding gastric ulcer. Labs show BUN 55 mg/dL with a serum creatinine of 1.0 mg/dL. According to the brick, BUN can rise without a change in GFR because of all the following EXCEPT:",
       "choices": [
-        "FENa <1% suggests pre-renal physiology",
-        "FENa <1% suggests intrinsic AKI",
-        "FENa >2% suggests pre-renal",
-        "FENa >5% suggests pure pre-renal",
-        "FENa is unrelated to AKI"
+        "GI bleeding",
+        "Corticosteroid use",
+        "High protein intake",
+        "Liver disease",
+        "Increased glomerular filtration"
       ],
-      "answer": 0,
+      "answer": 4,
       "explanations": [
-        "Correct. FENa = (UNa × PCr) / (PNa × UCr) × 100%. FENa <1% indicates kidney appropriately reabsorbing Na+ (pre-renal physiology — hypovolemia, decreased EAV, hepatorenal syndrome). FENa >2% indicates kidney unable to reabsorb Na+ (intrinsic — ATN, AIN, GN). FENa 1–2% is intermediate. CAVEATS: diuretics make FENa unreliable (use FE-urea); rhabdo and contrast nephropathy may have low FENa despite intrinsic injury; CKD raises baseline FENa; FENa interpretation requires not being on diuretics in last 24 h.",
-        "Incorrect. Reverse.",
-        "Incorrect. Reverse.",
-        "Incorrect. Reverse direction.",
-        "Incorrect. Useful in AKI workup."
+        "Incorrect. The brick lists GI bleeding as a cause of altered BUN without GFR change.",
+        "Incorrect. The brick lists corticosteroids as a cause of altered BUN without GFR change.",
+        "Incorrect. The brick lists high protein intake as a cause of altered BUN without GFR change.",
+        "Incorrect. The brick lists liver disease as a cause of altered BUN without GFR change.",
+        "Correct. Increased GFR would lower BUN by enhancing clearance; the brick lists diet, liver disease, GI bleeding, corticosteroids, and high protein intake as causes of BUN changes independent of GFR."
       ]
     },
     {
       "id": 11,
-      "stem": "A 28-year-old researcher considers urine anion gap (UAG). Which best characterizes UAG interpretation in non-AG metabolic acidosis?",
+      "stem": "A medical student asks why blood urea nitrogen is reported as nitrogen rather than total urea, and why it is not used as a direct measure of GFR. Based on the brick, the best explanation is that BUN:",
       "choices": [
-        "Negative UAG suggests RTA",
-        "Negative = diarrhea; positive = RTA",
-        "Positive UAG suggests diarrhea",
-        "UAG is irrelevant",
-        "UAG measures Cl alone"
+        "Is filtered but not reabsorbed, making it equivalent to inulin",
+        "Is measured by a urease-based assay reporting only the nitrogen portion, and serves only as a surrogate marker of uremic solutes because many solutes contribute to uremia",
+        "Is produced by skeletal muscle at a constant rate and reflects only renal clearance",
+        "Is the most sensitive marker of early glomerular disease",
+        "Reflects only protein intake and is unrelated to renal function"
       ],
       "answer": 1,
       "explanations": [
-        "Incorrect. Reverse.",
-        "Correct. Urine anion gap (UAG) = Na+ + K+ − Cl−. Estimates urinary NH4+ excretion (Cl− is the principal anion accompanying NH4+; high NH4+ → high Cl− → negative UAG). NEGATIVE UAG (Cl− > Na+ + K+) → HIGH NH4+ EXCRETION → appropriate response to extra-renal acidosis (DIARRHEA). POSITIVE UAG (Na+ + K+ > Cl−) → LOW NH4+ EXCRETION → inappropriate for the acidosis → suggests RTA. Useful in non-AG metabolic acidosis to differentiate causes.",
-        "Incorrect. Reverse.",
-        "Incorrect. Useful tool.",
-        "Incorrect. Includes Na+, K+, Cl−."
+        "Incorrect. The brick does not equate BUN with inulin; it explicitly states BUN is not a direct measure of GFR.",
+        "Correct. The brick states BUN measures the nitrogen portion of urea using a urease-based assay (so it is reported as nitrogen, not total urea) and that because many solutes contribute to uremia, BUN can only serve as a surrogate marker of the uremic burden, not a measure of GFR.",
+        "Incorrect. Urea is produced by the liver from protein catabolism, not skeletal muscle.",
+        "Incorrect. Urinary albumin (ACR) is the most sensitive marker of early glomerular disease, not BUN.",
+        "Incorrect. BUN is influenced by both renal function and non-renal factors."
       ]
     },
     {
       "id": 12,
-      "stem": "A 30-year-old researcher considers spot urine protein/Cr ratio (UPCR) interpretation. Which best characterizes the relationship to 24-hour urine protein?",
+      "stem": "A 22-year-old woman presents with dysuria and suprapubic pain. A urine dipstick is performed at point of care. According to the brick, which set of constituents can the urine dipstick directly detect?",
       "choices": [
-        "UPCR mg/mg ≈ g/day",
-        "UPCR is unrelated to 24-hour collection",
-        "UPCR underestimates by 10×",
-        "UPCR is only valid in pregnancy",
-        "UPCR cannot be calculated"
+        "Heme, leukocyte esterase, nitrites, albumin, pH, and glucose",
+        "Casts, crystals, and epithelial cells",
+        "Sodium, potassium, chloride, and bicarbonate",
+        "Urea, creatinine, and uric acid",
+        "Eosinophils, lymphocytes, and neutrophils"
       ],
       "answer": 0,
       "explanations": [
-        "Correct. Spot urine protein/Cr ratio in mg/mg approximates 24-hour urine protein in grams (assuming ~1 g/day Cr excretion in adults). Example: UPCR 3.5 mg/mg ≈ 3.5 g/day proteinuria. Convenient, avoids errors of timed collection. Caveats: less accurate at extremes of muscle mass (cachexia, body builders); first-morning urine preferred (avoid orthostatic / postural proteinuria). Albumin/Cr ratio (ACR) is preferred for diabetic nephropathy and microalbuminuria screening (more sensitive); UPCR for established proteinuria assessment.",
-        "Incorrect. Strong relationship.",
-        "Incorrect. Approximate equality.",
-        "Incorrect. Wide validity.",
-        "Incorrect. Calculation works."
+        "Correct. The brick states the urine dipstick is a sensitive screening tool capable of detecting the presence of heme, leukocyte esterase, nitrites, albumin, pH, and glucose.",
+        "Incorrect. Casts, crystals, and cellular elements require urine microscopy, not dipstick.",
+        "Incorrect. Standard electrolytes are measured by separate quantitative urine assays, not the dipstick described in the brick.",
+        "Incorrect. Urea and creatinine require quantitative chemistry, not a dipstick.",
+        "Incorrect. Differentiating leukocyte type requires microscopy."
       ]
     },
     {
       "id": 13,
-      "stem": "A 65-year-old patient with CKD has urine spot UPCR 4.5 mg/mg. Which best characterizes this finding?",
+      "stem": "A 35-year-old man with severe flank pain has a urinalysis that shows a urine pH of 8.5 and many magnesium ammonium phosphate crystals. According to the brick, an alkaline urine pH is most classically associated with which type of kidney stone?",
       "choices": [
-        "Normal",
-        "Nephrotic-range proteinuria (>3.5 g/day)",
-        "Mild proteinuria",
-        "UTI",
-        "Pyuria"
+        "Calcium oxalate stones",
+        "Cystine stones",
+        "Struvite (infection) stones with Proteus or other urease-producing bacteria",
+        "Uric acid stones",
+        "Calcium phosphate stones from type 1 RTA"
       ],
-      "answer": 1,
+      "answer": 2,
       "explanations": [
-        "Incorrect. >150 mg/day is abnormal.",
-        "Correct. NEPHROTIC-RANGE PROTEINURIA = >3.5 g/day (or UPCR >3.5 mg/mg). Suggests glomerular disease (membranous, FSGS, minimal change, diabetic nephropathy, lupus, amyloidosis). Workup: serologies (ANA, complement, hepatitis, HIV, SPEP/UPEP/free light chains), assess for nephrotic syndrome features (proteinuria + hypoalbuminemia + edema + hyperlipidemia + hypercoagulability), renal biopsy unless clear cause (e.g., diabetic with retinopathy and consistent course). Treatment: ACEi/ARB, SGLT2 inhibitor (recently shown beneficial), specific therapy for underlying cause.",
-        "Incorrect. >3.5 is nephrotic.",
-        "Incorrect. UTI doesn't principally cause heavy proteinuria.",
-        "Incorrect. Pyuria is WBCs."
+        "Incorrect. Calcium oxalate crystals are not specifically tied to urinary pH in the brick.",
+        "Incorrect. The brick states cystine crystals form in more acidic urine, not alkaline.",
+        "Correct. The brick emphasizes that urine pH may be high in struvite (infection) kidney stones, where Proteus or other bacteria alkalinize the urine.",
+        "Incorrect. The brick associates uric acid crystals with high serum uric acid (gout, leukemia, tumor lysis), not high urine pH.",
+        "Incorrect. The brick does not discuss type 1 RTA in the context of stones; it associates low pH with type 2 or 4 RTA."
       ]
     },
     {
       "id": 14,
-      "stem": "A 30-year-old researcher considers β2-microglobulin in urine. Which best characterizes this finding?",
+      "stem": "A 28-year-old man with sickle cell anemia has a urinalysis showing a specific gravity of 1.008 regardless of hydration status. According to the brick, what does an isotonic specific gravity (around 1.008) most likely represent?",
       "choices": [
-        "β2-microglobulin in urine is normal",
-        "Indicates proximal tubular dysfunction",
-        "β2-microglobulin is bone marrow-specific",
-        "β2-microglobulin is excreted in feces",
-        "β2-microglobulin is bound to albumin"
+        "Concentrated urine from water deprivation",
+        "Dilute urine from psychogenic polydipsia",
+        "Isothenuria, as can be seen in sickle cell anemia",
+        "Severe proteinuria",
+        "Active glomerulonephritis"
       ],
-      "answer": 1,
+      "answer": 2,
       "explanations": [
-        "Incorrect. Normally absent or trace.",
-        "Correct. β2-microglobulin (~12 kDa, light chain of MHC class I) is freely filtered and normally fully reabsorbed in the PCT by the megalin/cubilin system. Urinary β2-microglobulin presence indicates PROXIMAL TUBULAR DYSFUNCTION — classic feature of Fanconi syndrome, tubulotoxic drug effects, heavy metal exposure. Other low-MW proteins similarly handled: retinol-binding protein, α1-microglobulin, lysozyme. In dialysis patients, β2-microglobulin accumulates systemically (poorly cleared by conventional dialysis) → dialysis-related amyloidosis.",
-        "Incorrect. Source is widespread cells.",
-        "Incorrect. Renal excretion principally.",
-        "Incorrect. Not albumin-bound."
+        "Incorrect. Concentrated urine corresponds to a specific gravity around 1.035 (osmolality ~1220 mOsm/kg) per the brick.",
+        "Incorrect. Dilute urine has a specific gravity below 1.005 (correlating with osmolality ~100 mOsm/kg) per the brick.",
+        "Correct. The brick states a specific gravity around 1.008 is isotonic and that isothenuria is seen in sickle cell anemia.",
+        "Incorrect. Specific gravity reflects osmolality, not protein content directly.",
+        "Incorrect. Specific gravity does not diagnose glomerulonephritis."
       ]
     },
     {
       "id": 15,
-      "stem": "A 30-year-old researcher considers fractional excretion of phosphate (FEPO4 or TmP/GFR). Which best characterizes this measurement?",
+      "stem": "A 19-year-old woman with newly diagnosed type 1 diabetes presents with polyuria, vomiting, and fruity breath. Her urine dipstick is positive for ketones. According to the brick, ketones (acetoacetate and beta-hydroxybutyrate) appear in urine in which two settings?",
       "choices": [
-        "Assesses PCT phosphate handling",
-        "Measures plasma phosphate alone",
-        "Measures GFR alone",
-        "Same as FENa",
-        "Irrelevant clinically"
+        "Starvation/fasting and diabetic ketoacidosis",
+        "Hemolysis and rhabdomyolysis",
+        "Pyelonephritis and interstitial nephritis",
+        "Multiple myeloma and amyloidosis",
+        "Fanconi syndrome and acute tubular necrosis"
       ],
       "answer": 0,
       "explanations": [
-        "Correct. TmP/GFR (renal phosphate threshold) — the plasma phosphate level above which urinary phosphate excretion rises sharply (PCT NaPi-IIa is saturated). Calculated from spot or fasting urine and serum phosphate. REDUCED TmP/GFR (phosphate wasting): primary HPT (PTH inhibits NaPi-IIa), FGF-23 excess (XLH, TIO), Fanconi syndrome, vitamin D deficiency. ELEVATED TmP/GFR (phosphate retention): hypoparathyroidism, low FGF-23, CKD (initially). FEPO4 = (UPO4 × PCr) / (PPO4 × UCr) × 100; >5% suggests phosphate wasting. Useful when investigating hypophosphatemia or phosphate handling abnormalities.",
-        "Incorrect. Measures handling, not just plasma.",
-        "Incorrect. Specific to phosphate.",
-        "Incorrect. Different.",
-        "Incorrect. Useful tool."
+        "Correct. The brick states ketones are positive when acetoacetate and beta-hydroxybutyrate are present, occurring during starvation/fasting and when a diabetic patient develops diabetic ketoacidosis.",
+        "Incorrect. Hemolysis and rhabdomyolysis cause heme-positive urine without RBCs, not ketonuria.",
+        "Incorrect. These cause pyuria and WBC casts, not ketonuria.",
+        "Incorrect. These cause Bence Jones proteinuria, not ketonuria.",
+        "Incorrect. Fanconi syndrome can cause glucosuria, but ketonuria is not its hallmark per the brick."
       ]
     },
     {
       "id": 16,
-      "stem": "A 30-year-old researcher considers KIM-1 and NGAL biomarkers. Which best characterizes these?",
+      "stem": "A 9-year-old boy with developmental delay has a urine dipstick that is positive for glucose despite a normal serum glucose, along with phosphaturia and aminoaciduria. According to the brick, glucose can appear in the urine of a non-diabetic patient because of:",
       "choices": [
-        "Long-established traditional markers",
-        "Newer tubular injury biomarkers",
-        "Glomerular markers only",
-        "Used to diagnose UTI",
-        "Replaced by Cr"
+        "Diabetes insipidus",
+        "Fanconi syndrome",
+        "Pyelonephritis",
+        "Sickle cell anemia",
+        "Tumor lysis syndrome"
       ],
       "answer": 1,
       "explanations": [
-        "Incorrect. Newer biomarkers.",
-        "Correct. NGAL (neutrophil gelatinase-associated lipocalin) and KIM-1 (kidney injury molecule 1) — markers of TUBULAR injury. Rise within HOURS of injury (vs Cr 24–48 h delay), allowing earlier AKI detection in critically ill patients. Other emerging biomarkers: TIMP-2 × IGFBP-7 (Nephrocheck — FDA-approved AKI risk prediction), L-FABP (liver-type fatty acid binding protein), IL-18. Clinical adoption is gradual; cost and availability limit routine use. Useful in clinical trials, contrast nephropathy prediction, and very high-risk ICU patients.",
-        "Incorrect. Tubular markers.",
-        "Incorrect. Not for UTI.",
-        "Incorrect. Cr is still standard but newer markers add."
+        "Incorrect. Diabetes insipidus causes dilute urine but not glucosuria per the brick.",
+        "Correct. The brick states that glucose is usually negative because it is completely reabsorbed, but glucosuria can be present in diabetic patients who exceed reabsorptive capacity and in Fanconi syndrome.",
+        "Incorrect. Pyelonephritis is associated with WBC casts and pyuria, not glucosuria.",
+        "Incorrect. Sickle cell anemia is linked to isothenuria in the brick, not glucosuria.",
+        "Incorrect. Tumor lysis syndrome is linked to uric acid crystals, not glucosuria."
       ]
     },
     {
       "id": 17,
-      "stem": "A 35-year-old woman with new AKI and hematuria has positive ANCA c-pattern. Which best characterizes the diagnostic implications?",
+      "stem": "A 55-year-old man with painless jaundice has a urine dipstick positive for bilirubin. According to the brick, bilirubinuria most likely indicates:",
       "choices": [
-        "Lupus nephritis",
-        "ANCA-associated vasculitis",
-        "Anti-GBM disease",
-        "Membranous nephropathy",
-        "Diabetic nephropathy"
+        "Active hemolysis with elevated unconjugated bilirubin",
+        "Biliary obstruction or liver dysfunction diverting conjugated bilirubin into the systemic circulation, where it is filtered by the kidney",
+        "Glomerulonephritis with heme leakage",
+        "Renal tubular acidosis",
+        "Severe dehydration with concentrated urine"
       ],
       "answer": 1,
       "explanations": [
-        "Incorrect. Lupus has positive ANA and dsDNA, low complement.",
-        "Correct. ANCA — antineutrophil cytoplasmic antibodies. c-ANCA (cytoplasmic, anti-PR3) → granulomatosis with polyangiitis (GPA, formerly Wegener) — pulmonary-renal-sinus involvement. p-ANCA (perinuclear, anti-MPO) → microscopic polyangiitis (MPA) and eosinophilic granulomatosis with polyangiitis (EGPA / Churg-Strauss); also some IBD, IgG4 disease. Both produce pauci-immune (no/few immune deposits) crescentic GN with rapid progression. Treatment: induction with high-dose corticosteroids + cyclophosphamide or RITUXIMAB; maintenance with rituximab, azathioprine, or mycophenolate; PLEX considered for severe/refractory; renal biopsy guides treatment.",
-        "Incorrect. Anti-GBM has anti-GBM antibodies and pulmonary-renal.",
-        "Incorrect. Membranous has anti-PLA2R or other glomerular antigens.",
-        "Incorrect. DN has long course."
+        "Incorrect. Unconjugated bilirubin is not water-soluble and is not filtered by the kidney.",
+        "Correct. The brick states that bilirubin and urobilinogen are products of heme metabolism by the liver and that biliary obstruction or liver dysfunction can divert conjugated bilirubin into the systemic circulation, where it is filtered by the kidney and detected on UA.",
+        "Incorrect. Glomerulonephritis is associated with hematuria and dysmorphic RBCs, not bilirubinuria.",
+        "Incorrect. RTA causes pH abnormalities, not bilirubinuria.",
+        "Incorrect. Dehydration concentrates urine but does not cause true bilirubinuria."
       ]
     },
     {
       "id": 18,
-      "stem": "A 25-year-old man has rapidly progressive glomerulonephritis with pulmonary hemorrhage (hemoptysis). Anti-GBM antibody is positive. Which best characterizes the diagnosis?",
+      "stem": "A 24-year-old man presents with cola-colored urine 10 days after a sore throat. Urine microscopy shows multiple dysmorphic, donut-shaped RBCs with surface blebs (acanthocytes) and an RBC cast. According to the brick, these findings most strongly indicate disease at which site?",
       "choices": [
-        "ANCA-vasculitis",
-        "Anti-GBM disease (Goodpasture syndrome)",
-        "IgA nephropathy",
-        "Lupus",
-        "Post-streptococcal GN"
+        "Bladder mucosa (cystitis)",
+        "Glomerulus (glomerulonephritis)",
+        "Prostate (prostatitis)",
+        "Renal pelvis stones",
+        "Urethra"
       ],
       "answer": 1,
       "explanations": [
-        "Incorrect. ANCA negative described.",
-        "Correct. Anti-GBM disease / Goodpasture syndrome — autoantibodies against α3 chain of type IV collagen in glomerular AND alveolar basement membrane. Renal-pulmonary syndrome: rapidly progressive GN + pulmonary hemorrhage (hemoptysis). Diagnosis: serum anti-GBM antibodies; renal biopsy with linear IgG deposition along GBM. Treatment: PLASMAPHERESIS (urgent, removes circulating antibodies), high-dose corticosteroids, cyclophosphamide. Time-critical — outcomes worse with delayed treatment (Cr >5 at presentation; oliguria; >50% crescents). Anti-GBM disease can also coexist with ANCA-vasculitis (~30%) — 'double positive'.",
-        "Incorrect. IgA does not feature pulmonary hemorrhage.",
-        "Incorrect. Lupus has multi-system features.",
-        "Incorrect. PSGN has different time course."
+        "Incorrect. Cystitis is associated with normal-shaped RBCs from low GU tract pathology per the brick.",
+        "Correct. The brick states that dysmorphic RBCs occur in glomerular disease (their shape is distorted as they squeeze through a damaged glomerular basement membrane) and that RBC casts are pathognomonic for glomerulonephritis.",
+        "Incorrect. Prostatitis produces normal RBCs from low GU pathology, not dysmorphic forms or RBC casts.",
+        "Incorrect. Stones cause normal-shaped RBCs, not dysmorphic forms.",
+        "Incorrect. Urethral pathology produces normal RBCs from low GU sources."
       ]
     },
     {
       "id": 19,
-      "stem": "A 30-year-old researcher considers complement levels in renal disease. Which best matches LOW complement (C3 / C4) with disease?",
+      "stem": "A 25-year-old man is brought to the ED after being found unconscious. He has muscle pain and dark, tea-colored urine. The urine dipstick is strongly positive for blood, but urine microscopy shows no red blood cells. According to the brick, this combination most likely reflects:",
       "choices": [
-        "ANCA-vasculitis (low complement)",
-        "Lupus, PSGN, MPGN, cryo",
-        "Diabetic nephropathy",
-        "FSGS",
-        "Minimal change disease"
+        "ABO transfusion reaction with intravascular RBC lysis or myoglobinuria from rhabdomyolysis",
+        "Glomerulonephritis with dysmorphic RBCs",
+        "Pyelonephritis",
+        "Struvite stones",
+        "Urothelial carcinoma"
       ],
-      "answer": 1,
+      "answer": 0,
       "explanations": [
-        "Incorrect. ANCA features NORMAL complement.",
-        "Correct. LOW complement glomerulonephritides: LUPUS NEPHRITIS (low C3 and C4); POST-STREPTOCOCCAL GN (low C3, normal C4); MPGN type I/II (low C3, low C4 in type I); CRYOGLOBULINEMIA (low C4 especially); shunt nephritis (subacute bacterial endocarditis-related, low C3/C4); atypical HUS. NORMAL complement: ANCA-vasculitis, IgA nephropathy, anti-GBM disease, Goodpasture, primary FSGS, membranous (mostly), diabetic. Workup: C3, C4, sometimes CH50; trends with disease activity.",
-        "Incorrect. Normal complement.",
-        "Incorrect. Normal complement.",
-        "Incorrect. Normal complement."
+        "Correct. The brick states a positive dipstick for blood with no RBCs on microscopy can reflect lysis of RBCs during ABO transfusion reactions or myoglobin in the urine after rhabdomyolysis (both produce heme positivity without intact erythrocytes).",
+        "Incorrect. Glomerulonephritis would show dysmorphic RBCs and RBC casts on microscopy, not absent RBCs.",
+        "Incorrect. Pyelonephritis is characterized by pyuria and WBC casts, not heme positivity without RBCs.",
+        "Incorrect. Stones produce normal RBCs visible on microscopy.",
+        "Incorrect. Urothelial carcinoma produces hematuria with intact RBCs."
       ]
     },
     {
       "id": 20,
-      "stem": "A 35-year-old patient with hepatitis C has palpable purpura, arthritis, and renal involvement. Cryoglobulins are positive. Which best characterizes this?",
+      "stem": "A 67-year-old woman with new fever, flank pain, and dysuria has a urinalysis showing many WBCs and WBC casts. According to the brick, WBC casts are characteristic of which intrarenal processes?",
       "choices": [
-        "Lupus",
-        "Cryoglobulinemic vasculitis",
-        "ANCA-vasculitis",
-        "Anti-GBM disease",
-        "IgA nephropathy"
+        "Cystitis and urethritis",
+        "Pyelonephritis and interstitial nephritis",
+        "Glomerulonephritis and nephrotic syndrome",
+        "Acute tubular necrosis and prerenal azotemia",
+        "Renal stones and renal cell carcinoma"
       ],
       "answer": 1,
       "explanations": [
-        "Incorrect. Lupus serology different.",
-        "Correct. Cryoglobulinemic vasculitis — most commonly TYPE II (mixed, polyclonal IgG + monoclonal IgM with rheumatoid factor activity) associated with HEPATITIS C (~80% of mixed cryos). Manifestations: PALPABLE PURPURA, arthralgia, weakness (Meltzer triad), peripheral neuropathy, renal involvement (MPGN-like with low C4), hepatic involvement. Treatment: TREAT UNDERLYING HEPATITIS C with DAA therapy (highly effective, often resolves cryo); rituximab for refractory; PLEX in severe; corticosteroids for acute flares. Type I (monoclonal) is malignancy-associated; type III (polyclonal) is autoimmune-associated.",
-        "Incorrect. ANCA different.",
-        "Incorrect. Anti-GBM has different features.",
-        "Incorrect. IgA different."
+        "Incorrect. Lower UTI produces WBCs in urine but not casts, since casts can only form within renal tubules.",
+        "Correct. The brick states WBC casts can only emerge from within the kidney (where the tubules form casts), and they occur in intrarenal inflammatory diseases including pyelonephritis and interstitial nephritis.",
+        "Incorrect. Glomerulonephritis is characterized by RBC casts and dysmorphic RBCs, not WBC casts.",
+        "Incorrect. ATN is characterized by granular (muddy brown) casts and renal tubular epithelial cells.",
+        "Incorrect. Stones and tumors produce hematuria, not WBC casts."
       ]
     },
     {
       "id": 21,
-      "stem": "A 30-year-old researcher considers when renal biopsy is indicated. Which best characterizes the principal indications?",
+      "stem": "A 32-year-old woman presents with dysuria, urinary frequency, and a positive nitrite test on dipstick. According to the brick, a positive urinary nitrite supports a UTI caused by which type of organism, while which organism would be expected to give a NEGATIVE nitrite despite causing UTI?",
       "choices": [
-        "Always before treatment",
-        "Selected indications and contraindications",
-        "Only for cancer",
-        "Never indicated",
-        "Only after dialysis"
+        "E. coli (positive); Enterococcus (negative)",
+        "Enterococcus (positive); E. coli (negative)",
+        "Staphylococcus aureus (positive); E. coli (negative)",
+        "Candida (positive); Proteus (negative)",
+        "Klebsiella (negative); Enterococcus (positive)"
       ],
-      "answer": 1,
+      "answer": 0,
       "explanations": [
-        "Incorrect. Selective indications.",
-        "Correct. Renal biopsy indications: (1) unexplained AKI (especially RPGN); (2) nephrotic syndrome in adults (and children with steroid resistance); (3) isolated glomerular hematuria with proteinuria or rising Cr; (4) persistent unexplained proteinuria >1 g/day; (5) transplant dysfunction (workup for rejection, BK, recurrence, drug toxicity); (6) systemic disease with renal involvement (lupus, vasculitis); (7) suspected hereditary kidney disease. Procedure: ultrasound or CT-guided percutaneous; native or transplant. Risks: bleeding (gross hematuria 5–10%, transfusion 1%, surgery rare), AVF formation. Relative contraindications: uncontrolled HTN, bleeding diathesis, severe CKD with small kidneys (low yield), anticoagulation, single kidney (unless transplant).",
-        "Incorrect. Multiple indications.",
-        "Incorrect. Often indicated.",
-        "Incorrect. Often pre-dialysis."
+        "Correct. The brick states that many bacteria such as E. coli, Proteus, and Klebsiella convert nitrates to nitrites, but Enterococcus does not, so Enterococcus UTIs are nitrite-negative.",
+        "Incorrect. The brick explicitly states Enterococcus does NOT convert nitrates to nitrites.",
+        "Incorrect. The brick does not name S. aureus as a nitrite converter, and E. coli is nitrite-positive.",
+        "Incorrect. The brick lists Proteus as a nitrite converter, and Candida is not discussed.",
+        "Incorrect. Klebsiella is a nitrite-positive organism per the brick, and Enterococcus is nitrite-negative."
       ]
     },
     {
       "id": 22,
-      "stem": "A 30-year-old researcher considers urine culture interpretation. Which best characterizes asymptomatic bacteriuria treatment?",
+      "stem": "A 41-year-old man is found unresponsive after drinking a sweet-smelling automotive fluid. Urinalysis shows numerous envelope-shaped and needle-shaped crystals. According to the brick, these crystals are most consistent with which substance, and which other condition shares this crystal type?",
       "choices": [
-        "Always treat",
-        "Treat in pregnancy and pre-procedure",
-        "Treat all elderly",
-        "Treat all diabetics",
-        "Treat all catheterized"
+        "Calcium oxalate crystals; seen in kidney stones or ethylene glycol intoxication",
+        "Struvite crystals; seen in chronic urinary infection",
+        "Uric acid crystals; seen in tumor lysis syndrome",
+        "Cystine crystals; seen in cystinuria",
+        "Cholesterol crystals; seen in nephrotic syndrome"
       ],
-      "answer": 1,
+      "answer": 0,
       "explanations": [
-        "Incorrect. Selective treatment.",
-        "Correct. ASYMPTOMATIC BACTERIURIA management — IDSA guidelines: TREAT ONLY in (1) PREGNANT WOMEN (untreated → pyelonephritis, preterm labor, low birth weight) and (2) BEFORE INVASIVE UROLOGIC PROCEDURE (e.g., TURP, where bacteremia risk is significant). DO NOT TREAT in: nonpregnant women, elderly (including in long-term care), diabetic, spinal cord injury, catheterized patients (unless symptomatic UTI). Treating asymptomatic bacteriuria does not improve outcomes and contributes to antibiotic resistance and C. difficile infection. Exception: ALSO consider treatment in renal transplant recipients (controversial).",
-        "Incorrect. Avoid in elderly.",
-        "Incorrect. Avoid in diabetic.",
-        "Incorrect. Avoid in catheterized unless symptomatic."
+        "Correct. The brick states calcium oxalate crystals can occur in monohydrate (dumbbells or needles) or dihydrate (envelopes) forms and are seen in kidney stones or ethylene glycol intoxication.",
+        "Incorrect. Struvite crystals appear as coffin lids and are seen with chronic urinary infections.",
+        "Incorrect. Uric acid crystals often appear as rhomboids and are seen in gout, leukemia, and tumor lysis syndrome.",
+        "Incorrect. Cystine crystals are radiolucent and hexagonal, pathognomonic for cystinuria.",
+        "Incorrect. Cholesterol crystals are not described in this brick."
       ]
     },
     {
       "id": 23,
-      "stem": "A 30-year-old researcher considers urinary biomarker for AKI in clinical practice. Which best characterizes the role of biomarkers vs creatinine?",
+      "stem": "A 6-year-old boy with a family history of recurrent kidney stones has urine microscopy revealing radiolucent, hexagonal crystals. According to the brick, this finding is pathognomonic for:",
       "choices": [
-        "Biomarkers have replaced creatinine entirely",
-        "Cr is standard; biomarkers earlier in research",
-        "Biomarkers are unhelpful",
-        "Biomarkers are only for transplant",
-        "Cr is obsolete"
+        "Cystinuria",
+        "Ethylene glycol toxicity",
+        "Gout",
+        "Struvite (infection) stones",
+        "Tumor lysis syndrome"
       ],
-      "answer": 1,
+      "answer": 0,
       "explanations": [
-        "Incorrect. Cr is still standard.",
-        "Correct. Despite known limitations of creatinine (24–48 h delay, muscle-mass dependence, secretion confounding), it REMAINS THE CLINICAL STANDARD for AKI diagnosis and KDIGO classification. Newer biomarkers (NGAL, KIM-1, NEPHROCHECK [TIMP-2×IGFBP-7], L-FABP) provide EARLIER DETECTION in research settings and selected high-risk ICU patients. Cost, availability, and incomplete trial data limit routine adoption. Cystatin C is more widely available and useful in extremes of muscle mass. Combined Cr-cystatin C is more accurate than either alone.",
-        "Incorrect. Some clinical role.",
-        "Incorrect. Broader use.",
-        "Incorrect. Not obsolete."
+        "Correct. The brick states cystine crystals are rare, have a radiolucent hexagonal shape, and are pathognomonic of cystinuria; in more acidic urine, cysteine is highly insoluble and forms these crystals.",
+        "Incorrect. Ethylene glycol intoxication produces calcium oxalate crystals.",
+        "Incorrect. Gout produces uric acid crystals (often rhomboid).",
+        "Incorrect. Struvite stones produce coffin-lid-shaped crystals.",
+        "Incorrect. Tumor lysis produces uric acid crystals from elevated serum uric acid."
       ]
     },
     {
       "id": 24,
-      "stem": "A 30-year-old researcher considers urine osmolality interpretation. Which best characterizes urine osm 800 in a patient with hyponatremia (Na 125)?",
+      "stem": "A 63-year-old man with multiple myeloma has a normal urinalysis (negative for protein) and a normal urine albumin-to-creatinine ratio (ACR), but his urine protein-to-creatinine ratio (UPCR) is markedly elevated. According to the brick, this discordance is best explained by which feature of the testing methods?",
       "choices": [
-        "Maximally dilute urine (appropriate)",
-        "Inappropriately concentrated urine",
-        "Iso-osmotic",
-        "Cannot interpret",
-        "Diluted appropriately"
+        "ACR is more sensitive than UPCR for all proteins",
+        "UA dipstick reagent and ACR immunoassay detect albumin specifically, while UPCR detects all types of protein (including Bence Jones light chains) via turbidometry",
+        "UPCR can only be performed on a 24-hour collection",
+        "The UA dipstick is the most sensitive test for any urinary protein",
+        "ACR detects only globulins, not albumin"
       ],
       "answer": 1,
       "explanations": [
-        "Incorrect. 800 is concentrated.",
-        "Correct. Hyponatremia (low plasma osm) should suppress ADH and result in DILUTE urine (urine osm <100 mOsm/kg, maximally suppressed concentrating). URINE OSM >100 in setting of hyponatremia indicates inappropriate ADH activity → SIADH (euvolemic), hypovolemia with non-osmotic ADH (low effective arterial volume), HF, cirrhosis, adrenal insufficiency, hypothyroidism, post-operative state, drug effects. Urine osm helps distinguish causes of hyponatremia along with volume status, urine Na+, and serum osmolality.",
-        "Incorrect. 800 is concentrated.",
-        "Incorrect. Direct interpretation.",
-        "Incorrect. Inappropriate concentration."
+        "Incorrect. ACR is most sensitive for albumin specifically, not for all proteins.",
+        "Correct. The brick explains UA reagent and ACR immunoassay detect albumin, while UPCR uses turbidometry to detect ALL types of protein; multiple myeloma patients excrete free light chains (Bence Jones protein) that are missed by albumin-based tests but show up as elevated UPCR.",
+        "Incorrect. The brick states UPCR is performed from a single voided urine sample.",
+        "Incorrect. The brick notes the UA dipstick can miss small quantities of albuminuria and is not the most sensitive test for protein.",
+        "Incorrect. ACR specifically detects albumin via immunoassay, not globulins."
       ]
     },
     {
       "id": 25,
-      "stem": "A 30-year-old researcher reviews the interpretation of urine sediment for casts. Which best characterizes the principal cast types and their associations?",
+      "stem": "A 70-year-old woman is admitted with septic shock and develops oliguric AKI. Urine microscopy demonstrates muddy-brown granular casts and renal tubular epithelial cells (cells larger than WBCs with centrally located nuclei). According to the brick, these findings are characteristic of which diagnosis?",
       "choices": [
-        "Only one cast type",
-        "Multiple cast types with specific associations",
-        "All casts indicate the same disease",
-        "Casts are irrelevant",
-        "Only RBC casts matter"
+        "Acute interstitial nephritis",
+        "Acute tubular necrosis (ATN)",
+        "Glomerulonephritis",
+        "Pyelonephritis",
+        "Prerenal azotemia"
       ],
       "answer": 1,
       "explanations": [
-        "Incorrect. Multiple cast types.",
-        "Correct. Cast types and their associations: HYALINE — benign, dehydration, normal urine; RBC CASTS — glomerulonephritis (pathognomonic when present); WBC CASTS — acute interstitial nephritis, pyelonephritis; EPITHELIAL CELL / MUDDY BROWN GRANULAR — acute tubular necrosis (pathognomonic); FATTY CASTS / OVAL FAT BODIES (Maltese cross under polarized) — nephrotic syndrome; WAXY / BROAD — chronic kidney disease ('CKD castology'); GRANULAR (general) — non-specific, can occur in many. Together with cells (RBC, WBC, epithelial), crystals, and bacteria, sediment microscopy is invaluable for AKI workup.",
-        "Incorrect. Different.",
-        "Incorrect. Important diagnostic tool.",
-        "Incorrect. Multiple types matter."
+        "Incorrect. The brick associates interstitial nephritis with WBC casts and possibly eosinophiluria, not granular casts and RTEs.",
+        "Correct. The brick defines ATN as an intrarenal AKI from toxic or hypoxic tubular cell necrosis, with granular (muddy-brown) casts and renal tubular epithelial cells (larger than WBCs with centrally located nuclei) as hallmarks on urine microscopy.",
+        "Incorrect. Glomerulonephritis is characterized by dysmorphic RBCs and RBC casts.",
+        "Incorrect. Pyelonephritis is characterized by WBC casts.",
+        "Incorrect. Prerenal azotemia typically has a bland urinary sediment, not muddy-brown casts."
       ]
     }
   ]

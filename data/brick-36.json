@@ -4,478 +4,477 @@
   "questions": [
     {
       "id": 1,
-      "stem": "A 65-year-old man with diabetic CKD has eGFR 8 with worsening uremic symptoms. Which best characterizes ESRD?",
+      "stem": "A 52-year-old woman with autosomal dominant polycystic kidney disease has been followed for 20 years. Her nephrologist now states she has end-stage kidney disease (ESKD). Which feature best defines ESKD as described in the brick?",
       "choices": [
-        "eGFR <60",
-        "eGFR <30",
-        "eGFR <15 or dialysis",
-        "Cr >2",
-        "Cr >5"
+        "A fixed eGFR cutoff of <15 mL/min/1.73 m^2",
+        "Any patient with stage 4 chronic kidney disease",
+        "Clinical determination by a nephrologist that kidney function is no longer high enough to safely sustain life without kidney replacement therapy",
+        "Presence of proteinuria for ≥3 months",
+        "Serum creatinine ≥4.0 mg/dL on two occasions"
       ],
       "answer": 2,
       "explanations": [
-        "Incorrect. <60 is CKD G3a or worse.",
-        "Incorrect. <30 is CKD G4.",
-        "Correct. End-stage renal/kidney disease (ESRD/ESKD) — eGFR <15 mL/min/1.73 m² OR dialysis-dependent OR transplanted (sometimes 'failed transplant' if it returns to dialysis). At this stage, kidney replacement therapy is required for survival in most patients (some elderly/frail elect conservative management). Symptoms of uremia, severe anemia, fluid overload, hyperkalemia, acidosis, mineral bone disease guide timing of RRT initiation.",
-        "Incorrect. Cr alone is not the definition.",
-        "Incorrect. Cr alone is not the definition."
+        "Incorrect. The brick states no precise clinical parameter defines ESKD; eGFR is typically 5-10 mL/min/1.73 m^2, not a fixed 15 cutoff.",
+        "Incorrect. Stage 4 CKD is not by itself ESKD; ESKD is the last stage where function cannot sustain life without KRT.",
+        "Correct. ESKD is a clinical determination by a nephrologist that kidney function is too low to allow the patient to function safely without kidney replacement therapy.",
+        "Incorrect. Proteinuria duration relates to CKD diagnosis but does not define ESKD per this brick.",
+        "Incorrect. A specific creatinine threshold is not the brick's definition of ESKD."
       ]
     },
     {
       "id": 2,
-      "stem": "A 55-year-old woman is being prepared for hemodialysis. Which vascular access is most preferred for chronic hemodialysis?",
+      "stem": "A 58-year-old man with diabetic nephropathy is being evaluated for initiation of kidney replacement therapy. According to the brick, patients typically reach ESKD when their eGFR falls into which range?",
       "choices": [
-        "Tunneled central catheter",
-        "Arteriovenous fistula",
-        "Arteriovenous graft",
-        "Peripheral IV",
-        "Femoral central line"
+        "30-45 mL/min/1.73 m^2",
+        "20-30 mL/min/1.73 m^2",
+        "15-20 mL/min/1.73 m^2",
+        "5-10 mL/min/1.73 m^2",
+        "<2 mL/min/1.73 m^2"
       ],
-      "answer": 1,
+      "answer": 3,
       "explanations": [
-        "Incorrect. Catheters have highest complication rates.",
-        "Correct. ARTERIOVENOUS FISTULA (AVF) is the preferred long-term hemodialysis access: lowest infection rate, lowest thrombosis rate, longest patency, best survival. Surgical anastomosis between artery and vein (radiocephalic, brachiocephalic, brachiobasilic). Requires 3–6+ months to MATURE before use. AV GRAFT (synthetic conduit) — second choice, usable in 2–6 weeks, higher complication rates than AVF. TUNNELED CATHETER — last resort, high infection/thrombosis/mortality risk; reserved for bridge or when other access not feasible. 'Fistula First / Catheter Last' principle. Spare arm veins (avoid IV draws, BP cuffs on dominant arm) once CKD progression established.",
-        "Incorrect. Graft is alternative but second choice.",
-        "Incorrect. Peripheral IV insufficient flow.",
-        "Incorrect. Femoral lines have highest infection."
+        "Incorrect. 30-45 mL/min/1.73 m^2 corresponds to earlier CKD, not ESKD.",
+        "Incorrect. 20-30 mL/min/1.73 m^2 is below ESKD-typical values per the brick.",
+        "Incorrect. 15-20 mL/min/1.73 m^2 is still above the ESKD-typical range described.",
+        "Correct. The brick states patients typically reach ESKD when their eGFR is 5-10 mL/min/1.73 m^2.",
+        "Incorrect. <2 mL/min/1.73 m^2 is lower than the typical threshold given in the brick."
       ]
     },
     {
       "id": 3,
-      "stem": "A 65-year-old man on hemodialysis 3×/week has been doing well. Which best characterizes the typical schedule and duration?",
+      "stem": "A 47-year-old man with CKD stage 5 is being considered for dialysis. Which of the following clinical scenarios is listed in the brick as a common reason a patient with CKD progresses to needing kidney replacement therapy?",
       "choices": [
-        "Once weekly for 1 hour",
-        "3×/week, 3–4 h sessions",
-        "Daily for 30 minutes",
-        "Continuous for 24 hours",
-        "Monthly for 12 hours"
+        "Asymptomatic mild proteinuria",
+        "Episodic hypotension",
+        "Isolated microscopic hematuria",
+        "Mild anemia of CKD",
+        "Ongoing hyperkalemia refractory to medical management"
       ],
-      "answer": 1,
+      "answer": 4,
       "explanations": [
-        "Incorrect. Once weekly insufficient.",
-        "Correct. STANDARD HEMODIALYSIS schedule: 3 times weekly, 3–4 hours per session (often Mon-Wed-Fri or Tue-Thu-Sat). Achieves a typical Kt/V (urea clearance) target of >1.2 per session. Alternative regimens: NOCTURNAL hemodialysis (longer sessions overnight, 3–6×/week, gentler hemodynamics, better outcomes); SHORT DAILY (5–6×/week, 2–3 h) for in-center or home; HOME HEMODIALYSIS (frequent or nocturnal, with training); SLED (sustained low-efficiency dialysis, 6–12 h, often in ICU as alternative to CRRT). Adequate dialysis improves survival, symptoms, and quality of life.",
-        "Incorrect. 30 min insufficient.",
-        "Incorrect. Continuous is CRRT (different setting).",
-        "Incorrect. Monthly insufficient."
+        "Incorrect. Asymptomatic proteinuria alone is not given as a reason to start KRT in the brick.",
+        "Incorrect. Hypotension is a complication of dialysis, not a trigger for starting it.",
+        "Incorrect. Microscopic hematuria is not a brick-listed indication.",
+        "Incorrect. Mild anemia is treated with erythropoietin, not by initiating dialysis.",
+        "Correct. The brick lists ongoing hyperkalemia refractory to medical management as a common reason a CKD patient progresses to needing KRT, along with uremic nausea/vomiting, poor appetite, and refractory volume overload."
       ]
     },
     {
       "id": 4,
-      "stem": "A 70-year-old man on hemodialysis has hypotension during dialysis sessions. Which best explains intradialytic hypotension?",
+      "stem": "A 60-year-old woman with ESKD is being counseled on the three commonly performed forms of kidney replacement therapy in the United States. Which trio represents these modalities as described in the brick?",
       "choices": [
-        "Sepsis",
-        "Acute MI",
-        "Excessive ultrafiltration",
-        "Anaphylaxis",
-        "Pulmonary embolism"
+        "Continuous renal replacement therapy, plasmapheresis, and transplant",
+        "Hemofiltration, hemoperfusion, and transplant",
+        "Kidney transplant, in-center hemodialysis, and home dialysis (peritoneal or home hemodialysis)",
+        "Kidney transplant, plasmapheresis, and peritoneal dialysis",
+        "Peritoneal dialysis, intermittent hemodialysis, and slow low-efficiency dialysis"
       ],
       "answer": 2,
       "explanations": [
-        "Incorrect. Sepsis is one cause but not the principal mechanism.",
-        "Incorrect. Possible but not principal.",
-        "Correct. Intradialytic hypotension — common, multifactorial: (1) excessive ultrafiltration / rapid fluid removal exceeding refilling rate from interstitium; (2) impaired vascular response (especially in elderly, diabetic with autonomic neuropathy, on antihypertensives); (3) low pre-dialysis BP; (4) cardiac dysfunction; (5) too-aggressive dry weight target. Strategies: lower ultrafiltration rate, check dry weight, hold pre-dialysis antihypertensives, sodium profiling, cool dialysate, midodrine for refractory cases. Severe / persistent hypotension on dialysis associated with worse outcomes (cardiac stunning, mortality).",
-        "Incorrect. Anaphylaxis would have additional features.",
-        "Incorrect. PE is uncommon."
+        "Incorrect. Plasmapheresis is not a form of KRT for ESKD in the brick.",
+        "Incorrect. Hemoperfusion is not listed among common U.S. KRT modalities.",
+        "Correct. The brick lists kidney transplant, in-center hemodialysis, and home dialysis (peritoneal dialysis or home hemodialysis) as the commonly performed types of KRT in the U.S.",
+        "Incorrect. Plasmapheresis is not a routine KRT modality in this brick.",
+        "Incorrect. Slow low-efficiency dialysis is not the third modality named in the brick."
       ]
     },
     {
       "id": 5,
-      "stem": "A 70-year-old woman starts hemodialysis. After her first session she has a severe headache, nausea, and confusion. Which best explains this?",
+      "stem": "A 45-year-old woman with ESKD asks about kidney transplantation. According to the brick, why is renal transplantation considered the preferred form of kidney replacement therapy?",
       "choices": [
-        "Stroke",
-        "Dialysis disequilibrium syndrome",
-        "Sepsis",
-        "Hypoglycemia",
-        "Air embolism"
+        "It avoids the need for any immunosuppression",
+        "It eliminates the need for follow-up nephrology care",
+        "It is less expensive than dialysis in every patient",
+        "It provides better mortality and quality-of-life outcomes compared with dialysis",
+        "It restores native endocrine function in the original kidneys"
       ],
-      "answer": 1,
+      "answer": 3,
       "explanations": [
-        "Incorrect. Possible but the temporal relationship to first dialysis points to disequilibrium.",
-        "Correct. DIALYSIS DISEQUILIBRIUM SYNDROME — neurologic syndrome (headache, nausea, confusion, seizures, rarely coma/death) following rapid first or aggressive dialysis. Mechanism: rapid plasma urea removal creates transient cerebral edema (urea slowly clears from brain compared with plasma; the resulting osmotic gradient draws water INTO brain). Risk factors: high pre-dialysis BUN, first dialysis session, rapid clearance, severe acidosis. Prevention: gentler initial dialysis (shorter session, lower blood flow, slower clearance), avoid rapid BUN reduction (target <30% reduction in initial sessions). Treatment: stop dialysis if symptoms develop; supportive care.",
-        "Incorrect. Sepsis would have fever, etc.",
-        "Incorrect. Possible but not principal in this scenario.",
-        "Incorrect. Air embolism has chest pain, hypoxia."
+        "Incorrect. Transplant requires lifelong immunosuppression including prednisone, tacrolimus, and mycophenolate.",
+        "Incorrect. Patients follow up with a transplant nephrologist for at least the first year and then community nephrologists.",
+        "Incorrect. The brick emphasizes mortality and lifestyle benefits, not cost.",
+        "Correct. The brick states kidney transplantation is the RRT of choice because of better mortality rates and quality-of-life improvements compared with dialysis.",
+        "Incorrect. Native kidneys are usually left in place and atrophic; the transplant supplies kidney function."
       ]
     },
     {
       "id": 6,
-      "stem": "A 50-year-old man chooses peritoneal dialysis. Which best characterizes peritoneal dialysis?",
+      "stem": "A 39-year-old man undergoes a kidney transplant. The surgeon places the graft in the right pelvis rather than the native renal fossa. According to the brick, the graft's renal artery is most commonly anastomosed to which vessel?",
       "choices": [
-        "Done in-center 3 times weekly",
-        "Home-based daily peritoneal exchanges",
-        "Replaces transplant",
-        "No infection risk",
-        "Done with vascular access"
+        "Abdominal aorta",
+        "Common iliac artery",
+        "External iliac vein",
+        "Inferior epigastric artery",
+        "Internal iliac vein"
       ],
       "answer": 1,
       "explanations": [
-        "Incorrect. PD is home-based.",
-        "Correct. Peritoneal dialysis (PD) — home-based daily dialysis using the patient's peritoneum as a semipermeable membrane. CATHETER inserted surgically into the peritoneal cavity. Two main modalities: CAPD (continuous ambulatory peritoneal dialysis) — 4–5 manual exchanges daily; APD (automated peritoneal dialysis) — overnight cycler does multiple exchanges, often with a 'last fill' for the day. Advantages: independence, home-based, gentler hemodynamics, more flexible diet, vascular access not needed. Disadvantages: PERITONITIS (key complication — cloudy effluent, abdominal pain, fever; treat with intra-peritoneal antibiotics); catheter exit-site infections; ultrafiltration failure; encapsulating peritoneal sclerosis (rare, late); not appropriate for severe abdominal adhesions.",
-        "Incorrect. Doesn't replace transplant.",
-        "Incorrect. Peritonitis risk is significant.",
-        "Incorrect. PD doesn't use vascular access."
+        "Incorrect. Native kidneys are supplied by the aorta, but the brick specifies that transplanted grafts are anastomosed to the iliac artery, not the aorta.",
+        "Correct. The brick states the transplanted kidney gets its blood supply from the renal artery, which is anastomosed to the common iliac artery rather than the aorta.",
+        "Incorrect. The renal artery is anastomosed to an artery, not the external iliac vein.",
+        "Incorrect. The inferior epigastric artery is not used for renal graft inflow per the brick.",
+        "Incorrect. Arterial anastomosis is not made to a vein."
       ]
     },
     {
       "id": 7,
-      "stem": "A 45-year-old woman on peritoneal dialysis develops abdominal pain and cloudy effluent. Cell count of effluent shows >100 WBC/mm³ with neutrophil predominance. Which best characterizes this?",
+      "stem": "A 55-year-old woman with ESKD due to autosomal dominant polycystic kidney disease undergoes successful renal transplantation. She asks why her native kidneys were not removed at the time of transplant. Which statement from the brick best explains the surgeon's decision?",
       "choices": [
-        "Mechanical catheter dysfunction",
-        "PD peritonitis",
-        "Hyperglycemia",
-        "Catheter exit-site infection only",
-        "Encapsulating peritoneal sclerosis"
+        "Native kidneys are always removed at the time of transplant",
+        "Native kidneys are left in place unless there is a particular indication for removal such as malignancy or painful enlargement from polycystic kidney disease",
+        "Native kidneys are required to maintain renin secretion after transplant",
+        "Removing native kidneys would interrupt ureteral drainage of the graft",
+        "Removing native kidneys would prevent vascular access to the iliac vessels"
       ],
       "answer": 1,
       "explanations": [
-        "Incorrect. Mechanical issues don't cause inflammatory effluent.",
-        "Correct. PD peritonitis — diagnostic criteria: (1) clinical findings (abdominal pain, fever, cloudy effluent); (2) effluent WBC >100/mm³ with >50% neutrophils; (3) positive culture (Gram stain often negative; culture confirms organism). Most common organisms: gram-positive (S. epidermidis, S. aureus from skin contamination), gram-negative (Pseudomonas, E. coli). Treatment: INTRA-PERITONEAL antibiotics (preferred — high local levels) — vancomycin + gentamicin or cefazolin + ceftazidime as empiric; tailor based on culture; 14–21 days. Catheter removal for refractory infection. Prevent: aseptic technique training, exit-site care.",
-        "Incorrect. Hyperglycemia from PD glucose load is asymptomatic.",
-        "Incorrect. Exit-site infection is local; effluent infection is peritonitis.",
-        "Incorrect. EPS is rare and chronic, with bowel obstruction."
+        "Incorrect. The brick states native kidneys are typically left in place.",
+        "Correct. Per the brick, native kidneys are typically left in place unless there is a specific indication for removal such as malignancy or painful enlargement from polycystic kidney disease.",
+        "Incorrect. The transplanted kidney provides endocrine function; native kidneys are not required for renin.",
+        "Incorrect. The graft has its own ureter anastomosed to the bladder.",
+        "Incorrect. Native kidneys are in the retroperitoneum and do not block iliac access."
       ]
     },
     {
       "id": 8,
-      "stem": "A 50-year-old man on hemodialysis for 5 years has wrist pain and carpal tunnel syndrome. Imaging shows amyloid deposits at wrist. Which best characterizes this?",
+      "stem": "A 48-year-old man is 6 months post-renal transplant. His daily medication regimen includes prednisone, tacrolimus, and mycophenolate. According to the brick, which additional pair of agents is sometimes used as alternative immunosuppressants?",
       "choices": [
-        "AL amyloid",
-        "Dialysis-related amyloidosis from β2-microglobulin",
-        "AA amyloid",
-        "Senile amyloid",
-        "Neuropathy alone"
+        "Azathioprine and methotrexate",
+        "Cyclophosphamide and rituximab",
+        "Hydroxychloroquine and infliximab",
+        "Sirolimus and cyclosporine",
+        "Tofacitinib and abatacept"
       ],
-      "answer": 1,
+      "answer": 3,
       "explanations": [
-        "Incorrect. AL is from immunoglobulin light chains.",
-        "Correct. Dialysis-related amyloidosis (DRA) — β2-microglobulin (~12 kDa, normally cleared by kidneys, poorly cleared by conventional dialysis) accumulates in patients on long-term dialysis (>5–10 years), depositing as amyloid in synovial tissue and bone. Manifestations: carpal tunnel syndrome (most common early), shoulder pain, destructive arthropathy, bone cysts, fractures, spondyloarthropathy. Modern high-flux membranes clear β2-microglobulin better and reduced incidence; transplant resolves the problem (β2-microglobulin levels normalize). Less common in modern era.",
-        "Incorrect. AA is from chronic inflammation (TB, RA).",
-        "Incorrect. Senile amyloid (TTR) is different.",
-        "Incorrect. Neuropathy may coexist but the imaging shows amyloid."
+        "Incorrect. The brick does not list azathioprine or methotrexate as alternatives in this regimen.",
+        "Incorrect. Cyclophosphamide and rituximab are not listed in this brick as transplant maintenance agents.",
+        "Incorrect. These agents are not mentioned in the brick.",
+        "Correct. The brick states sirolimus and cyclosporine are sometimes used in addition to the typical prednisone, tacrolimus, and mycophenolate regimen.",
+        "Incorrect. These agents are not listed in the brick."
       ]
     },
     {
       "id": 9,
-      "stem": "A 45-year-old woman with ESRD has been listed for kidney transplant for 3 years. She has a deceased-donor organ available. Which best characterizes immunosuppression after transplant?",
+      "stem": "A 62-year-old man with ESKD is referred for transplant evaluation. According to the brick, the evaluation process by the multidisciplinary committee of transplant surgeons, nephrologists, and social workers typically takes how long?",
       "choices": [
-        "No immunosuppression needed",
-        "Triple therapy",
-        "Single agent only",
-        "Steroid-only therapy",
-        "Plasma exchange ongoing"
+        "1-2 weeks",
+        "1-2 months",
+        "3-4 months",
+        "6-12 months",
+        "More than 2 years"
       ],
-      "answer": 1,
+      "answer": 3,
       "explanations": [
-        "Incorrect. Lifelong IS required.",
-        "Correct. Standard kidney transplant immunosuppression: INDUCTION (peri-operative): basiliximab (IL-2R antagonist) for low-risk; antithymocyte globulin (ATG) for high-risk. MAINTENANCE (lifelong, triple therapy): (1) CALCINEURIN INHIBITOR (CNI) — tacrolimus preferred over cyclosporine; (2) ANTIMETABOLITE — mycophenolate (mofetil or sodium); (3) CORTICOSTEROIDS (often tapered or steroid-sparing protocols). Alternative: mTOR inhibitors (sirolimus, everolimus) in selected cases. Belatacept (CTLA-4 Ig) for CNI-sparing. Adverse effects: opportunistic infections (CMV, BK virus, Pneumocystis), malignancies (skin, lymphoma — PTLD with EBV), CV disease, diabetes, nephrotoxicity (CNI).",
-        "Incorrect. Single agent inadequate.",
-        "Incorrect. Steroid-only inadequate.",
-        "Incorrect. PLEX for specific situations only."
+        "Incorrect. The brick describes a much longer evaluation process.",
+        "Incorrect. The brick gives a longer evaluation timeframe.",
+        "Incorrect. The brick states the process takes 6-12 months, not 3-4.",
+        "Correct. The brick states the evaluation process of a potential recipient takes 6-12 months and is performed by a multidisciplinary committee of transplant surgeons, transplant nephrologists, and social workers.",
+        "Incorrect. The evaluation does not typically extend beyond a year per the brick."
       ]
     },
     {
       "id": 10,
-      "stem": "A 50-year-old kidney transplant recipient on tacrolimus has Cr rise from 1.2 to 2.0 over 2 weeks. Tacrolimus level is supratherapeutic. Which best explains this?",
+      "stem": "A 67-year-old man with ESKD is being considered for kidney transplantation but has metastatic colon cancer and severe ischemic cardiomyopathy. According to the brick, which of the following is a reason patients are often refused for transplantation?",
       "choices": [
-        "Acute rejection",
-        "CNI nephrotoxicity",
-        "BK nephropathy",
-        "CMV infection",
-        "Recurrence of original disease"
+        "Active infections, malignancies, or significantly shortened life expectancy from advanced age or severe cardiac disease",
+        "Body mass index in the normal range",
+        "Need for ongoing antihypertensive therapy",
+        "Presence of a living donor",
+        "Stable home support system"
       ],
-      "answer": 1,
+      "answer": 0,
       "explanations": [
-        "Incorrect. Possible but the supratherapeutic level points to drug toxicity.",
-        "Correct. Calcineurin inhibitor nephrotoxicity — both ACUTE (high levels: vasoconstriction-mediated, often reversible with dose reduction) and CHRONIC (cumulative tubulointerstitial fibrosis, vascular changes). Workup: trough level (target tacrolimus 5–10 ng/mL depending on time post-transplant), other Cr-rising causes (acute rejection — biopsy if needed; BK nephropathy — urine and plasma BK PCR; CMV — PCR; obstruction — ultrasound). Drug interactions affecting tacrolimus levels: CYP3A4 inhibitors (azoles, macrolides, calcium channel blockers) raise levels; CYP3A4 inducers (rifampin, phenytoin) lower levels; grapefruit juice raises levels. Adjust tacrolimus dose for trough.",
-        "Incorrect. Need to rule out but level points to toxicity.",
-        "Incorrect. BK requires PCR to confirm.",
-        "Incorrect. CMV has additional features."
+        "Correct. The brick states reasons for refusal may include active infections, malignancies, or significantly shortened life expectancy because of advanced age or severe underlying cardiac or other disease.",
+        "Incorrect. Normal BMI is not a contraindication.",
+        "Incorrect. Antihypertensives are routine in CKD/ESKD and not a reason to refuse transplant.",
+        "Incorrect. Living donors expedite, not preclude, transplant.",
+        "Incorrect. Strong home support actually favors transplant adherence."
       ]
     },
     {
       "id": 11,
-      "stem": "A 45-year-old kidney transplant recipient has decoy cells in urine and decreasing graft function. Plasma BK virus PCR is markedly elevated. Which best characterizes BK nephropathy?",
+      "stem": "A 50-year-old transplant candidate has a documented history of chronic medication nonadherence. The transplant committee considers this a relative contraindication. Which statement from the brick best supports their reasoning?",
       "choices": [
-        "Bacterial infection",
-        "Polyomavirus reactivation",
-        "Fungal infection",
-        "Acute rejection",
-        "Delayed graft function"
+        "Nonadherent patients cannot have a living donor",
+        "Nonadherent patients cannot tolerate dialysis as a backup",
+        "Patients undergoing transplant must adhere to a complex drug regimen (or have strong home support), so a history suggesting nonadherence can be a contraindication",
+        "Pretransplant nonadherence guarantees graft loss within 1 year",
+        "The immunosuppressive regimen is only required for the first 6 months"
       ],
-      "answer": 1,
+      "answer": 2,
       "explanations": [
-        "Incorrect. BK is a polyomavirus.",
-        "Correct. BK NEPHROPATHY — reactivation of BK polyomavirus (latent in urothelium) in immunosuppressed transplant recipient. Manifestations: rising Cr, decoy cells in urine (intranuclear viral inclusions in shed tubular cells), tubulointerstitial nephritis on biopsy (can mimic rejection — careful pathology). Diagnosis: urine BK PCR (sensitive screen, high level concerning); plasma BK PCR (stronger correlation with nephropathy); kidney biopsy for confirmation. Management: REDUCE IMMUNOSUPPRESSION (the principal intervention — counterintuitive given graft dysfunction; specific reductions in CNI and antimetabolite); leflunomide or IVIG sometimes used adjunctively; cidofovir reserved for severe (nephrotoxic itself). Untreated leads to graft loss.",
-        "Incorrect. BK is viral, not fungal.",
-        "Incorrect. Important differential — biopsy can distinguish.",
-        "Incorrect. DGF is early peri-transplant ATN."
+        "Incorrect. Living donor availability is independent of adherence history.",
+        "Incorrect. Nonadherent patients can still receive dialysis; this is not the brick's stated rationale.",
+        "Correct. The brick explicitly states patients undergoing transplant need to adhere to a complex drug regimen (or have strong home support), so a history suggesting treatment nonadherence can be a contraindication.",
+        "Incorrect. The brick does not give such an absolute prognostic statement.",
+        "Incorrect. Immunosuppression is lifelong, not 6 months."
       ]
     },
     {
       "id": 12,
-      "stem": "A 30-year-old researcher reviews kidney transplant outcomes. Which best characterizes 1-year and 5-year graft survival?",
+      "stem": "A 41-year-old woman is 9 months post-renal transplant on prednisone, tacrolimus, and mycophenolate. She develops fevers and pulmonary infiltrates. According to the brick, immunosuppressed transplant recipients are at increased risk of infection from which set of pathogens?",
       "choices": [
-        "1-year: 50%; 5-year: 10%",
-        "Living: 96%/85%; deceased: 90%/70%",
-        "1-year: 30%; 5-year: 5%",
-        "1-year: 100%; 5-year: 100%",
-        "Unknown"
+        "Cytomegalovirus, EBV, herpes, polyomavirus, and pneumococcus",
+        "Hepatitis A virus and rotavirus",
+        "Listeria, Brucella, and Coxiella",
+        "Mycobacterium leprae and Treponema pallidum",
+        "Plasmodium and Trypanosoma cruzi"
       ],
-      "answer": 1,
+      "answer": 0,
       "explanations": [
-        "Incorrect. Survival is much better.",
-        "Correct. Modern kidney transplant outcomes: LIVING DONOR — 1-year graft survival ~96–98%, 5-year ~85–90%. DECEASED DONOR — 1-year ~90–94%, 5-year ~70–80%. Patient survival is similar (excellent). Living donor advantages: better outcomes (lower delayed graft function, better long-term function), shorter wait (immediate vs years), planned timing (preemptive transplant before dialysis is best). Risk factors for graft loss: HLA mismatch, recipient age, original cause of ESRD (DM, FSGS recurrence), CNI nephrotoxicity, chronic rejection. Death with functioning graft and chronic allograft injury are leading causes of graft loss.",
-        "Incorrect. Higher.",
-        "Incorrect. Some loss occurs.",
-        "Incorrect. Data are robust."
+        "Correct. The brick lists cytomegalovirus, EBV, herpes, polyomavirus, and pneumococcus as pathogens whose risk is increased by transplant immunosuppression.",
+        "Incorrect. These enteric pathogens are not the ones emphasized in this brick.",
+        "Incorrect. These zoonotic organisms are not listed in this brick.",
+        "Incorrect. These chronic granulomatous/spirochetal infections are not the brick's listed risks.",
+        "Incorrect. Tropical parasitic infections are not listed in the brick."
       ]
     },
     {
       "id": 13,
-      "stem": "A 60-year-old man with ESRD has been on hemodialysis for 2 years. He is being evaluated for transplant listing. Which best characterizes the survival comparison between dialysis and transplant?",
+      "stem": "A 58-year-old man on chronic immunosuppression after kidney transplant is counseled about long-term cancer surveillance. According to the brick, the risk of malignancy in immunosuppressed transplant recipients is approximately how much higher than in the general population?",
       "choices": [
-        "Dialysis has better long-term survival",
-        "Transplant has better long-term survival",
-        "Both are equivalent",
-        "Transplant is contraindicated in elderly",
-        "Dialysis is contraindicated"
+        "Equal to baseline",
+        "1.5 times higher",
+        "2 times higher",
+        "3 times higher",
+        "10 times higher"
       ],
-      "answer": 1,
+      "answer": 3,
       "explanations": [
-        "Incorrect. Reverse — transplant survival is better.",
-        "Correct. Kidney transplant offers SUBSTANTIALLY BETTER LONG-TERM SURVIVAL than dialysis, especially in younger patients. After the early peri-operative period (where dialysis wins because surgery has perioperative risk), transplant recipients have better quality of life, better cardiovascular outcomes, fewer hospitalizations, and better mortality at 5+ years. Magnitude: ~50–80% reduction in CV mortality compared with continued dialysis. Even elderly recipients (60–70+) generally benefit if otherwise well. Pre-emptive transplantation (before dialysis ever started) has best outcomes. Preserving kidney function and early referral are key.",
-        "Incorrect. Transplant clearly better.",
-        "Incorrect. Many elderly transplant recipients do well.",
-        "Incorrect. Dialysis is appropriate when transplant is not."
+        "Incorrect. The brick describes an elevated, not baseline, risk.",
+        "Incorrect. The brick gives a higher multiple than 1.5x.",
+        "Incorrect. The brick specifies a higher figure than 2x.",
+        "Correct. The brick states the risk of malignancy in immunosuppressed patients is three times higher than in the general population.",
+        "Incorrect. The brick does not state a 10-fold increase."
       ]
     },
     {
       "id": 14,
-      "stem": "A 65-year-old man on hemodialysis develops a soft, pulsatile mass at his AV fistula site. Bruit and thrill are absent. Which best characterizes this?",
+      "stem": "A 36-year-old woman is 3 weeks post-renal transplant when she develops graft tenderness, rising creatinine, and reduced urine output. Biopsy confirms acute rejection. Which statement from the brick best characterizes transplant rejection?",
       "choices": [
-        "Normal AVF maturation",
-        "AV fistula thrombosis or stenosis",
-        "Skin infection only",
-        "Catheter dysfunction",
-        "Aneurysm only"
+        "Rejection cannot occur if all antirejection medications are taken regularly",
+        "Rejection can occur at any time from immediately after the transplant to years later, even if all antirejection medications are taken",
+        "Rejection is exclusively a chronic process occurring after 5 years",
+        "Rejection only occurs in deceased-donor transplants",
+        "Rejection only occurs in patients with HLA-mismatched siblings"
       ],
       "answer": 1,
       "explanations": [
-        "Incorrect. Mature AVF has bruit and thrill.",
-        "Correct. AV fistula complications: (1) THROMBOSIS — loss of bruit/thrill, fistula 'cord-like'; urgent intervention (declot, angioplasty, sometimes surgery). (2) STENOSIS — diminished bruit/thrill or 'water-hammer' pulse; treat with angioplasty. (3) STEAL SYNDROME — distal limb ischemia from blood flow diversion; pain, cool extremity, pallor; treat with banding or distal revascularization. (4) ANEURYSM / pseudoaneurysm — site dilation; usually monitored, surgical repair if rapid expansion or skin compromise. (5) HIGH-OUTPUT HF — high fistula flow taxing cardiac reserve. (6) INFECTION — relatively rare with AVF (vs catheter or graft).",
-        "Incorrect. No infection signs.",
-        "Incorrect. Catheter is separate.",
-        "Incorrect. Aneurysm has different presentation."
+        "Incorrect. The brick says rejection can occur even if all antirejection medications are taken.",
+        "Correct. The brick states transplant rejection can occur at any time from immediately after the transplant to years later, and it can occur even if all antirejection medications are taken.",
+        "Incorrect. Rejection can be acute or chronic per the brick description.",
+        "Incorrect. Rejection occurs in both living and deceased donor recipients.",
+        "Incorrect. The brick does not restrict rejection to specific donor types."
       ]
     },
     {
       "id": 15,
-      "stem": "A 55-year-old man on hemodialysis develops chest pain during a session and ECG shows ST-segment changes. Which best characterizes the cardiovascular risk in dialysis patients?",
+      "stem": "A 64-year-old man on in-center hemodialysis is being taught about how dialysis works. According to the brick, hemodialysis cleans the blood through which physical mechanism across a semipermeable membrane?",
       "choices": [
-        "Lower CV risk than general population",
-        "Markedly elevated CV mortality",
-        "Identical to general population",
-        "Only after 20 years on dialysis",
-        "Only in elderly patients"
+        "Active transport against gradients",
+        "Diffusion of solutes down concentration gradients",
+        "Endocytosis of waste molecules",
+        "Osmosis driven by hyperosmolar dialysate",
+        "Ultrafiltration alone with no solute exchange"
       ],
       "answer": 1,
       "explanations": [
-        "Incorrect. CV risk is much higher.",
-        "Correct. CV mortality is markedly elevated in ESRD — leading cause of death (50%+ of ESRD deaths). Mechanisms: traditional risk factors (HTN, DM, dyslipidemia, smoking) PLUS uremia-specific (vascular calcification from Ca×Phos product, LVH from chronic volume/pressure overload, anemia, FGF-23 elevations, oxidative stress, sympathetic activation, accelerated atherosclerosis). Dialysis itself contributes (intradialytic hypotension causes 'cardiac stunning' over time). Risk-reduction strategies: BP control, statins (regardless of LDL in CKD G3+), aggressive volume management, treat CKD-MBD (phosphate binders, vitamin D), preserve residual function, transplant when possible.",
-        "Incorrect. Much higher.",
-        "Incorrect. Higher from initiation.",
-        "Incorrect. All ages."
+        "Incorrect. The brick specifies passive movement, not active transport.",
+        "Correct. The brick states solutes move passively along their concentration gradients across the semipermeable membrane (e.g., urea, creatinine, and potassium move from blood to dialysate; bicarbonate moves into the blood).",
+        "Incorrect. The mechanism is diffusion, not endocytosis.",
+        "Incorrect. The brick emphasizes diffusion down concentration gradients, not osmosis.",
+        "Incorrect. The brick describes both fluid removal and solute exchange via diffusion."
       ]
     },
     {
       "id": 16,
-      "stem": "A 80-year-old woman with ESRD and severe frailty is electing conservative management instead of dialysis. Which best characterizes this option?",
+      "stem": "A 70-year-old woman is undergoing intermittent hemodialysis. According to the brick, in which direction do urea, creatinine, and potassium move during dialysis, and which solute moves the opposite way?",
       "choices": [
-        "Withholding all care",
-        "Supportive care without dialysis",
-        "Active euthanasia",
-        "Same as dialysis",
-        "Required of all elderly"
+        "All four move from blood to dialysate",
+        "All four move from dialysate to blood",
+        "Urea, creatinine, and potassium move from blood to dialysate; bicarbonate moves from dialysate to blood",
+        "Urea and creatinine move into the blood; potassium and bicarbonate move out",
+        "Urea, creatinine, and potassium move from dialysate to blood; bicarbonate moves from blood to dialysate"
       ],
-      "answer": 1,
+      "answer": 2,
       "explanations": [
-        "Incorrect. Care continues.",
-        "Correct. CONSERVATIVE / SUPPORTIVE care — appropriate option for elderly frail patients where dialysis offers limited benefit (especially with severe comorbidities, dementia, frailty, limited life expectancy). Components: comprehensive symptom management (anemia → ESA/transfusion; pruritis → gabapentin; fluid → diuretics, fluid restriction; pain → opioids carefully dosed for renal function), palliative care involvement, advance care planning, hospice when appropriate. Survival can be similar to dialysis in selected patients (very elderly, severe comorbidity), with better quality of life. Shared decision-making essential. Distinguished from withdrawal of dialysis (stopping dialysis) which is a separate end-of-life decision.",
-        "Incorrect. Distinct from euthanasia.",
-        "Incorrect. Different goal.",
-        "Incorrect. Decision is individualized."
+        "Incorrect. Bicarbonate moves the opposite way per the brick.",
+        "Incorrect. Waste solutes move out of the blood, not into it.",
+        "Correct. The brick states urea, creatinine, and potassium move from the blood into the dialysate, while bicarbonate moves from the dialysate (higher concentration) into the blood.",
+        "Incorrect. This reverses the directions described in the brick.",
+        "Incorrect. The directions are exactly reversed from the brick's description."
       ]
     },
     {
       "id": 17,
-      "stem": "A 70-year-old woman on hemodialysis has potassium 6.4 before her session. The team is considering dialysis as the immediate management. Which best characterizes hemodialysis for hyperkalemia?",
+      "stem": "A 55-year-old man is being prepared for outpatient hemodialysis. To prevent clotting of the hemodialysis filter, which medication is administered during the dialysis procedure as described in the brick?",
       "choices": [
-        "Dialysis takes 24 hours to lower K+",
-        "Dialysis lowers K+ by 1–2 mEq/h",
-        "Dialysis raises K+",
-        "Dialysis has no effect on K+",
-        "Dialysis is contraindicated"
+        "Apixaban",
+        "Aspirin",
+        "Heparin",
+        "Tissue plasminogen activator",
+        "Warfarin"
       ],
-      "answer": 1,
+      "answer": 2,
       "explanations": [
-        "Incorrect. Dialysis works much faster.",
-        "Correct. Hemodialysis effectively removes K+: typical 4-hour session can lower plasma K+ by 1–2 mEq/L per hour, total 1.5–4 mEq/L. K+ removal depends on dialysate K+ concentration (typical 2 mEq/L; lower dialysate = faster K+ removal but more arrhythmia risk; higher dialysate = slower removal). In ESRD with severe hyperkalemia: empiric medical therapy (calcium, insulin/dextrose, β-agonist) acutely while preparing dialysis. Use lower-K+ bath cautiously; rebound hyperkalemia can occur post-dialysis as cellular K+ shifts back to ECF.",
-        "Incorrect. Lowers K+.",
-        "Incorrect. Significant K+ removal.",
-        "Incorrect. Effective treatment."
+        "Incorrect. Apixaban is not the agent described in the brick.",
+        "Incorrect. Aspirin is an antiplatelet agent, not the anticoagulant used in the dialysis circuit per the brick.",
+        "Correct. The brick states heparin is used to anticoagulate the patient and circulates in the dialysis circuit to prevent clotting of the hemodialysis filter.",
+        "Incorrect. Tissue plasminogen activator is used to declot a thrombosed access, not as routine circuit anticoagulation.",
+        "Incorrect. Warfarin is not the agent used to prevent dialysis filter clotting per the brick."
       ]
     },
     {
       "id": 18,
-      "stem": "A 50-year-old kidney transplant recipient has a Cr rise from 1.4 to 2.5 over 1 week. Biopsy shows tubulitis with mononuclear cell infiltrate. C4d immunostaining is negative. Which best characterizes this?",
+      "stem": "A 49-year-old man with ESKD requires durable, sterile vascular access for thrice-weekly hemodialysis. According to the brick, which option is most commonly used and carries the lowest risk of infection?",
       "choices": [
-        "Antibody-mediated rejection",
-        "Acute T-cell-mediated rejection",
-        "BK nephropathy",
-        "CNI toxicity",
-        "Recurrence of original disease"
+        "Femoral vein catheter",
+        "Non-tunneled hemodialysis catheter",
+        "Peripherally inserted central catheter (PICC)",
+        "Surgically created arteriovenous (AV) fistula in the nondominant arm",
+        "Tunneled internal jugular hemodialysis catheter"
       ],
-      "answer": 1,
+      "answer": 3,
       "explanations": [
-        "Incorrect. AMR has C4d positive and donor-specific antibodies.",
-        "Correct. Acute T-cell-mediated rejection (TCMR, formerly 'cellular rejection') — biopsy shows TUBULITIS (mononuclear cell invasion of tubular epithelium), interstitial mononuclear infiltrate, sometimes endothelialitis. C4d negative. Banff scoring grades severity (Banff I, II, III). Treatment: PULSE STEROIDS (methylprednisolone 250–500 mg × 3–5 days) — first-line; ATG for steroid-resistant or severe; intensify maintenance immunosuppression. ANTIBODY-MEDIATED REJECTION (AMR): C4d positive, donor-specific antibodies (DSAs), peritubular capillaritis, glomerulitis; treated with PLEX, IVIG, rituximab, ± bortezomib.",
-        "Incorrect. C4d negative.",
-        "Incorrect. Biopsy shows rejection findings.",
-        "Incorrect. CNI toxicity has different histology (arteriolar hyalinosis, isometric vacuolization).",
-        "Incorrect. Original disease recurrence has specific findings."
+        "Incorrect. Femoral catheters are not the preferred long-term access in the brick.",
+        "Incorrect. Non-tunneled catheters carry a high infection risk per the brick.",
+        "Incorrect. PICC lines are not described as hemodialysis access in this brick.",
+        "Correct. The brick states hemodialysis is commonly performed using a surgically created AV fistula, typically placed in the nondominant arm, and AV fistulas have an extremely low risk of infection.",
+        "Incorrect. While tunneled catheters are an option, they have a large risk of infection compared with AV fistulas."
       ]
     },
     {
       "id": 19,
-      "stem": "A 30-year-old researcher reviews living kidney donor outcomes. Which best characterizes long-term donor risks?",
+      "stem": "A 72-year-old man on hemodialysis via a tunneled internal jugular catheter develops fever and bacteremia. According to the brick, which ranking of vascular access options correctly orders them from highest to lowest infection risk?",
       "choices": [
-        "Modestly increased ESRD risk; similar mortality",
-        "Donors have markedly reduced lifespan",
-        "Donors have 100% lifetime ESRD risk",
-        "No risk to donor",
-        "Donors require lifelong dialysis"
+        "AV fistula > AV graft > catheter",
+        "AV graft > AV fistula > catheter",
+        "Catheter > AV fistula > AV graft",
+        "Catheter > AV graft > AV fistula",
+        "All three have equivalent infection risk"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanations": [
-        "Correct. Living kidney donor outcomes — well-studied: (1) lifetime ESRD risk modestly increased compared with non-donors (HR ~5×, but absolute risk small ~0.5% over lifetime, similar to general population); (2) some risk of HTN and proteinuria; (3) no clear excess overall mortality (selected healthy donors); (4) immediate operative risks low (0.03% mortality); (5) quality of life similar to non-donors; (6) financial costs (lost wages during recovery, follow-up care). Pre-donation evaluation is rigorous: GFR, BP, urine protein, family history, psychosocial assessment, insurance protections. Post-donation lifelong follow-up advised.",
-        "Incorrect. Lifespan similar.",
-        "Incorrect. Modest increase, not certainty.",
-        "Incorrect. Some risk exists.",
-        "Incorrect. Very few donors progress to dialysis."
+        "Incorrect. AV fistulas have the lowest, not highest, infection risk.",
+        "Incorrect. AV grafts are not the highest-risk access.",
+        "Incorrect. AV fistulas have lower infection risk than AV grafts.",
+        "Correct. The brick states hemodialysis catheters have a large infection risk, AV grafts have a much lower risk comparatively, and AV fistulas have an extremely low infection risk.",
+        "Incorrect. The brick clearly differentiates infection risk among the three."
       ]
     },
     {
       "id": 20,
-      "stem": "A 50-year-old woman with ESRD has a 3-year wait for deceased-donor transplant. She wants to consider preemptive transplantation. Which best characterizes preemptive transplant?",
+      "stem": "A 38-year-old woman selects peritoneal dialysis. According to the brick, which statement best describes how peritoneal dialysis works and where it is performed?",
       "choices": [
-        "Transplant before any dialysis",
-        "Transplant only after years of dialysis",
-        "Dialysis without transplant",
-        "Pediatric protocol",
-        "Living donor only"
+        "Blood is filtered through an extracorporeal dialyzer at home daily",
+        "Dialysate is instilled into the peritoneal cavity and the blood equilibrates with it across capillaries in the peritoneum, and it is always done at home",
+        "Dialysate is run through the GI tract for solute exchange",
+        "It is done only in-center 3 days per week",
+        "It uses the pleural cavity as the exchange surface"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanations": [
-        "Correct. Preemptive transplantation — kidney transplant performed BEFORE dialysis ever started, when CKD progresses to advanced stage but has not yet required dialysis. Best outcomes: better graft survival, better patient survival, lower healthcare costs, better quality of life. Requires: early referral (eGFR ~20), suitable donor (living usually), thorough evaluation. About 25% of US kidney transplants are preemptive. Living donor preferred (planned timing); deceased donor possible if quickly available. Patient education and early referral critical to maximize this opportunity.",
-        "Incorrect. Reverse direction.",
-        "Incorrect. Transplant is the goal.",
-        "Incorrect. For all ages.",
-        "Incorrect. Either donor type."
+        "Incorrect. That description fits home hemodialysis, not peritoneal dialysis.",
+        "Correct. The brick states peritoneal dialysis uses dialysate instilled into the peritoneal cavity and utilizes capillaries in the peritoneum to clean the blood via diffusion, and is always done at home.",
+        "Incorrect. The GI tract is not used as the exchange surface.",
+        "Incorrect. In-center hemodialysis is performed 3 days/week; peritoneal dialysis is always done at home.",
+        "Incorrect. The peritoneum, not pleura, is the exchange surface."
       ]
     },
     {
       "id": 21,
-      "stem": "A 60-year-old man on hemodialysis is on phosphate binders, ESA, calcimimetic, and vitamin D analog. Which best characterizes management goals in dialysis CKD-MBD?",
+      "stem": "A 44-year-old man on peritoneal dialysis presents with abdominal pain, fever, and cloudy peritoneal effluent. According to the brick, what is the most serious complication of peritoneal dialysis and its first-line treatment?",
       "choices": [
-        "Phosphate normalization at all costs",
-        "Phosphate <5.5; PTH 2–9× ULN",
-        "Aggressive Ca elevation",
-        "PTH at upper limit only",
-        "No specific targets"
+        "Bacterial peritonitis treated with intraperitoneal antibiotics",
+        "Catheter-tunnel cellulitis treated with topical antibiotics",
+        "Hemoperitoneum treated with embolization",
+        "Hernia repaired with mesh",
+        "Pleural effusion treated with thoracentesis"
       ],
-      "answer": 1,
+      "answer": 0,
       "explanations": [
-        "Incorrect. Targets are flexible.",
-        "Correct. KDIGO CKD-MBD targets in DIALYSIS patients: (1) PHOSPHATE — toward normal range when possible; many guidelines aim <5.5 mg/dL (some <4.5); aggressive phosphate restriction. (2) CALCIUM — normal range; avoid hypercalcemia from binders or active vit D. (3) PTH — 2–9× upper limit of normal (typically 150–600 pg/mL) — lower targets risk adynamic bone disease, very high targets accelerate vascular calcification. Higher PTH in CKD targets reflects PTH resistance at bone level. Tools: phosphate binders (non-Ca preferred), calcimimetics (cinacalcet, etelcalcetide for IV use in dialysis), active vit D (calcitriol, paricalcitol, doxercalciferol), parathyroidectomy for severe refractory.",
-        "Incorrect. Hypercalcemia harmful.",
-        "Incorrect. PTH range broader.",
-        "Incorrect. Defined targets exist."
+        "Correct. The brick states the most serious complication of peritoneal dialysis is bacterial peritonitis, usually from catheter contamination, and treatment is intraperitoneal antibiotics; refractory cases require catheter removal and transition to hemodialysis.",
+        "Incorrect. Tunnel cellulitis is not described as the most serious complication.",
+        "Incorrect. Hemoperitoneum is mentioned as another complication but not the most serious.",
+        "Incorrect. Hernias are listed as a complication but are not the most serious.",
+        "Incorrect. Pleural effusions are listed as a complication but are not the most serious."
       ]
     },
     {
       "id": 22,
-      "stem": "A 28-year-old researcher considers when to initiate RRT in CKD. Which best characterizes the timing of dialysis initiation?",
+      "stem": "A 35-year-old man with acute kidney injury and septic shock in the ICU is too hemodynamically unstable to tolerate intermittent hemodialysis. According to the brick, which modality is preferred in this setting?",
       "choices": [
-        "Always at eGFR <15",
-        "Indication-driven (not solely eGFR)",
-        "Always wait for eGFR <5",
-        "Always at eGFR <30",
-        "Random timing"
+        "Conservative management without dialysis",
+        "Continuous renal replacement therapy (CRRT)",
+        "In-center intermittent hemodialysis 3x/week",
+        "Peritoneal dialysis at home",
+        "Plasmapheresis"
       ],
       "answer": 1,
       "explanations": [
-        "Incorrect. Not solely eGFR-driven.",
-        "Correct. RRT initiation in CKD is driven by INDICATIONS, not eGFR alone: (1) UREMIC SYMPTOMS — anorexia, nausea, encephalopathy, pericarditis, neuropathy; (2) REFRACTORY VOLUME OVERLOAD (especially pulmonary edema); (3) REFRACTORY HYPERKALEMIA OR METABOLIC ACIDOSIS not controlled medically; (4) MALNUTRITION from uremic anorexia. eGFR is one factor — guidelines suggest preparation by eGFR ~15–20, initiation typically at eGFR 5–10 with symptoms or earlier with severe symptoms. The IDEAL trial showed early vs late initiation made no mortality difference; many providers individualize based on symptom burden. AKI on CKD has separate criteria.",
-        "Incorrect. Uremic complications often arise earlier.",
-        "Incorrect. Too early.",
-        "Incorrect. Symptom-driven."
+        "Incorrect. Conservative management is inadequate for AKI requiring renal support in this scenario.",
+        "Correct. The brick states CRRT is hospital-based, requires central venous access, runs continuously over 24 hours, and is often used in the ICU for patients with AKI who cannot tolerate the rapid fluid shifts or high blood flow rates of standard hemodialysis; it allows gradual fluid removal beneficial in shock.",
+        "Incorrect. Standard intermittent hemodialysis causes the rapid fluid shifts the patient cannot tolerate.",
+        "Incorrect. Peritoneal dialysis is performed at home, not in the ICU for unstable AKI patients per the brick.",
+        "Incorrect. Plasmapheresis is not a renal replacement modality in this brick."
       ]
     },
     {
       "id": 23,
-      "stem": "A 65-year-old man on dialysis is found to have hepatitis C antibody positive. Which best characterizes hepatitis C in dialysis patients?",
+      "stem": "A 27-year-old woman is brought to the ED after ingesting an unknown substance and is found to have a severe metabolic acidosis with calcium oxalate crystals in her urine. According to the brick, which of the following is an indication for urgent hemodialysis in acute kidney injury?",
       "choices": [
-        "Increased prevalence; treatable with DAA",
-        "Contraindication to dialysis",
-        "Always cleared spontaneously",
-        "Rare in dialysis",
-        "Not treatable in dialysis"
+        "Hyperkalemia of 5.0 mEq/L responsive to insulin",
+        "Intoxication with ethylene glycol",
+        "Mild metabolic acidosis with pH 7.32",
+        "Mild volume overload responsive to furosemide",
+        "Stable serum creatinine of 2.0 mg/dL"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanations": [
-        "Correct. Hepatitis C — historically more prevalent in dialysis patients (transmitted via blood products, organ transplants, contaminated equipment, and in older dialysis units). Modern DAA (direct-acting antiviral) therapy: highly effective (>95% cure rate), short-course oral therapy, well-tolerated; sofosbuvir-velpatasvir, glecaprevir-pibrentasvir, etc. — many work with severe CKD/ESRD. Treatment indicated regardless of dialysis status (and especially before transplant if planning). Hepatitis C kidney donor pool now used (HCV-positive donor to HCV-negative recipient with planned DAA treatment) — has shortened wait times. Universal screening recommended.",
-        "Incorrect. Treated, not contraindicated.",
-        "Incorrect. Most patients chronic.",
-        "Incorrect. Higher prevalence.",
-        "Incorrect. Treatable."
+        "Incorrect. The brick gives a refractory hyperkalemia threshold of >6.5 mEq/L, not 5.0.",
+        "Correct. The brick lists intoxications from lithium, aspirin overdose, ethylene glycol, or methanol as urgent hemodialysis indications in AKI.",
+        "Incorrect. The brick specifies metabolic acidosis with pH <7.1 that cannot be reversed medically as the indication.",
+        "Incorrect. Fluid overload must be refractory to diuresis to qualify as an urgent indication.",
+        "Incorrect. Stable creatinine without other features is not an AEIOU indication for urgent dialysis."
       ]
     },
     {
       "id": 24,
-      "stem": "A 55-year-old woman on hemodialysis has new-onset rib fractures after minimal trauma. Bone density is markedly reduced. Which best characterizes renal osteodystrophy?",
+      "stem": "A 65-year-old man with stage 5 CKD develops a friction rub and altered mental status. Labs show pH 7.05 unresponsive to bicarbonate, K+ 7.1 mEq/L despite medical therapy, and creatinine 9 mg/dL. According to the brick, which set of values represents the urgent acute hemodialysis thresholds for refractory acidosis and refractory hyperkalemia?",
       "choices": [
-        "Single bone disease",
-        "Spectrum: high-turnover, low-turnover, mixed",
-        "Always osteopetrosis",
-        "Rare in dialysis",
-        "Resolves with dialysis alone"
+        "pH <7.0 and K+ >5.5 mEq/L",
+        "pH <7.1 and K+ >6.5 mEq/L",
+        "pH <7.2 and K+ >5.0 mEq/L",
+        "pH <7.25 and K+ >5.5 mEq/L",
+        "pH <7.35 and K+ >6.0 mEq/L"
       ],
       "answer": 1,
       "explanations": [
-        "Incorrect. Spectrum.",
-        "Correct. Renal osteodystrophy spectrum: (1) HIGH-TURNOVER — OSTEITIS FIBROSA CYSTICA from severe secondary HPT; brown tumors, subperiosteal resorption, increased fracture; (2) LOW-TURNOVER — ADYNAMIC BONE DISEASE from over-suppressed PTH (excessive vitamin D, calcimimetic, dialysate Ca, aluminum); fragility fractures; (3) MIXED uremic osteodystrophy; (4) OSTEOMALACIA — defective mineralization, often aluminum-related (now rare). Diagnosis: bone biopsy (with double tetracycline labeling) is gold standard. Surrogates: PTH range (2–9× ULN per KDIGO), bone-specific alkaline phosphatase. Management: balance phosphate control, calcium, vit D, calcimimetics; avoid over-suppressing PTH.",
-        "Incorrect. Multiple bone diseases.",
-        "Incorrect. Common in dialysis.",
-        "Incorrect. Requires specific therapy."
+        "Incorrect. The brick's pH threshold is <7.1, and the K+ threshold is higher than 5.5.",
+        "Correct. The brick lists metabolic acidosis with pH <7.1 that cannot be reversed medically and refractory hyperkalemia >6.5 mEq/L as urgent hemodialysis indications in AKI.",
+        "Incorrect. These values do not match the brick's thresholds.",
+        "Incorrect. The pH cutoff in the brick is lower (<7.1) and K+ is higher (>6.5).",
+        "Incorrect. These values are not the brick's stated thresholds."
       ]
     },
     {
       "id": 25,
-      "stem": "A 30-year-old researcher reviews dialysis access infections. Which best characterizes the relative infection risk of HD access types?",
+      "stem": "A 71-year-old man has been on in-center hemodialysis for 7 years. He now reports bilateral shoulder pain, carpal tunnel-like symptoms in both wrists, and bone cysts on imaging. According to the brick, which complication of long-term hemodialysis best explains his presentation?",
       "choices": [
-        "AVF > graft > catheter",
-        "Catheter > graft > AVF",
-        "All equal",
-        "Catheter has lowest infection",
-        "Graft has lowest infection"
+        "Anemia of kidney disease from decreased erythropoietin",
+        "Dialysis amyloidosis from β2-microglobulin deposition",
+        "High-output heart failure from the AV fistula",
+        "Hyperphosphatemia causing vascular calcifications",
+        "Vascular access thrombosis"
       ],
       "answer": 1,
       "explanations": [
-        "Incorrect. Reverse direction.",
-        "Correct. INFECTION RISK by dialysis access: TUNNELED CATHETER >> AV GRAFT > AVF. Catheter-related bloodstream infection rates ~1–2 per 1000 catheter-days; major morbidity (sepsis, endocarditis, vertebral osteomyelitis, mortality). Causative organisms: Staphylococcus aureus and coagulase-negative staphylococci (skin contamination at exit site or hub), gram-negative bacteria. Treatment: empiric vancomycin + gram-negative coverage; tailor to culture; catheter exchange/removal for severe or persistent infection; antibiotic lock therapy for some. Prevention: aseptic technique, chlorhexidine skin prep, antimicrobial-coated catheters. Same infection ranking applies to thrombosis and patency; AVF best on all metrics.",
-        "Incorrect. Differences are large.",
-        "Incorrect. Catheter highest infection.",
-        "Incorrect. AVF lowest."
+        "Incorrect. Anemia is treated with recombinant erythropoietin and does not cause shoulder pain or carpal tunnel.",
+        "Correct. The brick states dialysis amyloidosis occurs in hemodialysis patients on dialysis ≥5 years when β2-microglobulin is not cleared by the dialyzer and deposits in tissues, most commonly causing shoulder pain, carpal tunnel syndrome, cervical pain, and bone cysts.",
+        "Incorrect. High-output heart failure from a fistula presents with dyspnea or peripheral edema, not the joint and bone cyst pattern described.",
+        "Incorrect. Hyperphosphatemia causes hyperparathyroidism and vascular calcifications, not carpal tunnel and bone cysts per the brick.",
+        "Incorrect. Vascular access thrombosis is a complication but does not produce shoulder pain, carpal tunnel, and bone cysts."
       ]
     }
   ]

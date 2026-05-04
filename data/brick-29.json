@@ -4,477 +4,477 @@
   "questions": [
     {
       "id": 1,
-      "stem": "A 30-year-old woman with chronic vomiting has pH 7.50, HCO3− 36, PCO2 45. Which best characterizes the primary acid-base disorder?",
+      "stem": "A 32-year-old man is brought to the emergency department after being found intoxicated; he has vomited eight times en route and complains of dizziness and weakness. After IV fluids and cessation of vomiting, his labs are reviewed. Which set of findings is most consistent with his acid-base disorder?",
       "choices": [
-        "Respiratory alkalosis",
-        "Metabolic alkalosis",
-        "Respiratory acidosis",
-        "Metabolic acidosis",
-        "Mixed disorder only"
+        "High serum pH, high HCO3-, high PaCO2",
+        "High serum pH, high HCO3-, low PaCO2",
+        "High serum pH, low HCO3-, low PaCO2",
+        "Low serum pH, high HCO3-, high PaCO2",
+        "Low serum pH, low HCO3-, low PaCO2"
       ],
-      "answer": 1,
+      "answer": 0,
       "explanations": [
-        "Incorrect. Respiratory alkalosis features LOW PCO2.",
-        "Correct. Primary metabolic alkalosis: high pH, HIGH HCO3− (the primary derangement), and rising PCO2 from compensatory hypoventilation. Expected respiratory compensation: PCO2 rises by ~0.7 mm Hg per 1 mEq/L HCO3− rise. For HCO3− 36 (rise of 12 from 24), expected PCO2 ~32 above normal = ~40 + 8 = 48 (consistent with measured 45).",
-        "Incorrect. Pure respiratory acidosis has low pH.",
-        "Incorrect. Metabolic acidosis has low pH and low HCO3−.",
-        "Incorrect. The compensation is appropriate for pure metabolic alkalosis."
+        "Correct. Metabolic alkalosis is defined by ↑pH and ↑HCO3-, with respiratory compensation producing ↑PaCO2 from hypoventilation.",
+        "Incorrect. A low PaCO2 with high pH and high HCO3- would suggest a mixed disorder with concurrent respiratory alkalosis, not pure metabolic alkalosis.",
+        "Incorrect. A low HCO3- with high pH suggests respiratory alkalosis, not metabolic alkalosis.",
+        "Incorrect. A low pH defines acidosis, not alkalosis.",
+        "Incorrect. Low pH with low HCO3- describes metabolic acidosis."
       ]
     },
     {
       "id": 2,
-      "stem": "A 30-year-old researcher reviews the pathogenesis of metabolic alkalosis. Which best characterizes the two phases (generation and maintenance)?",
+      "stem": "A 55-year-old man with congestive heart failure controlled on metoprolol and furosemide presents with 2 days of generalized weakness and cramps. He last took his medications 1 hour before presentation. He is hypotensive with decreased skin turgor and capillary refill >4 seconds. Serum K+ is 2.8 mEq/L. Which additional set of findings is most likely present?",
       "choices": [
-        "Generation requires HCl gain; maintenance requires volume expansion",
-        "Generation by acid loss; maintenance by impaired HCO3− excretion",
-        "Generation by gut HCO3− loss; maintenance by lung CO2 retention",
-        "Both phases require alkalosis from acidosis",
-        "Generation requires renal failure; maintenance is automatic"
+        "High serum pH, high HCO3-, high PaCO2, high urine Cl-",
+        "High serum pH, high HCO3-, high PaCO2, low urine Cl-",
+        "High serum pH, high HCO3-, low PaCO2, low urine Cl-",
+        "High serum pH, low HCO3-, low PaCO2, low urine Cl-",
+        "Low serum pH, low HCO3-, low PaCO2, low urine Cl-"
       ],
-      "answer": 1,
+      "answer": 0,
       "explanations": [
-        "Incorrect. Generation is acid LOSS (or HCO3− gain), not gain.",
-        "Correct. Metabolic alkalosis has two phases: GENERATION — initial event causing HCO3− to rise (acid loss from vomiting/NG suction; HCO3− gain from administration; renal H+ loss from hyperaldosteronism). MAINTENANCE — failure of the kidney to excrete the excess HCO3−, requiring some combination of volume contraction, hypokalemia, chloride depletion, hyperaldosteronism, or reduced GFR. Without maintenance factors, the kidney would rapidly excrete HCO3− and correct the alkalosis.",
-        "Incorrect. The lung does not principally drive maintenance.",
-        "Incorrect. Both phases work toward alkalosis from acid loss/HCO3− gain.",
-        "Incorrect. Renal failure is one maintenance factor, not strictly required."
+        "Correct. Ongoing diuretic use produces chloride-responsive metabolic alkalosis (↑pH, ↑HCO3-, ↑PaCO2 from compensation), but because the diuretic is still actively wasting NaCl in the urine, urine Cl- is paradoxically >20 mEq/L.",
+        "Incorrect. A low urine Cl- would be expected in vomiting or remote diuretic use, not in a patient who took furosemide an hour before presentation.",
+        "Incorrect. Low PaCO2 indicates a concurrent respiratory alkalosis, not the expected hypoventilatory compensation.",
+        "Incorrect. Low HCO3- describes metabolic acidosis, not alkalosis.",
+        "Incorrect. Low pH defines acidosis."
       ]
     },
     {
       "id": 3,
-      "stem": "A 40-year-old woman with chronic NG suction for severe gastroparesis has metabolic alkalosis. Urine chloride is 8 mEq/L. Which best characterizes this?",
+      "stem": "A 47-year-old woman with recurrent chemotherapy-induced vomiting has labs showing pH 7.51, PaCO2 42 mm Hg, and HCO3- 32 mEq/L. Which intervention is the most appropriate first-line treatment?",
       "choices": [
-        "Chloride-resistant alkalosis from hyperaldosteronism",
-        "Chloride-responsive alkalosis from HCl loss",
-        "Pure respiratory alkalosis",
-        "Diarrhea-induced acidosis",
-        "Bartter syndrome"
+        "Acetazolamide",
+        "Fluid restriction",
+        "Intravenous dilute hydrochloric acid",
+        "Intravenous free water (D5W)",
+        "Intravenous normal saline"
       ],
-      "answer": 1,
+      "answer": 4,
       "explanations": [
-        "Incorrect. Hyperaldosteronism produces high urine Cl− (>20).",
-        "Correct. Urine Cl− <20 (low) indicates chloride depletion as the maintenance factor — this is a CHLORIDE-RESPONSIVE metabolic alkalosis. Common causes: vomiting, NG suction, prior loop/thiazide diuretic (effect persists after drug stopped), post-hypercapnic alkalosis, cystic fibrosis (sweat Cl− loss), villous adenoma. Treatment: replete chloride (isotonic saline) + potassium → kidney can then excrete excess HCO3− and correct alkalosis.",
-        "Incorrect. Respiratory alkalosis features low PCO2 with low HCO3−.",
-        "Incorrect. Diarrhea causes acidosis.",
-        "Incorrect. Bartter has high urine Cl− and presents in childhood with growth failure."
+        "Incorrect. Acetazolamide is not the brick's first-line therapy; normal saline corrects chloride-responsive alkalosis.",
+        "Incorrect. The patient is volume-depleted from vomiting; restricting fluids worsens the disorder.",
+        "Incorrect. The brick states that you do not need to give acid; restoring volume with saline corrects the alkalosis.",
+        "Incorrect. Free water does not provide the chloride needed by pendrin to excrete bicarbonate.",
+        "Correct. Vomiting causes chloride-responsive metabolic alkalosis; normal saline restores extracellular volume and provides Cl- so pendrin can secrete bicarbonate."
       ]
     },
     {
       "id": 4,
-      "stem": "A 50-year-old woman with primary hyperaldosteronism (Conn syndrome) has hypertension, hypokalemia, and metabolic alkalosis. Urine chloride is 45 mEq/L. Which best characterizes this?",
+      "stem": "A 65-year-old man with systolic heart failure is admitted for volume overload and treated with aggressive IV loop diuretics. On hospital day 4 he is weak and lightheaded; labs reveal hypokalemia and metabolic alkalosis. Which is the most likely cause of his metabolic alkalosis?",
       "choices": [
-        "Chloride-responsive alkalosis",
-        "Chloride-resistant alkalosis from hyperaldosteronism",
-        "Pure respiratory alkalosis",
-        "Vomiting-induced alkalosis",
-        "Diarrhea"
+        "Diabetes insipidus",
+        "Loop diuretic therapy",
+        "Renal tubular acidosis",
+        "Spironolactone use",
+        "Type 1 diabetes mellitus"
       ],
       "answer": 1,
       "explanations": [
-        "Incorrect. Cl-responsive has low urine Cl− (<20).",
-        "Correct. Urine Cl− >20 (high) with metabolic alkalosis indicates a maintenance factor that does NOT respond to saline — typically excess mineralocorticoid effect: primary hyperaldosteronism (Conn), Cushing, exogenous mineralocorticoids, Liddle, apparent mineralocorticoid excess, GRA, or severe magnesium/potassium depletion in Bartter/Gitelman. Treatment requires the underlying cause (adrenalectomy for Conn, K+/Mg2+ replacement, MR antagonist).",
-        "Incorrect. Pure respiratory alkalosis has low PCO2.",
-        "Incorrect. Vomiting features low urine Cl−.",
-        "Incorrect. Diarrhea causes acidosis."
+        "Incorrect. Diabetes insipidus causes hypernatremia from free water loss, not metabolic alkalosis.",
+        "Correct. Loop diuretics cause volume depletion that activates RAAS; aldosterone then drives H+ secretion by α-intercalated cells, generating bicarbonate and producing metabolic alkalosis with hypokalemia.",
+        "Incorrect. Renal tubular acidosis causes metabolic acidosis, not alkalosis.",
+        "Incorrect. Spironolactone is a potassium-sparing aldosterone antagonist; it tends to cause hyperkalemia and metabolic acidosis.",
+        "Incorrect. Type 1 diabetes is associated with diabetic ketoacidosis, not metabolic alkalosis."
       ]
     },
     {
       "id": 5,
-      "stem": "A 55-year-old man with chronic furosemide for HF presents with K+ 3.0, HCO3− 32, Cl− 92, and weakness. Which mechanism best explains the alkalosis?",
+      "stem": "A patient with a small bowel obstruction is on continuous nasogastric suction and has developed a persistent metabolic alkalosis despite aggressive volume resuscitation. In addition to volume depletion, which factor is most likely contributing to the maintenance of his alkalosis?",
       "choices": [
-        "Acetazolamide effect",
-        "Volume contraction",
-        "Acute pancreatitis",
-        "Vomiting",
-        "Lactic acidosis"
+        "Decreased proximal sodium reabsorption",
+        "High intravascular volume",
+        "High serum chloride",
+        "Low circulating renin",
+        "Low serum potassium"
       ],
-      "answer": 1,
+      "answer": 4,
       "explanations": [
-        "Incorrect. No acetazolamide use described.",
-        "Correct. Loop diuretics produce metabolic alkalosis through: (1) volume contraction → RAAS activation → aldosterone-driven distal H+ and K+ secretion; (2) chloride depletion (Cl− is excreted with Na+ and water); (3) increased distal Na+ delivery enhancing the K+ and H+ secretion. Result: chloride-responsive alkalosis with hypokalemia. Same mechanism applies to thiazides. Treat with K+ replacement and Cl− repletion (KCl rather than K-bicarbonate).",
-        "Incorrect. Pancreatitis is associated with hypocalcemia.",
-        "Incorrect. No vomiting described.",
-        "Incorrect. Picture is alkalosis, not acidosis."
+        "Incorrect. Volume depletion increases—not decreases—proximal Na+ and HCO3- reabsorption via the Na+/H+ exchanger.",
+        "Incorrect. Volume depletion (low intravascular volume), not high volume, maintains alkalosis.",
+        "Incorrect. NG suction causes Cl- loss; low (not high) chloride disables pendrin and maintains alkalosis.",
+        "Incorrect. Volume depletion activates RAAS, producing high (not low) renin.",
+        "Correct. Per the brick, hypokalemia maintains metabolic alkalosis by causing intracellular H+ shift, upregulating the H+/K+-ATPase, and increasing glutamine metabolism with new HCO3- generation."
       ]
     },
     {
       "id": 6,
-      "stem": "A 65-year-old man with severe COPD on ventilatory support is suddenly extubated and ventilated to normal PCO2 within 2 hours. He develops pH 7.55, HCO3− 36, PCO2 41. Which best explains the post-extubation picture?",
+      "stem": "A medical student is asked to explain why a small alkali load (≈100 mmol HCO3-) can sustain metabolic alkalosis even though the kidney filters >4200 mmol of bicarbonate per day. Which statement best explains the maintenance phase?",
       "choices": [
-        "Acute respiratory alkalosis",
-        "Post-hypercapnic metabolic alkalosis",
-        "Acute lactic acidosis",
-        "Renal failure",
-        "Vomiting alkalosis"
+        "A 2-3% reduction in HCO3- reabsorption is more than the kidney can ever achieve",
+        "Generation occurs only after maintenance has begun",
+        "The lung fully corrects pH so HCO3- accumulates",
+        "Volume depletion and hypokalemia prevent the kidney from excreting the excess HCO3-",
+        "β-intercalated cells secrete HCO3- when stimulated by aldosterone"
       ],
-      "answer": 1,
+      "answer": 3,
       "explanations": [
-        "Incorrect. PCO2 is normal, not low.",
-        "Correct. Post-hypercapnic metabolic alkalosis — chronic respiratory acidosis is renally compensated by increased H+ secretion and HCO3− retention over days. When ventilation is rapidly normalized, PCO2 falls but the elevated HCO3− persists (renal excretion takes time and is impaired by associated volume/chloride depletion). The result is a metabolic alkalosis. Treatment: chloride and K+ repletion; gradual ventilation normalization avoids the problem.",
-        "Incorrect. No hypoperfusion described.",
-        "Incorrect. AKI not described.",
-        "Incorrect. No vomiting history."
+        "Incorrect. The kidney is normally fully capable of dropping HCO3- reabsorption by 2-3%; the issue is that maintenance factors prevent it from doing so.",
+        "Incorrect. Generation of alkalosis precedes—then is sustained by—the maintenance phase.",
+        "Incorrect. Pulmonary compensation is incomplete and never fully corrects pH.",
+        "Correct. Volume depletion (driving RAAS-mediated HCO3- reabsorption and limiting Cl- for pendrin) and hypokalemia (driving H+ secretion and new HCO3- generation) together prevent the kidney from excreting the small bicarbonate excess.",
+        "Incorrect. Aldosterone stimulates H+ secretion in α-intercalated cells, which worsens alkalosis; pendrin in β-intercalated cells is limited by chloride availability, not stimulated by aldosterone."
       ]
     },
     {
       "id": 7,
-      "stem": "A 28-year-old man receives 10 units of packed red cells over 4 hours for hemorrhage. He develops pH 7.50, HCO3− 32. Which best explains the alkalosis?",
+      "stem": "A 40-year-old woman with bulimia presents with hypokalemia and metabolic alkalosis. Which transporter is most directly responsible for the kidney's inability to excrete the retained bicarbonate?",
       "choices": [
-        "Direct acid loss",
-        "Citrate metabolized to bicarbonate",
-        "Hypoventilation from sedation",
-        "Diarrhea",
-        "Vomiting"
+        "ENaC in principal cells",
+        "H+/K+-ATPase in α-intercalated cells",
+        "Na+/H+ exchanger in proximal tubule",
+        "Na+/K+/2Cl- cotransporter in thick ascending limb",
+        "Pendrin (Cl-/HCO3- exchanger) in β-intercalated cells"
       ],
-      "answer": 1,
+      "answer": 4,
       "explanations": [
-        "Incorrect. No acid loss described.",
-        "Correct. Massive transfusion delivers a substantial citrate load (anticoagulant in stored blood). Citrate is metabolized hepatically to BICARBONATE, which can produce metabolic alkalosis especially with rapid transfusion and impaired hepatic clearance. Also: hypocalcemia from citrate-Ca chelation. Less commonly relevant: post-cardiopulmonary bypass, large-volume citrate-containing CRRT.",
-        "Incorrect. PCO2 would be high if hypoventilating chronically.",
-        "Incorrect. Diarrhea causes acidosis.",
-        "Incorrect. No vomiting described."
+        "Incorrect. ENaC drives lumen-negative voltage that promotes H+ secretion and worsens, rather than relieves, alkalosis.",
+        "Incorrect. The H+/K+-ATPase secretes H+ and reabsorbs HCO3-, contributing to maintenance, not excretion.",
+        "Incorrect. The Na+/H+ exchanger reabsorbs HCO3- proximally, also worsening alkalosis.",
+        "Incorrect. The NKCC2 transporter handles NaCl reabsorption and is unrelated to bicarbonate excretion.",
+        "Correct. Pendrin in β-intercalated cells of the collecting duct secretes HCO3- in exchange for luminal Cl-; with low luminal Cl- from volume/Cl- depletion, pendrin cannot function and bicarbonate is retained."
       ]
     },
     {
       "id": 8,
-      "stem": "A 65-year-old woman with osteoporosis takes large doses of calcium carbonate antacid plus vitamin D. She presents with hypercalcemia, mild AKI, and metabolic alkalosis. Which is the most likely diagnosis?",
+      "stem": "A 28-year-old woman with chronic vomiting from cyclic vomiting syndrome is found to have metabolic alkalosis. Which gastric component lost in vomitus is most directly responsible for the generation of her alkalosis?",
       "choices": [
-        "Primary hyperparathyroidism",
-        "Milk-alkali syndrome",
-        "Sarcoidosis",
-        "Paraneoplastic hypercalcemia",
-        "Vitamin D toxicity"
+        "Bicarbonate",
+        "Chloride alone",
+        "Hydrochloric acid (H+ and Cl-)",
+        "Pepsinogen",
+        "Sodium and potassium"
       ],
-      "answer": 1,
+      "answer": 2,
       "explanations": [
-        "Incorrect. Primary HPT has elevated PTH; not principally caused by antacid.",
-        "Correct. Milk-alkali syndrome — large intake of calcium AND alkali (calcium carbonate as antacid or supplement) produces hypercalcemia, metabolic alkalosis, and AKI. Hypercalcemia → calciuria → volume contraction → reduced HCO3− excretion → maintained alkalosis (a self-perpetuating cycle). Treatment: stop calcium and alkali, isotonic saline rehydration, occasionally bisphosphonate. Recently resurgent due to OTC calcium supplementation for osteoporosis.",
-        "Incorrect. Sarcoid has elevated calcitriol with hypercalcemia.",
-        "Incorrect. PTHrP is from malignancy.",
-        "Incorrect. Vit D toxicity has elevated 25-OH D."
+        "Incorrect. Gastric secretions are acidic; bicarbonate is generated by parietal cells and remains in the circulation when acid is lost.",
+        "Incorrect. Loss of Cl- alone (without H+) does not generate alkali; it is the loss of H+ as HCl that leaves behind HCO3-.",
+        "Correct. Gastric HCl is rich in H+ and Cl-; vomiting causes loss of H+ while the HCO3- generated by parietal cells during acid secretion remains in the blood, producing alkalosis.",
+        "Incorrect. Pepsinogen is a proteolytic precursor and does not affect acid-base balance.",
+        "Incorrect. Loss of Na+ and K+ contributes to volume depletion and hypokalemia but is not the direct generator of the alkali load."
       ]
     },
     {
       "id": 9,
-      "stem": "A 30-year-old researcher computes expected respiratory compensation for metabolic alkalosis. Which formula is correct?",
+      "stem": "A 60-year-old woman with hypertension has a serum K+ of 2.9 mEq/L, HCO3- of 34 mEq/L, and a urine Cl- of 45 mEq/L. She has not used diuretics or vomited. Which underlying disorder is most likely?",
       "choices": [
-        "Predicted PCO2 = 1.5 × HCO3− + 8",
-        "PCO2 rises by ~0.7 mm Hg per 1 mEq/L HCO3− rise",
-        "PCO2 falls by 1.2 mm Hg per 1 mEq/L HCO3− drop",
-        "PCO2 unchanged",
-        "PCO2 doubles"
+        "Bartter syndrome",
+        "Gitelman syndrome",
+        "Primary hyperaldosteronism",
+        "Recent vomiting",
+        "Surreptitious furosemide use (last dose 5 days ago)"
       ],
-      "answer": 1,
+      "answer": 2,
       "explanations": [
-        "Incorrect. That formula is for metabolic ACIDOSIS (Winters).",
-        "Correct. In metabolic alkalosis, expected respiratory compensation: PCO2 rises by ~0.7 mm Hg per 1 mEq/L rise in HCO3−. PCO2 rarely exceeds ~55–60 (limited by hypoxia drive). If actual PCO2 is appropriately high → pure metabolic alkalosis. If actual PCO2 is HIGHER → superimposed respiratory acidosis. If LOWER → superimposed respiratory alkalosis (e.g., concurrent sepsis).",
-        "Incorrect. That is a metabolic acidosis change, not alkalosis.",
-        "Incorrect. PCO2 changes with appropriate compensation.",
-        "Incorrect. PCO2 does not double."
+        "Incorrect. Bartter syndrome causes the same labs but presents with hypotension, not hypertension.",
+        "Incorrect. Gitelman syndrome also presents with normal/low blood pressure, not hypertension.",
+        "Correct. The combination of metabolic alkalosis, hypokalemia, hypertension, and urine Cl- >20 mEq/L is the classic chloride-resistant pattern of hyperaldosteronism.",
+        "Incorrect. Recent vomiting would produce a urine Cl- <10 mEq/L (chloride-responsive).",
+        "Incorrect. Remote (5 days prior) diuretic use would have a low urine Cl-, not 45 mEq/L."
       ]
     },
     {
       "id": 10,
-      "stem": "A 45-year-old woman with chronic vomiting has pH 7.55, HCO3− 36, PCO2 50. Which mechanism explains the chloride-responsive maintenance phase?",
-      "choices": [
-        "Direct mineralocorticoid effect",
-        "Volume contraction with HCO3− retention",
-        "Aldosterone deficiency",
-        "Liver failure",
-        "Renal failure alone"
-      ],
-      "answer": 1,
-      "explanations": [
-        "Incorrect. Mineralocorticoid effect would produce chloride-RESISTANT alkalosis.",
-        "Correct. Vomiting-induced alkalosis: HCl loss generates HCO3− (from CO2 + H2O via parietal cells; with H+ secreted into gut and HCO3− into plasma). Maintenance: volume contraction → enhanced proximal Na+ AND HCO3− reabsorption (avid Na+ retention reabsorbs HCO3− with it); chloride depletion (no Cl− to pair with reabsorbed Na+, so HCO3− is reabsorbed instead); secondary hyperaldosteronism enhances distal H+/K+ secretion. Treatment: isotonic saline (provides Cl− and volume) + K+ replacement.",
-        "Incorrect. Aldosterone is INCREASED, not decreased.",
-        "Incorrect. Liver failure is unrelated.",
-        "Incorrect. Renal failure alone is not the principal mechanism."
-      ]
-    },
-    {
-      "id": 11,
-      "stem": "A 60-year-old man with chronic diuretic use has urine Cl− 8 mEq/L and metabolic alkalosis. Which is the most appropriate treatment?",
-      "choices": [
-        "Spironolactone",
-        "Isotonic saline plus K+ replacement",
-        "IV bicarbonate",
-        "ACE inhibitor",
-        "Acetazolamide for diuresis"
-      ],
-      "answer": 1,
-      "explanations": [
-        "Incorrect. Spironolactone is for chloride-RESISTANT alkalosis (hyperaldo).",
-        "Correct. Chloride-responsive alkalosis (low urine Cl−) responds to isotonic saline + K+ replacement. Saline restores ECF volume and supplies Cl−, allowing the kidney to excrete the excess HCO3− and correct the alkalosis. K+ replacement breaks the maintenance phase (hypokalemia drives intracellular acidosis at α-intercalated cells, perpetuating H+ secretion). KCl is preferred over K-bicarbonate (provides both K+ and Cl−).",
-        "Incorrect. IV bicarbonate WORSENS alkalosis.",
-        "Incorrect. ACEi addresses hyperaldosteronism but is not first-line here.",
-        "Incorrect. Acetazolamide is sometimes used for refractory alkalosis but is second-line."
-      ]
-    },
-    {
-      "id": 12,
-      "stem": "A 50-year-old woman with primary hyperaldosteronism has refractory hypokalemia and alkalosis despite saline therapy. Which is the most appropriate treatment?",
-      "choices": [
-        "More saline",
-        "Spironolactone or eplerenone",
-        "Isotonic dextrose",
-        "Acidic HCl IV",
-        "Furosemide"
-      ],
-      "answer": 1,
-      "explanations": [
-        "Incorrect. Saline does not correct chloride-resistant alkalosis.",
-        "Correct. Chloride-resistant metabolic alkalosis from hyperaldosteronism is treated by mineralocorticoid receptor antagonism (spironolactone, eplerenone) — blocks the downstream effect of aldosterone on the collecting duct, reducing K+ and H+ secretion. For Conn syndrome from a unilateral adenoma, definitive treatment is adrenalectomy. Bartter, Gitelman, Liddle, and AME each have specific management strategies.",
-        "Incorrect. Dextrose does not treat alkalosis.",
-        "Incorrect. IV HCl is reserved for very severe refractory cases.",
-        "Incorrect. Furosemide WORSENS alkalosis."
-      ]
-    },
-    {
-      "id": 13,
-      "stem": "A 20-year-old woman has chronic alkalosis with hypokalemia, hypomagnesemia, hypocalciuria, and normal BP. Plasma renin and aldosterone are elevated. Which is the most likely diagnosis?",
+      "stem": "A 22-year-old normotensive woman is found to have hypokalemia, metabolic alkalosis, and a urine chloride of 35 mEq/L. She denies vomiting or laxative/diuretic use. Genetic testing shows a mutation in a transporter of the thick ascending limb of the loop of Henle. Which condition does she have?",
       "choices": [
         "Bartter syndrome",
         "Gitelman syndrome",
         "Liddle syndrome",
-        "Conn syndrome",
-        "AME"
+        "Primary hyperaldosteronism",
+        "17α-hydroxylase deficiency"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Per the brick, Bartter syndrome involves transporters in the thick ascending limb of the loop of Henle, producing physiology similar to chronic loop diuretic use with hypokalemic metabolic alkalosis and normal/low blood pressure.",
+        "Incorrect. Gitelman syndrome is caused by a mutation in the Na+/Cl- cotransporter (NCC) of the distal convoluted tubule, mimicking thiazide use.",
+        "Incorrect. Liddle syndrome is a gain-of-function ENaC defect and presents with hypertension.",
+        "Incorrect. Primary hyperaldosteronism causes hypertension, not normotension.",
+        "Incorrect. 17α-hydroxylase deficiency causes hypertension via mineralocorticoid excess."
+      ]
+    },
+    {
+      "id": 11,
+      "stem": "A 19-year-old normotensive woman has chronic hypokalemic metabolic alkalosis. Genetic testing reveals impaired function of the Na+/Cl- cotransporter (NCC) of the distal convoluted tubule. Which condition does she have?",
+      "choices": [
+        "Bartter syndrome",
+        "Gitelman syndrome",
+        "Liddle syndrome",
+        "11β-hydroxylase deficiency",
+        "17α-hydroxylase deficiency"
       ],
       "answer": 1,
       "explanations": [
-        "Incorrect. Bartter has hypercalciuria and presents earlier.",
-        "Correct. Gitelman syndrome — autosomal recessive NCC loss-of-function. Phenocopies chronic thiazide. Hallmarks: hypokalemic alkalosis, hypomagnesemia, HYPOcalciuria (key distinguisher from Bartter), normal-low BP, elevated renin/aldosterone, presentation in adolescence/young adulthood.",
-        "Incorrect. Liddle has hypertension and suppressed renin/aldosterone.",
-        "Incorrect. Conn has hypertension.",
-        "Incorrect. AME has hypertension."
+        "Incorrect. Bartter syndrome involves the thick ascending limb (NKCC2), mimicking loop diuretics.",
+        "Correct. Per the brick, Gitelman syndrome is caused by impaired NCC in the distal convoluted tubule, producing physiology that mimics thiazide diuretic use.",
+        "Incorrect. Liddle syndrome involves gain-of-function ENaC and causes hypertension.",
+        "Incorrect. 11β-hydroxylase deficiency is a congenital adrenal disorder with hypertension.",
+        "Incorrect. 17α-hydroxylase deficiency causes congenital adrenal hyperplasia with hypertension."
+      ]
+    },
+    {
+      "id": 12,
+      "stem": "A 16-year-old boy with a strong family history of early-onset hypertension has hypokalemia and metabolic alkalosis. Aldosterone and renin levels are both low. Which medication is most likely to correct his disorder?",
+      "choices": [
+        "Acetazolamide",
+        "Amiloride",
+        "Cortisol replacement",
+        "Furosemide",
+        "Spironolactone"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Acetazolamide is a carbonic anhydrase inhibitor and does not target the underlying ENaC defect of Liddle syndrome.",
+        "Correct. Liddle syndrome is caused by a constitutively active ENaC; the brick states that ENaC blockers like amiloride are the treatment.",
+        "Incorrect. Cortisol replacement is used for 17-hydroxylase deficiency, not Liddle syndrome.",
+        "Incorrect. Furosemide would worsen hypokalemia and alkalosis.",
+        "Incorrect. Spironolactone (an aldosterone antagonist) is used for hyperaldosteronism; in Liddle syndrome aldosterone is low and ENaC is constitutively active independent of aldosterone."
+      ]
+    },
+    {
+      "id": 13,
+      "stem": "A 50-year-old woman with hypertension is found to have an adrenal adenoma producing aldosterone. Which medication best addresses her metabolic alkalosis by targeting the underlying mechanism?",
+      "choices": [
+        "Amiloride",
+        "Cortisol",
+        "Hydrochlorothiazide",
+        "Normal saline infusion",
+        "Spironolactone"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. Amiloride blocks ENaC and is the brick's specified therapy for Liddle syndrome, not hyperaldosteronism.",
+        "Incorrect. Cortisol is the brick's specified therapy for 17-hydroxylase deficiency.",
+        "Incorrect. Thiazides cause volume depletion and worsen alkalosis.",
+        "Incorrect. Hyperaldosteronism is chloride-resistant; saline does not correct the disorder.",
+        "Correct. The brick states that aldosterone antagonists (e.g., spironolactone) treat hyperaldosteronism by blocking the inappropriate mineralocorticoid stimulus driving H+ secretion."
       ]
     },
     {
       "id": 14,
-      "stem": "A 28-year-old man with severe alkalosis (pH 7.65) develops tetany, perioral paresthesias, and seizure. Which mechanism best explains the neuromuscular irritability?",
+      "stem": "An infant with congenital adrenal hyperplasia from 17α-hydroxylase deficiency has hypertension, hypokalemia, and metabolic alkalosis. Which therapy directly addresses the underlying hormonal defect per the brick?",
       "choices": [
-        "Increased ionized calcium",
-        "Decreased ionized calcium from albumin binding",
-        "Hyponatremia",
-        "Hyperkalemia",
-        "Direct neurotoxicity of HCO3−"
+        "Amiloride",
+        "Cortisol",
+        "Intravenous saline",
+        "Potassium chloride alone",
+        "Spironolactone"
       ],
       "answer": 1,
       "explanations": [
-        "Incorrect. Ionized calcium is REDUCED in alkalosis.",
-        "Correct. Alkalosis increases binding of Ca2+ to albumin (because albumin is more negatively charged at higher pH), reducing IONIZED (free) Ca2+ even when total Ca2+ is unchanged. Hypocalcemia produces neuromuscular irritability: tetany, Chvostek and Trousseau signs, paresthesias, seizures, laryngospasm. Severe alkalosis can also produce arrhythmias, refractory hypokalemia, and altered mental status.",
-        "Incorrect. Hyponatremia is not the mechanism.",
-        "Incorrect. Alkalosis lowers K+, not raises.",
-        "Incorrect. HCO3− is not directly neurotoxic at therapeutic levels."
+        "Incorrect. Amiloride is reserved for Liddle syndrome.",
+        "Correct. The brick specifies that cortisol is used for 17-hydroxylase deficiency, replacing the deficient glucocorticoid and addressing the hypocortisolism.",
+        "Incorrect. The disorder is chloride-resistant; saline alone will not correct it.",
+        "Incorrect. Potassium repletion is supportive but does not address the deficient enzyme.",
+        "Incorrect. Spironolactone is the brick's specified therapy for hyperaldosteronism, not 17-hydroxylase deficiency."
       ]
     },
     {
       "id": 15,
-      "stem": "A 55-year-old man with severe refractory metabolic alkalosis (pH 7.65, HCO3− 50) on dialysis-dependent renal failure has not responded to saline (cannot tolerate) or KCl. Which acidifying therapy may be considered?",
+      "stem": "A patient with prolonged vomiting has activated her renin-angiotensin-aldosterone system due to volume depletion. By what mechanism does aldosterone most directly contribute to maintenance of her metabolic alkalosis?",
       "choices": [
-        "Furosemide",
-        "Acetazolamide or IV HCl",
-        "Sodium bicarbonate",
-        "Calcium gluconate",
-        "Mannitol"
+        "Blocks the H+/K+-ATPase in α-intercalated cells",
+        "Inhibits the Na+/H+ exchanger in the proximal tubule",
+        "Stimulates ENaC in principal cells, creating lumen negativity that drives H+ secretion by α-intercalated cells",
+        "Stimulates pendrin to secrete more bicarbonate",
+        "Suppresses glutamine metabolism in the proximal tubule"
       ],
-      "answer": 1,
+      "answer": 2,
       "explanations": [
-        "Incorrect. Furosemide WORSENS alkalosis.",
-        "Correct. Severe refractory metabolic alkalosis can be treated with acidifying agents in selected cases. ACETAZOLAMIDE (carbonic anhydrase inhibitor) inhibits proximal HCO3− reabsorption, producing bicarbonaturia — useful in volume-overloaded patients (e.g., HF with diuretic-induced alkalosis). IV HCL (or NH4Cl, arginine HCl) is used for very severe or refractory cases requiring rapid correction; given via central catheter due to vesicant effect. Hemodialysis with low-bicarbonate dialysate corrects in ESRD.",
-        "Incorrect. Bicarbonate worsens alkalosis.",
-        "Incorrect. Calcium addresses neuromuscular symptoms, not the alkalosis itself.",
-        "Incorrect. Mannitol is osmotic; not acidifying."
+        "Incorrect. Aldosterone does not block the H+/K+-ATPase; hypokalemia upregulates it.",
+        "Incorrect. RAAS activation actually stimulates the Na+/H+ exchanger, promoting HCO3- reabsorption.",
+        "Correct. Per the brick, aldosterone activates ENaC in principal cells, producing lumen-negative voltage in the distal nephron that promotes H+ secretion by α-intercalated cells, generating new HCO3-.",
+        "Incorrect. Aldosterone does not stimulate pendrin; in fact pendrin function is impaired by low luminal Cl- in volume depletion.",
+        "Incorrect. Glutamine metabolism is increased (not suppressed) by hypokalemia, generating new bicarbonate."
       ]
     },
     {
       "id": 16,
-      "stem": "A 70-year-old man with HFrEF on chronic furosemide and digoxin develops K+ 2.8 and ventricular arrhythmia. He has metabolic alkalosis. Which best explains the increased digoxin toxicity risk?",
+      "stem": "A 70-year-old man with metabolic alkalosis from vomiting has the following arterial blood gas: pH 7.50, HCO3- 33 mEq/L, PaCO2 28 mm Hg. The unexpectedly low PaCO2 most likely indicates which additional process?",
       "choices": [
-        "Alkalosis directly raises digoxin level",
-        "Hypokalemia (worsened by alkalosis) potentiates digoxin binding",
-        "Furosemide increases digoxin clearance",
-        "Alkalosis reduces digoxin protein binding",
-        "Digoxin causes alkalosis"
+        "Adequate respiratory compensation",
+        "Concurrent metabolic acidosis",
+        "Concurrent respiratory acidosis",
+        "Concurrent respiratory alkalosis",
+        "Excessive renal compensation"
       ],
-      "answer": 1,
+      "answer": 3,
       "explanations": [
-        "Incorrect. Alkalosis does not directly raise digoxin level.",
-        "Correct. Digoxin binds Na+/K+-ATPase competitively with K+. Hypokalemia INCREASES digoxin binding and toxicity at any given level. Alkalosis worsens hypokalemia (cellular shift) and amplifies digoxin toxicity. The combination of chronic loop diuretic + hypokalemia + alkalosis + digoxin is a classic precipitant of arrhythmia. Correct K+ AND Mg2+ together; reduce digoxin if needed.",
-        "Incorrect. Furosemide does not principally clear digoxin.",
-        "Incorrect. Digoxin protein binding is low and not principally pH-dependent.",
-        "Incorrect. Digoxin does not principally cause alkalosis."
+        "Incorrect. Appropriate respiratory compensation in metabolic alkalosis raises PaCO2; a low PaCO2 is not the expected response.",
+        "Incorrect. Metabolic acidosis would lower HCO3-, but this patient has elevated HCO3-.",
+        "Incorrect. Respiratory acidosis would raise PaCO2, not lower it.",
+        "Correct. The brick states that if PaCO2 is decreased or normal in metabolic alkalosis, a mixed disorder with concurrent respiratory alkalosis is suggested.",
+        "Incorrect. The kidneys do not regulate PaCO2 directly."
       ]
     },
     {
       "id": 17,
-      "stem": "A 45-year-old woman with bulimia presents with K+ 2.8, HCO3− 36, urine Cl− 12. She denies vomiting. Which best explains her labs?",
+      "stem": "Why does hypokalemia maintain metabolic alkalosis through changes in glutamine metabolism in the proximal tubule?",
       "choices": [
-        "Conn syndrome",
-        "Surreptitious vomiting",
-        "Diuretic abuse",
-        "Liddle syndrome",
-        "Bartter syndrome"
+        "Glutamine breakdown consumes bicarbonate and generates ammonium",
+        "Glutamine breakdown generates additional bicarbonate and ammonium",
+        "Glutamine inhibits the Na+/H+ exchanger directly",
+        "Glutamine is preferentially excreted as a base",
+        "Hypokalemia inhibits glutamine metabolism, sparing bicarbonate"
       ],
       "answer": 1,
       "explanations": [
-        "Incorrect. Conn has high urine Cl− and hypertension.",
-        "Correct. Surreptitious vomiting — patient denies but the lab pattern is classic: hypokalemic metabolic alkalosis with LOW urine Cl− (HCl is lost in vomitus, kidney retains Cl− to compensate). Distinguished from diuretic abuse (which has variable urine Cl−: high during active diuretic effect, then low between doses) and from Bartter/Gitelman (which have high urine Cl−). Tooth enamel erosion, parotid enlargement, knuckle calluses (Russell sign) support the diagnosis.",
-        "Incorrect. Diuretic abuse during active dosing has HIGH urine Cl−.",
-        "Incorrect. Liddle has hypertension and suppressed renin.",
-        "Incorrect. Bartter has high urine Cl− and presents in childhood."
+        "Incorrect. Glutamine metabolism produces (not consumes) new HCO3-.",
+        "Correct. Per the brick, hypokalemia increases glutamine metabolism, leading to more ammonium (NH4+) production and new HCO3- generation, which maintains the alkalosis.",
+        "Incorrect. Glutamine itself does not directly inhibit the Na+/H+ exchanger.",
+        "Incorrect. Glutamine itself is not excreted as a base; its metabolism produces NH4+ excretion.",
+        "Incorrect. Hypokalemia stimulates—not inhibits—glutamine metabolism."
       ]
     },
     {
       "id": 18,
-      "stem": "A 45-year-old woman with bulimia is being managed for chronic metabolic alkalosis and hypokalemia. Which is the most appropriate treatment?",
+      "stem": "A 45-year-old woman with chronic alcoholism is recovering from severe vomiting. She exhibits decreased skin turgor, prolonged capillary refill, generalized weakness, and hyporeflexia. Which abnormality best explains her hyporeflexia?",
       "choices": [
-        "Spironolactone",
-        "KCl + saline",
-        "ACE inhibitor",
-        "Acetazolamide",
-        "Bicarbonate replacement"
+        "Hypercalcemia",
+        "Hyperchloremia",
+        "Hypernatremia",
+        "Hypokalemia",
+        "Volume overload"
       ],
-      "answer": 1,
+      "answer": 3,
       "explanations": [
-        "Incorrect. Spironolactone is for hyperaldosteronism (chloride-resistant).",
-        "Correct. Chloride-responsive alkalosis from vomiting/bulimia: KCl supplementation and isotonic saline rehydration to replete K+, Cl−, and volume — allows the kidney to excrete the excess HCO3−. Critical adjuncts: behavioral therapy (psychotherapy, CBT, possibly inpatient program for severe cases), nutritional support (with monitoring for refeeding syndrome), and management of comorbid mood/anxiety disorders. Mortality from eating disorders is significant.",
-        "Incorrect. ACEi is not the principal treatment.",
-        "Incorrect. Acetazolamide is reserved for severe refractory cases.",
-        "Incorrect. Bicarbonate worsens alkalosis."
+        "Incorrect. The brick attributes hyporeflexia and weakness to hypokalemia in metabolic alkalosis from vomiting.",
+        "Incorrect. Vomiting causes hypochloremia, not hyperchloremia.",
+        "Incorrect. The brick does not attribute hyporeflexia to hypernatremia.",
+        "Correct. Per the brick, generalized weakness and hyporeflexia in metabolic alkalosis are caused by accompanying hypokalemia, which can also cause arrhythmias if severe.",
+        "Incorrect. Vomiting causes volume depletion, not overload, and the exam findings confirm this."
       ]
     },
     {
       "id": 19,
-      "stem": "A 60-year-old man with mineral excess due to licorice ingestion has hypertension, hypokalemia, and metabolic alkalosis. Renin and aldosterone are LOW. Which best explains the syndrome?",
+      "stem": "A clinician is using a urine chloride test in a patient with metabolic alkalosis to clarify the etiology. Which urine chloride value is most consistent with chloride-responsive metabolic alkalosis caused by remote vomiting?",
       "choices": [
-        "Conn syndrome",
-        "Apparent mineralocorticoid excess",
-        "Bartter syndrome",
-        "Liddle syndrome",
-        "Cushing syndrome"
+        "<10 mEq/L",
+        "10-15 mEq/L",
+        "15-20 mEq/L",
+        "20-30 mEq/L",
+        ">30 mEq/L"
       ],
-      "answer": 1,
+      "answer": 0,
       "explanations": [
-        "Incorrect. Conn has elevated aldosterone.",
-        "Correct. Glycyrrhizic acid in licorice INHIBITS 11β-HSD2 (the enzyme that normally inactivates cortisol to cortisone in the distal nephron). Without 11β-HSD2, cortisol (circulating at 100× the level of aldosterone) activates the mineralocorticoid receptor, producing 'apparent mineralocorticoid excess' — HTN, hypokalemic alkalosis, suppressed renin AND aldosterone. Same mechanism in genetic AME (11β-HSD2 mutation), Cushing syndrome (cortisol overload overwhelms 11β-HSD2), and chewing tobacco. Treatment: stop licorice, spironolactone if needed.",
-        "Incorrect. Bartter has normal-low BP.",
-        "Incorrect. Liddle is genetic ENaC defect.",
-        "Incorrect. Cushing has visible cortisol-excess signs."
+        "Correct. Per the brick, chloride-responsive metabolic alkalosis (e.g., remote vomiting or diuretic use) has urine Cl- <10 mEq/L, indicating that pendrin lacks luminal Cl- to function.",
+        "Incorrect. Values of 10-15 mEq/L are not the brick's defined cutoff for chloride-responsive disease.",
+        "Incorrect. Values of 15-20 mEq/L do not match the <10 mEq/L threshold.",
+        "Incorrect. Urine Cl- >20 mEq/L indicates chloride-resistant alkalosis.",
+        "Incorrect. >30 mEq/L is firmly in the chloride-resistant range (e.g., hyperaldosteronism)."
       ]
     },
     {
       "id": 20,
-      "stem": "A 28-year-old researcher reviews chloride-responsive vs chloride-resistant metabolic alkalosis. Which is the urine Cl− cutoff used?",
+      "stem": "A young woman with hypotension, hypokalemia, and metabolic alkalosis has a urine chloride of 38 mEq/L. She denies vomiting and screening is negative for diuretic use. Which is the most likely diagnosis per the brick's diagnostic algorithm?",
       "choices": [
-        "Urine Cl− >10 = responsive",
-        "Urine Cl− <20 = chloride-RESPONSIVE; >20 = chloride-RESISTANT",
-        "Urine Na+ < 20 = responsive",
-        "Urine osmolality cutoff",
-        "Plasma chloride cutoff"
+        "Bartter or Gitelman syndrome",
+        "Liddle syndrome",
+        "Primary hyperaldosteronism",
+        "Recent vomiting",
+        "11β-hydroxylase deficiency"
       ],
-      "answer": 1,
+      "answer": 0,
       "explanations": [
-        "Incorrect. The cutoff direction is opposite.",
-        "Correct. URINE CHLORIDE is the principal lab to distinguish: <20 mEq/L = chloride-RESPONSIVE alkalosis (Cl− depletion from vomiting, NG suction, prior diuretics, post-hypercapnia, CF); >20 mEq/L = chloride-RESISTANT alkalosis (hyperaldosteronism, Cushing, Liddle, AME, Bartter, Gitelman, severe K+ depletion, exogenous mineralocorticoids). Urine Cl− is preferred over urine Na+ here because volume contraction reabsorbs Na+ avidly, but Cl− excretion follows the prior loss.",
-        "Incorrect. Urine Na+ is less reliable due to volume effects.",
-        "Incorrect. Urine osmolality is not the principal test.",
-        "Incorrect. Plasma chloride is not the principal test for this distinction."
+        "Correct. Per the brick's diagnostic figure, urine Cl- >20 mEq/L with hypotension points to Bartter or Gitelman syndrome.",
+        "Incorrect. Liddle syndrome causes hypertension, not hypotension.",
+        "Incorrect. Primary hyperaldosteronism causes hypertension.",
+        "Incorrect. Recent vomiting would produce a urine Cl- <10 mEq/L.",
+        "Incorrect. 11β-hydroxylase deficiency causes hypertension via mineralocorticoid excess."
       ]
     },
     {
       "id": 21,
-      "stem": "A 55-year-old patient on chronic furosemide and ACE inhibitor for HF has stable mild metabolic alkalosis. Which K+-sparing diuretic best mitigates his alkalosis and hypokalemia?",
+      "stem": "Which statement about respiratory compensation in metabolic alkalosis is most accurate based on the brick?",
       "choices": [
-        "Hydrochlorothiazide",
-        "Acetazolamide alone",
-        "Spironolactone or eplerenone",
-        "Acetylcholinesterase inhibitor",
-        "Mannitol"
+        "Compensation fully normalizes the pH if given enough time",
+        "The respiratory center hyperventilates to compensate",
+        "The respiratory center hypoventilates, raising PaCO2 but never fully correcting pH",
+        "The respiratory center is not involved in compensation",
+        "Compensation occurs primarily through renal HCO3- excretion"
       ],
       "answer": 2,
       "explanations": [
-        "Incorrect. Thiazides worsen alkalosis (same mechanism as loop).",
-        "Incorrect. Acetazolamide acidifies but is rarely first-line.",
-        "Correct. K+-sparing diuretics (spironolactone, eplerenone, amiloride, triamterene) reduce distal K+ and H+ secretion, mitigating loop-induced alkalosis and hypokalemia. Spironolactone has additional mortality benefit in HFrEF. Risk: hyperkalemia, especially with concurrent ACEi. Monitor K+ closely.",
-        "Incorrect. AChE inhibitors are unrelated.",
-        "Incorrect. Mannitol is osmotic; not K+-sparing."
+        "Incorrect. The brick explicitly states that pulmonary compensation never fully corrects the pH.",
+        "Incorrect. Hyperventilation would lower PaCO2 and worsen alkalosis; the body actually hypoventilates.",
+        "Correct. Per the brick, the brain's respiratory center responds to high pH by slowing ventilation and decreasing CO2 excretion, raising PaCO2; this only partially corrects pH.",
+        "Incorrect. The respiratory center is the source of compensation.",
+        "Incorrect. Renal HCO3- handling is primarily what causes/maintains the disorder, not the brick's defined respiratory compensation."
       ]
     },
     {
       "id": 22,
-      "stem": "A 70-year-old woman has gastric outlet obstruction with severe vomiting. Labs: pH 7.55, HCO3− 38, K+ 2.6, Cl− 88. Which is the most appropriate initial treatment?",
+      "stem": "A 35-year-old woman with bulimia presents with metabolic alkalosis. Through which pathway does volume depletion most directly increase proximal tubular bicarbonate reabsorption per the brick?",
       "choices": [
-        "Spironolactone",
-        "IV saline + KCl",
-        "IV bicarbonate",
-        "Loop diuretic",
-        "Magnesium IV"
+        "Activation of pendrin by angiotensin II",
+        "Aldosterone-driven NCC activation in the distal convoluted tubule",
+        "Inhibition of carbonic anhydrase in the proximal tubule",
+        "RAAS activation increasing Na+/H+ exchanger activity in the proximal tubule",
+        "Vasopressin-driven aquaporin insertion in the collecting duct"
       ],
-      "answer": 1,
+      "answer": 3,
       "explanations": [
-        "Incorrect. Spironolactone is for chloride-resistant alkalosis.",
-        "Correct. Vomiting-induced (chloride-responsive) alkalosis: aggressive volume repletion with isotonic saline (provides volume and Cl−) + K+ replacement (KCl preferred over K-bicarbonate). Treat the underlying cause (NG decompression, surgical relief of obstruction). Address concurrent hypomagnesemia. Severe symptomatic alkalosis (pH >7.6) may require acetazolamide or HCl IV.",
-        "Incorrect. Bicarbonate worsens alkalosis.",
-        "Incorrect. Loop worsens alkalosis.",
-        "Incorrect. Mg helpful adjunct but not the primary treatment."
+        "Incorrect. Angiotensin II does not activate pendrin; pendrin function is actually limited by low luminal Cl-.",
+        "Incorrect. NCC is in the distal convoluted tubule, not the proximal tubule.",
+        "Incorrect. Inhibition of carbonic anhydrase would decrease HCO3- reabsorption.",
+        "Correct. The brick states volume depletion activates RAAS, which causes proximal Na+ reabsorption coupled with HCO3- reabsorption via the Na+/H+ exchanger.",
+        "Incorrect. Vasopressin governs water reabsorption, not bicarbonate handling."
       ]
     },
     {
       "id": 23,
-      "stem": "A 45-year-old patient with severe chronic respiratory acidosis from COPD (baseline PCO2 60, HCO3− 36) is intubated and rapidly ventilated to a normal PCO2 of 40. Which acid-base disturbance is most likely to develop?",
+      "stem": "A patient with metabolic alkalosis from vomiting is being treated with normal saline. Which two effects of saline directly correct the alkalosis per the brick?",
       "choices": [
-        "Acute metabolic acidosis",
-        "Post-hypercapnic metabolic alkalosis",
-        "Respiratory acidosis",
-        "Lactic acidosis",
-        "Mixed disorder of acidosis"
+        "Acidifies the blood by infusing H+ and dilutes HCO3-",
+        "Provides Cl- for pendrin and reduces RAAS-mediated proximal HCO3- reabsorption by restoring volume",
+        "Provides bicarbonate to buffer the H+ excess",
+        "Stimulates ENaC and increases K+ secretion",
+        "Suppresses the H+/K+-ATPase in α-intercalated cells via volume expansion"
       ],
       "answer": 1,
       "explanations": [
-        "Incorrect. The risk is alkalosis, not acidosis.",
-        "Correct. Post-hypercapnic metabolic alkalosis — chronic respiratory acidosis is renally compensated by HCO3− retention. When ventilation is rapidly normalized, PCO2 falls but the elevated HCO3− persists (renal excretion is slow and impaired by associated chloride and K+ depletion). The result is unmasked metabolic alkalosis. Strategy: ventilate to baseline PCO2 (not normal), correcting gradually over days. If alkalosis develops, replete Cl− and K+; consider acetazolamide.",
-        "Incorrect. PCO2 is now normal, not high.",
-        "Incorrect. Lactic acidosis is not the principal effect.",
-        "Incorrect. The principal disturbance is alkalosis."
+        "Incorrect. Saline does not contain H+; it does not acidify by direct buffering.",
+        "Correct. Per the brick, saline restores extracellular volume (turning off RAAS-driven proximal HCO3- reabsorption) and supplies the collecting duct with Cl- so pendrin can begin secreting bicarbonate.",
+        "Incorrect. The disorder is bicarbonate excess; adding bicarbonate would worsen it.",
+        "Incorrect. ENaC stimulation would worsen K+ loss and H+ secretion.",
+        "Incorrect. The H+/K+-ATPase is regulated by potassium status, not directly by saline volume expansion."
       ]
     },
     {
       "id": 24,
-      "stem": "A 28-year-old researcher considers when to use IV HCl for severe metabolic alkalosis. Which best characterizes this therapy?",
+      "stem": "A patient with chloride-responsive metabolic alkalosis attributable to ongoing thiazide use has a serum K+ of 2.6 mEq/L. According to the brick, which is the most appropriate next step in management?",
       "choices": [
-        "Standard first-line for any alkalosis",
-        "Severe refractory alkalosis (pH >7.60)",
-        "Outpatient therapy",
-        "Routine for diuretic-induced alkalosis",
-        "Standard during DKA"
+        "Continue the diuretic and add acetazolamide",
+        "Give intravenous dilute hydrochloric acid",
+        "Restrict free water and observe",
+        "Stop the diuretic, give normal saline, and replace potassium",
+        "Switch to furosemide"
       ],
-      "answer": 1,
+      "answer": 3,
       "explanations": [
-        "Incorrect. HCl is rarely used.",
-        "Correct. IV HCl is reserved for SEVERE refractory metabolic alkalosis (pH >7.60) with neurologic or cardiovascular compromise where saline + KCl, acetazolamide, and other measures have failed. Given via CENTRAL venous catheter (vesicant; severe tissue injury if extravasated). Concentrations 100–200 mEq/L; rates ~0.2 mEq/kg/h with frequent ABG monitoring. Alternatives: NH4Cl, arginine HCl, hemodialysis with low-HCO3− bath in renal failure.",
-        "Incorrect. Outpatient HCl is unsafe.",
-        "Incorrect. Diuretic alkalosis usually corrects with saline + KCl.",
-        "Incorrect. DKA is acidosis."
+        "Incorrect. The brick states diuretics should be stopped until volume depletion is corrected.",
+        "Incorrect. The brick explicitly notes that you do not need to give acid—volume restoration alone corrects the alkalosis.",
+        "Incorrect. Free water restriction does not address the chloride or volume deficit.",
+        "Correct. Per the brick, diuretics should be stopped, normal saline given to expand volume, and potassium replaced since these patients are usually hypokalemic.",
+        "Incorrect. Switching to a loop diuretic continues the same volume- and Cl--depletion mechanism that caused the alkalosis."
       ]
     },
     {
       "id": 25,
-      "stem": "A 30-year-old researcher reviews the principal causes of metabolic alkalosis. Which best classifies them?",
+      "stem": "Why does a patient with vomiting-induced volume depletion have impaired bicarbonate excretion through the pendrin transporter?",
       "choices": [
-        "Only vomiting causes alkalosis",
-        "Chloride-responsive vs chloride-resistant",
-        "All alkalosis is renal",
-        "All alkalosis is GI",
-        "Alkalosis has no clinical relevance"
+        "Aldosterone directly inhibits pendrin",
+        "Hypokalemia destroys β-intercalated cells",
+        "Low luminal chloride deprives pendrin of its exchange substrate",
+        "Pendrin is downregulated by low blood pH",
+        "Volume depletion blocks the H+/K+-ATPase"
       ],
-      "answer": 1,
+      "answer": 2,
       "explanations": [
-        "Incorrect. Multiple causes exist.",
-        "Correct. The principal classification of metabolic alkalosis is by URINE CHLORIDE: CHLORIDE-RESPONSIVE (urine Cl− <20) — vomiting, NG suction, prior diuretic use, post-hypercapnic alkalosis, cystic fibrosis sweat losses, villous adenoma, congenital chloridorrhea. CHLORIDE-RESISTANT (urine Cl− >20) — primary or secondary hyperaldosteronism, Cushing syndrome, Liddle, apparent mineralocorticoid excess, GRA, Bartter, Gitelman, severe Mg or K+ depletion, exogenous mineralocorticoids, licorice ingestion. The classification guides treatment: saline + K+ for responsive; address underlying cause and use MR antagonists for resistant.",
-        "Incorrect. Both renal and GI mechanisms exist.",
-        "Incorrect. Same.",
-        "Incorrect. Severe alkalosis is dangerous."
+        "Incorrect. The brick does not describe aldosterone as directly inhibiting pendrin.",
+        "Incorrect. Hypokalemia does not destroy β-intercalated cells.",
+        "Correct. Per the brick, pendrin is the Cl-/HCO3- exchanger of β-intercalated cells; volume/Cl- depletion lowers luminal Cl-, removing the substrate pendrin needs to secrete HCO3-, so the kidney retains bicarbonate.",
+        "Incorrect. The blood pH is high (alkalotic), not low, in metabolic alkalosis.",
+        "Incorrect. Volume depletion does not block the H+/K+-ATPase; hypokalemia actually upregulates it."
       ]
     }
   ]

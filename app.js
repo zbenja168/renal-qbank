@@ -2,10 +2,37 @@
 
 const LETTERS = ["A", "B", "C", "D", "E"];
 const STORAGE_PREFIX = "renalqbank_brick_";
+const MIX_SELECTION_KEY = "renalqbank_mix_selection";
+const QUESTIONS_PER_BRICK = 25;
+const WEEK_1_BRICKS = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21];
+const WEEK_2_BRICKS = [22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39];
 
 /* ============ Storage helpers ============ */
 function storageKey(brickId) {
   return STORAGE_PREFIX + brickId + "_basic";
+}
+
+function mixSessionId(brickIds) {
+  return "mix-" + [...brickIds].sort((a, b) => a - b).join("-");
+}
+
+function loadMixSelection() {
+  try {
+    const raw = localStorage.getItem(MIX_SELECTION_KEY);
+    if (!raw) return [];
+    const parsed = JSON.parse(raw);
+    return Array.isArray(parsed) ? parsed.filter((n) => Number.isInteger(n)) : [];
+  } catch (e) {
+    return [];
+  }
+}
+
+function saveMixSelection(ids) {
+  if (ids.length === 0) {
+    localStorage.removeItem(MIX_SELECTION_KEY);
+  } else {
+    localStorage.setItem(MIX_SELECTION_KEY, JSON.stringify(ids));
+  }
 }
 
 function loadProgress(brickId) {
@@ -13,10 +40,12 @@ function loadProgress(brickId) {
     const raw = localStorage.getItem(storageKey(brickId));
     if (!raw) return { answers: {}, current: 0 };
     const parsed = JSON.parse(raw);
-    return {
+    const out = {
       answers: parsed.answers || {},
       current: typeof parsed.current === "number" ? parsed.current : 0,
     };
+    if (Array.isArray(parsed.order)) out.order = parsed.order;
+    return out;
   } catch (e) {
     return { answers: {}, current: 0 };
   }
@@ -68,43 +97,133 @@ async function renderHome() {
   }
 
   const sorted = [...manifest.bricks].sort((a, b) => a.id - b.id);
-  grid.innerHTML = "";
+  const availableIds = new Set(sorted.filter((b) => b.available !== false).map((b) => b.id));
 
-  for (const brick of sorted) {
-    const total = 25;
-    const progress = loadProgress(brick.id);
-    const stats = progressStats(progress, total);
+  const selection = new Set(loadMixSelection().filter((id) => availableIds.has(id)));
 
-    const card = document.createElement("article");
-    card.className = "brick-card";
-    card.innerHTML = `
-      <div class="brick-card-top">
-        <span class="brick-number">Brick ${brick.id}</span>
-      </div>
-      <h3 class="brick-title">${escapeHtml(brick.title)}</h3>
-    `;
+  function refreshMixBar() {
+    const bar = document.getElementById("mix-bar");
+    const count = document.getElementById("mix-count");
+    const qcount = document.getElementById("mix-q-count");
+    const startBtn = document.getElementById("mix-start");
+    if (!bar) return;
+    const n = selection.size;
+    if (n === 0) {
+      bar.hidden = true;
+    } else {
+      bar.hidden = false;
+      if (count) count.textContent = String(n);
+      if (qcount) qcount.textContent = String(n * QUESTIONS_PER_BRICK);
+      if (startBtn) startBtn.disabled = n < 1;
+    }
+    saveMixSelection([...selection]);
+  }
 
-    const link = document.createElement("a");
-    link.className = "brick-start-btn";
-    link.href = `quiz.html?brick=${brick.id}`;
-    link.innerHTML = `
-      <div class="brick-start-row">
-        <span class="brick-start-label">Start</span>
-        <span class="brick-start-stats">${
-          stats.answered === 0
-            ? "Not started"
-            : stats.answered === total
-            ? `${stats.correct}/${total} · ${stats.percent}%`
-            : `${stats.answered}/${total} · ${stats.percent === null ? "—" : stats.percent + "%"}`
-        }</span>
-      </div>
-      <div class="progress-bar">
-        <div class="progress-bar-fill" style="width:${total ? (stats.answered / total) * 100 : 0}%"></div>
-      </div>
-    `;
-    card.appendChild(link);
+  function setSelected(id, selected, btn, card) {
+    if (selected) selection.add(id);
+    else selection.delete(id);
+    if (btn) {
+      btn.classList.toggle("selected", selected);
+      btn.textContent = selected ? "✓" : "+";
+      btn.setAttribute("aria-pressed", String(selected));
+      btn.setAttribute("aria-label", selected ? "Remove from mixed quiz" : "Add to mixed quiz");
+    }
+    if (card) card.classList.toggle("mix-selected", selected);
+    refreshMixBar();
+  }
 
-    grid.appendChild(card);
+  function renderCards() {
+    grid.innerHTML = "";
+    for (const brick of sorted) {
+      const total = QUESTIONS_PER_BRICK;
+      const progress = loadProgress(brick.id);
+      const stats = progressStats(progress, total);
+      const isSelected = selection.has(brick.id);
+
+      const card = document.createElement("article");
+      card.className = "brick-card" + (isSelected ? " mix-selected" : "");
+
+      const top = document.createElement("div");
+      top.className = "brick-card-top";
+
+      const num = document.createElement("span");
+      num.className = "brick-number";
+      num.textContent = `Brick ${brick.id}`;
+      top.appendChild(num);
+
+      const checkbox = document.createElement("button");
+      checkbox.type = "button";
+      checkbox.className = "mix-select" + (isSelected ? " selected" : "");
+      checkbox.textContent = isSelected ? "✓" : "+";
+      checkbox.setAttribute("aria-pressed", String(isSelected));
+      checkbox.setAttribute("aria-label", isSelected ? "Remove from mixed quiz" : "Add to mixed quiz");
+      checkbox.title = "Add to mixed quiz";
+      checkbox.addEventListener("click", (e) => {
+        e.preventDefault();
+        e.stopPropagation();
+        setSelected(brick.id, !selection.has(brick.id), checkbox, card);
+      });
+      top.appendChild(checkbox);
+      card.appendChild(top);
+
+      const title = document.createElement("h3");
+      title.className = "brick-title";
+      title.textContent = brick.title;
+      card.appendChild(title);
+
+      const link = document.createElement("a");
+      link.className = "brick-start-btn";
+      link.href = `quiz.html?brick=${brick.id}`;
+      link.innerHTML = `
+        <div class="brick-start-row">
+          <span class="brick-start-label">Start</span>
+          <span class="brick-start-stats">${
+            stats.answered === 0
+              ? "Not started"
+              : stats.answered === total
+              ? `${stats.correct}/${total} · ${stats.percent}%`
+              : `${stats.answered}/${total} · ${stats.percent === null ? "—" : stats.percent + "%"}`
+          }</span>
+        </div>
+        <div class="progress-bar">
+          <div class="progress-bar-fill" style="width:${total ? (stats.answered / total) * 100 : 0}%"></div>
+        </div>
+      `;
+      card.appendChild(link);
+
+      grid.appendChild(card);
+    }
+  }
+
+  renderCards();
+  refreshMixBar();
+
+  function selectIds(ids) {
+    selection.clear();
+    ids.filter((id) => availableIds.has(id)).forEach((id) => selection.add(id));
+    renderCards();
+    refreshMixBar();
+  }
+
+  const wireBulk = (id, ids) => {
+    const btn = document.getElementById(id);
+    if (btn) btn.addEventListener("click", () => selectIds(ids));
+  };
+  wireBulk("select-week-1", WEEK_1_BRICKS);
+  wireBulk("select-week-2", WEEK_2_BRICKS);
+  wireBulk("select-all", [...availableIds]);
+  wireBulk("select-clear", []);
+
+  const mixClearBtn = document.getElementById("mix-clear");
+  if (mixClearBtn) mixClearBtn.addEventListener("click", () => selectIds([]));
+
+  const mixStartBtn = document.getElementById("mix-start");
+  if (mixStartBtn) {
+    mixStartBtn.addEventListener("click", () => {
+      if (selection.size === 0) return;
+      const ids = [...selection].sort((a, b) => a - b).join(",");
+      window.location.href = `quiz.html?bricks=${ids}`;
+    });
   }
 
   const resetBtn = document.getElementById("reset-all");
@@ -112,37 +231,115 @@ async function renderHome() {
     resetBtn.addEventListener("click", () => {
       if (confirm("Reset progress for all bricks?")) {
         clearAllProgress();
-        renderHome();
+        renderCards();
       }
     });
   }
 }
 
 /* ============ Quiz page ============ */
+function shuffleInPlace(arr) {
+  for (let i = arr.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [arr[i], arr[j]] = [arr[j], arr[i]];
+  }
+  return arr;
+}
+
+async function loadBrickJson(id) {
+  const res = await fetch(brickFilePath(id), { cache: "no-store" });
+  if (!res.ok) throw new Error(`Failed to load brick ${id}`);
+  return res.json();
+}
+
+async function buildMixedBrick(brickIds) {
+  const bricks = await Promise.all(brickIds.map(loadBrickJson));
+  const sessionId = mixSessionId(brickIds);
+  const stored = loadProgress(sessionId);
+
+  const allQuestions = [];
+  for (const b of bricks) {
+    for (const q of b.questions) {
+      allQuestions.push({
+        ...q,
+        id: `${b.id}-${q.id}`,
+        sourceBrickId: b.id,
+        sourceBrickTitle: b.title,
+      });
+    }
+  }
+
+  let order;
+  if (stored.order && Array.isArray(stored.order) && stored.order.length === allQuestions.length) {
+    order = stored.order;
+  } else {
+    order = shuffleInPlace(allQuestions.map((_, i) => i));
+    saveProgress(sessionId, { ...stored, order });
+  }
+
+  const byId = new Map(allQuestions.map((q) => [q.id, q]));
+  const questions = order
+    .map((i) => allQuestions[i])
+    .filter(Boolean);
+
+  // Drop any answers for questions that no longer exist (defensive)
+  if (stored.answers) {
+    for (const k of Object.keys(stored.answers)) {
+      if (!byId.has(k)) delete stored.answers[k];
+    }
+  }
+
+  return {
+    id: sessionId,
+    title: `Mixed quiz · ${brickIds.length} bricks`,
+    brickIds,
+    bricks,
+    questions,
+    isMixed: true,
+  };
+}
+
 async function renderQuiz() {
   const params = new URLSearchParams(window.location.search);
-  const brickId = parseInt(params.get("brick"), 10);
   const titleEl = document.getElementById("brick-title");
   const counterEl = document.getElementById("question-counter");
   const area = document.getElementById("question-area");
   const paletteEl = document.getElementById("palette");
 
-  if (!brickId || isNaN(brickId)) {
-    area.innerHTML = '<div class="notice">No brick selected. <a href="index.html">Back to bricks</a>.</div>';
-    return;
-  }
+  const brickId = parseInt(params.get("brick"), 10);
+  const bricksParam = params.get("bricks");
 
   let brick;
-  try {
-    const res = await fetch(brickFilePath(brickId), { cache: "no-store" });
-    if (!res.ok) throw new Error("missing");
-    brick = await res.json();
-  } catch (e) {
-    area.innerHTML = '<div class="notice">This brick is not available. <a href="index.html">Back to bricks</a>.</div>';
-    return;
+  if (bricksParam) {
+    const ids = bricksParam
+      .split(",")
+      .map((s) => parseInt(s, 10))
+      .filter((n) => Number.isInteger(n) && n > 0);
+    if (ids.length === 0) {
+      area.innerHTML = '<div class="notice">No bricks selected. <a href="index.html">Back to bricks</a>.</div>';
+      return;
+    }
+    try {
+      brick = await buildMixedBrick(ids);
+    } catch (e) {
+      area.innerHTML = '<div class="notice">Failed to load one or more bricks. <a href="index.html">Back to bricks</a>.</div>';
+      return;
+    }
+    titleEl.textContent = brick.title;
+    document.title = `Renal QBank — Mixed (${ids.length})`;
+  } else {
+    if (!brickId || isNaN(brickId)) {
+      area.innerHTML = '<div class="notice">No brick selected. <a href="index.html">Back to bricks</a>.</div>';
+      return;
+    }
+    try {
+      brick = await loadBrickJson(brickId);
+    } catch (e) {
+      area.innerHTML = '<div class="notice">This brick is not available. <a href="index.html">Back to bricks</a>.</div>';
+      return;
+    }
+    titleEl.textContent = `Brick ${brick.id}: ${brick.title}`;
   }
-
-  titleEl.textContent = `Brick ${brick.id}: ${brick.title}`;
 
   const state = {
     brick,
@@ -206,15 +403,20 @@ async function renderQuiz() {
   const resetBtn = document.getElementById("reset-brick");
   if (resetBtn) {
     resetBtn.addEventListener("click", () => {
-      if (confirm("Reset progress for this brick?")) {
+      const label = brick.isMixed ? "this mixed quiz (questions will be reshuffled)" : "this brick";
+      if (confirm("Reset progress for " + label + "?")) {
         clearProgress(brick.id);
-        state.progress = { answers: {}, current: 0 };
-        state.lastRenderedId = null;
-        commit();
-        updateCounter(state, counterEl);
-        renderPalette(state, paletteEl, jumpTo);
-        updateScoreBadge(state, false);
-        renderQuestion();
+        if (brick.isMixed) {
+          location.reload();
+        } else {
+          state.progress = { answers: {}, current: 0 };
+          state.lastRenderedId = null;
+          commit();
+          updateCounter(state, counterEl);
+          renderPalette(state, paletteEl, jumpTo);
+          updateScoreBadge(state, false);
+          renderQuestion();
+        }
       }
     });
   }
@@ -393,10 +595,24 @@ function drawQuestion(state, q, area, advance, jumpTo, paletteEl, counterEl, isN
       row.className = "feedback-row";
       if (!animate) row.style.animation = "none";
 
+      const fbGroup = document.createElement("div");
+      fbGroup.style.display = "flex";
+      fbGroup.style.alignItems = "center";
+      fbGroup.style.gap = "10px";
+      fbGroup.style.flexWrap = "wrap";
+
       const fb = document.createElement("div");
       fb.className = "feedback-text " + (selectedIdx === q.answer ? "correct" : "incorrect");
       fb.textContent = selectedIdx === q.answer ? "Correct" : "Incorrect";
-      row.appendChild(fb);
+      fbGroup.appendChild(fb);
+
+      if (state.brick.isMixed && q.sourceBrickId) {
+        const tag = document.createElement("span");
+        tag.className = "source-tag";
+        tag.innerHTML = `<span class="source-tag-brick">Brick ${q.sourceBrickId}</span> · ${escapeHtml(q.sourceBrickTitle || "")}`;
+        fbGroup.appendChild(tag);
+      }
+      row.appendChild(fbGroup);
 
       const isLast = state.progress.current === state.brick.questions.length - 1;
       const allDone = state.brick.questions.every((qq) => qq.id in state.progress.answers);
@@ -496,10 +712,24 @@ function drawQuestion(state, q, area, advance, jumpTo, paletteEl, counterEl, isN
     row.className = "feedback-row";
     if (!animate) row.style.animation = "none";
 
+    const fbGroup = document.createElement("div");
+    fbGroup.style.display = "flex";
+    fbGroup.style.alignItems = "center";
+    fbGroup.style.gap = "10px";
+    fbGroup.style.flexWrap = "wrap";
+
     const fb = document.createElement("div");
     fb.className = "feedback-text " + (isCorrect ? "correct" : "incorrect");
     fb.textContent = isCorrect ? "Correct" : "Incorrect";
-    row.appendChild(fb);
+    fbGroup.appendChild(fb);
+
+    if (state.brick.isMixed && q.sourceBrickId) {
+      const tag = document.createElement("span");
+      tag.className = "source-tag";
+      tag.innerHTML = `<span class="source-tag-brick">Brick ${q.sourceBrickId}</span> · ${escapeHtml(q.sourceBrickTitle || "")}`;
+      fbGroup.appendChild(tag);
+    }
+    row.appendChild(fbGroup);
 
     const isLast = state.progress.current === state.brick.questions.length - 1;
     const allDone = state.brick.questions.every((qq) => qq.id in state.progress.answers);

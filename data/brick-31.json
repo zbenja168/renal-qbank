@@ -4,477 +4,477 @@
   "questions": [
     {
       "id": 1,
-      "stem": "A 22-year-old woman presents with light-headedness, perioral paresthesias, and carpopedal spasm during a panic attack. ABG: pH 7.55, PCO2 22, HCO3− 22. Which best characterizes the primary acid-base disorder?",
+      "stem": "A 27-year-old man presents to the emergency department with sudden shortness of breath, palpitations, and dizziness immediately after a stressful work meeting. He is anxious with a respiratory rate of 32 breaths/min and oxygen saturation of 99% on room air. An arterial blood gas is most likely to show which pattern?",
       "choices": [
-        "Acute respiratory acidosis",
-        "Acute respiratory alkalosis",
-        "Chronic respiratory alkalosis",
-        "Metabolic alkalosis",
-        "Metabolic acidosis"
+        "↑ pH, ↑ PaCO2, ↑ HCO3-",
+        "↑ pH, ↓ PaCO2, normal or ↓ HCO3-",
+        "↓ pH, ↑ PaCO2, ↑ HCO3-",
+        "↓ pH, ↓ PaCO2, ↓ HCO3-",
+        "Normal pH, ↓ PaCO2, ↓ HCO3-"
       ],
       "answer": 1,
       "explanations": [
-        "Incorrect. Respiratory acidosis has high PCO2 and low pH.",
-        "Correct. Acute respiratory alkalosis: high pH, low PCO2 (primary), with HCO3− falling slightly (~2 mEq/L per 10 mm Hg PCO2 fall in acute). For PCO2 22 (drop of 18), expected HCO3− drop ~3.6 (from 24 to 20.4) — appropriate. Symptoms (paresthesias, tetany) reflect reduced ionized calcium from increased albumin binding in alkaline pH.",
-        "Incorrect. Chronic compensation produces a larger HCO3− drop (~5 per 10).",
-        "Incorrect. Metabolic alkalosis has high pH and HIGH HCO3−.",
-        "Incorrect. Metabolic acidosis has low pH."
+        "Incorrect. Elevated PaCO2 with elevated pH does not occur; ↑ PaCO2 lowers pH (respiratory acidosis).",
+        "Correct. Respiratory alkalosis from hyperventilation (here likely panic) shows ↑ pH and ↓ PaCO2; bicarbonate is normal acutely and ↓ only after renal compensation.",
+        "Incorrect. This is the pattern of respiratory acidosis, the opposite of what hyperventilation produces.",
+        "Incorrect. ↓ pH with ↓ PaCO2 and ↓ HCO3- describes a metabolic acidosis with respiratory compensation, not primary respiratory alkalosis.",
+        "Incorrect. In respiratory alkalosis the pH is elevated, not normal; bicarbonate falls only with chronicity."
       ]
     },
     {
       "id": 2,
-      "stem": "A 30-year-old researcher applies the compensation rules for respiratory alkalosis. Which is correct?",
+      "stem": "A 24-year-old woman with a panic attack hyperventilates and develops tingling around her mouth and in her fingers. Which mechanism best explains her paresthesias?",
       "choices": [
-        "Acute: -2 HCO3−/10 PCO2; Chronic: -5/10",
-        "Acute: HCO3− rises by 1 per 10 mmHg",
-        "Acute and chronic compensation are identical",
-        "Chronic: HCO3− unchanged",
-        "Compensation is unpredictable"
+        "Cerebral vasodilation from hypocapnia",
+        "Direct neurotoxic effect of low PaCO2",
+        "Increased binding of calcium to albumin, lowering ionized calcium",
+        "Release of intracellular potassium with neuromuscular depression",
+        "Shift of bicarbonate into neurons, hyperpolarizing membranes"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanations": [
-        "Correct. Respiratory alkalosis compensation: ACUTE — HCO3− falls by ~2 mEq/L per 10 mm Hg PCO2 drop (intracellular and ECF buffering only). CHRONIC (>3–5 days) — renal compensation reduces NH4+ excretion and increases HCO3− loss; HCO3− falls by ~5 mEq/L per 10 mm Hg PCO2 drop. The chronic compensation results in pH closer to normal and is well-tolerated.",
-        "Incorrect. HCO3− falls (compensation) in respiratory alkalosis, not rises.",
-        "Incorrect. They differ.",
-        "Incorrect. Chronic compensation produces measurable HCO3− drop.",
-        "Incorrect. Predictable formulas exist."
+        "Incorrect. Alkalemia causes cerebral vasoconstriction (which contributes to dizziness/light-headedness), not vasodilation.",
+        "Incorrect. The brick attributes paresthesias to a calcium shift, not direct CO2 toxicity.",
+        "Correct. Alkalemia shifts calcium from its ionized form to the albumin-bound form, lowering ionized calcium and increasing neuromuscular excitability (paresthesias).",
+        "Incorrect. The brick attributes paresthesias to ionized calcium changes, not potassium shifts.",
+        "Incorrect. Bicarbonate shifts into neurons are not the explanation given in the brick for paresthesias."
       ]
     },
     {
       "id": 3,
-      "stem": "A 25-year-old man with anxiety has a panic attack with hyperventilation. He reports tingling around his mouth and finger spasms. Which mechanism best explains the symptoms?",
+      "stem": "A 32-year-old climber acutely ascends to 4,500 meters and develops tachypnea. Which mechanism most directly drives her hyperventilation?",
       "choices": [
-        "Direct CO2 toxicity",
-        "Reduced ionized calcium",
-        "Hypokalemia",
-        "Hyponatremia",
-        "Hypoglycemia"
+        "Central chemoreceptor sensing of low cerebrospinal fluid pH",
+        "Direct stimulation of pulmonary stretch receptors by thin air",
+        "Hypothalamic thermogenic response to cold air",
+        "Peripheral chemoreceptors in the carotid and aortic bodies sensing low PaO2",
+        "Vagal J-receptor activation by interstitial edema"
       ],
-      "answer": 1,
+      "answer": 3,
       "explanations": [
-        "Incorrect. Low CO2 itself is not directly neurotoxic; the symptoms are calcium-mediated.",
-        "Correct. Alkalosis raises plasma pH, which increases binding of Ca2+ to albumin (more negatively charged at higher pH). IONIZED Ca2+ falls (total may be unchanged), producing tetany, perioral paresthesias, carpopedal spasm, Trousseau sign, and (rarely) seizures. Other features: cerebral vasoconstriction (with light-headedness and syncope), shifted oxyhemoglobin curve to the LEFT (impaired O2 delivery).",
-        "Incorrect. Hypokalemia from cellular shift contributes but is not the principal driver of the symptoms.",
-        "Incorrect. Sodium is not principally affected.",
-        "Incorrect. Hypoglycemia is a separate phenomenon."
+        "Incorrect. Central chemoreceptors respond primarily to PaCO2/pH changes, not directly to hypoxemia.",
+        "Incorrect. Stretch receptors mediate the Hering-Breuer reflex, not the hypoxic ventilatory drive.",
+        "Incorrect. Thermogenesis is not the brick's described mechanism for high-altitude hyperventilation.",
+        "Correct. Low PaO2 from low atmospheric pressure is sensed by peripheral chemoreceptors in the carotid and aortic bodies, which signal the brain to ↑ rate and tidal volume, increasing minute ventilation.",
+        "Incorrect. J-receptors are activated by pulmonary congestion/edema, not by altitude-related hypoxia per the brick."
       ]
     },
     {
       "id": 4,
-      "stem": "A 28-year-old climber rapidly ascends to 4,500 meters. After 24 hours he has pH 7.50, PCO2 28, HCO3− 22 with mild headache. Which best explains the acid-base disorder?",
+      "stem": "A 28-year-old woman in her second trimester of pregnancy is found to have a chronically low PaCO2 and slightly elevated pH on routine labs. The hormonal change most directly responsible is best characterized as:",
       "choices": [
-        "Sea-level normal",
-        "Acute respiratory alkalosis from hypoxia-driven hyperventilation",
-        "Metabolic acidosis",
-        "Metabolic alkalosis",
-        "Pure chronic respiratory alkalosis"
+        "Decreased estrogen causing alveolar hypoventilation",
+        "Decreased thyroid hormone causing reduced metabolic demand",
+        "Elevated cortisol causing direct stimulation of the medullary respiratory center",
+        "Elevated progesterone causing bronchodilation and increased tidal volume",
+        "Elevated hCG causing peripheral chemoreceptor sensitization"
       ],
-      "answer": 1,
+      "answer": 3,
       "explanations": [
-        "Incorrect. Values are not at sea-level baseline.",
-        "Correct. High-altitude hyperventilation: low atmospheric PO2 → hypoxic ventilatory drive (peripheral chemoreceptors at carotid body, aortic arch) → hyperventilation → respiratory alkalosis. Acute phase symptoms (acute mountain sickness) include headache, nausea, dizziness, insomnia. Treatment / prevention: gradual ascent, ACETAZOLAMIDE (induces metabolic acidosis to offset alkalosis and stimulate further ventilation, blunting AMS symptoms), supplemental oxygen for severe cases.",
-        "Incorrect. PCO2 is low, not normal.",
-        "Incorrect. HCO3− is not high.",
-        "Incorrect. Chronic compensation would produce greater HCO3− drop (~14 instead of 22 from baseline 24)."
+        "Incorrect. Estrogen is not implicated in the brick as the cause of pregnancy hyperventilation.",
+        "Incorrect. Pregnancy is not characterized by reduced thyroid activity in this brick.",
+        "Incorrect. The brick attributes pregnancy-related hyperventilation to progesterone, not cortisol.",
+        "Correct. Per the brick, increased progestins of pregnancy cause bronchodilation and increased tidal volume, producing chronic respiratory alkalosis.",
+        "Incorrect. The brick lists progesterone, not hCG, as the responsible hormone."
       ]
     },
     {
       "id": 5,
-      "stem": "A 75-year-old woman with progressive shortness of breath has tachycardia, tachypnea, and pleuritic chest pain. ABG: pH 7.50, PCO2 26, PaO2 60. CT pulmonary angiogram is ordered. Which is the most likely diagnosis?",
+      "stem": "A 45-year-old man is brought in 2 hours after ingesting a large quantity of aspirin. His arterial blood gas shows pH 7.49, PaCO2 25 mmHg, HCO3- 22 mEq/L. Which acid-base disturbance is most likely present at this time?",
       "choices": [
-        "Asthma exacerbation",
-        "Pulmonary embolism",
-        "Pulmonary edema",
-        "Pneumothorax",
-        "Anxiety attack"
+        "Isolated metabolic acidosis",
+        "Isolated metabolic alkalosis",
+        "Isolated respiratory alkalosis",
+        "Mixed respiratory acidosis and metabolic alkalosis",
+        "Mixed respiratory alkalosis and metabolic acidosis"
       ],
-      "answer": 1,
+      "answer": 2,
       "explanations": [
-        "Incorrect. Asthma typically has wheezing.",
-        "Correct. Pulmonary embolism — acute hypoxemia + tachycardia + tachypnea + pleuritic chest pain → acute respiratory alkalosis from hypoxic hyperventilation. PE is a classic cause of unexplained hypoxia with respiratory alkalosis (V/Q mismatch). Confirm with CT-PA or V/Q scan; treat with anticoagulation; thrombectomy or thrombolytics for massive/submassive PE with hemodynamic compromise.",
-        "Incorrect. Pulmonary edema typically presents with crackles and frothy sputum.",
-        "Incorrect. Pneumothorax has unilateral findings on exam.",
-        "Incorrect. Anxiety would have intact PaO2."
+        "Incorrect. The pH is alkalotic and PaCO2 is low, which excludes a primary metabolic acidosis as the only disturbance.",
+        "Incorrect. Metabolic alkalosis would have ↑ HCO3- and ↑ PaCO2, not these findings.",
+        "Correct. Per the brick, aspirin overdose typically causes an isolated respiratory alkalosis in early stages from direct respiratory center stimulation.",
+        "Incorrect. PaCO2 is decreased, not increased, ruling out a respiratory acidosis component.",
+        "Incorrect. The mixed respiratory alkalosis-metabolic acidosis (from lactic acid) develops later, not in the early stage."
       ]
     },
     {
       "id": 6,
-      "stem": "A 28-year-old woman in her third trimester of pregnancy has pH 7.46, PCO2 30, HCO3− 21. She is otherwise healthy. Which best explains the acid-base disorder?",
+      "stem": "A 58-year-old woman presents with progressive dyspnea, leg swelling, and orthopnea. Examination reveals crackles, JVD, and 3+ pitting edema. ABG: pH 7.55, PaCO2 25 mmHg, HCO3- 21 mEq/L, PaO2 70 mmHg, SaO2 85%. Which is the most likely cause of her respiratory alkalosis?",
       "choices": [
-        "Pure metabolic acidosis",
-        "Physiologic respiratory alkalosis of pregnancy",
-        "Chronic respiratory acidosis",
-        "Mixed disorder",
-        "Pseudo-alkalosis"
-      ],
-      "answer": 1,
-      "explanations": [
-        "Incorrect. The pH is high.",
-        "Correct. Pregnancy is associated with chronic mild respiratory alkalosis driven by progesterone (stimulates the medullary respiratory center). Tidal volume increases ~30–40%, producing PCO2 ~28–32 throughout pregnancy. Renal compensation lowers HCO3− to ~18–22. Considered physiologic and asymptomatic. Other physiologic adaptations: dilutional anemia, increased GFR, lowered ADH set-point.",
-        "Incorrect. PCO2 is low.",
-        "Incorrect. The picture is consistent with pregnancy physiology.",
-        "Incorrect. The values are real."
-      ]
-    },
-    {
-      "id": 7,
-      "stem": "A 50-year-old man with sepsis has pH 7.50, PCO2 28, HCO3− 21, lactate 4.0. Which best characterizes the early sepsis acid-base picture?",
-      "choices": [
-        "Pure respiratory alkalosis",
-        "Pure metabolic acidosis",
-        "Resp alkalosis + lactic acidosis",
-        "Metabolic alkalosis",
-        "Normal"
-      ],
-      "answer": 2,
-      "explanations": [
-        "Incorrect. Lactate is elevated; acidosis is also present.",
-        "Incorrect. PCO2 is too low for pure metabolic acidosis (Winters formula expected PCO2 ~40 for HCO3− 21).",
-        "Correct. Early sepsis: respiratory alkalosis from cytokine-driven and direct-CNS-mediated hyperventilation often DOMINATES initially; lactic acidosis from tissue hypoperfusion may be modest at this stage. As sepsis worsens, lactate rises and metabolic acidosis becomes dominant. Mixed disorders are common in critically ill patients.",
-        "Incorrect. HCO3− is not high.",
-        "Incorrect. Lactate is elevated."
-      ]
-    },
-    {
-      "id": 8,
-      "stem": "A 45-year-old woman with chronic salicylate ingestion has tinnitus, hyperventilation, pH 7.45, PCO2 25, HCO3− 17, anion gap 22. Which best characterizes the acid-base picture?",
-      "choices": [
-        "Pure metabolic acidosis",
-        "Pure respiratory alkalosis",
-        "Mixed acidosis + alkalosis",
-        "Metabolic alkalosis",
-        "Pure respiratory acidosis"
-      ],
-      "answer": 2,
-      "explanations": [
-        "Incorrect. PCO2 is too low for pure metabolic acidosis.",
-        "Incorrect. Anion gap is elevated (22), indicating metabolic acidosis component.",
-        "Correct. Salicylate poisoning produces a CLASSIC mixed disorder: high-anion-gap metabolic acidosis (salicylate + lactate from uncoupled oxidative phosphorylation) PLUS direct respiratory center stimulation (primary respiratory alkalosis). The pH may be near-normal due to opposing disorders, but each component is identifiable: low HCO3−, high AG, AND inappropriately low PCO2. Treatment: urinary alkalinization with bicarbonate (ion-trapping increases excretion); hemodialysis for severe.",
-        "Incorrect. HCO3− is low.",
-        "Incorrect. PCO2 is low."
-      ]
-    },
-    {
-      "id": 9,
-      "stem": "A 40-year-old man with cirrhosis and ascites has pH 7.48, PCO2 28, HCO3− 20. He has no acute illness. Which best explains his acid-base disorder?",
-      "choices": [
-        "Acute pulmonary embolism",
-        "Cirrhosis-related respiratory alkalosis",
-        "Metabolic acidosis",
-        "Metabolic alkalosis",
-        "Lactic acidosis"
-      ],
-      "answer": 1,
-      "explanations": [
-        "Incorrect. No acute features described.",
-        "Correct. Chronic liver failure (cirrhosis) is associated with respiratory alkalosis from hyperventilation. Mechanisms include accumulation of ammonia and other toxins acting on respiratory center, hypoxia from intrapulmonary shunting (hepatopulmonary syndrome) or ascites mechanically restricting diaphragm, and progesterone elevation. Renal compensation lowers HCO3−. Common asymptomatic finding.",
-        "Incorrect. HCO3− is not low enough for typical metabolic acidosis.",
-        "Incorrect. HCO3− is not high.",
-        "Incorrect. Lactate would be expected if lactic acidosis."
-      ]
-    },
-    {
-      "id": 10,
-      "stem": "A 60-year-old woman with hyperthyroidism (TSH suppressed, T4 high) has pH 7.48, PCO2 30, HCO3− 22, tachycardia, and weight loss. Which best characterizes the acid-base disorder?",
-      "choices": [
-        "Acute lactic acidosis",
-        "Respiratory alkalosis from hyperthyroidism",
-        "Metabolic alkalosis",
-        "Diabetic ketoacidosis",
-        "Metabolic acidosis"
-      ],
-      "answer": 1,
-      "explanations": [
-        "Incorrect. Lactate would be elevated.",
-        "Correct. Hyperthyroidism increases minute ventilation through direct central effects of thyroid hormone (and increased metabolic rate); the result is mild chronic respiratory alkalosis. Treatment of thyrotoxicosis (β-blockers, antithyroid drugs, radioiodine, surgery) corrects the alkalosis along with other features.",
-        "Incorrect. Picture is alkalosis, not metabolic alkalosis (HCO3− is not high).",
-        "Incorrect. DKA would feature high glucose and ketones.",
-        "Incorrect. The pH is high."
-      ]
-    },
-    {
-      "id": 11,
-      "stem": "A 28-year-old woman is intubated with mandatory ventilation set to a high RR. Within an hour, pH is 7.55, PCO2 25, HCO3− 22. Which best explains the picture?",
-      "choices": [
-        "Sepsis-induced lactic acidosis",
-        "Iatrogenic respiratory alkalosis from over-ventilation",
-        "Pulmonary embolism",
-        "Anxiety attack",
-        "Pregnancy"
-      ],
-      "answer": 1,
-      "explanations": [
-        "Incorrect. No infection described.",
-        "Correct. Mechanical over-ventilation produces acute respiratory alkalosis. Common in patients with rate set too high or excessively large tidal volumes, or in patients sedated insufficiently who 'breathe over' the ventilator. Strategy: reduce respiratory rate or tidal volume; deepen sedation; check end-tidal CO2 monitoring; revisit ventilator settings. Risks of severe alkalosis include arrhythmia, seizure, cerebral vasoconstriction with reduced CBF.",
-        "Incorrect. PE has hypoxia.",
-        "Incorrect. Patient is intubated.",
-        "Incorrect. Not pregnant."
-      ]
-    },
-    {
-      "id": 12,
-      "stem": "A 65-year-old man with severe traumatic brain injury has pH 7.50, PCO2 27, HCO3− 21, intubated. The team is using mild hyperventilation. Which best characterizes mild hyperventilation in TBI?",
-      "choices": [
-        "Continuous prophylactic strategy for all TBI patients",
-        "Short-term rescue therapy for impending herniation; not routine prophylaxis",
-        "Standard outpatient ventilator strategy",
-        "Long-term reduction of ICP",
-        "Beneficial in all neurologic disease"
-      ],
-      "answer": 1,
-      "explanations": [
-        "Incorrect. Routine prophylactic hyperventilation is harmful in TBI.",
-        "Correct. Acute hyperventilation (lowering PCO2 to ~30) produces cerebral vasoconstriction, reducing cerebral blood flow and ICP within minutes. Used as a SHORT-TERM rescue measure for impending herniation, NOT as routine prophylactic therapy — sustained hyperventilation produces cerebral ischemia and worsens outcomes (BTF guidelines). Other ICP measures: head elevation, sedation, mannitol or hypertonic saline, optimized ventilation/oxygenation, surgical decompression.",
-        "Incorrect. Not the standard.",
-        "Incorrect. Long-term hyperventilation is harmful.",
-        "Incorrect. Not universally beneficial."
-      ]
-    },
-    {
-      "id": 13,
-      "stem": "A 50-year-old woman with severe anemia (Hb 6 g/dL) has tachycardia, tachypnea, and exertional dyspnea. ABG: pH 7.46, PCO2 30, HCO3− 22. Which best explains the alkalosis?",
-      "choices": [
-        "Pulmonary embolism",
-        "Hypoxia-driven hyperventilation from anemia",
-        "Asthma",
-        "Pneumonia",
-        "Sepsis"
-      ],
-      "answer": 1,
-      "explanations": [
-        "Incorrect. PE not described.",
-        "Correct. Severe anemia reduces oxygen-carrying capacity. Although PaO2 may be normal (oxygen tension is unchanged), tissue oxygen delivery is reduced, triggering chemoreceptor-mediated hyperventilation → respiratory alkalosis. Treatment: address the anemia (transfusion, iron, B12/folate as appropriate); the alkalosis resolves with restoration of oxygen-carrying capacity. Same physiology in carbon monoxide poisoning (functional anemia from reduced O2 binding to CO-bound Hb).",
-        "Incorrect. Asthma has wheezing.",
-        "Incorrect. Pneumonia has fever and infiltrate.",
-        "Incorrect. Sepsis would have other features."
-      ]
-    },
-    {
-      "id": 14,
-      "stem": "A 60-year-old man at 4,500 m altitude has had headache, nausea, and insomnia for 24 hours. Which medication is most useful for prevention or treatment of acute mountain sickness?",
-      "choices": [
-        "Loop diuretic",
-        "Acetazolamide",
-        "Methemoglobin",
-        "Aspirin",
-        "Warfarin"
-      ],
-      "answer": 1,
-      "explanations": [
-        "Incorrect. Loop diuretics are not standard.",
-        "Correct. Acetazolamide is first-line for prevention and treatment of acute mountain sickness (AMS). Mechanism: inhibits PCT carbonic anhydrase → bicarbonaturia → metabolic acidosis. The acidosis 'unmasks' the hypoxic ventilatory drive (countering the renal compensation that would otherwise blunt hyperventilation), increasing minute ventilation and reducing AMS symptoms. Dose 125–250 mg BID; start before ascent. Adjuncts: gradual ascent, supplemental O2, descent for severe cases. Dexamethasone is alternative for treatment.",
-        "Incorrect. Methemoglobin is unrelated.",
-        "Incorrect. Aspirin is not a primary AMS treatment.",
-        "Incorrect. Warfarin is not relevant."
-      ]
-    },
-    {
-      "id": 15,
-      "stem": "A 25-year-old woman with severe panic disorder has recurrent acute hyperventilation episodes with tetany. Which is the most appropriate ACUTE management?",
-      "choices": [
-        "Sodium bicarbonate IV",
-        "Reassurance and slow breathing",
-        "Furosemide",
-        "Oxygen at high flow",
-        "Prolonged paper bag rebreathing"
-      ],
-      "answer": 1,
-      "explanations": [
-        "Incorrect. Bicarbonate worsens alkalosis.",
-        "Correct. Acute hyperventilation from panic responds to: (1) calm reassurance and reduction of stimuli; (2) slow, controlled breathing techniques (breath-hold, slow nasal breathing); (3) treat underlying anxiety disorder (CBT, SSRIs). Severe cases may need anxiolytics (benzodiazepine acutely). Paper bag rebreathing is HISTORICALLY recommended but POTENTIALLY DANGEROUS in patients with concurrent hypoxia (asthma, PE) and is no longer routinely recommended; if used, brief and supervised only.",
-        "Incorrect. Furosemide is unrelated.",
-        "Incorrect. Oxygen does not address the panic.",
-        "Incorrect. Paper bag rebreathing is no longer routinely recommended."
-      ]
-    },
-    {
-      "id": 16,
-      "stem": "A 28-year-old researcher considers respiratory alkalosis effects on cerebral blood flow. Which best characterizes the effect of acute hypocapnia on cerebral vessels?",
-      "choices": [
-        "Vasodilation increasing CBF",
-        "Vasoconstriction reducing CBF and intracranial pressure",
-        "No effect on cerebral vessels",
-        "Direct neurotoxicity",
-        "Acute infarction"
-      ],
-      "answer": 1,
-      "explanations": [
-        "Incorrect. Hypocapnia constricts (not dilates) cerebral vessels.",
-        "Correct. Acute hypocapnia causes CEREBRAL VASOCONSTRICTION → reduced cerebral blood flow → reduced ICP within minutes. Used as short-term rescue for impending herniation in TBI. Sustained hyperventilation (>1–2 days) is harmful: cerebral ischemia from sustained vasoconstriction, with potential for stroke or worsened outcomes. The same vasoconstrictor effect causes light-headedness, syncope, and visual changes during acute hyperventilation episodes.",
-        "Incorrect. Major effect on cerebral vessels.",
-        "Incorrect. Not direct toxicity.",
-        "Incorrect. Stroke can complicate sustained hyperventilation but is not the primary acute effect."
-      ]
-    },
-    {
-      "id": 17,
-      "stem": "A 45-year-old woman receiving aggressive mechanical ventilation has pH 7.55, PCO2 24. Which intervention best corrects the iatrogenic respiratory alkalosis?",
-      "choices": [
-        "IV bicarbonate",
-        "Reduce ventilator settings",
-        "Acetazolamide",
-        "Furosemide",
-        "Calcium gluconate"
-      ],
-      "answer": 1,
-      "explanations": [
-        "Incorrect. Bicarbonate worsens alkalosis.",
-        "Correct. Iatrogenic over-ventilation: reduce respiratory rate or tidal volume to allow PCO2 to rise toward normal. Adjust sedation if patient is breathing over the ventilator. Avoid rapid changes in patients adapted to chronic alkalosis. Calcium replacement may be useful if symptoms of low ionized Ca2+ (tetany, paresthesias) persist. Acetazolamide is occasionally used in chronic respiratory alkalosis with concurrent metabolic alkalosis but is not first-line for acute iatrogenic.",
-        "Incorrect. Acetazolamide is not first-line for acute iatrogenic alkalosis.",
-        "Incorrect. Furosemide worsens alkalosis.",
-        "Incorrect. Calcium addresses symptoms but not the alkalosis itself."
-      ]
-    },
-    {
-      "id": 18,
-      "stem": "A 65-year-old man with COPD has chronic CO2 retention (baseline PCO2 55, HCO3− 33). After intubation he is over-ventilated to a PCO2 of 30. The pH rises to 7.65, HCO3− 32. Which is most likely to develop in the next 24 hours if this PCO2 is sustained?",
-      "choices": [
-        "HCO3− eventually falls",
-        "Stable HCO3−",
-        "Sudden HCO3− rise",
-        "Acute kidney injury",
-        "Severe hyperkalemia"
-      ],
-      "answer": 0,
-      "explanations": [
-        "Correct. Sustained respiratory alkalosis triggers renal compensation: reduced NH4+ excretion and increased HCO3− loss → HCO3− falls over 3–5 days, returning pH toward normal. Excessive ventilator-induced PCO2 reduction in a chronic CO2 retainer first produces severe alkalemia, then gradual renal compensation as HCO3− falls. Better strategy: ventilate to BASELINE PCO2 (avoiding both acute alkalemia and the slow renal correction).",
-        "Incorrect. HCO3− does change with chronic respiratory alkalosis.",
-        "Incorrect. Direction is wrong; HCO3− falls.",
-        "Incorrect. AKI is not the principal effect.",
-        "Incorrect. Hyperkalemia is not the principal effect."
-      ]
-    },
-    {
-      "id": 19,
-      "stem": "A 35-year-old woman with severe asthma exacerbation has pH 7.45, PCO2 28, PaO2 60. Which best characterizes the respiratory alkalosis in early asthma?",
-      "choices": [
-        "Pure metabolic alkalosis",
-        "Impending respiratory failure",
-        "Stable disease",
-        "Resolved attack",
+        "Anxiety disorder",
+        "Heart failure with pulmonary edema",
+        "Opioid overdose",
+        "Primary hyperthyroidism",
         "Pulmonary embolism"
       ],
       "answer": 1,
       "explanations": [
-        "Incorrect. The picture is respiratory.",
-        "Correct. In acute asthma, PCO2 should be LOW (compensatory hyperventilation from hypoxia and bronchoconstriction). A normal or rising PCO2 in a worsening asthma attack ('pseudonormal' PCO2) indicates respiratory muscle fatigue and impending failure — an EMERGENCY requiring urgent intubation. The progression from low PCO2 (early) → normal PCO2 (concerning) → high PCO2 (failure) is the classic clinical trajectory.",
-        "Incorrect. Acute asthma is not stable.",
-        "Incorrect. Active acute presentation.",
-        "Incorrect. PE is unlikely with this presentation."
+        "Incorrect. Anxiety can cause respiratory alkalosis but would not produce hypoxemia, JVD, edema, and crackles.",
+        "Correct. CHF causes pulmonary edema with V/Q mismatch and hypoxemia; hypoxic stimulation of peripheral chemoreceptors drives hyperventilation and respiratory alkalosis.",
+        "Incorrect. Opioids cause respiratory depression and respiratory acidosis, not alkalosis.",
+        "Incorrect. Hyperthyroidism causes respiratory alkalosis with normal PaO2, not hypoxemia and volume overload.",
+        "Incorrect. PE can cause respiratory alkalosis, but progressive weight gain, JVD, and pitting edema fit heart failure, not PE."
+      ]
+    },
+    {
+      "id": 7,
+      "stem": "A 22-year-old woman with severe Graves disease has a respiratory rate of 24 breaths/min. Her ABG shows pH 7.49, PaCO2 28 mmHg, HCO3- 22 mEq/L, PaO2 95 mmHg on room air. Which mechanism best explains her respiratory alkalosis?",
+      "choices": [
+        "Bronchoconstriction triggering reflex hyperventilation",
+        "Hypoxemia from impaired oxygen diffusion",
+        "Increased metabolic demand stimulating ventilation with normal PaO2",
+        "Inhibition of central chemoreceptors by thyroid hormone",
+        "Pulmonary thromboembolism from hypercoagulability"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Hyperthyroidism does not cause bronchoconstriction in this brick.",
+        "Incorrect. Her PaO2 is normal; the brick categorizes hyperthyroidism as nonhypoxic hyperventilation.",
+        "Correct. Hyperthyroidism is a hypermetabolic state that increases ventilatory demand, producing respiratory alkalosis with a normal PaO2.",
+        "Incorrect. Thyroid hormone increases, rather than inhibits, ventilatory drive in this context.",
+        "Incorrect. Hypoxemia would be expected with PE; her PaO2 is normal."
+      ]
+    },
+    {
+      "id": 8,
+      "stem": "A 62-year-old man with cirrhosis is noted to chronically have pH 7.46, PaCO2 30 mmHg, HCO3- 21 mEq/L. According to the brick, which category of cause best explains his respiratory alkalosis?",
+      "choices": [
+        "Altered serum biochemistry/hormones",
+        "Cardiopulmonary disease causing hypoxemia",
+        "Hypermetabolic state with increased CO2 production",
+        "Low fraction of inspired oxygen",
+        "Respiratory center stimulation by pain"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. The brick lists liver cirrhosis under altered serum biochemistry/hormones as a nonhypoxic cause of respiratory alkalosis.",
+        "Incorrect. Cardiopulmonary causes act through hypoxemia; cirrhosis acts through altered serum biochemistry per the brick.",
+        "Incorrect. Hypermetabolic states (sepsis, hyperthyroidism) are categorized separately from cirrhosis.",
+        "Incorrect. Low FIO2 (high altitude) is not the mechanism in cirrhosis.",
+        "Incorrect. Pain-related respiratory center stimulation is a separate category."
+      ]
+    },
+    {
+      "id": 9,
+      "stem": "A 35-year-old woman with chronic respiratory alkalosis from anxiety has labs drawn after several weeks of symptoms. The kidneys' compensatory response would be expected to produce which change?",
+      "choices": [
+        "Decreased renal H+ secretion and increased HCO3- excretion",
+        "Decreased urinary HCO3- with increased Na+ retention",
+        "Increased ammonium production and increased H+ excretion",
+        "Increased renal HCO3- reabsorption and regeneration",
+        "Increased secretion of aldosterone with K+ retention"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Per the brick, the kidneys compensate for chronic respiratory alkalosis by excreting bicarbonate, lowering serum HCO3- and bringing pH back toward normal.",
+        "Incorrect. The compensation increases, not decreases, urinary HCO3- excretion.",
+        "Incorrect. Increased H+ excretion would worsen, not correct, alkalosis.",
+        "Incorrect. The kidneys excrete bicarbonate; they do not increase reabsorption/regeneration in alkalosis.",
+        "Incorrect. The brick describes bicarbonate excretion, not aldosterone-mediated K+ retention, as the compensation."
+      ]
+    },
+    {
+      "id": 10,
+      "stem": "A 40-year-old man with acute pulmonary embolism has an ABG showing pH 7.49, PaCO2 28 mmHg, HCO3- 23 mEq/L. Why is the serum bicarbonate not low despite his alkalosis?",
+      "choices": [
+        "Acute hypoxemia stimulates renal HCO3- reabsorption",
+        "Active reabsorption of bicarbonate by the lungs",
+        "Hyperventilation directly produces bicarbonate",
+        "Hypocapnia immediately raises serum bicarbonate",
+        "Renal compensation requires hours to days, so acute disturbances show normal HCO3-"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. The brick describes renal compensation as bicarbonate excretion, not increased reabsorption, in alkalosis.",
+        "Incorrect. The lungs do not reabsorb bicarbonate.",
+        "Incorrect. Hyperventilation lowers PaCO2; it does not directly generate HCO3-.",
+        "Incorrect. Hypocapnia does not acutely raise serum bicarbonate; in fact, the buffer equation predicts a slight fall.",
+        "Correct. Per the brick, renal (metabolic) compensation takes hours to days, so in acute respiratory alkalosis (e.g., PE) the serum bicarbonate may be normal."
+      ]
+    },
+    {
+      "id": 11,
+      "stem": "A 30-year-old man presents with sudden dyspnea, pleuritic chest pain, unilateral calf swelling, and an oxygen saturation of 88%. ABG shows pH 7.50, PaCO2 26 mmHg. Which test best confirms the most concerning underlying cause?",
+      "choices": [
+        "CT angiography of the pulmonary arteries",
+        "Echocardiogram",
+        "Pulmonary function testing",
+        "Urine pregnancy test",
+        "Venous blood gas"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Per the brick, pulmonary embolism is suggested by sudden respiratory alkalosis ± hypoxemia and DVT signs; CT angiography demonstrates thrombus within the pulmonary arteries.",
+        "Incorrect. Echocardiogram does not directly visualize pulmonary artery thrombus to confirm PE.",
+        "Incorrect. PFTs are not the brick's confirmatory test for PE.",
+        "Incorrect. Pregnancy testing is suggested for suspected pregnancy, not for PE confirmation.",
+        "Incorrect. A venous blood gas does not confirm PE; imaging is required."
+      ]
+    },
+    {
+      "id": 12,
+      "stem": "A 19-year-old woman presents with dyspnea, fever, productive cough, and right lower-lobe crackles. ABG: pH 7.47, PaCO2 30 mmHg, PaO2 65 mmHg. Per the brick, this respiratory alkalosis is best classified as:",
+      "choices": [
+        "Hypoxemic hyperventilation due to cardiopulmonary disease",
+        "Mixed acidosis-alkalosis from sepsis",
+        "Nonhypoxic hyperventilation from CNS stimulation",
+        "Nonhypoxic hyperventilation from hypermetabolic state",
+        "Renal compensation for metabolic acidosis"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Pneumonia is listed in the brick as a cardiopulmonary disease causing reduced O2 diffusion, hypoxemia, and reflex hyperventilation via peripheral chemoreceptors.",
+        "Incorrect. Pneumonia in this brick is categorized as hypoxemic, not as a mixed disorder unless sepsis specifically supervenes.",
+        "Incorrect. CNS-stimulation causes (panic, fear) act independently of hypoxemia and are not the cause here.",
+        "Incorrect. Hyperthyroidism and similar conditions are hypermetabolic; pneumonia is hypoxic per the brick.",
+        "Incorrect. The pH is elevated, indicating a primary respiratory alkalosis, not compensation for acidosis."
+      ]
+    },
+    {
+      "id": 13,
+      "stem": "A 30-year-old patient breathing rapidly has an oxygen saturation of 99% on room air. According to the brick's diagnostic algorithm, which next step best classifies the cause of the respiratory alkalosis?",
+      "choices": [
+        "CT angiography of the chest regardless of saturation",
+        "Empiric antibiotics for occult pneumonia",
+        "Empiric loop diuretic to evaluate for hidden CHF",
+        "Reassurance and discharge without further workup",
+        "Use the normal SpO2 to classify as nonhypoxemic and direct workup accordingly"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. The brick uses oxygenation status to direct workup; CT angiography is reserved for higher suspicion of PE.",
+        "Incorrect. Empiric antibiotics are not the algorithmic next step.",
+        "Incorrect. Loop diuretics are used when CHF is identified, not empirically.",
+        "Incorrect. Reassurance alone is not appropriate before classifying the cause.",
+        "Correct. Per the brick, pulse oximetry/ABG initially classifies the patient as hypoxemic vs nonhypoxemic to direct further workup."
+      ]
+    },
+    {
+      "id": 14,
+      "stem": "A 45-year-old patient with a known pulmonary embolism is alkalotic, hypoxemic, and tachypneic. According to the brick, the best management approach is:",
+      "choices": [
+        "Anxiolytics to reduce respiratory rate",
+        "Coaching to take slower, deeper breaths",
+        "Observation alone since respiratory alkalosis is only a symptom",
+        "Oxygen for hypoxemia only, with no further therapy",
+        "Oxygen plus anticoagulation as definitive treatment of the underlying cause"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. Anxiolytics do not address the underlying PE.",
+        "Incorrect. Coaching only addresses tachypnea, not the embolus.",
+        "Incorrect. Observation alone fails to treat a potentially fatal underlying condition.",
+        "Incorrect. Oxygen alone treats hypoxemia but not the thrombus.",
+        "Correct. Per the brick, treatment is directed at the underlying cause; for PE this means oxygenation plus anticoagulation."
+      ]
+    },
+    {
+      "id": 15,
+      "stem": "A 50-year-old man with sepsis is breathing rapidly and deeply (Kussmaul respirations). His ABG shows pH 7.30, PaCO2 22 mmHg, HCO3- 11 mEq/L. The brick distinguishes this hyperventilation pattern from primary respiratory alkalosis primarily by:",
+      "choices": [
+        "An elevated PaO2",
+        "Decreased serum bicarbonate alone",
+        "Low blood pH",
+        "Normal anion gap",
+        "Slow respiratory rate"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. PaO2 alone does not distinguish primary from compensatory hyperventilation.",
+        "Incorrect. Bicarbonate is decreased in both chronic respiratory alkalosis and metabolic acidosis; pH is the discriminator.",
+        "Correct. Per the brick, blood pH easily distinguishes primary respiratory alkalosis (high pH) from compensatory hyperventilation for metabolic acidosis (low pH, as in DKA or sepsis-driven lactic acidosis).",
+        "Incorrect. The brick uses pH, not anion gap, to make this distinction.",
+        "Incorrect. Both conditions have rapid breathing; rate does not distinguish them."
+      ]
+    },
+    {
+      "id": 16,
+      "stem": "A 23-year-old woman has nausea and morning lightheadedness. She is breathing slightly faster than normal. Per the brick, which laboratory test is most appropriate to help identify the cause of suspected respiratory alkalosis?",
+      "choices": [
+        "B-type natriuretic peptide",
+        "Pulmonary function testing",
+        "Serum lactate",
+        "Troponin",
+        "Urine pregnancy test"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. BNP is used for suspected heart failure, not the most likely cause here.",
+        "Incorrect. PFTs are not the brick's listed ancillary test for this scenario.",
+        "Incorrect. Serum lactate evaluates tissue perfusion/sepsis, not pregnancy-related alkalosis.",
+        "Incorrect. Troponin evaluates myocardial injury, not the suspected cause here.",
+        "Correct. Per the brick, ancillary tests such as urine pregnancy testing or thyroid function tests are appropriate when the suspected cause warrants them."
+      ]
+    },
+    {
+      "id": 17,
+      "stem": "Which of the following biochemical equations represents the bicarbonate buffer system as written in the brick?",
+      "choices": [
+        "CO2 + H2O ⇌ H2CO3 ⇌ HCO3- + H+",
+        "CO2 + HCO3- ⇌ H2CO3 ⇌ H2O + H+",
+        "H+ + HCO3- ⇌ H2O + CO2 only (irreversible)",
+        "HCO3- + H2O ⇌ H2CO3 ⇌ CO2 + OH-",
+        "NH3 + H+ ⇌ NH4+ ⇌ NH3 + H2O"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. The brick presents the bicarbonate buffer as CO2 + H2O ⇌ H2CO3 ⇌ HCO3- + H+, catalyzed by carbonic anhydrase.",
+        "Incorrect. This equation is misordered and not how the brick presents the buffer.",
+        "Incorrect. The buffer is reversible, not unidirectional.",
+        "Incorrect. This rearrangement is not how the brick depicts the buffer.",
+        "Incorrect. This is the ammonia buffer, not the bicarbonate buffer."
+      ]
+    },
+    {
+      "id": 18,
+      "stem": "A medical student is asked which acid-base shift accompanies acute hyperventilation. According to the brick, hyperventilation produces which sequence?",
+      "choices": [
+        "↑ CO2 → ↑ H+ → ↓ pH",
+        "↓ CO2 → ↓ H+ → ↑ pH",
+        "↓ CO2 → ↑ H+ → ↓ pH",
+        "↓ CO2 → ↑ HCO3- → ↑ pH",
+        "↑ CO2 → ↓ H+ → ↑ pH"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. This describes hypoventilation/respiratory acidosis.",
+        "Correct. Per the brick: hyperventilation → ↓ CO2 → ↓ H+ → ↑ pH (respiratory alkalosis).",
+        "Incorrect. ↓ CO2 lowers (not raises) H+ via the buffer equation.",
+        "Incorrect. Acute hyperventilation does not raise HCO3-; renal compensation lowers it over time.",
+        "Incorrect. ↑ CO2 raises (not lowers) H+, the opposite of hyperventilation."
+      ]
+    },
+    {
+      "id": 19,
+      "stem": "A patient's normal physiology is described as ventilation matching metabolic CO2 production. According to the brick, this normally keeps PaCO2 near which value?",
+      "choices": [
+        "20 mmHg",
+        "30 mmHg",
+        "40 mmHg",
+        "60 mmHg",
+        "80 mmHg"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. This is well below the normal value cited in the brick.",
+        "Incorrect. This is below the normal range; the brick uses 40 mmHg.",
+        "Correct. Per the brick, in normal physiology ventilation matches CO2 production to keep PaCO2 near 40 mmHg.",
+        "Incorrect. 60 mmHg is markedly elevated and would represent respiratory acidosis.",
+        "Incorrect. 80 mmHg is severely elevated, not normal."
       ]
     },
     {
       "id": 20,
-      "stem": "A 30-year-old researcher reviews the principal causes of respiratory alkalosis. Which best classifies them?",
+      "stem": "Which of the following pH ranges is identified by the brick as the body's normal tightly regulated range?",
       "choices": [
-        "Only anxiety",
-        "Hypoxia, CNS, hormonal, mechanical",
-        "Only CNS injury",
-        "Only sepsis",
-        "Only PE"
+        "6.80 to 7.20",
+        "7.00 to 7.40",
+        "7.20 to 7.50",
+        "7.35 to 7.45",
+        "7.45 to 7.55"
       ],
-      "answer": 1,
+      "answer": 3,
       "explanations": [
-        "Incorrect. Multiple causes.",
-        "Correct. Respiratory alkalosis cause groups: HYPOXIA — PE, altitude, asthma, pulmonary edema, severe anemia, congenital heart disease; CNS-MEDIATED — anxiety/panic, fever, pain, salicylate poisoning, CNS infection, traumatic brain injury, stroke; HORMONAL — pregnancy (progesterone), hyperthyroidism, hyperventilation in cirrhosis; MECHANICAL — over-ventilation by mechanical ventilator; SEPSIS — direct cytokine/chemoreceptor effect (early phase, before lactic acidosis dominates).",
-        "Incorrect. Multiple categories.",
-        "Incorrect. Multiple causes.",
-        "Incorrect. Multiple causes."
+        "Incorrect. This range is severely acidemic relative to the brick's normal.",
+        "Incorrect. The lower bound is below the normal range cited in the brick.",
+        "Incorrect. This range is too wide and shifted compared with the brick's value.",
+        "Correct. Per the brick, the body keeps pH within the narrow range of 7.35 to 7.45.",
+        "Incorrect. This range is alkalemic and not the normal range."
       ]
     },
     {
       "id": 21,
-      "stem": "A 40-year-old woman with severe respiratory alkalosis develops new ECG changes. Which arrhythmia is most associated with severe alkalosis?",
+      "stem": "Per the brick, the Krebs cycle produces approximately how much CO2-derived (volatile) acid per day, requiring exhalation through the lungs?",
       "choices": [
-        "Sinus bradycardia",
-        "Torsades de pointes",
-        "Asystole",
-        "First-degree AV block",
-        "RBBB"
+        "50 millimoles",
+        "150 millimoles",
+        "1,500 millimoles",
+        "15,000 millimoles",
+        "150,000 millimoles"
       ],
-      "answer": 1,
+      "answer": 3,
       "explanations": [
-        "Incorrect. Bradycardia is not principally alkalotic.",
-        "Correct. Severe alkalosis (typically pH >7.6) is associated with arrhythmias including atrial flutter/fibrillation, ventricular ectopy, ventricular tachycardia, and torsades de pointes (especially with concurrent hypokalemia, hypomagnesemia, or QT-prolonging drugs). The mechanisms include shifted ionized calcium, K+ shifts, and direct cellular effects. Severe alkalosis also impairs O2 delivery (left-shifted Hb-O2 curve) and can produce seizures and coma.",
-        "Incorrect. Asystole is not the principal alkalosis arrhythmia.",
-        "Incorrect. AV block is not the principal association.",
-        "Incorrect. RBBB is not the principal association."
+        "Incorrect. This is far below the brick's stated value.",
+        "Incorrect. This is well under the daily volatile acid load.",
+        "Incorrect. The brick's value is an order of magnitude higher.",
+        "Correct. Per the brick, the Krebs cycle produces more than 15,000 millimoles of CO2-derived volatile acid per day.",
+        "Incorrect. This overestimates the brick's stated value."
       ]
     },
     {
       "id": 22,
-      "stem": "A 28-year-old researcher reviews how respiratory alkalosis affects K+ and Ca2+. Which best characterizes both?",
+      "stem": "A 70-year-old man with septic shock has lactic acidosis and rapid, deep breathing. Per the brick, this respiratory pattern represents which physiologic response?",
       "choices": [
-        "Hyperkalemia and hypercalcemia",
-        "Hypokalemia and reduced ionized Ca2+",
-        "Hypokalemia and hypercalcemia",
-        "Hyperkalemia and hypocalcemia",
-        "No effect on either"
+        "Decreased ventilation to retain CO2 and buffer the acidosis",
+        "Hypoventilation from respiratory muscle fatigue",
+        "Increased ventilation (Kussmaul) to exhale CO2 and buffer the acidosis",
+        "Primary respiratory alkalosis from sepsis-induced cytokines only",
+        "Reflex bradypnea from carotid body inhibition"
       ],
-      "answer": 1,
+      "answer": 2,
       "explanations": [
-        "Incorrect. Reverse direction.",
-        "Correct. Alkalosis (any cause) drives K+ INTO cells (in exchange for H+ leaving cells), producing hypokalemia. Alkalosis also increases Ca2+ binding to albumin (which is more negatively charged at higher pH), reducing IONIZED Ca2+ even at normal total Ca2+. The two effects together explain the neuromuscular hyperexcitability of severe alkalosis (paresthesias, tetany) and the arrhythmia risk (low ionized Ca, low K).",
-        "Incorrect. Wrong calcium direction.",
-        "Incorrect. Wrong K+ direction.",
-        "Incorrect. Definite effects on both."
+        "Incorrect. Decreased ventilation would worsen acidosis, the opposite of compensation.",
+        "Incorrect. Kussmaul breathing is deep and labored, not a fatigue pattern.",
+        "Correct. Per the brick, in septic shock excess lactic acid lowers pH, and the body compensates by increasing ventilation (Kussmaul respirations) to exhale CO2 and buffer the acidosis.",
+        "Incorrect. The brick attributes the breathing pattern in this scenario to compensation for lactic acidosis, not isolated cytokine-driven primary alkalosis.",
+        "Incorrect. Hypoxemia/acidemia stimulate, rather than inhibit, the carotid body."
       ]
     },
     {
       "id": 23,
-      "stem": "A 65-year-old man on mechanical ventilation in the ICU has pH 7.50, PCO2 28. The team identifies the cause as septic-related hyperventilation. Which is the most appropriate management?",
+      "stem": "A 35-year-old man develops respiratory alkalosis after sustaining a long bone fracture without other injuries. Per the brick, which mechanism best explains the hyperventilation?",
       "choices": [
-        "Aggressive ventilator changes",
-        "Treat underlying sepsis",
-        "Sodium bicarbonate IV",
-        "Acetazolamide IV",
-        "Calcium gluconate IV"
+        "Aspirin overdose",
+        "Hypoxemia from fat embolism",
+        "Pain stimulating the respiratory center",
+        "Pulmonary edema from heart failure",
+        "Septic systemic response"
       ],
-      "answer": 1,
+      "answer": 2,
       "explanations": [
-        "Incorrect. Aggressive changes may not be needed if the patient drives the alkalosis.",
-        "Correct. Sepsis-driven respiratory alkalosis: address the underlying cause (antibiotics, source control, fluid resuscitation, vasopressors). Adequate sedation may be needed if the patient is over-breathing the ventilator and contributing to hyperventilation. Tolerate mild alkalosis if otherwise stable; aggressive correction is not usually needed. Watch for the transition to lactic acidosis as sepsis worsens.",
-        "Incorrect. Bicarbonate worsens alkalosis.",
-        "Incorrect. Acetazolamide is not first-line for sepsis-related alkalosis.",
-        "Incorrect. Calcium addresses symptoms but not the underlying issue."
+        "Incorrect. There is no information about aspirin ingestion in this scenario.",
+        "Incorrect. While fat embolism can occur, the brick groups simple fracture pain under respiratory center stimulation.",
+        "Correct. Per the brick, pain is a CNS-mediated cause of nonhypoxic hyperventilation that stimulates the respiratory center.",
+        "Incorrect. Pulmonary edema is a hypoxemic cause; this scenario describes pain only.",
+        "Incorrect. Sepsis is a separate hypermetabolic cause, not implied by an isolated fracture."
       ]
     },
     {
       "id": 24,
-      "stem": "A 45-year-old man with chronic respiratory alkalosis from longstanding cirrhosis has pH 7.46, PCO2 28, HCO3− 18. Which best characterizes the renal compensation?",
+      "stem": "Per the brick, which condition is identified as the most common overall cause of respiratory alkalosis?",
       "choices": [
-        "Increased NH4+ excretion",
-        "Reduced NH4+ excretion",
-        "Aldosterone activation",
-        "Increased urinary K+ excretion",
-        "No renal compensation"
+        "ARDS",
+        "Hyperthyroidism",
+        "Panic disorder",
+        "Pregnancy",
+        "Pulmonary embolism"
       ],
-      "answer": 1,
+      "answer": 2,
       "explanations": [
-        "Incorrect. NH4+ excretion is REDUCED.",
-        "Correct. Chronic respiratory alkalosis: kidney compensates by reducing H+ secretion, decreasing NH4+ excretion, and increasing HCO3− loss → HCO3− falls. Compensation takes 3–5 days. Rule of thumb: HCO3− falls by ~5 mEq/L per 10 mm Hg PCO2 drop. Adapted patients have pH closer to normal.",
-        "Incorrect. Aldosterone is not the principal mechanism.",
-        "Incorrect. K+ excretion may rise but is not the principal compensation route.",
-        "Incorrect. Renal compensation does occur."
+        "Incorrect. ARDS is a hypoxemic cause but is not labeled as most common overall.",
+        "Incorrect. Hyperthyroidism is a hypermetabolic cause but not the most common overall.",
+        "Correct. Per the brick, panic disorder (CNS stimulation) is the most common cause of respiratory alkalosis overall.",
+        "Incorrect. Pregnancy causes chronic respiratory alkalosis but is not labeled the most common overall.",
+        "Incorrect. PE is a critical cause to consider but is not the most common overall."
       ]
     },
     {
       "id": 25,
-      "stem": "A 30-year-old researcher considers what distinguishes acute from chronic respiratory alkalosis. Which best describes the difference?",
+      "stem": "A 65-year-old woman with congestive heart failure develops worsening dyspnea from pulmonary edema, with hypoxemia and respiratory alkalosis. Per the brick, which initial therapy targets the primary lung problem?",
       "choices": [
-        "Only chronicity matters; pathology is the same",
-        "Chronic has greater renal HCO3− compensation",
-        "Acute is always severe",
-        "Chronic is always asymptomatic",
-        "Acute and chronic have same compensation"
+        "Beta-blocker",
+        "Bicarbonate infusion",
+        "Loop diuretic",
+        "Non-rebreather mask only",
+        "Paper bag rebreathing"
       ],
-      "answer": 1,
+      "answer": 2,
       "explanations": [
-        "Incorrect. Compensation differs markedly.",
-        "Correct. ACUTE respiratory alkalosis (minutes-hours): only intracellular and ECF buffering; HCO3− falls by ~2 mEq/L per 10 mm Hg PCO2 drop; pH may be substantially elevated. CHRONIC (>3–5 days): renal compensation kicks in — reduced NH4+ excretion, increased HCO3− loss; HCO3− falls by ~5 mEq/L per 10 mm Hg PCO2 drop; pH near normal. Same PCO2 in chronic = milder pH derangement = better tolerated. Distinguish acute (more symptomatic, often situational) from chronic (often physiologic, like pregnancy or cirrhosis).",
-        "Incorrect. Severity varies.",
-        "Incorrect. Severity varies.",
-        "Incorrect. They differ markedly."
+        "Incorrect. The brick does not list beta-blockers as the therapy for the pulmonary edema causing hyperventilation here.",
+        "Incorrect. Bicarbonate would worsen alkalosis and is not indicated.",
+        "Correct. Per the brick, loop diuretics are given to resolve the pulmonary edema in CHF that is producing V/Q mismatch, hypoxemia, and reflex hyperventilation.",
+        "Incorrect. Oxygen alone addresses hypoxemia but does not treat the underlying pulmonary edema.",
+        "Incorrect. Paper bag rebreathing is not the brick's recommended therapy for CHF-driven respiratory alkalosis."
       ]
     }
   ]

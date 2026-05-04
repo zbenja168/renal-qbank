@@ -4,477 +4,447 @@
   "questions": [
     {
       "id": 1,
-      "stem": "A 30-year-old researcher studies the mechanism of acetazolamide. Which best describes its molecular target?",
-      "choices": [
-        "ENaC blockade",
-        "NKCC2 inhibition",
-        "Carbonic anhydrase inhibition",
-        "Aldosterone receptor antagonism",
-        "AQP2 antagonism"
-      ],
-      "answer": 2,
+      "stem": "A 28-year-old man plans to fly from sea level to a high-altitude ski resort and reports that on a previous trip he developed headache, nausea, lightheadedness, and shortness of breath the day after arrival. His physician prescribes a drug whose generic name ends in \"-zolamide\" to take prior to ascent. By inhibiting which enzyme does this drug work?",
+      "choices": ["Carbonic anhydrase", "Cyclooxygenase", "Na+/K+-ATPase", "Phosphodiesterase", "Xanthine oxidase"],
+      "answer": 0,
       "explanations": [
-        "Incorrect. ENaC is the K+-sparing diuretic target.",
-        "Incorrect. NKCC2 is the loop diuretic target.",
-        "Correct. Acetazolamide and other CA inhibitors block carbonic anhydrase isoforms (principally CA II intracellular and CA IV at the brush border). In the proximal tubule this impairs HCO3− reabsorption (the dehydration of luminal H2CO3 to CO2 + H2O is blocked) and reduces H+ secretion via NHE3. Result: bicarbonaturia, mild diuresis, alkaline urine, and mild metabolic acidosis. Other CA inhibitors: methazolamide (oral), dorzolamide and brinzolamide (topical for glaucoma).",
-        "Incorrect. Aldosterone receptor is the spironolactone target.",
-        "Incorrect. AQP2 is the V2 antagonist target."
+        "Correct. Drugs ending in \"-zolamide\" (e.g., acetazolamide) are carbonic anhydrase inhibitors that block the enzyme catalyzing CO2 + H2O ↔ HCO3− + H+.",
+        "Incorrect. Cyclooxygenase is targeted by NSAIDs, not by carbonic anhydrase inhibitors.",
+        "Incorrect. Cardiac glycosides like digoxin block Na+/K+-ATPase; CAIs do not.",
+        "Incorrect. Phosphodiesterase inhibitors include drugs like sildenafil; this is unrelated to CAI mechanism.",
+        "Incorrect. Xanthine oxidase is inhibited by allopurinol, not by CAIs."
       ]
     },
     {
       "id": 2,
-      "stem": "A 65-year-old man with acute angle-closure glaucoma has IOP 50 mm Hg. The ophthalmologist gives IV acetazolamide. Which best explains the mechanism of IOP reduction?",
+      "stem": "A 64-year-old man with newly diagnosed open-angle glaucoma is started on oral acetazolamide. Which reaction is catalyzed by the enzyme that this drug inhibits?",
       "choices": [
-        "Mannitol-like osmotic withdrawal",
-        "Reduced aqueous humor production",
-        "Trabecular meshwork dilation",
-        "Optic nerve protection",
-        "Lens dehydration"
+        "ATP → cAMP + PPi",
+        "CO2 + H2O ↔ HCO3− + H+",
+        "Glucose + ATP → glucose-6-phosphate + ADP",
+        "Pyruvate → lactate",
+        "Xanthine → uric acid"
       ],
       "answer": 1,
       "explanations": [
-        "Incorrect. Mannitol is a separate osmotic agent.",
-        "Correct. Carbonic anhydrase is highly expressed in the ciliary body, where it generates HCO3− needed for aqueous humor formation. CA inhibition reduces aqueous humor production by ~30%, lowering IOP. Used for: acute angle-closure glaucoma (IV/oral as adjunct to topical agents and definitive iridotomy), chronic open-angle glaucoma (topical dorzolamide, brinzolamide). Other glaucoma drug classes: β-blockers (timolol — also reduce production), prostaglandin analogs (latanoprost — increase outflow), α2-agonists (brimonidine), miotics (pilocarpine).",
-        "Incorrect. Acetazolamide does not principally affect outflow.",
-        "Incorrect. Optic nerve is downstream of pressure reduction.",
-        "Incorrect. Lens dehydration is not the mechanism."
+        "Incorrect. cAMP synthesis is catalyzed by adenylyl cyclase, not carbonic anhydrase.",
+        "Correct. Carbonic anhydrase reversibly catalyzes the conversion of CO2 and water into bicarbonate and protons (the carbonic acid–bicarbonate buffer system).",
+        "Incorrect. This is the hexokinase reaction.",
+        "Incorrect. This is the lactate dehydrogenase reaction.",
+        "Incorrect. This reaction is catalyzed by xanthine oxidase."
       ]
     },
     {
       "id": 3,
-      "stem": "A 30-year-old climber takes acetazolamide before ascending to high altitude. Which best explains the mechanism of altitude prophylaxis?",
+      "stem": "A 35-year-old woman is started on acetazolamide for idiopathic intracranial hypertension. The drug is most active in which segment of the nephron, where it produces its diuretic effect?",
       "choices": [
-        "Direct cerebral vasodilation",
-        "Induces acidosis to stimulate ventilation",
-        "Direct erythropoietic effect",
-        "Increases hemoglobin oxygen affinity",
-        "Reduces oxygen demand"
+        "Collecting duct",
+        "Cortical thick ascending limb",
+        "Distal convoluted tubule",
+        "Proximal tubule",
+        "Thin descending limb of Henle"
       ],
-      "answer": 1,
+      "answer": 3,
       "explanations": [
-        "Incorrect. Acetazolamide does not directly dilate cerebral vessels.",
-        "Correct. At altitude, low PO2 → hypoxic hyperventilation → respiratory alkalosis. Renal compensation (HCO3− loss) takes days; in the meantime, alkalosis blunts the hypoxic ventilatory drive, slowing acclimatization. Acetazolamide induces a metabolic acidosis (bicarbonaturia) — this offsets the alkalosis, restores hypoxic drive, and accelerates ventilation. Reduces incidence and severity of acute mountain sickness. Dose 125–250 mg BID; start 24–48 h before ascent and continue for 2 days at altitude.",
-        "Incorrect. No erythropoietic effect.",
-        "Incorrect. Acetazolamide does not increase Hb-O2 affinity.",
-        "Incorrect. O2 demand is not principally reduced."
+        "Incorrect. K+-sparing diuretics act in the collecting duct, not CAIs.",
+        "Incorrect. Loop diuretics act on the thick ascending limb of Henle.",
+        "Incorrect. Thiazide diuretics act on the distal convoluted tubule.",
+        "Correct. CAIs are most active in the proximal tubule, where carbonic anhydrase is required for filtered bicarbonate reabsorption.",
+        "Incorrect. The thin descending limb is permeable to water but is not a primary site of diuretic action."
       ]
     },
     {
       "id": 4,
-      "stem": "A 35-year-old woman with idiopathic intracranial hypertension (pseudotumor cerebri) has headache, papilledema, and elevated CSF pressure on lumbar puncture. Which medication is first-line?",
-      "choices": [
-        "Acetazolamide",
-        "Furosemide",
-        "Spironolactone",
-        "Mannitol",
-        "Dorzolamide"
-      ],
-      "answer": 0,
+      "stem": "A 55-year-old man is given acetazolamide. In the proximal tubule, the bicarbonate reabsorption process that this drug interrupts is inevitably linked to reabsorption of which other ion via an antiporter on the apical membrane?",
+      "choices": ["Calcium", "Chloride", "Magnesium", "Potassium", "Sodium"],
+      "answer": 4,
       "explanations": [
-        "Correct. Acetazolamide is first-line for idiopathic intracranial hypertension (pseudotumor cerebri). Mechanism: CA inhibition reduces CSF production at the choroid plexus (which expresses CA), lowering intracranial pressure. Dose typically 1–4 g/day. Adjuncts: weight loss (the most effective long-term), possibly topiramate (also CA inhibitor + weight loss effects); refractory cases may need surgical CSF diversion (LP shunt, VP shunt) or optic nerve sheath fenestration. Vision loss is the principal complication of IIH.",
-        "Incorrect. Furosemide is sometimes added as adjunct but not first-line.",
-        "Incorrect. Spironolactone is not first-line.",
-        "Incorrect. Mannitol is for acute ICP elevation in TBI, not chronic IIH.",
-        "Incorrect. Dorzolamide is topical (for glaucoma), not effective systemically."
+        "Incorrect. Calcium reabsorption is not coupled to bicarbonate reabsorption via this antiporter.",
+        "Incorrect. The antiporter that drives bicarbonate reabsorption exchanges Na+ for H+, not chloride.",
+        "Incorrect. Magnesium is reabsorbed primarily in the thick ascending limb, not via the proximal Na+/H+ antiporter.",
+        "Incorrect. Potassium is excreted along with bicarbonate when CAIs are given; it is not the antiported partner.",
+        "Correct. HCO3− reabsorption is inevitably linked to Na+ reabsorption via the apical Na+/H+ antiporter that pumps Na+ in and H+ out."
       ]
     },
     {
       "id": 5,
-      "stem": "A 55-year-old man with chronic acetazolamide therapy for glaucoma has pH 7.32, HCO3− 18, Cl− 110, anion gap 10. Which best characterizes the acid-base disorder?",
+      "stem": "A 60-year-old man takes acetazolamide for several days and develops a non–anion-gap metabolic acidosis. Which acid–base disorder does this drug characteristically induce, and by what renal mechanism?",
       "choices": [
-        "Lactic acidosis",
-        "Acetazolamide-induced non-anion-gap metabolic acidosis",
-        "Type 1 RTA",
-        "DKA",
-        "Diarrhea-induced acidosis"
+        "Metabolic acidosis from inability of the renal tubule to reabsorb filtered HCO3−",
+        "Metabolic acidosis from increased renal generation of organic acids",
+        "Metabolic alkalosis from urinary loss of H+",
+        "Respiratory acidosis from CO2 retention in alveoli",
+        "Respiratory alkalosis from direct stimulation of the medullary respiratory center"
       ],
-      "answer": 1,
+      "answer": 0,
       "explanations": [
-        "Incorrect. No hypoperfusion described; AG is normal.",
-        "Correct. Chronic acetazolamide therapy produces a mild non-anion-gap metabolic acidosis through bicarbonaturia (mimicking proximal RTA). The renal threshold for HCO3− reabsorption is reduced. Effect is dose-related and self-limited (the acidosis itself reduces drug efficacy, allowing equilibrium). Acidosis is generally mild and well-tolerated; severe cases may need dose reduction or alternation. Same mechanism in topiramate (a weak CA inhibitor used for migraine, seizures).",
-        "Incorrect. Type 1 RTA features urine pH inappropriately high (>5.5).",
-        "Incorrect. DKA has hyperglycemia and ketones.",
-        "Incorrect. No diarrhea history."
+        "Correct. CAIs cause a drug-induced proximal (type 2) renal tubular acidosis because the tubule can no longer reabsorb filtered HCO3−.",
+        "Incorrect. CAIs do not cause acidosis by generating organic acids; the mechanism is loss of bicarbonate.",
+        "Incorrect. CAIs cause acidosis, not alkalosis.",
+        "Incorrect. CAIs do not impair pulmonary CO2 excretion; in fact they lead to compensatory hyperventilation.",
+        "Incorrect. The primary disturbance is metabolic acidosis; any hyperventilation is compensatory rather than a direct CNS effect."
       ]
     },
     {
       "id": 6,
-      "stem": "A 60-year-old man on chronic acetazolamide develops Ca-phosphate kidney stones. Which mechanism best explains the increased stone risk?",
+      "stem": "A 33-year-old climber takes acetazolamide several days before ascending to high altitude. Which sequence best explains how this drug prevents altitude sickness?",
       "choices": [
-        "Acetazolamide chelates calcium",
-        "Alkaline urine and hypocitraturia",
-        "Direct Ca-phosphate precipitation",
-        "Acetazolamide induces hyperoxaluria",
-        "Acetazolamide is uricosuric"
+        "↑ urinary HCO3− → metabolic acidosis → compensatory hyperventilation → ↑ arterial oxygen",
+        "↑ urinary HCO3− → metabolic alkalosis → hypoventilation → ↑ arterial CO2",
+        "↑ urinary Na+ → volume depletion → ↑ erythropoietin → ↑ oxygen delivery",
+        "↓ urinary HCO3− → respiratory acidosis → ↑ ventilation → ↑ arterial oxygen",
+        "↓ urinary K+ → hyperkalemia → ↑ respiratory drive → ↑ arterial oxygen"
       ],
-      "answer": 1,
+      "answer": 0,
       "explanations": [
-        "Incorrect. Acetazolamide does not chemically chelate Ca2+.",
-        "Correct. Acetazolamide alkalinizes urine (urine pH often >7.0) AND can increase urinary calcium excretion (mild diuretic effect, contraction-effect mild) AND reduces urinary citrate (citrate is a stone inhibitor; its excretion falls in metabolic acidosis). Combined effects favor calcium phosphate stone formation. Topiramate (also CA inhibitor) carries similar risk. Counsel patients on hydration; avoid in patients with prior calcium phosphate stones.",
-        "Incorrect. Direct precipitation is not the mechanism.",
-        "Incorrect. Hyperoxaluria is not the principal mechanism.",
-        "Incorrect. Uricosuria is not the mechanism."
+        "Correct. By blocking renal CA, acetazolamide increases urinary bicarbonate excretion, producing metabolic acidosis that drives compensatory hyperventilation, raising arterial oxygen and preventing altitude sickness.",
+        "Incorrect. CAIs cause metabolic acidosis (not alkalosis) and stimulate, rather than suppress, ventilation.",
+        "Incorrect. The mechanism is acid–base, not volume- or erythropoietin-mediated.",
+        "Incorrect. CAIs increase, not decrease, urinary HCO3− and do not cause respiratory acidosis.",
+        "Incorrect. CAIs cause hypokalemia from K+ being excreted with bicarbonate, not hyperkalemia."
       ]
     },
     {
       "id": 7,
-      "stem": "A 50-year-old man on chronic acetazolamide has K+ 3.2. Which mechanism best explains the hypokalemia?",
-      "choices": [
-        "Direct K+-wasting effect of acetazolamide",
-        "Distal Na+ delivery and aldosterone effect",
-        "Direct ROMK activation",
-        "Increased GI K+ loss",
-        "Cellular K+ shift"
-      ],
-      "answer": 1,
+      "stem": "A 70-year-old man with chronic open-angle glaucoma is started on a topical CAI eye drop to lower his intraocular pressure. Which structure in the eye produces the fluid that this drug targets?",
+      "choices": ["Canal of Schlemm", "Choroid plexus", "Ciliary body", "Lens", "Trabecular meshwork"],
+      "answer": 2,
       "explanations": [
-        "Incorrect. Mechanism is indirect (distal flow + aldosterone).",
-        "Correct. Acetazolamide blocks proximal HCO3− and Na+ reabsorption, increasing distal Na+ delivery. The collecting duct then reabsorbs Na+ via ENaC and secretes K+ via ROMK; aldosterone activated by mild volume contraction enhances this. Net effect: renal K+ wasting and mild hypokalemia. Same mechanism by which other diuretics produce hypokalemia. Mitigation: K+ supplementation, K+-sparing diuretic combination.",
-        "Incorrect. Direct ROMK activation is not the mechanism.",
-        "Incorrect. No GI losses described.",
-        "Incorrect. Acetazolamide does not principally cause cellular K+ shift."
+        "Incorrect. The canal of Schlemm provides outflow drainage for aqueous humor; it does not produce it.",
+        "Incorrect. The choroid plexus produces CSF, not aqueous humor.",
+        "Correct. The ciliary body in the posterior chamber produces aqueous humor, a hyperosmotic solution composed primarily of Na+ and HCO3−.",
+        "Incorrect. The lens does not produce aqueous humor.",
+        "Incorrect. The trabecular meshwork is the site of aqueous humor resorption, not production."
       ]
     },
     {
       "id": 8,
-      "stem": "A 40-year-old woman on acetazolamide reports tingling around the lips and fingers. Which best explains this paresthesia?",
+      "stem": "A 58-year-old woman is being managed for open-angle glaucoma. By which mechanism do CAIs lower intraocular pressure?",
       "choices": [
-        "Hypocalcemia from drug",
-        "Tissue CO2 buildup",
-        "Sulfa allergy",
-        "Hypoglycemia",
-        "Anxiety"
+        "Constricting the pupil to widen the trabecular meshwork outflow",
+        "Decreasing HCO3− production by the ciliary body, reducing aqueous humor formation",
+        "Increasing aqueous humor outflow through the canal of Schlemm",
+        "Inhibiting α1 adrenergic receptors on the iris",
+        "Inhibiting prostaglandin synthesis at the optic nerve"
       ],
       "answer": 1,
       "explanations": [
-        "Incorrect. Acetazolamide does not principally lower Ca2+.",
-        "Correct. Paresthesias are a recognized acetazolamide side effect, related to CA inhibition in red cells and tissue capillaries → impaired CO2 transport → mild tissue CO2 buildup with paresthesias particularly perioral and acral. Usually mild and self-limited. Other CA-related effects: dysgeusia (carbonated drinks taste 'flat'), fatigue.",
-        "Incorrect. Sulfa allergy presents as rash, urticaria, or anaphylaxis — not paresthesias alone.",
-        "Incorrect. Acetazolamide does not principally cause hypoglycemia.",
-        "Incorrect. The paresthesia has a pharmacologic explanation."
+        "Incorrect. CAIs do not act on the pupil or iris musculature.",
+        "Correct. CAIs decrease HCO3− production by the ciliary body, which reduces aqueous humor formation and thereby lowers intraocular pressure.",
+        "Incorrect. CAIs reduce production of aqueous humor; they do not increase outflow through Schlemm.",
+        "Incorrect. CAIs inhibit carbonic anhydrase, not adrenergic receptors.",
+        "Incorrect. CAIs are not prostaglandin inhibitors; that is the mechanism of NSAIDs."
       ]
     },
     {
       "id": 9,
-      "stem": "A 35-year-old man with severe sulfa allergy is being considered for acetazolamide for altitude sickness. Which best characterizes acetazolamide and sulfa allergy?",
+      "stem": "A 32-year-old obese woman with daily headaches and papilledema is diagnosed with idiopathic intracranial hypertension (pseudotumor cerebri). She is started on acetazolamide. Which mechanism best explains the drug's benefit in this condition?",
       "choices": [
-        "Acetazolamide is safe in any sulfa allergy",
-        "Acetazolamide is sulfonamide-derived; caution in severe allergy",
-        "Sulfa allergy is irrelevant",
-        "Acetazolamide neutralizes sulfa allergy",
-        "Sulfa allergy worsens acetazolamide effect"
+        "Decreased cerebral blood flow via vasoconstriction",
+        "Decreased CSF production by the choroid plexus through reduced HCO3− formation",
+        "Increased CSF reabsorption by arachnoid granulations",
+        "Increased systemic diuresis with reduced intravascular volume",
+        "Inhibition of central chemoreceptors lowering respiratory drive"
       ],
       "answer": 1,
       "explanations": [
-        "Incorrect. Acetazolamide IS a sulfonamide.",
-        "Correct. Acetazolamide is a sulfonamide-derived drug. In patients with documented severe sulfa allergy (anaphylaxis to antibacterial sulfonamides), caution is warranted — though cross-reactivity between antibacterial sulfonamides and non-antibacterial sulfonamides (acetazolamide, thiazides, loops) is uncommon, severe reactions have been reported. For mild or self-reported sulfa allergy, acetazolamide is usually tolerated. Document the type and severity of prior reaction. Alternative for altitude sickness: dexamethasone.",
-        "Incorrect. Allergy is relevant for severe cases.",
-        "Incorrect. Acetazolamide does not neutralize allergy.",
-        "Incorrect. The interaction concern is anaphylaxis, not efficacy reduction."
+        "Incorrect. CAIs lower ICP by reducing CSF production, not by direct cerebral vasoconstriction.",
+        "Correct. CAIs inhibit intracellular CA in the choroid plexus, reducing HCO3− and therefore CSF production, lowering ICP.",
+        "Incorrect. CAIs do not enhance arachnoid granulation reabsorption.",
+        "Incorrect. The diuretic effect of CAIs is mild and is not the principal mechanism in pseudotumor cerebri.",
+        "Incorrect. CAIs actually stimulate ventilation by causing acidosis; they do not inhibit chemoreceptors."
       ]
     },
     {
       "id": 10,
-      "stem": "A 65-year-old man with severe HF and refractory metabolic alkalosis from chronic loop diuretic has pH 7.55, HCO3− 38. Acetazolamide is added. Which best characterizes its role?",
+      "stem": "A 45-year-old woman with poorly controlled epilepsy is given a drug that ends in \"-zolamide\" as add-on therapy for refractory seizures. Which intracellular abnormality in some forms of epilepsy provides the rationale for using this drug?",
       "choices": [
-        "First-line for all alkalosis",
-        "Bicarbonaturia useful in volume-overloaded alkalosis",
-        "Direct loop diuretic synergy",
-        "Replaces loop diuretic",
-        "Treats hypocapnia"
+        "Decreased intracellular bicarbonate from low CA activity",
+        "Decreased intracellular sodium from Na+/K+-ATPase loss",
+        "Excess GABA receptor activity",
+        "High intracellular bicarbonate from increased neuronal CA activity",
+        "Low intracellular calcium from blocked voltage-gated channels"
       ],
-      "answer": 1,
+      "answer": 3,
       "explanations": [
-        "Incorrect. Acetazolamide is not first-line for all alkalosis.",
-        "Correct. In refractory metabolic alkalosis where saline + KCl repletion is contraindicated (e.g., HF with volume overload), acetazolamide can correct alkalosis through bicarbonaturia. Useful when loop diuretic-induced alkalosis cannot be addressed by adding more volume. Watch for hypokalemia (acetazolamide adds to the K+ wasting). Adjust loop diuretic dose simultaneously. Severe refractory alkalosis may need IV HCl in selected cases.",
-        "Incorrect. Acetazolamide is additive but not principally for synergy with loop in HF.",
-        "Incorrect. Does not replace loop.",
-        "Incorrect. Acetazolamide is not for hypocapnia."
+        "Incorrect. The brick describes increased, not decreased, neuronal CA activity in some epilepsy.",
+        "Incorrect. Na+/K+-ATPase dysfunction is not the rationale described in the brick.",
+        "Incorrect. Epilepsy is characterized by reduced inhibition or increased excitation, not excess GABA activity.",
+        "Correct. Some epileptic neurons show increased CA activity producing high intracellular bicarbonate, which contributes to uncoordinated neuronal firing; CAIs correct this imbalance.",
+        "Incorrect. The brick does not attribute the seizure mechanism to calcium channel changes."
       ]
     },
     {
       "id": 11,
-      "stem": "A 55-year-old woman with chronic open-angle glaucoma is using topical dorzolamide. Which best characterizes topical CA inhibitors?",
+      "stem": "A 50-year-old man with COPD is being weaned from mechanical ventilation in the ICU. The intensivist orders acetazolamide. Which physiologic effect is being sought?",
       "choices": [
-        "Topical CA inhibitors with minimal systemic effects",
-        "Same systemic side effects as oral acetazolamide",
-        "First-line for acute angle-closure",
-        "Used for altitude sickness",
-        "Not effective in glaucoma"
+        "Bronchodilation of small airways",
+        "Decreased serum bicarbonate to increase the patient's respiratory drive",
+        "Increased serum bicarbonate to buffer respiratory acidosis",
+        "Inhibition of mucus production",
+        "Stimulation of erythropoietin to improve oxygen carrying capacity"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanations": [
-        "Correct. Topical CA inhibitors (dorzolamide, brinzolamide) reduce aqueous humor production locally with minimal systemic absorption — fewer systemic effects (no metabolic acidosis, no significant K+ wasting, no paresthesias) compared with oral acetazolamide. Used for chronic open-angle glaucoma. Local side effects: ocular irritation, bitter taste, allergic conjunctivitis. Caution still warranted in severe sulfa allergy.",
-        "Incorrect. Topical use minimizes systemic effects.",
-        "Incorrect. Topical agents are not first-line for acute angle-closure (oral/IV needed for the acute pressure).",
-        "Incorrect. Altitude requires systemic absorption.",
-        "Incorrect. Topical CA inhibitors are effective in chronic glaucoma."
+        "Incorrect. CAIs are not bronchodilators.",
+        "Correct. In COPD, the kidneys raise serum HCO3− to compensate for chronic respiratory acidosis; CAIs decrease bicarbonate, increasing respiratory drive and helping wean off the ventilator.",
+        "Incorrect. CAIs decrease, not increase, serum bicarbonate.",
+        "Incorrect. CAIs do not affect mucus production.",
+        "Incorrect. CAIs do not stimulate erythropoietin."
       ]
     },
     {
       "id": 12,
-      "stem": "A 30-year-old researcher considers acetazolamide effects on K+ secretion. Which best characterizes the drug's K+ effects compared with loop and thiazide diuretics?",
+      "stem": "A 48-year-old man is being treated off-label with acetazolamide for central sleep apnea. By which mechanism does the drug improve his oxygenation during sleep?",
       "choices": [
-        "Acetazolamide is K+-sparing",
-        "K+ wasting via distal Na+ delivery",
-        "Has no effect on K+",
-        "Causes hyperkalemia",
-        "Direct ROMK inhibition"
+        "Direct relaxation of upper airway musculature",
+        "Inducing urinary HCO3− loss, lowering serum pH and stimulating central chemoreceptors to drive hyperventilation",
+        "Inhibiting central chemoreceptors to reduce hyperventilation",
+        "Reducing CSF production, lowering ICP and brainstem compression",
+        "Reducing intraocular pressure during REM sleep"
       ],
       "answer": 1,
       "explanations": [
-        "Incorrect. Acetazolamide is K+-wasting, not K+-sparing.",
-        "Correct. All diuretics that increase distal Na+ delivery (acetazolamide, loop, thiazide) produce K+ wasting via aldosterone-driven principal cell K+ secretion. Acetazolamide's K+ effect is generally milder than loop or thiazide because its diuretic effect is weaker. Combined with K+-sparing diuretic (amiloride) or K+ supplementation in chronic use.",
-        "Incorrect. Effect is real.",
-        "Incorrect. Acetazolamide is not K+-retaining.",
-        "Incorrect. Mechanism is indirect."
+        "Incorrect. Central sleep apnea is loss of respiratory effort, not airway obstruction; CAIs act on chemoreceptor drive.",
+        "Correct. CAIs increase urinary HCO3− excretion, lowering serum pH; this triggers central chemoreceptors, leading to hyperventilation and improved oxygenation.",
+        "Incorrect. CAIs stimulate, rather than inhibit, the response of central chemoreceptors.",
+        "Incorrect. Although CAIs lower CSF production, this is not the mechanism for improving central sleep apnea.",
+        "Incorrect. IOP effects are unrelated to central sleep apnea."
       ]
     },
     {
       "id": 13,
-      "stem": "A 25-year-old man with familial hypokalemic periodic paralysis has recurrent attacks of acute weakness. Acetazolamide is started prophylactically. Which best explains its role?",
+      "stem": "A 24-year-old man has been taking acetazolamide before mountaineering. Routine labs reveal a low serum potassium and a non-anion-gap metabolic acidosis. Why does CAI use lead to hypokalemia?",
       "choices": [
-        "Acetazolamide treats acute attacks only",
-        "Acidosis reduces attack frequency",
-        "Direct K+ replacement",
-        "Acetazolamide is contraindicated",
-        "Reverses causal mutation"
+        "Aldosterone-independent collecting duct sodium reabsorption shifts K+ into cells",
+        "CAIs activate Na+/K+-ATPase across cell membranes",
+        "CAIs directly block K+ reabsorption in the thick ascending limb",
+        "K+ is excreted in the urine along with the bicarbonate that the tubule cannot reabsorb",
+        "Metabolic acidosis directly causes intracellular shift of potassium"
       ],
-      "answer": 1,
+      "answer": 3,
       "explanations": [
-        "Incorrect. Acetazolamide is principally prophylactic.",
-        "Correct. In familial hypokalemic periodic paralysis (autosomal dominant mutations in CACNA1S or SCN4A), acetazolamide reduces attack frequency. The mild metabolic acidosis from CA inhibition stabilizes muscle membrane and prevents the K+ shifts that precipitate attacks. Avoidance of triggers (high carbohydrate meals, rest after exercise, cold) is also important. K+-sparing diuretics (spironolactone, eplerenone) are alternatives.",
-        "Incorrect. Acetazolamide does not directly replace K+.",
-        "Incorrect. Acetazolamide is therapeutic.",
-        "Incorrect. Does not change the genetics."
+        "Incorrect. The brick attributes K+ loss to its excretion with bicarbonate, not to ENaC-mediated effects.",
+        "Incorrect. CAIs do not act on Na+/K+-ATPase.",
+        "Incorrect. Loop diuretics affect the thick ascending limb; CAIs act in the proximal tubule.",
+        "Correct. Per the brick, potassium is excreted along with the bicarbonate that the renal tubule cannot reabsorb, leading to hypokalemia.",
+        "Incorrect. Acidosis tends to shift K+ out of cells, raising serum K+; this does not explain CAI-induced hypokalemia."
       ]
     },
     {
       "id": 14,
-      "stem": "A 40-year-old man on chronic topiramate for migraine has paresthesias, mild metabolic acidosis, and a kidney stone. Which best characterizes topiramate's effect on the kidney?",
-      "choices": [
-        "Topiramate is unrelated to renal function",
-        "Weak CA inhibitor effect",
-        "Topiramate is a loop diuretic",
-        "Topiramate raises ionized calcium",
-        "Topiramate causes type 4 RTA"
-      ],
+      "stem": "A 41-year-old man on chronic acetazolamide develops right flank pain and gross hematuria. CT shows a renal calculus. Which composition is most consistent with the stones associated with CAI therapy?",
+      "choices": ["Calcium oxalate", "Calcium phosphate", "Cystine", "Struvite (magnesium ammonium phosphate)", "Uric acid"],
       "answer": 1,
       "explanations": [
-        "Incorrect. Topiramate has renal effects.",
-        "Correct. Topiramate (anticonvulsant, migraine prophylaxis) has weak carbonic anhydrase inhibitor activity, producing similar effects to acetazolamide: mild metabolic acidosis, alkaline urine, hypokalemia, and Ca-phosphate kidney stones. Recognized as a stone risk in patients on long-term therapy. Other neurologic uses: weight loss (often a desired side effect), seizures.",
-        "Incorrect. Topiramate is not a loop diuretic.",
-        "Incorrect. Topiramate does not raise Ca2+.",
-        "Incorrect. Type 4 RTA is hyperkalemic; topiramate causes hypokalemic acidosis (mimicking proximal RTA)."
+        "Incorrect. Calcium oxalate stones are not the type specifically linked to CAI use in the brick.",
+        "Correct. Alkalinization of the urine from CAIs may lead to formation of renal calcium phosphate stones.",
+        "Incorrect. Cystine stones are caused by hereditary cystinuria, not by CAIs.",
+        "Incorrect. Struvite stones form in the setting of urease-producing bacterial infections.",
+        "Incorrect. Uric acid stones precipitate in acidic urine; CAI-induced alkaline urine actually disfavors them."
       ]
     },
     {
       "id": 15,
-      "stem": "A 28-year-old researcher considers acetazolamide effects on ammonia excretion. Which best characterizes this?",
-      "choices": [
-        "Acetazolamide enhances NH4+ excretion",
-        "Acetazolamide DECREASES urinary NH4+ excretion",
-        "No effect on NH4+",
-        "NH4+ excretion follows urine pH only",
-        "Acetazolamide degrades NH4+"
-      ],
-      "answer": 1,
+      "stem": "A 26-year-old woman started on acetazolamide for idiopathic intracranial hypertension reports new tingling in her fingers and toes and intermittent ringing in her ears. These adverse effects are best categorized as which class of CAI side effect?",
+      "choices": ["Cardiotoxic", "Hematologic", "Hepatotoxic", "Nephrotoxic", "Neurologic"],
+      "answer": 4,
       "explanations": [
-        "Incorrect. NH4+ excretion is reduced.",
-        "Correct. Acetazolamide alkalinizes urine, reducing the diffusion trap that normally captures NH4+ in tubular fluid (NH3 + H+ → NH4+ in acidic urine). Reduced NH4+ excretion can precipitate hepatic encephalopathy in patients with cirrhosis (rising plasma ammonia). For this reason, acetazolamide is contraindicated or used cautiously in advanced liver disease. Alternative: amiloride, mannitol, or other agents.",
-        "Incorrect. Effect is real.",
-        "Incorrect. Effect is not solely pH-mediated.",
-        "Incorrect. Acetazolamide does not degrade NH4+."
+        "Incorrect. The brick does not describe cardiotoxicity from CAIs.",
+        "Incorrect. The brick does not list hematologic adverse effects.",
+        "Incorrect. CAIs may worsen liver disease, but paresthesias and tinnitus are not categorized as hepatotoxic.",
+        "Incorrect. Renal stones are a separate adverse effect category.",
+        "Correct. Paresthesias (tingling in extremities) and tinnitus (ringing in the ears) are classified as neurologic side effects of CAIs."
       ]
     },
     {
       "id": 16,
-      "stem": "A 60-year-old man with cirrhosis and ascites is being started on a diuretic. Which CA inhibitor concern applies?",
+      "stem": "A 38-year-old man with a history of severe rash after taking trimethoprim-sulfamethoxazole presents with newly diagnosed open-angle glaucoma. Which feature of CAIs makes them contraindicated in this patient?",
       "choices": [
-        "Acetazolamide is first-line for ascites",
-        "Avoid acetazolamide due to encephalopathy risk",
-        "Acetazolamide is preferred over spironolactone",
-        "Acetazolamide is liver-protective",
-        "Acetazolamide is unrelated to liver function"
+        "Beta-lactam ring causing penicillin cross-reactivity",
+        "High potassium load worsening sulfa-related nephritis",
+        "Macrolide-like CYP3A4 inhibition",
+        "Sulfonamide group causing cross-reactivity in patients with sulfa allergy",
+        "Tetracycline-like chelation with calcium"
       ],
-      "answer": 1,
+      "answer": 3,
       "explanations": [
-        "Incorrect. Spironolactone + furosemide (100:40) is first-line for cirrhotic ascites.",
-        "Correct. Acetazolamide alkalinizes urine and reduces NH4+ excretion, raising plasma ammonia. In cirrhosis with already-impaired hepatic ammonia clearance, this can precipitate or worsen HEPATIC ENCEPHALOPATHY. Use is generally avoided in advanced liver disease. Cirrhotic ascites is best treated with spironolactone + furosemide in 100:40 ratio.",
-        "Incorrect. Spironolactone is preferred.",
-        "Incorrect. Not liver-protective.",
-        "Incorrect. Liver disease is a relative contraindication."
+        "Incorrect. CAIs do not contain a beta-lactam ring.",
+        "Incorrect. CAIs cause hypokalemia, not hyperkalemia.",
+        "Incorrect. CAIs are not macrolide-class drugs.",
+        "Correct. CAIs contain a sulfonamide group and are contraindicated in patients with a sulfa allergy.",
+        "Incorrect. Chelation with calcium is a tetracycline property, not a CAI property."
       ]
     },
     {
       "id": 17,
-      "stem": "A 30-year-old patient is given acetazolamide for urinary alkalinization in salicylate poisoning. Which best characterizes this practice?",
+      "stem": "A 62-year-old man with cirrhosis from chronic alcohol use is found to have elevated intraocular pressure. The clinician avoids prescribing acetazolamide. What is the primary concern in this patient?",
       "choices": [
-        "Standard first-line therapy for salicylate poisoning",
-        "Sodium bicarbonate is preferred",
-        "Acetazolamide is contraindicated",
-        "Acetazolamide treats the salicylate directly",
-        "Either is interchangeable"
+        "Acute kidney injury from sodium retention",
+        "Hyperkalemia from impaired K+ excretion",
+        "Precipitation of hepatic encephalopathy",
+        "Severe hypertension from volume overload",
+        "Worsening pulmonary edema"
       ],
-      "answer": 1,
+      "answer": 2,
       "explanations": [
-        "Incorrect. Sodium bicarbonate is preferred.",
-        "Correct. For salicylate poisoning, the goal is urinary alkalinization to ion-trap salicylate (a weak acid) in alkaline urine, increasing renal clearance. Sodium bicarbonate (typically 1–2 mEq/kg bolus then infusion) is preferred — it directly alkalinizes urine AND raises plasma pH (reducing salicylate's CNS distribution). Acetazolamide alkalinizes urine but DROPS plasma pH (metabolic acidosis), which would WORSEN salicylate CNS toxicity. Hemodialysis is reserved for severe cases.",
-        "Incorrect. Acetazolamide is not strictly contraindicated but is not preferred.",
-        "Incorrect. Mechanism is alkalinization, not direct salicylate effect.",
-        "Incorrect. They are not interchangeable."
+        "Incorrect. CAIs do not cause sodium retention; they promote sodium loss.",
+        "Incorrect. CAIs cause hypokalemia, not hyperkalemia.",
+        "Correct. CAIs should be avoided in patients with cirrhosis because they may precipitate hepatic encephalopathy.",
+        "Incorrect. CAIs do not cause volume overload or hypertension; they are mild diuretics.",
+        "Incorrect. CAIs are not used for fluid overload but they do not characteristically worsen pulmonary edema."
       ]
     },
     {
       "id": 18,
-      "stem": "A 28-year-old researcher reviews acetazolamide effects on phosphate. Which best characterizes the effect?",
+      "stem": "A 30-year-old woman in her second trimester is diagnosed with idiopathic intracranial hypertension. Her physician discusses CAI therapy. Which best characterizes the use of CAIs in pregnancy?",
       "choices": [
-        "Hyperphosphatemia",
-        "Hypophosphatemia from increased phosphaturia",
-        "No effect on phosphate",
-        "Direct phosphate consumption",
-        "Phosphate sparing"
+        "Absolutely contraindicated in all trimesters",
+        "Category A drug, considered safe with abundant human safety data",
+        "Category B drug, no risk in animal studies and limited human data",
+        "Category C drug, use cautiously and only when benefit may outweigh risk",
+        "Category X drug, contraindicated due to known severe teratogenicity"
       ],
-      "answer": 1,
+      "answer": 3,
       "explanations": [
-        "Incorrect. Phosphate falls.",
-        "Correct. Acetazolamide reduces NaPi-IIa-mediated phosphate reabsorption in the PCT (CA inhibition reduces Na+ entry, secondarily reducing Na+-dependent phosphate transport). Mild hypophosphatemia and increased urinary phosphate excretion can occur. In chronic use, may contribute to bone effects and stone formation. Generally clinically minor.",
-        "Incorrect. Effect is real.",
-        "Incorrect. Phosphate is excreted, not consumed.",
-        "Incorrect. Opposite direction."
+        "Incorrect. The brick does not classify CAIs as absolutely contraindicated in pregnancy.",
+        "Incorrect. There are not abundant human safety data; CAIs are not category A.",
+        "Incorrect. CAIs are category C, not B, in the brick.",
+        "Correct. CAIs are category C drugs in pregnancy, to be used cautiously and only when the benefit may outweigh the risk.",
+        "Incorrect. CAIs are category C, not category X."
       ]
     },
     {
       "id": 19,
-      "stem": "A 45-year-old patient is given IV acetazolamide for severe metabolic alkalosis. Which best characterizes the typical dose and onset?",
+      "stem": "A 55-year-old hypertensive man is found to have mildly elevated intraocular pressure. His physician notes that, unlike thiazides or loop diuretics, CAIs are not first-line therapy for his hypertension. What is the principal reason CAIs are not used for fluid overload or hypertension?",
       "choices": [
-        "5 g IV — acts within seconds",
-        "250–500 mg IV; 6–12 h duration",
-        "Continuous infusion only",
-        "Same dose as oral with identical kinetics",
-        "Dose is body-weight independent"
+        "They cause life-threatening hyperkalemia",
+        "Their diuretic effect is much weaker than that of other diuretic drugs",
+        "They directly cause vasoconstriction and raise blood pressure",
+        "They have no effect on sodium reabsorption",
+        "They worsen renal blood flow at therapeutic doses"
       ],
       "answer": 1,
       "explanations": [
-        "Incorrect. 5 g is excessive.",
-        "Correct. IV acetazolamide for refractory metabolic alkalosis: typical dose 250–500 mg IV, onset 1–2 hours, peak effect 4–6 hours, duration 6–12 hours. Effect: bicarbonaturia and modest reduction in HCO3− over 24 hours. Watch for hypokalemia, paresthesias. Repeat dosing or scheduled regimen for sustained effect. Oral form has similar effect with slower onset (~1 hour to peak).",
-        "Incorrect. Bolus dosing is standard.",
-        "Incorrect. Same target effect but kinetics differ slightly.",
-        "Incorrect. Standard dose is fixed; weight-based adjustment unusual."
+        "Incorrect. CAIs cause hypokalemia, not hyperkalemia, and that is not why they are not used for hypertension.",
+        "Correct. The brick states that CAIs are not used for fluid overload or hypertension because their diuretic effect is much weaker than that of other diuretics.",
+        "Incorrect. CAIs do not cause vasoconstriction.",
+        "Incorrect. CAIs do reduce sodium reabsorption (linked to bicarbonate); the issue is potency, not lack of effect.",
+        "Incorrect. The brick does not cite renal blood flow as the limiting factor."
       ]
     },
     {
       "id": 20,
-      "stem": "A 30-year-old researcher considers when acetazolamide is contraindicated. Which best lists relative contraindications?",
+      "stem": "A 65-year-old woman with chronic open-angle glaucoma is started on long-term therapy. To minimize systemic adverse effects while still treating her glaucoma, which CAI route is preferred?",
       "choices": [
-        "No contraindications",
-        "Sulfa allergy, liver disease, hypokalemia",
-        "Only pregnancy",
-        "Only renal failure",
-        "Only acute glaucoma"
+        "Intramuscular acetazolamide",
+        "Intravenous acetazolamide",
+        "Oral methazolamide",
+        "Subcutaneous acetazolamide",
+        "Topical brinzolamide eye drops"
       ],
-      "answer": 1,
+      "answer": 4,
       "explanations": [
-        "Incorrect. Multiple cautions exist.",
-        "Correct. Relative contraindications and cautions: SEVERE SULFA ALLERGY (acetazolamide is sulfonamide-derived); SEVERE LIVER DISEASE (risk of hepatic encephalopathy from reduced NH4+ excretion); EXISTING HYPERCHLOREMIC METABOLIC ACIDOSIS (acetazolamide will worsen); EXISTING HYPOKALEMIA (acetazolamide will worsen); SEVERE COPD with chronic respiratory acidosis (acetazolamide adds metabolic acidosis); KIDNEY STONES (especially Ca-phosphate); pregnancy category C. Use lower doses or avoid in advanced renal failure.",
-        "Incorrect. More contraindications.",
-        "Incorrect. More than just renal failure.",
-        "Incorrect. Acetazolamide is used IN acute glaucoma."
+        "Incorrect. Intramuscular dosing is not the preferred route for chronic glaucoma in the brick.",
+        "Incorrect. IV acetazolamide is reserved for systemic indications such as acute severe glaucoma.",
+        "Incorrect. Methazolamide is oral and would still produce systemic effects compared with a topical agent.",
+        "Incorrect. Subcutaneous dosing is not described.",
+        "Correct. For chronic long-term glaucoma therapy, topical CAIs (e.g., brinzolamide) are preferred because they generally avoid systemic effects."
       ]
     },
     {
       "id": 21,
-      "stem": "A 60-year-old man receives a diuretic challenge with acetazolamide as part of evaluating renal HCO3− handling. Which best characterizes the expected response?",
+      "stem": "A 58-year-old man presents to the emergency department with an acute, severe attack of open-angle glaucoma. Which CAI choice and route is most appropriate for this acute presentation?",
       "choices": [
-        "Increased urinary HCO3−",
-        "Decreased urinary HCO3−",
-        "No change in urine pH",
-        "Decreased urine output",
-        "Acidic urine"
+        "Brinzolamide topical drops",
+        "Dorzolamide topical drops",
+        "Methazolamide topical drops",
+        "Oral or IV acetazolamide",
+        "Subcutaneous brinzolamide"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanations": [
-        "Correct. Acetazolamide challenge typically produces a marked increase in urinary HCO3− excretion (from <5% of filtered load to ~30%) and a rise in urine pH from ~5.5 to ~7.5 within hours. This response can be used to test PCT HCO3− handling integrity. Diminished response in proximal RTA / Fanconi syndrome suggests baseline impaired PCT function.",
-        "Incorrect. Reverse — bicarbonaturia is expected.",
-        "Incorrect. Urine pH rises with HCO3− loss.",
-        "Incorrect. Mild diuresis is expected.",
-        "Incorrect. Urine becomes alkaline."
+        "Incorrect. Topical brinzolamide is preferred for chronic, not acute severe, glaucoma per the brick.",
+        "Incorrect. Topical dorzolamide is also chronic-therapy oriented.",
+        "Incorrect. Methazolamide is given orally, not topically.",
+        "Correct. For an acute severe case of glaucoma the brick recommends systemic therapy with acetazolamide (oral or IV).",
+        "Incorrect. Brinzolamide is administered topically, not subcutaneously."
       ]
     },
     {
       "id": 22,
-      "stem": "A 30-year-old researcher considers acetazolamide effects on the eye in chronic open-angle glaucoma. Which best characterizes long-term oral acetazolamide?",
+      "stem": "A medical student is reviewing the proximal tubule cell diagram showing bicarbonate reabsorption. In the tubular lumen, filtered HCO3− combines with secreted H+ to form H2CO3, which CA then converts to which two molecules that diffuse into the cell?",
       "choices": [
-        "First-line for chronic open-angle glaucoma",
-        "Reserved for refractory cases",
-        "Cures glaucoma",
-        "No effect on IOP",
-        "Used only for cataracts"
+        "Carbonic acid and ammonia",
+        "CO2 and water",
+        "Glucose and lactate",
+        "Na+ and Cl−",
+        "Pyruvate and CO2"
       ],
       "answer": 1,
       "explanations": [
-        "Incorrect. Topical agents are first-line.",
-        "Correct. Long-term oral acetazolamide for glaucoma is RESERVED for refractory cases or as bridge therapy due to systemic side effects (paresthesias, fatigue, K+ wasting, metabolic acidosis, stones). First-line agents for chronic open-angle glaucoma: prostaglandin analogs (latanoprost — increase outflow), β-blockers (timolol — decrease production), α2-agonists (brimonidine), TOPICAL CA inhibitors (dorzolamide, brinzolamide — minimal systemic effect), miotics (pilocarpine; rarely first-line). Surgery / laser for refractory.",
-        "Incorrect. Glaucoma is managed, not cured.",
-        "Incorrect. Acetazolamide effectively lowers IOP.",
-        "Incorrect. Not for cataracts."
+        "Incorrect. Ammonia is not generated by this reaction.",
+        "Correct. CA in the lumen converts H2CO3 into CO2 and water, which then diffuse into the proximal tubule cell where intracellular CA reverses the reaction.",
+        "Incorrect. Glucose and lactate are not products of CA.",
+        "Incorrect. Na+ and Cl− are not products of CA-catalyzed reactions.",
+        "Incorrect. Pyruvate is not produced by CA."
       ]
     },
     {
       "id": 23,
-      "stem": "A 28-year-old researcher considers acetazolamide's effect in patients with COPD. Which best characterizes the recommendation?",
+      "stem": "A patient is started on a carbonic anhydrase inhibitor and provides a urine sample several days later. Compared with baseline, which urinary finding is expected?",
       "choices": [
-        "First-line therapy for COPD",
-        "Selectively used; not in respiratory failure",
-        "Always contraindicated in COPD",
-        "Improves bronchodilation",
-        "Replaces inhalers"
+        "Decreased bicarbonate, more acidic pH",
+        "Increased bicarbonate, more alkaline pH",
+        "Increased glucose with normal pH",
+        "Decreased sodium, more alkaline pH",
+        "Unchanged composition because effects are confined to the eye"
       ],
       "answer": 1,
       "explanations": [
-        "Incorrect. Acetazolamide is not COPD therapy.",
-        "Correct. Acetazolamide can be used cautiously to correct metabolic alkalosis in COPD patients on chronic loop diuretic (post-hypercapnic, contraction alkalosis). It is NOT indicated to treat active hypercapnic respiratory failure (would add metabolic acidosis to the existing respiratory acidosis, worsening the situation). In selected cases of chronic compensation issues, low-dose acetazolamide can help wean ventilator-dependent patients with mixed disorders.",
-        "Incorrect. Selectively used.",
-        "Incorrect. Not bronchodilator.",
-        "Incorrect. Not a replacement."
+        "Incorrect. CAIs increase, not decrease, urinary bicarbonate.",
+        "Correct. After taking the drug, the urine will be more alkaline than normal because of the extra bicarbonate (bicarbonaturia).",
+        "Incorrect. CAIs do not cause glucosuria.",
+        "Incorrect. CAIs increase urinary sodium loss along with bicarbonate.",
+        "Incorrect. Systemic CAIs act on the kidney; renal effects on bicarbonate and sodium occur with oral/IV agents."
       ]
     },
     {
       "id": 24,
-      "stem": "A 30-year-old researcher reviews CA inhibitor pharmacology. Which characterizes the bioavailability and excretion of acetazolamide?",
+      "stem": "A 31-year-old man arrives at a high-altitude resort and rapidly develops headache and nausea consistent with altitude sickness. Which underlying acid–base disturbance is responsible for these symptoms in unprotected ascent?",
       "choices": [
-        "Poorly absorbed orally; metabolized by liver",
-        "Well-absorbed orally; excreted in urine",
-        "Renal metabolism",
-        "Excreted in stool",
-        "Highly metabolized to active metabolites"
+        "Metabolic acidosis from lactic acid accumulation",
+        "Metabolic alkalosis from renal HCO3− retention",
+        "No acid–base disturbance; symptoms reflect dehydration",
+        "Respiratory acidosis from hypoventilation",
+        "Respiratory alkalosis from hypoxemia-induced hyperventilation"
       ],
-      "answer": 1,
+      "answer": 4,
       "explanations": [
-        "Incorrect. Well-absorbed.",
-        "Correct. Acetazolamide is well-absorbed orally with bioavailability ~100%. Highly protein-bound (~90%). Excreted unchanged in urine (renal clearance). Half-life 6–13 hours. Dose adjustment in renal impairment. Formulations: oral tablets (125, 250 mg), extended-release (500 mg), IV (250 mg/mL). Methazolamide: similar but more lipophilic with longer half-life (~14 hours).",
-        "Incorrect. Renal excretion, not metabolism.",
-        "Incorrect. Renal not GI elimination.",
-        "Incorrect. Excreted unchanged."
+        "Incorrect. The brick attributes altitude sickness to respiratory alkalosis from hyperventilation, not lactic acidosis.",
+        "Incorrect. Renal HCO3− retention is the compensation, not the primary disturbance, in altitude sickness.",
+        "Incorrect. The brick explicitly describes an acid–base mechanism rather than dehydration.",
+        "Incorrect. At altitude, hypoxemia drives hyperventilation, not hypoventilation.",
+        "Correct. Hypoxemia at altitude induces hyperventilation that releases large amounts of CO2, producing respiratory alkalosis with headache and nausea."
       ]
     },
     {
       "id": 25,
-      "stem": "A 30-year-old researcher reviews the principal indications for CA inhibitors. Which best lists them?",
+      "stem": "A 70-year-old man with mild Alzheimer disease and a documented sulfa allergy is found to have elevated intraocular pressure on routine eye exam. His ophthalmologist considers prescribing dorzolamide eye drops. Which class-wide warning still applies even with a topical CAI?",
       "choices": [
-        "Only glaucoma",
-        "Glaucoma, altitude, IIH, alkalosis",
-        "Only hypertension",
-        "Only seizure",
-        "Only diuretic monotherapy"
+        "Cross-reactivity in patients with a sulfa allergy because CAIs contain a sulfonamide group",
+        "Direct cardiotoxicity at therapeutic ophthalmic doses",
+        "Marked hyperkalemia limiting use in renal disease",
+        "Profound diuresis causing hypovolemic shock",
+        "Teratogenicity classified as category X in pregnancy"
       ],
-      "answer": 1,
+      "answer": 0,
       "explanations": [
-        "Incorrect. Multiple indications.",
-        "Correct. CA inhibitor indications: GLAUCOMA (acute angle-closure: oral/IV; chronic open-angle: topical preferred); ACUTE MOUNTAIN SICKNESS prevention/treatment; IDIOPATHIC INTRACRANIAL HYPERTENSION (pseudotumor cerebri); URINARY ALKALINIZATION (rarely first-line; bicarbonate preferred); REFRACTORY METABOLIC ALKALOSIS (especially HF with diuretic-induced); HYPOKALEMIC PERIODIC PARALYSIS prophylaxis; URIC ACID and CYSTINE STONE prevention via alkalinization; weak diuretic adjunct (rarely used as monotherapy). Topiramate has weak CA activity used for migraine and seizures.",
-        "Incorrect. Not for HTN principally.",
-        "Incorrect. Topiramate has CA activity but the primary CA inhibitor indications are not seizures.",
-        "Incorrect. Acetazolamide is rarely used as diuretic monotherapy."
+        "Correct. All CAIs (including topical agents) contain a sulfonamide group and are contraindicated in patients with a sulfa allergy.",
+        "Incorrect. The brick does not describe direct cardiotoxicity from CAIs.",
+        "Incorrect. CAIs cause hypokalemia, not hyperkalemia.",
+        "Incorrect. CAI diuresis is mild and does not characteristically cause hypovolemic shock.",
+        "Incorrect. CAIs are pregnancy category C, not category X."
       ]
     }
   ]

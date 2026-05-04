@@ -81,14 +81,47 @@ button { font-family: inherit; }
   font-size: 14px;
 }
 
-.bricks-section { padding: 32px 0 64px; }
+.bricks-section { padding: 32px 0 120px; }
 .section-title {
   font-size: 12px;
   font-weight: 600;
   letter-spacing: 0.08em;
   text-transform: uppercase;
   color: var(--text-faint);
+  margin: 0;
+}
+.bricks-toolbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 12px;
+  flex-wrap: wrap;
+  margin-bottom: 6px;
+}
+.bricks-toolbar-actions {
+  display: flex;
+  gap: 6px;
+  flex-wrap: wrap;
+}
+.bricks-hint {
   margin: 0 0 18px;
+  font-size: 12.5px;
+  color: var(--text-faint);
+}
+.bricks-hint-pill {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  background: var(--bg-elev-2);
+  border: 1px solid var(--border-strong);
+  font-weight: 600;
+  font-size: 12px;
+  color: var(--text-muted);
+  vertical-align: middle;
+  margin: 0 1px;
 }
 
 .brick-grid {
@@ -141,7 +174,91 @@ button { font-family: inherit; }
 .brick-card-top {
   display: flex;
   justify-content: space-between;
+  align-items: center;
+  gap: 8px;
+}
+
+/* Mix-select checkbox in card */
+.mix-select {
+  flex: 0 0 auto;
+  width: 26px;
+  height: 26px;
+  border-radius: 7px;
+  border: 1px solid var(--border-strong);
+  background: var(--bg-elev-2);
+  color: var(--text-muted);
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 1;
+  padding: 0;
+  font-family: inherit;
+  transition:
+    border-color var(--t-fast) var(--ease),
+    background var(--t-fast) var(--ease),
+    color var(--t-fast) var(--ease),
+    transform var(--t-fast) var(--ease);
+}
+.mix-select:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+  transform: scale(1.05);
+}
+.mix-select.selected {
+  background: var(--accent);
+  color: #0a0d13;
+  border-color: var(--accent);
+}
+.brick-card.mix-selected {
+  border-color: var(--accent);
+  box-shadow: 0 0 0 1px var(--accent), var(--shadow-sm);
+}
+
+/* Sticky mix bar */
+.mix-bar {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(11, 14, 19, 0.92);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border-top: 1px solid var(--border-strong);
+  z-index: 20;
+  animation: mixBarIn 0.3s var(--ease-out);
+}
+@keyframes mixBarIn {
+  from { transform: translateY(100%); opacity: 0; }
+  to   { transform: translateY(0); opacity: 1; }
+}
+.mix-bar-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 12px;
+  padding: 14px 22px;
+  flex-wrap: wrap;
+}
+.mix-bar-info {
+  display: flex;
   align-items: baseline;
+  gap: 8px;
+}
+.mix-bar-count {
+  font-size: 22px;
+  font-weight: 700;
+  color: var(--accent);
+  font-variant-numeric: tabular-nums;
+}
+.mix-bar-label {
+  font-size: 13px;
+  color: var(--text-muted);
+}
+.mix-bar-actions {
+  display: flex;
   gap: 8px;
 }
 .brick-number {
@@ -431,6 +548,24 @@ button { font-family: inherit; }
 }
 .feedback-text.correct { color: var(--correct); }
 .feedback-text.incorrect { color: var(--incorrect); }
+
+.source-tag {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 5px 10px;
+  background: var(--bg-elev-2);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  font-size: 11.5px;
+  color: var(--text-muted);
+  letter-spacing: 0.01em;
+}
+.source-tag-brick {
+  font-weight: 700;
+  color: var(--text);
+  letter-spacing: 0.04em;
+}
 
 .btn {
   display: inline-flex;
