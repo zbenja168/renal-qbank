@@ -6,11 +6,11 @@
       "id": 1,
       "stem": "A 27-year-old man presents to the emergency department with sudden shortness of breath, palpitations, and dizziness immediately after a stressful work meeting. He is anxious with a respiratory rate of 32 breaths/min and oxygen saturation of 99% on room air. An arterial blood gas is most likely to show which pattern?",
       "choices": [
-        "↑ pH, ↑ PaCO2, ↑ HCO3-",
-        "↑ pH, ↓ PaCO2, normal or ↓ HCO3-",
-        "↓ pH, ↑ PaCO2, ↑ HCO3-",
-        "↓ pH, ↓ PaCO2, ↓ HCO3-",
-        "Normal pH, ↓ PaCO2, ↓ HCO3-"
+        "↑ pH, ↑ PaCO2, ↑ HCO3- (severe)",
+        "↑ pH, ↓ PaCO2, normal HCO3-",
+        "↓ pH, ↑ PaCO2, ↑ HCO3- (chronic)",
+        "↓ pH, ↓ PaCO2, ↓ HCO3- (severe)",
+        "Normal pH, ↓ PaCO2, ↓ HCO3- only"
       ],
       "answer": 1,
       "explanations": [
@@ -25,11 +25,11 @@
       "id": 2,
       "stem": "A 24-year-old woman with a panic attack hyperventilates and develops tingling around her mouth and in her fingers. Which mechanism best explains her paresthesias?",
       "choices": [
-        "Cerebral vasodilation from hypocapnia",
-        "Direct neurotoxic effect of low PaCO2",
-        "Increased binding of calcium to albumin, lowering ionized calcium",
-        "Release of intracellular potassium with neuromuscular depression",
-        "Shift of bicarbonate into neurons, hyperpolarizing membranes"
+        "Cerebral vasodilation triggered by acute hypocapnia",
+        "Direct neurotoxic effect of low PaCO2 on peripheral nerves",
+        "Increased binding of calcium to albumin",
+        "Release of intracellular potassium causing neuromuscular depression",
+        "Shift of bicarbonate into neurons, hyperpolarizing the membranes"
       ],
       "answer": 2,
       "explanations": [
@@ -44,11 +44,11 @@
       "id": 3,
       "stem": "A 32-year-old climber acutely ascends to 4,500 meters and develops tachypnea. Which mechanism most directly drives her hyperventilation?",
       "choices": [
-        "Central chemoreceptor sensing of low cerebrospinal fluid pH",
-        "Direct stimulation of pulmonary stretch receptors by thin air",
-        "Hypothalamic thermogenic response to cold air",
-        "Peripheral chemoreceptors in the carotid and aortic bodies sensing low PaO2",
-        "Vagal J-receptor activation by interstitial edema"
+        "Central chemoreceptor sensing of low cerebrospinal fluid pH and acidemia",
+        "Direct stimulation of pulmonary stretch receptors by thin atmospheric air",
+        "Hypothalamic thermogenic response to cold mountain air at altitude",
+        "Peripheral chemoreceptor sensing of low PaO2",
+        "Vagal J-receptor activation by interstitial pulmonary edema"
       ],
       "answer": 3,
       "explanations": [
@@ -63,11 +63,11 @@
       "id": 4,
       "stem": "A 28-year-old woman in her second trimester of pregnancy is found to have a chronically low PaCO2 and slightly elevated pH on routine labs. The hormonal change most directly responsible is best characterized as:",
       "choices": [
-        "Decreased estrogen causing alveolar hypoventilation",
-        "Decreased thyroid hormone causing reduced metabolic demand",
+        "Decreased estrogen causing alveolar hypoventilation in pregnancy",
+        "Decreased thyroid hormone leading to reduced overall metabolic demand",
         "Elevated cortisol causing direct stimulation of the medullary respiratory center",
-        "Elevated progesterone causing bronchodilation and increased tidal volume",
-        "Elevated hCG causing peripheral chemoreceptor sensitization"
+        "Elevated progesterone causing increased tidal volume",
+        "Elevated hCG causing peripheral chemoreceptor sensitization in pregnancy"
       ],
       "answer": 3,
       "explanations": [
@@ -101,11 +101,11 @@
       "id": 6,
       "stem": "A 58-year-old woman presents with progressive dyspnea, leg swelling, and orthopnea. Examination reveals crackles, JVD, and 3+ pitting edema. ABG: pH 7.55, PaCO2 25 mmHg, HCO3- 21 mEq/L, PaO2 70 mmHg, SaO2 85%. Which is the most likely cause of her respiratory alkalosis?",
       "choices": [
-        "Anxiety disorder",
+        "Acute panic-related anxiety disorder",
         "Heart failure with pulmonary edema",
-        "Opioid overdose",
-        "Primary hyperthyroidism",
-        "Pulmonary embolism"
+        "Acute opioid overdose with depression",
+        "Primary uncontrolled hyperthyroidism",
+        "Acute massive pulmonary embolism"
       ],
       "answer": 1,
       "explanations": [
@@ -120,11 +120,11 @@
       "id": 7,
       "stem": "A 22-year-old woman with severe Graves disease has a respiratory rate of 24 breaths/min. Her ABG shows pH 7.49, PaCO2 28 mmHg, HCO3- 22 mEq/L, PaO2 95 mmHg on room air. Which mechanism best explains her respiratory alkalosis?",
       "choices": [
-        "Bronchoconstriction triggering reflex hyperventilation",
-        "Hypoxemia from impaired oxygen diffusion",
-        "Increased metabolic demand stimulating ventilation with normal PaO2",
-        "Inhibition of central chemoreceptors by thyroid hormone",
-        "Pulmonary thromboembolism from hypercoagulability"
+        "Bronchoconstriction triggering reflex hyperventilation and tachypnea",
+        "Hypoxemia from impaired oxygen diffusion across alveoli",
+        "Increased metabolic demand stimulating ventilation",
+        "Inhibition of central chemoreceptors by circulating thyroid hormone",
+        "Pulmonary thromboembolism from disease-associated hypercoagulability"
       ],
       "answer": 2,
       "explanations": [
@@ -158,11 +158,11 @@
       "id": 9,
       "stem": "A 35-year-old woman with chronic respiratory alkalosis from anxiety has labs drawn after several weeks of symptoms. The kidneys' compensatory response would be expected to produce which change?",
       "choices": [
-        "Decreased renal H+ secretion and increased HCO3- excretion",
-        "Decreased urinary HCO3- with increased Na+ retention",
-        "Increased ammonium production and increased H+ excretion",
-        "Increased renal HCO3- reabsorption and regeneration",
-        "Increased secretion of aldosterone with K+ retention"
+        "Decreased renal H+ secretion with HCO3- excretion",
+        "Decreased urinary HCO3- combined with increased Na+ retention",
+        "Increased ammonium production and amplified H+ excretion",
+        "Increased renal HCO3- reabsorption with regeneration",
+        "Increased aldosterone secretion with renal K+ retention"
       ],
       "answer": 0,
       "explanations": [
@@ -177,10 +177,10 @@
       "id": 10,
       "stem": "A 40-year-old man with acute pulmonary embolism has an ABG showing pH 7.49, PaCO2 28 mmHg, HCO3- 23 mEq/L. Why is the serum bicarbonate not low despite his alkalosis?",
       "choices": [
-        "Acute hypoxemia stimulates renal HCO3- reabsorption",
-        "Active reabsorption of bicarbonate by the lungs",
-        "Hyperventilation directly produces bicarbonate",
-        "Hypocapnia immediately raises serum bicarbonate",
+        "Acute hypoxemia stimulates renal HCO3- reabsorption in the proximal tubule and collecting duct",
+        "Active reabsorption of bicarbonate ion is performed by the alveolar membranes of the lungs",
+        "Hyperventilation directly produces bicarbonate within the alveolar capillary network",
+        "Hypocapnia immediately raises serum bicarbonate concentration through buffer shifts",
         "Renal compensation requires hours to days, so acute disturbances show normal HCO3-"
       ],
       "answer": 4,
@@ -196,11 +196,11 @@
       "id": 11,
       "stem": "A 30-year-old man presents with sudden dyspnea, pleuritic chest pain, unilateral calf swelling, and an oxygen saturation of 88%. ABG shows pH 7.50, PaCO2 26 mmHg. Which test best confirms the most concerning underlying cause?",
       "choices": [
-        "CT angiography of the pulmonary arteries",
-        "Echocardiogram",
-        "Pulmonary function testing",
-        "Urine pregnancy test",
-        "Venous blood gas"
+        "CT angiography of pulmonary arteries",
+        "Transthoracic echocardiogram with bubble study",
+        "Pulmonary function testing with diffusion capacity",
+        "Urine pregnancy test combined with serum hCG",
+        "Venous blood gas with lactate measurement"
       ],
       "answer": 0,
       "explanations": [
@@ -215,11 +215,11 @@
       "id": 12,
       "stem": "A 19-year-old woman presents with dyspnea, fever, productive cough, and right lower-lobe crackles. ABG: pH 7.47, PaCO2 30 mmHg, PaO2 65 mmHg. Per the brick, this respiratory alkalosis is best classified as:",
       "choices": [
-        "Hypoxemic hyperventilation due to cardiopulmonary disease",
-        "Mixed acidosis-alkalosis from sepsis",
-        "Nonhypoxic hyperventilation from CNS stimulation",
-        "Nonhypoxic hyperventilation from hypermetabolic state",
-        "Renal compensation for metabolic acidosis"
+        "Hypoxemic hyperventilation from cardiopulmonary disease",
+        "Mixed acidosis-alkalosis pattern from underlying sepsis",
+        "Nonhypoxic hyperventilation triggered by primary CNS stimulation",
+        "Nonhypoxic hyperventilation arising from a hypermetabolic state",
+        "Renal compensation for an underlying metabolic acidosis"
       ],
       "answer": 0,
       "explanations": [
@@ -234,11 +234,11 @@
       "id": 13,
       "stem": "A 30-year-old patient breathing rapidly has an oxygen saturation of 99% on room air. According to the brick's diagnostic algorithm, which next step best classifies the cause of the respiratory alkalosis?",
       "choices": [
-        "CT angiography of the chest regardless of saturation",
-        "Empiric antibiotics for occult pneumonia",
-        "Empiric loop diuretic to evaluate for hidden CHF",
-        "Reassurance and discharge without further workup",
-        "Use the normal SpO2 to classify as nonhypoxemic and direct workup accordingly"
+        "Order chest CT angiography regardless of pulse oximetry saturation reading",
+        "Initiate empiric broad-spectrum antibiotics for possible occult bacterial pneumonia",
+        "Empiric loop diuretic trial to evaluate for hidden congestive heart failure",
+        "Reassurance and immediate discharge without further diagnostic workup performed",
+        "Use the normal SpO2 to classify as nonhypoxemic and direct workup"
       ],
       "answer": 4,
       "explanations": [
@@ -253,11 +253,11 @@
       "id": 14,
       "stem": "A 45-year-old patient with a known pulmonary embolism is alkalotic, hypoxemic, and tachypneic. According to the brick, the best management approach is:",
       "choices": [
-        "Anxiolytics to reduce respiratory rate",
-        "Coaching to take slower, deeper breaths",
-        "Observation alone since respiratory alkalosis is only a symptom",
-        "Oxygen for hypoxemia only, with no further therapy",
-        "Oxygen plus anticoagulation as definitive treatment of the underlying cause"
+        "Anxiolytics to lower the elevated respiratory rate and oxygen demand",
+        "Coaching the patient to take slower, deeper compensatory breaths",
+        "Observation alone, since respiratory alkalosis is merely a symptom of disease",
+        "Oxygen for hypoxemia only, without any further targeted antithrombotic therapy",
+        "Oxygen plus anticoagulation to treat the underlying cause"
       ],
       "answer": 4,
       "explanations": [
@@ -274,7 +274,7 @@
       "choices": [
         "An elevated PaO2",
         "Decreased serum bicarbonate alone",
-        "Low blood pH",
+        "The presence of a low blood pH",
         "Normal anion gap",
         "Slow respiratory rate"
       ],
@@ -291,10 +291,10 @@
       "id": 16,
       "stem": "A 23-year-old woman has nausea and morning lightheadedness. She is breathing slightly faster than normal. Per the brick, which laboratory test is most appropriate to help identify the cause of suspected respiratory alkalosis?",
       "choices": [
-        "B-type natriuretic peptide",
-        "Pulmonary function testing",
-        "Serum lactate",
-        "Troponin",
+        "Serum B-type natriuretic peptide level",
+        "Outpatient pulmonary function testing",
+        "Serum lactate level",
+        "Cardiac troponin",
         "Urine pregnancy test"
       ],
       "answer": 4,
@@ -405,11 +405,11 @@
       "id": 22,
       "stem": "A 70-year-old man with septic shock has lactic acidosis and rapid, deep breathing. Per the brick, this respiratory pattern represents which physiologic response?",
       "choices": [
-        "Decreased ventilation to retain CO2 and buffer the acidosis",
-        "Hypoventilation from respiratory muscle fatigue",
-        "Increased ventilation (Kussmaul) to exhale CO2 and buffer the acidosis",
-        "Primary respiratory alkalosis from sepsis-induced cytokines only",
-        "Reflex bradypnea from carotid body inhibition"
+        "Decreased ventilation to retain CO2 and effectively buffer the systemic acidosis",
+        "Hypoventilation from progressive respiratory muscle fatigue and exhaustion",
+        "Increased ventilation (Kussmaul) to exhale CO2 and buffer acidosis",
+        "Primary respiratory alkalosis from sepsis-induced inflammatory cytokines only",
+        "Reflex bradypnea from carotid body inhibition by acidemia"
       ],
       "answer": 2,
       "explanations": [
@@ -424,11 +424,11 @@
       "id": 23,
       "stem": "A 35-year-old man develops respiratory alkalosis after sustaining a long bone fracture without other injuries. Per the brick, which mechanism best explains the hyperventilation?",
       "choices": [
-        "Aspirin overdose",
-        "Hypoxemia from fat embolism",
+        "Concurrent salicylate (aspirin) overdose ingestion",
+        "Hypoxemia caused by post-fracture fat embolism",
         "Pain stimulating the respiratory center",
-        "Pulmonary edema from heart failure",
-        "Septic systemic response"
+        "Pulmonary edema from acute decompensated heart failure",
+        "Acute septic systemic inflammatory response"
       ],
       "answer": 2,
       "explanations": [

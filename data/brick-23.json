@@ -154,11 +154,11 @@
       "id": 11,
       "stem": "A 70-year-old woman with osteoarthritis on chronic ibuprofen develops mild hyperkalemia. Which sequence best explains how NSAIDs raise serum potassium?",
       "choices": [
-        "↑ prostaglandins → ↑ renin → ↑ aldosterone → K+ retention",
-        "↓ prostaglandins → ↓ renin → ↓ angiotensin II and aldosterone → K+ retention",
-        "↓ prostaglandins → direct Na+/K+-ATPase inhibition → K+ shift out of cells",
-        "↑ prostaglandins → direct collecting duct ENaC blockade",
-        "↓ thromboxane → ↑ aldosterone → K+ secretion"
+        "↑ prostaglandins → ↑ renin → ↑ aldosterone, causing K+ retention",
+        "↓ prostaglandins → ↓ renin → ↓ aldosterone, impairing K+ excretion",
+        "↓ prostaglandins → direct Na+/K+-ATPase inhibition → cellular K+ shift",
+        "↑ prostaglandins → direct collecting-duct ENaC blockade and K+ retention",
+        "↓ thromboxane production → ↑ aldosterone secretion → renal K+ wasting"
       ],
       "answer": 1,
       "explanations": [
@@ -192,11 +192,11 @@
       "id": 13,
       "stem": "A 12-year-old boy with newly diagnosed Burkitt lymphoma is admitted for chemotherapy. Two days after starting treatment he develops a serum K+ of 6.8 mEq/L, phosphate of 7.5 mg/dL, and uric acid of 12 mg/dL. Which mechanism best explains his hyperkalemia?",
       "choices": [
-        "Acute kidney injury from sepsis",
-        "ACE inhibitor effect",
-        "Hyperglycemia-induced osmotic drag",
-        "Massive release of intracellular contents from dying tumor cells",
-        "Pseudohyperkalemia from in vitro hemolysis"
+        "Acute kidney injury from underlying sepsis",
+        "ACE inhibitor effect on aldosterone",
+        "Hyperglycemia-induced transcellular osmotic drag",
+        "Release of intracellular contents from dying tumor cells",
+        "Pseudohyperkalemia from in vitro hemolysis of the sample"
       ],
       "answer": 3,
       "explanations": [
@@ -224,11 +224,11 @@
       "id": 15,
       "stem": "A 25-year-old man with type 1 diabetes presents with vomiting, polyuria, and a glucose of 620 mg/dL. He is found to be in diabetic ketoacidosis with a serum K+ of 5.8 mEq/L despite being depleted in total body potassium. According to the brick, which combination best explains the elevated serum K+ in DKA?",
       "choices": [
-        "Hyperaldosteronism and metabolic alkalosis",
-        "Hyperglycemia-induced osmotic drag, insulin deficiency, and acidemia driving K+ out of cells",
-        "Increased Na+/K+-ATPase activity and respiratory acidosis",
-        "NSAID effect and dehydration",
-        "Pseudohyperkalemia from hemolysis and tourniquet use"
+        "Hyperaldosteronism, metabolic alkalosis, and hypovolemia",
+        "Hyperglycemia-induced osmotic drag, insulin deficiency, and acidemia",
+        "Increased Na+/K+-ATPase activity with concurrent respiratory acidosis",
+        "Chronic NSAID effect, dehydration, and prerenal azotemia",
+        "Pseudohyperkalemia from in vitro hemolysis and tourniquet use"
       ],
       "answer": 1,
       "explanations": [
@@ -243,11 +243,11 @@
       "id": 16,
       "stem": "A 40-year-old man has blood drawn through a small-bore needle after a prolonged tourniquet. The serum K+ returns at 5.8 mEq/L, but the lab notes the sample is hemolyzed. A repeat clean draw is normal at 4.2 mEq/L. The original abnormal value is best explained by which of the following?",
       "choices": [
-        "Acute kidney injury",
-        "Hypoaldosteronism",
-        "Pseudohyperkalemia from in vitro red blood cell rupture",
-        "Rhabdomyolysis",
-        "Tumor lysis syndrome"
+        "Acute kidney injury with impaired K+ excretion",
+        "Hypoaldosteronism from primary adrenal insufficiency",
+        "Pseudohyperkalemia from in vitro red cell rupture",
+        "Acute rhabdomyolysis from unrecognized muscle injury",
+        "Tumor lysis syndrome from occult hematologic malignancy"
       ],
       "answer": 2,
       "explanations": [
@@ -262,11 +262,11 @@
       "id": 17,
       "stem": "A 67-year-old woman with end-stage renal disease has an untreated K+ of 7.5 mEq/L. The most serious complications of untreated hyperkalemia include which of the following?",
       "choices": [
-        "Hemorrhagic stroke and seizures",
-        "Pulmonary embolism and hemoptysis",
-        "Severe hypotension from vasodilation",
-        "Tetany and laryngospasm",
-        "Ventricular tachycardia, bradycardia, and asystole"
+        "Hemorrhagic stroke and intractable focal seizures",
+        "Pulmonary embolism with massive hemoptysis and hypoxia",
+        "Severe hypotension from systemic vasodilation",
+        "Tetany, carpopedal spasm, and laryngospasm",
+        "Ventricular tachycardia, bradycardia, asystole"
       ],
       "answer": 4,
       "explanations": [
@@ -281,11 +281,11 @@
       "id": 18,
       "stem": "A medical student is asked to explain how hyperkalemia changes cellular electrophysiology. In the setting of high extracellular K+, the resting membrane potential becomes:",
       "choices": [
-        "Hyperpolarized (more negative) with increased excitability",
-        "Partially depolarized (less negative), inactivating sodium channels",
-        "Unchanged because Na+/K+-ATPase compensates fully",
+        "Hyperpolarized (more negative), with increased neuromuscular excitability",
+        "Partially depolarized, inactivating sodium channels",
+        "Unchanged, as Na+/K+-ATPase fully compensates for the gradient shift",
         "Stabilized by spontaneous opening of voltage-gated calcium channels",
-        "Severely hyperpolarized below -120 mV"
+        "Severely hyperpolarized to below -120 mV with reduced excitability"
       ],
       "answer": 1,
       "explanations": [
@@ -332,11 +332,11 @@
       "id": 21,
       "stem": "A 64-year-old woman with CKD has a routine K+ of 5.3 mEq/L, no symptoms, and a normal ECG. According to the brick, which is the most appropriate initial management?",
       "choices": [
-        "Emergent IV calcium gluconate",
-        "Hemodialysis",
-        "Insulin with dextrose",
-        "IV fluids, low-potassium diet, and treat the underlying etiology",
-        "Sodium polystyrene sulfonate"
+        "Emergent IV calcium gluconate for membrane stabilization",
+        "Urgent hemodialysis through a central catheter",
+        "Insulin with dextrose to drive K+ intracellularly",
+        "IV fluids, low-K+ diet, and treat the underlying cause",
+        "Sodium polystyrene sulfonate by mouth or enema"
       ],
       "answer": 3,
       "explanations": [
@@ -351,11 +351,11 @@
       "id": 22,
       "stem": "A 70-year-old man with K+ of 7.2 mEq/L and peaked T waves on ECG is in the emergency department. According to the brick, what is the immediate next step in management?",
       "choices": [
-        "Administer IV calcium gluconate to stabilize the cardiac myocyte membrane",
-        "Administer intravenous bicarbonate as monotherapy",
-        "Hemodialysis catheter placement before any other therapy",
-        "Oral patiromer",
-        "Stop the patient's lisinopril and observe"
+        "IV calcium gluconate to stabilize the myocyte membrane",
+        "Intravenous sodium bicarbonate as initial monotherapy",
+        "Place a hemodialysis catheter before initiating any other therapy",
+        "Oral patiromer for definitive K+ removal in the ED",
+        "Stop the patient's lisinopril and observe on telemetry"
       ],
       "answer": 0,
       "explanations": [
@@ -370,11 +370,11 @@
       "id": 23,
       "stem": "A 50-year-old man with severe hyperkalemia is given insulin to lower his K+. The brick recommends co-administering which of the following, and why?",
       "choices": [
-        "Bicarbonate, to correct acidosis",
-        "Calcium chloride, to stabilize the membrane",
+        "Bicarbonate, to correct concurrent metabolic acidosis",
+        "Calcium chloride, to stabilize the cardiac membrane",
         "Furosemide, to enhance urinary K+ excretion",
-        "Glucose, to prevent hypoglycemia from insulin",
-        "Spironolactone, to block aldosterone"
+        "Glucose, to prevent insulin-induced hypoglycemia",
+        "Spironolactone, to block aldosterone at the receptor"
       ],
       "answer": 3,
       "explanations": [

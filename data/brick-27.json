@@ -51,11 +51,11 @@
       "id": 4,
       "stem": "A physiologist is teaching a class about renal acid-base homeostasis. She lists the three core roles the kidney plays in maintaining pH. Which of the following is one of these three core roles described in the brick?",
       "choices": [
-        "Synthesize new hemoglobin to buffer blood",
-        "Reclaim filtered bicarbonate from the glomerular filtrate",
-        "Convert CO2 to oxygen in the cortex",
-        "Exhale volatile acids as CO2",
-        "Produce sulfuric acid for buffering"
+        "Synthesize new hemoglobin to buffer plasma acids",
+        "Reclaim filtered bicarbonate from the tubule",
+        "Convert tubular CO2 to oxygen in the cortex",
+        "Exhale volatile acids as CO2 via tubular cells",
+        "Produce sulfuric acid for buffering plasma"
       ],
       "answer": 1,
       "explanations": [
@@ -89,11 +89,11 @@
       "id": 6,
       "stem": "A research fellow is diagramming proximal tubule bicarbonate reclamation. After H+ is secreted into the lumen and combines with filtered HCO3- to form CO2 and H2O, the CO2 diffuses into the cell. Once inside the cell, bicarbonate is regenerated and then transported across the basolateral membrane into the blood. Which transporter mediates this basolateral exit step?",
       "choices": [
-        "NHE3 (Na+/H+ antiporter)",
+        "NHE3 (apical Na+/H+ luminal antiporter)",
         "NBCe1 (Na+/HCO3- cotransporter)",
-        "Pendrin (Cl-/HCO3- exchanger)",
-        "H+/K+-ATPase",
-        "H+-ATPase"
+        "Pendrin (apical Cl-/HCO3- exchanger)",
+        "Apical H+/K+-ATPase pump",
+        "Apical vacuolar H+-ATPase pump"
       ],
       "answer": 1,
       "explanations": [
@@ -121,11 +121,11 @@
       "id": 8,
       "stem": "A 25-year-old climber takes acetazolamide before ascending to high altitude. The drug inhibits carbonic anhydrase in the proximal tubule. Which acid-base disturbance does acetazolamide produce, and how does this help with altitude sickness?",
       "choices": [
-        "Metabolic alkalosis; triggers hypoventilation to retain CO2",
-        "Respiratory acidosis; decreases minute ventilation",
-        "Respiratory alkalosis; directly raises PaO2 in the alveoli",
-        "Metabolic acidosis; triggers hyperventilation that raises blood oxygen",
-        "Mixed acidosis; lowers cerebral blood flow"
+        "Metabolic alkalosis; triggers hypoventilation to retain blood CO2",
+        "Respiratory acidosis; markedly decreases minute ventilation",
+        "Respiratory alkalosis; directly raises PaO2 within the alveoli",
+        "Metabolic acidosis; triggers hyperventilation, raising oxygen",
+        "Mixed acidosis; lowers cerebral and renal blood flow"
       ],
       "answer": 3,
       "explanations": [
@@ -178,11 +178,11 @@
       "id": 11,
       "stem": "A 45-year-old woman is admitted for severe vomiting and is found to be volume depleted with elevated angiotensin II. According to the brick, increased angiotensin II affects bicarbonate handling in the proximal tubule by which mechanism?",
       "choices": [
-        "Inhibiting NHE3 to decrease bicarbonate reabsorption",
+        "Inhibiting apical NHE3 to reduce bicarbonate reabsorption",
         "Stimulating NHE3 to increase bicarbonate reabsorption",
-        "Activating pendrin to secrete bicarbonate",
-        "Blocking NBCe1 on the basolateral membrane",
-        "Inhibiting carbonic anhydrase"
+        "Activating apical pendrin to secrete bicarbonate",
+        "Blocking basolateral NBCe1 cotransporter activity",
+        "Inhibiting tubular carbonic anhydrase activity"
       ],
       "answer": 1,
       "explanations": [
@@ -197,11 +197,11 @@
       "id": 12,
       "stem": "A 62-year-old woman with persistent metabolic alkalosis is given several liters of normal saline. According to the brick, IV fluid administration helps correct metabolic alkalosis through which renal mechanism?",
       "choices": [
-        "Volume expansion increases angiotensin II and HCO3- reabsorption",
-        "Volume expansion decreases angiotensin II and increases HCO3- excretion",
-        "Saline directly chelates serum bicarbonate",
-        "Saline acidifies the blood by adding H+",
-        "Saline increases aldosterone-driven H+ secretion"
+        "Volume expansion raises angiotensin II and HCO3- reabsorption in tubule",
+        "Volume expansion lowers angiotensin II and HCO3- reabsorption",
+        "Saline directly chelates serum bicarbonate ions in the blood",
+        "Saline acidifies the blood by directly adding free H+",
+        "Saline raises aldosterone-driven distal H+ secretion"
       ],
       "answer": 1,
       "explanations": [
@@ -235,11 +235,11 @@
       "id": 14,
       "stem": "A 30-year-old woman with chronic metabolic alkalosis is found to have urine pH approaching 8.0 due to active bicarbonate secretion in the collecting duct. Which cell type and transporter are responsible for this bicarbonate secretion?",
       "choices": [
-        "Alpha-intercalated cell via H+-ATPase",
-        "Beta-intercalated cell via pendrin (Cl-/HCO3- exchanger)",
-        "Principal cell via ENaC",
-        "Proximal tubule cell via NBCe1",
-        "Thick ascending limb cell via NKCC2"
+        "Alpha-intercalated cell via apical H+-ATPase pump",
+        "Beta-intercalated cell via apical pendrin exchanger",
+        "Collecting duct principal cell via apical ENaC",
+        "Proximal tubule cell via basolateral NBCe1",
+        "Thick ascending limb cell via apical NKCC2 cotransporter"
       ],
       "answer": 1,
       "explanations": [
@@ -254,11 +254,11 @@
       "id": 15,
       "stem": "A 19-year-old healthy female has a urine pH of 4.7 measured after fasting overnight. According to the brick, what is the lowest urine pH that the nephron is capable of producing, and why?",
       "choices": [
-        "3.0; below this, NHE3 reverses direction",
-        "4.0; below this, carbonic anhydrase denatures",
-        "4.6; below this, the H+ gradient prevents further cellular H+ secretion",
-        "5.5; below this, the urine becomes too dilute",
-        "6.0; below this, the bicarbonate buffer breaks down"
+        "3.0; below this, the apical NHE3 transporter reverses direction",
+        "4.0; below this, the carbonic anhydrase enzyme denatures fully",
+        "4.6; below this, H+ gradient halts cellular H+ secretion",
+        "5.5; below this, urine becomes too dilute for further acidification",
+        "6.0; below this, the tubular bicarbonate buffer system breaks down"
       ],
       "answer": 2,
       "explanations": [
@@ -343,11 +343,11 @@
       "id": 20,
       "stem": "A 65-year-old man with stage 3 chronic kidney disease and a falling GFR develops a metabolic acidosis. According to the brick, which mechanism related to titratable acid contributes to acidosis in CKD?",
       "choices": [
-        "Increased pendrin secretion of HCO3- in beta-intercalated cells",
-        "Reduced filtration of phosphate and other titratable acids, limiting H+ buffering",
-        "Increased activity of carbonic anhydrase in the proximal tubule",
-        "Excess ammoniagenesis driving urinary acid loss",
-        "Hypoaldosteronism increasing distal HCO3- secretion"
+        "Increased pendrin secretion of HCO3- in distal beta-intercalated cells",
+        "Reduced filtration of phosphate, limiting urinary H+ buffering",
+        "Increased activity of carbonic anhydrase in the proximal tubule cells",
+        "Excess proximal tubule ammoniagenesis driving urinary acid loss",
+        "Hypoaldosteronism increasing distal collecting duct HCO3- secretion"
       ],
       "answer": 1,
       "explanations": [
@@ -361,7 +361,7 @@
     {
       "id": 21,
       "stem": "A 34-year-old woman with severe diabetic ketoacidosis has dramatically increased renal acid excretion. The ammonia-ammonium buffer system can be upregulated dramatically during acidosis. By approximately what factor can ammonium excretion increase during systemic acidosis according to the brick?",
-      "choices": ["Less than 2-fold", "5-fold", "10-fold", "Over 100-fold (over 300-fold)", "Unable to be upregulated"],
+      "choices": ["Less than 2-fold", "About 5-fold maximum", "Roughly 10-fold maximum", "Over 300-fold (massive)", "Cannot be upregulated"],
       "answer": 3,
       "explanations": [
         "Incorrect. The increase is far greater than 2-fold.",
@@ -375,11 +375,11 @@
       "id": 22,
       "stem": "A medical student traces the path of ammonia in the nephron. Glutamine metabolism in the proximal tubule produces NH4+ and new bicarbonate. NH4+ is then handled along the nephron via reabsorption, dissociation, and trapping. Which sequence correctly describes ammonium/ammonia handling along the nephron?",
       "choices": [
-        "Filtered at glomerulus → reabsorbed in DCT → secreted in collecting duct as NH3",
-        "Made in PT → reabsorbed in thick ascending limb → dissociates to NH3 in medullary interstitium → diffuses into collecting duct → trapped as NH4+ after binding H+",
-        "Made in collecting duct → reabsorbed in PT → excreted as urea",
-        "Made in TAL → reabsorbed in PT → excreted as NH3 gas",
-        "Made in DCT → diffuses into blood → exhaled by lungs"
+        "Filtered at the glomerulus → reabsorbed in DCT → secreted in collecting duct as NH3 gas",
+        "Made in PT → reabsorbed in TAL → diffuses to collecting duct → trapped as NH4+",
+        "Made in the collecting duct → reabsorbed in PT → ultimately excreted as urea",
+        "Made in TAL → reabsorbed in PT → diffuses across alveoli as NH3 gas",
+        "Made in distal DCT → diffuses freely into the blood → exhaled by lungs"
       ],
       "answer": 1,
       "explanations": [
@@ -407,11 +407,11 @@
       "id": 24,
       "stem": "A 58-year-old diabetic man with low aldosterone has chronic hyperkalemia. His arterial blood gas shows a low pH consistent with type 4 (hyperkalemic) renal tubular acidosis. According to the brick, hyperkalemia contributes to acidosis by which mechanism?",
       "choices": [
-        "Inhibits the enzymatic creation of ammonium in the proximal tubule",
-        "Stimulates pendrin to dump HCO3- into urine",
-        "Directly inhibits H+-ATPase on alpha-intercalated cells",
-        "Increases NHE3 activity, causing Na+ wasting",
-        "Activates carbonic anhydrase to dump CO2"
+        "Inhibits proximal tubule ammoniagenesis enzymes",
+        "Stimulates apical pendrin to dump HCO3- into urine",
+        "Directly inhibits the H+-ATPase pump on alpha-intercalated cells",
+        "Increases apical NHE3 activity, causing renal Na+ wasting",
+        "Activates carbonic anhydrase to dump CO2 into the urine"
       ],
       "answer": 0,
       "explanations": [
@@ -426,11 +426,11 @@
       "id": 25,
       "stem": "A 45-year-old woman with severe vomiting from gastroenteritis develops volume depletion and hypokalemia. Her arterial blood gas shows metabolic alkalosis. According to the brick, which mechanism best explains how hypokalemia helps maintain this metabolic alkalosis?",
       "choices": [
-        "Hypokalemia inhibits NHE3 in the proximal tubule",
-        "Hypokalemia decreases aldosterone levels and reduces H+ secretion",
-        "Hypokalemia lowers intracellular K+ in tubular cells; H+ shifts in, producing intracellular acidosis that drives proximal cells to increase H+ secretion and HCO3- reabsorption",
-        "Hypokalemia stimulates pendrin secretion of HCO3-",
-        "Hypokalemia inhibits ammoniagenesis"
+        "Hypokalemia inhibits apical NHE3 activity in the proximal tubule cells",
+        "Hypokalemia decreases circulating aldosterone and reduces distal H+ secretion",
+        "Intracellular acidosis drives proximal H+ secretion and HCO3- reclamation",
+        "Hypokalemia stimulates beta-intercalated cell pendrin secretion of HCO3-",
+        "Hypokalemia inhibits enzymatic proximal tubule ammoniagenesis pathway"
       ],
       "answer": 2,
       "explanations": [

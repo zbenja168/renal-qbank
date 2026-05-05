@@ -6,11 +6,11 @@
       "id": 1,
       "stem": "A 52-year-old woman with autosomal dominant polycystic kidney disease has been followed for 20 years. Her nephrologist now states she has end-stage kidney disease (ESKD). Which feature best defines ESKD as described in the brick?",
       "choices": [
-        "A fixed eGFR cutoff of <15 mL/min/1.73 m^2",
-        "Any patient with stage 4 chronic kidney disease",
-        "Clinical determination by a nephrologist that kidney function is no longer high enough to safely sustain life without kidney replacement therapy",
-        "Presence of proteinuria for ≥3 months",
-        "Serum creatinine ≥4.0 mg/dL on two occasions"
+        "A fixed laboratory eGFR cutoff of less than 15 mL/min/1.73 m^2",
+        "Any patient who currently meets criteria for stage 4 chronic kidney disease",
+        "Nephrologist determination that function cannot sustain life without replacement",
+        "Documented presence of persistent proteinuria for at least three consecutive months",
+        "Serum creatinine value of ≥4.0 mg/dL confirmed on two separate occasions"
       ],
       "answer": 2,
       "explanations": [
@@ -44,11 +44,11 @@
       "id": 3,
       "stem": "A 47-year-old man with CKD stage 5 is being considered for dialysis. Which of the following clinical scenarios is listed in the brick as a common reason a patient with CKD progresses to needing kidney replacement therapy?",
       "choices": [
-        "Asymptomatic mild proteinuria",
-        "Episodic hypotension",
-        "Isolated microscopic hematuria",
-        "Mild anemia of CKD",
-        "Ongoing hyperkalemia refractory to medical management"
+        "Asymptomatic mild proteinuria found on routine urine screening",
+        "Episodic symptomatic hypotension occurring between clinic visits",
+        "Isolated persistent microscopic hematuria without any other abnormalities",
+        "Mild anemia of chronic kidney disease responsive to oral iron therapy",
+        "Refractory hyperkalemia despite medical management"
       ],
       "answer": 4,
       "explanations": [
@@ -63,11 +63,11 @@
       "id": 4,
       "stem": "A 60-year-old woman with ESKD is being counseled on the three commonly performed forms of kidney replacement therapy in the United States. Which trio represents these modalities as described in the brick?",
       "choices": [
-        "Continuous renal replacement therapy, plasmapheresis, and transplant",
-        "Hemofiltration, hemoperfusion, and transplant",
-        "Kidney transplant, in-center hemodialysis, and home dialysis (peritoneal or home hemodialysis)",
-        "Kidney transplant, plasmapheresis, and peritoneal dialysis",
-        "Peritoneal dialysis, intermittent hemodialysis, and slow low-efficiency dialysis"
+        "Continuous renal replacement therapy, therapeutic plasmapheresis, and kidney transplantation",
+        "Hemofiltration, hemoperfusion, and kidney transplantation in the United States",
+        "Kidney transplant, in-center hemodialysis, and home dialysis modalities",
+        "Kidney transplantation, therapeutic plasmapheresis, and peritoneal dialysis at home",
+        "Peritoneal dialysis, intermittent hemodialysis, and slow low-efficiency daily dialysis"
       ],
       "answer": 2,
       "explanations": [
@@ -82,11 +82,11 @@
       "id": 5,
       "stem": "A 45-year-old woman with ESKD asks about kidney transplantation. According to the brick, why is renal transplantation considered the preferred form of kidney replacement therapy?",
       "choices": [
-        "It avoids the need for any immunosuppression",
-        "It eliminates the need for follow-up nephrology care",
-        "It is less expensive than dialysis in every patient",
-        "It provides better mortality and quality-of-life outcomes compared with dialysis",
-        "It restores native endocrine function in the original kidneys"
+        "It avoids any need for chronic immunosuppressive therapy after surgery",
+        "It eliminates any need for ongoing follow-up nephrology care after recovery",
+        "It is consistently less expensive than dialysis for every transplant patient",
+        "It offers better mortality and quality-of-life outcomes than dialysis",
+        "It restores native endocrine function in the patient's original kidneys"
       ],
       "answer": 3,
       "explanations": [
@@ -101,11 +101,11 @@
       "id": 6,
       "stem": "A 39-year-old man undergoes a kidney transplant. The surgeon places the graft in the right pelvis rather than the native renal fossa. According to the brick, the graft's renal artery is most commonly anastomosed to which vessel?",
       "choices": [
-        "Abdominal aorta",
+        "Abdominal aorta directly above",
         "Common iliac artery",
-        "External iliac vein",
+        "External iliac vein branch",
         "Inferior epigastric artery",
-        "Internal iliac vein"
+        "Internal iliac vein trunk"
       ],
       "answer": 1,
       "explanations": [
@@ -120,11 +120,11 @@
       "id": 7,
       "stem": "A 55-year-old woman with ESKD due to autosomal dominant polycystic kidney disease undergoes successful renal transplantation. She asks why her native kidneys were not removed at the time of transplant. Which statement from the brick best explains the surgeon's decision?",
       "choices": [
-        "Native kidneys are always removed at the time of transplant",
-        "Native kidneys are left in place unless there is a particular indication for removal such as malignancy or painful enlargement from polycystic kidney disease",
-        "Native kidneys are required to maintain renin secretion after transplant",
-        "Removing native kidneys would interrupt ureteral drainage of the graft",
-        "Removing native kidneys would prevent vascular access to the iliac vessels"
+        "Native kidneys are always routinely removed at the time of every kidney transplant operation",
+        "Native kidneys are left in place unless a specific indication for removal exists",
+        "Native kidneys are absolutely required to maintain renin secretion after the transplant operation",
+        "Removing native kidneys would interrupt ureteral drainage of the new transplanted graft kidney",
+        "Removing native kidneys would prevent surgical vascular access to the iliac vessels in the pelvis"
       ],
       "answer": 1,
       "explanations": [
@@ -139,11 +139,11 @@
       "id": 8,
       "stem": "A 48-year-old man is 6 months post-renal transplant. His daily medication regimen includes prednisone, tacrolimus, and mycophenolate. According to the brick, which additional pair of agents is sometimes used as alternative immunosuppressants?",
       "choices": [
-        "Azathioprine and methotrexate",
-        "Cyclophosphamide and rituximab",
-        "Hydroxychloroquine and infliximab",
-        "Sirolimus and cyclosporine",
-        "Tofacitinib and abatacept"
+        "Oral azathioprine plus methotrexate",
+        "IV cyclophosphamide and rituximab",
+        "Oral hydroxychloroquine plus infliximab",
+        "Sirolimus and cyclosporine combo",
+        "Oral tofacitinib and abatacept agents"
       ],
       "answer": 3,
       "explanations": [
@@ -158,11 +158,11 @@
       "id": 9,
       "stem": "A 62-year-old man with ESKD is referred for transplant evaluation. According to the brick, the evaluation process by the multidisciplinary committee of transplant surgeons, nephrologists, and social workers typically takes how long?",
       "choices": [
-        "1-2 weeks",
-        "1-2 months",
-        "3-4 months",
-        "6-12 months",
-        "More than 2 years"
+        "About 1 to 2 weeks total",
+        "About 1 to 2 months total",
+        "About 3 to 4 months total",
+        "About 6 to 12 months",
+        "More than 2 calendar years"
       ],
       "answer": 3,
       "explanations": [
@@ -177,11 +177,11 @@
       "id": 10,
       "stem": "A 67-year-old man with ESKD is being considered for kidney transplantation but has metastatic colon cancer and severe ischemic cardiomyopathy. According to the brick, which of the following is a reason patients are often refused for transplantation?",
       "choices": [
-        "Active infections, malignancies, or significantly shortened life expectancy from advanced age or severe cardiac disease",
-        "Body mass index in the normal range",
-        "Need for ongoing antihypertensive therapy",
-        "Presence of a living donor",
-        "Stable home support system"
+        "Active infection, malignancy, or shortened life expectancy",
+        "Body mass index in the normal healthy range for the patient as an adult",
+        "Need for ongoing daily oral antihypertensive medication therapy at home",
+        "Presence of an available healthy and immunologically compatible living donor",
+        "Stable and reliable home support system available at home for the patient"
       ],
       "answer": 0,
       "explanations": [
@@ -196,11 +196,11 @@
       "id": 11,
       "stem": "A 50-year-old transplant candidate has a documented history of chronic medication nonadherence. The transplant committee considers this a relative contraindication. Which statement from the brick best supports their reasoning?",
       "choices": [
-        "Nonadherent patients cannot have a living donor",
-        "Nonadherent patients cannot tolerate dialysis as a backup",
-        "Patients undergoing transplant must adhere to a complex drug regimen (or have strong home support), so a history suggesting nonadherence can be a contraindication",
-        "Pretransplant nonadherence guarantees graft loss within 1 year",
-        "The immunosuppressive regimen is only required for the first 6 months"
+        "Nonadherent patients are categorically unable to receive a transplant from any living donor source",
+        "Nonadherent patients are categorically unable to tolerate dialysis as a backup option after rejection",
+        "Transplant requires complex drug adherence, so prior nonadherence is a contraindication",
+        "Pretransplant medication nonadherence absolutely guarantees inevitable graft loss within the first year",
+        "The post-transplant immunosuppressive regimen is required only for the first 6 months after surgery"
       ],
       "answer": 2,
       "explanations": [
@@ -215,11 +215,11 @@
       "id": 12,
       "stem": "A 41-year-old woman is 9 months post-renal transplant on prednisone, tacrolimus, and mycophenolate. She develops fevers and pulmonary infiltrates. According to the brick, immunosuppressed transplant recipients are at increased risk of infection from which set of pathogens?",
       "choices": [
-        "Cytomegalovirus, EBV, herpes, polyomavirus, and pneumococcus",
-        "Hepatitis A virus and rotavirus",
-        "Listeria, Brucella, and Coxiella",
-        "Mycobacterium leprae and Treponema pallidum",
-        "Plasmodium and Trypanosoma cruzi"
+        "CMV, EBV, herpes, polyomavirus, and pneumococcus",
+        "Hepatitis A virus and rotavirus enteric infections",
+        "Listeria, Brucella, and Coxiella zoonotic infections",
+        "Mycobacterium leprae and Treponema pallidum infections",
+        "Plasmodium and Trypanosoma cruzi tropical infections"
       ],
       "answer": 0,
       "explanations": [
@@ -234,11 +234,11 @@
       "id": 13,
       "stem": "A 58-year-old man on chronic immunosuppression after kidney transplant is counseled about long-term cancer surveillance. According to the brick, the risk of malignancy in immunosuppressed transplant recipients is approximately how much higher than in the general population?",
       "choices": [
-        "Equal to baseline",
-        "1.5 times higher",
-        "2 times higher",
-        "3 times higher",
-        "10 times higher"
+        "Equal to baseline rate",
+        "About 1.5x baseline",
+        "About 2x baseline",
+        "Three times higher",
+        "About 10x baseline"
       ],
       "answer": 3,
       "explanations": [
@@ -253,11 +253,11 @@
       "id": 14,
       "stem": "A 36-year-old woman is 3 weeks post-renal transplant when she develops graft tenderness, rising creatinine, and reduced urine output. Biopsy confirms acute rejection. Which statement from the brick best characterizes transplant rejection?",
       "choices": [
-        "Rejection cannot occur if all antirejection medications are taken regularly",
-        "Rejection can occur at any time from immediately after the transplant to years later, even if all antirejection medications are taken",
-        "Rejection is exclusively a chronic process occurring after 5 years",
-        "Rejection only occurs in deceased-donor transplants",
-        "Rejection only occurs in patients with HLA-mismatched siblings"
+        "Rejection cannot occur if all prescribed antirejection medications are taken regularly each day",
+        "Rejection can occur at any time, even when all antirejection medications are taken",
+        "Rejection is exclusively a chronic process occurring more than five years after the transplant",
+        "Rejection only occurs in recipients of deceased-donor kidney transplants from organ donors",
+        "Rejection only occurs in patients receiving a kidney from HLA-mismatched siblings or relatives"
       ],
       "answer": 1,
       "explanations": [
@@ -272,11 +272,11 @@
       "id": 15,
       "stem": "A 64-year-old man on in-center hemodialysis is being taught about how dialysis works. According to the brick, hemodialysis cleans the blood through which physical mechanism across a semipermeable membrane?",
       "choices": [
-        "Active transport against gradients",
+        "Active transport of solutes against electrochemical gradients",
         "Diffusion of solutes down concentration gradients",
-        "Endocytosis of waste molecules",
-        "Osmosis driven by hyperosmolar dialysate",
-        "Ultrafiltration alone with no solute exchange"
+        "Endocytosis of dissolved waste molecules across membrane",
+        "Osmosis driven by hyperosmolar dialysate fluid pulling water",
+        "Ultrafiltration alone with no actual solute exchange occurring"
       ],
       "answer": 1,
       "explanations": [
@@ -291,11 +291,11 @@
       "id": 16,
       "stem": "A 70-year-old woman is undergoing intermittent hemodialysis. According to the brick, in which direction do urea, creatinine, and potassium move during dialysis, and which solute moves the opposite way?",
       "choices": [
-        "All four move from blood to dialysate",
-        "All four move from dialysate to blood",
-        "Urea, creatinine, and potassium move from blood to dialysate; bicarbonate moves from dialysate to blood",
-        "Urea and creatinine move into the blood; potassium and bicarbonate move out",
-        "Urea, creatinine, and potassium move from dialysate to blood; bicarbonate moves from blood to dialysate"
+        "All four solutes move from the blood into the dialysate fluid",
+        "All four solutes move from the dialysate fluid into the patient's blood",
+        "Urea, creatinine, potassium move blood to dialysate; bicarbonate moves opposite",
+        "Urea and creatinine move into the blood; potassium and bicarbonate move outward to the dialysate",
+        "Urea, creatinine, potassium move dialysate to blood; bicarbonate moves blood to dialysate"
       ],
       "answer": 2,
       "explanations": [
@@ -310,11 +310,11 @@
       "id": 17,
       "stem": "A 55-year-old man is being prepared for outpatient hemodialysis. To prevent clotting of the hemodialysis filter, which medication is administered during the dialysis procedure as described in the brick?",
       "choices": [
-        "Apixaban",
-        "Aspirin",
-        "Heparin",
-        "Tissue plasminogen activator",
-        "Warfarin"
+        "Apixaban orally before dialysis",
+        "Aspirin tablets orally daily",
+        "Heparin in the circuit",
+        "Alteplase (tPA) infusion",
+        "Warfarin orally each day"
       ],
       "answer": 2,
       "explanations": [
@@ -329,10 +329,10 @@
       "id": 18,
       "stem": "A 49-year-old man with ESKD requires durable, sterile vascular access for thrice-weekly hemodialysis. According to the brick, which option is most commonly used and carries the lowest risk of infection?",
       "choices": [
-        "Femoral vein catheter",
-        "Non-tunneled hemodialysis catheter",
+        "Femoral vein hemodialysis catheter",
+        "Non-tunneled temporary hemodialysis catheter",
         "Peripherally inserted central catheter (PICC)",
-        "Surgically created arteriovenous (AV) fistula in the nondominant arm",
+        "Surgical AV fistula in the nondominant arm",
         "Tunneled internal jugular hemodialysis catheter"
       ],
       "answer": 3,
@@ -351,8 +351,8 @@
         "AV fistula > AV graft > catheter",
         "AV graft > AV fistula > catheter",
         "Catheter > AV fistula > AV graft",
-        "Catheter > AV graft > AV fistula",
-        "All three have equivalent infection risk"
+        "Catheter > AV graft > AV fistula access",
+        "All three access types share equivalent risk"
       ],
       "answer": 3,
       "explanations": [
@@ -367,11 +367,11 @@
       "id": 20,
       "stem": "A 38-year-old woman selects peritoneal dialysis. According to the brick, which statement best describes how peritoneal dialysis works and where it is performed?",
       "choices": [
-        "Blood is filtered through an extracorporeal dialyzer at home daily",
-        "Dialysate is instilled into the peritoneal cavity and the blood equilibrates with it across capillaries in the peritoneum, and it is always done at home",
-        "Dialysate is run through the GI tract for solute exchange",
-        "It is done only in-center 3 days per week",
-        "It uses the pleural cavity as the exchange surface"
+        "Blood is filtered through an extracorporeal dialyzer at the patient's home each day",
+        "Dialysate equilibrates across capillaries in the peritoneum, performed at home",
+        "Dialysate is run through the gastrointestinal tract for solute exchange and clearance",
+        "It is performed only in-center for three days per week on a fixed schedule",
+        "It uses the pleural cavity as the surface for fluid and solute clearance"
       ],
       "answer": 1,
       "explanations": [
@@ -387,10 +387,10 @@
       "stem": "A 44-year-old man on peritoneal dialysis presents with abdominal pain, fever, and cloudy peritoneal effluent. According to the brick, what is the most serious complication of peritoneal dialysis and its first-line treatment?",
       "choices": [
         "Bacterial peritonitis treated with intraperitoneal antibiotics",
-        "Catheter-tunnel cellulitis treated with topical antibiotics",
-        "Hemoperitoneum treated with embolization",
-        "Hernia repaired with mesh",
-        "Pleural effusion treated with thoracentesis"
+        "Catheter-tunnel cellulitis treated with topical antibiotic ointment application",
+        "Acute hemoperitoneum treated with arterial embolization in interventional radiology",
+        "Abdominal wall hernia repaired surgically with mesh reinforcement placement",
+        "Pleural effusion treated with bedside ultrasound-guided thoracentesis drainage"
       ],
       "answer": 0,
       "explanations": [
@@ -405,11 +405,11 @@
       "id": 22,
       "stem": "A 35-year-old man with acute kidney injury and septic shock in the ICU is too hemodynamically unstable to tolerate intermittent hemodialysis. According to the brick, which modality is preferred in this setting?",
       "choices": [
-        "Conservative management without dialysis",
+        "Conservative supportive management without dialysis",
         "Continuous renal replacement therapy (CRRT)",
-        "In-center intermittent hemodialysis 3x/week",
-        "Peritoneal dialysis at home",
-        "Plasmapheresis"
+        "In-center intermittent hemodialysis 3x weekly",
+        "Outpatient home-based peritoneal dialysis",
+        "Therapeutic plasmapheresis in the ICU"
       ],
       "answer": 1,
       "explanations": [
@@ -425,10 +425,10 @@
       "stem": "A 27-year-old woman is brought to the ED after ingesting an unknown substance and is found to have a severe metabolic acidosis with calcium oxalate crystals in her urine. According to the brick, which of the following is an indication for urgent hemodialysis in acute kidney injury?",
       "choices": [
         "Hyperkalemia of 5.0 mEq/L responsive to insulin",
-        "Intoxication with ethylene glycol",
-        "Mild metabolic acidosis with pH 7.32",
-        "Mild volume overload responsive to furosemide",
-        "Stable serum creatinine of 2.0 mg/dL"
+        "Acute intoxication with ingested ethylene glycol",
+        "Mild metabolic acidosis with arterial pH of 7.32",
+        "Mild volume overload responsive to oral furosemide",
+        "Stable chronic serum creatinine of 2.0 mg/dL"
       ],
       "answer": 1,
       "explanations": [
@@ -462,11 +462,11 @@
       "id": 25,
       "stem": "A 71-year-old man has been on in-center hemodialysis for 7 years. He now reports bilateral shoulder pain, carpal tunnel-like symptoms in both wrists, and bone cysts on imaging. According to the brick, which complication of long-term hemodialysis best explains his presentation?",
       "choices": [
-        "Anemia of kidney disease from decreased erythropoietin",
+        "Anemia of chronic kidney disease from decreased renal erythropoietin production",
         "Dialysis amyloidosis from β2-microglobulin deposition",
-        "High-output heart failure from the AV fistula",
-        "Hyperphosphatemia causing vascular calcifications",
-        "Vascular access thrombosis"
+        "High-output cardiac failure caused by long-standing arteriovenous fistula flow",
+        "Hyperphosphatemia causing diffuse vascular and soft tissue calcifications",
+        "Vascular access thrombosis affecting the patient's hemodialysis fistula"
       ],
       "answer": 1,
       "explanations": [

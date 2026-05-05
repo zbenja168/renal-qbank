@@ -64,10 +64,10 @@
       "stem": "A 67-year-old man with fatigue and bone pain is found to have a malignancy that produces large amounts of immunoglobulin light chains. He subsequently develops glycosuria, phosphaturia, and a normal anion gap metabolic acidosis. Which mechanism best explains his proximal tubule dysfunction?",
       "choices": [
         "Direct precipitation of calcium oxalate within the tubular lumen",
-        "Filtered light chains reabsorbed by the proximal tubule that are toxic to the tubule",
-        "Glomerular basement membrane immune complex deposition",
-        "Hypercalcemia-induced afferent arteriolar vasoconstriction",
-        "Renal vein thrombosis from a hypercoagulable state"
+        "Tubular reabsorption of filtered light chains is toxic to the proximal tubule",
+        "Glomerular basement membrane immune complex deposition with subendothelial extension",
+        "Hypercalcemia-induced afferent arteriolar vasoconstriction with reduced perfusion",
+        "Renal vein thrombosis from paraprotein-related hypercoagulable state"
       ],
       "answer": 1,
       "explanations": [
@@ -160,9 +160,9 @@
       "choices": [
         "Distal (type 1) renal tubular acidosis",
         "Hyperkalemic (type 4) renal tubular acidosis",
-        "Metabolic alkalosis",
+        "Metabolic alkalosis with elevated bicarbonate",
         "Proximal (type 2) renal tubular acidosis",
-        "Respiratory acidosis"
+        "Respiratory acidosis due to chronic hypoventilation"
       ],
       "answer": 3,
       "explanations": [
@@ -177,11 +177,11 @@
       "id": 10,
       "stem": "A 42-year-old man with Fanconi syndrome from cisplatin therapy has labs showing a serum bicarbonate of 16 mEq/L and a normal anion gap. Which underlying mechanism in the proximal tubule best explains the bicarbonate loss?",
       "choices": [
-        "Failure of the damaged proximal tubule to excrete hydrogen ions to complex with filtered bicarbonate",
-        "Glomerular leak of bicarbonate from increased filtration pressure",
-        "Increased aldosterone-driven bicarbonate secretion in the collecting duct",
-        "Loss of carbonic anhydrase activity in the thick ascending limb",
-        "Vomiting-induced loss of gastric hydrochloric acid"
+        "Damaged proximal tubule fails to excrete hydrogen ions for filtered bicarbonate",
+        "Glomerular leak of bicarbonate caused by increased filtration pressure across the capillaries",
+        "Increased aldosterone-driven bicarbonate secretion within the collecting duct lumen",
+        "Loss of carbonic anhydrase activity in the thick ascending limb of Henle",
+        "Vomiting-induced loss of gastric hydrochloric acid through repeated emesis"
       ],
       "answer": 0,
       "explanations": [
@@ -215,11 +215,11 @@
       "id": 12,
       "stem": "A 52-year-old woman with Fanconi syndrome from multiple myeloma has significant urinary sodium losses. According to the brick, what mechanism leads to her hypokalemia?",
       "choices": [
-        "Direct potassium toxicity from filtered light chains",
-        "Insulin-driven shift of potassium into cells",
-        "Loss of potassium directly through the damaged proximal tubule",
-        "Suppression of the renin-angiotensin-aldosterone system",
-        "Volume depletion activates the renin-angiotensin-aldosterone system, causing distal nephron potassium secretion driven by high aldosterone"
+        "Direct potassium toxicity from filtered light chains in the proximal tubular lumen",
+        "Insulin-driven intracellular shift of potassium into peripheral skeletal muscle cells",
+        "Loss of potassium directly through the damaged proximal tubule epithelial cells",
+        "Suppression of the renin-angiotensin-aldosterone system from extracellular volume excess",
+        "Volume depletion activates RAAS so high aldosterone drives distal potassium loss"
       ],
       "answer": 4,
       "explanations": [
@@ -234,11 +234,11 @@
       "id": 13,
       "stem": "A 35-year-old asymptomatic woman has a routine urinalysis showing 3+ glucose. Her fasting serum glucose is 92 mg/dL and HbA1c is 5.2%. Further evaluation reveals proximal tubular dysfunction. Which finding on urinalysis is described in the brick as often the first clue to the diagnosis of Fanconi syndrome?",
       "choices": [
-        "Glucosuria discovered incidentally on urinalysis when serum glucose is normal",
-        "Gross hematuria with red cell casts",
-        "Nephrotic-range proteinuria",
-        "Pyuria with positive leukocyte esterase",
-        "Sterile pyuria with white cell casts"
+        "Incidental glucosuria on urinalysis with a normal serum glucose level",
+        "Gross hematuria with dysmorphic red blood cell casts on microscopy",
+        "Nephrotic-range proteinuria with hypoalbuminemia and edema",
+        "Pyuria with positive leukocyte esterase and bacteriuria on dipstick urinalysis",
+        "Sterile pyuria with white blood cell casts seen on microscopy"
       ],
       "answer": 0,
       "explanations": [
@@ -254,10 +254,10 @@
       "stem": "A 60-year-old woman with type 2 diabetes is started on an SGLT-2 inhibitor and subsequently has glycosuria on urinalysis despite a normal serum glucose. According to the brick, this medication produces glycosuria by which mechanism?",
       "choices": [
         "Blocking glucose reabsorption in the proximal tubule",
-        "Damaging glomerular podocytes",
-        "Increasing glomerular filtration of glucose",
-        "Inhibiting collecting duct water reabsorption",
-        "Inhibiting insulin secretion from pancreatic beta cells"
+        "Damaging glomerular podocytes and slit diaphragms",
+        "Increasing glomerular filtration of glucose at the capillaries",
+        "Inhibiting collecting duct water reabsorption via aquaporin downregulation",
+        "Inhibiting insulin secretion from pancreatic beta islet cells"
       ],
       "answer": 0,
       "explanations": [
@@ -272,11 +272,11 @@
       "id": 15,
       "stem": "A 58-year-old man with newly diagnosed Fanconi syndrome has the following labs: low pH, low serum bicarbonate, hypokalemia, and a normal serum anion gap. He also demonstrates aminoaciduria and phosphaturia. Which additional serum finding is most consistent with the brick's description of Fanconi syndrome?",
       "choices": [
-        "Hypercalcemia from primary hyperparathyroidism",
-        "Hypernatremia from impaired free water clearance",
-        "Hyperphosphatemia from decreased urinary excretion",
-        "Hypophosphatemia resulting from urinary phosphate losses",
-        "Metabolic alkalosis with elevated bicarbonate"
+        "Hypercalcemia from primary hyperparathyroidism with elevated PTH",
+        "Hypernatremia from impaired renal free water clearance",
+        "Hyperphosphatemia from decreased urinary phosphate excretion",
+        "Hypophosphatemia from urinary phosphate losses",
+        "Metabolic alkalosis with an elevated serum bicarbonate level"
       ],
       "answer": 3,
       "explanations": [
@@ -291,11 +291,11 @@
       "id": 16,
       "stem": "A 45-year-old man treated with cisplatin develops Fanconi syndrome and is found to have an elevated serum creatinine. According to the brick, what additional process should be suspected in patients with secondary Fanconi syndrome caused by nephrotoxins?",
       "choices": [
-        "Acute kidney injury from a more generalized loss of tubular function",
-        "Glomerulonephritis with crescent formation",
-        "Hepatorenal syndrome",
-        "Renal artery stenosis",
-        "Renovascular hypertension"
+        "Acute kidney injury from generalized loss of tubular function",
+        "Crescentic glomerulonephritis with rapid progression to renal failure",
+        "Hepatorenal syndrome from advanced cirrhotic liver disease",
+        "Renal artery stenosis from atherosclerotic narrowing of the vessel",
+        "Renovascular hypertension secondary to fibromuscular dysplasia"
       ],
       "answer": 0,
       "explanations": [
@@ -329,11 +329,11 @@
       "id": 18,
       "stem": "A 70-year-old woman has Fanconi syndrome with metabolic acidosis. Her physician explains that simply giving bicarbonate is challenging in this disorder. What is the reason given in the brick for this difficulty?",
       "choices": [
-        "Bicarbonate worsens hyperkalemia in this disorder",
-        "Bicarbonate cannot be absorbed orally in this disorder",
-        "Bicarbonate is contraindicated due to risk of metabolic alkalosis",
-        "Bicarbonate precipitates with calcium causing nephrocalcinosis",
-        "The dysfunctional proximal tubule will simply urinate the bicarbonate out"
+        "Bicarbonate worsens hyperkalemia by driving potassium intracellularly in this disorder",
+        "Bicarbonate cannot be absorbed by the gastrointestinal tract in this disorder",
+        "Bicarbonate is contraindicated due to risk of overshoot metabolic alkalosis",
+        "Bicarbonate precipitates with serum calcium and causes nephrocalcinosis in the medulla",
+        "The dysfunctional proximal tubule simply urinates out the bicarbonate"
       ],
       "answer": 4,
       "explanations": [
@@ -348,11 +348,11 @@
       "id": 19,
       "stem": "A 49-year-old woman with Fanconi syndrome and proximal renal tubular acidosis is being treated with oral sodium bicarbonate and potassium citrate. Which adjunctive medication is recommended in the brick to decrease bicarbonate wasting?",
       "choices": [
-        "Acetazolamide",
-        "Furosemide",
-        "Hydrochlorothiazide",
-        "Spironolactone",
-        "Tolvaptan"
+        "Acetazolamide (oral carbonic anhydrase inhibitor)",
+        "Furosemide (intravenous loop diuretic agent)",
+        "Hydrochlorothiazide (oral thiazide diuretic)",
+        "Spironolactone (potassium-sparing aldosterone antagonist)",
+        "Tolvaptan (vasopressin V2 receptor antagonist)"
       ],
       "answer": 2,
       "explanations": [
@@ -367,11 +367,11 @@
       "id": 20,
       "stem": "A 7-year-old girl with Fanconi syndrome and hypophosphatemia has rickets confirmed on x-ray. According to the brick, what is the recommended treatment for the bone disease associated with this disorder?",
       "choices": [
-        "Bisphosphonates",
-        "Calcitonin",
-        "Calcium carbonate alone",
-        "Oral phosphate and 1,25-dihydroxyvitamin D supplementation",
-        "Subcutaneous teriparatide"
+        "Bisphosphonates (oral or IV antiresorptive therapy)",
+        "Calcitonin (subcutaneous antiresorptive hormone)",
+        "Calcium carbonate alone as oral daily monotherapy",
+        "Oral phosphate with 1,25-dihydroxyvitamin D",
+        "Subcutaneous teriparatide (recombinant PTH 1-34)"
       ],
       "answer": 3,
       "explanations": [
@@ -386,11 +386,11 @@
       "id": 21,
       "stem": "A 33-year-old man develops Fanconi syndrome attributed to a medication used for an unrelated chronic condition. According to the brick, what is the recommended first step in management?",
       "choices": [
-        "Begin glucocorticoid therapy",
-        "Begin renal replacement therapy",
-        "Initiate plasmapheresis",
-        "Place the patient on a low-protein diet",
-        "Stop any potential causative drugs unless they are critical for patient health"
+        "Begin high-dose glucocorticoid therapy with oral prednisone",
+        "Begin urgent renal replacement therapy with hemodialysis sessions",
+        "Initiate plasmapheresis to remove circulating offending toxins",
+        "Place the patient on a strictly low-protein renal diet plan",
+        "Stop potential causative drugs unless critical to health"
       ],
       "answer": 4,
       "explanations": [

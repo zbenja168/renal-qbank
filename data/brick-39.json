@@ -6,11 +6,11 @@
       "id": 1,
       "stem": "A 45-year-old woman is found to have a positive heme dipstick on a routine pre-employment urinalysis. She has no symptoms and her urine appears yellow. Microscopy shows 8 RBCs per high-power field. Which term best describes this finding?",
       "choices": [
-        "Gross hematuria",
-        "Hemoglobinuria",
+        "Visible gross hematuria",
+        "Intravascular hemoglobinuria",
         "Microscopic hematuria",
-        "Myoglobinuria",
-        "Pseudohematuria"
+        "Exertional myoglobinuria",
+        "Drug-induced pseudohematuria"
       ],
       "answer": 2,
       "explanations": [
@@ -63,11 +63,11 @@
       "id": 4,
       "stem": "A 19-year-old man develops gross hematuria 2 days after onset of a sore throat. Urinalysis shows 3+ proteinuria, dysmorphic RBCs, and red blood cell casts. Which underlying mechanism best explains the appearance of his urinary RBCs?",
       "choices": [
-        "Crystal-induced tubular shearing",
-        "Direct invasion of the bladder mucosa",
-        "Mechanical trauma from a kidney stone",
-        "Squeezing through breaks in the glomerular basement membrane",
-        "Toxic injury from chemotherapy metabolites"
+        "Crystal-induced shearing along tubular epithelium",
+        "Direct tumor invasion of the bladder mucosal lining",
+        "Mechanical trauma from a passing kidney stone",
+        "Passage through glomerular basement membrane breaks",
+        "Toxic injury from chemotherapy metabolites in tubules"
       ],
       "answer": 3,
       "explanations": [
@@ -177,11 +177,11 @@
       "id": 10,
       "stem": "A 25-year-old marathon runner presents to the clinic with red urine after finishing a long race. He denies pain, dysuria, and trauma. Urinalysis confirms RBCs in the urine. Which proposed mechanism is offered by the brick to explain hematuria in long-distance athletes?",
       "choices": [
-        "Acute interstitial nephritis",
-        "Bladder invasion by tumor",
-        "Excessive water consumption",
-        "Hereditary platelet dysfunction",
-        "Renal ischemia from blood redirection to muscles"
+        "Acute drug-induced interstitial nephritis",
+        "Direct bladder invasion by transitional tumor",
+        "Excessive free water consumption during running",
+        "Hereditary platelet dysfunction with bleeding",
+        "Renal ischemia from blood diverted to muscle"
       ],
       "answer": 4,
       "explanations": [
@@ -215,10 +215,10 @@
       "id": 12,
       "stem": "A 32-year-old woman with new-onset hematuria has a urine microscopy that shows numerous WBCs and bacteria along with a few RBCs. Which next step in management is most appropriate based on the brick's flowchart?",
       "choices": [
-        "Cystoscopy",
-        "Immediate kidney biopsy",
-        "Renal angiogram",
-        "Renal ultrasound",
+        "Cystoscopy with bladder biopsies of any lesions",
+        "Immediate kidney biopsy for histologic diagnosis",
+        "Renal angiogram to evaluate vascular sources",
+        "Renal ultrasound to look for stones or masses",
         "Treat suspected UTI before further workup"
       ],
       "answer": 4,
@@ -234,11 +234,11 @@
       "id": 13,
       "stem": "A 28-year-old man presents 10 days after a severe sore throat with cola-colored urine, periorbital edema, and a blood pressure of 168/100 mm Hg. Urinalysis reveals dysmorphic RBCs, RBC casts, and 2+ proteinuria. Which condition best explains these findings?",
       "choices": [
-        "Hemorrhagic cystitis",
-        "Nephrolithiasis",
-        "Pyelonephritis",
+        "Chemotherapy-induced hemorrhagic cystitis",
+        "Obstructing ureteral nephrolithiasis",
+        "Acute ascending bacterial pyelonephritis",
         "Postinfectious glomerulonephritis",
-        "Transitional cell carcinoma"
+        "Transitional cell carcinoma of the bladder"
       ],
       "answer": 3,
       "explanations": [
@@ -291,11 +291,11 @@
       "id": 16,
       "stem": "A urine microscopy from a patient with hematuria reveals red blood cells with characteristic donut shape with blebs. Which finding does this most strongly suggest?",
       "choices": [
-        "Bladder cancer",
+        "Postrenal bladder cancer source",
         "Glomerular source of bleeding",
-        "Hemorrhagic cystitis",
-        "Nephrolithiasis",
-        "Urinary tract infection"
+        "Postrenal hemorrhagic cystitis",
+        "Obstructive nephrolithiasis",
+        "Lower urinary tract infection"
       ],
       "answer": 1,
       "explanations": [
@@ -310,11 +310,11 @@
       "id": 17,
       "stem": "A 65-year-old man presents with hematuria and a serum creatinine that has risen from 1.0 to 2.4 mg/dL over 3 weeks, with a corresponding decrease in eGFR. Imaging shows a large pelvic mass causing bilateral hydronephrosis. Which interpretation of his decreased GFR is most accurate per the brick?",
       "choices": [
-        "Decreased GFR with obstruction usually means bilateral ureteral or bladder-level blockage",
-        "GFR always rises during obstruction",
+        "Decreased GFR usually requires bilateral or bladder-level blockage",
+        "GFR characteristically rises during urinary tract obstruction",
         "Hyperfiltration by the contralateral kidney prevents any rise in creatinine",
-        "Unilateral hydronephrosis routinely causes decreased GFR",
-        "Urinary obstruction never affects GFR"
+        "Unilateral hydronephrosis routinely causes a decreased GFR",
+        "Urinary tract obstruction essentially never affects GFR"
       ],
       "answer": 0,
       "explanations": [
@@ -405,11 +405,11 @@
       "id": 22,
       "stem": "A 52-year-old man (DM, from the case connection) presents with right flank pain and grossly bloody urine. His blood pressure is 150/90 mm Hg with right CVA tenderness. Urinalysis shows numerous RBCs and crystals. Renal ultrasound shows a small solitary kidney stone. Per the brick, what is the most appropriate management plan?",
       "choices": [
-        "Admit for emergent lithotripsy",
-        "Begin immunosuppressive therapy",
-        "Empirically treat for urinary tract infection",
-        "Refer for cystoscopy and bladder biopsy",
-        "Reassure the stone will likely pass, give analgesia, and recommend hydration"
+        "Admit for emergent shock-wave lithotripsy of the obstructing stone",
+        "Begin systemic immunosuppressive therapy with high-dose corticosteroids",
+        "Empirically treat for complicated upper urinary tract infection",
+        "Refer for urgent cystoscopy with random bladder mucosal biopsy",
+        "Reassure passage is likely, give analgesia, and advise hydration"
       ],
       "answer": 4,
       "explanations": [
@@ -462,11 +462,11 @@
       "id": 25,
       "stem": "A 16-year-old girl is started on phenazopyridine for dysuria and notes that her urine has turned orange-red the next day. A urine dipstick is negative for heme. Which conclusion is most consistent with the brick?",
       "choices": [
-        "Her red urine reflects gross hematuria from a urinary tract infection",
+        "Her red urine reflects gross hematuria from a complicated urinary tract infection",
         "Her red urine represents pseudohematuria from a drug-induced color change",
-        "She has hemoglobinuria from hemolysis",
-        "She likely has IgA nephropathy",
-        "She likely has rhabdomyolysis"
+        "She has hemoglobinuria from acute intravascular hemolysis",
+        "She likely has gross hematuria from IgA nephropathy",
+        "She likely has myoglobinuria from acute rhabdomyolysis"
       ],
       "answer": 1,
       "explanations": [

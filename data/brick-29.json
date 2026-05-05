@@ -101,11 +101,11 @@
       "id": 6,
       "stem": "A medical student is asked to explain why a small alkali load (≈100 mmol HCO3-) can sustain metabolic alkalosis even though the kidney filters >4200 mmol of bicarbonate per day. Which statement best explains the maintenance phase?",
       "choices": [
-        "A 2-3% reduction in HCO3- reabsorption is more than the kidney can ever achieve",
-        "Generation occurs only after maintenance has begun",
-        "The lung fully corrects pH so HCO3- accumulates",
-        "Volume depletion and hypokalemia prevent the kidney from excreting the excess HCO3-",
-        "β-intercalated cells secrete HCO3- when stimulated by aldosterone"
+        "A 2-3% reduction in HCO3- reabsorption is normally beyond the kidney's reserve capacity",
+        "Generation of new bicarbonate occurs only after the maintenance phase has fully begun",
+        "The lung fully corrects pH so the filtered HCO3- accumulates in plasma",
+        "Volume depletion and hypokalemia prevent excretion of the bicarbonate excess",
+        "β-intercalated cells inappropriately secrete HCO3- when stimulated by aldosterone"
       ],
       "answer": 3,
       "explanations": [
@@ -120,11 +120,11 @@
       "id": 7,
       "stem": "A 40-year-old woman with bulimia presents with hypokalemia and metabolic alkalosis. Which transporter is most directly responsible for the kidney's inability to excrete the retained bicarbonate?",
       "choices": [
-        "ENaC in principal cells",
-        "H+/K+-ATPase in α-intercalated cells",
-        "Na+/H+ exchanger in proximal tubule",
-        "Na+/K+/2Cl- cotransporter in thick ascending limb",
-        "Pendrin (Cl-/HCO3- exchanger) in β-intercalated cells"
+        "Apical ENaC channels in collecting duct principal cells",
+        "Apical H+/K+-ATPase pumps in α-intercalated cells",
+        "Apical Na+/H+ exchanger (NHE3) in the proximal tubule",
+        "Na+/K+/2Cl- cotransporter (NKCC2) of the thick ascending limb",
+        "Pendrin in β-intercalated cells"
       ],
       "answer": 4,
       "explanations": [
@@ -139,11 +139,11 @@
       "id": 8,
       "stem": "A 28-year-old woman with chronic vomiting from cyclic vomiting syndrome is found to have metabolic alkalosis. Which gastric component lost in vomitus is most directly responsible for the generation of her alkalosis?",
       "choices": [
-        "Bicarbonate",
-        "Chloride alone",
-        "Hydrochloric acid (H+ and Cl-)",
-        "Pepsinogen",
-        "Sodium and potassium"
+        "Plasma bicarbonate buffer",
+        "Chloride ions in isolation",
+        "Hydrochloric acid",
+        "Pepsinogen and other proteases",
+        "Sodium, potassium, and water"
       ],
       "answer": 2,
       "explanations": [
@@ -272,11 +272,11 @@
       "id": 15,
       "stem": "A patient with prolonged vomiting has activated her renin-angiotensin-aldosterone system due to volume depletion. By what mechanism does aldosterone most directly contribute to maintenance of her metabolic alkalosis?",
       "choices": [
-        "Blocks the H+/K+-ATPase in α-intercalated cells",
-        "Inhibits the Na+/H+ exchanger in the proximal tubule",
-        "Stimulates ENaC in principal cells, creating lumen negativity that drives H+ secretion by α-intercalated cells",
-        "Stimulates pendrin to secrete more bicarbonate",
-        "Suppresses glutamine metabolism in the proximal tubule"
+        "Directly blocks the H+/K+-ATPase pump in α-intercalated cells of the collecting duct",
+        "Potently inhibits the Na+/H+ exchanger throughout the proximal convoluted tubule",
+        "Stimulates principal-cell ENaC, driving α-cell H+ secretion",
+        "Directly stimulates pendrin to secrete additional bicarbonate into the urine",
+        "Suppresses glutamine metabolism and ammoniagenesis in the proximal convoluted tubule"
       ],
       "answer": 2,
       "explanations": [
@@ -310,11 +310,11 @@
       "id": 17,
       "stem": "Why does hypokalemia maintain metabolic alkalosis through changes in glutamine metabolism in the proximal tubule?",
       "choices": [
-        "Glutamine breakdown consumes bicarbonate and generates ammonium",
+        "Glutamine breakdown directly consumes bicarbonate while generating excess ammonium ions",
         "Glutamine breakdown generates additional bicarbonate and ammonium",
-        "Glutamine inhibits the Na+/H+ exchanger directly",
-        "Glutamine is preferentially excreted as a base",
-        "Hypokalemia inhibits glutamine metabolism, sparing bicarbonate"
+        "Glutamine itself directly inhibits the proximal Na+/H+ exchanger",
+        "Glutamine is preferentially excreted as a base in the urine",
+        "Hypokalemia inhibits proximal glutamine metabolism, sparing filtered bicarbonate"
       ],
       "answer": 1,
       "explanations": [
@@ -368,10 +368,10 @@
       "stem": "A young woman with hypotension, hypokalemia, and metabolic alkalosis has a urine chloride of 38 mEq/L. She denies vomiting and screening is negative for diuretic use. Which is the most likely diagnosis per the brick's diagnostic algorithm?",
       "choices": [
         "Bartter or Gitelman syndrome",
-        "Liddle syndrome",
-        "Primary hyperaldosteronism",
-        "Recent vomiting",
-        "11β-hydroxylase deficiency"
+        "Liddle syndrome (ENaC mutation)",
+        "Primary hyperaldosteronism (Conn)",
+        "Recent self-induced vomiting",
+        "11β-hydroxylase deficiency (CAH)"
       ],
       "answer": 0,
       "explanations": [
@@ -386,11 +386,11 @@
       "id": 21,
       "stem": "Which statement about respiratory compensation in metabolic alkalosis is most accurate based on the brick?",
       "choices": [
-        "Compensation fully normalizes the pH if given enough time",
-        "The respiratory center hyperventilates to compensate",
-        "The respiratory center hypoventilates, raising PaCO2 but never fully correcting pH",
-        "The respiratory center is not involved in compensation",
-        "Compensation occurs primarily through renal HCO3- excretion"
+        "Pulmonary compensation fully normalizes the systemic arterial pH given enough time",
+        "The brainstem respiratory center reflexively hyperventilates to compensate",
+        "Hypoventilation raises PaCO2 but only partially corrects pH",
+        "The respiratory center is not involved in acid-base compensation at all",
+        "Compensation occurs primarily through brisk renal HCO3- excretion"
       ],
       "answer": 2,
       "explanations": [
@@ -405,11 +405,11 @@
       "id": 22,
       "stem": "A 35-year-old woman with bulimia presents with metabolic alkalosis. Through which pathway does volume depletion most directly increase proximal tubular bicarbonate reabsorption per the brick?",
       "choices": [
-        "Activation of pendrin by angiotensin II",
-        "Aldosterone-driven NCC activation in the distal convoluted tubule",
-        "Inhibition of carbonic anhydrase in the proximal tubule",
-        "RAAS activation increasing Na+/H+ exchanger activity in the proximal tubule",
-        "Vasopressin-driven aquaporin insertion in the collecting duct"
+        "Direct activation of pendrin by circulating angiotensin II in the cortical collecting duct",
+        "Aldosterone-driven activation of NCC throughout the distal convoluted tubule segment",
+        "Profound inhibition of carbonic anhydrase activity in the proximal convoluted tubule",
+        "RAAS-driven Na+/H+ exchanger activity in the proximal tubule",
+        "Vasopressin-driven aquaporin-2 insertion throughout the collecting duct epithelium"
       ],
       "answer": 3,
       "explanations": [
@@ -424,11 +424,11 @@
       "id": 23,
       "stem": "A patient with metabolic alkalosis from vomiting is being treated with normal saline. Which two effects of saline directly correct the alkalosis per the brick?",
       "choices": [
-        "Acidifies the blood by infusing H+ and dilutes HCO3-",
-        "Provides Cl- for pendrin and reduces RAAS-mediated proximal HCO3- reabsorption by restoring volume",
-        "Provides bicarbonate to buffer the H+ excess",
-        "Stimulates ENaC and increases K+ secretion",
-        "Suppresses the H+/K+-ATPase in α-intercalated cells via volume expansion"
+        "Acidifies the blood by directly infusing free H+ ions and diluting circulating HCO3-",
+        "Restores volume (turning off RAAS) and supplies Cl- for pendrin function",
+        "Provides exogenous bicarbonate to buffer the systemic free H+ excess",
+        "Stimulates collecting-duct ENaC channels and increases distal K+ secretion",
+        "Directly suppresses the H+/K+-ATPase in α-intercalated cells via simple volume expansion"
       ],
       "answer": 1,
       "explanations": [
@@ -443,11 +443,11 @@
       "id": 24,
       "stem": "A patient with chloride-responsive metabolic alkalosis attributable to ongoing thiazide use has a serum K+ of 2.6 mEq/L. According to the brick, which is the most appropriate next step in management?",
       "choices": [
-        "Continue the diuretic and add acetazolamide",
-        "Give intravenous dilute hydrochloric acid",
-        "Restrict free water and observe",
-        "Stop the diuretic, give normal saline, and replace potassium",
-        "Switch to furosemide"
+        "Continue the thiazide diuretic and add adjunctive acetazolamide therapy",
+        "Give a slow infusion of intravenous dilute hydrochloric acid",
+        "Restrict free water intake and simply observe over 24 hours",
+        "Stop the diuretic, give saline, and replace potassium",
+        "Switch the thiazide to a higher-dose loop diuretic such as furosemide"
       ],
       "answer": 3,
       "explanations": [
@@ -462,11 +462,11 @@
       "id": 25,
       "stem": "Why does a patient with vomiting-induced volume depletion have impaired bicarbonate excretion through the pendrin transporter?",
       "choices": [
-        "Aldosterone directly inhibits pendrin",
-        "Hypokalemia destroys β-intercalated cells",
-        "Low luminal chloride deprives pendrin of its exchange substrate",
-        "Pendrin is downregulated by low blood pH",
-        "Volume depletion blocks the H+/K+-ATPase"
+        "Circulating aldosterone directly inhibits pendrin transporter activity",
+        "Profound hypokalemia destroys collecting-duct β-intercalated cells",
+        "Low luminal chloride deprives pendrin of its substrate",
+        "Pendrin is selectively downregulated in response to systemic low blood pH",
+        "Profound volume depletion completely blocks the apical H+/K+-ATPase pump"
       ],
       "answer": 2,
       "explanations": [

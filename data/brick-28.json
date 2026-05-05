@@ -34,9 +34,9 @@
       "choices": [
         "Buffering by intracellular hemoglobin only",
         "Conversion to CO2 and exhalation by the lungs",
-        "Excretion by the kidneys",
+        "Excretion of acid by the kidneys in urine",
         "Hepatic conjugation and biliary excretion",
-        "Sequestration in bone matrix"
+        "Sequestration of acid in the bone matrix"
       ],
       "answer": 2,
       "explanations": [
@@ -92,7 +92,7 @@
         "Excess production or ingestion of non-volatile acids",
         "Failure of the kidneys to excrete hydrogen ions or regenerate bicarbonate",
         "Inadequate alveolar ventilation causing CO2 retention",
-        "Loss of bicarbonate",
+        "Loss of bicarbonate from the body",
         "Defective renal ammoniagenesis from hyperkalemia"
       ],
       "answer": 2,
@@ -134,11 +134,11 @@
       "id": 9,
       "stem": "A 19-year-old man is brought to the ED after ingesting an unknown substance. He has an elevated anion gap metabolic acidosis. The brick lists two mnemonics to recall causes of AGMA: the traditional MUDPILES and the more recent GOLDMARK. Which agent appears in GOLDMARK as a more contemporary cause but is not in MUDPILES?",
       "choices": [
-        "Acetaminophen-related 5-oxoproline",
-        "Diabetic ketoacidosis",
-        "Ethylene glycol",
-        "Methanol",
-        "Salicylates"
+        "Acetaminophen 5-oxoproline",
+        "Diabetic ketoacidosis (DKA)",
+        "Ingested ethylene glycol",
+        "Methanol intoxication",
+        "Salicylates such as aspirin"
       ],
       "answer": 0,
       "explanations": [
@@ -225,7 +225,7 @@
       "choices": [
         "D-lactic acid from gut bacterial overgrowth",
         "Formic acid from alcohol dehydrogenase metabolism",
-        "L-lactic acid from inhibition of the citric acid cycle",
+        "L-lactic acid from citric acid cycle block",
         "Oxalic acid from alcohol dehydrogenase metabolism",
         "Pyruvic acid from forced conversion by metformin"
       ],
@@ -318,7 +318,7 @@
       "id": 19,
       "stem": "A 38-year-old woman with multiple myeloma develops glycosuria, phosphaturia, aminoaciduria, and a normal anion gap metabolic acidosis with serum HCO3- of 19 mEq/L and urine pH of 5.0. Per the brick, this constellation is best explained by which of the following?",
       "choices": [
-        "Distal (type 1) RTA from collecting duct alpha-intercalated cell dysfunction",
+        "Distal (type 1) RTA from alpha-intercalated cell defect",
         "Hyperkalemic (type 4) RTA from low aldosterone",
         "Lactic acidosis from chemotherapy",
         "Proximal (type 2) RTA with Fanconi syndrome",
@@ -337,11 +337,11 @@
       "id": 20,
       "stem": "A 26-year-old woman with Sjogren syndrome presents with muscle weakness. Labs show NAGMA with HCO3- 12 mEq/L, serum K+ 2.4 mEq/L, and urine pH 6.2. Renal ultrasound shows nephrocalcinosis. Per the brick, which type of renal tubular acidosis best fits?",
       "choices": [
-        "Distal (type 1) RTA",
-        "Hyperkalemic (type 4) RTA",
-        "Proximal (type 2) RTA",
-        "Renal tubular acidosis from acetazolamide",
-        "Uremic acidosis from CKD"
+        "Distal (type 1) RTA in Sjogren",
+        "Hyperkalemic (type 4) RTA pattern",
+        "Proximal (type 2) RTA pattern",
+        "Type 2 RTA from acetazolamide use",
+        "Uremic acidosis from advanced CKD"
       ],
       "answer": 0,
       "explanations": [
@@ -358,7 +358,7 @@
       "choices": [
         "Alpha-intercalated cell dysfunction with impaired H+/K+ exchange",
         "Carbonic anhydrase inhibition in the proximal tubule",
-        "Defective ammoniagenesis in the proximal tubule due to low aldosterone effect",
+        "Defective ammoniagenesis from low aldosterone effect",
         "Loss of bicarbonate in stool from autonomic diarrhea",
         "Overproduction of beta-hydroxybutyrate from insulin deficiency"
       ],
@@ -375,11 +375,11 @@
       "id": 22,
       "stem": "A 70-year-old man being evaluated for glaucoma is started on acetazolamide and develops a NAGMA. Per the brick, which renal tubular defect explains this drug-induced acidosis?",
       "choices": [
-        "Aldosterone receptor antagonism",
+        "Aldosterone receptor antagonism in collecting duct",
         "Alpha-intercalated cell H+ ATPase blockade",
-        "Inhibition of carbonic anhydrase, impairing proximal tubule bicarbonate reabsorption",
+        "Carbonic anhydrase inhibition in proximal tubule",
         "Loop of Henle Na-K-2Cl cotransporter blockade",
-        "Principal cell ENaC blockade"
+        "Principal cell ENaC blockade in collecting duct"
       ],
       "answer": 2,
       "explanations": [
@@ -413,11 +413,11 @@
       "id": 24,
       "stem": "A 16-year-old boy with type 1 diabetes presents with hyperglycemia, ketonuria, and an elevated anion gap metabolic acidosis. Per the brick, the cornerstone of treatment that will stop ketone production and raise the pH is which of the following?",
       "choices": [
-        "Ethanol drip",
-        "Fomepizole",
-        "Hemodialysis",
+        "Intravenous ethanol drip alone",
+        "Fomepizole monotherapy",
+        "Hemodialysis as first step",
         "Insulin and normal saline",
-        "Sodium bicarbonate as a first-line agent"
+        "Sodium bicarbonate first-line"
       ],
       "answer": 3,
       "explanations": [
@@ -432,11 +432,11 @@
       "id": 25,
       "stem": "A 50-year-old woman with proximal (type 2) RTA continues to have a low serum bicarbonate despite oral therapy. Per the brick, why are large amounts of bicarbonate often required to treat this disorder?",
       "choices": [
-        "Bicarbonate is rapidly destroyed in the stomach by acid",
-        "Ingested bicarbonate cannot enter the bloodstream",
-        "The damaged proximal tubule cannot reabsorb the additional filtered bicarbonate, so much of it is lost in the urine",
+        "Oral bicarbonate is rapidly destroyed in the stomach by gastric acid",
+        "Ingested bicarbonate is unable to enter the bloodstream from the gut",
+        "The proximal tubule defect lets filtered bicarbonate spill into urine",
         "The collecting duct alpha-intercalated cells overcompensate by secreting H+",
-        "The lungs blow off bicarbonate as CO2 during compensation"
+        "The lungs blow off bicarbonate as CO2 during respiratory compensation"
       ],
       "answer": 2,
       "explanations": [

@@ -63,11 +63,11 @@
       "id": 4,
       "stem": "A 55-year-old man with hypertension undergoes a renal ultrasound as part of an evaluation for declining kidney function. The radiologist describes dilation of the renal pelvis and calyces resembling a bear claw appearance bilaterally. This finding most strongly suggests which underlying problem?",
       "choices": [
-        "Acute glomerulonephritis",
-        "Chronic kidney disease without obstruction",
-        "Obstructive uropathy with a postrenal cause",
-        "Renal cell carcinoma",
-        "Renal vein thrombosis"
+        "Acute glomerulonephritis affecting both kidneys",
+        "Chronic kidney disease without any obstruction",
+        "Obstructive uropathy from postrenal cause",
+        "Bilateral renal cell carcinoma",
+        "Bilateral renal vein thrombosis"
       ],
       "answer": 2,
       "explanations": [
@@ -82,11 +82,11 @@
       "id": 5,
       "stem": "A 65-year-old man presents with acute oliguria and a creatinine that has risen from 1.0 to 3.5 mg/dL over 3 days. Renal ultrasound demonstrates bilateral hydronephrosis. Why is this distinction clinically important compared with finding small, echogenic kidneys?",
       "choices": [
-        "Bilateral hydronephrosis indicates an irreversible intrinsic renal process",
-        "Bilateral hydronephrosis suggests a postrenal cause that is often reversible with relief of obstruction",
-        "Echogenic kidneys can be cured rapidly with ureteral stenting",
-        "Hydronephrosis confirms a primary glomerular disease",
-        "Small echogenic kidneys indicate an acute reversible process"
+        "Bilateral hydronephrosis indicates an irreversible intrinsic renal process unresponsive to therapy",
+        "Bilateral hydronephrosis suggests a postrenal cause often reversible with obstruction relief",
+        "Echogenic kidneys can be cured rapidly with placement of ureteral stenting",
+        "Hydronephrosis on ultrasound confirms a primary glomerular disease process",
+        "Small echogenic kidneys indicate an acute reversible kidney injury process"
       ],
       "answer": 1,
       "explanations": [
@@ -101,11 +101,11 @@
       "id": 6,
       "stem": "A 28-year-old woman with a family history of kidney disease in multiple relatives undergoes renal ultrasound. Sagittal images of both kidneys reveal multiple large round anechoic lesions throughout the bilateral kidneys. Which diagnosis is best supported by these findings?",
       "choices": [
-        "Acute pyelonephritis with abscesses",
+        "Acute pyelonephritis with multiple bilateral abscesses",
         "Autosomal dominant polycystic kidney disease",
-        "Bilateral renal cell carcinoma",
-        "Chronic kidney disease",
-        "Hydronephrosis"
+        "Bilateral renal cell carcinoma with metastases",
+        "Chronic kidney disease with cortical thinning",
+        "Bilateral obstructive hydronephrosis"
       ],
       "answer": 1,
       "explanations": [
@@ -177,11 +177,11 @@
       "id": 10,
       "stem": "A 38-year-old man has a noncontrast CT performed for acute right flank pain. Coronal images demonstrate a calcified focus in the distal right ureter with upstream dilation of the right renal pelvis and calyces. Which finding best explains the upstream dilation seen on CT?",
       "choices": [
-        "Acute glomerular injury from contrast nephropathy",
-        "Chronic kidney disease with cortical scarring",
-        "Hydronephrosis from obstruction by a ureteral stone",
-        "Renal cell carcinoma invading the collecting system",
-        "Renal vein thrombosis with congestion"
+        "Acute glomerular injury from intravenous contrast nephropathy",
+        "Chronic kidney disease with diffuse cortical scarring",
+        "Hydronephrosis from a ureteral stone",
+        "Renal cell carcinoma invading the renal collecting system",
+        "Acute renal vein thrombosis with parenchymal congestion"
       ],
       "answer": 2,
       "explanations": [
@@ -234,11 +234,11 @@
       "id": 13,
       "stem": "A 34-year-old man is brought to the trauma bay after a motor vehicle collision with left flank tenderness and gross hematuria. He is hemodynamically stable. Which imaging modality is most appropriate to assess for renal trauma?",
       "choices": [
-        "Contrast-enhanced CT of the abdomen and pelvis",
-        "Doppler renal ultrasound",
-        "Noncontrast CT of the abdomen",
-        "Renal nuclear medicine scan",
-        "T1-weighted MRI of the abdomen"
+        "Contrast-enhanced CT of abdomen and pelvis",
+        "Doppler renal vascular ultrasound study",
+        "Noncontrast CT of the abdomen and pelvis",
+        "Renal nuclear medicine perfusion scan",
+        "T1-weighted MRI of the abdomen with contrast"
       ],
       "answer": 0,
       "explanations": [
@@ -253,11 +253,11 @@
       "id": 14,
       "stem": "A 62-year-old woman with diabetes presents with fever, flank pain, and pyuria. Initial renal ultrasound is inconclusive but raises concern for a possible perinephric collection. Which imaging study is most appropriate to evaluate this complicated infection?",
       "choices": [
-        "Contrast-enhanced CT of the abdomen",
-        "Intravenous pyelogram",
-        "Noncontrast CT of the abdomen",
-        "Plain abdominal radiograph",
-        "Renal nuclear medicine scan"
+        "Contrast-enhanced CT of abdomen",
+        "Intravenous pyelogram with iodinated contrast",
+        "Noncontrast CT of the abdomen and pelvis",
+        "Plain abdominal radiograph (KUB film)",
+        "Renal nuclear medicine perfusion scan"
       ],
       "answer": 0,
       "explanations": [
@@ -310,11 +310,11 @@
       "id": 17,
       "stem": "A 60-year-old man is being considered for left nephrectomy for renal cell carcinoma. His DMSA renal scan shows uptake in the left kidney but essentially no uptake in the right kidney, with appropriate radioisotope collection in the bladder. How should this finding influence surgical planning according to the brick?",
       "choices": [
-        "Both kidneys are functioning equally and nephrectomy is safe",
-        "Surgeons should avoid complete nephrectomy because the remaining kidney is nonfunctional",
-        "The patient should proceed urgently to bilateral nephrectomy",
-        "The right kidney is hyperfunctioning and can compensate after surgery",
-        "The scan is uninterpretable due to bladder activity"
+        "Both kidneys are functioning equally and complete nephrectomy on the left is safe",
+        "Surgeons should avoid nephrectomy as the remaining kidney is nonfunctional",
+        "The patient should proceed urgently to bilateral nephrectomy of both kidneys",
+        "The right kidney is hyperfunctioning and will fully compensate after surgery",
+        "The scan is uninterpretable due to bladder radioisotope activity"
       ],
       "answer": 1,
       "explanations": [
@@ -348,11 +348,11 @@
       "id": 19,
       "stem": "A 42-year-old man with a contrast allergy has an indeterminate right renal mass on noncontrast CT. T1-weighted MRI shows a small lesion in the right kidney consistent with a benign angiomyolipoma. Which feature of MRI in this brick best explains its use here?",
       "choices": [
-        "It avoids radiation but cannot characterize soft-tissue masses",
-        "It is the first-line study for kidney size and obstruction",
-        "It is the test of choice for nephrolithiasis",
-        "It measures comparative function between the two kidneys",
-        "It provides high-resolution soft-tissue contrast and is excellent when CT is contraindicated"
+        "It avoids ionizing radiation but cannot characterize soft-tissue masses adequately",
+        "It is the noninvasive first-line study for evaluating kidney size and obstruction",
+        "It is the test of choice for nephrolithiasis and identifying obstructing stones",
+        "It measures comparative function between the two kidneys via radioisotopes",
+        "It provides high soft-tissue contrast and is excellent when CT is contraindicated"
       ],
       "answer": 4,
       "explanations": [
@@ -386,11 +386,11 @@
       "id": 21,
       "stem": "A 10-year-old girl presents with right flank pain and hematuria. Point-of-care ultrasound shows severe right-sided hydronephrosis, and CT confirms an obstructing stone in the right renal pelvis with likely loss of function on that side. Despite this, her overall renal function is expected to remain normal. Which mechanism best explains this preservation of function?",
       "choices": [
-        "Contralateral kidney enlargement caused by the stone itself",
-        "Rapid recovery of the obstructed nephron mass within minutes",
-        "Reflex increase in cardiac output to the kidneys",
-        "The bladder takes over filtration via stored radioisotope",
-        "The remaining functional kidney has a large nephron reserve and ability to compensate"
+        "Contralateral kidney enlargement directly caused by the obstructing ureteral stone itself",
+        "Rapid recovery of the obstructed nephron mass within just a few minutes after presentation",
+        "Reflex increase in cardiac output redirecting blood flow to both of the kidneys",
+        "The bladder takes over filtration via stored radioisotope from prior nuclear imaging",
+        "The remaining functional kidney has large nephron reserve and ability to compensate"
       ],
       "answer": 4,
       "explanations": [
@@ -405,11 +405,11 @@
       "id": 22,
       "stem": "A 55-year-old man with bilateral hydronephrosis from prostatic obstruction has acute kidney injury. According to the brick, which intervention can rapidly improve kidney function?",
       "choices": [
-        "Bladder catheterization or ureteral stenting to relieve the obstruction",
-        "Doppler ultrasound to confirm renal blood flow",
-        "Immediate dialysis as definitive therapy",
-        "Initiation of high-dose loop diuretics",
-        "Prompt nephrectomy of the more dilated kidney"
+        "Bladder catheterization or ureteral stenting",
+        "Doppler ultrasound to confirm preserved bilateral renal arterial blood flow",
+        "Immediate hemodialysis as the definitive therapy for AKI",
+        "Initiation of intravenous high-dose loop diuretics",
+        "Prompt surgical nephrectomy of the more dilated kidney"
       ],
       "answer": 0,
       "explanations": [
@@ -424,11 +424,11 @@
       "id": 23,
       "stem": "A medical student is reviewing how renal nuclear scans work. Which statement best describes how radionuclide scanning provides information about kidney function?",
       "choices": [
-        "It directly measures urine osmolality in each renal pelvis",
-        "It follows injected radioisotopes through the renal vasculature and into the ultrafiltrate, allowing measurement of comparative function in the two kidneys",
-        "It quantifies cortical thickness using high-frequency sound waves",
-        "It uses gadolinium chelates to assess soft-tissue contrast",
-        "It uses iodinated contrast to highlight nephroliths"
+        "It directly measures urine osmolality in each renal pelvis using injected isotopes during dynamic phase imaging",
+        "It follows injected radioisotopes through the renal vasculature into the ultrafiltrate, allowing comparative function measurement",
+        "It quantifies cortical thickness using high-frequency sound waves at the renal poles to assess functional reserve in each kidney",
+        "It uses gadolinium chelates to assess soft-tissue contrast and quantify split function across the two kidneys radiographically",
+        "It uses iodinated contrast to highlight nephroliths and measures comparative kidney function from contrast clearance over time"
       ],
       "answer": 1,
       "explanations": [

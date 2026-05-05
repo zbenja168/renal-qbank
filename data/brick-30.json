@@ -44,11 +44,11 @@
       "id": 3,
       "stem": "A 45-year-old woman with myasthenia gravis develops progressive weakness and shallow breathing. Her arterial blood gas shows pH 7.28, PaCO2 60 mm Hg. According to the brick, which of the following best describes the primary problem leading to her acid-base disturbance?",
       "choices": [
-        "Decreased respiratory drive from the brainstem",
-        "Decreased respiratory muscle function reducing tidal volume",
-        "Impaired alveolar diffusion barrier",
-        "Trapping of CO2 from airway obstruction",
-        "Upper airway obstruction from a foreign body"
+        "Decreased central respiratory drive from the brainstem nuclei",
+        "Decreased respiratory muscle function",
+        "Impaired alveolar-capillary diffusion barrier from interstitial disease",
+        "Trapping of CO2 from lower airway obstruction",
+        "Upper airway obstruction from an aspirated foreign body"
       ],
       "answer": 1,
       "explanations": [
@@ -63,11 +63,11 @@
       "id": 4,
       "stem": "A 70-year-old man is found at home obtunded after taking extra hydromorphone for back pain. The brick states that the body's natural tendency is to become acidic largely because of the volume of acid produced daily by the Krebs cycle. Approximately how much CO2-derived acid does the Krebs cycle generate per day?",
       "choices": [
-        "150 millimoles",
-        "1,500 millimoles",
+        "About 150 millimoles per day",
+        "About 1,500 millimoles per day",
         "More than 15,000 millimoles",
-        "150,000 millimoles",
-        "1.5 millimoles"
+        "About 150,000 millimoles per day",
+        "About 1.5 millimoles per day"
       ],
       "answer": 2,
       "explanations": [
@@ -101,11 +101,11 @@
       "id": 6,
       "stem": "A 67-year-old woman with severe community-acquired pneumonia has progressively worsening hypoxemia and hypercapnia. According to the brick, which mechanism best explains how pneumonia produces respiratory acidosis?",
       "choices": [
-        "Trapping of CO2 from bronchospasm",
-        "Decreased central respiratory drive from infection",
-        "Filling of alveolar spaces with exudates impairing gas exchange",
-        "Decreased respiratory muscle function from sepsis",
-        "Upper airway obstruction by purulent secretions"
+        "Trapping of CO2 from infection-induced bronchospasm",
+        "Decreased central respiratory drive from systemic infection",
+        "Filling of alveolar spaces with exudates",
+        "Decreased respiratory muscle function from systemic sepsis",
+        "Upper airway obstruction by thick purulent secretions"
       ],
       "answer": 2,
       "explanations": [
@@ -120,11 +120,11 @@
       "id": 7,
       "stem": "A 58-year-old man with longstanding emphysema undergoes pulmonary function testing and develops a mild chronic respiratory acidosis. Which mechanism best explains how emphysema contributes to CO2 retention according to the brick?",
       "choices": [
-        "Bronchospasm trapping CO2 in the airways",
-        "Decreased alveolar surface area available for gas exchange",
+        "Bronchospasm trapping CO2 within the lower airways",
+        "Decreased alveolar surface area",
         "Diaphragmatic paralysis from phrenic nerve compression",
-        "Filling of alveoli with proteinaceous exudate",
-        "Upper airway collapse during sleep"
+        "Filling of alveoli with proteinaceous infectious exudate",
+        "Upper airway collapse occurring during sleep"
       ],
       "answer": 1,
       "explanations": [
@@ -139,11 +139,11 @@
       "id": 8,
       "stem": "A 50-year-old man with severe obesity has daytime somnolence and an arterial blood gas showing chronic CO2 retention without evidence of intrinsic lung disease, neuromuscular disease, or sleep apnea. According to the brick, his disorder is best categorized under which mechanism of respiratory acidosis?",
       "choices": [
-        "Decreased respiratory drive",
+        "Decreased central respiratory drive",
         "Decreased respiratory muscle function",
-        "Impaired diffusion barrier",
-        "Upper airway obstruction",
-        "CO2 trapping"
+        "Impaired alveolar diffusion barrier",
+        "Upper airway anatomic obstruction",
+        "Lower airway CO2 trapping"
       ],
       "answer": 0,
       "explanations": [
@@ -158,11 +158,11 @@
       "id": 9,
       "stem": "A 28-year-old woman with severe asthma exacerbation initially had tachypnea and a low PaCO2. Over the next hour she becomes increasingly fatigued and her PaCO2 rises to 50 mm Hg with pH 7.31. According to the brick, asthma exacerbations cause respiratory acidosis primarily through which mechanism?",
       "choices": [
-        "Alveolar filling with exudates",
-        "Decreased alveolar surface area",
-        "Decreased central respiratory drive",
-        "Airway obstruction trapping CO2 within the lungs",
-        "Diaphragmatic muscle weakness"
+        "Alveolar filling with infectious exudates",
+        "Decreased alveolar surface area for diffusion",
+        "Decreased central respiratory drive from the brainstem",
+        "Airway obstruction trapping CO2 in lungs",
+        "Diaphragmatic muscle weakness from fatigue"
       ],
       "answer": 3,
       "explanations": [
@@ -177,11 +177,11 @@
       "id": 10,
       "stem": "A 35-year-old woman with Guillain-Barre syndrome develops shallow breathing and a rising PaCO2. Which of the following best characterizes how this disorder produces respiratory acidosis according to the brick?",
       "choices": [
-        "Decreased respiratory drive from brainstem demyelination",
-        "Reduced tidal volume from impaired respiratory muscle function",
-        "Bronchospasm and CO2 trapping",
-        "Alveolar consolidation impairing diffusion",
-        "Upper airway obstruction during sleep"
+        "Decreased central respiratory drive from brainstem demyelination",
+        "Reduced tidal volume from impaired muscle function",
+        "Bronchospasm and small airway CO2 trapping",
+        "Alveolar consolidation impairing alveolar diffusion",
+        "Upper airway obstruction occurring during sleep"
       ],
       "answer": 1,
       "explanations": [
@@ -196,10 +196,10 @@
       "id": 11,
       "stem": "A 19-year-old woman is found unresponsive after a drinking binge. Her respiratory rate is 8 breaths/min. The brick groups alcohol with several other agents and conditions that share a common mechanism of producing respiratory acidosis. That shared mechanism is best described as:",
       "choices": [
-        "Decreased respiratory drive with reduced rate and/or tidal volume",
-        "Direct toxicity to type II alveolar pneumocytes",
-        "Increased airway resistance via bronchospasm",
-        "Pulmonary capillary leak with alveolar flooding",
+        "Decreased respiratory drive reducing rate and tidal volume",
+        "Direct cellular toxicity to type II alveolar pneumocytes",
+        "Increased lower airway resistance via diffuse bronchospasm",
+        "Pulmonary capillary leak with widespread alveolar flooding",
         "Skeletal muscle paralysis at the neuromuscular junction"
       ],
       "answer": 0,
@@ -215,11 +215,11 @@
       "id": 12,
       "stem": "A 44-year-old man is brought in unresponsive with pinpoint pupils and a respiratory rate of 6 breaths/min. According to the brick, what is the most appropriate immediate treatment, even before completing the diagnostic workup?",
       "choices": [
-        "Bilevel positive airway pressure (BiPAP)",
-        "Endotracheal intubation",
-        "Intravenous sodium bicarbonate",
-        "Naloxone",
-        "Emergency dialysis"
+        "Bilevel positive airway pressure (BiPAP) trial",
+        "Emergent endotracheal intubation",
+        "Empiric intravenous sodium bicarbonate bolus",
+        "Naloxone administration",
+        "Emergency hemodialysis"
       ],
       "answer": 3,
       "explanations": [
@@ -234,10 +234,10 @@
       "id": 13,
       "stem": "A 72-year-old man with COPD presents with cough and shortness of breath. He is treated with bronchodilators but his arterial blood gas continues to show worsening respiratory acidosis. According to the brick, which intervention is most appropriate next?",
       "choices": [
-        "Intravenous sodium bicarbonate",
-        "Bilevel positive airway pressure (BiPAP)",
-        "Naloxone",
-        "Emergency dialysis",
+        "Intravenous sodium bicarbonate infusion",
+        "Bilevel positive airway pressure",
+        "Intravenous naloxone administration",
+        "Emergency renal hemodialysis",
         "Inhaled corticosteroids only"
       ],
       "answer": 1,
@@ -254,10 +254,10 @@
       "stem": "A 65-year-old man with a COPD exacerbation is on BiPAP. Despite this, his PaCO2 continues to rise, his PaO2 falls markedly, and he becomes increasingly fatigued. According to the brick, what is the most appropriate next step?",
       "choices": [
         "Continue current BiPAP settings unchanged",
-        "Switch to nasal cannula oxygen alone",
+        "Switch to nasal cannula oxygen only",
         "Endotracheal intubation",
-        "Administer naloxone",
-        "Initiate hemodialysis"
+        "Administer intravenous naloxone",
+        "Initiate emergent hemodialysis"
       ],
       "answer": 2,
       "explanations": [
@@ -291,11 +291,11 @@
       "id": 16,
       "stem": "A nephrology fellow is teaching a student about the renal response to chronic respiratory acidosis. According to the brick, the kidneys regenerate new bicarbonate by which of the following actions?",
       "choices": [
-        "Reabsorbing filtered bicarbonate without H+ excretion",
-        "Excreting H+ buffered by phosphate and ammonium in the urine",
-        "Increasing CO2 exhalation through pulmonary feedback",
-        "Generating bicarbonate from the breakdown of urea",
-        "Excreting potassium in exchange for bicarbonate"
+        "Reabsorbing filtered bicarbonate without any tubular H+ excretion",
+        "Excreting urinary H+ buffered by phosphate and ammonium",
+        "Increasing pulmonary CO2 exhalation through neural feedback",
+        "Generating new bicarbonate from the metabolic breakdown of urea",
+        "Excreting urinary potassium in exchange for systemic bicarbonate"
       ],
       "answer": 1,
       "explanations": [
@@ -329,11 +329,11 @@
       "id": 18,
       "stem": "A 50-year-old man presents with confusion and possible respiratory acidosis. Which of the following is most helpful in initially diagnosing respiratory acidosis according to the brick?",
       "choices": [
-        "Chest x-ray",
+        "Plain film chest x-ray",
         "Pulmonary function testing",
-        "Pulse oximetry",
-        "Serum electrolytes",
-        "Venous blood gas"
+        "Bedside pulse oximetry",
+        "Basic serum electrolytes panel",
+        "Venous blood gas analysis"
       ],
       "answer": 4,
       "explanations": [
@@ -386,11 +386,11 @@
       "id": 21,
       "stem": "A 35-year-old man with botulism develops weak respirations. According to the brick, this represents which subcategory of impaired ventilation?",
       "choices": [
-        "Decreased respiratory drive",
+        "Decreased central respiratory drive from the brainstem",
         "Decreased respiratory muscle function",
-        "Upper airway obstruction",
-        "CO2 trapping",
-        "Impaired diffusion barrier"
+        "Upper airway anatomic obstruction",
+        "Lower airway CO2 trapping from bronchospasm",
+        "Impaired alveolar-capillary diffusion barrier"
       ],
       "answer": 1,
       "explanations": [
@@ -405,10 +405,10 @@
       "id": 22,
       "stem": "A medical student is asked which of the following best describes the renal compensation for respiratory acidosis. Based on the brick, the correct answer is:",
       "choices": [
-        "The blood pH becomes alkalemic",
-        "The blood pH corrects all the way to 7.40",
-        "The serum bicarbonate falls, more in acute disease",
-        "The serum bicarbonate rises, more in acute disease",
+        "The blood pH becomes frankly alkalemic with compensation",
+        "The blood pH fully corrects all the way back to 7.40",
+        "The serum bicarbonate falls, more so in acute disease",
+        "The serum bicarbonate rises, more so in acute disease",
         "The serum bicarbonate rises, more in chronic disease"
       ],
       "answer": 4,
@@ -424,10 +424,10 @@
       "id": 23,
       "stem": "A 70-year-old man with chronic kidney disease who recently had abdominal surgery is found somnolent at midnight with pinpoint pupils and a respiratory rate of 9. He has been on IV morphine for pain. ABG and BMP confirm respiratory acidosis. According to the brick, which intervention provides definitive management of the cause of his respiratory acidosis?",
       "choices": [
-        "Intravenous sodium bicarbonate",
-        "Emergency dialysis",
-        "Naloxone",
-        "Bilevel positive airway pressure (BiPAP)",
+        "Empiric intravenous sodium bicarbonate bolus",
+        "Emergency renal hemodialysis",
+        "Intravenous naloxone administration",
+        "Bilevel positive airway pressure",
         "High-dose inhaled bronchodilators"
       ],
       "answer": 2,
@@ -443,11 +443,11 @@
       "id": 24,
       "stem": "A medical student reads that high CO2 in the brain produces several CNS effects in respiratory acidosis. According to the brick, which of the following is a direct CNS consequence of elevated CO2 cited in the brick's pathophysiology of altered mental status?",
       "choices": [
-        "Cerebral vasoconstriction reducing intracranial pressure",
-        "Decreased CSF pH that alters sodium and calcium channels and neurotransmitter activity",
-        "Direct neuronal toxicity from hyperoxia",
-        "Increased cerebral perfusion pressure due to vasodilation",
-        "Stimulation of voluntary respiratory pathways"
+        "Cerebral vasoconstriction reducing the intracranial pressure",
+        "Decreased CSF pH that alters ion channels and neurotransmission",
+        "Direct neuronal toxicity from hyperoxia and oxidative injury",
+        "Increased cerebral perfusion pressure from cerebral vasodilation",
+        "Stimulation of voluntary cortical respiratory pathways"
       ],
       "answer": 1,
       "explanations": [
@@ -462,11 +462,11 @@
       "id": 25,
       "stem": "A 5-year-old child aspirates a small toy and develops acute respiratory distress with hypercapnia. According to the brick's classification, this scenario represents respiratory acidosis from which mechanism?",
       "choices": [
-        "Decreased respiratory drive",
-        "Decreased respiratory muscle function",
-        "Decreased ventilation due to upper airway obstruction",
-        "Impaired alveolar diffusion barrier",
-        "Alveolar filling defect"
+        "Decreased central respiratory drive from the brainstem",
+        "Decreased respiratory muscle function from neuromuscular disease",
+        "Decreased ventilation from upper airway obstruction",
+        "Impaired alveolar-capillary diffusion barrier",
+        "Alveolar filling defect from infectious exudates"
       ],
       "answer": 2,
       "explanations": [

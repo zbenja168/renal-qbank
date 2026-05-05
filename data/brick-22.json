@@ -45,11 +45,11 @@
       "id": 4,
       "stem": "A 32-year-old woman with severe asthma uses her albuterol inhaler frequently during an exacerbation. Her serum potassium drops from 4.2 to 3.2 mEq/L, although her total body K+ stores are normal. Which mechanism best explains her hypokalemia?",
       "choices": [
-        "Direct renal K+ wasting from beta-2 agonist",
-        "Stimulation of Na+/K+-ATPase shifting K+ into cells",
+        "Direct renal K+ wasting from the beta-2 agonist effect",
+        "Na+/K+-ATPase activation shifting K+ into cells",
         "Aldosterone-driven cortical collecting duct K+ secretion",
-        "Loss of K+ in respiratory secretions",
-        "Decreased intestinal absorption of K+"
+        "Loss of K+ in airway respiratory secretions",
+        "Decreased intestinal absorption of dietary K+"
       ],
       "answer": 1,
       "explanations": [
@@ -64,11 +64,11 @@
       "id": 5,
       "stem": "A 60-year-old woman with type 2 diabetes is given an insulin infusion for hyperglycemia. One hour later her serum K+ falls from 4.0 to 3.1 mEq/L. Which mechanism is responsible for her hypokalemia?",
       "choices": [
-        "Increased renal K+ excretion",
-        "Diarrhea induced by insulin",
-        "Stimulation of Na+/K+-ATPase shifting K+ intracellularly",
+        "Increased renal K+ excretion through ROMK channels",
+        "Insulin-induced osmotic diarrhea with stool K+ loss",
+        "Na+/K+-ATPase activation driving K+ into cells",
         "Aldosterone secretion from the adrenal cortex",
-        "Decreased K+ absorption from the gut"
+        "Decreased intestinal K+ absorption from the gut"
       ],
       "answer": 2,
       "explanations": [
@@ -83,11 +83,11 @@
       "id": 6,
       "stem": "A 38-year-old woman with persistent vomiting from gastroparesis has a serum K+ of 2.8 mEq/L. Although gastric fluid contains relatively little potassium, she is severely hypokalemic. Which mechanism is the major contributor to her renal K+ wasting?",
       "choices": [
-        "Direct loss of K+ in the vomitus due to its very high K+ concentration",
-        "Volume depletion stimulating aldosterone, which drives renal K+ secretion",
-        "Acidemia shifting K+ out of cells into the urine",
-        "Decreased intestinal K+ absorption from gastric atony",
-        "Loss of magnesium in vomitus inhibiting ROMK"
+        "Direct loss of K+ in the vomitus from very high K+ concentration",
+        "Aldosterone activation from volume depletion driving renal K+ loss",
+        "Acidemia shifting K+ out of cells into the urinary filtrate",
+        "Decreased intestinal K+ absorption from gastric atony and ileus",
+        "Loss of magnesium in vomitus inhibiting collecting duct ROMK"
       ],
       "answer": 1,
       "explanations": [
@@ -102,11 +102,11 @@
       "id": 7,
       "stem": "A 25-year-old man with chronic infectious diarrhea has a serum K+ of 2.7 mEq/L. Why does diarrhea, but not a comparable volume of vomiting, cause direct GI loss of potassium sufficient to produce hypokalemia?",
       "choices": [
-        "Lower GI fluid contains 30-90 mEq/L of K+, while upper GI fluid contains only 10-15 mEq/L",
+        "Lower GI fluid is much richer in K+ than upper GI fluid",
         "Diarrhea selectively activates aldosterone while vomiting does not",
-        "Diarrhea blocks intestinal Na+/K+-ATPase",
-        "Lower GI fluid is acidic and shifts K+ out of cells",
-        "Diarrhea increases ENaC activity in the colon"
+        "Diarrhea directly blocks the intestinal Na+/K+-ATPase pump",
+        "Lower GI fluid is acidic and shifts K+ out of enterocytes",
+        "Diarrhea increases epithelial ENaC channel activity in the colon"
       ],
       "answer": 0,
       "explanations": [
@@ -122,9 +122,9 @@
       "stem": "A 65-year-old man with congestive heart failure is started on furosemide. Two weeks later his serum K+ is 3.0 mEq/L. Through which combination of mechanisms do loop diuretics produce hypokalemia?",
       "choices": [
         "Direct blockade of K+ reabsorption in the proximal tubule",
-        "Increased urine flow plus volume depletion-driven aldosterone, both enhancing K+ secretion",
-        "Inhibition of the Na+/K+-ATPase in tubular cells",
-        "Blockade of ENaC in the principal cell",
+        "Increased distal flow plus aldosterone-driven K+ secretion",
+        "Inhibition of the Na+/K+-ATPase in renal tubular cells",
+        "Blockade of ENaC channels in the principal cell",
         "Inhibition of aldosterone receptors in the collecting duct"
       ],
       "answer": 1,
@@ -140,11 +140,11 @@
       "id": 9,
       "stem": "A 55-year-old man with heart failure on furosemide has recurrent hypokalemia despite oral potassium supplementation. His cardiologist adds spironolactone, both for additional heart failure benefit and to prevent hypokalemia. By what mechanism does spironolactone raise serum K+?",
       "choices": [
-        "Direct stimulation of intestinal K+ absorption",
-        "Blockade of the Na+/K+/2Cl- cotransporter",
-        "Blockade of the Na+/Cl- cotransporter (NCC)",
-        "Blockade of aldosterone activity in the collecting duct",
-        "Direct blockade of ENaC in the principal cell"
+        "Direct stimulation of intestinal K+ absorption from food",
+        "Blockade of the Na+/K+/2Cl- cotransporter in the loop",
+        "Blockade of the thiazide-sensitive Na+/Cl- cotransporter (NCC)",
+        "Blockade of aldosterone in the collecting duct",
+        "Direct blockade of ENaC channels in the principal cell"
       ],
       "answer": 3,
       "explanations": [
@@ -179,9 +179,9 @@
       "stem": "A 28-year-old woman presents with chronic mild hypokalemia (K+ 3.0 mEq/L), metabolic alkalosis, and normal blood pressure. Genetic testing reveals a loss-of-function mutation in SLC12A3. Which transporter does this gene encode, and which diuretic does the syndrome mimic?",
       "choices": [
         "Na+/K+/2Cl- cotransporter; loop diuretic",
-        "Na+/Cl- cotransporter (NCC); thiazide diuretic",
-        "ENaC; amiloride",
-        "ROMK; spironolactone",
+        "Na+/Cl- cotransporter; thiazide diuretic",
+        "Epithelial sodium channel (ENaC); amiloride",
+        "ROMK potassium channel; spironolactone",
         "Na+/H+ exchanger; acetazolamide"
       ],
       "answer": 1,
@@ -236,10 +236,10 @@
       "id": 15,
       "stem": "A 40-year-old man presents with a serum K+ of 3.0 mEq/L, a normal anion gap metabolic acidosis, and serum bicarbonate of 16 mEq/L. Which diagnosis best fits this combination?",
       "choices": [
-        "Primary hyperaldosteronism",
-        "Liddle syndrome",
+        "Primary hyperaldosteronism with alkalosis",
+        "Liddle syndrome with hypertension",
         "Type 1 or type 2 renal tubular acidosis",
-        "Bartter syndrome",
+        "Bartter syndrome with alkalosis",
         "Vomiting-induced metabolic alkalosis"
       ],
       "answer": 2,
@@ -319,11 +319,11 @@
       "id": 20,
       "stem": "A 45-year-old man has hypokalemia and a spot urine sample is sent. Which spot urine value supports a renal cause of K+ loss according to the brick?",
       "choices": [
-        "Urine K+/creatinine ratio >13 mEq/g or spot urine K+ >30 mEq/L",
-        "Urine K+/creatinine ratio <5 mEq/g",
-        "Spot urine K+ <10 mEq/L",
-        "Spot urine Na+ >100 mEq/L",
-        "Urine osmolality <100 mOsm/kg"
+        "K+/Cr ratio >13 mEq/g or spot K+ >30 mEq/L",
+        "Spot urine K+/creatinine ratio less than 5 mEq/g",
+        "Spot urine K+ concentration less than 10 mEq/L",
+        "Spot urine Na+ concentration greater than 100 mEq/L",
+        "Spot urine osmolality less than 100 mOsm per kg"
       ],
       "answer": 0,
       "explanations": [
@@ -383,11 +383,11 @@
       "id": 24,
       "stem": "A 48-year-old man has hypokalemia (K+ 3.0 mEq/L) and a normal anion gap metabolic acidosis from type 1 renal tubular acidosis. According to the brick, which oral potassium product is best suited to address both problems?",
       "choices": [
-        "Potassium chloride",
-        "Potassium gluconate",
-        "Potassium phosphate",
-        "Potassium bicarbonate or potassium citrate",
-        "Potassium acetate"
+        "Oral potassium chloride tablets",
+        "Over-the-counter potassium gluconate",
+        "Oral potassium phosphate replacement",
+        "Potassium bicarbonate or citrate",
+        "Intravenous potassium acetate"
       ],
       "answer": 3,
       "explanations": [

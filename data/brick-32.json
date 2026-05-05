@@ -5,7 +5,7 @@
     {
       "id": 1,
       "stem": "A 28-year-old man plans to fly from sea level to a high-altitude ski resort and reports that on a previous trip he developed headache, nausea, lightheadedness, and shortness of breath the day after arrival. His physician prescribes a drug whose generic name ends in \"-zolamide\" to take prior to ascent. By inhibiting which enzyme does this drug work?",
-      "choices": ["Carbonic anhydrase", "Cyclooxygenase", "Na+/K+-ATPase", "Phosphodiesterase", "Xanthine oxidase"],
+      "choices": ["Carbonic anhydrase", "Cyclooxygenase", "Na+/K+-ATPase enzyme", "Phosphodiesterase", "Xanthine oxidase"],
       "answer": 0,
       "explanations": [
         "Correct. Drugs ending in \"-zolamide\" (e.g., acetazolamide) are carbonic anhydrase inhibitors that block the enzyme catalyzing CO2 + H2O ↔ HCO3− + H+.",
@@ -38,10 +38,10 @@
       "id": 3,
       "stem": "A 35-year-old woman is started on acetazolamide for idiopathic intracranial hypertension. The drug is most active in which segment of the nephron, where it produces its diuretic effect?",
       "choices": [
-        "Collecting duct",
-        "Cortical thick ascending limb",
+        "Cortical collecting duct of nephron",
+        "Cortical thick ascending limb of Henle",
         "Distal convoluted tubule",
-        "Proximal tubule",
+        "Proximal convoluted tubule",
         "Thin descending limb of Henle"
       ],
       "answer": 3,
@@ -56,7 +56,7 @@
     {
       "id": 4,
       "stem": "A 55-year-old man is given acetazolamide. In the proximal tubule, the bicarbonate reabsorption process that this drug interrupts is inevitably linked to reabsorption of which other ion via an antiporter on the apical membrane?",
-      "choices": ["Calcium", "Chloride", "Magnesium", "Potassium", "Sodium"],
+      "choices": ["Calcium ion", "Chloride ion", "Magnesium ion", "Potassium ion", "Sodium"],
       "answer": 4,
       "explanations": [
         "Incorrect. Calcium reabsorption is not coupled to bicarbonate reabsorption via this antiporter.",
@@ -89,7 +89,7 @@
       "id": 6,
       "stem": "A 33-year-old climber takes acetazolamide several days before ascending to high altitude. Which sequence best explains how this drug prevents altitude sickness?",
       "choices": [
-        "↑ urinary HCO3− → metabolic acidosis → compensatory hyperventilation → ↑ arterial oxygen",
+        "↑ urinary HCO3− → acidosis → hyperventilation → ↑ O2",
         "↑ urinary HCO3− → metabolic alkalosis → hypoventilation → ↑ arterial CO2",
         "↑ urinary Na+ → volume depletion → ↑ erythropoietin → ↑ oxygen delivery",
         "↓ urinary HCO3− → respiratory acidosis → ↑ ventilation → ↑ arterial oxygen",
@@ -122,7 +122,7 @@
       "stem": "A 58-year-old woman is being managed for open-angle glaucoma. By which mechanism do CAIs lower intraocular pressure?",
       "choices": [
         "Constricting the pupil to widen the trabecular meshwork outflow",
-        "Decreasing HCO3− production by the ciliary body, reducing aqueous humor formation",
+        "Decreasing ciliary HCO3− and lowering aqueous humor",
         "Increasing aqueous humor outflow through the canal of Schlemm",
         "Inhibiting α1 adrenergic receptors on the iris",
         "Inhibiting prostaglandin synthesis at the optic nerve"
@@ -141,7 +141,7 @@
       "stem": "A 32-year-old obese woman with daily headaches and papilledema is diagnosed with idiopathic intracranial hypertension (pseudotumor cerebri). She is started on acetazolamide. Which mechanism best explains the drug's benefit in this condition?",
       "choices": [
         "Decreased cerebral blood flow via vasoconstriction",
-        "Decreased CSF production by the choroid plexus through reduced HCO3− formation",
+        "Decreased CSF production by the choroid plexus",
         "Increased CSF reabsorption by arachnoid granulations",
         "Increased systemic diuresis with reduced intravascular volume",
         "Inhibition of central chemoreceptors lowering respiratory drive"
@@ -162,7 +162,7 @@
         "Decreased intracellular bicarbonate from low CA activity",
         "Decreased intracellular sodium from Na+/K+-ATPase loss",
         "Excess GABA receptor activity",
-        "High intracellular bicarbonate from increased neuronal CA activity",
+        "High intracellular bicarbonate from neuronal CA",
         "Low intracellular calcium from blocked voltage-gated channels"
       ],
       "answer": 3,
@@ -198,7 +198,7 @@
       "stem": "A 48-year-old man is being treated off-label with acetazolamide for central sleep apnea. By which mechanism does the drug improve his oxygenation during sleep?",
       "choices": [
         "Direct relaxation of upper airway musculature",
-        "Inducing urinary HCO3− loss, lowering serum pH and stimulating central chemoreceptors to drive hyperventilation",
+        "Inducing HCO3− loss that triggers central hyperventilation",
         "Inhibiting central chemoreceptors to reduce hyperventilation",
         "Reducing CSF production, lowering ICP and brainstem compression",
         "Reducing intraocular pressure during REM sleep"
@@ -219,7 +219,7 @@
         "Aldosterone-independent collecting duct sodium reabsorption shifts K+ into cells",
         "CAIs activate Na+/K+-ATPase across cell membranes",
         "CAIs directly block K+ reabsorption in the thick ascending limb",
-        "K+ is excreted in the urine along with the bicarbonate that the tubule cannot reabsorb",
+        "K+ is excreted in the urine with unreabsorbed bicarbonate",
         "Metabolic acidosis directly causes intracellular shift of potassium"
       ],
       "answer": 3,
@@ -264,7 +264,7 @@
         "Beta-lactam ring causing penicillin cross-reactivity",
         "High potassium load worsening sulfa-related nephritis",
         "Macrolide-like CYP3A4 inhibition",
-        "Sulfonamide group causing cross-reactivity in patients with sulfa allergy",
+        "Sulfonamide group cross-reactive in sulfa allergy",
         "Tetracycline-like chelation with calcium"
       ],
       "answer": 3,
@@ -284,7 +284,7 @@
         "Hyperkalemia from impaired K+ excretion",
         "Precipitation of hepatic encephalopathy",
         "Severe hypertension from volume overload",
-        "Worsening pulmonary edema"
+        "Worsening pulmonary edema from fluid overload"
       ],
       "answer": 2,
       "explanations": [
@@ -302,7 +302,7 @@
         "Absolutely contraindicated in all trimesters",
         "Category A drug, considered safe with abundant human safety data",
         "Category B drug, no risk in animal studies and limited human data",
-        "Category C drug, use cautiously and only when benefit may outweigh risk",
+        "Category C drug, use cautiously when benefit outweighs risk",
         "Category X drug, contraindicated due to known severe teratogenicity"
       ],
       "answer": 3,
@@ -319,7 +319,7 @@
       "stem": "A 55-year-old hypertensive man is found to have mildly elevated intraocular pressure. His physician notes that, unlike thiazides or loop diuretics, CAIs are not first-line therapy for his hypertension. What is the principal reason CAIs are not used for fluid overload or hypertension?",
       "choices": [
         "They cause life-threatening hyperkalemia",
-        "Their diuretic effect is much weaker than that of other diuretic drugs",
+        "Their diuretic effect is much weaker than other diuretics",
         "They directly cause vasoconstriction and raise blood pressure",
         "They have no effect on sodium reabsorption",
         "They worsen renal blood flow at therapeutic doses"
@@ -337,11 +337,11 @@
       "id": 20,
       "stem": "A 65-year-old woman with chronic open-angle glaucoma is started on long-term therapy. To minimize systemic adverse effects while still treating her glaucoma, which CAI route is preferred?",
       "choices": [
-        "Intramuscular acetazolamide",
-        "Intravenous acetazolamide",
-        "Oral methazolamide",
+        "Intramuscular acetazolamide injection",
+        "Intravenous acetazolamide infusion",
+        "Oral methazolamide tablets",
         "Subcutaneous acetazolamide",
-        "Topical brinzolamide eye drops"
+        "Topical brinzolamide drops"
       ],
       "answer": 4,
       "explanations": [
@@ -417,7 +417,7 @@
         "Metabolic alkalosis from renal HCO3− retention",
         "No acid–base disturbance; symptoms reflect dehydration",
         "Respiratory acidosis from hypoventilation",
-        "Respiratory alkalosis from hypoxemia-induced hyperventilation"
+        "Respiratory alkalosis from hyperventilation"
       ],
       "answer": 4,
       "explanations": [
@@ -432,7 +432,7 @@
       "id": 25,
       "stem": "A 70-year-old man with mild Alzheimer disease and a documented sulfa allergy is found to have elevated intraocular pressure on routine eye exam. His ophthalmologist considers prescribing dorzolamide eye drops. Which class-wide warning still applies even with a topical CAI?",
       "choices": [
-        "Cross-reactivity in patients with a sulfa allergy because CAIs contain a sulfonamide group",
+        "Cross-reactivity in patients with a sulfa allergy",
         "Direct cardiotoxicity at therapeutic ophthalmic doses",
         "Marked hyperkalemia limiting use in renal disease",
         "Profound diuresis causing hypovolemic shock",
