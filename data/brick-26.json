@@ -18,7 +18,7 @@
     {
       "id": 2,
       "stem": "A 4-month-old infant born prematurely after a pregnancy complicated by polyhydramnios is brought in for failure to thrive. The parents report excessive urination and recurrent dehydration episodes. Labs show hypokalemia, metabolic alkalosis, hypocalcemia, and hypomagnesemia. Which transporter is most likely defective?",
-      "choices": ["Epithelial sodium channel (ENaC)", "Na+/Cl- cotransporter (NCC)", "Na+/H+ exchanger", "Na+/K+/2Cl- cotransporter (NKCC)", "Na+/K+ ATPase"],
+      "choices": ["ENaC", "NCC", "Na+/H+ exchanger", "NKCC", "Na+/K+ ATPase"],
       "answer": 3,
       "explanations": [
         "Incorrect. ENaC gain-of-function causes Liddle syndrome, which presents with hypertension in older children.",
@@ -57,7 +57,7 @@
     {
       "id": 5,
       "stem": "A 25-year-old man presents with hypertension, hypokalemia, and metabolic alkalosis. His plasma renin and aldosterone levels are both low. He is started on spironolactone, but his blood pressure and potassium do not improve. Which medication is most likely to correct his underlying defect?",
-      "choices": ["Oral amiloride", "Eplerenone", "Furosemide", "Hydrochlorothiazide", "Indomethacin"],
+      "choices": ["Amiloride", "Eplerenone", "Furosemide", "Hydrochlorothiazide", "Indomethacin"],
       "answer": 0,
       "explanations": [
         "Correct. Liddle syndrome causes ENaC to be 'stuck on' independent of aldosterone signaling; amiloride directly blocks the overactive ENaC and corrects sodium retention.",
@@ -70,7 +70,7 @@
     {
       "id": 6,
       "stem": "Which finding most reliably distinguishes Liddle syndrome from Bartter and Gitelman syndromes on initial laboratory and clinical evaluation?",
-      "choices": ["Elevated blood pressure", "Severe hypokalemia", "Metabolic alkalosis on labs", "Polyuria with nocturia", "Salt craving and cramps"],
+      "choices": ["Elevated blood pressure", "Hypokalemia", "Metabolic alkalosis", "Polyuria with nocturia", "Salt craving and cramps"],
       "answer": 0,
       "explanations": [
         "Correct. All three disorders share hypokalemia and metabolic alkalosis, but elevated blood pressure is unique to Liddle syndrome; Bartter and Gitelman are associated with normal or low blood pressure.",
@@ -123,11 +123,11 @@
       "id": 10,
       "stem": "A nephrologist is reviewing the mechanisms of hypokalemia in Bartter syndrome. Which sequence best describes how a defect in NKCC produces low serum potassium?",
       "choices": [
-        "Decreased glomerular filtration of potassium with subsequent renal losses driving hypokalemia",
-        "Direct loss of potassium through the defective NKCC at the thick ascending limb only, without involvement of distal segments",
-        "Increased distal sodium delivery drives ENaC reabsorption and aldosterone-stimulated potassium secretion",
-        "Intracellular shift of potassium due to metabolic alkalosis alone, without renal potassium wasting",
-        "Reduced potassium reabsorption in the proximal tubule due to impaired transporter activity"
+        "Decreased glomerular filtration of potassium",
+        "Direct potassium loss through defective NKCC",
+        "Increased distal sodium delivery drives ENaC and aldosterone-stimulated K+ secretion",
+        "Intracellular potassium shift from alkalosis",
+        "Reduced proximal tubule potassium reabsorption"
       ],
       "answer": 2,
       "explanations": [
@@ -142,11 +142,11 @@
       "id": 11,
       "stem": "A medical student is asked why patients with Bartter and Gitelman syndromes develop metabolic alkalosis. Which mechanism best explains this finding according to the brick?",
       "choices": [
-        "Bicarbonate retention at the proximal tubule driven by volume depletion and chronic hypovolemia",
-        "Decreased ammonium excretion in the collecting duct from impaired distal acidification",
-        "Increased distal sodium delivery and aldosterone drive collecting duct hydrogen ion secretion",
-        "Loss of chloride in the urine that directly raises plasma bicarbonate concentration",
-        "Vomiting-induced loss of gastric hydrogen ions causing alkalosis"
+        "Proximal tubule bicarbonate retention",
+        "Decreased collecting duct ammonium excretion",
+        "Increased distal Na+ delivery and aldosterone drive H+ secretion",
+        "Urinary chloride loss raising plasma bicarbonate",
+        "Vomiting-induced gastric H+ loss"
       ],
       "answer": 2,
       "explanations": [
@@ -161,11 +161,11 @@
       "id": 12,
       "stem": "A 17-year-old girl with Gitelman syndrome asks about lifelong management. Which dietary or medication strategy is most consistent with the brick's recommendations?",
       "choices": [
-        "High sodium, potassium, and magnesium intake with lifelong oral magnesium supplements",
-        "Low-sodium diet combined with a thiazide diuretic for chronic blood pressure control",
-        "Low-sodium diet plus daily oral amiloride to block ENaC overactivity in the collecting duct",
-        "Strict restriction of dietary potassium combined with chronic loop diuretic therapy",
-        "Spironolactone as primary lifelong monotherapy for chronic symptom control"
+        "High Na+, K+, Mg2+ intake plus oral magnesium supplements",
+        "Low-sodium diet plus thiazide diuretic",
+        "Low-sodium diet plus daily amiloride",
+        "Dietary potassium restriction plus loop diuretic",
+        "Spironolactone monotherapy"
       ],
       "answer": 0,
       "explanations": [
@@ -180,11 +180,11 @@
       "id": 13,
       "stem": "Neonates diagnosed with Bartter syndrome are at high risk of dehydration from urinary salt wasting. Which initial management is most appropriate during the neonatal period?",
       "choices": [
-        "Strict free water restriction during the neonatal period",
-        "Initiation of oral amiloride to block ENaC channels",
-        "Initiation of oral hydrochlorothiazide for daily diuresis",
-        "Intravenous saline infusions to prevent dehydration",
-        "Initiation of a low-sodium diet shortly after birth"
+        "Free water restriction",
+        "Oral amiloride",
+        "Oral hydrochlorothiazide",
+        "Intravenous saline infusions",
+        "Low-sodium diet"
       ],
       "answer": 3,
       "explanations": [
@@ -199,11 +199,11 @@
       "id": 14,
       "stem": "A 28-year-old man with hypertension, hypokalemia, and metabolic alkalosis has low serum aldosterone and low renin. Why does aldosterone-pathway blockade with spironolactone fail to correct his sodium retention?",
       "choices": [
-        "Aldosterone receptors are completely absent in the collecting duct in this disorder",
-        "ENaC is constitutively active independent of aldosterone signaling",
-        "Spironolactone is rapidly metabolized and fully inactivated in this disorder",
-        "The defect lies in NKCC, which sits upstream of the aldosterone receptor pathway",
-        "The patient has underlying primary hyperaldosteronism resistant to spironolactone therapy"
+        "Aldosterone receptors are absent in the collecting duct",
+        "ENaC is constitutively active independent of aldosterone",
+        "Spironolactone is rapidly inactivated",
+        "NKCC defect lies upstream of the aldosterone receptor",
+        "Underlying primary hyperaldosteronism resistant to spironolactone"
       ],
       "answer": 1,
       "explanations": [
@@ -256,11 +256,11 @@
       "id": 17,
       "stem": "Why do patients with Gitelman syndrome lose magnesium in the urine?",
       "choices": [
-        "Direct inhibition of a magnesium-specific basolateral transporter in the distal nephron",
-        "Hypercalcemia displaces magnesium from tubular binding sites along the nephron",
-        "Loss of the lumen-positive potential in the thick ascending limb of the loop of Henle",
-        "DCT magnesium reabsorption is coupled to sodium reabsorption and falls when NCC is defective",
-        "Volume expansion from ENaC overactivity flushes magnesium into the urine via osmotic diuresis"
+        "Defective basolateral magnesium transporter in distal nephron",
+        "Hypercalcemia displaces magnesium from tubular sites",
+        "Loss of lumen-positive potential in thick ascending limb",
+        "DCT magnesium reabsorption is coupled to sodium reabsorption",
+        "Volume expansion causes magnesium osmotic diuresis"
       ],
       "answer": 3,
       "explanations": [
@@ -294,11 +294,11 @@
       "id": 19,
       "stem": "A 26-year-old woman with hypokalemia and metabolic alkalosis is found to have elevated urinary chloride excretion, normal blood pressure, and elevated renin and aldosterone. Which diagnostic test is most appropriate to confirm whether she has Bartter or Gitelman syndrome?",
       "choices": [
-        "24-hour urinary free cortisol collection over multiple days",
-        "Renal tubulopathy gene panel by next-generation sequencing",
-        "Plasma fractionated metanephrines and normetanephrines testing",
-        "Percutaneous renal biopsy with light and electron microscopy",
-        "Intravenous saline infusion suppression test for aldosterone"
+        "24-hour urinary free cortisol",
+        "Renal tubulopathy gene panel (NGS)",
+        "Plasma fractionated metanephrines",
+        "Percutaneous renal biopsy",
+        "Saline infusion suppression test"
       ],
       "answer": 1,
       "explanations": [
@@ -327,10 +327,10 @@
       "stem": "Despite causing hypertension and hypokalemia like primary hyperaldosteronism, Liddle syndrome is termed 'pseudohyperaldosteronism' for which reason?",
       "choices": [
         "Aldosterone is normal or low despite aldosterone-like effects",
-        "Aldosterone receptors themselves are mutated in this disease",
-        "Aldosterone levels fluctuate widely throughout the day in patients",
-        "Cortisol abnormally activates the mineralocorticoid receptor in this disease",
-        "Renin levels are paradoxically elevated despite hypertension"
+        "Aldosterone receptors are mutated",
+        "Aldosterone levels fluctuate widely",
+        "Cortisol abnormally activates the mineralocorticoid receptor",
+        "Renin levels are paradoxically elevated"
       ],
       "answer": 0,
       "explanations": [
@@ -345,11 +345,11 @@
       "id": 22,
       "stem": "Which feature of Liddle syndrome's pathophysiology explains why patients are typically hypertensive without significant clinical edema?",
       "choices": [
-        "ENaC overactivity is restricted to the proximal tubule rather than the collecting duct here",
-        "Increased aldosterone signaling actively restricts interstitial edema formation in tissues",
-        "Increased sodium reabsorption raises intravascular volume as in hyperaldosteronism",
-        "The channel defect causes a simultaneous brisk water diuresis offsetting fluid retention",
-        "Compensatory atrial natriuretic peptide overproduction limits edema in affected patients"
+        "ENaC overactivity restricted to the proximal tubule",
+        "Aldosterone signaling restricts interstitial edema",
+        "Increased sodium reabsorption raises intravascular volume",
+        "Compensatory brisk water diuresis",
+        "Compensatory ANP overproduction limits edema"
       ],
       "answer": 2,
       "explanations": [
@@ -364,11 +364,11 @@
       "id": 23,
       "stem": "A 6-year-old with Bartter syndrome has growth failure and cognitive delays. The brick attributes the more severe symptoms in homozygous patients to which underlying issue?",
       "choices": [
-        "Heterozygous carrier state with full residual enzymatic activity in the cotransporter",
-        "Homozygous cotransporter defects cause the more severe childhood form of disease",
-        "Mitochondrial inheritance leading to exclusive maternal transmission of disease",
-        "Spontaneous somatic mutations confined to the kidney during early development",
-        "X-linked dominant inheritance with skewed inactivation in female carriers"
+        "Heterozygous carrier state with full residual activity",
+        "Homozygous cotransporter defects cause severe childhood disease",
+        "Mitochondrial inheritance with maternal transmission",
+        "Spontaneous somatic mutations confined to the kidney",
+        "X-linked dominant inheritance with skewed inactivation"
       ],
       "answer": 1,
       "explanations": [
@@ -383,11 +383,11 @@
       "id": 24,
       "stem": "A 33-year-old woman is referred for evaluation of persistent hypokalemia. She has normal blood pressure, hypochloremic metabolic alkalosis, hypocalciuria, and hypomagnesemia, with elevated renin and aldosterone. Which transporter defect best explains these findings?",
       "choices": [
-        "Aquaporin 2",
+        "Aquaporin 2 defect",
         "ENaC gain of function",
-        "Na+/Cl- cotransporter (NCC) loss of function",
+        "NCC loss of function",
         "Na+/H+ exchanger loss of function",
-        "Na+/K+/2Cl- cotransporter (NKCC) loss of function"
+        "NKCC loss of function"
       ],
       "answer": 2,
       "explanations": [
@@ -402,11 +402,11 @@
       "id": 25,
       "stem": "A medical student is asked to compare key features of the three hereditary renal transport disorders. Which combination correctly matches the syndrome with its tubular site of defect and diuretic mimic?",
       "choices": [
-        "Bartter - distal convoluted tubule - thiazide",
+        "Bartter - DCT - thiazide",
         "Bartter - thick ascending limb - loop diuretic",
         "Gitelman - thick ascending limb - loop diuretic",
         "Liddle - collecting duct - loop diuretic",
-        "Liddle - distal convoluted tubule - thiazide"
+        "Liddle - DCT - thiazide"
       ],
       "answer": 1,
       "explanations": [

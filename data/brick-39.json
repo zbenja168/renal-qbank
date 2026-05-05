@@ -6,11 +6,11 @@
       "id": 1,
       "stem": "A 45-year-old woman is found to have a positive heme dipstick on a routine pre-employment urinalysis. She has no symptoms and her urine appears yellow. Microscopy shows 8 RBCs per high-power field. Which term best describes this finding?",
       "choices": [
-        "Visible gross hematuria",
-        "Intravascular hemoglobinuria",
+        "Gross hematuria",
+        "Hemoglobinuria",
         "Microscopic hematuria",
-        "Exertional myoglobinuria",
-        "Drug-induced pseudohematuria"
+        "Myoglobinuria",
+        "Pseudohematuria"
       ],
       "answer": 2,
       "explanations": [
@@ -63,11 +63,11 @@
       "id": 4,
       "stem": "A 19-year-old man develops gross hematuria 2 days after onset of a sore throat. Urinalysis shows 3+ proteinuria, dysmorphic RBCs, and red blood cell casts. Which underlying mechanism best explains the appearance of his urinary RBCs?",
       "choices": [
-        "Crystal-induced shearing along tubular epithelium",
-        "Direct tumor invasion of the bladder mucosal lining",
-        "Mechanical trauma from a passing kidney stone",
-        "Passage through glomerular basement membrane breaks",
-        "Toxic injury from chemotherapy metabolites in tubules"
+        "Crystal shearing in tubules",
+        "Bladder mucosal tumor invasion",
+        "Trauma from a passing stone",
+        "Passage through GBM breaks",
+        "Chemotherapy tubular toxicity"
       ],
       "answer": 3,
       "explanations": [
@@ -82,7 +82,7 @@
       "id": 5,
       "stem": "A 27-year-old woman presents with palpable purpura on her lower extremities, joint pain, and microscopic hematuria. Urinalysis shows dysmorphic RBCs and proteinuria. Which physical exam finding most directly supports a glomerular cause of her hematuria?",
       "choices": [
-        "Costovertebral angle tenderness",
+        "CVA tenderness",
         "Dysuria",
         "Fever",
         "Petechial rash",
@@ -177,11 +177,11 @@
       "id": 10,
       "stem": "A 25-year-old marathon runner presents to the clinic with red urine after finishing a long race. He denies pain, dysuria, and trauma. Urinalysis confirms RBCs in the urine. Which proposed mechanism is offered by the brick to explain hematuria in long-distance athletes?",
       "choices": [
-        "Acute drug-induced interstitial nephritis",
-        "Direct bladder invasion by transitional tumor",
-        "Excessive free water consumption during running",
-        "Hereditary platelet dysfunction with bleeding",
-        "Renal ischemia from blood diverted to muscle"
+        "Acute interstitial nephritis",
+        "Bladder tumor invasion",
+        "Excessive water intake",
+        "Hereditary platelet dysfunction",
+        "Renal ischemia from muscle shunting"
       ],
       "answer": 4,
       "explanations": [
@@ -215,11 +215,11 @@
       "id": 12,
       "stem": "A 32-year-old woman with new-onset hematuria has a urine microscopy that shows numerous WBCs and bacteria along with a few RBCs. Which next step in management is most appropriate based on the brick's flowchart?",
       "choices": [
-        "Cystoscopy with bladder biopsies of any lesions",
-        "Immediate kidney biopsy for histologic diagnosis",
-        "Renal angiogram to evaluate vascular sources",
-        "Renal ultrasound to look for stones or masses",
-        "Treat suspected UTI before further workup"
+        "Cystoscopy with biopsy",
+        "Immediate kidney biopsy",
+        "Renal angiogram",
+        "Renal ultrasound",
+        "Treat suspected UTI"
       ],
       "answer": 4,
       "explanations": [
@@ -234,11 +234,11 @@
       "id": 13,
       "stem": "A 28-year-old man presents 10 days after a severe sore throat with cola-colored urine, periorbital edema, and a blood pressure of 168/100 mm Hg. Urinalysis reveals dysmorphic RBCs, RBC casts, and 2+ proteinuria. Which condition best explains these findings?",
       "choices": [
-        "Chemotherapy-induced hemorrhagic cystitis",
-        "Obstructing ureteral nephrolithiasis",
-        "Acute ascending bacterial pyelonephritis",
+        "Hemorrhagic cystitis",
+        "Nephrolithiasis",
+        "Pyelonephritis",
         "Postinfectious glomerulonephritis",
-        "Transitional cell carcinoma of the bladder"
+        "Bladder transitional cell carcinoma"
       ],
       "answer": 3,
       "explanations": [
@@ -254,7 +254,7 @@
       "stem": "A urinalysis on a 40-year-old man shows a positive heme dipstick but no red blood cells on microscopy. He recently was hospitalized for a crush injury with rhabdomyolysis. Which substance is most likely producing his positive dipstick?",
       "choices": [
         "Bilirubin",
-        "Hemoglobin from intravascular hemolysis",
+        "Hemoglobin",
         "Myoglobin",
         "Porphyrins",
         "Urobilinogen"
@@ -291,11 +291,11 @@
       "id": 16,
       "stem": "A urine microscopy from a patient with hematuria reveals red blood cells with characteristic donut shape with blebs. Which finding does this most strongly suggest?",
       "choices": [
-        "Postrenal bladder cancer source",
-        "Glomerular source of bleeding",
-        "Postrenal hemorrhagic cystitis",
-        "Obstructive nephrolithiasis",
-        "Lower urinary tract infection"
+        "Bladder cancer",
+        "Glomerular bleeding",
+        "Hemorrhagic cystitis",
+        "Nephrolithiasis",
+        "Urinary tract infection"
       ],
       "answer": 1,
       "explanations": [
@@ -310,11 +310,11 @@
       "id": 17,
       "stem": "A 65-year-old man presents with hematuria and a serum creatinine that has risen from 1.0 to 2.4 mg/dL over 3 weeks, with a corresponding decrease in eGFR. Imaging shows a large pelvic mass causing bilateral hydronephrosis. Which interpretation of his decreased GFR is most accurate per the brick?",
       "choices": [
-        "Decreased GFR usually requires bilateral or bladder-level blockage",
-        "GFR characteristically rises during urinary tract obstruction",
-        "Hyperfiltration by the contralateral kidney prevents any rise in creatinine",
-        "Unilateral hydronephrosis routinely causes a decreased GFR",
-        "Urinary tract obstruction essentially never affects GFR"
+        "Requires bilateral or bladder-level blockage",
+        "GFR rises during obstruction",
+        "Contralateral hyperfiltration prevents creatinine rise",
+        "Unilateral hydronephrosis routinely lowers GFR",
+        "Obstruction never affects GFR"
       ],
       "answer": 0,
       "explanations": [
@@ -329,11 +329,11 @@
       "id": 18,
       "stem": "A 28-year-old woman with a known history of systemic lupus erythematosus presents with new-onset hematuria. Which urinary finding would most strongly support an intrarenal glomerular source rather than a postrenal source?",
       "choices": [
-        "Crystals on microscopy",
+        "Crystals",
         "Monomorphic RBCs",
         "Pyuria with bacteriuria",
         "RBC casts",
-        "Whole blood clots in the urine"
+        "Whole blood clots"
       ],
       "answer": 3,
       "explanations": [
@@ -388,7 +388,7 @@
       "choices": [
         "Cystoscopy",
         "CT scan",
-        "Discharge with follow-up urinalysis",
+        "Discharge with follow-up",
         "Kidney biopsy",
         "Observation only"
       ],
@@ -405,11 +405,11 @@
       "id": 22,
       "stem": "A 52-year-old man (DM, from the case connection) presents with right flank pain and grossly bloody urine. His blood pressure is 150/90 mm Hg with right CVA tenderness. Urinalysis shows numerous RBCs and crystals. Renal ultrasound shows a small solitary kidney stone. Per the brick, what is the most appropriate management plan?",
       "choices": [
-        "Admit for emergent shock-wave lithotripsy of the obstructing stone",
-        "Begin systemic immunosuppressive therapy with high-dose corticosteroids",
-        "Empirically treat for complicated upper urinary tract infection",
-        "Refer for urgent cystoscopy with random bladder mucosal biopsy",
-        "Reassure passage is likely, give analgesia, and advise hydration"
+        "Emergent shock-wave lithotripsy",
+        "High-dose corticosteroids",
+        "Empiric UTI treatment",
+        "Urgent cystoscopy with biopsy",
+        "Analgesia and hydration"
       ],
       "answer": 4,
       "explanations": [
@@ -425,7 +425,7 @@
       "stem": "A 48-year-old woman with no symptoms has hematuria detected on routine urinalysis. Workup shows dysmorphic RBCs, RBC casts, 3+ proteinuria, hypertension, and a declining GFR over several months. Per the brick's summary, this constellation is most characteristic of which category of disease?",
       "choices": [
         "Bladder cancer",
-        "Extrarenal postrenal bleeding",
+        "Postrenal bleeding",
         "Glomerular disease",
         "Nephrolithiasis",
         "Tubulointerstitial disease"
@@ -443,10 +443,10 @@
       "id": 24,
       "stem": "A 38-year-old woman has hematuria and her urinalysis shows numerous WBCs, WBC casts, and a few RBCs without proteinuria. Per the brick, which conditions are most likely the source of her bleeding?",
       "choices": [
-        "Bladder cancer or prostate cancer",
+        "Bladder or prostate cancer",
         "IgA nephropathy or lupus nephritis",
-        "Nephrolithiasis or hemorrhagic cystitis",
-        "Polycystic kidney disease or papillary necrosis",
+        "Stones or hemorrhagic cystitis",
+        "PKD or papillary necrosis",
         "Pyelonephritis or interstitial nephritis"
       ],
       "answer": 4,
@@ -462,11 +462,11 @@
       "id": 25,
       "stem": "A 16-year-old girl is started on phenazopyridine for dysuria and notes that her urine has turned orange-red the next day. A urine dipstick is negative for heme. Which conclusion is most consistent with the brick?",
       "choices": [
-        "Her red urine reflects gross hematuria from a complicated urinary tract infection",
-        "Her red urine represents pseudohematuria from a drug-induced color change",
-        "She has hemoglobinuria from acute intravascular hemolysis",
-        "She likely has gross hematuria from IgA nephropathy",
-        "She likely has myoglobinuria from acute rhabdomyolysis"
+        "Gross hematuria from UTI",
+        "Pseudohematuria from drug color change",
+        "Hemoglobinuria from hemolysis",
+        "Gross hematuria from IgA nephropathy",
+        "Myoglobinuria from rhabdomyolysis"
       ],
       "answer": 1,
       "explanations": [

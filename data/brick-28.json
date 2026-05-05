@@ -32,11 +32,11 @@
       "id": 3,
       "stem": "A nephrologist explains to a student that healthy adults produce roughly 50 to 100 mmol of non-volatile (fixed) acids each day from protein metabolism. These acids cannot be exhaled and must be eliminated by which mechanism?",
       "choices": [
-        "Buffering by intracellular hemoglobin only",
-        "Conversion to CO2 and exhalation by the lungs",
-        "Excretion of acid by the kidneys in urine",
-        "Hepatic conjugation and biliary excretion",
-        "Sequestration of acid in the bone matrix"
+        "Intracellular hemoglobin buffering",
+        "Pulmonary CO2 exhalation",
+        "Renal acid excretion in urine",
+        "Hepatic biliary excretion",
+        "Bone matrix sequestration"
       ],
       "answer": 2,
       "explanations": [
@@ -51,11 +51,11 @@
       "id": 4,
       "stem": "A 22-year-old woman in diabetic ketoacidosis develops deep, rapid respirations. Per the brick, this respiratory pattern is best described by which of the following terms and serves what physiologic purpose?",
       "choices": [
-        "Biot respirations to compensate for intracranial hypertension",
-        "Cheyne-Stokes respirations to compensate for heart failure",
-        "Hypoventilation to retain CO2 and raise pH",
-        "Kussmaul respirations to blow off CO2 and raise pH",
-        "Paradoxical breathing to overcome chest wall injury"
+        "Biot respirations",
+        "Cheyne-Stokes respirations",
+        "Hypoventilation to retain CO2",
+        "Kussmaul respirations to blow off CO2",
+        "Paradoxical breathing"
       ],
       "answer": 3,
       "explanations": [
@@ -71,10 +71,10 @@
       "stem": "A 65-year-old man in the ICU with severe metabolic acidosis becomes hypotensive, lethargic, and develops a new arrhythmia. Per the brick, these findings represent which category of clinical presentation?",
       "choices": [
         "Asymptomatic incidental finding",
-        "Initial respiratory compensation",
-        "Late, concerning signs requiring immediate action",
-        "Mild symptoms of fatigue and nausea",
-        "Volatile acid retention from inadequate ventilation"
+        "Respiratory compensation",
+        "Late signs requiring immediate action",
+        "Mild symptoms",
+        "Volatile acid retention"
       ],
       "answer": 2,
       "explanations": [
@@ -89,11 +89,11 @@
       "id": 6,
       "stem": "A resident is differentiating metabolic from respiratory acidosis. Per the brick, metabolic acidosis falls into three broad mechanistic categories. Which of the following is NOT one of those three categories?",
       "choices": [
-        "Excess production or ingestion of non-volatile acids",
-        "Failure of the kidneys to excrete hydrogen ions or regenerate bicarbonate",
-        "Inadequate alveolar ventilation causing CO2 retention",
-        "Loss of bicarbonate from the body",
-        "Defective renal ammoniagenesis from hyperkalemia"
+        "Excess non-volatile acid production or ingestion",
+        "Failure to excrete H+ or regenerate bicarbonate",
+        "Inadequate alveolar ventilation with CO2 retention",
+        "Loss of bicarbonate",
+        "Defective renal ammoniagenesis"
       ],
       "answer": 2,
       "explanations": [
@@ -135,10 +135,10 @@
       "stem": "A 19-year-old man is brought to the ED after ingesting an unknown substance. He has an elevated anion gap metabolic acidosis. The brick lists two mnemonics to recall causes of AGMA: the traditional MUDPILES and the more recent GOLDMARK. Which agent appears in GOLDMARK as a more contemporary cause but is not in MUDPILES?",
       "choices": [
         "Acetaminophen 5-oxoproline",
-        "Diabetic ketoacidosis (DKA)",
-        "Ingested ethylene glycol",
-        "Methanol intoxication",
-        "Salicylates such as aspirin"
+        "Diabetic ketoacidosis",
+        "Ethylene glycol",
+        "Methanol",
+        "Salicylates"
       ],
       "answer": 0,
       "explanations": [
@@ -167,10 +167,10 @@
       "stem": "A 31-year-old woman is brought in after suspected antifreeze ingestion. Per the brick's AGMA table, ethylene glycol is metabolized by alcohol dehydrogenase to which acid, with which characteristic urine finding?",
       "choices": [
         "Formic acid; optic disc edema",
-        "Lactic acid; positive urine ketones",
+        "Lactic acid; urine ketones",
         "Oxalic acid; urine oxalate crystals",
-        "Pyroglutamic acid; positive urine glucose",
-        "Pyruvic acid; positive urine nitrites"
+        "Pyroglutamic acid; urine glucose",
+        "Pyruvic acid; urine nitrites"
       ],
       "answer": 2,
       "explanations": [
@@ -186,9 +186,9 @@
       "stem": "A 67-year-old malnourished woman taking chronic acetaminophen for arthritis develops an elevated anion gap metabolic acidosis. Per the brick, which acid is accumulating, and through what mechanism?",
       "choices": [
         "Acetoacetate; insulin deficiency",
-        "Formic acid; alcohol dehydrogenase metabolism",
-        "L-lactic acid; inhibition of the citric acid cycle",
-        "Oxalic acid; alcohol dehydrogenase metabolism",
+        "Formic acid; alcohol dehydrogenase",
+        "L-lactic acid; citric acid cycle inhibition",
+        "Oxalic acid; alcohol dehydrogenase",
         "Pyroglutamic acid; glutathione depletion"
       ],
       "answer": 4,
@@ -204,11 +204,11 @@
       "id": 13,
       "stem": "A 24-year-old man returns several months after extensive small-bowel resection with confusion and headache. Labs show an elevated anion gap metabolic acidosis. Per the brick, this presentation is most consistent with accumulation of which acid produced by what mechanism?",
       "choices": [
-        "Acetoacetate from insulin deficiency",
-        "D-lactic acid from gut bacterial overgrowth",
-        "Formic acid from methanol metabolism",
-        "L-lactic acid from sepsis-related anaerobic glycolysis",
-        "Pyroglutamic acid from glutathione depletion"
+        "Acetoacetate; insulin deficiency",
+        "D-lactic acid; gut bacterial overgrowth",
+        "Formic acid; methanol metabolism",
+        "L-lactic acid; anaerobic glycolysis",
+        "Pyroglutamic acid; glutathione depletion"
       ],
       "answer": 1,
       "explanations": [
@@ -223,11 +223,11 @@
       "id": 14,
       "stem": "A 28-year-old woman is brought in after a suicide attempt. She has tinnitus, hyperventilation, and gastrointestinal bleeding, with an elevated anion gap metabolic acidosis and a concurrent respiratory alkalosis. Per the brick, which acid accumulates in this toxicity, and through what mechanism?",
       "choices": [
-        "D-lactic acid from gut bacterial overgrowth",
-        "Formic acid from alcohol dehydrogenase metabolism",
-        "L-lactic acid from citric acid cycle block",
-        "Oxalic acid from alcohol dehydrogenase metabolism",
-        "Pyruvic acid from forced conversion by metformin"
+        "D-lactic acid; gut overgrowth",
+        "Formic acid; alcohol dehydrogenase",
+        "L-lactic acid; citric acid cycle block",
+        "Oxalic acid; alcohol dehydrogenase",
+        "Pyruvic acid; metformin"
       ],
       "answer": 2,
       "explanations": [
@@ -242,11 +242,11 @@
       "id": 15,
       "stem": "A 62-year-old man with septic shock is hypotensive and febrile. Labs show an elevated anion gap metabolic acidosis. Per the brick, the most likely circulating acid and underlying mechanism are which of the following?",
       "choices": [
-        "Acetoacetate from lack of insulin",
-        "D-lactate from gut overgrowth",
-        "Formic acid from methanol",
-        "L-lactic acid from anaerobic glycolysis",
-        "Pyroglutamic acid from glutathione depletion"
+        "Acetoacetate; insulin deficiency",
+        "D-lactate; gut overgrowth",
+        "Formic acid; methanol",
+        "L-lactic acid; anaerobic glycolysis",
+        "Pyroglutamic acid; glutathione depletion"
       ],
       "answer": 3,
       "explanations": [
@@ -299,11 +299,11 @@
       "id": 18,
       "stem": "A 72-year-old man with chronic watery diarrhea is found to have a serum HCO3- of 16 mEq/L and a normal anion gap. Per the brick, this hyperchloremic metabolic acidosis develops because of which of the following?",
       "choices": [
-        "Accumulation of ketoacids",
-        "Inability of the kidney to excrete hydrogen ions",
-        "Inhibition of carbonic anhydrase by a medication",
-        "Loss of bicarbonate in the stool",
-        "Production of L-lactic acid from anaerobic glycolysis"
+        "Ketoacid accumulation",
+        "Inability to excrete hydrogen ions",
+        "Carbonic anhydrase inhibition",
+        "Stool bicarbonate loss",
+        "L-lactic acid production"
       ],
       "answer": 3,
       "explanations": [
@@ -318,11 +318,11 @@
       "id": 19,
       "stem": "A 38-year-old woman with multiple myeloma develops glycosuria, phosphaturia, aminoaciduria, and a normal anion gap metabolic acidosis with serum HCO3- of 19 mEq/L and urine pH of 5.0. Per the brick, this constellation is best explained by which of the following?",
       "choices": [
-        "Distal (type 1) RTA from alpha-intercalated cell defect",
-        "Hyperkalemic (type 4) RTA from low aldosterone",
+        "Distal (type 1) RTA",
+        "Hyperkalemic (type 4) RTA",
         "Lactic acidosis from chemotherapy",
         "Proximal (type 2) RTA with Fanconi syndrome",
-        "Uremic acidosis from advanced CKD"
+        "Uremic acidosis from CKD"
       ],
       "answer": 3,
       "explanations": [
@@ -337,11 +337,11 @@
       "id": 20,
       "stem": "A 26-year-old woman with Sjogren syndrome presents with muscle weakness. Labs show NAGMA with HCO3- 12 mEq/L, serum K+ 2.4 mEq/L, and urine pH 6.2. Renal ultrasound shows nephrocalcinosis. Per the brick, which type of renal tubular acidosis best fits?",
       "choices": [
-        "Distal (type 1) RTA in Sjogren",
-        "Hyperkalemic (type 4) RTA pattern",
-        "Proximal (type 2) RTA pattern",
-        "Type 2 RTA from acetazolamide use",
-        "Uremic acidosis from advanced CKD"
+        "Distal (type 1) RTA",
+        "Hyperkalemic (type 4) RTA",
+        "Proximal (type 2) RTA",
+        "Type 2 RTA from acetazolamide",
+        "Uremic acidosis from CKD"
       ],
       "answer": 0,
       "explanations": [
@@ -356,11 +356,11 @@
       "id": 21,
       "stem": "A 60-year-old man with long-standing diabetes mellitus and diabetic kidney disease has a NAGMA with serum HCO3- 19 mEq/L, serum K+ 5.8 mEq/L, and urine pH 5.0. Per the brick, which mechanism best explains this acid-base disorder?",
       "choices": [
-        "Alpha-intercalated cell dysfunction with impaired H+/K+ exchange",
-        "Carbonic anhydrase inhibition in the proximal tubule",
-        "Defective ammoniagenesis from low aldosterone effect",
-        "Loss of bicarbonate in stool from autonomic diarrhea",
-        "Overproduction of beta-hydroxybutyrate from insulin deficiency"
+        "Alpha-intercalated cell dysfunction",
+        "Carbonic anhydrase inhibition",
+        "Defective ammoniagenesis from low aldosterone",
+        "Stool bicarbonate loss from autonomic diarrhea",
+        "Beta-hydroxybutyrate overproduction"
       ],
       "answer": 2,
       "explanations": [
@@ -375,11 +375,11 @@
       "id": 22,
       "stem": "A 70-year-old man being evaluated for glaucoma is started on acetazolamide and develops a NAGMA. Per the brick, which renal tubular defect explains this drug-induced acidosis?",
       "choices": [
-        "Aldosterone receptor antagonism in collecting duct",
+        "Aldosterone receptor antagonism",
         "Alpha-intercalated cell H+ ATPase blockade",
-        "Carbonic anhydrase inhibition in proximal tubule",
-        "Loop of Henle Na-K-2Cl cotransporter blockade",
-        "Principal cell ENaC blockade in collecting duct"
+        "Proximal tubule carbonic anhydrase inhibition",
+        "Loop Na-K-2Cl cotransporter blockade",
+        "Principal cell ENaC blockade"
       ],
       "answer": 2,
       "explanations": [
@@ -413,11 +413,11 @@
       "id": 24,
       "stem": "A 16-year-old boy with type 1 diabetes presents with hyperglycemia, ketonuria, and an elevated anion gap metabolic acidosis. Per the brick, the cornerstone of treatment that will stop ketone production and raise the pH is which of the following?",
       "choices": [
-        "Intravenous ethanol drip alone",
+        "Intravenous ethanol drip",
         "Fomepizole monotherapy",
-        "Hemodialysis as first step",
+        "Hemodialysis",
         "Insulin and normal saline",
-        "Sodium bicarbonate first-line"
+        "Sodium bicarbonate"
       ],
       "answer": 3,
       "explanations": [
@@ -432,11 +432,11 @@
       "id": 25,
       "stem": "A 50-year-old woman with proximal (type 2) RTA continues to have a low serum bicarbonate despite oral therapy. Per the brick, why are large amounts of bicarbonate often required to treat this disorder?",
       "choices": [
-        "Oral bicarbonate is rapidly destroyed in the stomach by gastric acid",
-        "Ingested bicarbonate is unable to enter the bloodstream from the gut",
-        "The proximal tubule defect lets filtered bicarbonate spill into urine",
-        "The collecting duct alpha-intercalated cells overcompensate by secreting H+",
-        "The lungs blow off bicarbonate as CO2 during respiratory compensation"
+        "Gastric acid destroys oral bicarbonate",
+        "Ingested bicarbonate cannot enter the bloodstream",
+        "Filtered bicarbonate spills into the urine",
+        "Alpha-intercalated cells overcompensate by secreting H+",
+        "Lungs exhale bicarbonate as CO2"
       ],
       "answer": 2,
       "explanations": [

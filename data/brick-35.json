@@ -6,11 +6,11 @@
       "id": 1,
       "stem": "A 58-year-old man is found to have an eGFR of 52 mL/min/1.73 m² on a routine physical. Repeat testing 4 months later shows an eGFR of 50 mL/min/1.73 m² with a urine albumin/creatinine ratio of 12 mg/g and a normal urinalysis. Which feature of his presentation most directly satisfies the diagnostic criteria for chronic kidney disease?",
       "choices": [
-        "Albuminuria above the standard diagnostic cutoff",
-        "Decreased eGFR persisting for at least 3 months",
-        "An abnormal urinalysis with cells or casts",
-        "Imaging evidence of bilateral polycystic kidneys",
-        "A pathologic biopsy showing glomerular disease"
+        "Albuminuria above cutoff",
+        "Decreased eGFR for ≥3 months",
+        "Abnormal urinalysis with cells or casts",
+        "Bilateral polycystic kidneys on imaging",
+        "Glomerular disease on biopsy"
       ],
       "answer": 1,
       "explanations": [
@@ -44,10 +44,10 @@
       "id": 3,
       "stem": "A 68-year-old man with diabetes presents with fatigue, poor appetite, generalized weakness, itching, and intermittent nausea over the past month. His eGFR is 12 mL/min/1.73 m². Which mechanism described in the brick best explains his constellation of symptoms?",
       "choices": [
-        "Iron deficiency from poor intestinal absorption of dietary iron",
-        "Hypocalcemia from impaired renal calcitriol production",
-        "Inability to excrete waste products at low GFR",
-        "Hyperkalemia from ACE inhibitor therapy",
+        "Iron deficiency from poor absorption",
+        "Hypocalcemia from low calcitriol",
+        "Inability to excrete waste products",
+        "Hyperkalemia from ACE inhibitor",
         "Volume overload from sodium retention"
       ],
       "answer": 2,
@@ -65,9 +65,9 @@
       "choices": [
         "Hypertensive nephrosclerosis",
         "Diabetes mellitus",
-        "Autosomal dominant polycystic kidney disease",
+        "ADPKD",
         "Chronic obstruction from BPH",
-        "NSAID-induced analgesic nephropathy"
+        "NSAID analgesic nephropathy"
       ],
       "answer": 1,
       "explanations": [
@@ -82,11 +82,11 @@
       "id": 5,
       "stem": "A 61-year-old woman with type 2 diabetes for 8 years has a serum creatinine that has been rising over the past 2 years; her eGFR is now 42 mL/min/1.73 m². Repeated urine albumin/creatinine ratios are <30 mg/g. Which of the following best explains her presentation?",
       "choices": [
-        "Absent diabetic kidney disease since albuminuria is lacking",
-        "Non-proteinuric diabetic kidney disease in type 2",
-        "Acute tubular necrosis from IV contrast",
-        "Hypertensive nephrosclerosis with hyaline arteriolar disease",
-        "Obstructive nephropathy from a ureteral stone"
+        "Diabetic kidney disease excluded",
+        "Non-proteinuric diabetic kidney disease",
+        "Acute tubular necrosis from contrast",
+        "Hypertensive nephrosclerosis",
+        "Obstructive nephropathy from stone"
       ],
       "answer": 1,
       "explanations": [
@@ -122,7 +122,7 @@
       "choices": [
         "Renal artery stenosis",
         "Polyarteritis nodosa",
-        "Autosomal dominant polycystic kidney disease",
+        "ADPKD",
         "Acute tubular necrosis",
         "Benign prostatic hyperplasia"
       ],
@@ -139,11 +139,11 @@
       "id": 8,
       "stem": "A 78-year-old man with longstanding benign prostatic hyperplasia and recurrent kidney stones presents with an eGFR of 38 mL/min/1.73 m². Imaging shows bilateral hydronephrosis. Through what mechanism described in the brick does this lead to chronic kidney disease?",
       "choices": [
-        "Direct glomerular capillary tuft injury from immune-mediated mechanisms",
-        "Pressure from urine buildup damages tubules and interstitium",
-        "Cystic replacement of the renal parenchyma by enlarging fluid-filled cysts",
-        "Hyaline arteriosclerosis of small renal arterioles from chronic hypertension",
-        "Immune-complex deposition in the glomerular basement membrane"
+        "Immune-mediated glomerular tuft injury",
+        "Pressure damages tubules and interstitium",
+        "Cystic replacement of parenchyma",
+        "Hyaline arteriosclerosis from hypertension",
+        "Immune-complex deposition in GBM"
       ],
       "answer": 1,
       "explanations": [
@@ -158,11 +158,11 @@
       "id": 9,
       "stem": "A 64-year-old woman with stage 3 CKD takes ibuprofen daily for arthritis. According to the brick, modern NSAIDs most often cause a reduction in GFR under which circumstance?",
       "choices": [
-        "When used at standard doses in patients with completely normal kidneys",
-        "When combined with another insult such as volume depletion or diuretic use",
-        "Only when used continuously for less than 2 weeks at standard outpatient doses",
-        "Only after intravenous administration in a hospitalized patient",
-        "Only when combined with SGLT2 inhibitors at high therapeutic doses"
+        "Standard doses with normal kidneys",
+        "Combined with volume depletion or diuretic",
+        "Continuous use under 2 weeks",
+        "Only after IV administration",
+        "Combined with SGLT2 inhibitors"
       ],
       "answer": 1,
       "explanations": [
@@ -177,11 +177,11 @@
       "id": 10,
       "stem": "A 35-year-old man with a family history of kidney failure undergoes CT imaging that shows both kidneys massively enlarged with parenchyma replaced by numerous fluid-filled cysts. According to the brick, what is the most important cystic disease that causes CKD?",
       "choices": [
-        "Simple renal cysts found incidentally on imaging",
-        "Medullary sponge kidney with collecting duct ectasia",
-        "Autosomal dominant polycystic kidney disease",
-        "Acquired cystic kidney disease in long-term dialysis",
-        "Alport syndrome with hereditary glomerular involvement"
+        "Simple renal cysts",
+        "Medullary sponge kidney",
+        "ADPKD",
+        "Acquired cystic kidney disease",
+        "Alport syndrome"
       ],
       "answer": 2,
       "explanations": [
@@ -196,7 +196,7 @@
       "id": 11,
       "stem": "An 18-year-old man presents with hematuria and proteinuria. He also reports progressive sensorineural hearing loss and has anterior lenticonus on eye exam. Which hereditary cause of CKD described in the brick best fits?",
       "choices": [
-        "Autosomal dominant polycystic kidney disease",
+        "ADPKD",
         "Alport syndrome",
         "Diabetic kidney disease",
         "Hypertensive nephrosclerosis",
@@ -215,11 +215,11 @@
       "id": 12,
       "stem": "A 60-year-old woman is being worked up for newly discovered CKD. Per the brick, which test is used specifically to assess the degree of albuminuria as part of the diagnostic evaluation?",
       "choices": [
-        "Serum creatinine measurement",
+        "Serum creatinine",
         "Albumin/creatinine ratio (ACR)",
-        "Kidney ultrasound with Doppler imaging",
+        "Kidney ultrasound with Doppler",
         "Percutaneous kidney biopsy",
-        "Serum cystatin C level"
+        "Serum cystatin C"
       ],
       "answer": 1,
       "explanations": [
@@ -234,7 +234,7 @@
       "id": 13,
       "stem": "A 45-year-old man with CKD has heavy proteinuria and his urinalysis shows acanthocytes. According to the brick, what is the most appropriate next diagnostic step to clarify the underlying cause?",
       "choices": [
-        "Repeat serum creatinine in 1 month",
+        "Repeat creatinine in 1 month",
         "Kidney biopsy",
         "Renal artery Doppler",
         "24-hour urine sodium",
@@ -253,11 +253,11 @@
       "id": 14,
       "stem": "A 70-year-old patient undergoes renal ultrasound during CKD evaluation. According to the brick, what is the kidney ultrasound primarily used to assess?",
       "choices": [
-        "Glomerular filtration rate calculated from creatinine",
-        "Echogenic kidneys, cysts, and kidney stones",
-        "Albuminuria over a 24-hour collection period",
-        "Tubular acidification capacity by ammonium chloride loading",
-        "Serum erythropoietin and reticulocyte levels"
+        "GFR from creatinine",
+        "Echogenic kidneys, cysts, and stones",
+        "24-hour albuminuria",
+        "Tubular acidification capacity",
+        "Serum erythropoietin"
       ],
       "answer": 1,
       "explanations": [
@@ -348,11 +348,11 @@
       "id": 19,
       "stem": "A 64-year-old woman with CKD develops worsening hyperphosphatemia, then hypocalcemia and rising PTH. Per the brick, which of the following events initiates the cascade leading to renal osteodystrophy?",
       "choices": [
-        "Increased calcitriol synthesis by the kidney",
+        "Increased renal calcitriol synthesis",
         "Phosphate retention by failing kidneys",
-        "Decreased FGF-23 production by osteocytes",
-        "Suppression of PTH by uremic toxins",
-        "Hypercalcemia from increased intestinal absorption"
+        "Decreased FGF-23 from osteocytes",
+        "PTH suppression by uremic toxins",
+        "Hypercalcemia from intestinal absorption"
       ],
       "answer": 1,
       "explanations": [
@@ -367,10 +367,10 @@
       "id": 20,
       "stem": "A 55-year-old man with stage 4 CKD has hemoglobin 9.2 g/dL with normal iron studies. Which mechanism described in the brick best explains his anemia at this stage?",
       "choices": [
-        "Decreased iron absorption in the duodenum and proximal small intestine",
+        "Decreased duodenal iron absorption",
         "Decreased erythropoietin from peritubular fibroblasts",
-        "Hemolysis from circulating uremic toxins and oxidative stress",
-        "Bone marrow infiltration by light-chain amyloid deposits",
+        "Hemolysis from uremic toxins",
+        "Light-chain amyloid marrow infiltration",
         "Splenic sequestration of red cells"
       ],
       "answer": 1,
@@ -386,11 +386,11 @@
       "id": 21,
       "stem": "A 67-year-old man with CKD stage 4 and hemoglobin 8.5 g/dL is started on recombinant erythropoietin. According to the brick, which of the following is a known complication of EPO therapy?",
       "choices": [
-        "Acute pancreatitis from drug-induced inflammation",
+        "Acute pancreatitis",
         "Hypertension and venous thromboembolism",
-        "Persistent symptomatic hypoglycemia",
-        "Pulmonary fibrosis with progressive dyspnea",
-        "Symptomatic hypocalcemia with tetany"
+        "Symptomatic hypoglycemia",
+        "Pulmonary fibrosis",
+        "Symptomatic hypocalcemia"
       ],
       "answer": 1,
       "explanations": [
@@ -405,11 +405,11 @@
       "id": 22,
       "stem": "A 60-year-old man with CKD G4 and a history of myocardial infarction is being optimized medically. According to the brick, what is the most common cause of death in patients with CKD?",
       "choices": [
-        "Sepsis from a dialysis catheter access bloodstream infection",
-        "Cardiovascular death from myocardial infarction",
-        "Hyperkalemic arrhythmia leading to sudden cardiac arrest",
-        "Uremic encephalopathy progressing to coma",
-        "Hemorrhage from uremic platelet dysfunction"
+        "Sepsis from dialysis catheter",
+        "Cardiovascular death (eg, MI)",
+        "Hyperkalemic arrhythmia",
+        "Uremic encephalopathy",
+        "Hemorrhage from platelet dysfunction"
       ],
       "answer": 1,
       "explanations": [
@@ -443,11 +443,11 @@
       "id": 24,
       "stem": "A 66-year-old woman with new CKD has an eGFR of 42 mL/min/1.73 m² and an ACR of 350 mg/g, with the cause not yet established. According to the brick, which of the following is an indication for referral to a nephrologist?",
       "choices": [
-        "Any patient with a diagnosis of diabetes mellitus, regardless of kidney function",
-        "Any patient with essential hypertension under treatment by a primary care physician",
-        "eGFR <60, especially with unknown cause or ACR >300 mg/g",
-        "Only after the patient develops overt uremic symptoms such as nausea or pruritus",
-        "Only when the eGFR falls below 10 mL/min/1.73 m² on repeat testing"
+        "Any patient with diabetes",
+        "Any patient with essential hypertension",
+        "eGFR <60, especially unknown cause or ACR >300",
+        "Only after overt uremic symptoms",
+        "Only when eGFR <10"
       ],
       "answer": 2,
       "explanations": [
@@ -462,11 +462,11 @@
       "id": 25,
       "stem": "A 64-year-old man with CKD has had progressively declining kidney function over the past 2 years. His most recent eGFR is 18 mL/min/1.73 m². According to the brick, what is the appropriate next step at this eGFR?",
       "choices": [
-        "Start emergent dialysis immediately regardless of clinical symptoms or volume status",
-        "Begin preparations for dialysis or kidney transplantation",
-        "Stop all antihypertensive and renoprotective medications",
-        "Repeat labs in 1 year without further intervention",
-        "Permanently discontinue ACE inhibitor and SGLT2 inhibitor therapy"
+        "Start emergent dialysis immediately",
+        "Begin preparations for dialysis or transplant",
+        "Stop all antihypertensives",
+        "Repeat labs in 1 year",
+        "Discontinue ACE inhibitor and SGLT2 inhibitor"
       ],
       "answer": 1,
       "explanations": [

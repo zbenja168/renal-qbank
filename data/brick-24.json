@@ -19,11 +19,11 @@
       "id": 2,
       "stem": "A 22-year-old woman is brought to the emergency department with carpopedal spasm and perioral paresthesias after a thyroidectomy. Serum total calcium is 6.8 mg/dL. Her presentation is best explained by which physiologic effect of low calcium?",
       "choices": [
-        "Increased oxygen delivery from red blood cells",
-        "Increased vascular calcification of small arteries",
-        "Neuromuscular irritability causing tetany",
-        "Reduced bone resorption with osteosclerosis",
-        "Suppressed parathyroid hormone secretion"
+        "Increased RBC oxygen delivery",
+        "Vascular calcification of small arteries",
+        "Neuromuscular irritability and tetany",
+        "Reduced bone resorption",
+        "Suppressed PTH secretion"
       ],
       "answer": 2,
       "explanations": [
@@ -38,11 +38,11 @@
       "id": 3,
       "stem": "A 68-year-old man with metastatic breast cancer presents with confusion, abdominal pain, and a kidney stone. Serum calcium is 13.6 mg/dL. Which clinical finding from the brick is most directly attributable to his hypercalcemia?",
       "choices": [
-        "Carpopedal spasm from neuromuscular irritability",
-        "Hyperphosphatemia-induced soft tissue calcification",
-        "Impaired cognition with abdominal pain and stones",
-        "Rhabdomyolysis from severe hypophosphatemia",
-        "Seizures and tetany from neuromuscular irritability"
+        "Carpopedal spasm",
+        "Soft tissue calcification",
+        "Confusion, abdominal pain, and stones",
+        "Rhabdomyolysis",
+        "Seizures and tetany"
       ],
       "answer": 2,
       "explanations": [
@@ -57,11 +57,11 @@
       "id": 4,
       "stem": "A 55-year-old man on long-term parenteral nutrition develops profound muscle weakness, respiratory difficulty, and elevated CK. Serum phosphate is 1.1 mg/dL. The reduced oxygen delivery contributing to his weakness is most directly explained by which mechanism described in the brick?",
       "choices": [
-        "Decreased 2,3-DPG levels in red blood cells",
+        "Decreased RBC 2,3-DPG",
         "Decreased renal calcitriol synthesis",
-        "Increased calcium-phosphate complex formation",
-        "Increased hemoglobin affinity due to alkalosis",
-        "Vascular calcification of small pulmonary vessels"
+        "Calcium-phosphate complex formation",
+        "Increased hemoglobin affinity from alkalosis",
+        "Pulmonary vascular calcification"
       ],
       "answer": 0,
       "explanations": [
@@ -76,11 +76,11 @@
       "id": 5,
       "stem": "A 70-year-old man with end-stage renal disease has serum phosphate 7.8 mg/dL and total calcium 7.2 mg/dL. He develops perioral tingling. The drop in his ionized calcium despite oral calcium supplementation is best explained by which mechanism stated in the brick?",
       "choices": [
-        "Acidosis-induced shift of phosphate species",
-        "Displacement of calcium from circulating albumin",
-        "Calcium binding by elevated phosphate as complexes",
-        "Increased renal calcium excretion from a CaSR effect",
-        "PTH-driven calcium uptake into bone matrix"
+        "Acidosis-induced phosphate species shift",
+        "Displacement of calcium from albumin",
+        "Calcium-phosphate complex formation",
+        "Increased renal calcium excretion via CaSR",
+        "PTH-driven calcium uptake into bone"
       ],
       "answer": 2,
       "explanations": [
@@ -147,11 +147,11 @@
       "id": 10,
       "stem": "A researcher is studying the apical phosphate uptake step in the proximal tubule. The sodium-phosphate cotransporter on the apical membrane uses the inward sodium gradient established by the basolateral Na+/K+-ATPase. This best illustrates which type of transport?",
       "choices": [
-        "Facilitated diffusion via a carrier protein",
-        "Paracellular diffusion via lumen-positive potential",
-        "Primary active transport using direct ATP hydrolysis",
-        "Secondary active transport coupled to Na gradient",
-        "Simple diffusion across the apical lipid membrane"
+        "Facilitated diffusion",
+        "Paracellular diffusion",
+        "Primary active transport",
+        "Secondary active transport",
+        "Simple diffusion"
       ],
       "answer": 3,
       "explanations": [
@@ -166,11 +166,11 @@
       "id": 11,
       "stem": "A renal physiologist is examining how calcium crosses the proximal tubule epithelium. Which mechanism best describes the majority of calcium reabsorption in this segment?",
       "choices": [
-        "Apical Na/Ca antiporter regulated by PTH and calcitriol",
-        "Basolateral Ca-ATPase driven by direct ATP hydrolysis",
-        "Paracellular movement driven by positive luminal potential",
-        "Transcellular uptake via an apical calcitriol-stimulated channel",
-        "Vesicular endocytosis at the proximal brush border"
+        "Apical Na/Ca antiporter",
+        "Basolateral Ca-ATPase",
+        "Paracellular flow down lumen-positive potential",
+        "Apical calcitriol-stimulated channel",
+        "Vesicular endocytosis"
       ],
       "answer": 2,
       "explanations": [
@@ -185,11 +185,11 @@
       "id": 12,
       "stem": "A renal investigator notes that calcium reabsorption in the thick ascending limb is sensitive to changes in serum calcium. Which structure in this segment senses elevated serum calcium and reduces calcium reabsorption?",
       "choices": [
-        "Apical NKCC2 sodium cotransporter",
+        "Apical NKCC2 cotransporter",
         "Apical TRPV5 calcium channel",
         "Basolateral calcium-sensing receptor",
         "Basolateral organic anion transporter",
-        "Apical sodium-phosphate cotransporter"
+        "Apical Na-phosphate cotransporter"
       ],
       "answer": 2,
       "explanations": [
@@ -204,11 +204,11 @@
       "id": 13,
       "stem": "A 38-year-old woman with primary hyperparathyroidism has elevated PTH and elevated serum calcium. Which segment of the nephron is most directly responsible for the PTH-mediated increase in calcium reabsorption?",
       "choices": [
-        "Cortical collecting duct of the nephron",
-        "Distal convoluted tubule of the nephron",
-        "Proximal convoluted tubule of the nephron",
-        "Thick ascending limb of the loop of Henle",
-        "Thin descending limb of the loop of Henle"
+        "Cortical collecting duct",
+        "Distal convoluted tubule",
+        "Proximal convoluted tubule",
+        "Thick ascending limb",
+        "Thin descending limb"
       ],
       "answer": 1,
       "explanations": [
@@ -223,11 +223,11 @@
       "id": 14,
       "stem": "A medical student is mapping calcium movement across distal convoluted tubule cells. After calcium enters the cell apically, how does it exit across the basolateral membrane into the interstitium?",
       "choices": [
-        "Apical paracellular leak from positive luminal potential",
-        "Basolateral Ca2+-ATPase and Na-Ca antiporter exit",
-        "Basolateral organic anion transporter exit pathway",
-        "Facilitated diffusion through apical calcium channel",
-        "Secondary active cotransport with phosphate ions"
+        "Apical paracellular leak",
+        "Basolateral Ca2+-ATPase and Na-Ca antiporter",
+        "Basolateral organic anion transporter",
+        "Apical calcium channel",
+        "Cotransport with phosphate"
       ],
       "answer": 1,
       "explanations": [
@@ -242,11 +242,11 @@
       "id": 15,
       "stem": "A 30-year-old man with several days of severe diarrhea is volume depleted on exam. Serum calcium is 10.5 mg/dL. Which segmental change in calcium handling, described in the brick, most directly accounts for his slightly elevated calcium?",
       "choices": [
-        "Activation of the calcium-sensing receptor in the TAL nephron",
-        "Decreased DCT calcium reabsorption due to PTH suppression",
-        "Increased proximal calcium reabsorption from volume contraction",
-        "Increased filtered calcium load due to rise in GFR from diarrhea",
-        "Reduced osteoclast bone resorption due to volume depletion"
+        "TAL calcium-sensing receptor activation",
+        "Decreased DCT reabsorption from PTH suppression",
+        "Increased proximal calcium reabsorption",
+        "Increased filtered calcium load",
+        "Reduced osteoclast bone resorption"
       ],
       "answer": 2,
       "explanations": [
@@ -261,11 +261,11 @@
       "id": 16,
       "stem": "A 58-year-old woman with hypertension is started on hydrochlorothiazide. Several months later her serum calcium is mildly elevated at 10.6 mg/dL. According to the brick, what is the main mechanism by which thiazides cause this hypercalcemia?",
       "choices": [
-        "Direct activation of the apical calcium channel in DCT cells",
-        "Inhibition of NKCC2 in the thick ascending limb of Henle loop",
-        "Inhibition of the calcium-sensing receptor in TAL epithelium",
-        "Volume depletion that raises proximal calcium reabsorption",
-        "Stimulation of parathyroid hormone secretion from chief cells"
+        "DCT apical calcium channel activation",
+        "NKCC2 inhibition in the TAL",
+        "Calcium-sensing receptor inhibition",
+        "Volume depletion raising proximal reabsorption",
+        "PTH stimulation"
       ],
       "answer": 3,
       "explanations": [
@@ -280,11 +280,11 @@
       "id": 17,
       "stem": "A 72-year-old woman with malignancy-associated hypercalcemia (calcium 14.2 mg/dL) is given intravenous isotonic fluids and then furosemide. According to the brick, how does furosemide promote calcium excretion?",
       "choices": [
-        "Activates the calcium-sensing receptor in the DCT epithelium",
-        "Blocks the basolateral Ca2+-ATPase in the DCT principal cell",
-        "Directly inhibits PTH-stimulated calcium reabsorption in the DCT",
-        "Inhibits NKCC2 in the TAL, lowering the lumen-positive voltage",
-        "Inhibits sodium-phosphate cotransport in the proximal tubule"
+        "Activates the DCT calcium-sensing receptor",
+        "Blocks basolateral Ca2+-ATPase",
+        "Inhibits PTH-stimulated DCT reabsorption",
+        "Inhibits NKCC2, lowering lumen-positive voltage",
+        "Inhibits proximal Na-phosphate cotransport"
       ],
       "answer": 3,
       "explanations": [
@@ -299,11 +299,11 @@
       "id": 18,
       "stem": "A 50-year-old man is given a high-phosphate meal as part of a metabolic study. According to the brick, what is the expected renal response?",
       "choices": [
-        "Decreased proximal phosphate reabsorption from transporter loss",
-        "Increased FGF-23 release from the parathyroid chief cells in CKD",
-        "Increased PTH-driven phosphate reabsorption in the distal tubule",
-        "Increased proximal tubular phosphate reabsorption to maintain balance",
-        "No change because dietary phosphate is regulated solely in the gut"
+        "Decreased proximal phosphate reabsorption",
+        "Increased parathyroid FGF-23 release",
+        "Increased PTH-driven distal reabsorption",
+        "Increased proximal phosphate reabsorption",
+        "No change; gut regulates phosphate"
       ],
       "answer": 0,
       "explanations": [
@@ -318,11 +318,11 @@
       "id": 19,
       "stem": "A 24-year-old man develops a severe metabolic acidosis after a methanol ingestion. According to the brick, how does the kidney use phosphate to help clear acid?",
       "choices": [
-        "Excretes more phosphate to bind urinary hydrogen ions as titratable acid",
-        "Generates new bicarbonate via phosphate-driven transport in the DCT",
-        "Increases proximal phosphate reabsorption to free up bicarbonate buffering",
-        "Promotes phosphate uptake into red blood cells to buffer acid load",
-        "Shifts phosphate species toward PO4 3- to buffer intracellular acid"
+        "Excretes phosphate to bind H+ as titratable acid",
+        "Generates new bicarbonate in the DCT",
+        "Increases proximal phosphate reabsorption",
+        "Promotes phosphate uptake into red blood cells",
+        "Shifts phosphate species toward PO4 3-"
       ],
       "answer": 0,
       "explanations": [
@@ -337,11 +337,11 @@
       "id": 20,
       "stem": "A researcher creates a knockout of the renal calcium-sensing receptor (CaSR) in mice (loss-of-function). Based on the role of the renal CaSR described in the brick, what urinary calcium phenotype would be expected?",
       "choices": [
-        "Anuria from complete loss of tubular calcium reabsorption",
-        "High urinary calcium because the CaSR normally promotes reabsorption",
-        "No change in urinary calcium because the CaSR is non-renal",
-        "Reduced urinary calcium because reabsorption is no longer inhibited",
-        "Reduced urinary phosphate excretion but unchanged calcium handling"
+        "Anuria",
+        "High urinary calcium",
+        "No change in urinary calcium",
+        "Reduced urinary calcium",
+        "Reduced urinary phosphate"
       ],
       "answer": 3,
       "explanations": [
@@ -356,11 +356,11 @@
       "id": 21,
       "stem": "A 60-year-old man with stage 4 chronic kidney disease has serum phosphate 6.8 mg/dL. The brick describes a hormone produced by osteocytes in response to high phosphate that acts on the kidney to lower serum phosphate. Which hormone and action are these?",
       "choices": [
-        "Calcitonin; inhibits osteoclast bone resorption",
+        "Calcitonin; inhibits osteoclasts",
         "Calcitriol; increases intestinal phosphate absorption",
         "FGF-23; reduces proximal phosphate reabsorption",
-        "PTH; increases distal tubular calcium reabsorption",
-        "PTH; stimulates renal 1-α hydroxylase activity"
+        "PTH; increases distal calcium reabsorption",
+        "PTH; stimulates 1-α hydroxylase"
       ],
       "answer": 2,
       "explanations": [
@@ -375,11 +375,11 @@
       "id": 22,
       "stem": "A 64-year-old man with chronic kidney disease has retained phosphate, low calcitriol, hypocalcemia, and elevated PTH. According to the CKD-MBD pathway in the brick, the reduction in calcitriol is most directly the result of which step?",
       "choices": [
-        "FGF-23-mediated decrease in renal 1-α hydroxylase",
-        "Increased hepatic 25-hydroxylase enzymatic activity",
-        "Increased intestinal calcium absorption suppressing vitamin D",
-        "PTH-driven inhibition of renal 1-α hydroxylase",
-        "Sevelamer binding of dietary vitamin D in the gut"
+        "FGF-23 inhibition of 1-α hydroxylase",
+        "Increased hepatic 25-hydroxylase activity",
+        "Increased intestinal calcium absorption",
+        "PTH inhibition of 1-α hydroxylase",
+        "Sevelamer binding of vitamin D"
       ],
       "answer": 0,
       "explanations": [
@@ -394,11 +394,11 @@
       "id": 23,
       "stem": "A 72-year-old woman with longstanding CKD develops bone pain and a vertebral fragility fracture. Imaging and labs are consistent with renal osteodystrophy. According to the brick, which sequence best explains why her bones are weakened?",
       "choices": [
-        "Calcitonin excess inhibits osteoblast activity, weakening trabecular bone",
-        "FGF-23 directly causes osteoblast apoptosis in chronic kidney disease",
-        "Hyperphosphatemia drives calcium into bone, producing brittle calcified bone",
-        "Phosphate retention → FGF-23↑/calcitriol↓ → PTH↑ → bone resorption",
-        "Sevelamer use leads to vitamin D deficiency and resulting osteomalacia"
+        "Calcitonin excess inhibits osteoblasts",
+        "FGF-23 causes osteoblast apoptosis",
+        "Hyperphosphatemia drives calcium into bone",
+        "Phosphate↑ → FGF-23↑/calcitriol↓ → PTH↑ → resorption",
+        "Sevelamer-induced vitamin D deficiency"
       ],
       "answer": 3,
       "explanations": [
@@ -413,11 +413,11 @@
       "id": 24,
       "stem": "A 55-year-old woman is admitted with primary hyperparathyroidism and serum calcium of 14.0 mg/dL. After volume expansion with isotonic fluids, the team adds a bisphosphonate. According to the brick, which mechanism best explains how bisphosphonates lower serum calcium?",
       "choices": [
-        "Activate the calcium-sensing receptor in the parathyroid chief cells",
-        "Bind bone hydroxyapatite and inhibit osteoclast resorption",
-        "Bind dietary phosphate in the gastrointestinal tract lumen",
-        "Increase renal calcium excretion via the loop of Henle in TAL",
-        "Stimulate endogenous calcitonin release from thyroid C-cells"
+        "Activate the calcium-sensing receptor",
+        "Bind hydroxyapatite and inhibit osteoclasts",
+        "Bind dietary phosphate in the gut",
+        "Increase renal calcium excretion at the TAL",
+        "Stimulate calcitonin release"
       ],
       "answer": 1,
       "explanations": [

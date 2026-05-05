@@ -6,11 +6,11 @@
       "id": 1,
       "stem": "A 62-year-old woman presents to the ED after a week of severe diarrhea contracted on a cruise. BP is 106/68 mm Hg with orthostasis. Her serum creatinine is 1.8 mg/dL today versus 0.9 mg/dL two months ago, drawn within the last 48 hours. Which finding alone is sufficient to diagnose acute kidney injury by KDIGO criteria in this patient?",
       "choices": [
-        "Serum creatinine rise ≥0.3 mg/dL within 48 hours",
-        "Serum creatinine rise ≥0.1 mg/dL within 24 hours",
-        "Decrease in eGFR by 10 mL/min over the past 1 month",
-        "Persistent proteinuria of ≥1 g/day on dipstick",
-        "BUN:creatinine ratio greater than 10"
+        "Creatinine rise ≥0.3 mg/dL in 48 hours",
+        "Creatinine rise ≥0.1 mg/dL in 24 hours",
+        "eGFR decrease of 10 mL/min over 1 month",
+        "Proteinuria ≥1 g/day",
+        "BUN:creatinine ratio >10"
       ],
       "answer": 0,
       "explanations": [
@@ -25,11 +25,11 @@
       "id": 2,
       "stem": "An 80-kg man in the ICU has produced 200 mL of urine over the past 8 hours. Which urine output threshold from the KDIGO criteria is met by this patient, supporting a diagnosis of acute kidney injury?",
       "choices": [
-        "Urine output <0.5 mL/kg/hr for 6–12 hours",
-        "Urine output <1.0 mL/kg/hr for at least 24 hours",
-        "Urine output <100 mL over a 6-hour period",
-        "Urine output <2 L/day for 2 consecutive days",
-        "Urine output <30 mL/hr over a 1-hour window"
+        "<0.5 mL/kg/hr for 6–12 hours",
+        "<1.0 mL/kg/hr for 24 hours",
+        "<100 mL over 6 hours",
+        "<2 L/day for 2 days",
+        "<30 mL/hr for 1 hour"
       ],
       "answer": 0,
       "explanations": [
@@ -44,11 +44,11 @@
       "id": 3,
       "stem": "A 75-year-old man with NYHA class III heart failure is started on ibuprofen for knee pain while continuing his lisinopril. Two weeks later his creatinine has risen from 1.1 to 1.9 mg/dL and BP is 98/60 mm Hg. Which combination of glomerular hemodynamic changes best explains his prerenal AKI?",
       "choices": [
-        "NSAID-induced afferent constriction with ACEi-induced efferent dilation",
-        "NSAID-induced afferent dilation with ACEi-induced efferent constriction",
-        "Mesangial cell contraction from angiotensin II reducing filtration surface area",
-        "Tubuloglomerular feedback triggered by increased distal sodium delivery",
-        "Direct cytotoxic injury to the proximal tubular epithelial cells"
+        "Afferent constriction with efferent dilation",
+        "Afferent dilation with efferent constriction",
+        "Mesangial cell contraction",
+        "Tubuloglomerular feedback activation",
+        "Direct proximal tubular cytotoxicity"
       ],
       "answer": 0,
       "explanations": [
@@ -63,11 +63,11 @@
       "id": 4,
       "stem": "A 68-year-old man with severe heart failure presents with edema, an S3 gallop, and rising creatinine. The brick describes this combination of reduced cardiac output and increased renal venous pressure as a blend of pre- and postrenal contributions. Which treatment most directly addresses both components?",
       "choices": [
-        "Loop diuretic to reduce venous congestion",
-        "Normal saline bolus to expand intravascular volume",
-        "ACE inhibitor to lower afterload",
-        "Aminoglycoside antibiotic for occult sepsis",
-        "Bladder catheter for postrenal relief"
+        "Loop diuretic",
+        "Normal saline bolus",
+        "ACE inhibitor",
+        "Aminoglycoside antibiotic",
+        "Bladder catheter"
       ],
       "answer": 0,
       "explanations": [
@@ -83,10 +83,10 @@
       "stem": "A 70-year-old woman with septic shock develops AKI on hospital day 3. Her urinalysis shows muddy brown granular casts. Which of the following best explains the fall in GFR according to the brick's description of acute tubular necrosis?",
       "choices": [
         "Tubuloglomerular feedback constricts the afferent arteriole",
-        "Immune complex deposition along the glomerular basement membrane",
-        "Hydrostatic back-pressure from an obstructing kidney stone",
-        "Antibody-mediated injury to glomerular podocytes",
-        "Efferent arteriole dilation from angiotensin II blockade"
+        "Immune complex deposition on the GBM",
+        "Hydrostatic back-pressure from a kidney stone",
+        "Antibody-mediated podocyte injury",
+        "Efferent dilation from angiotensin II blockade"
       ],
       "answer": 0,
       "explanations": [
@@ -120,10 +120,10 @@
       "id": 7,
       "stem": "A 28-year-old man is brought in after being found down for an unknown duration. CK is 42,000 U/L and urine dipstick is strongly positive for blood with no RBCs on microscopy. His creatinine is rising. Which mechanism best explains his acute kidney injury per the brick?",
       "choices": [
-        "Filtered myoglobin causing acute tubular necrosis",
-        "Hemoglobinuria from massive intravascular hemolysis",
-        "Hypersensitivity interstitial nephritis from medications",
-        "Cholesterol embolization from atherosclerotic plaques",
+        "Filtered myoglobin causing ATN",
+        "Hemoglobinuria from intravascular hemolysis",
+        "Drug-induced interstitial nephritis",
+        "Cholesterol embolization",
         "Postinfectious glomerulonephritis"
       ],
       "answer": 0,
@@ -159,8 +159,8 @@
       "stem": "A 30-year-old man presents with hemoptysis, AKI, and a urinalysis showing proteinuria, dysmorphic RBCs, and RBC casts. Anti-GBM antibodies are positive. According to the brick, which next step is most appropriate to confirm the diagnosis given this presentation?",
       "choices": [
         "Renal biopsy",
-        "Renal ultrasound to look for hydronephrosis",
-        "Trial of intravenous saline",
+        "Renal ultrasound",
+        "IV saline trial",
         "Bladder catheter placement",
         "Repeat creatinine in 7 days"
       ],
@@ -178,10 +178,10 @@
       "stem": "A 72-year-old man develops AKI 10 days after coronary catheterization. He has livedo reticularis on his lower extremities, eosinophilia, eosinophiluria, and low complement levels. Which mechanism best explains his subacute kidney injury per the brick?",
       "choices": [
         "Atheroembolic occlusion of renal arterioles",
-        "Direct tubular toxicity from administered iodinated contrast",
-        "IgA immune complex deposition within the glomerular mesangium",
-        "Bilateral ureteral compression from an enlarging pelvic mass",
-        "ACE inhibitor–induced efferent arteriole dilation lowering filtration"
+        "Direct contrast tubular toxicity",
+        "IgA mesangial deposition",
+        "Bilateral ureteral compression",
+        "ACE inhibitor efferent dilation"
       ],
       "answer": 0,
       "explanations": [
@@ -196,11 +196,11 @@
       "id": 11,
       "stem": "An 82-year-old man with benign prostatic hyperplasia is brought in unable to void for 24 hours. Suprapubic fullness is present and creatinine is 3.2 mg/dL. Which intervention is most appropriate as both diagnostic and therapeutic for his suspected postrenal AKI?",
       "choices": [
-        "Place a urinary catheter to relieve the obstruction",
-        "Bolus 2 L of isotonic normal saline rapidly",
-        "Start a renoprotective ACE inhibitor immediately",
-        "Begin empiric high-dose intravenous corticosteroids",
-        "Order an empiric aminoglycoside antibiotic course"
+        "Place a urinary catheter",
+        "Bolus 2 L normal saline",
+        "Start an ACE inhibitor",
+        "High-dose IV corticosteroids",
+        "Empiric aminoglycoside"
       ],
       "answer": 0,
       "explanations": [
@@ -215,11 +215,11 @@
       "id": 12,
       "stem": "A 65-year-old woman with diabetic CKD (baseline eGFR 25) develops AKI after passing a kidney stone that obstructs her left ureter. The right kidney has chronic atrophy. Which concept from the brick best explains why a unilateral obstruction caused AKI in this patient?",
       "choices": [
-        "The contralateral CKD kidney cannot adequately hyperfiltrate to compensate",
-        "Unilateral ureteral obstruction always causes AKI in any patient",
-        "The obstructed kidney releases circulating toxins that damage the other kidney",
-        "Kidney stones produce direct cytotoxic injury to renal tubular cells",
-        "Kidney stones trigger systemic vasoconstriction reducing renal perfusion"
+        "Contralateral CKD kidney cannot hyperfiltrate",
+        "Unilateral obstruction always causes AKI",
+        "Obstructed kidney releases circulating toxins",
+        "Stones cause direct tubular cytotoxicity",
+        "Stones trigger systemic vasoconstriction"
       ],
       "answer": 0,
       "explanations": [
@@ -237,7 +237,7 @@
         "Prerenal AKI",
         "Acute tubular necrosis",
         "Acute interstitial nephritis",
-        "Postrenal AKI from BPH",
+        "Postrenal AKI",
         "Rapidly progressive glomerulonephritis"
       ],
       "answer": 0,
@@ -253,11 +253,11 @@
       "id": 14,
       "stem": "A 70-year-old woman on chronic furosemide for heart failure becomes volume depleted from gastroenteritis. Urinalysis is normal but urine sodium is 55 mEq/L and FENa is 2.5%. What is the most likely explanation for these urine indices according to the brick?",
       "choices": [
-        "Diuretics raise urine sodium and FENa despite prerenal AKI",
-        "She has developed ischemic acute tubular necrosis",
-        "She has new-onset rapidly progressive glomerulonephritis",
-        "She has bilateral obstructive uropathy from a pelvic mass",
-        "She has a spuriously low serum creatinine measurement"
+        "Diuretics raise urine Na and FENa",
+        "Ischemic acute tubular necrosis",
+        "New rapidly progressive glomerulonephritis",
+        "Bilateral obstructive uropathy",
+        "Spuriously low serum creatinine"
       ],
       "answer": 0,
       "explanations": [
@@ -311,10 +311,10 @@
       "stem": "A 35-year-old woman presents with AKI, hemoptysis, and a urinalysis with proteinuria, hematuria, and acanthocytes (ring-shaped dysmorphic RBCs with blebs) plus RBC casts. Which AKI subtype is most consistent with these findings?",
       "choices": [
         "Rapidly progressive glomerulonephritis",
-        "Acute ischemic tubular necrosis",
-        "Drug-induced acute interstitial nephritis",
-        "Prerenal AKI from volume depletion",
-        "Postrenal AKI from an obstructing stone"
+        "Ischemic acute tubular necrosis",
+        "Drug-induced interstitial nephritis",
+        "Prerenal AKI",
+        "Postrenal AKI from a stone"
       ],
       "answer": 0,
       "explanations": [
@@ -329,11 +329,11 @@
       "id": 18,
       "stem": "A 62-year-old woman returns from a cruise with a week of diarrhea, BP 106/68 mm Hg with orthostasis, BUN 41 mg/dL and creatinine 1.8 mg/dL (both previously normal). She is alert without edema. What is the most appropriate initial management per the brick?",
       "choices": [
-        "Volume repletion with isotonic normal saline",
-        "Loop diuretic infusion to increase urine output",
-        "Start an ACE inhibitor for renoprotection",
-        "Initiate urgent intermittent hemodialysis sessions",
-        "Begin empiric high-dose intravenous corticosteroids"
+        "Isotonic normal saline",
+        "Loop diuretic infusion",
+        "ACE inhibitor",
+        "Urgent hemodialysis",
+        "High-dose IV corticosteroids"
       ],
       "answer": 0,
       "explanations": [
@@ -349,10 +349,10 @@
       "stem": "A 70-year-old woman with AKI after cardiac surgery has potassium 6.7 mEq/L, creatinine 4.0 mg/dL, bicarbonate 15 mEq/L, peaked T waves on ECG, anuria, and worsening hyperkalemia despite insulin/glucose and a potassium-binding resin. Which definitive intervention is now indicated per the brick?",
       "choices": [
         "Urgent dialysis",
-        "Begin erythropoietin injections",
-        "Start an ACE inhibitor",
-        "Restrict dietary protein",
-        "Increase the loop diuretic dose"
+        "Erythropoietin",
+        "ACE inhibitor",
+        "Dietary protein restriction",
+        "Increase loop diuretic dose"
       ],
       "answer": 0,
       "explanations": [
@@ -371,7 +371,7 @@
         "BUN >100 alone",
         "Asymptomatic anemia",
         "Mild hyperphosphatemia",
-        "Isolated metabolic alkalosis"
+        "Metabolic alkalosis"
       ],
       "answer": 0,
       "explanations": [
@@ -424,11 +424,11 @@
       "id": 23,
       "stem": "A 73-year-old man with AKI develops volume overload with pulmonary edema. He is still making urine. Per the brick, which initial pharmacologic intervention should be tried before considering dialysis for fluid removal?",
       "choices": [
-        "A loop diuretic such as furosemide",
-        "An afterload-reducing ACE inhibitor",
-        "An empiric aminoglycoside antibiotic course",
-        "An NSAID for analgesia and diuresis",
-        "Erythropoietin for renal anemia support"
+        "Loop diuretic (furosemide)",
+        "ACE inhibitor",
+        "Aminoglycoside antibiotic",
+        "NSAID",
+        "Erythropoietin"
       ],
       "answer": 0,
       "explanations": [
@@ -464,9 +464,9 @@
       "choices": [
         "Aminoglycoside antibiotics",
         "Cardioselective beta-blockers",
-        "HMG-CoA reductase inhibitor statins",
-        "Proton pump inhibitors for reflux",
-        "Oral iron supplements for anemia"
+        "Statins",
+        "Proton pump inhibitors",
+        "Oral iron supplements"
       ],
       "answer": 0,
       "explanations": [

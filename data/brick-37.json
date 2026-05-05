@@ -6,11 +6,11 @@
       "id": 1,
       "stem": "A 36-year-old healthy woman applying for life insurance has routine bloodwork drawn. Her electrolytes are normal but her serum creatinine returns at 1.9 mg/dL. Her physician is concerned about kidney function. The serum creatinine is used as a marker of kidney function primarily because of which property?",
       "choices": [
-        "It is actively secreted by the renal tubules in proportion to filtered load",
-        "It is produced from muscle at a constant daily rate",
-        "It is completely reabsorbed by the proximal tubule each day",
-        "It is synthesized by the liver from dietary protein intake",
-        "Its serum level is fully independent of total muscle mass"
+        "Actively secreted by tubules",
+        "Produced from muscle at constant rate",
+        "Completely reabsorbed by proximal tubule",
+        "Synthesized by liver from dietary protein",
+        "Independent of muscle mass"
       ],
       "answer": 1,
       "explanations": [
@@ -25,11 +25,11 @@
       "id": 2,
       "stem": "A 70-year-old frail woman with sarcopenia and a 25-year-old male bodybuilder both have a measured GFR of 90 mL/min/1.73 m^2. Compared with the bodybuilder, the elderly woman is most likely to have which serum creatinine pattern?",
       "choices": [
-        "A higher SCr because of age-related decline in renal clearance",
-        "A lower SCr from reduced muscle creatinine production",
-        "An identical SCr because GFR is the sole determinant of SCr",
-        "An undetectable SCr because of decreased dietary protein intake",
-        "A markedly elevated SCr based on patient age alone"
+        "Higher SCr from age-related decline",
+        "Lower SCr from reduced muscle production",
+        "Identical SCr",
+        "Undetectable SCr from low protein intake",
+        "Markedly elevated SCr from age alone"
       ],
       "answer": 1,
       "explanations": [
@@ -82,11 +82,11 @@
       "id": 5,
       "stem": "A nephrology fellow is reviewing the historical evolution of GFR estimating equations. The 1976 Cockcroft-Gault equation is built around which set of variables, captured by the mnemonic SWAG?",
       "choices": [
-        "Sex, weight, serum albumin, and serum glucose",
+        "Sex, weight, albumin, glucose",
         "Serum creatinine, weight, age, gender",
-        "Sodium, water balance, serum albumin, GFR",
-        "Sex, age, gender, ethnicity, and race",
-        "SCr, BUN, serum albumin, and serum glucose"
+        "Sodium, water balance, albumin, GFR",
+        "Sex, age, gender, ethnicity",
+        "SCr, BUN, albumin, glucose"
       ],
       "answer": 1,
       "explanations": [
@@ -120,11 +120,11 @@
       "id": 7,
       "stem": "A health system is updating its electronic record to use the most current and accurate eGFR equation. According to the brick, the 2021 CKD-EPI equation differs from MDRD primarily because it:",
       "choices": [
-        "Adds body weight as a required input variable for the calculation",
-        "Adds cystatin C as a required laboratory input alongside creatinine",
+        "Adds body weight as an input",
+        "Adds cystatin C as an input",
         "Removes ethnicity as a variable",
-        "Removes age and sex as required variables from the equation",
-        "Replaces serum creatinine with blood urea nitrogen as the input"
+        "Removes age and sex as variables",
+        "Replaces creatinine with BUN"
       ],
       "answer": 2,
       "explanations": [
@@ -139,11 +139,11 @@
       "id": 8,
       "stem": "A 72-year-old woman with chronic kidney disease is started on a medication whose dosing guideline is based on an older pharmacokinetic study from the 1980s. According to the brick, drug dosing in CKD is often based on creatinine clearance rather than eGFR for which reason?",
       "choices": [
-        "CrCl reflects tubular drug secretion much better than eGFR equations do for renally cleared drugs",
-        "eGFR cannot reliably be calculated in patients over the age of seventy years",
-        "Older pharmacokinetic studies used Cockcroft-Gault before MDRD and CKD-EPI existed",
-        "MDRD systematically underestimates true GFR across all patients with chronic kidney disease",
-        "Cockcroft-Gault is the most accurate eGFR equation for nearly every renally cleared drug"
+        "CrCl better reflects tubular drug secretion",
+        "eGFR cannot be calculated over age 70",
+        "Older PK studies used Cockcroft-Gault",
+        "MDRD systematically underestimates true GFR",
+        "Cockcroft-Gault is the most accurate equation"
       ],
       "answer": 2,
       "explanations": [
@@ -177,10 +177,10 @@
       "id": 10,
       "stem": "A 68-year-old man with cirrhosis presents with melena from a bleeding gastric ulcer. Labs show BUN 55 mg/dL with a serum creatinine of 1.0 mg/dL. According to the brick, BUN can rise without a change in GFR because of all the following EXCEPT:",
       "choices": [
-        "Gastrointestinal bleeding from peptic ulcer",
-        "Chronic corticosteroid use for any indication",
-        "Sustained high dietary protein intake",
-        "Underlying chronic liver disease",
+        "Gastrointestinal bleeding",
+        "Corticosteroid use",
+        "High dietary protein intake",
+        "Chronic liver disease",
         "Increased glomerular filtration"
       ],
       "answer": 4,
@@ -196,11 +196,11 @@
       "id": 11,
       "stem": "A medical student asks why blood urea nitrogen is reported as nitrogen rather than total urea, and why it is not used as a direct measure of GFR. Based on the brick, the best explanation is that BUN:",
       "choices": [
-        "Is freely filtered without reabsorption, making it functionally equivalent to inulin clearance",
-        "Uses a urease assay reporting nitrogen and is a surrogate for uremic solutes",
-        "Is produced by skeletal muscle at a constant rate and therefore reflects only renal clearance of urea",
-        "Is the most sensitive available marker of early glomerular disease and microalbuminuria",
-        "Reflects only dietary protein intake and is essentially unrelated to renal function or clearance"
+        "Is freely filtered without reabsorption",
+        "Uses urease assay; surrogate for uremic solutes",
+        "Is produced by skeletal muscle at constant rate",
+        "Is the most sensitive marker of early glomerular disease",
+        "Reflects only dietary protein intake"
       ],
       "answer": 1,
       "explanations": [
@@ -216,10 +216,10 @@
       "stem": "A 22-year-old woman presents with dysuria and suprapubic pain. A urine dipstick is performed at point of care. According to the brick, which set of constituents can the urine dipstick directly detect?",
       "choices": [
         "Heme, leukocyte esterase, nitrites, albumin, pH, glucose",
-        "Hyaline casts, urinary crystals, and renal epithelial cells",
-        "Sodium, potassium, chloride, bicarbonate, and calcium",
-        "Quantitative urea, creatinine, and serum uric acid levels",
-        "Eosinophils, lymphocytes, monocytes, and neutrophils"
+        "Hyaline casts, crystals, renal epithelial cells",
+        "Sodium, potassium, chloride, bicarbonate, calcium",
+        "Quantitative urea, creatinine, uric acid",
+        "Eosinophils, lymphocytes, monocytes, neutrophils"
       ],
       "answer": 0,
       "explanations": [
@@ -234,11 +234,11 @@
       "id": 13,
       "stem": "A 35-year-old man with severe flank pain has a urinalysis that shows a urine pH of 8.5 and many magnesium ammonium phosphate crystals. According to the brick, an alkaline urine pH is most classically associated with which type of kidney stone?",
       "choices": [
-        "Calcium oxalate stones from idiopathic hypercalciuria",
-        "Cystine stones in patients with hereditary cystinuria",
-        "Struvite (infection) stones from urease-producing bacteria",
-        "Uric acid stones in patients with chronic gout or hyperuricemia",
-        "Calcium phosphate stones from distal type 1 renal tubular acidosis"
+        "Calcium oxalate stones",
+        "Cystine stones",
+        "Struvite (infection) stones",
+        "Uric acid stones",
+        "Calcium phosphate stones (type 1 RTA)"
       ],
       "answer": 2,
       "explanations": [
@@ -253,11 +253,11 @@
       "id": 14,
       "stem": "A 28-year-old man with sickle cell anemia has a urinalysis showing a specific gravity of 1.008 regardless of hydration status. According to the brick, what does an isotonic specific gravity (around 1.008) most likely represent?",
       "choices": [
-        "Maximally concentrated urine from prolonged water deprivation",
-        "Persistently dilute urine from psychogenic polydipsia",
-        "Isothenuria, as seen in sickle cell anemia",
-        "Severe nephrotic-range proteinuria",
-        "Active proliferative glomerulonephritis"
+        "Maximally concentrated urine",
+        "Persistently dilute urine",
+        "Isothenuria (sickle cell anemia)",
+        "Nephrotic-range proteinuria",
+        "Proliferative glomerulonephritis"
       ],
       "answer": 2,
       "explanations": [
@@ -272,11 +272,11 @@
       "id": 15,
       "stem": "A 19-year-old woman with newly diagnosed type 1 diabetes presents with polyuria, vomiting, and fruity breath. Her urine dipstick is positive for ketones. According to the brick, ketones (acetoacetate and beta-hydroxybutyrate) appear in urine in which two settings?",
       "choices": [
-        "Starvation/fasting and diabetic ketoacidosis",
+        "Starvation/fasting and DKA",
         "Hemolysis and rhabdomyolysis",
         "Pyelonephritis and interstitial nephritis",
         "Multiple myeloma and amyloidosis",
-        "Fanconi syndrome and acute tubular necrosis"
+        "Fanconi syndrome and ATN"
       ],
       "answer": 0,
       "explanations": [
@@ -310,11 +310,11 @@
       "id": 17,
       "stem": "A 55-year-old man with painless jaundice has a urine dipstick positive for bilirubin. According to the brick, bilirubinuria most likely indicates:",
       "choices": [
-        "Active intravascular hemolysis with elevated serum unconjugated bilirubin",
-        "Biliary obstruction or hepatic dysfunction with filtered conjugated bilirubin",
-        "Acute glomerulonephritis with heme leakage across the glomerular basement membrane",
-        "Distal renal tubular acidosis with alkaline urine and impaired acid handling",
-        "Severe dehydration producing markedly concentrated urine with high specific gravity"
+        "Intravascular hemolysis",
+        "Biliary obstruction or hepatic dysfunction",
+        "Acute glomerulonephritis",
+        "Distal renal tubular acidosis",
+        "Severe dehydration"
       ],
       "answer": 1,
       "explanations": [
@@ -329,11 +329,11 @@
       "id": 18,
       "stem": "A 24-year-old man presents with cola-colored urine 10 days after a sore throat. Urine microscopy shows multiple dysmorphic, donut-shaped RBCs with surface blebs (acanthocytes) and an RBC cast. According to the brick, these findings most strongly indicate disease at which site?",
       "choices": [
-        "Bladder mucosa (acute cystitis)",
+        "Bladder mucosa (cystitis)",
         "Glomerulus (glomerulonephritis)",
-        "Prostate gland (acute prostatitis)",
-        "Renal pelvis (obstructing stones)",
-        "Urethra (urethritis or stricture)"
+        "Prostate gland (prostatitis)",
+        "Renal pelvis (stones)",
+        "Urethra (urethritis)"
       ],
       "answer": 1,
       "explanations": [
@@ -348,11 +348,11 @@
       "id": 19,
       "stem": "A 25-year-old man is brought to the ED after being found unconscious. He has muscle pain and dark, tea-colored urine. The urine dipstick is strongly positive for blood, but urine microscopy shows no red blood cells. According to the brick, this combination most likely reflects:",
       "choices": [
-        "ABO transfusion reaction or myoglobinuria from rhabdomyolysis",
-        "Acute glomerulonephritis with dysmorphic RBCs and RBC casts",
-        "Acute pyelonephritis with high-grade pyuria and WBC casts",
-        "Struvite (infection) kidney stones from urease-producing organisms",
-        "Urothelial carcinoma of the bladder presenting with painless hematuria"
+        "ABO transfusion reaction or rhabdomyolysis",
+        "Acute glomerulonephritis",
+        "Acute pyelonephritis",
+        "Struvite kidney stones",
+        "Urothelial carcinoma"
       ],
       "answer": 0,
       "explanations": [
@@ -370,7 +370,7 @@
         "Cystitis and urethritis",
         "Pyelonephritis and interstitial nephritis",
         "Glomerulonephritis and nephrotic syndrome",
-        "Acute tubular necrosis and prerenal azotemia",
+        "ATN and prerenal azotemia",
         "Renal stones and renal cell carcinoma"
       ],
       "answer": 1,
@@ -388,7 +388,7 @@
       "choices": [
         "E. coli (positive); Enterococcus (negative)",
         "Enterococcus (positive); E. coli (negative)",
-        "Staphylococcus aureus (positive); E. coli (negative)",
+        "S. aureus (positive); E. coli (negative)",
         "Candida (positive); Proteus (negative)",
         "Klebsiella (negative); Enterococcus (positive)"
       ],
@@ -405,11 +405,11 @@
       "id": 22,
       "stem": "A 41-year-old man is found unresponsive after drinking a sweet-smelling automotive fluid. Urinalysis shows numerous envelope-shaped and needle-shaped crystals. According to the brick, these crystals are most consistent with which substance, and which other condition shares this crystal type?",
       "choices": [
-        "Calcium oxalate crystals; seen in stones or ethylene glycol toxicity",
-        "Struvite crystals; classically seen in chronic urinary tract infection",
-        "Uric acid crystals; seen with gout, leukemia, or tumor lysis syndrome",
-        "Cystine crystals; pathognomonic for hereditary cystinuria stone disease",
-        "Cholesterol crystals; classically seen in heavy nephrotic syndrome lipiduria"
+        "Calcium oxalate; ethylene glycol toxicity",
+        "Struvite; chronic UTI",
+        "Uric acid; gout or tumor lysis",
+        "Cystine; cystinuria",
+        "Cholesterol; nephrotic lipiduria"
       ],
       "answer": 0,
       "explanations": [
@@ -443,11 +443,11 @@
       "id": 24,
       "stem": "A 63-year-old man with multiple myeloma has a normal urinalysis (negative for protein) and a normal urine albumin-to-creatinine ratio (ACR), but his urine protein-to-creatinine ratio (UPCR) is markedly elevated. According to the brick, this discordance is best explained by which feature of the testing methods?",
       "choices": [
-        "ACR is far more sensitive than UPCR for detecting all forms of urinary protein loss",
-        "Dipstick and ACR detect only albumin; UPCR detects all proteins including light chains",
-        "UPCR can only be performed reliably on a complete 24-hour quantitative urine collection",
-        "The UA dipstick is the single most sensitive available test for any type of urinary protein",
-        "ACR detects only globulins and free urinary light chains rather than albumin itself"
+        "ACR more sensitive than UPCR for all proteins",
+        "Dipstick/ACR detect albumin; UPCR detects all proteins",
+        "UPCR requires 24-hour collection",
+        "Dipstick is the most sensitive protein test",
+        "ACR detects globulins and light chains, not albumin"
       ],
       "answer": 1,
       "explanations": [

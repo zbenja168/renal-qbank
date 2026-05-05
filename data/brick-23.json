@@ -45,11 +45,11 @@
       "id": 4,
       "stem": "A 30-year-old physiology student is reviewing potassium homeostasis. Potassium resides primarily in which compartment, and which protein keeps it there?",
       "choices": [
-        "Extracellular fluid; Na+/K+-ATPase",
-        "Extracellular fluid; ROMK channel",
-        "Intracellular fluid; H+/K+-ATPase",
-        "Intracellular fluid; Na+/K+-ATPase",
-        "Intracellular fluid; epithelial sodium channel (ENaC)"
+        "Extracellular; Na+/K+-ATPase",
+        "Extracellular; ROMK channel",
+        "Intracellular; H+/K+-ATPase",
+        "Intracellular; Na+/K+-ATPase",
+        "Intracellular; ENaC"
       ],
       "answer": 3,
       "explanations": [
@@ -76,7 +76,7 @@
     {
       "id": 6,
       "stem": "A nephrology fellow is teaching a medical student about renal handling of potassium. After filtration at the glomerulus, where in the nephron does most reabsorption of potassium occur?",
-      "choices": ["Proximal tubule", "Thin descending limb", "Thick ascending limb of Henle", "Distal convoluted tubule", "Cortical collecting duct"],
+      "choices": ["Proximal tubule", "Thin descending limb", "Thick ascending limb", "Distal convoluted tubule", "Cortical collecting duct"],
       "answer": 0,
       "explanations": [
         "Correct. The brick states that potassium reabsorption occurs throughout the nephron, but most occurs in the proximal tubule.",
@@ -116,11 +116,11 @@
       "id": 9,
       "stem": "A 60-year-old woman with type 2 diabetes and diabetic nephropathy is found to have a normal anion gap metabolic acidosis with hyperkalemia. Both renin and aldosterone levels are low. This presentation is most consistent with which condition?",
       "choices": [
-        "Type 1 (distal) renal tubular acidosis",
-        "Type 2 (proximal) renal tubular acidosis",
-        "Type IV renal tubular acidosis",
+        "Type 1 (distal) RTA",
+        "Type 2 (proximal) RTA",
+        "Type IV RTA",
         "Diabetic ketoacidosis",
-        "Anion gap metabolic acidosis from lactic acidosis"
+        "Lactic acidosis"
       ],
       "answer": 2,
       "explanations": [
@@ -135,10 +135,10 @@
       "id": 10,
       "stem": "A 75-year-old man with heart failure on lisinopril develops a serum K+ of 5.9 mEq/L. ACE inhibitors and ARBs raise serum potassium primarily by which mechanism?",
       "choices": [
-        "Blocking the Na+/K+-ATPase directly",
-        "Causing rhabdomyolysis",
-        "Inhibiting the synthesis or effects of aldosterone",
-        "Increasing tubular reabsorption of potassium in the proximal tubule",
+        "Direct Na+/K+-ATPase blockade",
+        "Rhabdomyolysis",
+        "Reduced aldosterone activity",
+        "Increased proximal K+ reabsorption",
         "Stimulating renin release"
       ],
       "answer": 2,
@@ -154,11 +154,11 @@
       "id": 11,
       "stem": "A 70-year-old woman with osteoarthritis on chronic ibuprofen develops mild hyperkalemia. Which sequence best explains how NSAIDs raise serum potassium?",
       "choices": [
-        "↑ prostaglandins → ↑ renin → ↑ aldosterone, causing K+ retention",
-        "↓ prostaglandins → ↓ renin → ↓ aldosterone, impairing K+ excretion",
-        "↓ prostaglandins → direct Na+/K+-ATPase inhibition → cellular K+ shift",
-        "↑ prostaglandins → direct collecting-duct ENaC blockade and K+ retention",
-        "↓ thromboxane production → ↑ aldosterone secretion → renal K+ wasting"
+        "Increased prostaglandins, renin, aldosterone",
+        "Decreased prostaglandins, renin, aldosterone",
+        "Decreased prostaglandins, direct ATPase block",
+        "Increased prostaglandins, ENaC blockade",
+        "Decreased thromboxane, increased aldosterone"
       ],
       "answer": 1,
       "explanations": [
@@ -173,10 +173,10 @@
       "id": 12,
       "stem": "A 62-year-old construction worker is extracted after being trapped under rubble for 2 hours. He has extensive crush injuries to both legs, dark tea-colored urine, and a serum K+ of 7.1 mEq/L. The most likely mechanism of his hyperkalemia is which of the following?",
       "choices": [
-        "Decreased insulin causing extracellular K+ shift",
+        "Insulin deficiency",
         "Hypoaldosteronism",
-        "Impaired collecting duct secretion from a K+-sparing diuretic",
-        "Release of intracellular K+ from damaged muscle cells",
+        "K+-sparing diuretic effect",
+        "Rhabdomyolysis",
         "Tumor lysis syndrome"
       ],
       "answer": 3,
@@ -192,11 +192,11 @@
       "id": 13,
       "stem": "A 12-year-old boy with newly diagnosed Burkitt lymphoma is admitted for chemotherapy. Two days after starting treatment he develops a serum K+ of 6.8 mEq/L, phosphate of 7.5 mg/dL, and uric acid of 12 mg/dL. Which mechanism best explains his hyperkalemia?",
       "choices": [
-        "Acute kidney injury from underlying sepsis",
-        "ACE inhibitor effect on aldosterone",
-        "Hyperglycemia-induced transcellular osmotic drag",
-        "Release of intracellular contents from dying tumor cells",
-        "Pseudohyperkalemia from in vitro hemolysis of the sample"
+        "Acute kidney injury",
+        "ACE inhibitor effect",
+        "Hyperglycemic osmotic drag",
+        "Tumor lysis syndrome",
+        "Pseudohyperkalemia"
       ],
       "answer": 3,
       "explanations": [
@@ -224,11 +224,11 @@
       "id": 15,
       "stem": "A 25-year-old man with type 1 diabetes presents with vomiting, polyuria, and a glucose of 620 mg/dL. He is found to be in diabetic ketoacidosis with a serum K+ of 5.8 mEq/L despite being depleted in total body potassium. According to the brick, which combination best explains the elevated serum K+ in DKA?",
       "choices": [
-        "Hyperaldosteronism, metabolic alkalosis, and hypovolemia",
-        "Hyperglycemia-induced osmotic drag, insulin deficiency, and acidemia",
-        "Increased Na+/K+-ATPase activity with concurrent respiratory acidosis",
-        "Chronic NSAID effect, dehydration, and prerenal azotemia",
-        "Pseudohyperkalemia from in vitro hemolysis and tourniquet use"
+        "Hyperaldosteronism, alkalosis, hypovolemia",
+        "Osmotic drag, insulin deficiency, acidemia",
+        "Increased ATPase, respiratory acidosis",
+        "NSAIDs, dehydration, prerenal azotemia",
+        "Pseudohyperkalemia from hemolysis"
       ],
       "answer": 1,
       "explanations": [
@@ -243,11 +243,11 @@
       "id": 16,
       "stem": "A 40-year-old man has blood drawn through a small-bore needle after a prolonged tourniquet. The serum K+ returns at 5.8 mEq/L, but the lab notes the sample is hemolyzed. A repeat clean draw is normal at 4.2 mEq/L. The original abnormal value is best explained by which of the following?",
       "choices": [
-        "Acute kidney injury with impaired K+ excretion",
-        "Hypoaldosteronism from primary adrenal insufficiency",
-        "Pseudohyperkalemia from in vitro red cell rupture",
-        "Acute rhabdomyolysis from unrecognized muscle injury",
-        "Tumor lysis syndrome from occult hematologic malignancy"
+        "Acute kidney injury",
+        "Hypoaldosteronism",
+        "Pseudohyperkalemia",
+        "Acute rhabdomyolysis",
+        "Tumor lysis syndrome"
       ],
       "answer": 2,
       "explanations": [
@@ -262,10 +262,10 @@
       "id": 17,
       "stem": "A 67-year-old woman with end-stage renal disease has an untreated K+ of 7.5 mEq/L. The most serious complications of untreated hyperkalemia include which of the following?",
       "choices": [
-        "Hemorrhagic stroke and intractable focal seizures",
-        "Pulmonary embolism with massive hemoptysis and hypoxia",
-        "Severe hypotension from systemic vasodilation",
-        "Tetany, carpopedal spasm, and laryngospasm",
+        "Hemorrhagic stroke and seizures",
+        "Pulmonary embolism and hemoptysis",
+        "Severe hypotension",
+        "Tetany and laryngospasm",
         "Ventricular tachycardia, bradycardia, asystole"
       ],
       "answer": 4,
@@ -281,11 +281,11 @@
       "id": 18,
       "stem": "A medical student is asked to explain how hyperkalemia changes cellular electrophysiology. In the setting of high extracellular K+, the resting membrane potential becomes:",
       "choices": [
-        "Hyperpolarized (more negative), with increased neuromuscular excitability",
-        "Partially depolarized, inactivating sodium channels",
-        "Unchanged, as Na+/K+-ATPase fully compensates for the gradient shift",
-        "Stabilized by spontaneous opening of voltage-gated calcium channels",
-        "Severely hyperpolarized to below -120 mV with reduced excitability"
+        "Hyperpolarized, with increased excitability",
+        "Partially depolarized, inactivating Na+ channels",
+        "Unchanged",
+        "Stabilized by Ca2+ channel opening",
+        "Severely hyperpolarized below -120 mV"
       ],
       "answer": 1,
       "explanations": [
@@ -300,11 +300,11 @@
       "id": 19,
       "stem": "A 60-year-old man presents to the ED with a serum K+ of 6.8 mEq/L. The classic and earliest characteristic ECG finding of severe hyperkalemia is which of the following?",
       "choices": [
-        "Depressed ST segments with prominent U waves",
+        "ST depression with U waves",
         "Diffuse ST elevation",
-        "Loss of P waves with sinusoidal pattern",
+        "Loss of P waves, sinusoidal pattern",
         "Peaked T waves",
-        "Wide PR interval with delta waves"
+        "Wide PR with delta waves"
       ],
       "answer": 3,
       "explanations": [
@@ -332,11 +332,11 @@
       "id": 21,
       "stem": "A 64-year-old woman with CKD has a routine K+ of 5.3 mEq/L, no symptoms, and a normal ECG. According to the brick, which is the most appropriate initial management?",
       "choices": [
-        "Emergent IV calcium gluconate for membrane stabilization",
-        "Urgent hemodialysis through a central catheter",
-        "Insulin with dextrose to drive K+ intracellularly",
-        "IV fluids, low-K+ diet, and treat the underlying cause",
-        "Sodium polystyrene sulfonate by mouth or enema"
+        "IV calcium gluconate",
+        "Urgent hemodialysis",
+        "Insulin with dextrose",
+        "IV fluids and low-K+ diet",
+        "Sodium polystyrene sulfonate"
       ],
       "answer": 3,
       "explanations": [
@@ -351,11 +351,11 @@
       "id": 22,
       "stem": "A 70-year-old man with K+ of 7.2 mEq/L and peaked T waves on ECG is in the emergency department. According to the brick, what is the immediate next step in management?",
       "choices": [
-        "IV calcium gluconate to stabilize the myocyte membrane",
-        "Intravenous sodium bicarbonate as initial monotherapy",
-        "Place a hemodialysis catheter before initiating any other therapy",
-        "Oral patiromer for definitive K+ removal in the ED",
-        "Stop the patient's lisinopril and observe on telemetry"
+        "IV calcium gluconate",
+        "IV sodium bicarbonate",
+        "Place a hemodialysis catheter",
+        "Oral patiromer",
+        "Stop lisinopril, observe"
       ],
       "answer": 0,
       "explanations": [
@@ -370,11 +370,11 @@
       "id": 23,
       "stem": "A 50-year-old man with severe hyperkalemia is given insulin to lower his K+. The brick recommends co-administering which of the following, and why?",
       "choices": [
-        "Bicarbonate, to correct concurrent metabolic acidosis",
-        "Calcium chloride, to stabilize the cardiac membrane",
-        "Furosemide, to enhance urinary K+ excretion",
-        "Glucose, to prevent insulin-induced hypoglycemia",
-        "Spironolactone, to block aldosterone at the receptor"
+        "Bicarbonate",
+        "Calcium chloride",
+        "Furosemide",
+        "Glucose",
+        "Spironolactone"
       ],
       "answer": 3,
       "explanations": [
@@ -412,7 +412,7 @@
         "Hemodialysis",
         "Inhaled albuterol",
         "Oral patiromer",
-        "Repeat IV calcium gluconate every 30 minutes"
+        "Repeat IV calcium gluconate"
       ],
       "answer": 1,
       "explanations": [

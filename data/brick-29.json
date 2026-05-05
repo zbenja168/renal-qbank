@@ -6,11 +6,11 @@
       "id": 1,
       "stem": "A 32-year-old man is brought to the emergency department after being found intoxicated; he has vomited eight times en route and complains of dizziness and weakness. After IV fluids and cessation of vomiting, his labs are reviewed. Which set of findings is most consistent with his acid-base disorder?",
       "choices": [
-        "High serum pH, high HCO3-, high PaCO2",
-        "High serum pH, high HCO3-, low PaCO2",
-        "High serum pH, low HCO3-, low PaCO2",
-        "Low serum pH, high HCO3-, high PaCO2",
-        "Low serum pH, low HCO3-, low PaCO2"
+        "High pH, high HCO3-, high PaCO2",
+        "High pH, high HCO3-, low PaCO2",
+        "High pH, low HCO3-, low PaCO2",
+        "Low pH, high HCO3-, high PaCO2",
+        "Low pH, low HCO3-, low PaCO2"
       ],
       "answer": 0,
       "explanations": [
@@ -25,11 +25,11 @@
       "id": 2,
       "stem": "A 55-year-old man with congestive heart failure controlled on metoprolol and furosemide presents with 2 days of generalized weakness and cramps. He last took his medications 1 hour before presentation. He is hypotensive with decreased skin turgor and capillary refill >4 seconds. Serum K+ is 2.8 mEq/L. Which additional set of findings is most likely present?",
       "choices": [
-        "High serum pH, high HCO3-, high PaCO2, high urine Cl-",
-        "High serum pH, high HCO3-, high PaCO2, low urine Cl-",
-        "High serum pH, high HCO3-, low PaCO2, low urine Cl-",
-        "High serum pH, low HCO3-, low PaCO2, low urine Cl-",
-        "Low serum pH, low HCO3-, low PaCO2, low urine Cl-"
+        "High pH, high HCO3-, high PaCO2, high urine Cl-",
+        "High pH, high HCO3-, high PaCO2, low urine Cl-",
+        "High pH, high HCO3-, low PaCO2, low urine Cl-",
+        "High pH, low HCO3-, low PaCO2, low urine Cl-",
+        "Low pH, low HCO3-, low PaCO2, low urine Cl-"
       ],
       "answer": 0,
       "explanations": [
@@ -46,9 +46,9 @@
       "choices": [
         "Acetazolamide",
         "Fluid restriction",
-        "Intravenous dilute hydrochloric acid",
-        "Intravenous free water (D5W)",
-        "Intravenous normal saline"
+        "IV dilute hydrochloric acid",
+        "IV D5W",
+        "IV normal saline"
       ],
       "answer": 4,
       "explanations": [
@@ -101,11 +101,11 @@
       "id": 6,
       "stem": "A medical student is asked to explain why a small alkali load (≈100 mmol HCO3-) can sustain metabolic alkalosis even though the kidney filters >4200 mmol of bicarbonate per day. Which statement best explains the maintenance phase?",
       "choices": [
-        "A 2-3% reduction in HCO3- reabsorption is normally beyond the kidney's reserve capacity",
-        "Generation of new bicarbonate occurs only after the maintenance phase has fully begun",
-        "The lung fully corrects pH so the filtered HCO3- accumulates in plasma",
-        "Volume depletion and hypokalemia prevent excretion of the bicarbonate excess",
-        "β-intercalated cells inappropriately secrete HCO3- when stimulated by aldosterone"
+        "Reducing HCO3- reabsorption 2-3% exceeds renal reserve",
+        "New HCO3- generation begins only after maintenance",
+        "The lung fully corrects pH",
+        "Volume depletion and hypokalemia prevent HCO3- excretion",
+        "β-intercalated cells secrete HCO3- via aldosterone"
       ],
       "answer": 3,
       "explanations": [
@@ -120,11 +120,11 @@
       "id": 7,
       "stem": "A 40-year-old woman with bulimia presents with hypokalemia and metabolic alkalosis. Which transporter is most directly responsible for the kidney's inability to excrete the retained bicarbonate?",
       "choices": [
-        "Apical ENaC channels in collecting duct principal cells",
-        "Apical H+/K+-ATPase pumps in α-intercalated cells",
-        "Apical Na+/H+ exchanger (NHE3) in the proximal tubule",
-        "Na+/K+/2Cl- cotransporter (NKCC2) of the thick ascending limb",
-        "Pendrin in β-intercalated cells"
+        "ENaC (principal cells)",
+        "H+/K+-ATPase (α-intercalated cells)",
+        "Na+/H+ exchanger NHE3 (proximal tubule)",
+        "NKCC2 (thick ascending limb)",
+        "Pendrin (β-intercalated cells)"
       ],
       "answer": 4,
       "explanations": [
@@ -139,11 +139,11 @@
       "id": 8,
       "stem": "A 28-year-old woman with chronic vomiting from cyclic vomiting syndrome is found to have metabolic alkalosis. Which gastric component lost in vomitus is most directly responsible for the generation of her alkalosis?",
       "choices": [
-        "Plasma bicarbonate buffer",
-        "Chloride ions in isolation",
+        "Bicarbonate",
+        "Chloride alone",
         "Hydrochloric acid",
-        "Pepsinogen and other proteases",
-        "Sodium, potassium, and water"
+        "Pepsinogen",
+        "Sodium, potassium, water"
       ],
       "answer": 2,
       "explanations": [
@@ -162,7 +162,7 @@
         "Gitelman syndrome",
         "Primary hyperaldosteronism",
         "Recent vomiting",
-        "Surreptitious furosemide use (last dose 5 days ago)"
+        "Remote furosemide use"
       ],
       "answer": 2,
       "explanations": [
@@ -237,7 +237,7 @@
         "Amiloride",
         "Cortisol",
         "Hydrochlorothiazide",
-        "Normal saline infusion",
+        "Normal saline",
         "Spironolactone"
       ],
       "answer": 4,
@@ -255,8 +255,8 @@
       "choices": [
         "Amiloride",
         "Cortisol",
-        "Intravenous saline",
-        "Potassium chloride alone",
+        "IV saline",
+        "Potassium chloride",
         "Spironolactone"
       ],
       "answer": 1,
@@ -272,11 +272,11 @@
       "id": 15,
       "stem": "A patient with prolonged vomiting has activated her renin-angiotensin-aldosterone system due to volume depletion. By what mechanism does aldosterone most directly contribute to maintenance of her metabolic alkalosis?",
       "choices": [
-        "Directly blocks the H+/K+-ATPase pump in α-intercalated cells of the collecting duct",
-        "Potently inhibits the Na+/H+ exchanger throughout the proximal convoluted tubule",
-        "Stimulates principal-cell ENaC, driving α-cell H+ secretion",
-        "Directly stimulates pendrin to secrete additional bicarbonate into the urine",
-        "Suppresses glutamine metabolism and ammoniagenesis in the proximal convoluted tubule"
+        "Blocks H+/K+-ATPase in α-intercalated cells",
+        "Inhibits proximal Na+/H+ exchanger",
+        "Stimulates ENaC, driving α-cell H+ secretion",
+        "Directly stimulates pendrin to secrete HCO3-",
+        "Suppresses proximal glutamine metabolism"
       ],
       "answer": 2,
       "explanations": [
@@ -310,11 +310,11 @@
       "id": 17,
       "stem": "Why does hypokalemia maintain metabolic alkalosis through changes in glutamine metabolism in the proximal tubule?",
       "choices": [
-        "Glutamine breakdown directly consumes bicarbonate while generating excess ammonium ions",
-        "Glutamine breakdown generates additional bicarbonate and ammonium",
-        "Glutamine itself directly inhibits the proximal Na+/H+ exchanger",
-        "Glutamine is preferentially excreted as a base in the urine",
-        "Hypokalemia inhibits proximal glutamine metabolism, sparing filtered bicarbonate"
+        "Glutamine breakdown consumes HCO3-",
+        "Glutamine breakdown generates HCO3- and ammonium",
+        "Glutamine inhibits the Na+/H+ exchanger",
+        "Glutamine is excreted as a urinary base",
+        "Hypokalemia inhibits glutamine metabolism"
       ],
       "answer": 1,
       "explanations": [
@@ -368,10 +368,10 @@
       "stem": "A young woman with hypotension, hypokalemia, and metabolic alkalosis has a urine chloride of 38 mEq/L. She denies vomiting and screening is negative for diuretic use. Which is the most likely diagnosis per the brick's diagnostic algorithm?",
       "choices": [
         "Bartter or Gitelman syndrome",
-        "Liddle syndrome (ENaC mutation)",
-        "Primary hyperaldosteronism (Conn)",
-        "Recent self-induced vomiting",
-        "11β-hydroxylase deficiency (CAH)"
+        "Liddle syndrome",
+        "Primary hyperaldosteronism",
+        "Recent vomiting",
+        "11β-hydroxylase deficiency"
       ],
       "answer": 0,
       "explanations": [
@@ -386,11 +386,11 @@
       "id": 21,
       "stem": "Which statement about respiratory compensation in metabolic alkalosis is most accurate based on the brick?",
       "choices": [
-        "Pulmonary compensation fully normalizes the systemic arterial pH given enough time",
-        "The brainstem respiratory center reflexively hyperventilates to compensate",
-        "Hypoventilation raises PaCO2 but only partially corrects pH",
-        "The respiratory center is not involved in acid-base compensation at all",
-        "Compensation occurs primarily through brisk renal HCO3- excretion"
+        "Pulmonary compensation fully normalizes pH",
+        "Brainstem reflexively hyperventilates",
+        "Hypoventilation raises PaCO2, partially correcting pH",
+        "Respiratory center is uninvolved",
+        "Compensation occurs via brisk renal HCO3- excretion"
       ],
       "answer": 2,
       "explanations": [
@@ -405,11 +405,11 @@
       "id": 22,
       "stem": "A 35-year-old woman with bulimia presents with metabolic alkalosis. Through which pathway does volume depletion most directly increase proximal tubular bicarbonate reabsorption per the brick?",
       "choices": [
-        "Direct activation of pendrin by circulating angiotensin II in the cortical collecting duct",
-        "Aldosterone-driven activation of NCC throughout the distal convoluted tubule segment",
-        "Profound inhibition of carbonic anhydrase activity in the proximal convoluted tubule",
-        "RAAS-driven Na+/H+ exchanger activity in the proximal tubule",
-        "Vasopressin-driven aquaporin-2 insertion throughout the collecting duct epithelium"
+        "Angiotensin II activates pendrin",
+        "Aldosterone activates NCC",
+        "Carbonic anhydrase inhibition",
+        "RAAS-driven Na+/H+ exchanger activity",
+        "Vasopressin-driven aquaporin-2 insertion"
       ],
       "answer": 3,
       "explanations": [
@@ -424,11 +424,11 @@
       "id": 23,
       "stem": "A patient with metabolic alkalosis from vomiting is being treated with normal saline. Which two effects of saline directly correct the alkalosis per the brick?",
       "choices": [
-        "Acidifies the blood by directly infusing free H+ ions and diluting circulating HCO3-",
-        "Restores volume (turning off RAAS) and supplies Cl- for pendrin function",
-        "Provides exogenous bicarbonate to buffer the systemic free H+ excess",
-        "Stimulates collecting-duct ENaC channels and increases distal K+ secretion",
-        "Directly suppresses the H+/K+-ATPase in α-intercalated cells via simple volume expansion"
+        "Infuses H+ and dilutes HCO3-",
+        "Restores volume and supplies Cl- for pendrin",
+        "Provides exogenous bicarbonate buffer",
+        "Stimulates ENaC and distal K+ secretion",
+        "Suppresses H+/K+-ATPase via volume expansion"
       ],
       "answer": 1,
       "explanations": [
@@ -443,11 +443,11 @@
       "id": 24,
       "stem": "A patient with chloride-responsive metabolic alkalosis attributable to ongoing thiazide use has a serum K+ of 2.6 mEq/L. According to the brick, which is the most appropriate next step in management?",
       "choices": [
-        "Continue the thiazide diuretic and add adjunctive acetazolamide therapy",
-        "Give a slow infusion of intravenous dilute hydrochloric acid",
-        "Restrict free water intake and simply observe over 24 hours",
-        "Stop the diuretic, give saline, and replace potassium",
-        "Switch the thiazide to a higher-dose loop diuretic such as furosemide"
+        "Continue thiazide, add acetazolamide",
+        "IV dilute hydrochloric acid",
+        "Restrict free water and observe",
+        "Stop diuretic, give saline, replace potassium",
+        "Switch to high-dose furosemide"
       ],
       "answer": 3,
       "explanations": [
@@ -462,11 +462,11 @@
       "id": 25,
       "stem": "Why does a patient with vomiting-induced volume depletion have impaired bicarbonate excretion through the pendrin transporter?",
       "choices": [
-        "Circulating aldosterone directly inhibits pendrin transporter activity",
-        "Profound hypokalemia destroys collecting-duct β-intercalated cells",
-        "Low luminal chloride deprives pendrin of its substrate",
-        "Pendrin is selectively downregulated in response to systemic low blood pH",
-        "Profound volume depletion completely blocks the apical H+/K+-ATPase pump"
+        "Aldosterone directly inhibits pendrin",
+        "Hypokalemia destroys β-intercalated cells",
+        "Low luminal chloride deprives pendrin of substrate",
+        "Pendrin is downregulated by low blood pH",
+        "Volume depletion blocks H+/K+-ATPase"
       ],
       "answer": 2,
       "explanations": [
