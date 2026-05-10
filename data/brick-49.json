@@ -1,0 +1,481 @@
+{
+  "id": 49,
+  "title": "Diabetic Kidney Disease",
+  "questions": [
+    {
+      "id": 1,
+      "stem": "A 49-year-old man with a 15-year history of poorly controlled type 2 diabetes presents for follow-up. His HbA1c is persistently elevated, BP is 142/94 mm Hg, and his urine albumin/creatinine ratio is elevated. Diabetic kidney disease is best classified as which type of complication?",
+      "choices": [
+        "Macrovascular complication",
+        "Microvascular complication",
+        "Autoimmune complication",
+        "Infectious complication",
+        "Neoplastic complication"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Macrovascular complications include MI and stroke, not DKD.",
+        "Correct. DKD is a microvascular complication of diabetes that produces a progressive chronic kidney disease.",
+        "Incorrect. DKD is not autoimmune; it is driven by chronic hyperglycemia.",
+        "Incorrect. DKD is not an infectious process.",
+        "Incorrect. DKD is not a neoplastic complication."
+      ]
+    },
+    {
+      "id": 2,
+      "stem": "A nephrology clinic reports that the largest single group of patients starting dialysis or receiving kidney transplants has the same underlying disease. Which is the most common cause of end-stage kidney disease in the United States?",
+      "choices": [
+        "Hypertension",
+        "Polycystic kidney disease",
+        "Diabetic kidney disease",
+        "Glomerulonephritis",
+        "Obstructive uropathy"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Hypertension contributes but DKD is the most common cause.",
+        "Incorrect. PKD accounts for a much smaller share of ESKD.",
+        "Correct. DKD is by far the most common reason patients in the US start dialysis or receive a kidney transplant.",
+        "Incorrect. Glomerulonephritis is less common than DKD as a cause of ESKD.",
+        "Incorrect. Obstructive uropathy is not a leading cause of ESKD."
+      ]
+    },
+    {
+      "id": 3,
+      "stem": "A primary care physician counsels a patient with new type 2 diabetes about the risk of kidney complications. According to the brick, approximately what proportion of patients with diabetes mellitus eventually develop diabetic kidney disease?",
+      "choices": [
+        "1% to 5%",
+        "10% to 15%",
+        "25% to 30%",
+        "50% to 60%",
+        "Greater than 75%"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. This underestimates the risk cited in the brick.",
+        "Incorrect. This is below the proportion the brick gives.",
+        "Correct. Approximately 25% to 30% of patients with diabetes mellitus develop diabetic kidney disease.",
+        "Incorrect. This overestimates the proportion cited in the brick.",
+        "Incorrect. This vastly overestimates the proportion cited in the brick."
+      ]
+    },
+    {
+      "id": 4,
+      "stem": "A 60-year-old man with newly diagnosed type 2 diabetes asks how he might first know he has kidney involvement. According to the brick, how do most patients with early diabetic kidney disease present?",
+      "choices": [
+        "Asymptomatic",
+        "Severe edema and dyspnea",
+        "Uremic encephalopathy",
+        "Gross hematuria",
+        "New-onset abdominal pain"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Patients with early DKD are typically asymptomatic for years, with disease detected on routine urine or blood testing.",
+        "Incorrect. Edema occurs only with advanced disease, not early DKD.",
+        "Incorrect. Uremic symptoms occur only at end-stage disease.",
+        "Incorrect. Gross hematuria is not a typical presentation of DKD.",
+        "Incorrect. Flank pain is not characteristic of DKD."
+      ]
+    },
+    {
+      "id": 5,
+      "stem": "A 30-year-old woman with type 1 diabetes diagnosed in childhood asks how soon she might develop kidney problems. According to the brick, after how many years of known type 1 diabetes does diabetic kidney disease typically appear?",
+      "choices": [
+        "Within 1 year",
+        "After at least 2 years",
+        "After at least 3 years",
+        "After at least 5 years",
+        "After at least 20 years"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. DKD does not appear within the first year of type 1 diabetes.",
+        "Incorrect. Below the brick's stated latency.",
+        "Incorrect. Below the brick's stated latency.",
+        "Correct. In type 1 diabetes, renal disease typically develops after at least 5 years of known disease, with onset dated precisely from the initial DKA.",
+        "Incorrect. This greatly overestimates the typical latency."
+      ]
+    },
+    {
+      "id": 6,
+      "stem": "A 55-year-old man is found to have diabetic kidney disease at the same visit he is first diagnosed with type 2 diabetes. Why can DKD be present at diagnosis in type 2 but not in type 1 diabetes?",
+      "choices": [
+        "Type 2 diabetes is autoimmune",
+        "Type 1 lacks glomerular hypertrophy",
+        "Type 2 hyperglycemia is often occult",
+        "Type 2 spares the basement membrane",
+        "Type 1 has lower peak glucose levels"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Type 1, not type 2, is autoimmune.",
+        "Incorrect. Glomerular hypertrophy is seen in both type 1 and type 2 DKD.",
+        "Correct. In type 2 diabetes, hyperglycemia often goes unrecognized for years before diagnosis, so renal disease may already be present at presentation.",
+        "Incorrect. Type 2 DKD also damages the GBM.",
+        "Incorrect. Glucose levels are not systematically lower in type 1 disease."
+      ]
+    },
+    {
+      "id": 7,
+      "stem": "A 58-year-old woman with type 2 diabetes is found on early imaging to have larger-than-normal kidneys, with an elevated GFR despite long-standing hyperglycemia. Which mechanism best explains this early stage finding?",
+      "choices": [
+        "Healthy kidneys",
+        "Sclerosis of the glomerulus",
+        "Vasoconstriction of the afferent arteriole",
+        "Vasoconstriction of the efferent arteriole",
+        "Renal artery stenosis"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. The elevated GFR is pathologic hyperfiltration, not a sign of healthy kidneys.",
+        "Incorrect. Sclerosis lowers GFR; this patient has elevated GFR from hyperfiltration.",
+        "Incorrect. Afferent constriction would reduce glomerular flow and GFR.",
+        "Correct. Early DKD activates RAAS, preferentially constricting the efferent arteriole; this raises intraglomerular pressure, GFR, and produces glomerular hypertrophy.",
+        "Incorrect. Renal artery stenosis reduces renal perfusion and is not the brick's explanation for early DKD hyperfiltration."
+      ]
+    },
+    {
+      "id": 8,
+      "stem": "A 52-year-old woman with poorly controlled diabetes is started on an ACE inhibitor for early diabetic kidney disease. Through which renal hemodynamic effect do ACE inhibitors slow DKD progression?",
+      "choices": [
+        "Constrict the afferent arteriole",
+        "Vasodilate the efferent arteriole",
+        "Increase intraglomerular pressure",
+        "Block the Na+/K+/2Cl- cotransporter",
+        "Inhibit nonenzymatic glycation"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Afferent constriction would reduce renal perfusion, not the mechanism of ACE inhibitors.",
+        "Correct. ACE inhibitors vasodilate the efferent arteriole, reducing intraglomerular pressure, hyperfiltration, and proteinuria.",
+        "Incorrect. ACE inhibitors lower intraglomerular pressure rather than raise it.",
+        "Incorrect. That is the mechanism of loop diuretics.",
+        "Incorrect. ACE inhibitors do not directly inhibit nonenzymatic glycation."
+      ]
+    },
+    {
+      "id": 9,
+      "stem": "A 65-year-old man with chronic hyperglycemia has stiffened, dysfunctional proteins accumulating in glomerular structures. Which biochemical process drives this and is independent of any enzyme?",
+      "choices": [
+        "Aldose reductase activity",
+        "Apoptosis",
+        "Complement activation",
+        "Nonenzymatic glycation",
+        "Lipid peroxidation"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Aldose reductase is enzymatic and is not the brick's central mechanism.",
+        "Incorrect. Apoptosis is regulated cell death, not the protein-modifying chemistry described here.",
+        "Incorrect. The brick does not implicate complement in DKD pathogenesis.",
+        "Correct. Nonenzymatic glycation is a spontaneous, mass-action binding of glucose to long-lived proteins, producing structural and functional damage in vessels and the extracellular matrix.",
+        "Incorrect. Lipid peroxidation is not the mechanism the brick highlights."
+      ]
+    },
+    {
+      "id": 10,
+      "stem": "A 48-year-old woman with type 2 diabetes has an HbA1c of 9.2%. Her physician explains that this lab reflects the same chemical process that drives much of her diabetic complications. Hemoglobin A1c is a direct product of which process?",
+      "choices": [
+        "Enzymatic phosphorylation",
+        "Oxidative deamination",
+        "Proteolytic cleavage",
+        "Disulfide bond formation",
+        "Nonenzymatic glycation"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. HbA1c is not formed by enzymatic phosphorylation.",
+        "Incorrect. Oxidative deamination is unrelated to HbA1c formation.",
+        "Incorrect. Proteolysis does not generate HbA1c.",
+        "Incorrect. Disulfide bonds are not how HbA1c forms.",
+        "Correct. HbA1c reflects nonenzymatic glycation of hemoglobin and rises with sustained hyperglycemia, mirroring the same process that damages renal proteins."
+      ]
+    },
+    {
+      "id": 11,
+      "stem": "A 60-year-old man with chronic hyperglycemia has elevated AGEs that bind RAGE receptors on glomerular and immune cells. Which downstream consequence drives much of the inflammation and fibrosis of DKD?",
+      "choices": [
+        "Reduced cytokine secretion",
+        "Decreased reactive oxygen species",
+        "Glomerular capillary shrinkage",
+        "TGF-beta and mesangial expansion",
+        "Suppression of macrophage influx"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. RAGE binding increases, not reduces, cytokine secretion.",
+        "Incorrect. Reactive oxygen species rise, not fall, with AGE-RAGE signaling.",
+        "Incorrect. Glomeruli hypertrophy in early DKD rather than shrink.",
+        "Correct. AGE-RAGE binding releases TGF-beta and other cytokines, driving mesangial cell proliferation, mesangial matrix expansion, and the nodular glomerular changes of DKD.",
+        "Incorrect. Macrophage influx increases as part of the inflammatory response."
+      ]
+    },
+    {
+      "id": 12,
+      "stem": "A renal biopsy from a long-standing diabetic shows spherical, eosinophilic deposits of hyaline material in the glomeruli composed of basement-membrane-like extracellular matrix. What are these structures called?",
+      "choices": [
+        "Crescents",
+        "Kimmelstiel-Wilson nodules",
+        "Spike-and-dome deposits",
+        "Wire-loop lesions",
+        "Tram-track basement membranes"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Crescents are seen in rapidly progressive glomerulonephritis.",
+        "Correct. Kimmelstiel-Wilson nodules are eosinophilic, spherical deposits of extracellular matrix that form in advanced diabetic glomerulosclerosis.",
+        "Incorrect. Spike-and-dome is the classic finding of membranous nephropathy.",
+        "Incorrect. Wire-loop lesions are characteristic of lupus nephritis.",
+        "Incorrect. Tram-track basement membranes are seen in MPGN, not DKD."
+      ]
+    },
+    {
+      "id": 13,
+      "stem": "A renal biopsy in a poorly controlled diabetic shows thickened arteriolar walls with a glassy pink appearance and luminal narrowing. The pathologist also notes that this finding can be seen in chronic hypertension. Which lesion is being described?",
+      "choices": [
+        "Fibrinoid necrosis",
+        "Hyaline arteriolosclerosis",
+        "Cholesterol emboli",
+        "Granulomatous vasculitis",
+        "Thrombotic microangiopathy"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Fibrinoid necrosis is seen in malignant hypertension and vasculitis, not the glassy thickening described.",
+        "Correct. Hyaline arteriolosclerosis is the glassy, protein-rich thickening of arteriolar walls seen in both diabetes and hypertension; the two synergize to accelerate nephropathy.",
+        "Incorrect. Cholesterol emboli show needle-shaped clefts in vessel lumens.",
+        "Incorrect. Granulomatous vasculitis is not the lesion described.",
+        "Incorrect. Thrombotic microangiopathy shows fibrin thrombi, not hyaline thickening."
+      ]
+    },
+    {
+      "id": 14,
+      "stem": "A renal biopsy from a patient with diabetic nephropathy is examined by immunofluorescence microscopy. Which staining pattern is most characteristic?",
+      "choices": [
+        "Granular IgG and C3 deposits",
+        "Linear IgG along the GBM",
+        "Mesangial IgA deposits",
+        "Linear C3 along tubular basement membranes",
+        "Negative immunofluorescence (pauci-immune)"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Granular IgG/C3 is characteristic of immune-complex glomerulonephritides, not DKD.",
+        "Correct. Diabetic nephropathy classically shows linear accentuation of GBM staining for IgG without significant C3 or crescents, a pattern that mimics anti-GBM disease but is distinguished by the clinical history.",
+        "Incorrect. Mesangial IgA suggests IgA nephropathy.",
+        "Incorrect. Linear C3 along tubular basement membranes is not the DKD pattern.",
+        "Incorrect. Pauci-immune staining suggests ANCA-associated vasculitis."
+      ]
+    },
+    {
+      "id": 15,
+      "stem": "A 50-year-old man with type 2 diabetes has an annual screening urine albumin/creatinine ratio. According to the brick, what is the threshold above which albuminuria is considered abnormal and suggestive of DKD?",
+      "choices": [
+        "Greater than 5 mg/g",
+        "Greater than 10 mg/g",
+        "Greater than 30 mg/g",
+        "Greater than 300 mg/g",
+        "Greater than 3500 mg/g"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Below the brick's abnormal threshold.",
+        "Incorrect. Below the brick's abnormal threshold.",
+        "Correct. Albuminuria above 30 mg/g on a spot ACR (or >30 mg/24 h) is the brick's threshold for abnormal albumin excretion suggestive of DKD.",
+        "Incorrect. ACR >300 mg/g indicates more advanced disease with worse prognosis, not the initial abnormal threshold.",
+        "Incorrect. ACR >3500 mg/g is the nephrotic-range threshold."
+      ]
+    },
+    {
+      "id": 16,
+      "stem": "A medical student suggests using a routine urine dipstick to screen all diabetic patients for early DKD. According to the brick, why is this approach inadequate?",
+      "choices": [
+        "Dipstick misses microalbuminuria",
+        "Dipstick reads only protein in cells",
+        "Dipstick requires fresh urine",
+        "Dipstick falsely elevates with glucose",
+        "Dipstick measures only creatinine"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. The standard urine dipstick is too insensitive to detect microalbuminuria, so it cannot substitute for the urine albumin/creatinine ratio in DKD screening.",
+        "Incorrect. Dipsticks measure protein in solution, not in cells; sensitivity is the issue.",
+        "Incorrect. Specimen freshness is not the cited reason.",
+        "Incorrect. The brick does not cite glucose as a confounder of albumin detection.",
+        "Incorrect. Dipsticks measure protein, not creatinine."
+      ]
+    },
+    {
+      "id": 17,
+      "stem": "A 55-year-old woman with type 2 diabetes has an albumin/creatinine ratio of 4500 mg/g and 3+ edema. Her ACR has crossed which clinically important threshold?",
+      "choices": [
+        "Microalbuminuria",
+        "Normal albumin excretion range",
+        "Nephrotic-range proteinuria",
+        "Bence-Jones light-chain proteinuria",
+        "Benign postural proteinuria"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Microalbuminuria is far below this level.",
+        "Incorrect. ACR >30 mg/g is already abnormal.",
+        "Correct. ACR >3500 mg/g defines nephrotic-range proteinuria; values >300 mg/g already carry a far worse prognosis.",
+        "Incorrect. Bence-Jones proteins are light chains seen in plasma cell dyscrasias.",
+        "Incorrect. Postural proteinuria is a benign finding unrelated to DKD."
+      ]
+    },
+    {
+      "id": 18,
+      "stem": "A 68-year-old man with type 2 diabetes has a normal urine albumin/creatinine ratio but a serum creatinine that yields an eGFR of 45 mL/min/1.73 m^2 sustained for over 3 months. He has no other apparent cause of CKD. According to the brick, what is the most likely diagnosis?",
+      "choices": [
+        "Healthy kidneys for age",
+        "Acute kidney injury",
+        "Diabetic kidney disease",
+        "Polycystic kidney disease",
+        "Membranous nephropathy"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. eGFR <60 sustained over 3 months is abnormal and meets CKD criteria.",
+        "Incorrect. AKI is acute and would not persist by definition for >3 months as DKD does.",
+        "Correct. A sustained eGFR <60 mL/min/1.73 m^2 in a diabetic without another evident cause most likely represents DKD even when albuminuria is absent.",
+        "Incorrect. PKD presents with cysts and family history, not isolated eGFR decline in a diabetic.",
+        "Incorrect. Membranous nephropathy presents with heavy proteinuria, not low eGFR with normal ACR."
+      ]
+    },
+    {
+      "id": 19,
+      "stem": "A 55-year-old man with long-standing type 2 diabetes is being monitored. According to the brick, which two electrolyte-related complications are diabetics particularly at risk for and should prompt regular electrolyte panels?",
+      "choices": [
+        "Hypokalemia and metabolic alkalosis",
+        "Hyperkalemia and type 4 RTA",
+        "Hypocalcemia and hypoparathyroidism",
+        "Hyponatremia and SIADH",
+        "Hypomagnesemia and Gitelman syndrome"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. DKD trends toward hyperkalemia, not hypokalemia.",
+        "Correct. Patients with DKD are at risk for hyperkalemia and type 4 (hyporeninemic hypoaldosteronism) RTA, so serum electrolytes should be drawn regularly.",
+        "Incorrect. Hypoparathyroidism is not the cited DKD risk.",
+        "Incorrect. SIADH is not specifically associated with DKD.",
+        "Incorrect. Gitelman syndrome is a genetic tubulopathy unrelated to DKD."
+      ]
+    },
+    {
+      "id": 20,
+      "stem": "A 50-year-old woman with newly diagnosed type 2 diabetes has classic clinical and laboratory features of diabetic kidney disease. According to the brick, when is renal biopsy indicated in this patient?",
+      "choices": [
+        "Routinely at diagnosis",
+        "Only if eGFR is normal",
+        "Only with atypical features",
+        "Whenever an ACE inhibitor is started",
+        "Only after dialysis begins"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Renal biopsy is not part of routine DKD evaluation.",
+        "Incorrect. Normal eGFR is not the trigger for biopsy.",
+        "Correct. Biopsy is reserved for atypical cases (eg, sudden edema, heavy proteinuria) where another glomerular disease is suspected, since DKD has a classic clinical presentation.",
+        "Incorrect. Starting an ACE inhibitor does not require biopsy.",
+        "Incorrect. Biopsy is not indicated solely because dialysis has started."
+      ]
+    },
+    {
+      "id": 21,
+      "stem": "A 45-year-old man with type 2 diabetes and an HbA1c of 9.5% is counseled on glycemic targets. According to the brick, what is the recommended HbA1c goal for most patients to slow DKD progression?",
+      "choices": [
+        "<5.0%",
+        "<6.0%",
+        "<7.0%",
+        "<8.0%",
+        "<9.0%"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. <5.0% is below the normal range and risks hypoglycemia.",
+        "Incorrect. The brick cites a higher target.",
+        "Correct. Most patients with diabetes should target HbA1c <7.0% to limit nonenzymatic glycation and slow DKD.",
+        "Incorrect. <8.0% is above the brick's recommended target.",
+        "Incorrect. <9.0% is far above the recommended target."
+      ]
+    },
+    {
+      "id": 22,
+      "stem": "A 60-year-old man with type 2 diabetes and albuminuria of 350 mg/g and an eGFR of 55 mL/min/1.73 m^2 is started on a new agent for renal protection. According to the brick, which class is recommended in DKD because it slows progression and reduces heart failure hospitalization independent of glucose lowering?",
+      "choices": [
+        "Sulfonylurea",
+        "DPP-4 inhibitor",
+        "SGLT2 inhibitor",
+        "Alpha-glucosidase inhibitor",
+        "Thiazolidinedione"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Sulfonylureas lower glucose but do not provide the cited renal/cardiac protection.",
+        "Incorrect. DPP-4 inhibitors are not highlighted as renoprotective in DKD by this brick.",
+        "Correct. SGLT2 inhibitors (eg, empagliflozin, canagliflozin, dapagliflozin) reduce DKD progression and heart failure hospitalization independent of glucose lowering and are indicated when ACR >30 mg/g or eGFR is reduced.",
+        "Incorrect. Alpha-glucosidase inhibitors do not provide DKD-specific protection.",
+        "Incorrect. TZDs may worsen heart failure rather than reduce hospitalization."
+      ]
+    },
+    {
+      "id": 23,
+      "stem": "A 58-year-old man with type 2 diabetes, atherosclerotic cardiovascular disease, and obesity has persistent hyperglycemia despite metformin and an SGLT2 inhibitor. According to the brick, which additional class is particularly useful and provides cardiovascular and renal benefit?",
+      "choices": [
+        "Long-acting basal insulin",
+        "Loop diuretic",
+        "Beta-blocker",
+        "GLP-1 agonist",
+        "High-intensity statin"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Insulin lowers glucose but the brick highlights GLP-1 agonists for added CV/renal benefit in this scenario.",
+        "Incorrect. Loop diuretics treat volume overload but do not specifically slow DKD.",
+        "Incorrect. Beta-blockers are not the agent the brick adds for renal protection.",
+        "Correct. GLP-1 receptor agonists (eg, semaglutide, liraglutide, dulaglutide) reduce major adverse cardiovascular events and slow albuminuria progression and are often combined with SGLT2 inhibitors for additive protection.",
+        "Incorrect. Statins reduce CV risk but are not the class highlighted for albuminuria progression here."
+      ]
+    },
+    {
+      "id": 24,
+      "stem": "A 62-year-old woman with type 2 diabetes has a clinic blood pressure of 145/92 mm Hg. According to the brick, what is the target blood pressure to slow diabetic kidney disease?",
+      "choices": [
+        "<150/90 mm Hg",
+        "<140/90 mm Hg",
+        "<130/80 mm Hg",
+        "<120/70 mm Hg",
+        "<110/60 mm Hg"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Above the brick's stricter target for DKD.",
+        "Incorrect. Above the brick's stricter target for DKD.",
+        "Correct. In DKD, blood pressure should be <130 systolic and <80 diastolic; hypertension and diabetes act synergistically through hyaline arteriolosclerosis to accelerate nephropathy.",
+        "Incorrect. Below the brick's recommended target.",
+        "Incorrect. Below the brick's recommended target and risks hypoperfusion."
+      ]
+    },
+    {
+      "id": 25,
+      "stem": "A 65-year-old woman with type 2 diabetes has persistent albuminuria of 600 mg/g despite maximum-dose lisinopril and empagliflozin. According to the brick, which agent can be added to further reduce CKD progression by blocking aldosterone-driven inflammation and fibrosis?",
+      "choices": [
+        "Spironolactone",
+        "Eplerenone",
+        "Amiloride",
+        "Hydrochlorothiazide",
+        "Finerenone"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. Spironolactone is a steroidal MRA but is not the agent the brick highlights for DKD progression.",
+        "Incorrect. Eplerenone is a steroidal MRA; the brick specifies the nonsteroidal agent.",
+        "Incorrect. Amiloride blocks ENaC but does not reduce DKD progression.",
+        "Incorrect. Thiazides treat hypertension but are not the brick's add-on for residual albuminuria.",
+        "Correct. Finerenone is the only available nonsteroidal mineralocorticoid receptor antagonist and is indicated to reduce CKD progression in patients with persistent albuminuria >30 mg/g despite ACE inhibitor/ARB and SGLT2 inhibitor therapy."
+      ]
+    }
+  ]
+}

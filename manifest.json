@@ -38,6 +38,22 @@
     { "id": 36, "title": "End-Stage Kidney Disease and Kidney Replacement Therapy", "available": true },
     { "id": 37, "title": "Renal Laboratory Tests", "available": true },
     { "id": 38, "title": "Renal Imaging", "available": true },
-    { "id": 39, "title": "Hematuria", "available": true }
+    { "id": 39, "title": "Hematuria", "available": true },
+    { "id": 40, "title": "Nephrotic Syndrome", "available": true },
+    { "id": 41, "title": "Minimal Change Disease", "available": true },
+    { "id": 42, "title": "Focal Segmental Glomerulosclerosis", "available": true },
+    { "id": 43, "title": "Membranoproliferative Glomerulonephritis", "available": true },
+    { "id": 44, "title": "Membranous Nephropathy", "available": true },
+    { "id": 45, "title": "Nephritic Syndrome", "available": true },
+    { "id": 46, "title": "Postinfectious Glomerulonephritis", "available": true },
+    { "id": 47, "title": "Anti-GBM Disease (Goodpasture Syndrome)", "available": true },
+    { "id": 48, "title": "Alport Syndrome", "available": true },
+    { "id": 49, "title": "Diabetic Kidney Disease", "available": true },
+    { "id": 50, "title": "Acute Tubular Necrosis", "available": true },
+    { "id": 51, "title": "Acute Interstitial Nephritis", "available": true },
+    { "id": 52, "title": "Renal Papillary Necrosis", "available": true },
+    { "id": 53, "title": "Cystitis and Pyelonephritis", "available": true },
+    { "id": 54, "title": "Renal Stones", "available": true },
+    { "id": 55, "title": "Renal: Schistosomiasis", "available": true }
   ]
 }

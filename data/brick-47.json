@@ -1,0 +1,475 @@
+{
+  "id": 47,
+  "title": "Anti-GBM Disease (Goodpasture Syndrome)",
+  "questions": [
+    {
+      "id": 1,
+      "stem": "A 37-year-old man presents with three weeks of hemoptysis and gross hematuria. Renal biopsy reveals crescentic glomerulonephritis. Anti-GBM disease is suspected. Anti-GBM disease is best classified as which type of disorder?",
+      "choices": [
+        "Infection-driven glomerulonephritis",
+        "Paraneoplastic syndrome",
+        "Primary autoimmune disease",
+        "Drug-induced vasculitis",
+        "Hereditary basement membrane defect"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Anti-GBM disease does not arise secondary to infection.",
+        "Incorrect. It is not associated with an underlying malignancy.",
+        "Correct. Anti-GBM disease is a rare primary autoimmune disorder, considered a primary glomerular disease because it does not arise secondary to infection, cancer, or systemic disease.",
+        "Incorrect. The brick does not describe drug exposure as the cause.",
+        "Incorrect. Although type IV collagen is the antigen, the disorder is autoimmune, not inherited."
+      ]
+    },
+    {
+      "id": 2,
+      "stem": "A 28-year-old woman with hemoptysis is found to have rapidly rising creatinine and hematuria. Anti-GBM disease is on the differential. Anti-GBM disease belongs to which group of disorders that involve both kidney and lung?",
+      "choices": [
+        "Pulmonary-renal syndromes",
+        "Cardiorenal syndromes",
+        "Hepatorenal syndromes",
+        "Tubulointerstitial syndromes",
+        "Nephrotic syndromes"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Anti-GBM disease is one of the pulmonary-renal syndromes, which cause disease in both the lungs and kidneys.",
+        "Incorrect. Cardiorenal syndromes involve heart-kidney interactions, not lung-kidney.",
+        "Incorrect. Hepatorenal syndrome involves liver disease leading to kidney failure.",
+        "Incorrect. Tubulointerstitial syndromes affect renal tubules, not lung-kidney.",
+        "Incorrect. Anti-GBM disease classically presents with nephritic, not nephrotic, syndrome."
+      ]
+    },
+    {
+      "id": 3,
+      "stem": "A 26-year-old male smoker presents with hemoptysis, hematuria, and acute kidney injury. Anti-GBM antibodies target which specific antigen?",
+      "choices": [
+        "Alpha 3 chain, type IV collagen",
+        "Type III collagen of mesangium",
+        "Phospholipase A2 receptor (PLA2R)",
+        "Double-stranded DNA in nucleus",
+        "Proteinase 3 in neutrophils"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Anti-GBM antibodies form against the alpha 3 chain of type IV collagen present in the basement membranes of glomeruli and pulmonary alveoli.",
+        "Incorrect. Type III collagen is not the anti-GBM antigen.",
+        "Incorrect. PLA2R is the antigen in primary membranous nephropathy.",
+        "Incorrect. Anti-dsDNA is the autoantibody of lupus nephritis.",
+        "Incorrect. Proteinase 3 is targeted in granulomatosis with polyangiitis (c-ANCA)."
+      ]
+    },
+    {
+      "id": 4,
+      "stem": "An immunology lecture covers the mechanism by which anti-GBM antibodies damage glomerular and alveolar tissue. Anti-GBM disease is an example of which type of hypersensitivity reaction?",
+      "choices": [
+        "Type I (immediate)",
+        "Type V (stimulatory)",
+        "Type III (immune complex)",
+        "Type IV (delayed)",
+        "Type II (cytotoxic)"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. Type I is IgE-mediated (e.g., anaphylaxis).",
+        "Incorrect. Type V (stimulatory) reactions are not implicated in anti-GBM disease.",
+        "Incorrect. Type III involves circulating immune complexes (e.g., postinfectious GN, lupus); anti-GBM has linear, not granular, deposition.",
+        "Incorrect. Type IV is T cell-mediated (e.g., contact dermatitis).",
+        "Correct. Anti-GBM disease is a type II hypersensitivity reaction, in which IgG antibodies attack cellular or extracellular matrix antigens, producing cell and tissue damage."
+      ]
+    },
+    {
+      "id": 5,
+      "stem": "A 25-year-old man and a 65-year-old woman are both diagnosed with anti-GBM disease. Which presentation is more typical of the younger patient?",
+      "choices": [
+        "Isolated glomerulonephritis",
+        "Nephrotic syndrome",
+        "Asymptomatic proteinuria",
+        "Pulmonary hemorrhage",
+        "Tubular acidosis"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Isolated glomerulonephritis is more common in older patients (>50 years).",
+        "Incorrect. Nephrotic-range proteinuria is not characteristic of anti-GBM disease.",
+        "Incorrect. Anti-GBM disease typically presents with active nephritic features, not asymptomatic proteinuria.",
+        "Correct. Younger patients (<30 years) are more likely to present with pulmonary hemorrhage, while older patients (>50 years) more often have isolated glomerulonephritis.",
+        "Incorrect. Tubular acidosis is not a feature of anti-GBM disease."
+      ]
+    },
+    {
+      "id": 6,
+      "stem": "A 32-year-old man develops hematuria, edema, hypertension, and a rapidly rising serum creatinine over two weeks. Anti-GBM disease is suspected. Which renal syndrome best describes this presentation?",
+      "choices": [
+        "Nephrotic syndrome",
+        "Nephritic syndrome",
+        "Asymptomatic hematuria",
+        "Tubulointerstitial nephritis",
+        "Renal artery stenosis"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Nephrotic syndrome features heavy proteinuria, hypoalbuminemia, and edema without prominent hematuria or RPGN.",
+        "Correct. Anti-GBM disease classically presents as nephritic syndrome with gross hematuria, edema, and hypertension, often as rapidly progressive glomerulonephritis (RPGN).",
+        "Incorrect. The presentation includes systemic features and rapidly declining GFR, not isolated hematuria.",
+        "Incorrect. Tubulointerstitial nephritis presents with sterile pyuria and tubular dysfunction, not RPGN.",
+        "Incorrect. Renal artery stenosis causes hypertension but not hematuria or nephritic sediment."
+      ]
+    },
+    {
+      "id": 7,
+      "stem": "A 40-year-old man presents with anti-GBM disease and a creatinine that has tripled over two weeks. The clinician describes the disorder as one of the most aggressive nephritic disorders. What term best characterizes this rapid decline in renal function?",
+      "choices": [
+        "Chronic indolent glomerulonephritis",
+        "Membranous nephropathy with proteinuria",
+        "Rapidly progressive glomerulonephritis",
+        "Minimal change disease with edema",
+        "Diabetic nephropathy with sclerosis"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Chronic glomerulonephritis develops slowly over years.",
+        "Incorrect. Membranous nephropathy is a nephrotic disease, not RPGN.",
+        "Correct. Anti-GBM disease is one of the most aggressive nephritic disorders and is characterized by rapidly progressive glomerulonephritis (RPGN) with rapidly declining GFR.",
+        "Incorrect. Minimal change disease causes nephrotic syndrome without rapid GFR decline.",
+        "Incorrect. Diabetic nephropathy is a slowly progressive sclerosing process."
+      ]
+    },
+    {
+      "id": 8,
+      "stem": "A 30-year-old smoker presents with three weeks of cough, hemoptysis, dyspnea, and chest pain. Imaging shows diffuse alveolar opacities. About what percentage of anti-GBM patients develop this type of lung damage?",
+      "choices": ["10%", "25%", "40%", "60%", "90%"],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. The brick cites a higher percentage than this.",
+        "Incorrect. The brick cites a higher percentage than this.",
+        "Incorrect. The brick cites a higher percentage than this.",
+        "Correct. Alveolar hemorrhage occurs in approximately 60% of patients with anti-GBM disease.",
+        "Incorrect. The brick cites 60%, not 90%."
+      ]
+    },
+    {
+      "id": 9,
+      "stem": "A 28-year-old man with anti-GBM disease has alveolar hemorrhage and dyspnea. Which factor is thought to make pulmonary basement membranes susceptible to antibody damage in some patients?",
+      "choices": [
+        "High-altitude exposure",
+        "Hypothyroidism",
+        "Marathon training",
+        "High-fat diet",
+        "Cigarette smoking"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. The brick does not mention altitude.",
+        "Incorrect. Thyroid disease is not associated with anti-GBM lung involvement.",
+        "Incorrect. Exercise is not implicated in alveolar membrane susceptibility.",
+        "Incorrect. Diet is not described as a trigger.",
+        "Correct. Lung damage from smoking is thought to be needed in some patients to make alveolar basement membranes accessible to circulating anti-GBM autoantibodies."
+      ]
+    },
+    {
+      "id": 10,
+      "stem": "Several new cases of anti-GBM disease were reported in London during the COVID-19 outbreak in 2019-2020. This cluster supports which proposed contributor to disease onset?",
+      "choices": [
+        "Inherited HLA predisposition only",
+        "Environmental trigger such as infection",
+        "Vaccine-induced antibody reactions",
+        "Toxic occupational chemical exposure",
+        "Chronic dietary protein deficiency"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. The brick highlights an environmental trigger, not solely genetics.",
+        "Correct. The London cluster during COVID-19 supports the premise that environmental factors such as infection may trigger anti-GBM disease in susceptible individuals.",
+        "Incorrect. Vaccine reactions are not cited in the brick.",
+        "Incorrect. Occupational toxins are not the trigger described.",
+        "Incorrect. Dietary deficiencies are not implicated."
+      ]
+    },
+    {
+      "id": 11,
+      "stem": "A 35-year-old woman with anti-GBM disease undergoes renal biopsy. Light microscopy shows extensive glomerular crescents. Which renal histologic pattern does this represent?",
+      "choices": [
+        "Minimal change disease",
+        "Membranous nephropathy",
+        "Crescentic glomerulonephritis",
+        "Focal segmental glomerulosclerosis",
+        "Diffuse mesangial proliferation"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Minimal change shows normal light microscopy with foot process effacement on EM.",
+        "Incorrect. Membranous nephropathy shows thickened GBM without crescents.",
+        "Correct. Anti-GBM disease produces crescentic glomerulonephritis, characterized by extensive glomerular crescents on light microscopy.",
+        "Incorrect. FSGS shows segmental sclerosis without crescents.",
+        "Incorrect. Mesangial proliferation alone is not the hallmark of anti-GBM disease."
+      ]
+    },
+    {
+      "id": 12,
+      "stem": "A pathologist describes the cellular composition of glomerular crescents in a patient with anti-GBM disease. Which combination of components are crescents made of?",
+      "choices": [
+        "Epithelial cells, fibrin, inflammatory cells",
+        "Endothelial cells, platelets, and microthrombi",
+        "Mesangial cells with amyloid fibril deposits",
+        "Foam macrophages and intracellular lipid",
+        "Eosinophils with IgE-laden immune complexes"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Crescents form from ruptured glomerular capillaries and consist of glomerular epithelial cells, fibrin, plasma proteins, monocytes, macrophages, and other inflammatory cells.",
+        "Incorrect. Crescents are not composed primarily of endothelial cells and platelets.",
+        "Incorrect. Mesangial cells and amyloid characterize different glomerular processes.",
+        "Incorrect. Foam cells and lipid are not the constituents of crescents.",
+        "Incorrect. Eosinophils and IgE are not components of crescents."
+      ]
+    },
+    {
+      "id": 13,
+      "stem": "A 44-year-old man with hemoptysis, hematuria, and ANA/ANCA-negative serologies undergoes renal biopsy. Immunofluorescence reveals which pattern characteristic of anti-GBM disease?",
+      "choices": [
+        "Granular mesangial immune deposits",
+        "Tram-track double-contour basement membrane",
+        "Pauci-immune (no staining pattern)",
+        "Linear ribbon-like IgG along GBM",
+        "Subepithelial electron-dense humps"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Granular deposits are seen in immune complex diseases such as postinfectious GN or lupus, not anti-GBM.",
+        "Incorrect. Tram-tracking is a light microscopy finding in membranoproliferative GN.",
+        "Incorrect. Pauci-immune staining is the hallmark of ANCA-associated vasculitis.",
+        "Correct. Anti-GBM disease shows a linear, ribbon-like pattern of IgG deposition along the basement membrane on immunofluorescence, distinguishing it from other glomerulonephritides.",
+        "Incorrect. Subepithelial humps describe postinfectious GN on EM."
+      ]
+    },
+    {
+      "id": 14,
+      "stem": "A 50-year-old woman with anti-GBM disease has alveolar hemorrhage. RBCs and hemoglobin clog the alveoli. Which pulmonary physiologic abnormality is most likely?",
+      "choices": [
+        "Increased diffusing capacity, normal oxygenation",
+        "Restrictive pattern from pleural effusion",
+        "Obstructive spirometry with air trapping",
+        "Isolated pulmonary arterial hypertension",
+        "Decreased diffusing capacity with hypoxemia"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. Diffusing capacity decreases, not increases, although DLCO can paradoxically appear elevated acutely from blood in alveoli (not described here).",
+        "Incorrect. The brick attributes findings to alveolar hemorrhage, not pleural effusion.",
+        "Incorrect. The brick describes a diffusion abnormality, not airway obstruction.",
+        "Incorrect. Pulmonary hypertension is not described as the primary abnormality.",
+        "Correct. Alveolar hemorrhage clogs alveoli with RBCs and hemoglobin, reducing CO2 and O2 transfer (decreased diffusing capacity) and causing hypoxemia and dyspnea."
+      ]
+    },
+    {
+      "id": 15,
+      "stem": "A 60-year-old woman with rapidly progressive GFR decline and hemoptysis undergoes urinalysis. Which sediment finding most strongly suggests glomerular disease such as anti-GBM?",
+      "choices": [
+        "Hyaline casts without cellular elements",
+        "Dysmorphic RBCs with red cell casts",
+        "Waxy casts of chronic kidney disease",
+        "Eosinophiluria on Hansel staining",
+        "Calcium oxalate crystals in sediment"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Hyaline casts are nonspecific and seen in normal urine.",
+        "Correct. Dysmorphic RBCs and red cell casts are signs of glomerular disease and are typical of anti-GBM disease, which often shows macroscopic hematuria.",
+        "Incorrect. Waxy casts indicate chronic kidney disease, not active glomerular inflammation.",
+        "Incorrect. Eosinophiluria suggests acute interstitial nephritis.",
+        "Incorrect. Crystals reflect stone disease or metabolic disorders, not glomerular injury."
+      ]
+    },
+    {
+      "id": 16,
+      "stem": "A 29-year-old man with suspected anti-GBM disease has serum sent for autoantibody testing. Which serologic test is both sensitive and specific for the diagnosis?",
+      "choices": [
+        "Antinuclear antibody (ANA)",
+        "Anti-dsDNA",
+        "Anti-GBM ELISA",
+        "c-ANCA",
+        "p-ANCA"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. ANA is sensitive for lupus, not anti-GBM disease.",
+        "Incorrect. Anti-dsDNA is specific for lupus.",
+        "Correct. ELISA for anti-GBM autoantibodies is both sensitive and specific and is ordered when this disease is suspected.",
+        "Incorrect. c-ANCA suggests granulomatosis with polyangiitis and is negative in anti-GBM disease.",
+        "Incorrect. p-ANCA suggests microscopic polyangiitis or EGPA and is negative in anti-GBM disease."
+      ]
+    },
+    {
+      "id": 17,
+      "stem": "A 38-year-old man with hemoptysis and acute kidney injury has anti-GBM antibodies sent. The clinician also orders ANCA studies. What is the rationale for this additional testing?",
+      "choices": [
+        "To confirm a diagnosis of lupus nephritis",
+        "To detect concurrent IgA nephropathy involvement",
+        "To screen for hepatitis C cryoglobulinemia",
+        "To distinguish from GPA and MPA vasculitides",
+        "To quantitate complement pathway consumption"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Lupus is screened with ANA and anti-dsDNA, not ANCA.",
+        "Incorrect. IgA nephropathy is diagnosed by biopsy, not ANCA.",
+        "Incorrect. ANCA does not screen for hepatitis C.",
+        "Correct. The presentation of granulomatosis with polyangiitis (GPA) is similar to anti-GBM disease, so ANCA studies (c-ANCA and p-ANCA) are ordered to distinguish them; ANCA is negative in anti-GBM disease.",
+        "Incorrect. Complement levels, not ANCA, assess complement consumption."
+      ]
+    },
+    {
+      "id": 18,
+      "stem": "A 45-year-old woman with anti-GBM disease undergoes chest CT for hemoptysis. Which finding is most consistent with alveolar hemorrhage?",
+      "choices": [
+        "Solitary spiculated pulmonary nodule",
+        "Ground-glass opacities or consolidations",
+        "Pleural calcifications and plaques",
+        "Honeycombing with traction bronchiectasis",
+        "Mediastinal and hilar lymphadenopathy"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. A solitary nodule suggests malignancy or granuloma, not alveolar hemorrhage.",
+        "Correct. CT imaging in anti-GBM disease typically shows ground-glass opacities or consolidations, while chest x-ray may show patchy or diffuse opacities.",
+        "Incorrect. Pleural calcifications suggest prior asbestos exposure or chronic pleural disease.",
+        "Incorrect. Honeycombing is a feature of advanced fibrosis (e.g., IPF).",
+        "Incorrect. Lymphadenopathy is not described as a typical anti-GBM finding."
+      ]
+    },
+    {
+      "id": 19,
+      "stem": "A 36-year-old man with hemoptysis and hematuria has positive serum anti-GBM antibodies. Which test is generally required to confirm the diagnosis and assess disease severity?",
+      "choices": [
+        "Lung biopsy via bronchoscopy",
+        "Renal biopsy",
+        "Bone marrow biopsy",
+        "Skin biopsy",
+        "Pleural biopsy"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Lung biopsy is less helpful, more invasive, and high risk in patients with pulmonary hemorrhage.",
+        "Correct. Renal biopsy showing linear IgG deposition along the GBM on immunofluorescence is generally required to confirm the diagnosis and helps gauge severity and prognosis.",
+        "Incorrect. Bone marrow is not involved in anti-GBM disease.",
+        "Incorrect. Anti-GBM disease does not typically present with skin lesions.",
+        "Incorrect. Pleural biopsy is not used to diagnose anti-GBM disease."
+      ]
+    },
+    {
+      "id": 20,
+      "stem": "A 50-year-old woman presents with cough, hemoptysis, fever, sinusitis, and a purpuric rash. Renal biopsy shows pauci-immune crescentic GN. Serology is c-ANCA positive. Which diagnosis is most likely?",
+      "choices": [
+        "Anti-GBM disease",
+        "Lupus nephritis",
+        "Granulomatosis with polyangiitis",
+        "Eosinophilic granulomatosis with polyangiitis",
+        "IgA nephropathy"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Anti-GBM disease is ANCA-negative and shows linear IgG, not pauci-immune staining.",
+        "Incorrect. Lupus nephritis is associated with ANA and anti-dsDNA.",
+        "Correct. GPA presents with upper respiratory tract symptoms (especially sinusitis), purpuric rash, and pulmonary-renal involvement; serology shows c-ANCA and anti-proteinase-3 antibodies.",
+        "Incorrect. EGPA presents with asthma, allergic rhinitis, nasal polyposis, and p-ANCA.",
+        "Incorrect. IgA nephropathy is not associated with sinusitis, hemoptysis, or c-ANCA."
+      ]
+    },
+    {
+      "id": 21,
+      "stem": "A 32-year-old woman presents with asthma, allergic rhinitis, nasal polyposis, and pleural effusions. Serology is p-ANCA positive. Which pulmonary-renal syndrome does this best fit?",
+      "choices": [
+        "Anti-GBM disease (Goodpasture syndrome)",
+        "Granulomatosis with polyangiitis (GPA)",
+        "Eosinophilic granulomatosis (EGPA)",
+        "Lupus nephritis with serositis features",
+        "Microscopic polyangiitis (MPA) vasculitis"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Anti-GBM disease lacks asthma and nasal polyposis, and is ANCA-negative.",
+        "Incorrect. GPA is associated with c-ANCA and sinusitis/purpura, not asthma and nasal polyposis.",
+        "Correct. EGPA classically presents with asthma, pleural effusions, allergic rhinitis, and nasal polyposis, with p-ANCA serology.",
+        "Incorrect. Lupus nephritis features ANA/anti-dsDNA and multisystem involvement (rash, arthritis).",
+        "Incorrect. Microscopic polyangiitis has p-ANCA but lacks the asthma and nasal polyposis seen in EGPA."
+      ]
+    },
+    {
+      "id": 22,
+      "stem": "A 36-year-old man is diagnosed with anti-GBM disease. He is started on plasmapheresis. What is the purpose of this therapy?",
+      "choices": [
+        "Replace deficient plasma clotting factors",
+        "Restore renal tubular reabsorptive function",
+        "Increase bone marrow erythrocyte production",
+        "Deliver targeted intravenous chemotherapy",
+        "Remove circulating anti-GBM antibodies"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. Plasmapheresis in anti-GBM disease is not used for clotting factor replacement.",
+        "Incorrect. Plasmapheresis does not directly restore tubular function.",
+        "Incorrect. Plasmapheresis does not stimulate erythropoiesis.",
+        "Incorrect. Plasmapheresis does not deliver chemotherapy.",
+        "Correct. Plasma exchange separates blood components and removes the autoantibody-filled plasma, replacing it with albumin; it is typically performed 5-7 times per week for 2-3 weeks."
+      ]
+    },
+    {
+      "id": 23,
+      "stem": "A 40-year-old woman with anti-GBM disease is started on plasmapheresis and IV methylprednisolone. Which additional immunosuppressant is standardly paired with glucocorticoids in this disease?",
+      "choices": [
+        "Rituximab",
+        "Cyclophosphamide",
+        "Methotrexate",
+        "Azathioprine",
+        "Mycophenolate mofetil"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Rituximab is used in some autoimmune diseases but is not the standard agent paired with steroids in this brick.",
+        "Correct. Standard therapy combines IV glucocorticoids (e.g., methylprednisolone) with cyclophosphamide, an alkylating agent.",
+        "Incorrect. Methotrexate is not the standard agent for anti-GBM disease.",
+        "Incorrect. Azathioprine is not the standard initial immunosuppressant cited in the brick.",
+        "Incorrect. Mycophenolate mofetil is not the standard initial agent for anti-GBM disease."
+      ]
+    },
+    {
+      "id": 24,
+      "stem": "A 55-year-old man with anti-GBM disease presents with serum creatinine of 8.2 mg/dL and requires early dialysis. According to the brick, what does this portend for his renal prognosis?",
+      "choices": [
+        "Excellent renal recovery is expected",
+        "Renal function will likely not recover",
+        "He will fully recover within 1 week",
+        "The lung disease will worsen with dialysis",
+        "Plasmapheresis is contraindicated"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Once early dialysis is required, renal recovery is unlikely.",
+        "Correct. If early dialysis is required, the prognosis is poor and renal function will likely not recover; however, plasmapheresis and immunosuppressants remain effective for the pulmonary hemorrhage.",
+        "Incorrect. Rapid full recovery is not expected once dialysis is needed.",
+        "Incorrect. Dialysis does not worsen alveolar hemorrhage.",
+        "Incorrect. Plasmapheresis is still indicated for the pulmonary disease even when dialysis is required."
+      ]
+    },
+    {
+      "id": 25,
+      "stem": "A 30-year-old woman successfully treated for anti-GBM disease is concerned about recurrence. Her antibody titers are now undetectable. According to the brick, what is the expected long-term course?",
+      "choices": [
+        "Frequent relapses every few months",
+        "Lifelong hemodialysis is inevitable",
+        "Relapses are uncommon after treatment",
+        "Yearly maintenance plasmapheresis required",
+        "Lifelong high-dose steroids needed"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. The brick states relapses are uncommon after successful treatment.",
+        "Incorrect. Lifelong dialysis is not inevitable, particularly when creatinine is below 5.7 mg/dL at presentation.",
+        "Correct. After successful treatment, relapses of anti-GBM disease are uncommon.",
+        "Incorrect. Routine yearly plasmapheresis is not described as standard maintenance.",
+        "Incorrect. The brick does not recommend long-term high-dose steroids as recurrence prevention."
+      ]
+    }
+  ]
+}

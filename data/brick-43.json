@@ -1,0 +1,439 @@
+{
+  "id": 43,
+  "title": "Membranoproliferative Glomerulonephritis",
+  "questions": [
+    {
+      "id": 1,
+      "stem": "A 53-year-old man with untreated hepatitis C presents with 2 weeks of lower-leg swelling and frothy urine. Urinalysis shows 4+ protein and 4+ blood. Which infection is the most common cause of MPGN in adults?",
+      "choices": ["Hepatitis B virus", "Hepatitis C virus", "HIV", "Streptococcus", "Cytomegalovirus"],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. HBV can cause MPGN but is far less common than HCV.",
+        "Correct. Hepatitis C virus is the most common cause of MPGN, especially of secondary MPGN in adults.",
+        "Incorrect. HIV is a less common viral cause of MPGN than HCV.",
+        "Incorrect. Streptococcal infection causes post-streptococcal GN, not MPGN.",
+        "Incorrect. CMV is not listed as a typical MPGN trigger in the brick."
+      ]
+    },
+    {
+      "id": 2,
+      "stem": "A 48-year-old woman with hepatitis C develops hematuria, hypertension, and a creatinine of 1.8 mg/dL. The clinician explains that MPGN is not a single disease. Which best describes what MPGN actually is?",
+      "choices": [
+        "A specific autoimmune disease",
+        "A genetic basement disorder",
+        "A tubulointerstitial disease",
+        "A primary podocytopathy",
+        "Glomerular injury pattern"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. MPGN is not a single disease entity.",
+        "Incorrect. Alport-like genetic basement membrane diseases are not MPGN.",
+        "Incorrect. MPGN is a glomerular, not tubulointerstitial, pattern.",
+        "Incorrect. Primary podocytopathies (e.g., minimal change, FSGS) are distinct from MPGN.",
+        "Correct. MPGN is a pathologic description of glomerular injury with several underlying causes, not a discrete disease."
+      ]
+    },
+    {
+      "id": 3,
+      "stem": "A 35-year-old man presents with hematuria, proteinuria of 2 g/day, hypertension, and mild edema. Which clinical syndrome combination is most typical of MPGN?",
+      "choices": [
+        "Pure nephrotic only",
+        "Pure nephritic only",
+        "Nephritic plus nephrotic",
+        "AKI without proteinuria",
+        "Hematuria only"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. MPGN typically has nephritic features in addition to proteinuria.",
+        "Incorrect. MPGN often has nephrotic-range proteinuria as well.",
+        "Correct. MPGN classically presents with a combination of nephritic features (hematuria, hypertension, edema, declining GFR) and variable to nephrotic-range proteinuria.",
+        "Incorrect. Hematuria and proteinuria are hallmarks of MPGN.",
+        "Incorrect. Proteinuria is a defining feature of MPGN."
+      ]
+    },
+    {
+      "id": 4,
+      "stem": "A 60-year-old man with chronic HCV is found on renal biopsy to have MPGN. Which type of hypersensitivity reaction underlies the secondary, immune-complex form of MPGN?",
+      "choices": ["Type I (IgE)", "Type II", "Type III", "Type IV", "Type V"],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Type I is IgE-mediated allergy.",
+        "Incorrect. Type II involves antibodies directed against cell-surface antigens.",
+        "Correct. Secondary MPGN is a type III hypersensitivity reaction; circulating antigen-antibody complexes deposit in the glomerulus and activate complement.",
+        "Incorrect. Type IV is delayed, cell-mediated hypersensitivity.",
+        "Incorrect. Type V (stimulatory antibody) is not the mechanism of MPGN."
+      ]
+    },
+    {
+      "id": 5,
+      "stem": "A 6-year-old girl with no infections or systemic illness is diagnosed with MPGN after biopsy shows complement deposition without immune complexes. Which mechanism best explains her primary MPGN?",
+      "choices": [
+        "Anti-GBM antibodies",
+        "Alternative complement activation",
+        "Type IV hypersensitivity reaction",
+        "Direct viral cytopathic injury",
+        "Tubular obstruction"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Anti-GBM disease causes Goodpasture, not MPGN.",
+        "Correct. Primary MPGN (C3 glomerulopathy) arises from dysregulation and overactivation of the alternative complement pathway, with complement deposition in the glomerulus.",
+        "Incorrect. MPGN is not driven by delayed cell-mediated hypersensitivity.",
+        "Incorrect. HCV-associated MPGN is immune-complex mediated, not direct cytopathic injury.",
+        "Incorrect. Tubular obstruction is not the mechanism of MPGN."
+      ]
+    },
+    {
+      "id": 6,
+      "stem": "A child diagnosed with primary MPGN undergoes biopsy showing electron-dense deposits within the basement membrane. Which subtype is described?",
+      "choices": [
+        "Dense deposit disease",
+        "Anti-GBM disease",
+        "Minimal change disease",
+        "Diabetic nephropathy",
+        "IgA nephropathy"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Dense deposit disease, a subtype of C3 glomerulopathy, has striking electron-dense deposits and is caused by alternative complement pathway dysregulation.",
+        "Incorrect. Anti-GBM disease shows linear IgG staining, not dense deposits.",
+        "Incorrect. Minimal change disease shows only podocyte foot process effacement.",
+        "Incorrect. Diabetic nephropathy shows nodular sclerosis, not dense deposits.",
+        "Incorrect. IgA nephropathy shows mesangial IgA, not dense intramembranous deposits."
+      ]
+    },
+    {
+      "id": 7,
+      "stem": "A 50-year-old man with HCV-related MPGN undergoes renal biopsy. Which combination of light-microscopy findings is most characteristic?",
+      "choices": [
+        "Crescents in Bowman space",
+        "Thin basement membrane",
+        "Hypercellular glomeruli, thick GBM",
+        "Nodular glomerulosclerosis",
+        "Normal-appearing glomeruli"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Crescents are seen in rapidly progressive GN, not the defining MPGN pattern.",
+        "Incorrect. Thin basement membrane disease is unrelated to MPGN.",
+        "Correct. MPGN shows mesangial and endocapillary hypercellularity with thickened basement membranes on light microscopy.",
+        "Incorrect. Nodular sclerosis (Kimmelstiel-Wilson) is characteristic of diabetic nephropathy.",
+        "Incorrect. Glomeruli are clearly abnormal in MPGN."
+      ]
+    },
+    {
+      "id": 8,
+      "stem": "A renal pathologist reviews a silver-stained biopsy from a patient with MPGN and points out a duplicated basement membrane. What is this characteristic appearance called?",
+      "choices": [
+        "Spike-and-dome",
+        "Tram-track",
+        "Wire-loop",
+        "Crescent",
+        "Onion-skin"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Spike-and-dome is seen in membranous nephropathy.",
+        "Correct. MPGN shows a tram-track appearance on silver stain due to GBM duplication from mesangial cell interposition into the capillary wall.",
+        "Incorrect. Wire-loop lesions are seen in lupus nephritis.",
+        "Incorrect. Crescents are seen in rapidly progressive GN.",
+        "Incorrect. Onion-skin is seen in malignant hypertension and scleroderma renal crisis."
+      ]
+    },
+    {
+      "id": 9,
+      "stem": "A renal biopsy shows tram-tracking on silver stain. The pathologist explains it is caused by basement membrane duplication. Which cellular event produces this finding?",
+      "choices": [
+        "Podocyte foot-process effacement",
+        "Glomerular endothelial denudation",
+        "Crescent formation in Bowman space",
+        "Tubular epithelial cell apoptosis",
+        "Mesangial cell interposition"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. Foot process effacement is seen in nephrotic syndromes like minimal change.",
+        "Incorrect. Endothelial denudation is not the mechanism described in the brick.",
+        "Incorrect. Crescents indicate rapidly progressive GN, not the tram-track pattern.",
+        "Incorrect. Tubular apoptosis is unrelated to glomerular tram-tracking.",
+        "Correct. Mesangial cells migrate into the capillary wall and become interposed, prompting GBM duplication that appears as tram-tracks."
+      ]
+    },
+    {
+      "id": 10,
+      "stem": "A 55-year-old woman with HCV-associated MPGN has immunofluorescence performed on her biopsy. Which staining pattern is most consistent with HCV-related MPGN?",
+      "choices": [
+        "Linear IgG along the GBM",
+        "Granular IgM, C3, light chains",
+        "Mesangial IgA deposition",
+        "Negative (pauci-immune) staining",
+        "Linear C3 along the GBM"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Linear IgG suggests anti-GBM disease.",
+        "Correct. HCV-related MPGN shows granular GBM staining for IgM, C3 complement, and kappa and lambda light chains.",
+        "Incorrect. Mesangial IgA is the hallmark of IgA nephropathy.",
+        "Incorrect. Pauci-immune staining is seen in ANCA-associated vasculitis, not MPGN.",
+        "Incorrect. Linear C3 alone is not the pattern described for HCV-MPGN."
+      ]
+    },
+    {
+      "id": 11,
+      "stem": "A patient with MPGN undergoes electron microscopy. Where are immune deposits most characteristically located in MPGN?",
+      "choices": [
+        "Subepithelial humps only",
+        "Subendothelial and mesangial",
+        "Intramembranous dense deposits",
+        "Tubular basement membrane only",
+        "Vascular wall deposits only"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Subepithelial deposits are typical of membranous nephropathy and post-strep GN.",
+        "Correct. Electron microscopy in MPGN typically shows subendothelial and mesangial immune deposits.",
+        "Incorrect. Intramembranous dense deposits are specific for dense deposit disease, a subtype of primary MPGN.",
+        "Incorrect. Deposits in MPGN are glomerular, not tubular.",
+        "Incorrect. Vascular wall deposits are not the characteristic site."
+      ]
+    },
+    {
+      "id": 12,
+      "stem": "A 58-year-old man with chronic HCV develops fatigue, palpable purpura, peripheral neuropathy, and arthralgias. Labs reveal antibodies that precipitate when serum is cooled. What are these antibodies called?",
+      "choices": ["Cryoglobulins", "Cold agglutinins", "Anti-GBM antibodies", "ANCA", "Antinuclear antibodies"],
+      "answer": 0,
+      "explanations": [
+        "Correct. Cryoglobulins are antibodies that stay soluble at body temperature but precipitate when cooled; they are strongly linked to HCV-associated MPGN.",
+        "Incorrect. Cold agglutinins cause hemolysis, not the systemic and renal findings described.",
+        "Incorrect. Anti-GBM antibodies cause Goodpasture disease.",
+        "Incorrect. ANCAs are linked to small-vessel vasculitis, not cryoglobulinemia.",
+        "Incorrect. ANAs are seen in autoimmune disease but do not precipitate on cooling."
+      ]
+    },
+    {
+      "id": 13,
+      "stem": "A 60-year-old woman with hepatitis C develops palpable purpura, arthralgias, peripheral neuropathy, and Raynaud phenomenon. Cryoglobulins are detected. Approximately what percentage of chronic HCV patients develop cryoglobulinemia?",
+      "choices": ["<5%", "10%", "30%", "60%", "90%"],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. The brick cites a much higher figure.",
+        "Incorrect. Below the figure cited in the brick.",
+        "Incorrect. Below the figure cited in the brick.",
+        "Correct. As many as 60% of patients with chronic HCV develop cryoglobulinemia, and 20-30% of those go on to glomerular disease.",
+        "Incorrect. The brick cites approximately 60%, not 90%."
+      ]
+    },
+    {
+      "id": 14,
+      "stem": "A 55-year-old man with chronic HCV and cryoglobulinemia is monitored for renal disease. According to the brick, what proportion of patients with cryoglobulinemia go on to develop glomerular disease?",
+      "choices": ["<5%", "10-15%", "20-30%", "50-60%", ">80%"],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Below the cited range.",
+        "Incorrect. Below the cited range.",
+        "Correct. About 20-30% of patients with cryoglobulinemia go on to develop glomerular disease such as MPGN.",
+        "Incorrect. Above the cited range.",
+        "Incorrect. Above the cited range."
+      ]
+    },
+    {
+      "id": 15,
+      "stem": "A 45-year-old man with hematuria and proteinuria has serum studies pending. Which serologic finding is most characteristic of HCV-related MPGN?",
+      "choices": [
+        "High C3, normal C4",
+        "Normal C3 and normal C4",
+        "Normal C3, low C4 only",
+        "High C3 and high C4",
+        "Low C3 and lower C4"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. Complement is consumed and low, not high.",
+        "Incorrect. Complement levels are characteristically reduced.",
+        "Incorrect. Both C3 and C4 are typically reduced in HCV-MPGN, not just C4.",
+        "Incorrect. Complement is consumed in MPGN, leading to low levels.",
+        "Correct. In hepatitis-related MPGN, both C3 and C4 are low, with C4 more reduced than C3."
+      ]
+    },
+    {
+      "id": 16,
+      "stem": "A 40-year-old child with primary MPGN has serum complement studies. Which complement pattern is most expected in primary (idiopathic) MPGN?",
+      "choices": [
+        "Low C3, normal C4",
+        "Low C3, low C4",
+        "Normal C3, low C4",
+        "High C3 and C4",
+        "Normal C3 and C4"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Primary MPGN, driven by alternative complement pathway overactivation, typically shows low C3 with normal C4.",
+        "Incorrect. Low C3 with low C4 is the pattern of secondary, hepatitis-associated MPGN.",
+        "Incorrect. Normal C3 with low C4 is not the expected pattern.",
+        "Incorrect. Complement is consumed and low in MPGN.",
+        "Incorrect. Normal complement levels would not fit MPGN."
+      ]
+    },
+    {
+      "id": 17,
+      "stem": "A 50-year-old woman with new-onset hematuria and 4 g/day proteinuria undergoes evaluation. Which diagnostic test is required to make a firm diagnosis of MPGN?",
+      "choices": [
+        "Spot urine protein/creatinine",
+        "Renal ultrasound",
+        "Renal biopsy",
+        "24-hour urine collection",
+        "ANA titer"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. A protein/creatinine ratio quantifies proteinuria but cannot diagnose MPGN.",
+        "Incorrect. Ultrasound shows kidney structure but does not diagnose MPGN.",
+        "Correct. Because MPGN can be confused with other glomerular diseases and has multiple subtypes, renal biopsy is required for definitive diagnosis.",
+        "Incorrect. 24-hour urine quantifies proteinuria but does not establish histology.",
+        "Incorrect. ANA can support a lupus etiology but does not diagnose MPGN."
+      ]
+    },
+    {
+      "id": 18,
+      "stem": "A 50-year-old man with hematuria and proteinuria is being worked up for MPGN. Which serologic studies should be obtained as part of the initial workup?",
+      "choices": [
+        "Hepatitis B and C, HIV, ANA",
+        "Anti-GBM antibody only",
+        "ANCA only",
+        "Anti-streptolysin O only",
+        "Anti-phospholipase A2 receptor antibody"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Workup for MPGN should include hepatitis B and C, HIV, and ANA testing; if hepatitis serology is positive, also check serum cryoglobulins.",
+        "Incorrect. Anti-GBM testing is for Goodpasture disease.",
+        "Incorrect. ANCA testing screens for vasculitis-related GN, not MPGN.",
+        "Incorrect. ASO is used for post-streptococcal GN.",
+        "Incorrect. Anti-PLA2R is the classic test for primary membranous nephropathy."
+      ]
+    },
+    {
+      "id": 19,
+      "stem": "A 50-year-old woman with HCV and biopsy-proven MPGN is started on initial therapy. Which antihypertensive drug class is recommended in all forms of MPGN to slow CKD progression?",
+      "choices": [
+        "Calcium channel blocker",
+        "Beta-blocker",
+        "ACE inhibitor or ARB",
+        "Loop diuretic",
+        "Alpha-blocker"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Calcium channel blockers control blood pressure but do not specifically slow CKD progression.",
+        "Incorrect. Beta-blockers do not have the proteinuria-reducing effect of RAAS blockade.",
+        "Correct. ACE inhibitors or ARBs are essential in all MPGN patients; they control hypertension, reduce proteinuria, and slow CKD progression.",
+        "Incorrect. Loop diuretics treat volume overload but are not the primary CKD-slowing agent.",
+        "Incorrect. Alpha-blockers are not first-line for renoprotection in MPGN."
+      ]
+    },
+    {
+      "id": 20,
+      "stem": "A 53-year-old man with biopsy-proven MPGN is found to have untreated hepatitis C with detectable cryoglobulins. What is the most appropriate first-line treatment?",
+      "choices": [
+        "Antiviral therapy",
+        "High-dose prednisone",
+        "Plasmapheresis",
+        "Rituximab",
+        "Renal transplant"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. HCV-related MPGN is treated by clearing the underlying virus with antiviral drugs (protease or polymerase inhibitors); MPGN usually resolves when HCV is eradicated.",
+        "Incorrect. Steroids are reserved for primary (idiopathic) MPGN, not secondary HCV-MPGN.",
+        "Incorrect. Plasmapheresis is not the brick's first-line therapy for HCV-related MPGN.",
+        "Incorrect. Rituximab is not the brick's first-line treatment for HCV-MPGN.",
+        "Incorrect. Transplant is reserved for end-stage renal failure, not initial therapy."
+      ]
+    },
+    {
+      "id": 21,
+      "stem": "A 55-year-old woman with HCV is started on a polymerase inhibitor for her hepatitis. Which class of antiviral drugs is used to clear HCV in MPGN according to the brick?",
+      "choices": [
+        "Nucleoside reverse transcriptase inhibitors",
+        "Fusion inhibitors",
+        "Neuraminidase inhibitors",
+        "Integrase inhibitors",
+        "Protease and polymerase inhibitors"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. NRTIs are used for HIV, not HCV.",
+        "Incorrect. Fusion inhibitors target HIV, not HCV.",
+        "Incorrect. Neuraminidase inhibitors target influenza.",
+        "Incorrect. Integrase inhibitors are used for HIV.",
+        "Correct. HCV is treated with protease inhibitors or polymerase inhibitors, which block viral replication and lead to eradication in nearly all cases."
+      ]
+    },
+    {
+      "id": 22,
+      "stem": "A 9-year-old boy is diagnosed with primary (idiopathic) MPGN. Which drug class is the typical first-line treatment for this primary form?",
+      "choices": [
+        "Antivirals",
+        "Diuretics",
+        "ACE inhibitors alone",
+        "Corticosteroids",
+        "Calcineurin inhibitors"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Antivirals are used when an underlying virus such as HCV drives secondary MPGN.",
+        "Incorrect. Diuretics manage edema but do not treat the underlying MPGN.",
+        "Incorrect. ACE inhibitors are adjuncts but are not the disease-directed therapy for primary MPGN.",
+        "Correct. Primary MPGN is typically treated with a corticosteroid such as prednisone, sometimes with additional immunosuppression.",
+        "Incorrect. Calcineurin inhibitors are not the brick's recommended first-line for primary MPGN."
+      ]
+    },
+    {
+      "id": 23,
+      "stem": "A pediatric nephrologist counsels the family of a child with primary MPGN about prognosis. According to the brick, what proportion of patients with primary MPGN ultimately develop progressive renal failure requiring dialysis or transplant?",
+      "choices": ["<5%", "10%", "25%", ">=50%", "100%"],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. The brick describes a much higher rate.",
+        "Incorrect. Below the figure cited in the brick.",
+        "Incorrect. Below the figure cited in the brick.",
+        "Correct. Primary MPGN has a very poor prognosis: half or more of patients develop progressive renal failure requiring dialysis or transplantation.",
+        "Incorrect. Although prognosis is poor, the brick says half or more, not nearly all."
+      ]
+    },
+    {
+      "id": 24,
+      "stem": "A 35-year-old IV drug user with newly diagnosed HCV is found on biopsy to have MPGN. He asks what fraction of renal biopsies show this pattern. What is the reported prevalence of MPGN among renal biopsy specimens?",
+      "choices": ["<1%", "6-12%", "25-30%", "40-50%", ">75%"],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. MPGN is not that rare on biopsy.",
+        "Correct. MPGN is seen in approximately 6-12% of renal biopsy specimens.",
+        "Incorrect. Above the brick's quoted prevalence.",
+        "Incorrect. Above the brick's quoted prevalence.",
+        "Incorrect. Far above the brick's quoted prevalence."
+      ]
+    },
+    {
+      "id": 25,
+      "stem": "A 50-year-old man with HCV is found to have hematuria, proteinuria, low C3 and C4, and positive cryoglobulins. Renal biopsy shows tram-track basement membrane on silver stain. Which laboratory finding is most strongly associated with HCV-related MPGN?",
+      "choices": [
+        "Elevated AST and ALT levels",
+        "High serum C3 complement",
+        "Rising HCV titers over time",
+        "Serum cryoglobulins",
+        "Tram-track GBM on biopsy"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Liver enzymes reflect hepatitis activity but are not the strongest lab association with HCV-MPGN.",
+        "Incorrect. C3 is low, not high, in HCV-MPGN.",
+        "Incorrect. HCV viral load does not correlate strongly with the development of MPGN.",
+        "Correct. Cryoglobulinemia is the strongest laboratory indicator that HCV is the cause of MPGN.",
+        "Incorrect. Tram-track is a biopsy finding, not a laboratory finding."
+      ]
+    }
+  ]
+}

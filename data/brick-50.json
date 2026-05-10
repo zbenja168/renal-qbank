@@ -1,0 +1,481 @@
+{
+  "id": 50,
+  "title": "Acute Tubular Necrosis",
+  "questions": [
+    {
+      "id": 1,
+      "stem": "A 62-year-old man with septic shock has a serum creatinine that triples over 48 hours. Renal biopsy shows abrupt death of epithelial cells lining the renal tubules. Which best describes acute tubular necrosis (ATN)?",
+      "choices": [
+        "A specific glomerular disease entity",
+        "Pathologic death of tubular cells",
+        "A primary renal vascular disorder",
+        "An obstructive uropathy syndrome",
+        "A chronic interstitial nephritis"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. ATN spares the glomerulus and is not a glomerular disease.",
+        "Correct. ATN is not a single disease but a pathologic description of abrupt death of the tubular epithelial cells, with many causes including ischemia and toxins.",
+        "Incorrect. ATN is not primarily vascular, although ischemia is a common cause.",
+        "Incorrect. Obstruction defines postrenal AKI, not ATN.",
+        "Incorrect. ATN is acute, not a chronic interstitial process."
+      ]
+    },
+    {
+      "id": 2,
+      "stem": "A hospitalized 70-year-old woman develops AKI from intrinsic tubular injury. Among hospitalized AKI patients, approximately what fraction is attributable to ATN?",
+      "choices": [
+        "About 10%",
+        "About 25%",
+        "About 50%",
+        "About 75%",
+        "About 90%"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. ATN is far more common than this in inpatients.",
+        "Incorrect. ATN accounts for a larger share than 25%.",
+        "Correct. ATN is one of the most common causes of AKI and is responsible for nearly half of all AKI among hospitalized patients.",
+        "Incorrect. This overestimates the share attributed to ATN.",
+        "Incorrect. Other causes (prerenal, postrenal, glomerular) account for the rest."
+      ]
+    },
+    {
+      "id": 3,
+      "stem": "A 56-year-old man collapses on a golf course with prolonged hypotension (BP 60/40) before resuscitation. Two days later his serum creatinine has tripled. Which category of AKI does his ATN represent?",
+      "choices": [
+        "Prerenal AKI",
+        "Postrenal AKI",
+        "Intrinsic AKI",
+        "Glomerulonephritis",
+        "Functional AKI"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Prerenal AKI is reduced perfusion without tubular necrosis; once tubules necrose it becomes intrinsic.",
+        "Incorrect. Postrenal AKI is from impaired drainage distal to the kidney.",
+        "Correct. ATN is a form of intrinsic (intrarenal) AKI because the decline in kidney function arises inside the kidney from tubular cell death.",
+        "Incorrect. Glomerulonephritis is intrinsic AKI but at the glomerulus, not the tubules.",
+        "Incorrect. The brick classifies ATN specifically as intrinsic AKI."
+      ]
+    },
+    {
+      "id": 4,
+      "stem": "A 48-year-old woman is admitted with hemorrhagic shock. IV fluids are given, but hypotension persists for hours before BP normalizes. Which best explains why prolonged prerenal AKI can transition to ATN?",
+      "choices": [
+        "Volume overload damaging the tubules",
+        "Sustained hypoperfusion necrosing tubules",
+        "Aldosterone activation injuring tubule cells",
+        "Reflex vasodilation lysing the tubular cells",
+        "Glomerular hyperfiltration killing tubules"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Volume overload is not the mechanism by which prerenal AKI becomes ATN.",
+        "Correct. If reduced renal perfusion is prolonged or very severe, the tubules necrose and the prerenal AKI converts to intrinsic ATN that no longer reverses with restored perfusion.",
+        "Incorrect. Aldosterone activation occurs in volume depletion but is not what kills tubular cells.",
+        "Incorrect. Vasodilation does not cause tubular necrosis.",
+        "Incorrect. Hyperfiltration is not the mechanism described in the brick."
+      ]
+    },
+    {
+      "id": 5,
+      "stem": "A 75-year-old man with severe heart failure develops ATN. Why are the kidneys particularly vulnerable to ischemic injury?",
+      "choices": [
+        "Rich collateral circulation",
+        "Continuous parasympathetic vasodilation",
+        "Low metabolic rate",
+        "Predominantly anaerobic metabolism",
+        "End-arterial supply with high O2 demand"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. The kidneys lack collateral circulation; they are supplied by end-arteries.",
+        "Incorrect. The brick does not invoke parasympathetic tone as the protective mechanism.",
+        "Incorrect. The renal metabolic rate is high, not low.",
+        "Incorrect. Tubules rely on aerobic metabolism, making them oxygen-dependent.",
+        "Correct. Renal blood supply is end-arterial without collaterals, and the kidneys have a high metabolic rate and high oxygen consumption, so any drop in perfusion easily causes tubular hypoxia."
+      ]
+    },
+    {
+      "id": 6,
+      "stem": "A 28-year-old man is pulled from rubble after a building collapse with crushed lower extremities. His urine dipstick is strongly positive for blood, but microscopy shows no RBCs. Which substance is most likely causing his tubular injury?",
+      "choices": [
+        "Free hemoglobin",
+        "Bence-Jones protein",
+        "Bilirubin",
+        "Urate crystals",
+        "Myoglobin"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. Free hemoglobin causes a positive dipstick but typically follows massive intravascular hemolysis (e.g., ABO mismatch), not crush injury.",
+        "Incorrect. Bence-Jones proteins (myeloma) cast nephropathy is not the brick's mechanism for crush injury.",
+        "Incorrect. Bilirubin does not cause a heme-positive dipstick or this pattern of tubular toxicity.",
+        "Incorrect. Urate crystals are seen in tumor lysis, not crush rhabdomyolysis.",
+        "Correct. In rhabdomyolysis from crush injury, myoglobin released from necrosed muscle is filtered into and is toxic to the tubules; urine dipstick is positive for heme but no RBCs are seen on microscopy."
+      ]
+    },
+    {
+      "id": 7,
+      "stem": "A 30-year-old woman receives an ABO-mismatched blood transfusion. Hours later her urine is dark, her serum creatinine begins to climb, and microscopy of her urine shows numerous RBCs. Which mechanism is most likely producing her ATN?",
+      "choices": [
+        "Myoglobinuria from severe rhabdomyolysis",
+        "Free hemoglobin from massive hemolysis",
+        "Direct cisplatin tubular toxicity",
+        "Aminoglycoside accumulation in tubules",
+        "Oxalate crystal tubular obstruction"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Myoglobinuria follows muscle injury; ABO mismatch causes hemolysis.",
+        "Correct. Massive intravascular hemolysis (e.g., ABO mismatch) releases free hemoglobin that is filtered and toxic to the tubules, causing ATN.",
+        "Incorrect. Cisplatin toxicity follows chemotherapy, not transfusion reaction.",
+        "Incorrect. Aminoglycoside ATN requires days to weeks of drug exposure.",
+        "Incorrect. Oxalate crystal injury follows ethylene glycol ingestion."
+      ]
+    },
+    {
+      "id": 8,
+      "stem": "A 68-year-old man with gram-negative bacteremia is treated with gentamicin. Ten days later his serum creatinine begins to rise and he develops polyuria with hypokalemia. What is the most likely mechanism of his AKI?",
+      "choices": [
+        "Allergic interstitial nephritis from drug",
+        "Proximal tubular toxicity from drug",
+        "Glomerular immune complex deposition",
+        "Severe renal vasoconstriction",
+        "Crystal-induced tubular obstruction"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. The brick attributes aminoglycoside ATN to direct tubular toxicity, not allergic interstitial nephritis.",
+        "Correct. Aminoglycosides are filtered and taken up by proximal tubular cells, where they alter phospholipid metabolism and cause cell death; ATN typically appears after a week or more of use, often with polyuria and hypokalemia.",
+        "Incorrect. Aminoglycosides do not cause glomerular immune complex disease.",
+        "Incorrect. Vasoconstriction is the contrast mechanism, not aminoglycoside toxicity.",
+        "Incorrect. Crystal nephropathy is not the brick's mechanism for aminoglycosides."
+      ]
+    },
+    {
+      "id": 9,
+      "stem": "A 71-year-old woman with severe candidemia has been on amphotericin B for 6 days when her creatinine begins to rise. By what mechanism does amphotericin B injure tubular cells?",
+      "choices": [
+        "Inhibits the Na+/K+-ATPase pump",
+        "Releases free hemoglobin from RBCs",
+        "Crosslinks tubular cell DNA",
+        "Generates intratubular oxalate crystals",
+        "Forms membrane pores by binding sterols"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. Pump inhibition is not the brick's mechanism for amphotericin.",
+        "Incorrect. Hemoglobinuria is not caused by amphotericin.",
+        "Incorrect. DNA crosslinking is the cisplatin mechanism, not amphotericin.",
+        "Incorrect. Oxalate crystals are an ethylene glycol effect.",
+        "Correct. Amphotericin B binds sterols and creates pores in cell membranes, increasing membrane permeability and disrupting electrolyte gradients; ATN typically occurs after at least 5-7 days of use."
+      ]
+    },
+    {
+      "id": 10,
+      "stem": "A 55-year-old man with metastatic testicular cancer develops ATN three days after a cisplatin infusion. Where in the nephron does cisplatin primarily exert its toxic effects?",
+      "choices": [
+        "Glomerulus",
+        "Proximal tubules",
+        "Thick ascending limb",
+        "Collecting duct",
+        "Vasa recta"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Cisplatin spares the glomerulus.",
+        "Correct. Cisplatin primarily affects the proximal tubules; its hydrolyzed metabolite binds DNA, RNA, proteins, and phospholipids to kill cells.",
+        "Incorrect. The thick ascending limb is not the brick's primary site for cisplatin injury.",
+        "Incorrect. The collecting duct is not the primary cisplatin target described.",
+        "Incorrect. The vasa recta are not the brick's described target."
+      ]
+    },
+    {
+      "id": 11,
+      "stem": "A 72-year-old diabetic woman with mild volume depletion undergoes coronary angiography with iodinated contrast. Two days later her creatinine has risen but normalizes by 48 hours. Which best describes contrast-associated AKI according to the brick?",
+      "choices": [
+        "Severe persistent ATN over weeks",
+        "Permanent kidney failure",
+        "Always immune-mediated",
+        "Often mild and resolves quickly",
+        "Usually requires dialysis"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Contrast-associated AKI tends to be mild and limited compared with other nephrotoxic ATN.",
+        "Incorrect. The brick describes it as typically reversible.",
+        "Incorrect. The proposed mechanisms are direct cytotoxicity and renal vasoconstriction, not immune-mediated.",
+        "Correct. Contrast-associated AKI is unique in that it tends to resolve quickly, often within 48 hours, and tubular necrosis is much more limited and milder than with other nephrotoxins.",
+        "Incorrect. Most cases do not require dialysis."
+      ]
+    },
+    {
+      "id": 12,
+      "stem": "A 35-year-old depressed man is brought in confused with an anion-gap metabolic acidosis and elevated osmolar gap after ingesting antifreeze. He develops ATN over the next 48 hours. Which metabolite is primarily responsible for tubular damage?",
+      "choices": [
+        "Formate",
+        "Acetaldehyde",
+        "Acetone",
+        "Lactate",
+        "Glycolate"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. Formate is the toxic metabolite of methanol, not ethylene glycol.",
+        "Incorrect. Methanol is a different ingestion entirely.",
+        "Incorrect. Acetone is a ketone byproduct, not a tubular toxin in this setting.",
+        "Incorrect. Lactate is a marker of anaerobic metabolism, not the toxic metabolite of ethylene glycol.",
+        "Correct. Ethylene glycol-induced ATN is primarily a result of glycolate-mediated damage to tubules, although tubular obstruction by precipitated oxalate crystals may also contribute."
+      ]
+    },
+    {
+      "id": 13,
+      "stem": "A 23-year-old man with confirmed ethylene glycol ingestion has crystals in the urine that contribute to tubular obstruction. Which crystal type is characteristic?",
+      "choices": [
+        "Uric acid crystals",
+        "Cystine crystals",
+        "Calcium oxalate",
+        "Struvite crystals",
+        "Cholesterol crystals"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Uric acid crystals are seen in tumor lysis, not ethylene glycol toxicity.",
+        "Incorrect. Cystine crystals are a feature of cystinuria.",
+        "Correct. Ethylene glycol leads to precipitation of oxalate crystals in the tubules, contributing to obstruction in addition to glycolate-mediated tubular damage.",
+        "Incorrect. Struvite crystals form in urinary tract infections with urease-producing organisms.",
+        "Incorrect. Cholesterol crystals are not a feature of ethylene glycol toxicity."
+      ]
+    },
+    {
+      "id": 14,
+      "stem": "A 60-year-old woman is hospitalized after septic shock. Two days later she has a modest rise in BUN and a small drop in urine output, but no overt electrolyte derangements. Which phase of ATN does this represent?",
+      "choices": [
+        "Inciting event phase",
+        "Maintenance phase",
+        "Recovery phase",
+        "Diuretic phase",
+        "Convalescent phase"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. In the inciting event phase, damaged cells lose reabsorption and secretion but are still intact; the only clinical clue may be a modest decline in urine output and a rise in BUN.",
+        "Incorrect. The maintenance phase features sustained oliguria (40-400 mL/day), hyperkalemia, acidosis, and uremia.",
+        "Incorrect. Recovery features rising urine output as tubules regenerate.",
+        "Incorrect. The diuretic phase is part of recovery, with large urine volumes.",
+        "Incorrect. The brick uses inciting, maintenance, and recovery as its phase framework."
+      ]
+    },
+    {
+      "id": 15,
+      "stem": "A 64-year-old man in the maintenance phase of ATN has urine output of 200 mL/day, hyperkalemia, and metabolic acidosis. According to the brick, the maintenance phase is characterized by urine output between which range?",
+      "choices": [
+        "0-10 mL/day",
+        "40-400 mL/day",
+        "500-1000 mL/day",
+        "1500-2500 mL/day",
+        ">3000 mL/day"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. This is essentially anuria, below the brick's stated oliguric range.",
+        "Correct. The maintenance phase is characterized by sustained decreases in urine output to between 40 and 400 mL/day (oliguria), with salt and water overload, rising BUN, hyperkalemia, and metabolic acidosis.",
+        "Incorrect. This range is above the brick's oliguric definition.",
+        "Incorrect. Normal urine volumes occur in nonoliguric ATN, not the typical maintenance phase.",
+        "Incorrect. Large volumes are characteristic of the recovery (diuretic) phase, not maintenance."
+      ]
+    },
+    {
+      "id": 16,
+      "stem": "A 70-year-old patient with ATN has decreased GFR. Which mechanism contributes by causing reflex constriction of the afferent arteriole?",
+      "choices": [
+        "Tubuloglomerular feedback",
+        "Renin-angiotensin suppression",
+        "Atrial natriuretic peptide release",
+        "Prostaglandin-mediated dilation",
+        "Sympathetic withdrawal"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Low tubular Na+ reabsorption increases sodium delivery to the macula densa, which triggers tubuloglomerular feedback (TGF) and reflex afferent arteriolar constriction, lowering GFR.",
+        "Incorrect. RAAS is not the TGF mechanism described in the brick.",
+        "Incorrect. ANP causes natriuresis but is not the brick's mechanism for low GFR in ATN.",
+        "Incorrect. Prostaglandin-mediated dilation would raise GFR, not lower it.",
+        "Incorrect. The brick attributes the afferent constriction to TGF, not autonomic changes."
+      ]
+    },
+    {
+      "id": 17,
+      "stem": "A pathologist examining a renal biopsy from a patient with ATN describes flattened cuboidal cells, loss of the brush border, and necrotic cells sloughed into tubular lumens. Which feature is NOT part of the brick's described histopathology of ATN?",
+      "choices": [
+        "Attenuation of tubular cells",
+        "Loss of brush border",
+        "Necrotic cells in tubular lumen",
+        "Crescents in Bowman's space",
+        "Cell sloughing into the tubule"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Attenuation (flattening of plump cuboidal cells) is a hallmark of ATN.",
+        "Incorrect. Loss of brush border (smooth instead of shaggy luminal edge) is a classic ATN finding.",
+        "Incorrect. Necrotic cells slough into the tubule and are visible histologically.",
+        "Correct. Crescents in Bowman's space are a feature of rapidly progressive glomerulonephritis, not ATN; the brick describes attenuation, brush border loss, and sloughed necrotic cells.",
+        "Incorrect. Cell sloughing into the tubule is one of the listed features of ATN histology."
+      ]
+    },
+    {
+      "id": 18,
+      "stem": "A 65-year-old hospitalized man develops oliguric ATN. Which complication is most life-threatening and would manifest with peaked T waves on ECG?",
+      "choices": [
+        "Metabolic alkalosis",
+        "Hypokalemia",
+        "Hyperkalemia",
+        "Hypercalcemia",
+        "Hypernatremia"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. ATN typically causes metabolic acidosis, not alkalosis.",
+        "Incorrect. Oliguric ATN classically produces hyperkalemia, not hypokalemia.",
+        "Correct. Drop in GFR and urine output causes hyperkalemia; signs on ECG include peaked T waves and ventricular arrhythmias, which may be fatal.",
+        "Incorrect. ATN is not associated with hypercalcemia in the brick.",
+        "Incorrect. Hypernatremia is not the brick's described complication of oliguric ATN."
+      ]
+    },
+    {
+      "id": 19,
+      "stem": "A 58-year-old woman in the ICU has ATN. Her urine sediment is examined under the microscope. Which finding is most characteristic of ATN?",
+      "choices": [
+        "Red blood cell casts",
+        "White blood cell casts",
+        "Hyaline casts",
+        "Muddy-brown casts",
+        "Waxy broad casts"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. RBC casts suggest glomerulonephritis.",
+        "Incorrect. WBC casts suggest pyelonephritis or interstitial nephritis.",
+        "Incorrect. Hyaline casts are nonspecific and seen in normal/concentrated urine.",
+        "Correct. As tubular cells die and lyse, debris accumulates and obstructs the tubules, producing muddy-brown granular casts characteristic of ATN; tubular epithelial cells and casts are also seen.",
+        "Incorrect. Waxy broad casts suggest chronic kidney disease, not acute ATN."
+      ]
+    },
+    {
+      "id": 20,
+      "stem": "A 50-year-old man with rising creatinine has urinalysis sent. Which sediment finding, in addition to muddy-brown granular casts, is highly suggestive of ATN?",
+      "choices": [
+        "Renal tubular epithelial cells",
+        "Bacteria with white blood cells",
+        "Dysmorphic red blood cells",
+        "Urinary eosinophils",
+        "Calcium phosphate crystals"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Renal tubular epithelial cells (single cells or as RTEC casts) shed into the urine when tubules necrose, and together with muddy-brown granular casts strongly suggest ATN.",
+        "Incorrect. Bacteria and WBCs suggest UTI/pyelonephritis.",
+        "Incorrect. Dysmorphic RBCs suggest glomerular bleeding.",
+        "Incorrect. Urinary eosinophils are classically associated with acute interstitial nephritis.",
+        "Incorrect. Calcium phosphate crystals are not the ATN sediment finding described."
+      ]
+    },
+    {
+      "id": 21,
+      "stem": "A 72-year-old man with new AKI has a fractional excretion of sodium (FENa) of 3%. Which interpretation is most consistent with the brick?",
+      "choices": [
+        "Prerenal AKI",
+        "Postrenal AKI",
+        "Acute tubular necrosis",
+        "Normal kidney function",
+        "Glomerulonephritis"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Prerenal AKI typically shows FENa <1% as RAAS activation drives sodium reabsorption.",
+        "Incorrect. Postrenal AKI shows variable FENa according to the brick.",
+        "Correct. In ATN, damaged tubules cannot reabsorb sodium well, so urine sodium and FENa are increased (>2%).",
+        "Incorrect. FENa is calculated in the setting of AKI workup, not normal function.",
+        "Incorrect. The brick uses FENa to distinguish ATN from prerenal AKI, not glomerulonephritis."
+      ]
+    },
+    {
+      "id": 22,
+      "stem": "A 60-year-old woman in volume-depleted prerenal AKI has a FENa value reflecting maximal renal sodium conservation. Which value best fits this scenario?",
+      "choices": [
+        "<1%",
+        "2-3%",
+        "4-5%",
+        ">10%",
+        "Always 0%"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. In prerenal AKI from volume depletion, RAAS activation maximizes salt and water reabsorption, producing minimal urine sodium and a low FENa <1%.",
+        "Incorrect. FENa >2% is the threshold the brick uses for ATN, not prerenal AKI.",
+        "Incorrect. This range is even more typical of ATN, not avid sodium reabsorption.",
+        "Incorrect. >10% is well above any physiologic value cited.",
+        "Incorrect. FENa is rarely truly 0%; the brick uses <1% as the prerenal threshold."
+      ]
+    },
+    {
+      "id": 23,
+      "stem": "A 66-year-old man develops ATN after a hypotensive surgical course. He is hemodynamically stable, normokalemic, and not volume overloaded. According to the brick, what is the foundation of management?",
+      "choices": [
+        "Immediate urgent hemodialysis",
+        "High-dose IV corticosteroids",
+        "Supportive care until tubules regenerate",
+        "Urgent renal transplantation",
+        "Continuous loop diuretic infusion"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Dialysis is reserved for severe complications such as refractory hyperkalemia, acidosis, volume overload, or uremia.",
+        "Incorrect. Steroids are not standard ATN therapy in the brick.",
+        "Correct. ATN cannot be cured; management is supportive care (removing the insult, supporting BP, treating electrolyte disorders) until the tubules regenerate on their own.",
+        "Incorrect. ATN often resolves spontaneously and does not warrant transplant.",
+        "Incorrect. Loop diuretics may be used for volume overload but do not convert oliguric ATN or treat the underlying injury."
+      ]
+    },
+    {
+      "id": 24,
+      "stem": "A 70-year-old man in the maintenance phase of ATN has pulmonary edema and oliguria. According to the brick, which intervention may be used to improve urine output?",
+      "choices": [
+        "Mannitol",
+        "Loop diuretics",
+        "Spironolactone",
+        "Acetazolamide",
+        "Vasopressin"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Mannitol is not the brick's recommended agent for oliguric ATN with volume overload.",
+        "Correct. Loop diuretics such as furosemide can be given to oliguric ATN patients with volume overload (e.g., pulmonary edema) to improve urine output, although they do not convert oliguric to nonoliguric ATN.",
+        "Incorrect. Spironolactone is potassium-sparing and would worsen hyperkalemia in ATN.",
+        "Incorrect. Acetazolamide is not the brick's recommended diuretic for ATN.",
+        "Incorrect. Vasopressin would reduce free water clearance, not improve urine output."
+      ]
+    },
+    {
+      "id": 25,
+      "stem": "A 68-year-old man with severe ATN develops uremic pericarditis, refractory hyperkalemia, and worsening metabolic acidosis despite supportive care. According to the brick, which intervention is now indicated?",
+      "choices": [
+        "Continuous IV potassium",
+        "Oral sodium polystyrene only",
+        "Increased nephrotoxic dosing",
+        "Acute hemodialysis",
+        "Observation alone"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Giving IV potassium would worsen the hyperkalemia.",
+        "Incorrect. Oral binders alone are inadequate for life-threatening hyperkalemia in this setting.",
+        "Incorrect. Nephrotoxins should be discontinued, not escalated.",
+        "Correct. When ATN persists with uremic symptoms, life-threatening hyperkalemia, volume overload, or refractory acidosis, acute hemodialysis (or peritoneal dialysis) is indicated until kidney function recovers.",
+        "Incorrect. These complications are life-threatening and require urgent intervention."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,469 @@
+{
+  "id": 42,
+  "title": "Focal Segmental Glomerulosclerosis",
+  "questions": [
+    {
+      "id": 1,
+      "stem": "A 32-year-old man comes in after a life-insurance physical revealed abnormal results. He notes only mild lower extremity edema. BP is 146/94 mm Hg, urinalysis shows 4+ protein, and he is HIV-positive. Renal biopsy confirms focal segmental glomerulosclerosis. Which clinical syndrome best characterizes his presentation?",
+      "choices": [
+        "Nephritic syndrome",
+        "Nephrotic syndrome",
+        "Acute interstitial nephritis",
+        "Rapidly progressive GN",
+        "Isolated hematuria"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Nephritic syndrome features hematuria, RBC casts, and hypertension with mild proteinuria, not the heavy proteinuria of FSGS.",
+        "Correct. FSGS most often presents with the nephrotic syndrome, marked by edema, heavy proteinuria, hyperlipidemia, and increased infections from urinary loss of immunoglobulins.",
+        "Incorrect. AIN typically presents with rash, eosinophilia, and pyuria after a drug exposure, not with heavy proteinuria.",
+        "Incorrect. RPGN features rapid loss of GFR with crescents on biopsy; FSGS shows segmental sclerosis without crescents.",
+        "Incorrect. Isolated hematuria is seen in disorders like IgA nephropathy or thin basement membrane disease, not FSGS."
+      ]
+    },
+    {
+      "id": 2,
+      "stem": "A first-year resident is reading about glomerular pathology and learns that FSGS is named for its biopsy appearance. Which histologic pattern defines FSGS?",
+      "choices": [
+        "All glomeruli, fully sclerosed",
+        "<50% of glomeruli, partly sclerosed",
+        "Diffuse mesangial IgA deposition",
+        "Subepithelial spike-and-dome pattern",
+        "Crescents in Bowman space"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Global, diffuse sclerosis is end-stage disease, not the defining FSGS pattern.",
+        "Correct. FSGS shows sclerosis in <50% of glomeruli (focal) involving <50% of each affected glomerulus (segmental).",
+        "Incorrect. Mesangial IgA deposition defines IgA nephropathy.",
+        "Incorrect. Spike-and-dome subepithelial deposits are seen in membranous nephropathy.",
+        "Incorrect. Crescents are characteristic of rapidly progressive glomerulonephritis, not FSGS."
+      ]
+    },
+    {
+      "id": 3,
+      "stem": "A 28-year-old man of West African descent is diagnosed with steroid-resistant FSGS. His nephrologist mentions a gene variant that confers protection against an African parasite but raises FSGS risk roughly 17-fold. Which gene is implicated?",
+      "choices": ["NPHS1", "APOL1", "PKD1", "WT1", "COL4A5"],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. NPHS1 encodes nephrin and is implicated in hereditary congenital nephrotic syndrome, not the West African risk variant.",
+        "Correct. APOL1 variants protect against Trypanosoma brucei (African sleeping sickness) but increase FSGS risk about 17-fold and are linked to steroid-resistant disease.",
+        "Incorrect. PKD1 mutations cause autosomal dominant polycystic kidney disease.",
+        "Incorrect. WT1 mutations cause Denys-Drash and Frasier syndromes, not the West African FSGS risk variant.",
+        "Incorrect. COL4A5 mutations cause Alport syndrome."
+      ]
+    },
+    {
+      "id": 4,
+      "stem": "A 45-year-old man with a BMI of 48 develops 4 g/day proteinuria. Biopsy shows focal segmental glomerulosclerosis. Which mechanism best explains his FSGS?",
+      "choices": [
+        "Immune complex deposition",
+        "Glomerular hyperfiltration",
+        "Antibody to phospholipase A2 receptor",
+        "ANCA-mediated capillaritis",
+        "Cryoglobulin precipitation"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. FSGS is not initiated by immune complex deposition; the trigger is hemodynamic/toxic.",
+        "Correct. Morbid obesity raises glomerular pressures and filtration, producing podocyte injury and compensatory (adaptive) FSGS.",
+        "Incorrect. Anti-PLA2R antibodies define membranous nephropathy.",
+        "Incorrect. ANCA-mediated injury produces pauci-immune crescentic GN.",
+        "Incorrect. Cryoglobulins cause membranoproliferative GN, not FSGS."
+      ]
+    },
+    {
+      "id": 5,
+      "stem": "A 35-year-old man with newly diagnosed HIV is found to have nephrotic-range proteinuria and biopsy-proven FSGS. Which category of secondary FSGS does his disease represent?",
+      "choices": [
+        "Drug-related",
+        "Hereditary",
+        "Infection-related",
+        "Compensatory (adaptive)",
+        "Immune complex"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Drug-related FSGS is linked to bisphosphonates, interferon, heroin, and anabolic steroids.",
+        "Incorrect. Hereditary FSGS is from gene mutations such as nephrin defects, not HIV.",
+        "Correct. HIV is the classic infection-related secondary cause of FSGS, also called HIV nephropathy.",
+        "Incorrect. Compensatory FSGS arises from glomerular overload (obesity, reflux, loss of renal mass).",
+        "Incorrect. FSGS is not driven by immune complex deposition."
+      ]
+    },
+    {
+      "id": 6,
+      "stem": "A 27-year-old man with a history of intravenous drug use develops nephrotic syndrome. Biopsy shows FSGS. Which substance from his history is the most likely contributor?",
+      "choices": [
+        "Cocaine",
+        "Heroin",
+        "Methamphetamine",
+        "Alcohol",
+        "Cannabis"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Cocaine is associated with renal infarction and rhabdomyolysis-related AKI, not FSGS.",
+        "Correct. Heroin (and anabolic steroids) is a recognized illicit-drug cause of secondary FSGS.",
+        "Incorrect. Methamphetamine is not the brick's listed FSGS trigger.",
+        "Incorrect. Alcohol is not implicated as a direct cause of FSGS.",
+        "Incorrect. Cannabis is not listed by the brick as a cause of FSGS."
+      ]
+    },
+    {
+      "id": 7,
+      "stem": "A 7-year-old child has congenital nephrotic syndrome. Genetic testing reveals a chromosome 19 mutation in the gene for nephrin. Which type of FSGS does she have?",
+      "choices": [
+        "Compensatory FSGS",
+        "Drug-related FSGS",
+        "Infection-related FSGS",
+        "Hereditary FSGS",
+        "Primary (idiopathic) FSGS"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Compensatory FSGS results from hyperfiltration (obesity, reflux, loss of renal mass).",
+        "Incorrect. Drug-related FSGS follows exposure to bisphosphonates, interferon, heroin, or anabolic steroids.",
+        "Incorrect. Infection-related FSGS is most often associated with HIV.",
+        "Correct. Nephrin gene mutations on chromosome 19 are the prototype hereditary cause of FSGS and congenital nephrotic syndrome.",
+        "Incorrect. Primary FSGS is idiopathic by definition; this patient has a known genetic cause."
+      ]
+    },
+    {
+      "id": 8,
+      "stem": "A 50-year-old man underwent partial nephrectomy for renal cell carcinoma in his solitary kidney, losing more than 75% of functional renal mass. Five years later he develops nephrotic-range proteinuria and biopsy shows FSGS. What is the underlying mechanism?",
+      "choices": [
+        "Direct surgical scar",
+        "Glomerular hyperfiltration",
+        "Renal artery thrombosis",
+        "Recurrent pyelonephritis",
+        "Anti-GBM antibody injury"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. The sclerosis is generalized to remaining glomeruli, not localized to the surgical bed.",
+        "Correct. Loss of >75% of renal mass forces remaining nephrons to hyperfilter, producing glomerular hypertrophy, podocyte injury, and compensatory FSGS.",
+        "Incorrect. Renal artery thrombosis would cause infarction, not nephrotic-range proteinuria.",
+        "Incorrect. Pyelonephritis is a tubulointerstitial process, not a cause of nephrotic syndrome.",
+        "Incorrect. Anti-GBM disease causes a crescentic GN with hematuria, not FSGS."
+      ]
+    },
+    {
+      "id": 9,
+      "stem": "A 30-year-old healthy woman wants to donate a kidney to her brother. She is concerned about future risk of FSGS. According to the brick, what is her risk?",
+      "choices": [
+        "No higher than baseline",
+        "Twofold higher",
+        "Fivefold higher",
+        "Tenfold higher",
+        "Equal to losing 75% of renal mass"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Healthy donors lose only ~50% of renal mass, which the brick states does not raise FSGS risk above baseline.",
+        "Incorrect. The brick does not describe a meaningful elevation in FSGS risk after standard kidney donation.",
+        "Incorrect. The brick does not assign a fivefold risk to kidney donors.",
+        "Incorrect. The brick does not assign a tenfold risk to kidney donors.",
+        "Incorrect. The >75% renal-mass-loss threshold (e.g., partial resection of a solitary kidney) is what carries the FSGS risk, not standard donation."
+      ]
+    },
+    {
+      "id": 10,
+      "stem": "A 38-year-old man with biopsy-proven FSGS asks why his kidneys are scarring. The nephrologist explains that one cell type is the central target of injury and drives the cytokine cascade leading to glomerulosclerosis. Which cell is it?",
+      "choices": [
+        "Mesangial cell",
+        "Endothelial cell",
+        "Podocyte",
+        "Parietal epithelial cell",
+        "Tubular epithelial cell"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Mesangial proliferation occurs but is downstream of podocyte injury in FSGS.",
+        "Incorrect. Endothelial injury is more characteristic of thrombotic microangiopathy.",
+        "Correct. Podocyte damage is the key initiating event in FSGS, releasing cytokines that drive glomerular sclerosis.",
+        "Incorrect. Parietal epithelial cells line Bowman capsule but are not the central target in FSGS.",
+        "Incorrect. Tubular epithelial cells are involved in acute tubular necrosis, not the primary injury in FSGS."
+      ]
+    },
+    {
+      "id": 11,
+      "stem": "A 40-year-old man with FSGS undergoes electron microscopy of a renal biopsy. Which is the earliest histologic finding of FSGS?",
+      "choices": [
+        "Subepithelial dense deposits",
+        "Crescent formation",
+        "Foot process effacement",
+        "Linear IgG along the GBM",
+        "Tram-track double contours"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Subepithelial dense deposits define membranous nephropathy.",
+        "Incorrect. Crescents indicate rapidly progressive GN.",
+        "Correct. Podocyte foot process effacement (flattening across the GBM) is the earliest histologic finding of FSGS, similar to minimal change disease.",
+        "Incorrect. Linear IgG along the GBM is the hallmark of anti-GBM disease.",
+        "Incorrect. Tram-track double contours are seen in membranoproliferative GN."
+      ]
+    },
+    {
+      "id": 12,
+      "stem": "A 9-year-old boy initially diagnosed with minimal change disease responds poorly to steroids. Repeat biopsy 2 years later shows segmental sclerosis. Which statement best explains this evolution?",
+      "choices": [
+        "MCD never progresses to FSGS",
+        "Some MCD progresses to FSGS",
+        "MCD always becomes membranous",
+        "He has Alport syndrome",
+        "He has IgA nephropathy"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. The brick states some cases of MCD do appear to progress to FSGS over time.",
+        "Correct. MCD and FSGS share podocyte injury, and some MCD cases progress to FSGS, particularly when steroid-resistant.",
+        "Incorrect. MCD does not transition to membranous nephropathy.",
+        "Incorrect. Alport syndrome features hematuria and sensorineural hearing loss, not segmental sclerosis evolving from MCD.",
+        "Incorrect. IgA nephropathy presents with hematuria after URI, distinct from this picture."
+      ]
+    },
+    {
+      "id": 13,
+      "stem": "A 50-year-old woman with suspected nephrotic syndrome undergoes immunofluorescence on her kidney biopsy. Which finding is most consistent with FSGS?",
+      "choices": [
+        "Linear IgG along the GBM",
+        "IgA in the mesangium",
+        "Granular subepithelial IgG and C3",
+        "IgM and C3 in sclerotic segments",
+        "Negative immunofluorescence"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Linear IgG along the GBM defines anti-GBM disease.",
+        "Incorrect. Mesangial IgA defines IgA nephropathy.",
+        "Incorrect. Granular subepithelial IgG and C3 are seen in membranous nephropathy.",
+        "Correct. FSGS may show IgM and C3 deposition within the sclerotic segments on immunofluorescence.",
+        "Incorrect. Pauci-immune (negative) IF is the pattern of ANCA-associated GN, not FSGS."
+      ]
+    },
+    {
+      "id": 14,
+      "stem": "A 55-year-old woman with edema and hyperlipidemia has a 24-hour urine protein of 5 g. Which urine finding is most consistent with FSGS?",
+      "choices": [
+        "1+ protein on dipstick",
+        "3+ glucose on urinalysis",
+        "Leukocytes only",
+        "Protein <1 g per 24 hours",
+        "Spot protein/creatinine ratio >3.5"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. Trace dipstick proteinuria does not match the heavy proteinuria typical of FSGS.",
+        "Incorrect. Glucosuria suggests diabetes or proximal tubule defects, not FSGS.",
+        "Incorrect. Leukocytes alone suggest urinary tract infection or interstitial nephritis.",
+        "Incorrect. Lower-grade proteinuria is possible in FSGS but is not the most expected finding.",
+        "Correct. A spot urine protein/creatinine ratio >3.5 reflects nephrotic-range proteinuria, the most expected finding in FSGS."
+      ]
+    },
+    {
+      "id": 15,
+      "stem": "A 52-year-old man has lower extremity edema, BP 152/96 mm Hg, and 4 g/24 h urine protein. Biopsy confirms FSGS. Which serum study is most important to obtain to identify a treatable secondary cause?",
+      "choices": [
+        "Antinuclear antibody",
+        "c-ANCA",
+        "HIV antibody",
+        "p-ANCA",
+        "Serum protein electrophoresis"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. ANA is sent to evaluate for lupus, but HIV is the secondary cause directly tied to FSGS.",
+        "Incorrect. c-ANCA suggests granulomatosis with polyangiitis, which causes nephritic, not nephrotic, disease.",
+        "Correct. HIV is a major treatable secondary cause of FSGS; testing for HIV is essential in any new FSGS diagnosis.",
+        "Incorrect. p-ANCA is associated with microscopic polyangiitis and EGPA, not FSGS.",
+        "Incorrect. SPEP screens for plasma cell dyscrasias and is not the brick's recommended FSGS workup test."
+      ]
+    },
+    {
+      "id": 16,
+      "stem": "A 45-year-old woman with nephrotic-range proteinuria has a serum complement level checked. Which result fits FSGS?",
+      "choices": [
+        "Normal complement",
+        "Low C3, normal C4",
+        "Low C3 and low C4",
+        "Normal C3, low C4",
+        "Undetectable CH50"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Serum complement is normal in FSGS; low complement points instead to membranoproliferative GN or lupus nephritis.",
+        "Incorrect. Isolated low C3 suggests post-infectious GN or MPGN, not FSGS.",
+        "Incorrect. Low C3 and C4 are classic for lupus nephritis.",
+        "Incorrect. Low C4 with normal C3 is more typical of cryoglobulinemic disease.",
+        "Incorrect. An undetectable CH50 implies global complement consumption, inconsistent with FSGS."
+      ]
+    },
+    {
+      "id": 17,
+      "stem": "A 55-year-old woman with FSGS has serum chemistries drawn. Which combination of serum findings is most expected?",
+      "choices": [
+        "Hyperalbuminemia and hypolipidemia",
+        "Hypoalbuminemia and hyperlipidemia",
+        "Hypoalbuminemia and hypolipidemia",
+        "Hyperalbuminemia and hyperlipidemia",
+        "Hypercalcemia and hyperphosphatemia"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Urinary loss of albumin lowers serum albumin, and the liver compensates by raising lipid output.",
+        "Correct. FSGS is a nephrotic process: albumin is lost in urine (hypoalbuminemia) and the liver responds by increasing lipid synthesis (hyperlipidemia).",
+        "Incorrect. Hyperlipidemia, not hypolipidemia, accompanies hypoalbuminemia in nephrotic syndrome.",
+        "Incorrect. Heavy urinary albumin loss precludes hyperalbuminemia.",
+        "Incorrect. Calcium and phosphate disturbances are not the brick's expected nephrotic findings."
+      ]
+    },
+    {
+      "id": 18,
+      "stem": "A 40-year-old man with the nephrotic syndrome develops a sudden swollen, painful left flank with hematuria. The clinician suspects renal vein thrombosis. Which urinary loss best explains his thrombotic tendency?",
+      "choices": [
+        "Albumin",
+        "Antithrombin",
+        "Immunoglobulin",
+        "Vitamin D-binding protein",
+        "Transferrin"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Albumin loss explains edema and hyperlipidemia, not hypercoagulability.",
+        "Correct. Urinary loss of antithrombin (an anticoagulant) drives the thrombotic state of nephrotic syndrome, including renal vein thrombosis.",
+        "Incorrect. Loss of immunoglobulins explains increased infection risk, not clotting.",
+        "Incorrect. Vitamin D-binding protein loss contributes to vitamin D deficiency, not thrombosis.",
+        "Incorrect. Transferrin loss contributes to anemia, not hypercoagulability."
+      ]
+    },
+    {
+      "id": 19,
+      "stem": "A 60-year-old man with FSGS reports recurrent infections. His clinician explains that nephrotic patients lose a key protein in the urine that increases infection risk. Which protein is it?",
+      "choices": [
+        "Antithrombin",
+        "Immunoglobulin",
+        "Albumin",
+        "Fibrinogen",
+        "Haptoglobin"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Antithrombin loss promotes thrombosis, not infection.",
+        "Correct. Urinary loss of immunoglobulins in nephrotic syndrome leaves patients more susceptible to infections.",
+        "Incorrect. Albumin loss causes edema but does not directly impair immune defense.",
+        "Incorrect. Fibrinogen is not lost in significant amounts and is actually elevated in nephrotic syndrome.",
+        "Incorrect. Haptoglobin loss is not the brick's stated cause of nephrotic infection risk."
+      ]
+    },
+    {
+      "id": 20,
+      "stem": "A 48-year-old woman with new nephrotic syndrome has serum anti-phospholipase A2 receptor antibodies sent. The result is positive. Which diagnosis does this support?",
+      "choices": [
+        "FSGS",
+        "Membranous nephropathy",
+        "IgA nephropathy",
+        "Minimal change disease",
+        "Lupus nephritis"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Anti-PLA2R antibodies are not a feature of FSGS.",
+        "Correct. Anti-PLA2R antibodies indicate primary membranous nephropathy, helping distinguish it from FSGS during the workup.",
+        "Incorrect. IgA nephropathy is a nephritic disease without anti-PLA2R antibodies.",
+        "Incorrect. Minimal change disease lacks specific serologic markers like anti-PLA2R.",
+        "Incorrect. Lupus nephritis is suggested by ANA and anti-dsDNA antibodies, not anti-PLA2R."
+      ]
+    },
+    {
+      "id": 21,
+      "stem": "A 45-year-old man has 4 g/day proteinuria and concerning clinical features for FSGS. After serologies and urine studies, which test is required to confirm the diagnosis?",
+      "choices": [
+        "CT urography",
+        "Renal arteriography",
+        "Renal biopsy",
+        "24-hour creatinine clearance",
+        "Cystoscopy"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. CT urography evaluates anatomy, not glomerular pathology.",
+        "Incorrect. Arteriography assesses vascular disease, not glomerular sclerosis.",
+        "Correct. Renal biopsy is required to definitively diagnose FSGS, since treatment varies among the causes of nephrotic syndrome.",
+        "Incorrect. Creatinine clearance estimates GFR but does not establish the FSGS diagnosis.",
+        "Incorrect. Cystoscopy evaluates the bladder and is unrelated to glomerular disease."
+      ]
+    },
+    {
+      "id": 22,
+      "stem": "A 55-year-old man with biopsy-proven FSGS has a BP of 150/95 mm Hg. Which BP target should guide his therapy?",
+      "choices": [
+        "<160/100 mm Hg",
+        "<150/90 mm Hg",
+        "<140/90 mm Hg",
+        "<130/80 mm Hg",
+        "<120/70 mm Hg"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. This target is too lenient for CKD with proteinuria.",
+        "Incorrect. This target is too lenient for FSGS with CKD.",
+        "Incorrect. The brick specifies a stricter goal than 140/90 for FSGS.",
+        "Correct. Excellent BP control to <130/80 mm Hg is recommended in FSGS, as in any cause of CKD.",
+        "Incorrect. The brick does not require BP this low; <130/80 is the target."
+      ]
+    },
+    {
+      "id": 23,
+      "stem": "A 38-year-old woman with FSGS and nephrotic-range proteinuria is started on supportive care. Which class is a recommended first-line agent to lower proteinuria and slow disease progression?",
+      "choices": [
+        "Beta-blockers",
+        "Calcium channel blockers",
+        "ACE inhibitors",
+        "Loop diuretics",
+        "Alpha-blockers"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Beta-blockers do not specifically lower proteinuria.",
+        "Incorrect. Calcium channel blockers are antihypertensives but are not the brick's first-line antiproteinuric agents.",
+        "Correct. ACE inhibitors lower proteinuria and slow progression of CKD in FSGS, alongside SGLT2 inhibitors.",
+        "Incorrect. Loop diuretics relieve edema but do not slow disease progression.",
+        "Incorrect. Alpha-blockers are not used to reduce proteinuria in FSGS."
+      ]
+    },
+    {
+      "id": 24,
+      "stem": "A 40-year-old man has biopsy-proven FSGS with the nephrotic syndrome. Which therapy is most efficacious for his disease?",
+      "choices": [
+        "ACE inhibitor",
+        "Corticosteroids",
+        "Cyclosporine",
+        "Mycophenolate",
+        "Renal transplantation"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. ACE inhibitors are useful supportive therapy and may suffice for proteinuria <3.5 g/day, but are not the most efficacious option for nephrotic FSGS.",
+        "Correct. Corticosteroids (e.g., prednisone) are the main immunosuppressive treatment for FSGS with nephrotic syndrome.",
+        "Incorrect. Cyclosporine is sometimes added to spare steroid toxicity but is not the primary agent.",
+        "Incorrect. Mycophenolate is sometimes added as a steroid-sparing agent but is not first-line.",
+        "Incorrect. Transplantation is reserved for end-stage disease, and FSGS may even recur in the graft."
+      ]
+    },
+    {
+      "id": 25,
+      "stem": "A 50-year-old man with FSGS asks about long-term prognosis. According to the brick, what is the approximate risk of progressing to end-stage renal disease within 5-10 years?",
+      "choices": ["<5%", "10%", "25%", "50%", ">90%"],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Far higher than the brick's stated rate.",
+        "Incorrect. Below the brick's cited progression rate.",
+        "Incorrect. Below the brick's cited progression rate.",
+        "Correct. Roughly 50% of FSGS patients progress to ESRD within 5-10 years, especially with elevated creatinine, nephrotic proteinuria, or steroid resistance.",
+        "Incorrect. The brick does not assert near-universal progression to ESRD."
+      ]
+    }
+  ]
+}

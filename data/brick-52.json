@@ -1,0 +1,481 @@
+{
+  "id": 52,
+  "title": "Renal Papillary Necrosis",
+  "questions": [
+    {
+      "id": 1,
+      "stem": "A 17-year-old man with sickle cell disease arrives in the ED with sudden left flank pain and gross hematuria after a gym workout. Urinalysis shows blood without bacteria or white cells. Which pathologic process is occurring in his kidney?",
+      "choices": [
+        "Glomerular basement membrane rupture",
+        "Crystalline tubular obstruction",
+        "Cortical infarction",
+        "Acute interstitial nephritis",
+        "Death of renal papillary cells"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. RPN is necrosis of papillae, not glomerular injury.",
+        "Incorrect. Crystals are not the mechanism of RPN.",
+        "Incorrect. RPN targets the inner medulla/papillae, not the cortex.",
+        "Incorrect. AIN is interstitial inflammation, a separate NSAID-related pattern distinct from RPN.",
+        "Correct. Renal papillary necrosis is death (necrosis) of the renal papillae, the specialized structures of the inner medulla that drain collecting ducts into the calyces."
+      ]
+    },
+    {
+      "id": 2,
+      "stem": "A medical student asks which patient population is most often affected by renal papillary necrosis. Which is the most common risk factor cited in the brick?",
+      "choices": [
+        "Chronic hypertension",
+        "Sickle cell disease",
+        "Polycystic kidney disease",
+        "IgA nephropathy",
+        "Lupus nephritis"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Hypertension is not the leading risk factor for RPN.",
+        "Correct. Sickle cell disease is the most common risk factor for RPN; vaso-occlusion of small papillary vessels by sickled RBCs causes ischemia and necrosis.",
+        "Incorrect. PKD is a cystic disorder unrelated to papillary ischemia.",
+        "Incorrect. IgA nephropathy is a glomerular disease, not a cause of RPN.",
+        "Incorrect. Lupus nephritis is glomerular and not the leading RPN risk factor."
+      ]
+    },
+    {
+      "id": 3,
+      "stem": "A 25-year-old man with sickle cell disease has RPN found incidentally on imaging done for trauma. He has no symptoms. What is the most common clinical presentation of RPN?",
+      "choices": [
+        "Rapidly progressive azotemia",
+        "Anuria",
+        "Nephrotic-range proteinuria",
+        "Severe hypertension",
+        "Asymptomatic"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. RPN is usually asymptomatic, not rapidly progressive renal failure.",
+        "Incorrect. Anuria is not the typical RPN presentation.",
+        "Incorrect. Nephrotic proteinuria is a glomerular pattern, not RPN.",
+        "Incorrect. Severe hypertension is not a defining feature.",
+        "Correct. Most patients with RPN are asymptomatic, and the diagnosis is often found on imaging done for another reason."
+      ]
+    },
+    {
+      "id": 4,
+      "stem": "A 70-year-old man with diabetes develops new-onset left flank pain and gross hematuria. Why does sloughed necrotic papillary tissue produce flank pain in RPN?",
+      "choices": [
+        "Glomerular capillary rupture",
+        "Renal capsule infarction",
+        "Direct papillary nerve damage",
+        "Urine outflow obstruction",
+        "Ischemia of the renal calyces"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Glomerular rupture is not the mechanism of flank pain in RPN.",
+        "Incorrect. The capsule is not the site of the necrotic process.",
+        "Incorrect. The brick attributes pain to obstruction, not direct nerve injury.",
+        "Correct. Sloughed necrotic papillary tissue can obstruct urine outflow; rising pressure behind the obstruction is sensed as flank or back pain, mimicking stones or pyelonephritis.",
+        "Incorrect. Calyces themselves are not described as the ischemic site in the brick."
+      ]
+    },
+    {
+      "id": 5,
+      "stem": "A 19-year-old woman with sickle cell disease and known RPN reports passing very large volumes of dilute urine for months. Which additional symptom does the brick associate specifically with SCD-related RPN?",
+      "choices": [
+        "Edema",
+        "Hypercalcemia",
+        "Polyuria",
+        "Macroglobulinuria",
+        "Hyperkalemia"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Edema is not the brick's described feature of SCD-related RPN.",
+        "Incorrect. Hypercalcemia is not described as an RPN feature in this brick.",
+        "Correct. SCD-related RPN damages the loops of Henle, impairing urinary concentration and causing polyuria in addition to the usual RPN findings.",
+        "Incorrect. Macroglobulinuria is not a feature of RPN.",
+        "Incorrect. Hyperkalemia is not described as an RPN-specific feature."
+      ]
+    },
+    {
+      "id": 6,
+      "stem": "A pathology resident reviewing renal anatomy is asked which small arteries supply the renal medulla and papillae. Which vessels are these?",
+      "choices": [
+        "Arcuate arteries",
+        "Vasa recta",
+        "Interlobular arteries",
+        "Peritubular capillaries of cortex",
+        "Segmental arteries"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Arcuate arteries lie at the corticomedullary junction, not within the medulla supplying papillae.",
+        "Correct. The vasa recta are the small arteries that supply the renal medulla and papillae and are the vulnerable vessels in RPN.",
+        "Incorrect. Interlobular arteries supply the cortex.",
+        "Incorrect. Peritubular capillaries supply cortical tubules, not papillae.",
+        "Incorrect. Segmental arteries are large upstream branches of the renal artery."
+      ]
+    },
+    {
+      "id": 7,
+      "stem": "A medical student asks why the vasa recta are uniquely vulnerable to occlusion and ischemia compared with other renal vessels. Which two features explain this?",
+      "choices": [
+        "Thin endothelium and high pressure",
+        "Direct sympathetic innervation",
+        "High oncotic pressure, hyperosmolar zone",
+        "Lack of basement membrane integrity",
+        "Continuous endothelial fenestrations"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Pressure and endothelial thinness are not the brick's explanation.",
+        "Incorrect. Sympathetic innervation is not the brick's stated reason.",
+        "Correct. The vasa recta carry post-glomerular blood with high viscosity/oncotic pressure and run through the hyperosmolar inner medulla, making them prone to occlusion, vasospasm, and injury.",
+        "Incorrect. Basement membrane structure is not the brick's explanation.",
+        "Incorrect. Fenestrations are not the brick's explanation for vasa recta vulnerability."
+      ]
+    },
+    {
+      "id": 8,
+      "stem": "A 22-year-old man with sickle cell disease in a vaso-occlusive crisis develops flank pain and hematuria. What is the precise mechanism by which SCD causes RPN?",
+      "choices": [
+        "Autoantibody-mediated tubular injury",
+        "Vaso-occlusion by sickled RBCs",
+        "Direct papillary toxicity of hemoglobin S",
+        "Complement-mediated medullary lysis",
+        "Crystal precipitation in collecting ducts"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. SCD does not cause RPN via autoantibodies.",
+        "Correct. Sickled RBCs occlude the small papillary vessels (vaso-occlusion), producing temporary ischemia, medullary/papillary infarction, and necrosis.",
+        "Incorrect. The brick describes vessel occlusion, not direct hemoglobin toxicity.",
+        "Incorrect. Complement-mediated lysis is not the mechanism.",
+        "Incorrect. Crystal precipitation is not the SCD mechanism in this brick."
+      ]
+    },
+    {
+      "id": 9,
+      "stem": "A 68-year-old man with longstanding type 2 diabetes develops gross hematuria and flank pain. By what mechanism does diabetes predispose him to RPN?",
+      "choices": [
+        "ACE-inhibitor afferent dilation",
+        "Glomerular hyperfiltration injury",
+        "Direct glucotoxic tubular injury",
+        "Microvascular arteriolar narrowing",
+        "Insulin-induced papillary vasospasm"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. ACE inhibitors are not implicated as the mechanism of diabetic RPN.",
+        "Incorrect. Hyperfiltration affects glomeruli, not the brick's RPN mechanism.",
+        "Incorrect. The brick attributes diabetic RPN to microvascular narrowing, not glucotoxicity.",
+        "Correct. Diabetic microvascular disease narrows arterioles supplying the medulla, reducing papillary blood flow and causing ischemia, analogous to the mechanism in SCD.",
+        "Incorrect. Insulin-induced vasospasm is not described."
+      ]
+    },
+    {
+      "id": 10,
+      "stem": "A 62-year-old woman with severe osteoarthritis has taken high doses of combined acetaminophen and ibuprofen for 15 years. Her GFR has slowly declined and imaging shows papillary calcifications. Which mechanism best explains her analgesic-related RPN?",
+      "choices": [
+        "Loss of prostaglandin vasodilation",
+        "Direct nephron crystal deposition",
+        "Immune complex glomerulonephritis",
+        "Hyperkalemic tubular injury pattern",
+        "Acute drug-induced tubular obstruction"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. NSAIDs inhibit cyclooxygenase, reducing prostaglandin-mediated vasodilation of the vasa recta; acetaminophen adds oxidative stress in the medulla, together causing chronic ischemic papillary injury.",
+        "Incorrect. Crystal deposition is not the mechanism of analgesic nephropathy.",
+        "Incorrect. Immune complex disease is not the brick's mechanism.",
+        "Incorrect. Hyperkalemia is not the cited mechanism.",
+        "Incorrect. Acute drug obstruction is not the mechanism."
+      ]
+    },
+    {
+      "id": 11,
+      "stem": "A nephrology fellow lists the major causes of RPN. Which mnemonic-style grouping reflects the causes the brick explicitly identifies?",
+      "choices": [
+        "Glomerulonephritis, HTN, PCKD, lupus, amyloid",
+        "Hypercalcemia, hyperuricemia, and contrast injury",
+        "ATN, AIN, and prerenal AKI categories only",
+        "Crystal nephropathy, stones, and uric acid disease",
+        "Pyelonephritis, SCD, TB, DM, analgesics, vasculitis"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. These are not the brick's listed causes of RPN.",
+        "Incorrect. These are not the brick's RPN causes.",
+        "Incorrect. These AKI categories are not the brick's RPN list.",
+        "Incorrect. Crystal nephropathy is not in the brick's list.",
+        "Correct. The brick lists POSTCARDS-style causes: Pyelonephritis, Obstruction, Sickle cell, Tuberculosis, Cirrhosis, chronic Hemoglobinopathies, Analgesic abuse, Renal transplant rejection, Diabetes mellitus, and Systemic vasculitis."
+      ]
+    },
+    {
+      "id": 12,
+      "stem": "A 55-year-old woman with chronic pyelonephritis develops RPN. By what mechanism does pyelonephritis lead to papillary necrosis?",
+      "choices": [
+        "Crystalline obstruction",
+        "Sickling of polymorphonuclear cells",
+        "Direct bacterial papillary invasion",
+        "Loop diuretic effect",
+        "Diffuse inflammation of the kidney"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. Crystalline obstruction is not the mechanism.",
+        "Incorrect. PMN sickling is not the mechanism.",
+        "Incorrect. The brick attributes pyelonephritis-related RPN to inflammation, not direct invasion.",
+        "Incorrect. There is no loop diuretic mechanism here.",
+        "Correct. Upper urinary tract infections (pyelonephritis) may complicate to RPN through diffuse inflammation that damages the papillae."
+      ]
+    },
+    {
+      "id": 13,
+      "stem": "A pathologist describes the histology of a kidney specimen. Which combination of findings is characteristic of RPN?",
+      "choices": [
+        "Glomerular crescents with fibrin",
+        "Eosinophilic interstitial infiltrate",
+        "Papillary necrosis with neutrophils",
+        "Glomerular spike-and-dome deposits",
+        "Wire-loop subendothelial lesions"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Crescents indicate rapidly progressive glomerulonephritis.",
+        "Incorrect. Eosinophilic infiltrate suggests acute interstitial nephritis.",
+        "Correct. RPN histology shows papillae with necrotic tissue sloughing into the renal pelvis, tubular necrosis, and neutrophilic inflammatory infiltrates.",
+        "Incorrect. Spike-and-dome is membranous nephropathy.",
+        "Incorrect. Wire loops are characteristic of lupus nephritis."
+      ]
+    },
+    {
+      "id": 14,
+      "stem": "A 30-year-old woman with SCD has flank pain and hematuria. Urinalysis is performed. Which finding is typical in RPN?",
+      "choices": [
+        "Dysmorphic RBCs and RBC casts",
+        "Eosinophiluria",
+        "Massive proteinuria with oval fat bodies",
+        "Hematuria and tubular epithelial cells",
+        "Hyaline casts only"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. RBC casts suggest glomerulonephritis, not RPN.",
+        "Incorrect. Eosinophiluria suggests AIN.",
+        "Incorrect. Heavy proteinuria with oval fat bodies suggests nephrotic syndrome.",
+        "Correct. The typical urinalysis in RPN shows RBCs (hematuria) and sloughed tubular epithelial cells; if secondary pyelonephritis is present, bacteria, WBCs, and WBC casts may also appear.",
+        "Incorrect. Hyaline casts are nonspecific and not the typical RPN finding."
+      ]
+    },
+    {
+      "id": 15,
+      "stem": "A 60-year-old man with chronic analgesic use is admitted with suspected RPN. Which serum finding does the brick describe as typical?",
+      "choices": [
+        "Anion gap metabolic acidosis",
+        "Marked refractory hyperkalemia",
+        "Subacute creatinine rise",
+        "Markedly elevated creatine kinase",
+        "Hyponatremia with low osmolality"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Anion gap acidosis is not specified.",
+        "Incorrect. Marked hyperkalemia is not the brick's described serum finding.",
+        "Correct. RPN often shows an acute or subacute rise in serum creatinine caused by reduced GFR.",
+        "Incorrect. CK elevation is not the brick's described finding.",
+        "Incorrect. Hyponatremia is not described as a typical serum finding."
+      ]
+    },
+    {
+      "id": 16,
+      "stem": "A 57-year-old man with flank pain and hematuria is being worked up to distinguish RPN from a kidney stone. Which initial imaging study is most appropriate?",
+      "choices": [
+        "Abdominal X-ray",
+        "Cystoscopy",
+        "Intravenous urography",
+        "Renal sonography",
+        "Retrograde pyelography"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Abdominal X-ray has low sensitivity for these conditions.",
+        "Incorrect. Cystoscopy evaluates the bladder, not the kidney.",
+        "Incorrect. IV urography requires iodinated contrast, which is avoided in suspected RPN.",
+        "Correct. Renal ultrasound (sonography) is helpful to rule out stones, can be done without contrast, and is the brick's preferred initial imaging in RPN.",
+        "Incorrect. Retrograde pyelography is invasive and not the initial study."
+      ]
+    },
+    {
+      "id": 17,
+      "stem": "A 72-year-old woman with longstanding SCD has small, echogenic kidneys with calcified papillae on imaging. Which form of RPN is this picture most consistent with?",
+      "choices": [
+        "Acute pyelonephritis-related RPN",
+        "Vasculitis-related acute RPN",
+        "Long-standing/chronic RPN",
+        "Transplant hyperacute rejection",
+        "Hemodynamic AKI"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Acute pyelonephritis would not produce this chronic picture.",
+        "Incorrect. Acute vasculitic injury does not present this way.",
+        "Correct. In long-standing disease, such as chronic SCD or chronic analgesic use, ultrasound may show small, echogenic kidneys with calcified papillae.",
+        "Incorrect. Hyperacute rejection is an immediate post-transplant event.",
+        "Incorrect. Hemodynamic AKI does not give this imaging pattern."
+      ]
+    },
+    {
+      "id": 18,
+      "stem": "A 50-year-old woman with suspected RPN has rising creatinine. The radiologist suggests CT with IV contrast. Why does the brick recommend against contrast in this patient?",
+      "choices": [
+        "Risk of contrast nephropathy",
+        "Risk of allergic anaphylactic reaction",
+        "Reduces image quality of papillae",
+        "Triggers a vaso-occlusive crisis",
+        "Precipitates within tubules with NSAIDs"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Iodinated contrast is generally avoided in RPN because of the risk of contrast nephropathy and acute tubular necrosis on top of already-injured kidneys.",
+        "Incorrect. Allergic risk exists but is not the brick's main reason.",
+        "Incorrect. Image quality is not the issue.",
+        "Incorrect. Contrast is not described as causing sickle crises in this brick.",
+        "Incorrect. Contrast does not precipitate with NSAIDs."
+      ]
+    },
+    {
+      "id": 19,
+      "stem": "A 60-year-old man newly diagnosed with RPN due to NSAID use asks about treatment. According to the brick, what is the cornerstone of RPN management?",
+      "choices": [
+        "Urgent intermittent hemodialysis",
+        "Treat the cause; maintain hydration",
+        "High-dose intravenous corticosteroids",
+        "Empiric broad-spectrum antibiotics",
+        "Surgical papillectomy of necrotic tissue"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Dialysis is reserved for end-stage disease, not routine RPN.",
+        "Correct. There are no specific treatments for RPN; management focuses on treating the underlying cause (e.g., stopping NSAIDs, treating pyelonephritis), keeping the patient well hydrated, and avoiding nephrotoxins.",
+        "Incorrect. Steroids are not the brick's recommended management.",
+        "Incorrect. Antibiotics are used only when infection is the underlying cause.",
+        "Incorrect. Surgical papillectomy is not the brick's recommended treatment."
+      ]
+    },
+    {
+      "id": 20,
+      "stem": "A 24-year-old man with SCD-related RPN is admitted. Which medication class should be avoided during his recovery?",
+      "choices": [
+        "Statins",
+        "Acetaminophen",
+        "Beta-blockers",
+        "Proton pump inhibitors",
+        "Aminoglycosides"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. Statins are not described as nephrotoxic to avoid in RPN.",
+        "Incorrect. Acetaminophen is not specifically called out for avoidance during acute recovery in this brick.",
+        "Incorrect. Beta-blockers are not described as nephrotoxic to avoid.",
+        "Incorrect. PPIs are not specifically flagged here.",
+        "Correct. Potential nephrotoxins such as aminoglycosides should be avoided until the patient recovers from RPN."
+      ]
+    },
+    {
+      "id": 21,
+      "stem": "A 28-year-old man with SCD has had recurrent vaso-occlusive episodes and now an episode of RPN. Which drug may benefit patients with SCD-associated RPN?",
+      "choices": [
+        "Furosemide",
+        "Aspirin",
+        "Gentamicin",
+        "Hydroxyurea",
+        "IV iodinated contrast"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Diuretics cause volume depletion and should be avoided in RPN.",
+        "Incorrect. NSAID-type analgesics are not the right choice and may worsen renal injury.",
+        "Incorrect. Aminoglycosides are nephrotoxic and avoided.",
+        "Correct. Hydroxyurea reduces SCD vaso-occlusive events, likely by raising fetal hemoglobin and improving RBC morphology, which can benefit SCD-associated RPN.",
+        "Incorrect. IV contrast risks contrast nephropathy and is avoided."
+      ]
+    },
+    {
+      "id": 22,
+      "stem": "A 45-year-old woman with RPN is on furosemide for mild leg edema. The nephrologist recommends stopping it. Why are diuretics avoided in RPN?",
+      "choices": [
+        "They cause volume depletion",
+        "They directly damage papillae",
+        "They block hydroxyurea action",
+        "They cause hyperkalemia",
+        "They promote bacterial growth"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Supportive care in RPN includes keeping the patient well hydrated and avoiding medications or procedures (such as diuretics) that cause volume depletion.",
+        "Incorrect. The brick does not attribute RPN to direct diuretic toxicity to papillae.",
+        "Incorrect. Diuretics are not described as blocking hydroxyurea.",
+        "Incorrect. Hyperkalemia is not the brick's reason to avoid diuretics in RPN.",
+        "Incorrect. Bacterial growth is not the rationale."
+      ]
+    },
+    {
+      "id": 23,
+      "stem": "A 38-year-old man with SCD-associated RPN is being counseled about prognosis. What does the brick say about the long-term outlook in chronic SCD or chronic analgesic use?",
+      "choices": [
+        "Always reverses with full recovery",
+        "Never affects long-term kidney function",
+        "May progress to chronic kidney disease",
+        "Causes immediate ESRD in all patients",
+        "Leads to secondary hyperaldosteronism"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. The prognosis is variable, not uniformly full recovery.",
+        "Incorrect. Many such patients do develop progressive renal impairment.",
+        "Correct. Many patients with long-standing SCD or chronic analgesic use/nephropathy may develop progressive chronic kidney disease, sometimes progressing to end-stage kidney disease.",
+        "Incorrect. Immediate ESRD is not the typical course.",
+        "Incorrect. Hyperaldosteronism is not described as an RPN outcome."
+      ]
+    },
+    {
+      "id": 24,
+      "stem": "Which class of medications is most strongly associated with chronic renal papillary necrosis and a slow decline in renal function?",
+      "choices": [
+        "Analgesics",
+        "Calcium-channel blockers",
+        "Cephalosporins",
+        "Corticosteroids",
+        "Penicillins"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. A chronic form of papillary necrosis with slow GFR decline classically develops after years of heavy analgesic exposure (combination acetaminophen and/or NSAIDs).",
+        "Incorrect. CCBs are not associated with chronic RPN.",
+        "Incorrect. Cephalosporins are not the classic RPN agents.",
+        "Incorrect. Corticosteroids are not associated with chronic RPN in the brick.",
+        "Incorrect. Penicillins are not the classic RPN agents."
+      ]
+    },
+    {
+      "id": 25,
+      "stem": "A 65-year-old woman with osteoarthritis on chronic ibuprofen reports blood-tinged, cloudy urine for 2 days without fever, chills, or frequency. Which additional symptom would be most consistent with renal papillary necrosis?",
+      "choices": [
+        "Back pain",
+        "Easy bruising",
+        "Edema",
+        "Hypotension",
+        "Joint swelling"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Back or unilateral flank pain is a key RPN symptom and arises from sloughed papillary tissue obstructing urine outflow.",
+        "Incorrect. Easy bruising suggests coagulopathy, not RPN.",
+        "Incorrect. Edema is not a brick-described feature of RPN.",
+        "Incorrect. Hypotension is not a classic RPN feature.",
+        "Incorrect. Joint swelling reflects arthritis, not RPN."
+      ]
+    }
+  ]
+}

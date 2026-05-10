@@ -1,0 +1,482 @@
+{
+  "id": 48,
+  "title": "Alport Syndrome",
+  "questions": [
+    {
+      "id": 1,
+      "stem": "A 6-year-old boy is brought in after his father noticed blood in his urine for several days. The boy is otherwise well, and physical exam is normal. The father mentions a maternal uncle who needed a kidney transplant in his 20s. Which classic triad of organ involvement defines Alport syndrome?",
+      "stem_note": "",
+      "choices": [
+        "Kidney, ear, eye",
+        "Kidney, lung, skin",
+        "Kidney, liver, joint",
+        "Kidney, heart, brain",
+        "Kidney, gut, bone marrow"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Alport syndrome causes progressive kidney disease together with sensorineural hearing loss and ocular abnormalities.",
+        "Incorrect. Pulmonary-renal syndromes (e.g., Goodpasture) involve lung and kidney; Alport does not.",
+        "Incorrect. Liver and joint involvement are not features of Alport syndrome.",
+        "Incorrect. Heart and brain are not part of the Alport triad.",
+        "Incorrect. The GI tract and bone marrow are not affected in Alport syndrome."
+      ]
+    },
+    {
+      "id": 2,
+      "stem": "A 7-year-old boy with a family history of kidney failure undergoes routine urinalysis. Which finding is the classic, earliest renal manifestation of Alport syndrome?",
+      "choices": [
+        "Heavy nephrotic-range proteinuria",
+        "Microscopic hematuria",
+        "Sterile pyuria",
+        "Glucosuria with normal serum glucose",
+        "Ketonuria"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Heavy proteinuria appears later as the disease progresses.",
+        "Correct. The classic presentation is microscopic hematuria in an otherwise well child, often discovered incidentally.",
+        "Incorrect. Pyuria suggests infection, not Alport syndrome.",
+        "Incorrect. Glucosuria reflects diabetes or proximal tubule dysfunction, not Alport.",
+        "Incorrect. Ketonuria suggests starvation or DKA, not Alport syndrome."
+      ]
+    },
+    {
+      "id": 3,
+      "stem": "A 9-year-old boy with previously asymptomatic microscopic hematuria develops visible red urine 3 days into a respiratory viral illness. According to the brick, this episode of gross hematuria is most often triggered by which event?",
+      "choices": [
+        "Strenuous physical exertion",
+        "Intercurrent viral illness",
+        "High-protein meal the prior day",
+        "Recent cold-weather exposure",
+        "Direct trauma to the flank"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. The brick attributes gross hematuria episodes to intercurrent illness, not exercise.",
+        "Correct. Gross hematuria in Alport is typically triggered by an unrelated illness such as a respiratory or GI virus.",
+        "Incorrect. Diet is not described as a trigger.",
+        "Incorrect. Cold exposure is not a described trigger.",
+        "Incorrect. Trauma is not the typical trigger described in the brick."
+      ]
+    },
+    {
+      "id": 4,
+      "stem": "A 14-year-old boy with known Alport syndrome is referred to audiology. Which type and pattern of hearing loss is characteristic of this disorder?",
+      "choices": [
+        "Conductive, unilateral",
+        "Mixed, fluctuating",
+        "Sensorineural, bilateral",
+        "Sudden, low-frequency",
+        "Sensorineural, unilateral"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Alport produces sensorineural, not conductive, hearing loss.",
+        "Incorrect. The hearing loss is sensorineural, not mixed.",
+        "Correct. Alport causes bilateral sensorineural hearing loss because type IV collagen alpha 3, 4, and 5 chains are also structural elements of the cochlear basement membrane.",
+        "Incorrect. The brick does not describe sudden low-frequency hearing loss.",
+        "Incorrect. The hearing loss is bilateral, not unilateral."
+      ]
+    },
+    {
+      "id": 5,
+      "stem": "A 16-year-old boy with Alport syndrome is sent to ophthalmology. Which is the most common eye abnormality associated with this disorder?",
+      "choices": [
+        "Anterior lenticonus",
+        "Optic neuritis",
+        "Retinal detachment",
+        "Open-angle glaucoma",
+        "Anterior uveitis"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Anterior lenticonus, a conical projection of the anterior lens surface from a thinned/weakened lens capsule, is the most common eye abnormality.",
+        "Incorrect. Optic neuritis is not associated with Alport syndrome.",
+        "Incorrect. Retinal detachment is not the most common ocular finding in Alport.",
+        "Incorrect. Glaucoma is not the characteristic eye finding in Alport.",
+        "Incorrect. Uveitis is not associated with Alport syndrome."
+      ]
+    },
+    {
+      "id": 6,
+      "stem": "A 12-year-old boy is being worked up for hereditary nephritis. Which protein family is structurally abnormal in Alport syndrome?",
+      "choices": [
+        "Type I collagen",
+        "Type II collagen",
+        "Type III collagen",
+        "Type IV collagen",
+        "Fibrillin-1"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Type I collagen abnormalities cause osteogenesis imperfecta, not Alport.",
+        "Incorrect. Type II collagen is found in cartilage; defects cause skeletal dysplasias.",
+        "Incorrect. Type III collagen abnormalities cause vascular Ehlers-Danlos, not Alport.",
+        "Correct. Alport syndrome is caused by mutations affecting alpha chains of type IV collagen, the main structural protein of basement membranes in kidney, ear, and eye.",
+        "Incorrect. Fibrillin-1 abnormalities cause Marfan syndrome."
+      ]
+    },
+    {
+      "id": 7,
+      "stem": "A medical student asks which specific alpha chains of type IV collagen are affected in Alport syndrome. Which is the correct answer?",
+      "choices": [
+        "Alpha 1, alpha 2, and alpha 6",
+        "Alpha 2, alpha 4, and alpha 6",
+        "Alpha 3, alpha 4, alpha 5",
+        "Alpha 1, alpha 3, and alpha 5",
+        "Alpha 4, alpha 5, and alpha 6"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Alpha 1 and alpha 2 chains are not the chains implicated by the brick.",
+        "Incorrect. Multiple chains can be affected, not just alpha 2.",
+        "Correct. Type IV collagen alpha 3, alpha 4, and alpha 5 chains are critical to basement membrane structure, and mutations in these chains cause Alport syndrome.",
+        "Incorrect. Although COL4A5 is the most common gene affected, alpha 3 and alpha 4 are also implicated.",
+        "Incorrect. The brick specifies alpha 3, 4, and 5 chains."
+      ]
+    },
+    {
+      "id": 8,
+      "stem": "A 22-year-old man with newly diagnosed Alport syndrome is told he has the most common form. Which inheritance pattern is this, and which gene is involved?",
+      "choices": [
+        "Autosomal recessive; COL4A3",
+        "Autosomal dominant; COL4A4",
+        "X-linked; COL4A5",
+        "Mitochondrial; COL4A5",
+        "Autosomal dominant; COL4A5"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Autosomal recessive Alport (COL4A3 or COL4A4) accounts for only about 15% of cases.",
+        "Incorrect. Autosomal dominant Alport accounts for only about 5% of cases.",
+        "Correct. X-linked Alport syndrome (XLAS) due to COL4A5 mutations is the most common form, representing about 80% of cases and primarily affecting males.",
+        "Incorrect. Alport syndrome is not mitochondrially inherited.",
+        "Incorrect. COL4A5 is X-linked, not autosomal dominant."
+      ]
+    },
+    {
+      "id": 9,
+      "stem": "A 19-year-old woman is found to be a carrier of an X-linked COL4A5 mutation. Which is the most accurate prediction about her clinical course?",
+      "choices": [
+        "Severe disease in childhood",
+        "ESRD by age 20",
+        "Mild or no symptoms; better prognosis",
+        "Profound bilateral deafness in infancy",
+        "Universal lenticonus by adolescence"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Female carriers usually have mild or absent symptoms, not severe childhood disease.",
+        "Incorrect. ESRD by 20 is typical of untreated males with XLAS, not female carriers.",
+        "Correct. Because only some cells express the mutated X, female carriers typically have mild or no symptoms; they may develop disease later, with a much better prognosis than males.",
+        "Incorrect. Profound infantile deafness is not the expected course in carriers.",
+        "Incorrect. Lenticonus is not a universal finding in female carriers."
+      ]
+    },
+    {
+      "id": 10,
+      "stem": "A 25-year-old woman with no family history is diagnosed with autosomal recessive Alport syndrome. Which gene mutation pattern fits this form?",
+      "choices": [
+        "Single COL4A5 mutation",
+        "Single COL4A3 or COL4A4 mutation",
+        "Two mutations in COL4A3 or COL4A4",
+        "Single COL4A1 mutation",
+        "Mutations in both COL4A3 and COL4A5"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. A single COL4A5 mutation is X-linked Alport.",
+        "Incorrect. A single mutation in COL4A3 or COL4A4 represents the autosomal dominant form.",
+        "Correct. Autosomal recessive Alport (about 15% of cases) results from mutations in both copies of the COL4A3 or COL4A4 gene.",
+        "Incorrect. COL4A1 is not the gene implicated in Alport syndrome.",
+        "Incorrect. The brick does not describe combined COL4A3 and COL4A5 mutations."
+      ]
+    },
+    {
+      "id": 11,
+      "stem": "An 11-year-old boy with Alport syndrome undergoes renal biopsy. Which classic finding on electron microscopy supports the diagnosis?",
+      "choices": [
+        "Subepithelial electron-dense humps",
+        "Spike-and-dome subepithelial pattern",
+        "Tram-track basement membrane duplication",
+        "Basket-weave GBM",
+        "Randomly oriented fibrillary deposits"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Subepithelial humps are characteristic of post-streptococcal glomerulonephritis.",
+        "Incorrect. Spike-and-dome pattern suggests membranous nephropathy.",
+        "Incorrect. Tram-tracks are seen in membranoproliferative glomerulonephritis.",
+        "Correct. Lamination and splitting of the GBM produces the classic basket-weave appearance on electron microscopy in Alport syndrome.",
+        "Incorrect. Fibrillary deposits suggest fibrillary glomerulonephritis, not Alport."
+      ]
+    },
+    {
+      "id": 12,
+      "stem": "A renal pathologist describes the glomerular basement membrane in an Alport biopsy as both abnormally thinned and thickened in different regions. Which structural change underlies this pattern?",
+      "choices": [
+        "Subendothelial immune complex deposition",
+        "GBM lamination and splitting",
+        "Diffuse mesangial proliferation",
+        "Cellular crescent formation",
+        "Congophilic amyloid fibril deposition"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Alport is a structural collagen disorder, not an immune-complex disease.",
+        "Correct. Abnormal type IV collagen makes the GBM unstable, causing lamination and splitting into thin layers and producing the irregular thickening and thinning seen on EM.",
+        "Incorrect. Mesangial proliferation is not the defining structural change in Alport.",
+        "Incorrect. Crescents are seen in rapidly progressive glomerulonephritis, not as the defining Alport feature.",
+        "Incorrect. Amyloid fibrils are seen in amyloidosis, not Alport."
+      ]
+    },
+    {
+      "id": 13,
+      "stem": "A 10-year-old boy with Alport syndrome undergoes renal biopsy. Beyond GBM splitting, which additional ultrastructural finding is described in the brick?",
+      "choices": [
+        "Podocyte foot process effacement",
+        "Endothelial tubuloreticular inclusions",
+        "Mesangial electron-dense deposits",
+        "Subendothelial humps",
+        "Fenestrated endothelial loss"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Kidney biopsy in Alport shows lamina densa splitting and marked podocyte foot process effacement in addition to irregular GBM expansion.",
+        "Incorrect. Tubuloreticular inclusions are seen in lupus, not Alport.",
+        "Incorrect. Mesangial electron-dense deposits suggest immune-complex disease.",
+        "Incorrect. Subendothelial humps are not the Alport finding.",
+        "Incorrect. Loss of fenestrated endothelium is not described in the brick."
+      ]
+    },
+    {
+      "id": 14,
+      "stem": "An untreated 18-year-old man with X-linked Alport syndrome has progressively worsening kidney function. Without treatment, what is the expected outcome by young adulthood?",
+      "choices": [
+        "Spontaneous resolution",
+        "Stable mild hematuria only",
+        "End-stage renal disease",
+        "Isolated nephrotic syndrome",
+        "Renal cell carcinoma"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Alport does not spontaneously resolve.",
+        "Incorrect. Some mild forms remain stable, but untreated males with XLAS progress.",
+        "Correct. Without treatment, almost all males with X-linked Alport develop ESRD by young adulthood.",
+        "Incorrect. Nephrotic syndrome is not the typical end outcome described in the brick.",
+        "Incorrect. Alport syndrome does not predispose to renal cell carcinoma."
+      ]
+    },
+    {
+      "id": 15,
+      "stem": "A 5-year-old boy with persistent microscopic hematuria has a maternal uncle on dialysis and a maternal grandfather who is deaf. According to the brick, which is now commonly the first confirmatory test for suspected Alport syndrome?",
+      "choices": [
+        "Renal biopsy with electron microscopy",
+        "Skin biopsy with immunostaining",
+        "COL4A3/4/5 genetic testing",
+        "Pure-tone audiometry",
+        "Slit-lamp examination"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Renal biopsy is reserved for cases when genetic testing is inconclusive.",
+        "Incorrect. Skin biopsy is a less invasive alternative used when genetic testing is unavailable or inconclusive.",
+        "Correct. Genetic testing for mutations in COL4A3, COL4A4, and COL4A5 is now common and is often the first confirmatory test; it also predicts prognosis better than biopsy.",
+        "Incorrect. Audiometry assesses hearing loss but does not confirm the diagnosis.",
+        "Incorrect. Slit-lamp examination identifies lenticonus but does not confirm Alport."
+      ]
+    },
+    {
+      "id": 16,
+      "stem": "A young man with suspected Alport syndrome has inconclusive genetic testing. A skin biopsy is performed as a less invasive alternative to renal biopsy. Which finding on skin biopsy supports the diagnosis of X-linked Alport syndrome?",
+      "choices": [
+        "Linear IgG along the dermoepidermal junction",
+        "Absent alpha-5 chain in basement membrane",
+        "Granular C3 along the basement membrane",
+        "Acantholysis of suprabasal keratinocytes",
+        "Subepidermal blistering with eosinophils"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Linear IgG suggests pemphigoid or Goodpasture disease, not Alport.",
+        "Correct. Skin biopsy in X-linked Alport shows absence of the type IV collagen alpha-5 chain in the skin's basement membrane, providing diagnostic confirmation.",
+        "Incorrect. Granular C3 deposits suggest immune-complex skin disease, not Alport.",
+        "Incorrect. Acantholysis is a feature of pemphigus, unrelated to Alport.",
+        "Incorrect. Subepidermal blistering is not a feature of Alport syndrome."
+      ]
+    },
+    {
+      "id": 17,
+      "stem": "A 13-year-old boy is newly diagnosed with Alport syndrome and has microscopic hematuria with mild proteinuria but normal GFR. According to the brick, which medication class should be started at the time of diagnosis to slow disease progression?",
+      "choices": [
+        "Loop diuretics",
+        "Beta-blockers",
+        "ACE inhibitors or ARBs",
+        "Calcium channel blockers",
+        "Systemic corticosteroids"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Loop diuretics do not slow Alport progression.",
+        "Incorrect. Beta-blockers are not the disease-modifying therapy described in the brick.",
+        "Correct. ACE inhibitors and ARBs are started at diagnosis to slow disease progression and improve long-term prognosis in Alport syndrome.",
+        "Incorrect. Calcium channel blockers are not the recommended disease-modifying therapy.",
+        "Incorrect. The brick does not recommend systemic steroids for Alport syndrome."
+      ]
+    },
+    {
+      "id": 18,
+      "stem": "A 28-year-old man with Alport syndrome has progressed to end-stage renal disease despite ACE inhibitor therapy. Which renal replacement options does the brick mention for managing his ESRD?",
+      "choices": [
+        "Dialysis or transplantation",
+        "Plasma exchange",
+        "Continuous hemofiltration only",
+        "Cyclophosphamide therapy",
+        "High-dose steroids"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Patients with ESRD from Alport syndrome are treated with dialysis or renal transplantation.",
+        "Incorrect. Plasma exchange is not the mainstay of treatment in Alport.",
+        "Incorrect. Continuous hemofiltration is not the standard management described.",
+        "Incorrect. Cyclophosphamide is not a treatment for Alport.",
+        "Incorrect. The brick does not recommend high-dose steroids."
+      ]
+    },
+    {
+      "id": 19,
+      "stem": "A 17-year-old girl with Alport syndrome is struggling academically because of progressive hearing loss. Which supportive intervention does the brick recommend when hearing loss begins to affect quality of life?",
+      "choices": [
+        "Bilateral tympanostomy tubes",
+        "Mastoidectomy",
+        "Hearing aids or cochlear implants",
+        "Oral corticosteroid taper",
+        "Empiric antiviral therapy"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Tympanostomy tubes treat conductive loss from middle-ear effusion, not sensorineural Alport hearing loss.",
+        "Incorrect. Mastoidectomy is not a described treatment for Alport hearing loss.",
+        "Correct. Hearing aids or cochlear implants may be used when sensorineural hearing loss progresses to affect quality of life.",
+        "Incorrect. Oral steroids are not used for Alport hearing loss.",
+        "Incorrect. Antivirals are not relevant to Alport-related hearing loss."
+      ]
+    },
+    {
+      "id": 20,
+      "stem": "A 30-year-old man with Alport syndrome and bilateral cataracts has progressive vision loss. According to the brick, which intervention is appropriate?",
+      "choices": [
+        "Topical antibiotic ophthalmic drops",
+        "Intravitreal anti-VEGF injections",
+        "Corrective lenses or cataract surgery",
+        "Systemic immunosuppressive therapy",
+        "Laser retinopexy of the retinal tear"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Topical antibiotics treat infection, not Alport-related vision loss.",
+        "Incorrect. Anti-VEGF therapy treats macular degeneration or diabetic retinopathy, not Alport.",
+        "Correct. If eye abnormalities cause vision loss, corrective lenses are used; cataracts may be managed with corrective surgery.",
+        "Incorrect. Systemic immunosuppression is not used for Alport-related ocular disease.",
+        "Incorrect. Laser retinopexy treats retinal tears, not Alport eye disease."
+      ]
+    },
+    {
+      "id": 21,
+      "stem": "A 25-year-old woman with chronic hematuria undergoes evaluation. Family history reveals a brother with progressive kidney disease and hearing loss; her maternal grandfather died on dialysis. Which feature of the family history most strongly suggests X-linked Alport syndrome?",
+      "choices": [
+        "Affected first-degree paternal relatives",
+        "Affected maternal-side males",
+        "Skipped generations on both sides",
+        "Equal severity in females and males",
+        "Disease onset only after age 60"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. X-linked inheritance is not transmitted father-to-son; affected paternal males would not suggest XLAS.",
+        "Correct. A male patient with affected first-degree relatives on the maternal side is suggestive of X-linked inheritance.",
+        "Incorrect. Skipped generations alone do not specifically suggest X-linked Alport.",
+        "Incorrect. In X-linked Alport, males are typically affected more severely than females.",
+        "Incorrect. Alport is a hereditary disorder presenting in childhood or young adulthood, not late in life."
+      ]
+    },
+    {
+      "id": 22,
+      "stem": "A medical student asks why the kidney, ear, and eye are all affected in Alport syndrome despite the disorder being a single-gene defect. Which is the best explanation?",
+      "choices": [
+        "Shared type IV collagen in basement membranes",
+        "Autoantibodies cross-reactive with each tissue type",
+        "Underlying small-vessel vasculitis of each organ",
+        "Common embryologic origin of these three organs",
+        "Lysosomal storage product accumulation in each organ"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Type IV collagen alpha 3, 4, and 5 chains are critical structural elements of basement membranes in the glomerulus, cochlea, and eye, so a defect affects all three.",
+        "Incorrect. Alport is a structural collagen disorder, not an autoimmune disease.",
+        "Incorrect. Alport is not a vasculitis.",
+        "Incorrect. The kidney, ear, and eye do not share a single embryologic origin; the link is the shared collagen.",
+        "Incorrect. Alport is not a lysosomal storage disease."
+      ]
+    },
+    {
+      "id": 23,
+      "stem": "A 9-year-old boy with isolated microscopic hematuria has a renal biopsy showing essentially normal light microscopy. According to the brick, why does light microscopy often fail to diagnose Alport syndrome, especially early?",
+      "choices": [
+        "Sampling error is essentially universal in Alport",
+        "Alport has no specific LM appearance",
+        "Biopsy specimens are routinely degraded in transit",
+        "Alport spares the glomerulus entirely",
+        "Disease is purely tubulointerstitial"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Sampling error is not the brick's stated reason.",
+        "Correct. Alport has no specific LM appearance; early biopsies may look normal, with later nonspecific findings like FSGS or interstitial fibrosis. Electron microscopy showing GBM splitting and basket-weave is diagnostic.",
+        "Incorrect. Specimen degradation is not the explanation.",
+        "Incorrect. Alport is fundamentally a glomerular disease.",
+        "Incorrect. Alport is glomerular, not purely tubular."
+      ]
+    },
+    {
+      "id": 24,
+      "stem": "A 10-year-old patient with hearing loss undergoes routine urinalysis revealing microscopic hematuria; several maternal relatives are on hemodialysis. Which additional clinical finding is most likely to develop because of the underlying genetic disorder?",
+      "choices": [
+        "Arthralgias",
+        "Hemoptysis",
+        "Periorbital edema",
+        "Photosensitivity",
+        "Vision impairment"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. Joint involvement is not part of the Alport triad.",
+        "Incorrect. Hemoptysis suggests Goodpasture syndrome, not Alport.",
+        "Incorrect. Periorbital edema suggests nephrotic syndrome, not the defining additional finding here.",
+        "Incorrect. Photosensitivity suggests lupus, not Alport.",
+        "Correct. Alport syndrome involves kidney, ear, and eye; with hematuria and hearing loss already present, vision impairment from lenticonus, cataracts, or retinal disease is the most likely additional finding."
+      ]
+    },
+    {
+      "id": 25,
+      "stem": "A 17-year-old male with Alport syndrome has persistent proteinuria but a still-preserved GFR. Which is the most appropriate next step in management?",
+      "choices": [
+        "Furosemide",
+        "Hemodialysis",
+        "Losartan",
+        "Metoprolol",
+        "Renal transplant"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Furosemide does not slow Alport disease progression.",
+        "Incorrect. Hemodialysis is reserved for ESRD, not for early proteinuria with preserved GFR.",
+        "Correct. Losartan, an ARB, slows disease progression in Alport syndrome and is recommended for patients with proteinuria; ACE inhibitors are equivalent.",
+        "Incorrect. Beta-blockers do not slow Alport disease progression.",
+        "Incorrect. Renal transplant is reserved for ESRD, not for proteinuria with preserved GFR."
+      ]
+    }
+  ]
+}

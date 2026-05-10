@@ -1,0 +1,481 @@
+{
+  "id": 44,
+  "title": "Membranous Nephropathy",
+  "questions": [
+    {
+      "id": 1,
+      "stem": "A 54-year-old man presents with bilateral leg swelling. Urinalysis shows 4+ protein but no blood. Serum albumin is low and lipids are elevated. Which clinical syndrome best characterizes membranous nephropathy?",
+      "choices": [
+        "Nephritic syndrome",
+        "Nephrotic syndrome",
+        "Acute kidney injury",
+        "Tubulointerstitial nephritis",
+        "Rapidly progressive GN"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Nephritic syndrome features hematuria with RBC casts; MN typically lacks blood in the urine.",
+        "Correct. Membranous nephropathy is one of the major causes of nephrotic syndrome, marked by heavy proteinuria, hypoalbuminemia, edema, and hyperlipidemia.",
+        "Incorrect. MN is a slowly progressive chronic glomerular disease, not an acute kidney injury syndrome.",
+        "Incorrect. MN is a glomerular disease, not a tubulointerstitial process.",
+        "Incorrect. RPGN presents with crescent formation and rapid GFR decline, not the slow nephrotic course of MN."
+      ]
+    },
+    {
+      "id": 2,
+      "stem": "An adult patient with nephrotic syndrome undergoes kidney biopsy. According to the brick, what proportion of biopsied adult nephrotic syndrome cases (excluding diabetic nephropathy) are due to membranous nephropathy?",
+      "choices": [
+        "<5%",
+        "10%-15%",
+        ">75%",
+        "50%-60%",
+        "25%-35%"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. MN is far more common than this in biopsied adult nephrotic syndrome.",
+        "Incorrect. The brick gives a higher proportion (25%-35%).",
+        "Incorrect. No single nondiabetic glomerular disease accounts for >75%.",
+        "Incorrect. This overestimates the share attributable to MN.",
+        "Correct. MN accounts for 25%-35% of biopsied adult nephrotic syndrome cases, second to FSGS as the most common nondiabetic cause."
+      ]
+    },
+    {
+      "id": 3,
+      "stem": "A nephrologist reviews demographic data on membranous nephropathy. Which population is most likely to be affected?",
+      "choices": [
+        "Children",
+        "Adult males",
+        "Adult females",
+        "Neonates",
+        "Adolescent females"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. MN is rare in children.",
+        "Correct. MN most often affects adults, with a male-to-female ratio of 2:1.",
+        "Incorrect. Females are affected only half as often as males.",
+        "Incorrect. MN is not a neonatal disease.",
+        "Incorrect. Adolescent females are not the target demographic for MN."
+      ]
+    },
+    {
+      "id": 4,
+      "stem": "A 48-year-old woman with biopsy-proven membranous nephropathy presents with sudden flank pain and hematuria. Imaging reveals a renal vein thrombus. Which urinary protein loss best explains her hypercoagulable state?",
+      "choices": [
+        "Albumin",
+        "Antithrombin",
+        "IgG",
+        "Transferrin",
+        "Ceruloplasmin"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Albumin loss causes edema and hypoalbuminemia but not directly thrombosis.",
+        "Correct. Urinary loss of antithrombin, an endogenous anticoagulant, predisposes MN patients to renal vein thrombosis and other clots.",
+        "Incorrect. IgG loss causes infection risk, not thrombosis.",
+        "Incorrect. Transferrin loss contributes to anemia, not hypercoagulability.",
+        "Incorrect. Ceruloplasmin loss is not the brick's mechanism for thrombosis in MN."
+      ]
+    },
+    {
+      "id": 5,
+      "stem": "A 50-year-old man with newly diagnosed nephrotic syndrome has a positive serum anti-phospholipase A2 receptor antibody titer. Which form of membranous nephropathy does this finding indicate?",
+      "choices": [
+        "Secondary to hepatitis B",
+        "Secondary to malignancy",
+        "Secondary to NSAIDs",
+        "Primary (idiopathic)",
+        "Secondary to lupus"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Anti-PLA2R antibodies are not present in hepatitis B-associated MN.",
+        "Incorrect. Malignancy-associated MN is a secondary form and is not anti-PLA2R positive.",
+        "Incorrect. Drug-induced MN is secondary; anti-PLA2R antibodies indicate primary disease.",
+        "Correct. Anti-phospholipase A2 receptor antibodies are present in about 70% of primary (idiopathic) MN and are highly specific for the primary form.",
+        "Incorrect. Lupus-associated MN is secondary; PLA2R antibodies indicate primary MN."
+      ]
+    },
+    {
+      "id": 6,
+      "stem": "A 60-year-old woman is found to have membranous nephropathy on biopsy. Her medication list includes ibuprofen, which she has been taking daily for arthritis. Which drug class is most strongly implicated as a cause of secondary MN?",
+      "choices": [
+        "ACE inhibitors",
+        "Statins",
+        "NSAIDs",
+        "Beta-blockers",
+        "Loop diuretics"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. ACE inhibitors are used as supportive therapy in MN, not as a cause.",
+        "Incorrect. Statins are used to treat the hyperlipidemia of MN, not as a cause.",
+        "Correct. NSAIDs (along with gold and penicillamine) are the most commonly implicated drugs causing secondary MN; about 10% of MN may be NSAID-associated and resolves with cessation.",
+        "Incorrect. Beta-blockers are not implicated as a cause of MN in the brick.",
+        "Incorrect. Loop diuretics may help manage edema in MN but are not a cause."
+      ]
+    },
+    {
+      "id": 7,
+      "stem": "A 45-year-old man from an endemic region is found to have membranous nephropathy. Which infection is the most common cause of secondary MN?",
+      "choices": [
+        "HIV",
+        "Hepatitis B",
+        "Hepatitis C",
+        "Syphilis",
+        "Streptococcal pharyngitis"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. HIV is more classically associated with FSGS (collapsing variant), not MN.",
+        "Correct. Hepatitis B is the most common infectious cause of secondary membranous nephropathy.",
+        "Incorrect. Hepatitis C can cause MN but is less common than hepatitis B in the brick.",
+        "Incorrect. Syphilis is reported but not the most common infectious cause.",
+        "Incorrect. Streptococcal infection is associated with postinfectious GN, not MN."
+      ]
+    },
+    {
+      "id": 8,
+      "stem": "A 67-year-old man with newly diagnosed MN undergoes age-appropriate cancer screening. Which type of malignancy is most often associated with secondary MN?",
+      "choices": [
+        "Solid tumors",
+        "Acute leukemia",
+        "Lymphoma",
+        "Multiple myeloma",
+        "Melanoma"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Solid tumors (eg, prostate, lung, breast, bladder, GI) are the most common malignant cause of secondary MN.",
+        "Incorrect. Acute leukemia is not a recognized cause of MN in the brick.",
+        "Incorrect. Lymphomas are a less common cause than solid tumors.",
+        "Incorrect. Multiple myeloma causes other renal lesions (cast nephropathy, AL amyloid), not classic MN.",
+        "Incorrect. Melanoma is not the typical malignancy linked to MN in the brick."
+      ]
+    },
+    {
+      "id": 9,
+      "stem": "A renal biopsy is performed on a patient with nephrotic-range proteinuria. Electron microscopy shows numerous electron-dense deposits. Where are these deposits located in membranous nephropathy?",
+      "choices": [
+        "Subendothelial",
+        "Subepithelial",
+        "Mesangial",
+        "Intramembranous",
+        "Tubular basement membrane"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Subendothelial deposits are characteristic of lupus nephritis and MPGN, not MN.",
+        "Correct. MN is characterized by subepithelial immune complex deposits, which form away from the capillary lumen and adjacent to Bowman space, beneath the podocyte layer.",
+        "Incorrect. Mesangial deposits are seen in IgA nephropathy and lupus, not classic MN.",
+        "Incorrect. Intramembranous dense deposits are seen in dense deposit disease, not MN.",
+        "Incorrect. MN involves the glomerular basement membrane, not the tubular basement membrane."
+      ]
+    },
+    {
+      "id": 10,
+      "stem": "A renal biopsy from a 52-year-old man with nephrotic syndrome is examined by light microscopy. Which finding is most characteristic of membranous nephropathy?",
+      "choices": [
+        "Mesangial proliferation",
+        "Crescents in Bowman space",
+        "Normal glomeruli",
+        "Segmental sclerosis",
+        "Diffuse GBM thickening"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. MN classically lacks cellular proliferation, distinguishing it from MPGN.",
+        "Incorrect. Crescents are features of rapidly progressive GN, not MN.",
+        "Incorrect. Normal-appearing glomeruli on light microscopy describe minimal change disease.",
+        "Incorrect. Segmental sclerosis describes FSGS, a different cause of nephrotic syndrome.",
+        "Correct. Light microscopy in MN shows diffuse glomerular basement membrane thickening from immune complex deposition, without cellular proliferation."
+      ]
+    },
+    {
+      "id": 11,
+      "stem": "Immunofluorescence microscopy of a kidney biopsy in a patient with MN reveals deposits along the glomerular capillaries. Which staining pattern and components are characteristic?",
+      "choices": [
+        "Linear IgG staining",
+        "Mesangial IgA",
+        "Pauci-immune (negative)",
+        "Granular IgG and C3",
+        "Linear C3 only"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Linear IgG staining is the hallmark of anti-GBM disease (Goodpasture), not MN.",
+        "Incorrect. Mesangial IgA staining is characteristic of IgA nephropathy.",
+        "Incorrect. Pauci-immune staining describes ANCA-associated vasculitides, not MN.",
+        "Correct. Immunofluorescence in MN shows a granular pattern of IgG and C3 along the glomerular capillaries, reflecting subepithelial immune complex deposition.",
+        "Incorrect. C3 alone is not the pattern; both IgG and C3 are seen, and the staining is granular rather than linear."
+      ]
+    },
+    {
+      "id": 12,
+      "stem": "A pathologist examines a Jones silver-stained biopsy from a patient with suspected MN. Which characteristic morphologic finding supports the diagnosis?",
+      "choices": [
+        "Tram-track double contour",
+        "Wire-loop lesions",
+        "Spikes along the GBM",
+        "Crescent formation",
+        "Kimmelstiel-Wilson nodules"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Tram-track double contours are seen in MPGN, not MN.",
+        "Incorrect. Wire-loop lesions are characteristic of lupus nephritis.",
+        "Correct. Jones silver stain in MN shows characteristic 'spikes' along the basement membrane, representing GBM projections between the subepithelial immune complex deposits.",
+        "Incorrect. Crescents indicate rapidly progressive GN, not MN.",
+        "Incorrect. Kimmelstiel-Wilson nodules are pathognomonic for diabetic nephropathy."
+      ]
+    },
+    {
+      "id": 13,
+      "stem": "A 42-year-old woman with edema is found to have a urine protein of 5 g/24 hours. Her physician suspects membranous nephropathy. Which serum test, if positive, would essentially confirm the diagnosis without requiring a kidney biopsy?",
+      "choices": [
+        "ANA titer",
+        "Anti-GBM antibody",
+        "Anti-PLA2R antibody",
+        "ANCA",
+        "Anti-dsDNA antibody"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. ANA suggests lupus, which can cause secondary MN, but does not confirm MN itself.",
+        "Incorrect. Anti-GBM antibody indicates Goodpasture disease, not MN.",
+        "Correct. A positive anti-phospholipase A2 receptor antibody titer in a patient with nephrotic syndrome is highly specific for MN and can confirm the diagnosis without biopsy if other workup is unrevealing.",
+        "Incorrect. ANCA suggests pauci-immune vasculitis, not MN.",
+        "Incorrect. Anti-dsDNA suggests SLE rather than primary MN."
+      ]
+    },
+    {
+      "id": 14,
+      "stem": "A nephrologist evaluates a patient with suspected glomerular disease. Serum complement levels are checked. What complement pattern is expected in primary membranous nephropathy?",
+      "choices": [
+        "Low C3, low C4",
+        "Low C3, normal C4",
+        "Undetectable CH50",
+        "Elevated C3, low C4",
+        "Normal C3 and C4"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. Low complement is seen in lupus nephritis and MPGN, not primary MN.",
+        "Incorrect. Isolated low C3 is more typical of MPGN.",
+        "Incorrect. Undetectable CH50 reflects severe complement consumption, which is not seen in MN.",
+        "Incorrect. This pattern is not characteristic of MN.",
+        "Correct. Serum complement is normal in MN; low complement should prompt consideration of MPGN or lupus nephritis."
+      ]
+    },
+    {
+      "id": 15,
+      "stem": "A 55-year-old man with biopsy-proven primary MN has 3.5 g/day of proteinuria. Renal function is normal. According to the brick, what is the recommended initial treatment approach?",
+      "choices": [
+        "Immediate cyclophosphamide",
+        "High-dose corticosteroids",
+        "Optimized supportive care",
+        "Rituximab infusion",
+        "Plasmapheresis"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Immunosuppression is reserved for those with persistent or worsening disease after supportive care.",
+        "Incorrect. Steroid monotherapy is not first-line for MN.",
+        "Correct. Most authorities recommend a period of optimized supportive care (ACEi/ARB, blood pressure control, lifestyle measures) before starting immunosuppression in MN.",
+        "Incorrect. Rituximab is reserved for patients who fail supportive care or have high-risk features.",
+        "Incorrect. Plasmapheresis is not standard MN therapy."
+      ]
+    },
+    {
+      "id": 16,
+      "stem": "A 58-year-old man with MN and proteinuria is started on lisinopril. Which two benefits explain why an ACE inhibitor is appropriate supportive therapy?",
+      "choices": [
+        "Increased GFR and diuresis",
+        "Lower proteinuria and BP control",
+        "Immune suppression and antibiotic effect",
+        "Anticoagulation and lipid lowering",
+        "Reduced edema and increased albumin"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. ACE inhibitors typically modestly reduce GFR initially, not raise it.",
+        "Correct. ACE inhibitors lower proteinuria and control blood pressure (<130/80 in CKD), slowing progression of renal disease in MN.",
+        "Incorrect. ACE inhibitors do not have immunosuppressive or antibiotic effects.",
+        "Incorrect. ACE inhibitors do not anticoagulate or lower lipids.",
+        "Incorrect. ACE inhibitors don't directly raise albumin; their main role is reducing proteinuria and BP."
+      ]
+    },
+    {
+      "id": 17,
+      "stem": "A patient with MN has persistent proteinuria of 6 g/day after 6 months of supportive care. Which class of therapy is now indicated?",
+      "choices": [
+        "Loop diuretic monotherapy",
+        "Statin only",
+        "Salt restriction alone",
+        "Immunosuppressive therapy",
+        "ARB substitution"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Diuretics manage edema but do not modify the underlying disease.",
+        "Incorrect. Statins treat hyperlipidemia but do not address ongoing immune-mediated injury.",
+        "Incorrect. Lifestyle measures alone are insufficient when proteinuria persists.",
+        "Correct. Immunosuppressive therapy is indicated when proteinuria remains >3.5 g/day after 6 months of optimized supportive care or in the presence of other high-risk features.",
+        "Incorrect. Substituting an ARB for an ACE inhibitor does not constitute escalation of therapy."
+      ]
+    },
+    {
+      "id": 18,
+      "stem": "A 60-year-old man with MN has progressed despite supportive therapy. Which agents are listed by the brick as first-line immunosuppressive options?",
+      "choices": [
+        "Methotrexate or azathioprine",
+        "Rituximab, cyclophosphamide + steroids, or calcineurin inhibitors",
+        "Plasmapheresis or IVIG",
+        "Mycophenolate or hydroxychloroquine",
+        "TNF inhibitors"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. These are not the brick's first-line agents for MN.",
+        "Correct. First-line immunosuppression for MN is rituximab, cyclophosphamide combined with glucocorticoids, or a calcineurin inhibitor (with or without a second agent).",
+        "Incorrect. Plasmapheresis and IVIG are not standard MN therapies in the brick.",
+        "Incorrect. These agents are not the first-line choices listed in the brick.",
+        "Incorrect. TNF inhibitors are not used to treat MN."
+      ]
+    },
+    {
+      "id": 19,
+      "stem": "A 70-year-old man with longstanding MN has a serum creatinine of 4.2 mg/dL and small, scarred kidneys on imaging. According to the brick, what is the recommended approach to immunosuppression?",
+      "choices": [
+        "High-dose steroids",
+        "Combination cyclophosphamide and rituximab",
+        "Cyclosporine for 12 months",
+        "Avoid immunosuppression",
+        "Plasmapheresis weekly"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Immunosuppression is not recommended once significant chronic damage is present.",
+        "Incorrect. Combination immunosuppression risks far outweigh benefits in advanced CKD.",
+        "Incorrect. Calcineurin inhibitors are nephrotoxic and inappropriate in advanced CKD from MN.",
+        "Correct. Immunosuppression is not recommended in advanced chronic kidney damage from MN, given the low likelihood of benefit and high risk of harm.",
+        "Incorrect. Plasmapheresis is not standard MN therapy."
+      ]
+    },
+    {
+      "id": 20,
+      "stem": "A nephrologist counsels a patient newly diagnosed with MN. According to the brick, what fraction of patients have spontaneous remission?",
+      "choices": [
+        "Less than one-third",
+        "About half",
+        "Two-thirds",
+        "Nearly all",
+        "Almost none"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Less than a third of MN patients have spontaneous remission, which is why early diagnosis and treatment are emphasized.",
+        "Incorrect. The brick states the spontaneous remission rate is below one-third.",
+        "Incorrect. The brick does not support this high a rate of spontaneous remission.",
+        "Incorrect. Most patients do not spontaneously remit.",
+        "Incorrect. Spontaneous remission does occur, just in less than a third of patients."
+      ]
+    },
+    {
+      "id": 21,
+      "stem": "A 55-year-old man with MN is found at presentation to have a serum creatinine of 2.1 mg/dL and 9 g/24 h of proteinuria. Which prognostic category does the brick assign him to?",
+      "choices": [
+        "Spontaneous complete remission",
+        "Persistent stable proteinuria",
+        "Progressive disease",
+        "Minimal change variant",
+        "Resolved disease"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Spontaneous remission is more likely with normal eGFR and moderate proteinuria.",
+        "Incorrect. Persistent stable proteinuria features stable renal function, not declining function.",
+        "Correct. Progressive disease occurs in patients with decreased eGFR at presentation or very heavy proteinuria (>8 g/24 h), and 40% of this group may require dialysis or transplant by 15 years.",
+        "Incorrect. Minimal change is a different glomerular disease with a distinct course.",
+        "Incorrect. Heavy proteinuria with elevated creatinine is not resolved disease."
+      ]
+    },
+    {
+      "id": 22,
+      "stem": "A 47-year-old woman with MN is being evaluated for secondary causes. Which of the following antibodies should be checked to rule out lupus as a secondary etiology?",
+      "choices": [
+        "Anti-PLA2R",
+        "ANCA",
+        "Antinuclear and anti-dsDNA antibodies",
+        "Anti-GBM antibody",
+        "Anti-streptolysin O"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Anti-PLA2R supports primary MN; it does not screen for lupus.",
+        "Incorrect. ANCA is used to evaluate for vasculitis, not lupus.",
+        "Correct. ANA and anti-dsDNA antibodies are checked when ruling out SLE as a secondary cause of MN.",
+        "Incorrect. Anti-GBM evaluates Goodpasture disease, not lupus.",
+        "Incorrect. ASO titers are used for post-streptococcal GN, not lupus."
+      ]
+    },
+    {
+      "id": 23,
+      "stem": "A 50-year-old man with newly diagnosed MN reports a 3-week cough that he attributes to a cold from his grandkids. He has a 30-pack-year smoking history. What is the most appropriate next step?",
+      "choices": [
+        "Reassurance and supportive care",
+        "Empiric antibiotics for pneumonia",
+        "Order a chest X-ray",
+        "Begin rituximab",
+        "Skin testing for tuberculosis"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. A persistent cough in a smoker with new MN warrants evaluation for occult malignancy, not reassurance.",
+        "Incorrect. Antibiotics are not indicated without evidence of pneumonia and would miss a possible underlying cancer.",
+        "Correct. MN can be a paraneoplastic phenomenon; a chest X-ray is appropriate to look for lung cancer in a smoker with new MN and a persistent cough.",
+        "Incorrect. Treatment escalation is premature before secondary causes are excluded.",
+        "Incorrect. Tuberculosis is not the leading concern in this MN workup scenario."
+      ]
+    },
+    {
+      "id": 24,
+      "stem": "A 40-year-old woman with biopsy-proven MN has urine protein of 4.5 g/24 h, normal eGFR, and well-controlled blood pressure on an ACE inhibitor. Which management approach is most appropriate at this time?",
+      "choices": [
+        "Continue supportive care",
+        "Start cyclophosphamide and steroids",
+        "Initiate rituximab",
+        "Begin a calcineurin inhibitor",
+        "Refer for kidney transplant"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. With preserved eGFR and moderate proteinuria, many MN patients achieve spontaneous remission, so continued supportive care alone is appropriate.",
+        "Incorrect. Immunosuppression is not first-line in patients with preserved eGFR and moderate proteinuria.",
+        "Incorrect. Rituximab is reserved for those failing supportive care or with high-risk features.",
+        "Incorrect. Calcineurin inhibitors are immunosuppressive options reserved for high-risk or refractory disease.",
+        "Incorrect. Transplant is reserved for end-stage renal disease, which she does not have."
+      ]
+    },
+    {
+      "id": 25,
+      "stem": "A 41-year-old woman presents with edema and 4.5 g/24 h of proteinuria. A renal biopsy is performed. Which finding would best support a diagnosis of membranous nephropathy?",
+      "choices": [
+        "Diffuse GBM thickening",
+        "Kimmelstiel-Wilson lesions",
+        "Mesangial expansion",
+        "Normal glomeruli",
+        "Segmental sclerosis and hyalinosis"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Diffuse glomerular basement membrane thickening on light microscopy, due to subepithelial immune complex deposition, is the hallmark biopsy finding of MN.",
+        "Incorrect. Kimmelstiel-Wilson nodules are pathognomonic for diabetic nephropathy.",
+        "Incorrect. Mesangial expansion is more characteristic of IgA nephropathy or diabetic kidney disease.",
+        "Incorrect. Normal-appearing glomeruli on light microscopy describe minimal change disease.",
+        "Incorrect. Segmental sclerosis and hyalinosis describes FSGS, not MN."
+      ]
+    }
+  ]
+}

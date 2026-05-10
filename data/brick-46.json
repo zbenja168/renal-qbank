@@ -1,0 +1,481 @@
+{
+  "id": 46,
+  "title": "Postinfectious Glomerulonephritis",
+  "questions": [
+    {
+      "id": 1,
+      "stem": "A 13-year-old girl returns to clinic 2 weeks after being treated for streptococcal pharyngitis. Her mother reports that the patient's face became puffy 2 days ago and her urine has turned the color of cola. Her blood pressure is 130/90 mm Hg, and she has periorbital and 2+ lower extremity edema. Which clinical syndrome best describes her presentation?",
+      "choices": [
+        "Nephrotic syndrome",
+        "Nephritic syndrome",
+        "Acute tubular necrosis",
+        "Renal artery stenosis",
+        "Hepatorenal syndrome"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Nephrotic syndrome features heavy proteinuria and hypoalbuminemia; PIGN seldom reaches the nephrotic range.",
+        "Correct. PIGN classically presents as nephritic syndrome with hematuria, hypertension, and edema following an extrarenal infection.",
+        "Incorrect. ATN follows ischemic or toxic insults and shows muddy brown casts, not hematuria after a streptococcal infection.",
+        "Incorrect. Renal artery stenosis causes hypertension but not hematuria or edema after pharyngitis.",
+        "Incorrect. Hepatorenal syndrome occurs in advanced liver disease, not after strep throat."
+      ]
+    },
+    {
+      "id": 2,
+      "stem": "A 9-year-old boy develops gross hematuria, hypertension, and periorbital edema 2 weeks after a sore throat. Which organism is the most common cause of his condition?",
+      "choices": [
+        "Staphylococcus aureus",
+        "Group A Streptococcus",
+        "Escherichia coli",
+        "Streptococcus pneumoniae",
+        "Mycoplasma pneumoniae"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Staphylococci are an increasingly common cause, especially in adults, but are not the most common overall.",
+        "Correct. Group A beta-hemolytic Streptococcus (S. pyogenes) is the most common cause of PIGN, producing poststreptococcal glomerulonephritis.",
+        "Incorrect. E. coli is not a typical PIGN trigger.",
+        "Incorrect. S. pneumoniae is not the classical cause of PIGN; group A strep is.",
+        "Incorrect. Mycoplasma is not a typical cause of PIGN in this brick."
+      ]
+    },
+    {
+      "id": 3,
+      "stem": "A 7-year-old child with impetigo 4 weeks ago presents with cola-colored urine and edema. According to the brick, what is the typical interval between a streptococcal skin infection and the onset of poststreptococcal glomerulonephritis?",
+      "choices": [
+        "1 to 3 days",
+        "1 to 3 weeks",
+        "6 to 12 months",
+        "2 to 3 months",
+        "3 to 6 weeks"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. This interval is too short; PSGN takes weeks to develop.",
+        "Incorrect. 1 to 3 weeks is the interval after pharyngitis, not skin infection.",
+        "Incorrect. This delay is far too long for PSGN.",
+        "Incorrect. PSGN does not typically develop months later.",
+        "Correct. PSGN typically appears 3 to 6 weeks after a streptococcal skin infection such as impetigo or cellulitis."
+      ]
+    },
+    {
+      "id": 4,
+      "stem": "A 10-year-old girl develops nephritic syndrome 2 weeks after streptococcal pharyngitis. According to the brick, what is the typical interval between strep throat and the onset of poststreptococcal glomerulonephritis?",
+      "choices": [
+        "Same day",
+        "1 to 3 days",
+        "1 to 3 weeks",
+        "3 to 6 weeks",
+        "3 to 6 months"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. PSGN does not present at the time of acute pharyngitis.",
+        "Incorrect. This interval is too short.",
+        "Correct. After streptococcal pharyngitis, PSGN typically appears 1 to 3 weeks later.",
+        "Incorrect. 3 to 6 weeks is the interval seen after a strep skin infection.",
+        "Incorrect. This delay is far too long."
+      ]
+    },
+    {
+      "id": 5,
+      "stem": "An 8-year-old boy with PIGN has biopsy findings of granular IgG and C3 deposits along the glomerular basement membrane. Which immune mechanism best explains the glomerular injury?",
+      "choices": [
+        "Type I hypersensitivity",
+        "Type II hypersensitivity",
+        "Type III hypersensitivity",
+        "Type IV hypersensitivity",
+        "Direct bacterial invasion"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Type I (IgE-mediated) reactions cause allergy and anaphylaxis, not PIGN.",
+        "Incorrect. Type II involves antibodies against fixed cell-surface antigens, not deposited immune complexes.",
+        "Correct. PIGN is a type III hypersensitivity reaction in which circulating immune complexes deposit in the glomerulus and activate complement.",
+        "Incorrect. Type IV is delayed T-cell mediated injury, not the mechanism in PIGN.",
+        "Incorrect. The kidney itself is not infected; injury is immune-mediated, not from direct bacterial invasion."
+      ]
+    },
+    {
+      "id": 6,
+      "stem": "A 12-year-old with PIGN has serum complement studies sent. Which pattern is most characteristic?",
+      "choices": [
+        "Low C3, normal C4",
+        "Normal C3, low C4",
+        "Low C3 and low C4",
+        "High C3, low C4",
+        "Normal C3 and C4"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. PIGN activates the alternative complement pathway, producing low C3 in roughly 90% of cases while C4 is typically normal.",
+        "Incorrect. Low C4 with normal C3 suggests classical pathway activation, as in hereditary angioedema.",
+        "Incorrect. Low C3 and C4 together suggest classical pathway activation (e.g., lupus nephritis).",
+        "Incorrect. C3 is not elevated in PIGN.",
+        "Incorrect. Complement is consumed in PIGN, so C3 is typically low."
+      ]
+    },
+    {
+      "id": 7,
+      "stem": "A 14-year-old has hypocomplementemia after a streptococcal infection. Why is C3 low in PIGN, while C4 is low in hereditary angioedema?",
+      "choices": [
+        "PIGN activates the lectin pathway",
+        "PIGN activates the alternative pathway",
+        "PIGN activates the classical pathway",
+        "PIGN consumes membrane attack complex only",
+        "HAE bypasses C3 entirely"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. The brick attributes PIGN complement consumption to the alternative pathway, not the lectin pathway.",
+        "Correct. PIGN immune complexes activate the alternative pathway, bypassing classical components C2 and C4 and selectively consuming C3.",
+        "Incorrect. The classical pathway is activated in HAE (loss of C1-INH), explaining its low C4.",
+        "Incorrect. Membrane attack complex consumption alone does not explain isolated low C3.",
+        "Incorrect. HAE does involve C3, but its hallmark is low C4 from classical pathway overactivation."
+      ]
+    },
+    {
+      "id": 8,
+      "stem": "A renal biopsy from a child with PIGN is examined under light microscopy. Which finding is most characteristic?",
+      "choices": [
+        "Glomerular sclerosis",
+        "Kimmelstiel-Wilson nodules",
+        "Thickening of the basement membrane",
+        "Split basement membranes",
+        "Hypercellular glomeruli"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. Sclerosis is a feature of FSGS or chronic injury, not acute PIGN.",
+        "Incorrect. Kimmelstiel-Wilson nodules are pathognomonic for diabetic nephropathy.",
+        "Incorrect. Diffuse GBM thickening is characteristic of membranous nephropathy.",
+        "Incorrect. Split (tram-track) basement membranes are seen in membranoproliferative GN and Alport syndrome.",
+        "Correct. PIGN shows enlarged, hypercellular glomeruli with proliferation of endothelial and mesangial cells plus an influx of neutrophils and monocytes."
+      ]
+    },
+    {
+      "id": 9,
+      "stem": "Immunofluorescence on a renal biopsy from a patient with PIGN reveals a granular pattern of IgG and C3 along the GBM and mesangium. What is this appearance commonly called?",
+      "choices": [
+        "Tram-track",
+        "Linear ribbon",
+        "Spike-and-dome",
+        "Starry sky",
+        "Wire-loop"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Tram-track describes split basement membranes in membranoproliferative GN.",
+        "Incorrect. A linear pattern is characteristic of anti-GBM disease, not PIGN.",
+        "Incorrect. Spike-and-dome is the EM pattern of membranous nephropathy.",
+        "Correct. The granular IgG and C3 deposits in PIGN produce a 'starry sky' immunofluorescence appearance.",
+        "Incorrect. Wire-loop lesions are seen in lupus nephritis."
+      ]
+    },
+    {
+      "id": 10,
+      "stem": "Electron microscopy from a child with PIGN shows scattered dome-shaped electron-dense deposits. Where along the glomerular basement membrane are these deposits located?",
+      "choices": [
+        "Subendothelial",
+        "Intramembranous",
+        "Subepithelial",
+        "Mesangial only",
+        "Within podocyte foot processes"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Subendothelial deposits are typical of lupus nephritis and MPGN, not PIGN.",
+        "Incorrect. Intramembranous deposits are seen in dense deposit disease.",
+        "Correct. PIGN shows characteristic subepithelial 'humps' on the urinary side of the GBM, away from the capillary lumen.",
+        "Incorrect. Mesangial deposits occur but the classic 'humps' are subepithelial.",
+        "Incorrect. Deposits are along the GBM, not within podocyte foot processes."
+      ]
+    },
+    {
+      "id": 11,
+      "stem": "A 10-year-old with cola-colored urine, periorbital edema, and recent strep throat has urinalysis sent. Which finding most strongly supports a glomerular source of bleeding?",
+      "choices": [
+        "White blood cell casts",
+        "Hyaline casts",
+        "Calcium oxalate crystals",
+        "Bacteria and nitrites",
+        "Dysmorphic RBCs, casts"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. WBC casts indicate interstitial nephritis or pyelonephritis.",
+        "Incorrect. Hyaline casts are nonspecific and seen in normal or volume-depleted patients.",
+        "Incorrect. Calcium oxalate crystals point to nephrolithiasis or ethylene glycol toxicity.",
+        "Incorrect. Bacteria and nitrites suggest urinary tract infection, not glomerular disease.",
+        "Correct. Dysmorphic RBCs and RBC casts indicate glomerular bleeding and are classic for PIGN."
+      ]
+    },
+    {
+      "id": 12,
+      "stem": "A 14-year-old presents with cola-colored urine and edema 3 weeks after a sore throat. No throat culture was performed at the time. Which serologic test best supports a recent streptococcal infection?",
+      "choices": [
+        "ANA",
+        "Antistreptolysin O titer",
+        "Anti-GBM antibody",
+        "ANCA",
+        "Anti-dsDNA"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. ANA screens for systemic lupus, not streptococcal infection.",
+        "Correct. Antistreptolysin O titer (and the Streptozyme panel) detect antibodies against streptococcal antigens and confirm recent streptococcal infection.",
+        "Incorrect. Anti-GBM antibody is the marker for Goodpasture disease.",
+        "Incorrect. ANCA is associated with pauci-immune vasculitides like GPA and MPA.",
+        "Incorrect. Anti-dsDNA is specific for systemic lupus erythematosus."
+      ]
+    },
+    {
+      "id": 13,
+      "stem": "An 11-year-old presents with hematuria and edema 4 weeks after streptococcal pharyngitis. Why are throat and blood cultures rarely useful for diagnosing poststreptococcal glomerulonephritis?",
+      "choices": [
+        "Strep is too fastidious to culture",
+        "Cultures are too expensive",
+        "Strep is intracellular",
+        "The infection has resolved by then",
+        "The kidney itself is sterile"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Group A strep is readily cultured when present.",
+        "Incorrect. Cost is not the brick's reason for the limited utility of cultures.",
+        "Incorrect. Strep is extracellular and easily cultured during active infection.",
+        "Correct. The skin or throat infection occurred 1 to 6 weeks earlier and has typically resolved by the time PSGN is diagnosed, so cultures rarely yield the organism.",
+        "Incorrect. While true that the kidney itself is not infected, the brick attributes culture's poor yield to timing of the resolved infection."
+      ]
+    },
+    {
+      "id": 14,
+      "stem": "A 65-year-old hospitalized man with MRSA endocarditis develops hematuria, hypertension, and a rising creatinine within days of admission. Which form of postinfectious glomerulonephritis is most likely?",
+      "choices": [
+        "Poststreptococcal GN",
+        "Staphylococcus-associated GN",
+        "IgA nephropathy",
+        "Anti-GBM disease",
+        "Membranous nephropathy"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. PSGN follows strep infection by weeks, not days, and is more common in children.",
+        "Correct. Staphylococcus-associated GN occurs within days of infection in adults with serious infections such as endocarditis, cellulitis, osteomyelitis, or pneumonia.",
+        "Incorrect. IgA nephropathy classically presents with synpharyngitic hematuria within days of an upper respiratory infection but is not associated with staph infections.",
+        "Incorrect. Anti-GBM disease shows linear IgG deposition and pulmonary-renal syndrome, not staph-related nephritis.",
+        "Incorrect. Membranous nephropathy is a nephrotic, not nephritic, disorder."
+      ]
+    },
+    {
+      "id": 15,
+      "stem": "A 70-year-old man with Staphylococcus-associated glomerulonephritis is being managed in the hospital. According to the brick, what is the most important component of his treatment?",
+      "choices": [
+        "Plasmapheresis",
+        "High-dose corticosteroids",
+        "Prompt antibiotic therapy",
+        "Cyclophosphamide",
+        "Renal biopsy first"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Plasmapheresis is used for anti-GBM disease, not staph-associated PIGN.",
+        "Incorrect. The brick does not recommend steroids as primary therapy for staph-associated PIGN.",
+        "Correct. Adults with staph-associated PIGN require prompt antibiotic treatment of the underlying infection to prevent prolonged renal complications.",
+        "Incorrect. Cyclophosphamide is reserved for severe ANCA vasculitis or lupus, not PIGN.",
+        "Incorrect. Biopsy is rarely needed; treatment of the underlying infection should not be delayed for biopsy."
+      ]
+    },
+    {
+      "id": 16,
+      "stem": "A 9-year-old child with PIGN has mild hypertension and 2+ lower extremity edema. According to the brick, what is the mainstay of management?",
+      "choices": [
+        "Supportive therapy",
+        "High-dose corticosteroids",
+        "Cyclophosphamide",
+        "Hemodialysis",
+        "Renal transplantation"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Treatment of PIGN in children is primarily supportive, since the natural course is short and most resolve within 1 to 2 weeks.",
+        "Incorrect. Steroids are not standard for PIGN.",
+        "Incorrect. Cyclophosphamide is not used for routine PIGN.",
+        "Incorrect. Dialysis is reserved for the rare severe cases with renal failure.",
+        "Incorrect. Transplantation is not part of acute PIGN management."
+      ]
+    },
+    {
+      "id": 17,
+      "stem": "A 10-year-old with PIGN develops worsening lower extremity edema and shortness of breath from volume overload. Which medication is most appropriate for fluid removal?",
+      "choices": [
+        "Hydrochlorothiazide",
+        "Spironolactone",
+        "Furosemide",
+        "Mannitol",
+        "Acetazolamide"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Thiazides are weaker diuretics and not the brick's recommended choice for PIGN volume overload.",
+        "Incorrect. Spironolactone is potassium-sparing but a weak diuretic for acute volume removal.",
+        "Correct. The brick recommends loop diuretics such as furosemide for fluid removal in PIGN.",
+        "Incorrect. Mannitol is an osmotic diuretic used for cerebral edema, not PIGN volume overload.",
+        "Incorrect. Acetazolamide is a weak diuretic used for altitude sickness or metabolic alkalosis."
+      ]
+    },
+    {
+      "id": 18,
+      "stem": "An adult with confirmed Staphylococcus-associated glomerulonephritis needs antibiotic therapy. According to the brick, which agent is typically used because of its gram-positive coverage?",
+      "choices": [
+        "Penicillin V",
+        "Ciprofloxacin",
+        "Metronidazole",
+        "Trimethoprim-sulfamethoxazole",
+        "Acyclovir"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. The brick states that penicillin V is typically used because it provides good gram-positive coverage against the most common bacterial organisms.",
+        "Incorrect. Fluoroquinolones primarily cover gram-negative organisms.",
+        "Incorrect. Metronidazole covers anaerobes and protozoa, not staph.",
+        "Incorrect. While TMP-SMX has some staph activity, the brick names penicillin V.",
+        "Incorrect. Acyclovir is an antiviral, not relevant for bacterial PIGN."
+      ]
+    },
+    {
+      "id": 19,
+      "stem": "A 9-year-old with PSGN is hospitalized. The mother asks how long symptoms will last. According to the brick, when do symptoms typically resolve in children?",
+      "choices": [
+        "Within 24 hours",
+        "1 to 2 days",
+        "1 to 2 weeks",
+        "3 to 6 months",
+        "1 to 2 years"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Symptoms do not resolve that quickly.",
+        "Incorrect. Resolution typically takes longer than a few days.",
+        "Correct. For most children with PIGN, symptoms resolve within 1 to 2 weeks of presentation.",
+        "Incorrect. In adults, hematuria can persist 3 to 6 months, but children usually recover much sooner.",
+        "Incorrect. Years-long resolution is not typical."
+      ]
+    },
+    {
+      "id": 20,
+      "stem": "A pediatrician is counseling parents about the prognosis of their 8-year-old daughter's PSGN. According to the brick, what percentage of children with PIGN progress to renal failure?",
+      "choices": [
+        "About 1%",
+        "About 10%",
+        "About 17%",
+        "About 25%",
+        "About 50%"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Only about 1% of children with PIGN progress to renal failure; most recover fully.",
+        "Incorrect. The brick cites a much lower rate of renal failure in children.",
+        "Incorrect. 17% is the rate of progression to ESRD in adults with staph-associated PIGN.",
+        "Incorrect. 25% is the rate of persistently decreased GFR in adults with staph-associated PIGN.",
+        "Incorrect. PIGN does not lead to renal failure in half of pediatric cases."
+      ]
+    },
+    {
+      "id": 21,
+      "stem": "A 68-year-old man with Staphylococcus-associated glomerulonephritis is counseled about prognosis. According to the brick, approximately what percentage of adults with staph-associated PIGN progress to end-stage renal disease requiring dialysis or transplantation?",
+      "choices": [
+        "1%",
+        "5%",
+        "17%",
+        "50%",
+        "75%"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. 1% is the pediatric PIGN rate of renal failure.",
+        "Incorrect. The brick cites a higher rate for adult staph-associated disease.",
+        "Correct. Adults with staph-associated PIGN have approximately a 17% chance of progressing to ESRD requiring dialysis or transplantation.",
+        "Incorrect. The brick does not cite 50% progression to ESRD.",
+        "Incorrect. The brick does not cite 75% progression to ESRD."
+      ]
+    },
+    {
+      "id": 22,
+      "stem": "A 60-year-old man recovers from Staphylococcus-associated glomerulonephritis but follow-up labs continue to show reduced kidney function. Approximately what fraction of adults with staph-associated PIGN have persistently decreased GFR?",
+      "choices": [
+        "1%",
+        "10%",
+        "90%",
+        "50%",
+        "25%"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. 1% applies to pediatric progression to renal failure.",
+        "Incorrect. The brick cites a higher rate.",
+        "Incorrect. Most adults do not have such severe persistent disease.",
+        "Incorrect. The brick does not cite 50%.",
+        "Correct. About 25% of adults with staph-associated PIGN have persistently decreased GFR."
+      ]
+    },
+    {
+      "id": 23,
+      "stem": "A 50-year-old woman with PIGN is told her hematuria may persist longer than her other symptoms. In adults, how long can hematuria persist after PIGN?",
+      "choices": [
+        "A few hours",
+        "1 to 2 days",
+        "1 to 2 weeks",
+        "3 to 6 months",
+        "10 years"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Hematuria persists longer than hours in adults.",
+        "Incorrect. Hematuria persists longer than days in adults.",
+        "Incorrect. 1 to 2 weeks is the resolution interval for symptoms overall, particularly in children.",
+        "Correct. In adults, the hematuria of PIGN can persist for 3 to 6 months or, less commonly, for years.",
+        "Incorrect. While years is possible, the typical persistence cited in the brick is 3 to 6 months."
+      ]
+    },
+    {
+      "id": 24,
+      "stem": "A 35-year-old woman with PIGN does not improve after 2 weeks and shows declining GFR. According to the brick, what is the appropriate next step?",
+      "choices": [
+        "Repeat antibiotics",
+        "Renal biopsy",
+        "Plasmapheresis",
+        "High-dose steroids",
+        "Immediate transplantation"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Repeat antibiotics will not address persistent disease, especially in non-staph cases.",
+        "Correct. If the disease does not reverse in a week or two or is severe (e.g., declining GFR), a renal biopsy is performed to ensure another glomerular disease has not been missed.",
+        "Incorrect. Plasmapheresis is used for anti-GBM and severe ANCA vasculitis, not PIGN.",
+        "Incorrect. Steroids are not the brick's recommended next step.",
+        "Incorrect. Transplantation is not appropriate for acute PIGN."
+      ]
+    },
+    {
+      "id": 25,
+      "stem": "A 7-year-old boy presents with hematuria, edema, and hypertension 2 weeks after strep throat. Which combination of findings best supports the diagnosis of PIGN?",
+      "choices": [
+        "Low C3, normal C4, RBC casts",
+        "Normal complement, eosinophiluria",
+        "Linear IgG on biopsy, low C3",
+        "Anti-dsDNA positive, low C3 and C4",
+        "ANCA positive, RBC casts"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. The classic PIGN combination is low C3 with normal C4 (alternative pathway activation) plus urinalysis showing RBCs and RBC casts.",
+        "Incorrect. Eosinophiluria suggests acute interstitial nephritis, not PIGN.",
+        "Incorrect. Linear IgG deposition is the hallmark of anti-GBM disease; PIGN shows granular IgG.",
+        "Incorrect. Anti-dsDNA with low C3 and C4 indicates lupus nephritis.",
+        "Incorrect. ANCA positivity points to pauci-immune vasculitis (e.g., GPA), not PIGN."
+      ]
+    }
+  ]
+}

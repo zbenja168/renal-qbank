@@ -1,0 +1,481 @@
+{
+  "id": 51,
+  "title": "Acute Interstitial Nephritis",
+  "questions": [
+    {
+      "id": 1,
+      "stem": "A 53-year-old man finishes a course of amoxicillin for a presumed cold. One week later he develops fever, a diffuse maculopapular rash, and flank pain. Serum creatinine is elevated and urinalysis shows white blood cell casts and eosinophils. Which kidney process best describes his condition?",
+      "choices": [
+        "Glomerular basement membrane injury",
+        "Renal interstitial inflammation",
+        "Ischemic tubular necrosis",
+        "Urinary outflow obstruction",
+        "Podocyte foot process effacement"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Glomerular basement membrane damage is characteristic of glomerulonephritis, not AIN.",
+        "Correct. Acute interstitial nephritis (AIN) is an inflammatory reaction in the renal interstitium that causes acute kidney injury.",
+        "Incorrect. Ischemic tubular necrosis describes acute tubular necrosis (ATN), a different intrarenal cause of AKI.",
+        "Incorrect. Urinary outflow obstruction is postrenal AKI, not interstitial inflammation.",
+        "Incorrect. Podocyte foot process effacement underlies nephrotic syndromes such as minimal change disease."
+      ]
+    },
+    {
+      "id": 2,
+      "stem": "A 60-year-old woman with chronic low back pain has been taking ibuprofen daily for months. Routine labs show a rising creatinine. Which class of medication is the most common cause of acute interstitial nephritis overall?",
+      "choices": [
+        "Penicillins",
+        "Proton pump inhibitors",
+        "NSAIDs",
+        "Loop diuretics",
+        "PD-1 inhibitors"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Penicillins are a classic cause of allergic AIN but are not the most common cause overall.",
+        "Incorrect. PPIs are an important and increasingly recognized cause but are not the most common overall.",
+        "Correct. NSAIDs (e.g., ibuprofen, naproxen) are the most common cause of AIN overall.",
+        "Incorrect. Thiazide and loop diuretics can cause AIN but are not the leading cause.",
+        "Incorrect. PD-1 inhibitors (e.g., nivolumab) are an emerging cause but not the most common."
+      ]
+    },
+    {
+      "id": 3,
+      "stem": "A 45-year-old woman starts methicillin for a skin infection. Eight days later she develops fever, a maculopapular rash, and elevated creatinine. Which classical triad is described in allergic AIN?",
+      "choices": [
+        "Fever, hematuria, hypertension",
+        "Rash, oliguria, hyperkalemia",
+        "Fever, arthralgia, proteinuria",
+        "Fever, rash, eosinophilia",
+        "Eosinophilia, edema, oliguria"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Hematuria can occur but is not part of the classical triad.",
+        "Incorrect. Oliguria and hyperkalemia are not part of the brick's described triad.",
+        "Incorrect. Arthralgia is not described as part of the AIN triad.",
+        "Correct. The classical allergic triad of AIN is fever, rash, and eosinophilia, although it appears in fewer than 10% of patients.",
+        "Incorrect. Edema and oliguria are not part of the classical triad."
+      ]
+    },
+    {
+      "id": 4,
+      "stem": "A 50-year-old man develops AIN after starting trimethoprim-sulfamethoxazole. Approximately how long after starting the offending drug does the rise in creatinine typically occur?",
+      "choices": [
+        "Within 1 hour",
+        "12-24 hours",
+        "2-3 days",
+        "7-10 days",
+        "4-6 weeks"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. AIN is a hypersensitivity reaction; renal effects do not appear within an hour.",
+        "Incorrect. The creatinine rise takes longer than a day.",
+        "Incorrect. The brick specifies a longer interval.",
+        "Correct. The rise in creatinine (drop in GFR) typically occurs 7 to 10 days after starting the offending drug.",
+        "Incorrect. This is too long a delay for the typical AIN presentation."
+      ]
+    },
+    {
+      "id": 5,
+      "stem": "A first-year resident asks how patients with AIN most commonly present. Which of the following best describes the typical presentation?",
+      "choices": [
+        "Asymptomatic, rising creatinine",
+        "Severe oliguria and hypertension",
+        "Massive hematuria with clots",
+        "Anuria with flank tenderness",
+        "Nephrotic-range edema and weight gain"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Most patients with AIN are asymptomatic, and the disease is suspected when lab tests show a decline in renal function.",
+        "Incorrect. Severe oliguria with hypertension is more characteristic of acute glomerulonephritis.",
+        "Incorrect. Massive hematuria with clots is not the typical AIN presentation.",
+        "Incorrect. Anuria with flank tenderness suggests obstruction or pyelonephritis.",
+        "Incorrect. Nephrotic-range edema is not typical, although NSAID-induced AIN can have heavy proteinuria."
+      ]
+    },
+    {
+      "id": 6,
+      "stem": "A 42-year-old woman receives intravenous penicillin and 9 days later develops AIN. Which combination of hypersensitivity reactions underlies allergic, drug-induced AIN?",
+      "choices": [
+        "Type II and type III",
+        "Type II only",
+        "Type I and type IV",
+        "Type III only",
+        "Type IV only"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Type II and III hypersensitivities are not the mechanism described in the brick.",
+        "Incorrect. Type II (cytotoxic) reactions do not underlie AIN in this brick.",
+        "Correct. Allergic AIN involves a combined type I (IgE) and type IV (T cell) hypersensitivity reaction.",
+        "Incorrect. Type III (immune complex) reactions characterize many glomerulonephritides, not AIN.",
+        "Incorrect. Allergic AIN is a combined type I and type IV reaction, not type IV alone."
+      ]
+    },
+    {
+      "id": 7,
+      "stem": "An immunology lecturer explains how penicillin causes AIN. The drug itself is too small to provoke an immune response, so it attaches to a larger carrier protein to elicit one. What is this drug-acting-as-small-molecule role called?",
+      "choices": [
+        "Adjuvant",
+        "Hapten",
+        "Superantigen",
+        "Cytokine",
+        "Opsonin"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Adjuvants enhance immune responses to vaccines but are not what drugs do in AIN.",
+        "Correct. Drugs like penicillin act as haptens, small molecules that bind carrier proteins to elicit a hypersensitivity reaction.",
+        "Incorrect. Superantigens nonspecifically activate large numbers of T cells; not the AIN mechanism.",
+        "Incorrect. Cytokines are signaling molecules, not the role drugs play in AIN.",
+        "Incorrect. Opsonins coat pathogens for phagocytosis; this is not what drugs do in AIN."
+      ]
+    },
+    {
+      "id": 8,
+      "stem": "A 70-year-old man with chronic kidney disease has AIN attributed to long-term ibuprofen use. Compared with antibiotic-induced AIN, his presentation lacks rash, fever, and eosinophilia. Which best characterizes the inflammatory mechanism behind NSAID-induced AIN?",
+      "choices": [
+        "Allergic IgE-mediated",
+        "Mechanism not well understood",
+        "Direct tubular toxicity",
+        "Immune complex deposition",
+        "Antibody-mediated cytotoxicity"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. NSAID-induced AIN typically lacks the allergic features of fever, rash, and eosinophilia.",
+        "Correct. The brick states that the mechanism of the most common form of AIN, caused by NSAIDs, is not well understood.",
+        "Incorrect. Direct tubular toxicity better describes acute tubular necrosis, not NSAID-induced AIN.",
+        "Incorrect. Immune complex deposition characterizes glomerulonephritides.",
+        "Incorrect. Antibody-mediated cytotoxicity is not the brick's explanation for NSAID-induced AIN."
+      ]
+    },
+    {
+      "id": 9,
+      "stem": "A 68-year-old woman with reflux disease has been on omeprazole for 3 years. Routine labs show a slowly rising creatinine. Which class of medication taken for gastritis or peptic ulcer disease is a recognized cause of AIN?",
+      "choices": [
+        "H2 blockers",
+        "Sucralfate",
+        "Bismuth subsalicylate suspension",
+        "Calcium-containing antacids",
+        "Proton pump inhibitors"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. H2 blockers are not listed by the brick as a cause of AIN.",
+        "Incorrect. Sucralfate is not listed by the brick as a cause of AIN.",
+        "Incorrect. Bismuth subsalicylate is not listed by the brick as a cause of AIN.",
+        "Incorrect. Antacids are not listed by the brick as a cause of AIN.",
+        "Correct. PPIs used for gastritis and peptic ulcer disease are a well-recognized cause of AIN."
+      ]
+    },
+    {
+      "id": 10,
+      "stem": "A 55-year-old man with metastatic melanoma is started on nivolumab. Six weeks later his serum creatinine doubles and biopsy shows AIN. What class of drug is nivolumab?",
+      "choices": [
+        "Tyrosine kinase inhibitor",
+        "Alkylating agent",
+        "PD-1 checkpoint inhibitor",
+        "Anti-CD20 monoclonal antibody",
+        "Antimetabolite"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Tyrosine kinase inhibitors are not the class of nivolumab.",
+        "Incorrect. Alkylating agents are not the class of nivolumab.",
+        "Correct. Nivolumab is a PD-1 checkpoint inhibitor chemotherapy drug, a recognized cause of AIN.",
+        "Incorrect. Anti-CD20 antibodies (e.g., rituximab) are not the class of nivolumab.",
+        "Incorrect. Antimetabolites are not the class of nivolumab."
+      ]
+    },
+    {
+      "id": 11,
+      "stem": "A 38-year-old woman with ulcerative colitis takes mesalamine for disease control. After several months her creatinine begins to rise. Mesalamine is best categorized as which type of agent?",
+      "choices": [
+        "Inhaled corticosteroid",
+        "NSAID for IBD",
+        "Calcineurin immunomodulator",
+        "Macrolide antibiotic",
+        "Biologic anti-TNF agent"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Mesalamine is not a corticosteroid.",
+        "Correct. Mesalamine (5-aminosalicylic acid) is an NSAID used for inflammatory bowel disease and a known cause of AIN.",
+        "Incorrect. Mesalamine is not classified as an immunomodulator in this brick.",
+        "Incorrect. Mesalamine is not an antibiotic.",
+        "Incorrect. Mesalamine is not a biologic anti-TNF agent."
+      ]
+    },
+    {
+      "id": 12,
+      "stem": "A 30-year-old woman with systemic lupus erythematosus develops a rising creatinine and biopsy shows interstitial inflammation. Which category of disease best explains a nondrug, noninfectious cause of AIN?",
+      "choices": [
+        "Vascular thrombosis",
+        "Crystal-induced injury",
+        "Autoimmune disease",
+        "Hereditary tubular defect",
+        "Atherosclerotic disease"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Vascular thrombosis is not listed as a cause of AIN.",
+        "Incorrect. Crystal-induced injury is a separate mechanism not listed for AIN here.",
+        "Correct. Autoimmune diseases such as SLE, Sjogren syndrome, and sarcoidosis can cause AIN.",
+        "Incorrect. Hereditary tubular defects are not the autoimmune cause described.",
+        "Incorrect. Atherosclerotic disease is not the cause of AIN described in the brick."
+      ]
+    },
+    {
+      "id": 13,
+      "stem": "A 65-year-old woman with chronic bilateral hydronephrosis from pelvic radiation develops a rising creatinine and biopsy shows interstitial inflammation. Which nondrug cause of AIN does this represent?",
+      "choices": [
+        "Glomerular hypertension",
+        "Renal vein thrombosis",
+        "Ischemic cortical injury",
+        "Chronic urinary obstruction",
+        "Crystal nephropathy"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Glomerular hypertension is not listed as a cause of AIN.",
+        "Incorrect. Renal vein thrombosis is not a brick-listed cause of AIN.",
+        "Incorrect. Ischemic injury characterizes ATN rather than AIN.",
+        "Correct. Chronic urinary tract obstruction is listed as a systemic/inflammatory cause of AIN.",
+        "Incorrect. Crystal nephropathy is not the brick-listed cause."
+      ]
+    },
+    {
+      "id": 14,
+      "stem": "A 50-year-old man undergoes renal biopsy for protracted AKI. The pathologist reports interstitial inflammatory cell infiltrates with eosinophils and tubulitis. The glomeruli and blood vessels appear normal. These findings are most consistent with which diagnosis?",
+      "choices": [
+        "Acute tubular necrosis",
+        "Acute interstitial nephritis",
+        "Membranous nephropathy",
+        "Postinfectious glomerulonephritis",
+        "Renal papillary necrosis"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. ATN shows tubular damage with muddy-brown granular casts, not interstitial eosinophilic infiltrates.",
+        "Correct. AIN histology shows inflammatory infiltrates (including eosinophils) and tubular injury with normal glomeruli.",
+        "Incorrect. Membranous nephropathy involves the glomerular basement membrane.",
+        "Incorrect. Postinfectious GN shows glomerular involvement, not interstitial eosinophilia.",
+        "Incorrect. Renal papillary necrosis shows necrotic papillae, not interstitial infiltrates."
+      ]
+    },
+    {
+      "id": 15,
+      "stem": "A 60-year-old man with suspected AIN has a urinalysis sent. Which urine finding is the most characteristic for AIN?",
+      "choices": [
+        "Muddy-brown granular casts",
+        "Dysmorphic RBCs and RBC casts",
+        "WBCs and WBC casts",
+        "Hyaline casts",
+        "Waxy casts"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Muddy-brown granular casts are characteristic of acute tubular necrosis.",
+        "Incorrect. Dysmorphic RBCs and RBC casts characterize acute glomerulonephritis.",
+        "Correct. Urinalysis in AIN typically shows white blood cells and WBC casts, sometimes with eosinophils.",
+        "Incorrect. Hyaline casts are nonspecific and not the characteristic AIN finding.",
+        "Incorrect. Waxy casts suggest chronic kidney disease, not AIN."
+      ]
+    },
+    {
+      "id": 16,
+      "stem": "A 55-year-old woman has urinalysis showing WBCs and WBC casts. The clinical context includes peripheral eosinophilia and a recent course of cephalexin. The clinician explains that one urinary finding helps localize the inflammation to the renal parenchyma. Which finding does this?",
+      "choices": [
+        "Free WBCs alone",
+        "Squamous epithelial cells",
+        "Hyaline casts",
+        "WBC casts",
+        "Bacteriuria"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Free WBCs without casts can come from anywhere in the urinary tract.",
+        "Incorrect. Squamous epithelial cells suggest contamination, not parenchymal inflammation.",
+        "Incorrect. Hyaline casts are nonspecific.",
+        "Correct. WBC casts are pathognomonic for inflammation of the renal parenchyma.",
+        "Incorrect. Bacteriuria suggests infection (e.g., pyelonephritis), not aseptic interstitial inflammation."
+      ]
+    },
+    {
+      "id": 17,
+      "stem": "A 48-year-old woman with newly diagnosed AIN has WBC casts on urinalysis and a low-grade fever. Initial concern is for pyelonephritis. Which urinalysis feature would argue against pyelonephritis and favor AIN?",
+      "choices": [
+        "Presence of nitrites",
+        "Absence of bacteria",
+        "Positive leukocyte esterase",
+        "Cloudy urine",
+        "Foul odor"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Nitrites suggest bacterial infection (pyelonephritis), not AIN.",
+        "Correct. AIN typically shows WBCs and WBC casts without bacteria, since there is no infection.",
+        "Incorrect. Both pyelonephritis and AIN can have positive leukocyte esterase.",
+        "Incorrect. Cloudy urine is nonspecific and would not argue against pyelonephritis.",
+        "Incorrect. Foul odor suggests infection, not AIN."
+      ]
+    },
+    {
+      "id": 18,
+      "stem": "A 32-year-old man on naproxen for chronic back pain develops AIN with a 24-hour urine protein of 4.2 g. His clinician notes that this degree of proteinuria is unusual for AIN. Which form of AIN is classically associated with nephrotic-range proteinuria?",
+      "choices": [
+        "Penicillin-induced AIN",
+        "PPI-induced AIN",
+        "NSAID-induced AIN",
+        "Sarcoidosis-related AIN",
+        "Pyelonephritis-related AIN"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Penicillin-induced AIN typically has only low-grade proteinuria (<1 g/24 h).",
+        "Incorrect. PPI-induced AIN does not classically cause nephrotic-range proteinuria.",
+        "Correct. NSAID-induced AIN can have nephrotic-range proteinuria (>3.5 g/24 h); reasons are unknown.",
+        "Incorrect. Sarcoidosis-related AIN is not the form highlighted by the brick for heavy proteinuria.",
+        "Incorrect. Pyelonephritis is a different entity, not associated with nephrotic-range proteinuria."
+      ]
+    },
+    {
+      "id": 19,
+      "stem": "A 70-year-old man with AIN has 1+ proteinuria on dipstick. According to the brick, what range of 24-hour urine protein is typical of non-NSAID AIN?",
+      "choices": [
+        "<1 g in 24 hours",
+        "1-3 g in 24 hours",
+        ">3.5 g in 24 hours",
+        ">5 g in 24 hours",
+        ">10 g in 24 hours"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. In typical (non-NSAID) AIN, proteinuria is low: 1+ or 2+ on dipstick or <1 g on 24-hour collection.",
+        "Incorrect. Proteinuria above 1 g is unusual for non-NSAID AIN.",
+        "Incorrect. Nephrotic-range proteinuria is the exception (NSAID-induced AIN), not the rule.",
+        "Incorrect. Greater than 5 g/24 h is well above the typical AIN range.",
+        "Incorrect. Greater than 10 g/24 h is not typical of AIN."
+      ]
+    },
+    {
+      "id": 20,
+      "stem": "A 58-year-old woman has an unexplained AKI. Her physician considers using fractional excretion of sodium (FENa) to help differentiate causes. According to the brick, how useful is FENa in suspected AIN?",
+      "choices": [
+        "Strongly supports AIN if low",
+        "Strongly supports AIN if high",
+        "Diagnostic gold standard",
+        "Not useful in suspected AIN",
+        "Replaces the need for urinalysis"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Low FENa suggests prerenal AKI, not AIN.",
+        "Incorrect. High FENa suggests ATN; the brick says FENa is not useful for AIN.",
+        "Incorrect. Renal biopsy, not FENa, is the diagnostic gold standard.",
+        "Correct. The brick states that FENa, although useful for ATN, is not useful in suspected AIN.",
+        "Incorrect. Urinalysis with microscopy remains the best diagnostic test for AIN."
+      ]
+    },
+    {
+      "id": 21,
+      "stem": "A 64-year-old man with biopsy-proven AIN attributed to omeprazole is admitted. Which intervention is the cornerstone of management?",
+      "choices": [
+        "Begin hemodialysis immediately",
+        "Start broad-spectrum antibiotics",
+        "Discontinue the offending drug",
+        "Administer IV contrast for imaging",
+        "Initiate ACE inhibitor therapy"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Hemodialysis is needed only uncommonly for severe renal failure, not as routine care.",
+        "Incorrect. Antibiotics are not indicated unless there is infection; they are also common AIN triggers.",
+        "Correct. The key step is to quickly remove the offending agent, which typically results in complete recovery.",
+        "Incorrect. IV contrast is itself nephrotoxic and should be avoided.",
+        "Incorrect. ACE inhibitors are not the brick-recommended cornerstone of AIN management."
+      ]
+    },
+    {
+      "id": 22,
+      "stem": "A 50-year-old woman with severe allergic AIN from rifampin has worsening renal function despite drug discontinuation. Which adjunctive therapy may be considered, but only if used quickly?",
+      "choices": [
+        "Cyclophosphamide",
+        "Plasmapheresis",
+        "Glucocorticoids",
+        "Rituximab",
+        "Tacrolimus"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Cyclophosphamide is not the brick's adjunctive therapy for AIN.",
+        "Incorrect. Plasmapheresis is not part of standard AIN management in the brick.",
+        "Correct. Glucocorticoids can be used in severe allergic AIN but must be employed quickly to have an effect.",
+        "Incorrect. Rituximab is not part of standard AIN management in the brick.",
+        "Incorrect. Tacrolimus is not part of standard AIN management in the brick."
+      ]
+    },
+    {
+      "id": 23,
+      "stem": "A 67-year-old man with NSAID-induced AIN has worsening renal function. The team considers steroids. According to the brick, what is the role of glucocorticoids in NSAID-induced AIN?",
+      "choices": [
+        "First-line therapy",
+        "Required for several months",
+        "Not useful",
+        "Standard of care",
+        "Curative when given early"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Glucocorticoids are not first-line for NSAID-induced AIN.",
+        "Incorrect. The brick does not recommend prolonged steroid use for NSAID-induced AIN.",
+        "Correct. The brick explicitly states that glucocorticoids are not useful in NSAID-induced AIN.",
+        "Incorrect. Steroids are not standard of care in NSAID-induced AIN.",
+        "Incorrect. Steroids are not described as curative in NSAID-induced AIN."
+      ]
+    },
+    {
+      "id": 24,
+      "stem": "A 72-year-old woman with severe AIN develops oliguria, hyperkalemia, and metabolic acidosis. Conservative measures fail. Which intervention may be required uncommonly in patients with features of renal failure from AIN?",
+      "choices": [
+        "Renal artery stenting",
+        "Nephrectomy",
+        "Living-donor kidney transplant",
+        "Renal replacement therapy",
+        "Extracorporeal lithotripsy"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Renal artery stenting addresses renovascular hypertension, not AIN.",
+        "Incorrect. Nephrectomy is not part of AIN management.",
+        "Incorrect. Kidney transplant is reserved for end-stage renal disease, not acute AIN.",
+        "Correct. Uncommonly, patients with features of renal failure may require renal replacement therapy with electrolyte correction and dialysis.",
+        "Incorrect. Lithotripsy is for kidney stones, not AIN."
+      ]
+    },
+    {
+      "id": 25,
+      "stem": "A 53-year-old man with allergic AIN from amoxicillin has the drug stopped, and 3 days later he reports feeling completely well with improving creatinine. Which statement best describes the prognosis of allergic, drug-induced AIN when caught early?",
+      "choices": [
+        "Universal progression to dialysis",
+        "Permanent CKD in most patients",
+        "High mortality despite treatment",
+        "Excellent for full recovery",
+        "Inevitable transplant requirement"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Most patients do not progress to dialysis when the drug is withdrawn early.",
+        "Incorrect. Permanent CKD is not the typical outcome with timely drug withdrawal.",
+        "Incorrect. Mortality is not a feature of early-recognized, drug-induced AIN.",
+        "Correct. With drug-induced allergic AIN, prognosis is excellent for full renal recovery if the drug is withdrawn early.",
+        "Incorrect. Transplant is not required when the offending drug is removed early."
+      ]
+    }
+  ]
+}

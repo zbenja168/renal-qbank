@@ -1,0 +1,433 @@
+{
+  "id": 53,
+  "title": "Cystitis and Pyelonephritis",
+  "questions": [
+    {
+      "id": 1,
+      "stem": "A 22-year-old woman presents to student health with one day of dysuria, urinary frequency, and suprapubic pain. She is afebrile with a normal pelvic exam. Which anatomic site of infection best fits her presentation?",
+      "choices": ["Bladder", "Renal cortex", "Prostate", "Urethra (gonococcal)", "Renal pelvis only"],
+      "answer": 0,
+      "explanations": [
+        "Correct. Cystitis is an infection of the bladder, presenting with dysuria, frequency, urgency, and suprapubic pain without fever.",
+        "Incorrect. Renal cortical involvement is the hallmark of pyelonephritis, which adds fever and CVA tenderness.",
+        "Incorrect. Prostatitis is a male diagnosis and was not described in this patient.",
+        "Incorrect. Gonococcal urethritis would be expected in the setting of vaginal symptoms or recent STI exposure.",
+        "Incorrect. Isolated renal pelvis infection is part of pyelonephritis and would include systemic symptoms."
+      ]
+    },
+    {
+      "id": 2,
+      "stem": "A 35-year-old woman with one day of urinary frequency and dysuria also has a fever of 39 C, shaking chills, nausea, and right-sided flank pain. Tapping over the right costovertebral angle elicits sharp pain. Which diagnosis best fits her presentation?",
+      "choices": ["Uncomplicated cystitis", "Pyelonephritis", "Interstitial cystitis", "Hemorrhagic cystitis", "Urethritis"],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Uncomplicated cystitis is afebrile and lacks flank pain or CVA tenderness.",
+        "Correct. Pyelonephritis presents with cystitis symptoms plus fever, chills, flank pain, and CVA tenderness.",
+        "Incorrect. Interstitial cystitis is a chronic noninfectious bladder pain syndrome without fever.",
+        "Incorrect. Hemorrhagic cystitis features bladder bleeding from radiation, chemo, or viruses, not high fever and CVA tenderness.",
+        "Incorrect. Urethritis causes dysuria but not fever or flank pain."
+      ]
+    },
+    {
+      "id": 3,
+      "stem": "A medical student reviewing UTI microbiology asks which organism causes the majority of urinary tract infections. According to the brick, what percentage of cystitis and pyelonephritis cases are caused by Escherichia coli?",
+      "choices": ["10-25%", "30-50%", "50-70%", "75-95%", ">99%"],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. This dramatically underestimates the frequency of E. coli as a urinary pathogen.",
+        "Incorrect. E. coli causes substantially more than half of UTIs.",
+        "Incorrect. The brick cites a higher percentage range.",
+        "Correct. E. coli causes 75-95% of cystitis and pyelonephritis because the urethra lies close to the anus.",
+        "Incorrect. Although E. coli predominates, it does not cause essentially all UTIs."
+      ]
+    },
+    {
+      "id": 4,
+      "stem": "A 26-year-old sexually active woman presents with dysuria and suprapubic pain. Urine culture grows a gram-positive organism, and the lab notes the isolate is nitrite negative. Which uropathogen best fits this profile?",
+      "choices": [
+        "Escherichia coli",
+        "Staph saprophyticus",
+        "Klebsiella pneumoniae",
+        "Proteus mirabilis",
+        "Pseudomonas aeruginosa"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. E. coli is gram-negative and converts urinary nitrate to nitrite.",
+        "Correct. S. saprophyticus is the second most common UTI cause, classically affects sexually active females, and is nitrite negative.",
+        "Incorrect. Klebsiella is gram-negative and nitrite positive.",
+        "Incorrect. Proteus is gram-negative, nitrite positive, and associated with struvite stones.",
+        "Incorrect. Pseudomonas is gram-negative and typically a hospital-acquired pathogen."
+      ]
+    },
+    {
+      "id": 5,
+      "stem": "A 70-year-old man with a chronic indwelling Foley catheter develops a UTI in a long-term care facility. His urine culture grows a gram-negative rod producing struvite stones in his renal pelvis. Which organism is most likely responsible?",
+      "choices": [
+        "Escherichia coli",
+        "Staphylococcus saprophyticus",
+        "Proteus mirabilis",
+        "Enterococcus faecalis",
+        "Streptococcus agalactiae"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. E. coli is the most common UTI organism but is not classically linked to struvite stones.",
+        "Incorrect. S. saprophyticus is gram-positive and not associated with struvite stones.",
+        "Correct. Proteus mirabilis is a urease-producing organism associated with struvite kidney stones and hospital/long-term care UTIs.",
+        "Incorrect. Enterococcus faecalis is gram-positive and not the brick's struvite-stone organism.",
+        "Incorrect. The brick does not list group B Strep as a major UTI pathogen."
+      ]
+    },
+    {
+      "id": 6,
+      "stem": "A pediatric resident is taught that uropathogenic strains of E. coli have a specific virulence factor that promotes adhesion to and invasion of the urinary tract epithelium. Which factor does the brick highlight?",
+      "choices": ["Lipid A endotoxin", "K1 capsule", "Shiga-like toxin", "P fimbriae", "Heat-stable enterotoxin"],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Lipid A drives gram-negative sepsis but is not the brick's UTI adhesion factor.",
+        "Incorrect. K1 capsule is associated with neonatal meningitis, not the brick's UTI virulence factor.",
+        "Incorrect. Shiga-like toxin is produced by EHEC and causes hemorrhagic colitis/HUS.",
+        "Correct. Uropathogenic E. coli often possess P fimbriae, which mediate adhesion to urothelium and invasion.",
+        "Incorrect. Heat-stable enterotoxin is an ETEC virulence factor, not a UTI adhesion factor."
+      ]
+    },
+    {
+      "id": 7,
+      "stem": "A clinic nurse asks why women have so many more UTIs than men. According to the brick, which anatomic feature is the principal explanation?",
+      "choices": [
+        "Larger bladder capacity",
+        "Higher urine pH",
+        "Lower urinary IgA",
+        "Estrogen-driven uropathy",
+        "Short urethra near anus"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. Bladder capacity is not cited as the reason for the female predominance.",
+        "Incorrect. Urine pH is not the brick's explanation for the gender difference.",
+        "Incorrect. Local IgA differences are not the brick's stated mechanism.",
+        "Incorrect. The brick does not invoke estrogen as the driver of female UTI predominance.",
+        "Correct. Females have a shorter urethra in close proximity to the anus, easing bacterial entry into the bladder."
+      ]
+    },
+    {
+      "id": 8,
+      "stem": "A 6-year-old boy with recurrent UTIs is found on retrograde cystogram to have urine refluxing from the bladder up the ureters during bladder filling. Which condition is shown?",
+      "choices": [
+        "Horseshoe kidney",
+        "Posterior urethral valves",
+        "Ureteral duplication",
+        "Vesicoureteral reflux",
+        "Renal papillary necrosis"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Horseshoe kidney is a fusion anomaly, not bladder-to-ureter reflux.",
+        "Incorrect. Posterior urethral valves obstruct outflow rather than allowing retrograde reflux.",
+        "Incorrect. Ureteral duplication is an anatomic variant, not the reflux phenomenon described.",
+        "Correct. Vesicoureteral reflux is the abnormal retrograde passage of urine from the bladder up the ureters and is a pediatric UTI risk factor.",
+        "Incorrect. Renal papillary necrosis is parenchymal injury, not the imaging pattern described."
+      ]
+    },
+    {
+      "id": 9,
+      "stem": "A 24-year-old woman presents with 2 days of dysuria, frequency, and urgency. She is afebrile, has no flank pain, no vaginal discharge, no comorbidities, and is not pregnant. According to the brick, what is the appropriate way to diagnose her cystitis?",
+      "choices": [
+        "Urine culture and sensitivity required",
+        "CT scan of the abdomen",
+        "History and physical alone",
+        "Cystoscopy",
+        "Blood cultures"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Urine culture is not required for uncomplicated cystitis though it is often obtained.",
+        "Incorrect. CT is reserved for failure to respond, severe pyelonephritis, or suspected obstruction.",
+        "Correct. Uncomplicated cystitis can be diagnosed by history and physical exam alone; lab tests are not required.",
+        "Incorrect. Cystoscopy is not part of routine cystitis diagnosis.",
+        "Incorrect. Blood cultures are obtained in hospitalized pyelonephritis, not uncomplicated cystitis."
+      ]
+    },
+    {
+      "id": 10,
+      "stem": "A 32-year-old man presents with dysuria and frequency. According to the brick, which feature alone makes his cystitis 'complicated' rather than uncomplicated?",
+      "choices": [
+        "Male sex",
+        "Single prior UTI 10 years ago",
+        "Sexual activity",
+        "Suprapubic pain",
+        "Mild gross hematuria"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. UTIs in all males are classified as complicated per the brick.",
+        "Incorrect. A remote single UTI does not meet the recurrent-UTI threshold.",
+        "Incorrect. Sexual activity is a risk factor but does not by itself define complicated UTI.",
+        "Incorrect. Suprapubic pain is a typical cystitis symptom, not a complicating factor.",
+        "Incorrect. Hematuria can occur in cystitis but does not by itself classify it as complicated."
+      ]
+    },
+    {
+      "id": 11,
+      "stem": "A 28-year-old woman has had 3 culture-proven UTIs in the past 8 months. According to the brick's definition, which threshold of recurrence places her in the 'recurrent UTI' category?",
+      "choices": [
+        ">=2/6mo or >=3/yr",
+        ">=2 in 1 year",
+        ">=4 in 6 months",
+        ">=1 with hematuria",
+        ">=2 lifetime"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Recurrent UTI is defined as 2 or more infections in 6 months or 3 or more in 1 year.",
+        "Incorrect. The brick uses a tighter definition than 2 in 12 months.",
+        "Incorrect. The brick threshold is 2 in 6 months, not 4.",
+        "Incorrect. Hematuria is a symptom and not part of the recurrent UTI definition.",
+        "Incorrect. Two lifetime UTIs do not meet the recurrent-UTI definition."
+      ]
+    },
+    {
+      "id": 12,
+      "stem": "A 30-year-old woman with cystitis has a urine dipstick performed. Which combination of findings is most characteristic of a typical bacterial UTI?",
+      "choices": [
+        "Glucose, protein, and ketones",
+        "Leukocyte esterase and nitrites",
+        "Bilirubin and ketones positive",
+        "Blood positive only",
+        "Nitrites positive only"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Glucose and protein are not the dipstick markers of UTI.",
+        "Correct. Most UTIs show positive leukocyte esterase (pyuria) and positive nitrites (from nitrate-reducing bacteria).",
+        "Incorrect. Bilirubin and ketones reflect liver/metabolic disease, not UTI.",
+        "Incorrect. Hematuria can occur but is not the characteristic dipstick pattern.",
+        "Incorrect. Nitrites alone without LE are not the typical brick-described UTI pattern."
+      ]
+    },
+    {
+      "id": 13,
+      "stem": "A 25-year-old woman has dysuria and a urinalysis showing pyuria but a negative urinary nitrite test. Culture grows a gram-positive coccus. Which organism is the most likely cause of her nitrite-negative UTI?",
+      "choices": [
+        "Escherichia coli",
+        "Klebsiella pneumoniae",
+        "Proteus mirabilis",
+        "Staph saprophyticus",
+        "Pseudomonas aeruginosa"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. E. coli reduces nitrate to nitrite and would be nitrite positive.",
+        "Incorrect. Klebsiella is nitrite positive.",
+        "Incorrect. Proteus is nitrite positive.",
+        "Correct. Staph saprophyticus (and Enterococcus) lacks nitrate reductase, producing nitrite-negative UTIs.",
+        "Incorrect. Pseudomonas is generally nitrite positive."
+      ]
+    },
+    {
+      "id": 14,
+      "stem": "A 45-year-old woman is admitted with high fever and flank pain. Microscopic urine analysis shows pyuria, bacteria, and white blood cell casts. Which finding most specifically localizes the infection to the kidney?",
+      "choices": [
+        "Pyuria",
+        "Bacteria on Gram stain",
+        "Positive nitrites",
+        "Hematuria",
+        "WBC casts"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. Pyuria occurs in any UTI and does not localize to the kidney.",
+        "Incorrect. Bacteria can be present in either cystitis or pyelonephritis.",
+        "Incorrect. Nitrites indicate bacteriuria but not the level of the urinary tract involved.",
+        "Incorrect. Hematuria can occur in cystitis as well and does not localize to the kidney.",
+        "Correct. WBC casts indicate disease within the kidney tubules, supporting pyelonephritis."
+      ]
+    },
+    {
+      "id": 15,
+      "stem": "A 40-year-old woman is admitted with pyelonephritis. According to the brick, which specimens should always be obtained at admission?",
+      "choices": [
+        "Renal biopsy",
+        "Urine and blood cultures",
+        "Urethral swab and stool culture",
+        "Cerebrospinal fluid",
+        "Sputum culture"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Renal biopsy is not part of routine pyelonephritis workup.",
+        "Correct. Patients sick enough to be admitted with pyelonephritis should have urine culture and blood cultures (with CBC).",
+        "Incorrect. Stool culture and urethral swab are not part of the routine workup.",
+        "Incorrect. CSF analysis is not required unless meningitis is suspected.",
+        "Incorrect. Sputum culture is not relevant to pyelonephritis workup."
+      ]
+    },
+    {
+      "id": 16,
+      "stem": "A 30-year-old woman with uncomplicated cystitis is started on antibiotics but still has dysuria and frequency 72 hours later. According to the brick, which next step is most appropriate?",
+      "choices": [
+        "Reassure and observe",
+        "Repeat the same antibiotic course",
+        "CT or renal ultrasound",
+        "Cystoscopy",
+        "Renal biopsy"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Persistent symptoms after appropriate therapy require imaging, not observation.",
+        "Incorrect. Repeating the same antibiotic without imaging or culture review is not the brick's recommendation.",
+        "Correct. CT or ultrasound is indicated when cystitis symptoms persist after 48-72 hours of appropriate therapy.",
+        "Incorrect. Cystoscopy is not the first imaging step recommended by the brick.",
+        "Incorrect. Renal biopsy is not part of UTI evaluation."
+      ]
+    },
+    {
+      "id": 17,
+      "stem": "A 50-year-old woman with severe pyelonephritis is hemodynamically unstable. The clinician orders abdominal CT. According to the brick, which CT finding is characteristic of pyelonephritis?",
+      "choices": [
+        "Bilateral cortical thinning",
+        "Striated enhancement",
+        "Hyperechoic medullary pyramids",
+        "Beaded ureter",
+        "Pelvic free air"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Cortical thinning suggests chronic kidney disease, not acute pyelonephritis.",
+        "Correct. Pyelonephritis shows striated parenchymal enhancement, an alternation of dark and light lines in the kidney on CT.",
+        "Incorrect. Hyperechoic pyramids are an ultrasound finding from other causes, not the brick's CT pattern.",
+        "Incorrect. A beaded ureter suggests other pathology and is not the brick's pyelonephritis finding.",
+        "Incorrect. Free air implies perforation, not pyelonephritis."
+      ]
+    },
+    {
+      "id": 18,
+      "stem": "A 28-year-old woman in her second trimester of pregnancy has suspected pyelonephritis. The team needs imaging to exclude obstruction. According to the brick, which modality is preferred when contrast and radiation should be avoided?",
+      "choices": [
+        "Noncontrast CT",
+        "Contrast CT",
+        "Renal ultrasound",
+        "MR urogram with gadolinium",
+        "Voiding cystourethrogram"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Even noncontrast CT delivers radiation undesirable in pregnancy.",
+        "Incorrect. Contrast CT exposes the fetus to both radiation and iodinated contrast.",
+        "Correct. Renal ultrasound is preferred when contrast or radiation should be avoided, such as in pregnancy or CKD.",
+        "Incorrect. Gadolinium MRI is not the brick's first-line choice for excluding stones in this setting.",
+        "Incorrect. Voiding cystourethrogram is for evaluating reflux, not the acute-imaging question here."
+      ]
+    },
+    {
+      "id": 19,
+      "stem": "A 23-year-old healthy nonpregnant woman is diagnosed with uncomplicated cystitis. According to the brick, which agent is appropriate first-line therapy?",
+      "choices": ["Vancomycin", "Nitrofurantoin", "Ceftriaxone IV", "Meropenem", "Amoxicillin"],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Vancomycin targets gram-positive resistant organisms and is not first-line for cystitis.",
+        "Correct. Nitrofurantoin is a first-line oral agent for uncomplicated cystitis; it concentrates in urine and damages bacterial DNA via reactive intermediates.",
+        "Incorrect. IV ceftriaxone is reserved for severe pyelonephritis or hospitalized complicated UTI.",
+        "Incorrect. Meropenem is reserved for sepsis or suspected Pseudomonas in severe pyelonephritis.",
+        "Incorrect. Amoxicillin alone is not on the brick's first-line list for cystitis."
+      ]
+    },
+    {
+      "id": 20,
+      "stem": "A 27-year-old woman started on a UTI antibiotic returns alarmed because her urine has turned dark brown like cola. She is otherwise well, with no jaundice or hematuria. Which medication is the most likely cause of this benign side effect?",
+      "choices": ["Sulfamethoxazole", "Ciprofloxacin", "Nitrofurantoin", "Fosfomycin", "Cephalexin"],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Sulfamethoxazole does not classically cause cola-colored urine.",
+        "Incorrect. Ciprofloxacin is not associated with this benign urine discoloration.",
+        "Correct. Nitrofurantoin can cause a benign dark brown (tea/cola) discoloration of urine, which may alarm uninformed patients.",
+        "Incorrect. Fosfomycin is not the brick's drug associated with brown urine.",
+        "Incorrect. Cephalexin is not the brick's drug associated with brown urine."
+      ]
+    },
+    {
+      "id": 21,
+      "stem": "A 26-year-old woman has uncomplicated cystitis but is concerned about adherence to a multi-day regimen. According to the brick, which first-line agent has the major advantage of single-dose administration?",
+      "choices": ["Nitrofurantoin", "TMP-SMX", "Cephalexin", "Ciprofloxacin", "Fosfomycin"],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. Nitrofurantoin requires a multi-day course.",
+        "Incorrect. TMP-SMX is dosed for several days.",
+        "Incorrect. Cephalexin is given over multiple days.",
+        "Incorrect. Ciprofloxacin is dosed over several days and is not first-line for uncomplicated cystitis.",
+        "Correct. Fosfomycin's major advantage is single-dose oral administration; it inhibits an early step in peptidoglycan synthesis."
+      ]
+    },
+    {
+      "id": 22,
+      "stem": "A 28-year-old woman has acute pyelonephritis. The team is choosing oral therapy. According to the brick, why are nitrofurantoin and fosfomycin inappropriate for pyelonephritis?",
+      "choices": [
+        "They are bacteriostatic only",
+        "They lack gram-negative coverage",
+        "They are contraindicated in females",
+        "They do not reach renal parenchyma",
+        "They cause acute kidney injury"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. The reason is pharmacokinetic, not bacteriostatic vs bactericidal.",
+        "Incorrect. Both have meaningful gram-negative activity.",
+        "Incorrect. They are not contraindicated by sex.",
+        "Correct. Nitrofurantoin and fosfomycin do not achieve adequate concentrations in the renal parenchyma, so they are not used for pyelonephritis.",
+        "Incorrect. The brick's reason is inadequate parenchymal penetration, not nephrotoxicity."
+      ]
+    },
+    {
+      "id": 23,
+      "stem": "A 36-year-old man with diabetes has stable complicated cystitis. He is afebrile, hemodynamically stable, and tolerating oral intake. According to the brick, which oral regimen is appropriate first-line therapy?",
+      "choices": [
+        "IV meropenem",
+        "Cipro or TMP-SMX",
+        "Nitrofurantoin",
+        "Single-dose oral fosfomycin",
+        "Vancomycin"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Meropenem is reserved for sepsis with shock or suspected Pseudomonas.",
+        "Correct. Stable outpatients with complicated cystitis are treated with oral ciprofloxacin/levofloxacin or TMP-SMX.",
+        "Incorrect. Nitrofurantoin is for uncomplicated cystitis.",
+        "Incorrect. Fosfomycin is for uncomplicated cystitis.",
+        "Incorrect. Vancomycin is not on the brick's first-line list for complicated cystitis."
+      ]
+    },
+    {
+      "id": 24,
+      "stem": "A 32-year-old woman has pyelonephritis with fever, vomiting, and inability to tolerate oral intake. She is admitted. According to the brick, which empiric IV regimen is appropriate first-line?",
+      "choices": [
+        "IV ceftriaxone or cipro",
+        "Oral nitrofurantoin",
+        "Oral fosfomycin single dose",
+        "IV vancomycin alone",
+        "Oral amoxicillin"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Hospitalized pyelonephritis is treated empirically with IV ceftriaxone or an IV fluoroquinolone.",
+        "Incorrect. Oral nitrofurantoin does not reach renal parenchyma and is inappropriate here.",
+        "Incorrect. Oral fosfomycin is inappropriate for pyelonephritis.",
+        "Incorrect. Vancomycin alone misses the predominant gram-negative pathogens.",
+        "Incorrect. Oral amoxicillin is inadequate empiric therapy for pyelonephritis."
+      ]
+    },
+    {
+      "id": 25,
+      "stem": "A 26-year-old pregnant woman in her first trimester is diagnosed with uncomplicated cystitis. According to the brick, which antibiotic should be AVOIDED?",
+      "choices": ["Nitrofurantoin", "Cephalexin", "TMP-SMX", "Amoxicillin", "Penicillin VK"],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Nitrofurantoin has better-established safety in pregnancy and is preferred.",
+        "Incorrect. Cephalexin has better-established safety in pregnancy and is preferred.",
+        "Correct. TMP-SMX should NOT be used in pregnancy, particularly in the first trimester and near term, due to risks of birth defects and neonatal complications.",
+        "Incorrect. Amoxicillin is not flagged by the brick as contraindicated in pregnancy.",
+        "Incorrect. Penicillin VK is not the brick's contraindicated agent."
+      ]
+    }
+  ]
+}

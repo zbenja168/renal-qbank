@@ -1,0 +1,481 @@
+{
+  "id": 54,
+  "title": "Renal Stones",
+  "questions": [
+    {
+      "id": 1,
+      "stem": "A 37-year-old man arrives in the ED with sudden-onset severe left flank pain that radiates to his groin. He cannot sit still and paces the room. Urinalysis shows gross hematuria. Which classic syndrome best describes his presentation?",
+      "choices": [
+        "Papillary necrosis",
+        "Pyelonephritis",
+        "Bladder spasm",
+        "Acute glomerulonephritis",
+        "Renal colic"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. Papillary necrosis can cause flank pain and hematuria but is not the classic stone syndrome described.",
+        "Incorrect. Pyelonephritis causes fever and CVA tenderness rather than colicky pain radiating to the groin.",
+        "Incorrect. Bladder spasm causes suprapubic pain, not flank pain radiating to the groin.",
+        "Incorrect. Glomerulonephritis presents with edema, hypertension, and dysmorphic RBCs, not colicky pain.",
+        "Correct. Renal colic is acute, severe, unilateral flank pain radiating to the groin and is the classic presentation of renal stones."
+      ]
+    },
+    {
+      "id": 2,
+      "stem": "A 45-year-old woman presents with right-sided pain that radiates to her right labium. Imaging confirms an obstructing ureteral stone. Based on the brick, where is the stone most likely lodged?",
+      "choices": [
+        "Renal pelvis",
+        "Upper ureter",
+        "Lower ureter",
+        "Renal cortex",
+        "Bladder dome"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Renal pelvis stones tend to cause flank pain, not pain radiating to the labium.",
+        "Incorrect. Upper ureteral obstruction also produces flank pain, not groin/labial radiation.",
+        "Correct. Lower ureteral obstruction characteristically causes pain radiating to the ipsilateral testicle or labium.",
+        "Incorrect. Renal cortex is not a typical stone location and would not produce labial pain.",
+        "Incorrect. Bladder dome stones cause suprapubic discomfort, not labial radiation."
+      ]
+    },
+    {
+      "id": 3,
+      "stem": "A 60-year-old man has a 1.5-cm stone discovered incidentally on imaging in the renal pelvis with no associated pain. According to the brick, why are larger stones often less symptomatic than smaller stones?",
+      "choices": [
+        "They dissolve more easily",
+        "They cause less hematuria",
+        "They cannot enter the ureters",
+        "They precipitate in alkaline urine",
+        "They lodge in the urethra"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Larger stones do not dissolve more easily; in fact they often need surgical removal.",
+        "Incorrect. Stone-related hematuria is not what determines symptom severity.",
+        "Correct. Larger stones tend to remain unfelt in the renal pelvis because they are too big to enter the ureters and obstruct them.",
+        "Incorrect. Urine pH affects stone composition, not symptom severity by size.",
+        "Incorrect. Urethral lodging is not the brick's explanation for the size-symptom relationship."
+      ]
+    },
+    {
+      "id": 4,
+      "stem": "A 42-year-old woman with recurrent kidney stones is asked about her habits. Which modifiable risk factor does the brick highlight as the single most important target for prevention?",
+      "choices": [
+        "Vitamin D supplementation",
+        "High calcium intake",
+        "Low sodium intake",
+        "Low water intake",
+        "High potassium intake"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Vitamin D is not identified by the brick as the key modifiable factor.",
+        "Incorrect. The brick recommends maintaining normal dietary calcium, not restricting it.",
+        "Incorrect. Low sodium is protective, not a risk factor.",
+        "Correct. Low water intake is a key modifiable risk factor; patients are typically instructed to drink at least 3 L/day to prevent stones.",
+        "Incorrect. High potassium intake is not the modifiable risk factor highlighted."
+      ]
+    },
+    {
+      "id": 5,
+      "stem": "A 30-year-old man with a family history of nephrolithiasis is counseled on stone formation. The physician explains that crystals form when urinary solute concentration exceeds what can remain dissolved. What is this process called?",
+      "choices": [
+        "Hemoconcentration",
+        "Tubular sequestration",
+        "Precipitation gradient",
+        "Osmotic diuresis",
+        "Supersaturation"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. Hemoconcentration describes blood, not urine crystal formation.",
+        "Incorrect. Tubular sequestration is not the brick's term for crystal formation.",
+        "Incorrect. Precipitation gradient is not the term used in the brick.",
+        "Incorrect. Osmotic diuresis describes solute-driven water loss, not crystal formation.",
+        "Correct. Supersaturation describes a urinary solute concentration too high to remain dissolved, leading to crystallization and stone formation."
+      ]
+    },
+    {
+      "id": 6,
+      "stem": "A 50-year-old woman undergoes a 24-hour urine study after a calcium oxalate stone. Which urinary inhibitor of stone formation does the brick identify as the most important?",
+      "choices": [
+        "Magnesium",
+        "Citrate",
+        "Oxalate",
+        "Phosphate",
+        "Bicarbonate"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Magnesium can affect stone risk but the brick names citrate as the most important inhibitor.",
+        "Correct. Citrate is identified as the most important urinary stone inhibitor; it binds calcium and increases its solubility.",
+        "Incorrect. Oxalate is a stone-forming molecule, not an inhibitor.",
+        "Incorrect. Phosphate is a stone-forming molecule, not the key inhibitor.",
+        "Incorrect. Bicarbonate alkalinizes urine but is not named as the chief inhibitor."
+      ]
+    },
+    {
+      "id": 7,
+      "stem": "A 40-year-old man passes a stone that is sent for analysis. Which composition is the most common type of renal stone, accounting for about 75% of cases?",
+      "choices": [
+        "Indinavir crystal",
+        "Struvite",
+        "Uric acid",
+        "Cystine",
+        "Calcium oxalate"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. Drug-induced stones from indinavir are uncommon.",
+        "Incorrect. Struvite stones account for roughly 15% of cases.",
+        "Incorrect. Uric acid stones are about 6% of cases.",
+        "Incorrect. Cystine stones are rare (~2%).",
+        "Correct. Calcium oxalate/phosphate stones are the most common, making up about 75% of renal stones."
+      ]
+    },
+    {
+      "id": 8,
+      "stem": "A 35-year-old woman has recurrent calcium oxalate stones with normal serum calcium but elevated urinary calcium and no identified cause. What is the most common type of hypercalciuria?",
+      "choices": [
+        "Idiopathic",
+        "Hyperparathyroidism",
+        "Vitamin D toxicity",
+        "Sarcoidosis",
+        "Milk-alkali syndrome"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Idiopathic hypercalciuria is the most common cause; serum calcium is normal but renal calcium excretion is high without an identifiable cause.",
+        "Incorrect. Hyperparathyroidism causes hypercalcemia and hypercalciuria but is less common than idiopathic.",
+        "Incorrect. Vitamin D toxicity is not the most common cause described in the brick.",
+        "Incorrect. Sarcoidosis is not highlighted here as the leading cause.",
+        "Incorrect. Milk-alkali syndrome is not the brick's most common cause."
+      ]
+    },
+    {
+      "id": 9,
+      "stem": "A 55-year-old man has hypercalcemia, hypercalciuria, and a calcium phosphate stone. Workup shows elevated PTH. Which mechanism explains the hypercalciuria in primary hyperparathyroidism?",
+      "choices": [
+        "Increased gut absorption",
+        "Decreased renal reabsorption",
+        "Loop of Henle defect",
+        "Vitamin D deficiency",
+        "Bone calcium release"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. Although PTH affects gut absorption, the brick attributes the hypercalcemia/hypercalciuria here to bone resorption.",
+        "Incorrect. Decreased renal reabsorption is not the brick's primary mechanism for hyperparathyroidism stones.",
+        "Incorrect. A loop-of-Henle defect is not the explanation given.",
+        "Incorrect. Vitamin D deficiency is not the brick's mechanism here.",
+        "Correct. Hyperparathyroidism leads to hypercalcemia and hypercalciuria due to increased release of calcium from bone."
+      ]
+    },
+    {
+      "id": 10,
+      "stem": "A 28-year-old woman with Crohn disease and prior terminal ileum resection presents with a calcium oxalate stone. Which mechanism best explains her hyperoxaluria?",
+      "choices": [
+        "Increased oxalate synthesis",
+        "Free oxalate absorbed in gut",
+        "Renal oxalate retention",
+        "Increased urinary citrate",
+        "Bacterial oxalate production"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Endogenous oxalate overproduction is the rare genetic mechanism, not enteric hyperoxaluria.",
+        "Correct. In fat malabsorption, fatty acids bind calcium, leaving free oxalate to be absorbed and excreted as urinary oxalate (enteric hyperoxaluria).",
+        "Incorrect. The kidneys excrete more oxalate, they don't retain it, in this scenario.",
+        "Incorrect. Increased citrate would protect against stones, not cause them.",
+        "Incorrect. Bacterial oxalate production is not the brick's mechanism."
+      ]
+    },
+    {
+      "id": 11,
+      "stem": "A 32-year-old man with chronic diarrhea and metabolic acidosis is found to have low urinary citrate and recurrent calcium stones. Which condition is associated with low urinary citrate and a more alkaline urine that promotes calcium phosphate stones?",
+      "choices": [
+        "Type 1 RTA",
+        "Type 4 RTA",
+        "Liddle syndrome",
+        "Bartter syndrome",
+        "Diabetes insipidus"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Distal (type 1) RTA fails to secrete H+, producing alkaline urine and low urine citrate, predisposing to calcium phosphate stones.",
+        "Incorrect. Type 4 RTA is hyperkalemic with hyperchloremic acidosis but is not the brick's stone-forming RTA.",
+        "Incorrect. Liddle syndrome causes hypertension and hypokalemia, not stones.",
+        "Incorrect. Bartter syndrome can cause hypercalciuria but is not the disorder the brick names for hypocitraturia.",
+        "Incorrect. Diabetes insipidus does not classically cause hypocitraturia and stones."
+      ]
+    },
+    {
+      "id": 12,
+      "stem": "A 38-year-old woman with recurrent UTIs has a large branching stone filling her renal pelvis. Urine pH is 8.0. Which organism is most commonly responsible for this stone type?",
+      "choices": [
+        "Escherichia coli",
+        "Pseudomonas aeruginosa",
+        "Enterococcus faecalis",
+        "Proteus mirabilis",
+        "Candida albicans"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. E. coli is the most common UTI organism overall but is not urease-positive and not the typical struvite cause.",
+        "Incorrect. Pseudomonas can split urea but is not the most common stone organism per the brick.",
+        "Incorrect. Enterococcus is not the typical struvite organism.",
+        "Correct. Proteus mirabilis is the most common urease-producing organism associated with struvite (staghorn) stones.",
+        "Incorrect. Candida is a fungal pathogen, not the typical struvite organism."
+      ]
+    },
+    {
+      "id": 13,
+      "stem": "A 50-year-old man with recurrent infections has a large branching stone shaped like the antlers of a deer on imaging. What is this stone called?",
+      "choices": [
+        "Jackstone calculus",
+        "Bladder stone",
+        "Matrix stone",
+        "Staghorn calculus",
+        "Cystine plug"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Jackstone is a bladder stone shape, not the renal staghorn pattern.",
+        "Incorrect. Bladder stones form in the bladder, not the renal pelvis.",
+        "Incorrect. Matrix stones are an unrelated, soft stone type not described by the brick here.",
+        "Correct. Large struvite stones filling the renal pelvis and calyces are called staghorn calculi due to their antler-like shape.",
+        "Incorrect. Cystine plugs are not the term used; cystine stones are hexagonal."
+      ]
+    },
+    {
+      "id": 14,
+      "stem": "A 45-year-old man with gout and a high red-meat diet develops a stone in acidic urine (pH 5.0). The stone is invisible on plain x-ray. Which stone type is most likely?",
+      "choices": [
+        "Calcium oxalate",
+        "Struvite",
+        "Uric acid",
+        "Cystine",
+        "Calcium phosphate"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Calcium oxalate stones are radiopaque and not specifically tied to acidic urine.",
+        "Incorrect. Struvite stones form in alkaline urine (pH >7).",
+        "Correct. Uric acid stones form in acidic urine (pH <5.5), are associated with gout and high purine intake, and are radiolucent on x-ray.",
+        "Incorrect. Cystine stones are rare and tied to cystinuria, not gout/red-meat diet.",
+        "Incorrect. Calcium phosphate stones form in alkaline urine and are radiopaque."
+      ]
+    },
+    {
+      "id": 15,
+      "stem": "A 9-year-old boy has recurrent kidney stones and a family history of similar disease. Urinalysis shows hexagonal crystals. Which inherited disorder is most likely?",
+      "choices": [
+        "Cystinuria",
+        "Primary hyperoxaluria",
+        "Medullary sponge kidney",
+        "Liddle syndrome",
+        "Alport syndrome"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Cystinuria is a genetic disorder seen in children that produces cystine stones with characteristic hexagonal crystals.",
+        "Incorrect. Primary hyperoxaluria causes calcium oxalate stones, not hexagonal cystine crystals.",
+        "Incorrect. Medullary sponge kidney causes calcium stones, not hexagonal crystals.",
+        "Incorrect. Liddle syndrome causes hypertension and hypokalemia, not cystine stones.",
+        "Incorrect. Alport syndrome causes hereditary nephritis and hearing loss, not cystine stones."
+      ]
+    },
+    {
+      "id": 16,
+      "stem": "A 60-year-old man on long-term acetazolamide for glaucoma develops a calcium phosphate kidney stone. Which mechanism explains the stone risk from this drug?",
+      "choices": [
+        "Direct urinary precipitation",
+        "Proximal RTA",
+        "Hyperuricemia",
+        "Volume overload",
+        "Hyperoxaluria"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Drugs like triamterene or indinavir directly precipitate, but acetazolamide acts via urine alkalinization.",
+        "Correct. Acetazolamide (and topiramate) cause a proximal RTA that alkalinizes urine and predisposes to calcium phosphate stones.",
+        "Incorrect. Acetazolamide is not classically associated with hyperuricemia leading to stones.",
+        "Incorrect. Volume overload does not drive acetazolamide-induced stones.",
+        "Incorrect. Hyperoxaluria is not the brick's mechanism for acetazolamide-induced stones."
+      ]
+    },
+    {
+      "id": 17,
+      "stem": "A 48-year-old woman with HIV on antiretroviral therapy presents with flank pain and an obstructing stone. Which medication is known to directly precipitate in urine and form stones?",
+      "choices": [
+        "Tenofovir",
+        "Ritonavir",
+        "Zidovudine",
+        "Efavirenz",
+        "Indinavir"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. Tenofovir is associated with proximal tubulopathy, not stone formation.",
+        "Incorrect. Ritonavir is not the antiviral cited by the brick for stones.",
+        "Incorrect. Zidovudine is not the antiviral named for stone formation.",
+        "Incorrect. Efavirenz is not associated with direct stone precipitation.",
+        "Correct. Indinavir is an antiviral that can directly precipitate in the urine and form obstructing stones."
+      ]
+    },
+    {
+      "id": 18,
+      "stem": "A 36-year-old man with acute flank pain has a urinalysis. Which finding is almost universally seen in patients with acute renal stones?",
+      "choices": [
+        "Pyuria",
+        "Glucosuria",
+        "Hematuria",
+        "Proteinuria",
+        "Ketonuria"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Pyuria suggests infection, not the universal stone finding.",
+        "Incorrect. Glucosuria suggests hyperglycemia, not stones.",
+        "Correct. Patients with acute renal stones almost always have hematuria with normal RBCs on urinalysis.",
+        "Incorrect. Proteinuria is not the universal stone finding.",
+        "Incorrect. Ketonuria is unrelated to stone disease."
+      ]
+    },
+    {
+      "id": 19,
+      "stem": "A 40-year-old woman has a urinalysis showing crystals shaped like the backs of envelopes (square with an X) and dumbbells. Which stone type is most likely?",
+      "choices": [
+        "Calcium oxalate",
+        "Calcium phosphate",
+        "Struvite",
+        "Uric acid",
+        "Cystine"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Calcium oxalate crystals classically resemble the backs of envelopes or dumbbells.",
+        "Incorrect. Calcium phosphate crystals are wedge-shaped or rosette-like prisms.",
+        "Incorrect. Struvite crystals have a coffin-lid shape.",
+        "Incorrect. Uric acid crystals are rhomboid or rosette-shaped.",
+        "Incorrect. Cystine crystals are hexagonal."
+      ]
+    },
+    {
+      "id": 20,
+      "stem": "A 55-year-old woman presents with flank pain and her urine sediment shows coffin-lid-shaped crystals. Which stone type is most likely?",
+      "choices": [
+        "Calcium oxalate",
+        "Uric acid",
+        "Struvite",
+        "Cystine",
+        "Calcium phosphate"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Calcium oxalate crystals are envelope- or dumbbell-shaped.",
+        "Incorrect. Uric acid crystals are rhomboid or rosette-shaped.",
+        "Correct. Struvite stones have characteristic coffin-lid-like crystals on microscopy.",
+        "Incorrect. Cystine crystals are hexagonal.",
+        "Incorrect. Calcium phosphate crystals are wedge-shaped or rosette prisms, not coffin-lids."
+      ]
+    },
+    {
+      "id": 21,
+      "stem": "A 34-year-old woman who is 22 weeks pregnant presents with right flank pain and microscopic hematuria. Which imaging study is preferred for diagnosing a possible renal stone in this patient?",
+      "choices": [
+        "Noncontrast CT abdomen/pelvis",
+        "CT with IV contrast",
+        "Renal ultrasound",
+        "Plain abdominal x-ray",
+        "MRI with gadolinium"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Noncontrast CT is best in nonpregnant adults but exposes the fetus to radiation.",
+        "Incorrect. CT with contrast adds radiation and is not preferred for stone diagnosis in pregnancy.",
+        "Correct. Renal ultrasound is preferred in pregnant patients and children because it lacks radiation.",
+        "Incorrect. Plain x-ray has poor sensitivity and uses radiation.",
+        "Incorrect. Gadolinium MRI is generally avoided in pregnancy and is not standard for stones."
+      ]
+    },
+    {
+      "id": 22,
+      "stem": "A 50-year-old man arrives in the ED with severe colicky flank pain. Per the brick, which imaging modality is the best first test for diagnosing renal stones in a nonpregnant adult?",
+      "choices": [
+        "Renal ultrasound",
+        "Plain abdominal x-ray",
+        "CT with IV contrast",
+        "Noncontrast CT",
+        "Intravenous pyelogram"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Ultrasound is preferred only in pregnancy and children due to lower sensitivity.",
+        "Incorrect. Plain x-ray lacks sensitivity and misses radiolucent stones.",
+        "Incorrect. IV contrast is not needed and adds nephrotoxicity risk.",
+        "Correct. Noncontrast CT of the abdomen and pelvis is the best diagnostic test, with low radiation dose and high accuracy.",
+        "Incorrect. IVP has been largely replaced by noncontrast CT."
+      ]
+    },
+    {
+      "id": 23,
+      "stem": "A 56-year-old man has acute flank pain. His left kidney is obstructed but his serum creatinine is normal. According to the brick, why is creatinine often unchanged in unilateral obstruction?",
+      "choices": [
+        "Compensatory hyperfiltration",
+        "Increased aldosterone",
+        "Decreased GFR bilaterally",
+        "Tubular reabsorption of creatinine",
+        "Hepatic creatinine clearance"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Unilateral obstruction usually does not raise creatinine because the contralateral kidney compensates by hyperfiltration.",
+        "Incorrect. Aldosterone does not maintain creatinine in this setting.",
+        "Incorrect. GFR decreases on the obstructed side only; the other kidney compensates.",
+        "Incorrect. Creatinine is not significantly reabsorbed.",
+        "Incorrect. The liver does not clear creatinine."
+      ]
+    },
+    {
+      "id": 24,
+      "stem": "A 38-year-old man has an acute 5-mm ureteral stone with severe pain. He is hemodynamically stable and afebrile. Which is the most appropriate first-line analgesic according to the brick?",
+      "choices": [
+        "Hydromorphone",
+        "Morphine",
+        "Ibuprofen",
+        "Gabapentin",
+        "Lidocaine patch"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Opioids are reserved for severe pain in addition to first-line therapy.",
+        "Incorrect. Morphine is an opioid added to first-line analgesics, not the first choice.",
+        "Correct. NSAIDs like ibuprofen (or acetaminophen) are first-line pain medications for renal stones.",
+        "Incorrect. Gabapentin is not the brick's first-line analgesic for stones.",
+        "Incorrect. Lidocaine patches are not used for renal colic."
+      ]
+    },
+    {
+      "id": 25,
+      "stem": "A 42-year-old man passes a kidney stone after conservative management. He is counseled on prevention. Which dietary intervention does the brick recommend as the first step for preventing future stones?",
+      "choices": [
+        "Restrict dietary calcium",
+        "Increase fluid intake",
+        "High-protein diet",
+        "Vitamin C supplementation",
+        "Increase sodium intake"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. The brick recommends keeping normal dietary calcium, not restricting it.",
+        "Correct. Increasing fluid intake to maintain a urine output of 2-3 L/day is the first step for preventing recurrent stones.",
+        "Incorrect. Reducing animal protein, not increasing it, is recommended.",
+        "Incorrect. Vitamin C is not recommended; high doses may even raise oxalate.",
+        "Incorrect. Reducing sodium, not increasing it, is recommended."
+      ]
+    }
+  ]
+}

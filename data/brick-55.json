@@ -1,0 +1,463 @@
+{
+  "id": 55,
+  "title": "Renal: Schistosomiasis",
+  "questions": [
+    {
+      "id": 1,
+      "stem": "A 25-year-old man returns from a mission trip to sub-Saharan Africa where he swam in a freshwater lake. Two days later, he develops an itchy, maculopapular rash on his lower legs. Which stage of Schistosoma is responsible for initiating his infection?",
+      "choices": ["Miracidium", "Cercaria", "Schistosomulum", "Adult fluke", "Egg"],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Miracidia hatch in freshwater and infect snails, not humans.",
+        "Correct. Cercariae are the infectious form released from snails that penetrate intact human skin during freshwater exposure.",
+        "Incorrect. Schistosomula are the form cercariae become after penetration; they migrate through the bloodstream but do not initiate infection.",
+        "Incorrect. Adult flukes develop in the venous plexuses after migration; they are not the form that enters the host.",
+        "Incorrect. Eggs are shed in stool or urine to continue the cycle; they do not infect humans directly."
+      ]
+    },
+    {
+      "id": 2,
+      "stem": "A 34-year-old woman presents with hematuria and dysuria for several weeks after returning from rural East Africa, where she swam in freshwater lakes. Microscopic examination of her urine reveals ova with a terminal spine. Which organism is most likely responsible?",
+      "choices": [
+        "Schistosoma mansoni",
+        "Schistosoma japonicum",
+        "Schistosoma haematobium",
+        "Schistosoma mekongi",
+        "Clonorchis sinensis"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. S. mansoni eggs have a lateral spine and are shed in stool.",
+        "Incorrect. S. japonicum eggs are round with a small lateral knob and are shed in stool.",
+        "Correct. S. haematobium eggs have a terminal spine and are shed in urine; this species causes urogenital schistosomiasis with hematuria and dysuria.",
+        "Incorrect. S. mekongi is not one of the three main species emphasized in the brick.",
+        "Incorrect. Clonorchis is a liver fluke, not a Schistosoma species."
+      ]
+    },
+    {
+      "id": 3,
+      "stem": "A second-year medical student studying parasitology learns that Schistosoma is transmitted through a freshwater intermediate host. Which organism serves as the intermediate host in the Schistosoma life cycle?",
+      "choices": ["Mosquito", "Freshwater snail", "Copepod", "Tick", "Sandfly"],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Mosquitoes transmit malaria and filarial worms, not Schistosoma.",
+        "Correct. Freshwater snails are the intermediate host; miracidia infect snails and develop into cercariae that are released back into the water.",
+        "Incorrect. Copepods serve as intermediate hosts for organisms like Diphyllobothrium and Dracunculus, not Schistosoma.",
+        "Incorrect. Ticks transmit Babesia and Borrelia, not Schistosoma.",
+        "Incorrect. Sandflies transmit Leishmania, not Schistosoma."
+      ]
+    },
+    {
+      "id": 4,
+      "stem": "A 40-year-old aid worker returns from Brazil with chronic abdominal pain and bloody stools. Stool microscopy reveals oval eggs with a prominent lateral spine. Which Schistosoma species is most likely responsible?",
+      "choices": [
+        "Schistosoma haematobium",
+        "Schistosoma japonicum",
+        "Schistosoma mansoni",
+        "Schistosoma intercalatum",
+        "Schistosoma mekongi"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. S. haematobium eggs have a terminal spine and are shed in urine.",
+        "Incorrect. S. japonicum eggs are round with a small lateral knob.",
+        "Correct. S. mansoni eggs have a lateral spine and are found in stool; the species is endemic in sub-Saharan Africa, parts of South America (including Brazil), and the Caribbean.",
+        "Incorrect. Not one of the three main species covered in the brick.",
+        "Incorrect. Not one of the three main species covered in the brick."
+      ]
+    },
+    {
+      "id": 5,
+      "stem": "A 30-year-old traveler returns from the Philippines with new-onset diarrhea, abdominal pain, and weight loss. Stool examination reveals round eggs with a small lateral knob. Which Schistosoma species is most likely responsible?",
+      "choices": [
+        "Schistosoma haematobium",
+        "Schistosoma mansoni",
+        "Schistosoma japonicum",
+        "Schistosoma intercalatum",
+        "Fasciola hepatica"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. S. haematobium is endemic in Africa and the Middle East, not the Philippines.",
+        "Incorrect. S. mansoni eggs have a lateral spine and are not endemic in the Philippines.",
+        "Correct. S. japonicum is endemic in China, the Philippines, and Sulawesi; its eggs are round with a small lateral knob.",
+        "Incorrect. Not one of the three main species covered in the brick.",
+        "Incorrect. Fasciola is a liver fluke, not a Schistosoma species."
+      ]
+    },
+    {
+      "id": 6,
+      "stem": "A 28-year-old traveler with no prior exposure to endemic regions returns from a 6-week trip to Africa. Three weeks later, he develops fever, urticaria, myalgias, cough, and arthralgias. Labs reveal marked eosinophilia. Which condition best explains his presentation?",
+      "choices": [
+        "Acute hepatitis A",
+        "Katayama fever",
+        "Chronic urogenital schistosomiasis",
+        "Cercarial dermatitis",
+        "Hepatosplenic schistosomiasis"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Hepatitis A causes hepatitis but does not produce eosinophilia or urticaria.",
+        "Correct. Katayama fever is an acute systemic Type III hypersensitivity reaction occurring 2-12 weeks after primary exposure in nonimmune travelers, with fever, urticaria, myalgias, cough, and marked eosinophilia.",
+        "Incorrect. Chronic urogenital disease presents with hematuria, dysuria, and bladder fibrosis, not acute systemic symptoms.",
+        "Incorrect. Cercarial dermatitis is a localized itchy rash at the site of cercarial penetration, not a systemic illness.",
+        "Incorrect. Hepatosplenic disease is a chronic complication characterized by portal hypertension, not acute fever and urticaria."
+      ]
+    },
+    {
+      "id": 7,
+      "stem": "A medical student asks why Katayama fever is mediated by immune complexes rather than direct parasite damage. Which type of hypersensitivity reaction underlies acute schistosomiasis?",
+      "choices": ["Type I", "Type II", "Type III", "Type IV", "Type V"],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Type I is IgE-mediated immediate hypersensitivity (e.g., anaphylaxis), not the mechanism of Katayama fever.",
+        "Incorrect. Type II is antibody-mediated cytotoxicity (e.g., autoimmune hemolytic anemia).",
+        "Correct. Katayama fever is a Type III hypersensitivity reaction caused by circulating immune complexes formed against schistosome antigens as egg production begins.",
+        "Incorrect. Type IV is delayed-type/T-cell mediated, not the mechanism described.",
+        "Incorrect. Type V is not a standard category and does not describe Katayama fever."
+      ]
+    },
+    {
+      "id": 8,
+      "stem": "A 45-year-old man from Egypt presents with painless terminal hematuria and urinary frequency. Cystoscopy shows bladder wall calcifications and granulomas. He is at increased long-term risk for which malignancy?",
+      "choices": [
+        "Urothelial (transitional cell) carcinoma",
+        "Squamous cell carcinoma of the bladder",
+        "Renal cell carcinoma",
+        "Adenocarcinoma of the bladder",
+        "Wilms tumor"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Urothelial carcinoma is the typical bladder cancer in the Western world; S. haematobium is associated with a different histology.",
+        "Correct. Chronic S. haematobium infection causes squamous metaplasia from persistent inflammation, predisposing to squamous cell carcinoma of the bladder.",
+        "Incorrect. Renal cell carcinoma is not the malignancy linked to chronic schistosomiasis.",
+        "Incorrect. Adenocarcinoma of the bladder is rare and not the cancer associated with S. haematobium.",
+        "Incorrect. Wilms tumor is a pediatric renal tumor unrelated to schistosomiasis."
+      ]
+    },
+    {
+      "id": 9,
+      "stem": "A 50-year-old man with chronic Schistosoma mansoni infection develops splenomegaly, esophageal varices, and ascites. His hepatocellular function (albumin, INR, bilirubin) is preserved. Which mechanism best explains his portal hypertension?",
+      "choices": [
+        "Hepatocellular cirrhosis",
+        "Periportal egg granulomas",
+        "Hepatic vein thrombosis",
+        "Portal vein invasion by adult worms",
+        "Acute viral hepatitis"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Cirrhosis would impair hepatocellular function; schistosomiasis classically preserves it.",
+        "Correct. Eggs trapped in periportal spaces cause granulomatous inflammation and periportal fibrosis, leading to portal hypertension while sparing hepatocytes.",
+        "Incorrect. Hepatic vein thrombosis (Budd-Chiari) is unrelated to schistosomiasis.",
+        "Incorrect. Adult worms reside in venules but do not invade or obstruct the portal vein.",
+        "Incorrect. Acute viral hepatitis would impair hepatocellular function and is not the chronic process described."
+      ]
+    },
+    {
+      "id": 10,
+      "stem": "A 42-year-old man from Brazil with long-standing hepatosplenic schistosomiasis develops progressive dyspnea on exertion and right heart strain. Echocardiography reveals elevated pulmonary artery pressures. Which Schistosoma species is most strongly linked to this complication?",
+      "choices": [
+        "S. mansoni",
+        "S. haematobium",
+        "S. intercalatum",
+        "S. mekongi",
+        "S. malayensis"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Schistosomiasis-associated PAH is most strongly linked to S. mansoni (and less commonly S. japonicum) and occurs in long-standing hepatosplenic disease via egg embolization and shunting.",
+        "Incorrect. S. haematobium causes urogenital disease, not pulmonary arterial hypertension.",
+        "Incorrect. Not one of the three main species emphasized in the brick.",
+        "Incorrect. Not one of the three main species emphasized in the brick.",
+        "Incorrect. Not one of the three main species emphasized in the brick."
+      ]
+    },
+    {
+      "id": 11,
+      "stem": "A 38-year-old woman from rural Africa is diagnosed with intestinal schistosomiasis caused by Schistosoma mansoni. In which venous location do the adult worms most commonly reside?",
+      "choices": [
+        "Inferior mesenteric venules",
+        "Superior mesenteric venules",
+        "Bladder venous plexus",
+        "Hepatic sinusoids",
+        "Splenic vein"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. S. mansoni resides in the inferior mesenteric venules draining the large intestine.",
+        "Incorrect. Superior mesenteric venules drain the small intestine and are the home of S. japonicum.",
+        "Incorrect. The bladder venous plexus is colonized by S. haematobium.",
+        "Incorrect. Adult worms reside in venules, not hepatic sinusoids.",
+        "Incorrect. The splenic vein is not the typical residence of Schistosoma adults."
+      ]
+    },
+    {
+      "id": 12,
+      "stem": "A 33-year-old patient is diagnosed with intestinal schistosomiasis from S. japonicum. Which venous bed do the adult worms colonize?",
+      "choices": [
+        "Inferior mesenteric venules",
+        "Bladder venous plexus",
+        "Superior mesenteric venules",
+        "Internal iliac vein",
+        "Hemorrhoidal plexus"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Inferior mesenteric venules are colonized by S. mansoni.",
+        "Incorrect. The bladder venous plexus is colonized by S. haematobium.",
+        "Correct. S. japonicum resides in the superior mesenteric venules draining the small intestine.",
+        "Incorrect. The internal iliac vein is not the typical site for any major Schistosoma species.",
+        "Incorrect. The hemorrhoidal plexus is not the described site."
+      ]
+    },
+    {
+      "id": 13,
+      "stem": "A 27-year-old man with confirmed S. haematobium infection is being counseled about the parasite's anatomic location. Where do the adult worms reside?",
+      "choices": [
+        "Bladder venous plexus",
+        "Inferior mesenteric venules",
+        "Superior mesenteric venules",
+        "Renal veins",
+        "Portal vein"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. S. haematobium adult worms migrate to the venous plexus of the bladder and ureters, depositing eggs that are shed in urine.",
+        "Incorrect. Inferior mesenteric venules are home to S. mansoni.",
+        "Incorrect. Superior mesenteric venules harbor S. japonicum.",
+        "Incorrect. Renal veins are not the described site.",
+        "Incorrect. The portal vein is not the residence of adult schistosomes."
+      ]
+    },
+    {
+      "id": 14,
+      "stem": "A 36-year-old returning traveler is diagnosed with chronic schistosomiasis. The clinician explains that most disease manifestations are not caused by the adult worms themselves. Which feature of the parasite is the primary driver of pathology?",
+      "choices": [
+        "Host immune response to deposited eggs",
+        "Toxin secretion by adult worms",
+        "Direct cytotoxic damage by cercariae",
+        "Mechanical vessel obstruction by adult flukes",
+        "Hemolysis from worm proteases"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Chronic disease is primarily driven by the host granulomatous immune response to eggs deposited in tissue, leading to fibrosis.",
+        "Incorrect. Adult worms do not secrete toxins; pathology comes from immune reactions to eggs.",
+        "Incorrect. Cercarial penetration causes only a localized itchy rash, not chronic disease.",
+        "Incorrect. Adult worms reside in venules but do not significantly obstruct vessels mechanically.",
+        "Incorrect. Hemolysis from worm proteases is not the brick's stated mechanism of pathology."
+      ]
+    },
+    {
+      "id": 15,
+      "stem": "A 29-year-old patient diagnosed with S. mansoni infection is started on first-line therapy. Which medication should be prescribed?",
+      "choices": [
+        "Praziquantel",
+        "Ivermectin",
+        "Albendazole",
+        "Metronidazole",
+        "Mebendazole"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Praziquantel is first-line therapy for all major Schistosoma species (S. mansoni, S. haematobium, S. japonicum).",
+        "Incorrect. Ivermectin treats strongyloidiasis and onchocerciasis, not schistosomiasis.",
+        "Incorrect. Albendazole is used for many helminths but is not first-line for schistosomiasis.",
+        "Incorrect. Metronidazole treats anaerobes and protozoa such as Giardia and Trichomonas, not Schistosoma.",
+        "Incorrect. Mebendazole is used for nematodes, not flukes."
+      ]
+    },
+    {
+      "id": 16,
+      "stem": "A 31-year-old man receives praziquantel for confirmed schistosomiasis. The prescriber explains the drug acts by altering parasite ion permeability. What is the mechanism of action of praziquantel?",
+      "choices": [
+        "Inhibits parasite DNA synthesis",
+        "Disrupts microtubule polymerization",
+        "Blocks parasite glucose uptake",
+        "Increases Ca2+ membrane permeability",
+        "Inhibits acetylcholinesterase activity"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Praziquantel does not act on DNA synthesis.",
+        "Incorrect. Microtubule disruption is the mechanism of benzimidazoles like albendazole.",
+        "Incorrect. Glucose uptake blockade is the mechanism of older agents, not praziquantel.",
+        "Correct. Praziquantel increases parasite cell membrane permeability to calcium, causing sustained muscle contraction (spastic paralysis) and tegumental disruption that exposes parasite antigens to the host immune system.",
+        "Incorrect. Acetylcholinesterase inhibition is not the mechanism of praziquantel."
+      ]
+    },
+    {
+      "id": 17,
+      "stem": "A 26-year-old patient with confirmed Katayama fever is started on praziquantel. Which adjunctive therapy is most appropriate to reduce the inflammatory immune complex response?",
+      "choices": [
+        "Antihistamines",
+        "Antifungal therapy",
+        "Broad-spectrum antibiotics",
+        "Corticosteroids",
+        "Plasmapheresis"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Antihistamines may help itching but do not address the underlying immune complex inflammation.",
+        "Incorrect. Antifungals are not indicated for schistosomiasis.",
+        "Incorrect. Schistosomiasis is parasitic, not bacterial; antibiotics are not indicated.",
+        "Correct. Adjunctive corticosteroids may be used in Katayama fever to reduce the host inflammatory response driven by immune complex formation.",
+        "Incorrect. Plasmapheresis is not standard therapy for Katayama fever."
+      ]
+    },
+    {
+      "id": 18,
+      "stem": "A 48-year-old woman with suspected schistosomiasis has negative initial stool and urine microscopy despite a high clinical suspicion. Which additional diagnostic feature does the brick highlight as commonly present in blood samples?",
+      "choices": [
+        "Neutrophilia",
+        "Lymphopenia",
+        "Thrombocytopenia",
+        "Eosinophilia",
+        "Monocytosis"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Neutrophilia suggests bacterial infection, not parasitic.",
+        "Incorrect. Lymphopenia is not a typical finding in schistosomiasis.",
+        "Incorrect. Thrombocytopenia is not a defining lab finding in schistosomiasis.",
+        "Correct. Eosinophilia is commonly present in blood samples in schistosomiasis, as with many parasitic infections.",
+        "Incorrect. Monocytosis is not the highlighted blood finding."
+      ]
+    },
+    {
+      "id": 19,
+      "stem": "A 22-year-old traveler is suspected of having schistosomiasis after a recent freshwater exposure. The clinician orders serologic testing. According to the brick, how long after exposure does it typically take for antibodies against Schistosoma to become detectable?",
+      "choices": [
+        "1-2 days",
+        "1-2 weeks",
+        "6-12 months",
+        "6-12 weeks",
+        "1-2 years"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Antibody responses do not develop within days.",
+        "Incorrect. 1-2 weeks is too early for antibody detection.",
+        "Incorrect. Antibodies are usually detectable well before 6 months.",
+        "Correct. It typically takes 6-12 weeks after exposure to detect antibodies against Schistosoma.",
+        "Incorrect. Antibodies are detectable far sooner than 1-2 years."
+      ]
+    },
+    {
+      "id": 20,
+      "stem": "A 34-year-old man returns from sub-Saharan Africa with hematuria. Which diagnostic specimen should be examined to identify S. haematobium infection?",
+      "choices": [
+        "Stool",
+        "Cerebrospinal fluid",
+        "Sputum",
+        "Urine",
+        "Bone marrow aspirate"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Stool examination is used for S. mansoni and S. japonicum.",
+        "Incorrect. CSF involvement is rare; routine diagnosis does not use CSF.",
+        "Incorrect. Sputum is not the diagnostic specimen for schistosomiasis.",
+        "Correct. Urine microscopy is the appropriate specimen for S. haematobium, whose eggs are shed in urine.",
+        "Incorrect. Bone marrow is not used for diagnosis."
+      ]
+    },
+    {
+      "id": 21,
+      "stem": "A 40-year-old man with chronic intestinal schistosomiasis from S. mansoni undergoes colonoscopy that shows polypoid mass-like lesions. What is the underlying tissue process responsible for these lesions?",
+      "choices": [
+        "Adenocarcinoma in situ",
+        "Lymphocytic infiltration without granulomas",
+        "Adult worm burrowing into mucosa",
+        "Ischemic colitis",
+        "Egg-induced granuloma formation"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. Schistosomiasis can mimic malignancy but the lesions are inflammatory granulomas, not adenocarcinoma.",
+        "Incorrect. The lesions are granulomatous, not simple lymphocytic infiltrates.",
+        "Incorrect. Adult worms reside in venules, not the bowel mucosa.",
+        "Incorrect. Ischemic colitis is unrelated to schistosomiasis.",
+        "Correct. Ongoing egg deposition in the bowel wall triggers granuloma formation that can produce polyps, strictures, or mass-like lesions mimicking malignancy or appendicitis."
+      ]
+    },
+    {
+      "id": 22,
+      "stem": "A public health team is designing a strategy to reduce schistosomiasis transmission in an endemic village. Which combination of interventions does the brick emphasize as most effective?",
+      "choices": [
+        "Mosquito nets and DEET repellent",
+        "Closing all freshwater sources permanently",
+        "Vaccination of children only",
+        "Antibiotic prophylaxis for travelers",
+        "Sanitation, snail control, mass treatment"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. Mosquito control is irrelevant; Schistosoma is transmitted via freshwater snails.",
+        "Incorrect. Permanently closing freshwater sources is not feasible or recommended.",
+        "Incorrect. No effective vaccine for schistosomiasis is highlighted in the brick.",
+        "Incorrect. Antibiotics do not affect Schistosoma, a parasitic helminth.",
+        "Correct. The brick emphasizes a combination of infrastructure improvement, community education, snail management, and mass drug administration to reduce transmission."
+      ]
+    },
+    {
+      "id": 23,
+      "stem": "A 65-year-old man from Egypt presents with painless gross hematuria. Cystoscopy reveals a bladder mass; biopsy shows squamous cell carcinoma. Chronic infection with which organism is the most likely contributing factor?",
+      "choices": [
+        "Schistosoma mansoni",
+        "Schistosoma japonicum",
+        "Trypanosoma cruzi",
+        "Echinococcus granulosus",
+        "Schistosoma haematobium"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. S. mansoni causes intestinal/hepatic disease, not bladder cancer.",
+        "Incorrect. S. japonicum causes intestinal disease, not bladder cancer.",
+        "Incorrect. Trypanosoma cruzi causes Chagas disease, not bladder cancer.",
+        "Incorrect. Echinococcus causes hydatid cysts, not bladder cancer.",
+        "Correct. Chronic S. haematobium infection is strongly linked to squamous cell carcinoma of the bladder, especially in endemic regions like Egypt."
+      ]
+    },
+    {
+      "id": 24,
+      "stem": "A 20-year-old woman returns from East Africa with painless intermittent hematuria over several months. Urinalysis confirms RBCs and ova with a terminal spine. Which urinary symptom timing is most classic for S. haematobium infection?",
+      "choices": [
+        "Initial hematuria at the start of urination",
+        "Hematuria only after eating",
+        "Continuous painful hematuria",
+        "Hematuria only with exercise",
+        "Terminal hematuria at the end of urination"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. Initial hematuria suggests urethral pathology, not bladder involvement from S. haematobium.",
+        "Incorrect. Postprandial hematuria is not a feature of schistosomiasis.",
+        "Incorrect. The brick describes hematuria as terminal, often painless, not continuous and painful.",
+        "Incorrect. Exercise-related hematuria is unrelated to schistosomiasis.",
+        "Correct. Chronic urogenital schistosomiasis classically presents with terminal hematuria due to egg deposition in the bladder wall."
+      ]
+    },
+    {
+      "id": 25,
+      "stem": "A 19-year-old patient is treated for acute schistosomiasis with praziquantel. He develops fever, malaise, and urticaria shortly after dosing. Which mechanism best explains these symptoms?",
+      "choices": [
+        "Direct hepatotoxicity of praziquantel",
+        "Bacterial superinfection",
+        "Cardiotoxic adverse effect",
+        "Allergic IgE reaction to the drug excipient",
+        "Immune response to dying parasites"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. Praziquantel can cause transient liver enzyme elevations but not the systemic syndrome described.",
+        "Incorrect. Bacterial superinfection is not the mechanism the brick attributes to these symptoms.",
+        "Incorrect. Cardiotoxicity is not a recognized adverse effect of praziquantel in the brick.",
+        "Incorrect. The brick attributes the inflammatory symptoms to dying parasites, not IgE reactions to excipients.",
+        "Correct. Systemic effects such as fever, malaise, and urticaria after praziquantel are often due to the host immune response to dying parasites rather than direct drug toxicity."
+      ]
+    }
+  ]
+}

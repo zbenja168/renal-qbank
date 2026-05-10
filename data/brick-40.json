@@ -1,0 +1,475 @@
+{
+  "id": 40,
+  "title": "Nephrotic Syndrome",
+  "questions": [
+    {
+      "id": 1,
+      "stem": "A 46-year-old woman presents with one month of worsening pedal edema. BP is 146/94, exam shows 2+ pitting edema, and urinalysis shows 4+ protein. What 24-hour urine protein threshold defines nephrotic-range proteinuria?",
+      "choices": [">150 mg/24 h", ">500 mg/24 h", ">1 g/24 h", ">2 g/24 h", ">3.5 g/24 h"],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. >150 mg/24 h is the upper limit of normal urine protein excretion, not the nephrotic threshold.",
+        "Incorrect. 500 mg/24 h is abnormal but well below the nephrotic threshold.",
+        "Incorrect. 1 g/24 h is abnormal proteinuria but does not meet the nephrotic definition.",
+        "Incorrect. 2 g/24 h is below the nephrotic threshold cited in the brick.",
+        "Correct. Nephrotic syndrome requires proteinuria >3.5 g/24 h (normal is <150 mg/24 h)."
+      ]
+    },
+    {
+      "id": 2,
+      "stem": "A 50-year-old woman with new edema is being evaluated for glomerular disease. Which tetrad of features defines full nephrotic syndrome?",
+      "choices": [
+        "Proteinuria, hematuria, HTN, AKI",
+        "Proteinuria, edema, hypoalbuminemia, hyperlipidemia",
+        "Hematuria, RBC casts, HTN, oliguria",
+        "Proteinuria, hyperalbuminemia, edema, hypolipidemia",
+        "Pyuria, bacteriuria, fever, flank pain"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Hematuria, HTN, and AKI describe nephritic syndrome, not nephrotic.",
+        "Correct. Nephrotic syndrome is defined by heavy proteinuria, edema, hypoalbuminemia, and hyperlipidemia.",
+        "Incorrect. RBC casts and hematuria are hallmarks of nephritic syndrome.",
+        "Incorrect. Nephrotic syndrome causes hypoalbuminemia and hyperlipidemia, not the opposite.",
+        "Incorrect. These features describe pyelonephritis, not nephrotic syndrome."
+      ]
+    },
+    {
+      "id": 3,
+      "stem": "A 62-year-old man with poorly controlled type 2 diabetes for 12 years presents with edema, 4+ urine protein, and a urine protein/creatinine ratio of 5. What is the most common cause of nephrotic syndrome in the United States?",
+      "choices": [
+        "Minimal change disease",
+        "Membranous nephropathy",
+        "Lupus nephritis (class V)",
+        "Diabetic kidney disease",
+        "Light chain amyloidosis"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Minimal change disease is the most common nephrotic disease in children, not the most common overall in the US.",
+        "Incorrect. Membranous nephropathy is a primary cause but not the most common overall.",
+        "Incorrect. Lupus nephritis is a secondary cause but not the leading cause in the US.",
+        "Correct. Diabetic kidney disease is the most common cause of nephrotic syndrome in the United States.",
+        "Incorrect. Light chain amyloidosis is an uncommon secondary cause."
+      ]
+    },
+    {
+      "id": 4,
+      "stem": "A 28-year-old woman with newly diagnosed nephrotic syndrome has a urinalysis with 4+ protein, no hematuria, and no RBC casts. The brick notes nephrotic syndrome is most often confused with which related glomerular syndrome characterized by hematuria?",
+      "choices": [
+        "Nephritic syndrome",
+        "Acute tubular necrosis",
+        "Acute interstitial nephritis",
+        "Pyelonephritis",
+        "Renal artery stenosis"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Nephritic syndrome is the closely-named glomerular syndrome characterized by hematuria, in contrast to nephrotic syndrome's heavy proteinuria.",
+        "Incorrect. ATN is a tubular injury, not a glomerular syndrome.",
+        "Incorrect. AIN is an interstitial process, usually drug-related.",
+        "Incorrect. Pyelonephritis is an upper UTI, not a glomerular syndrome.",
+        "Incorrect. Renal artery stenosis is a vascular disease."
+      ]
+    },
+    {
+      "id": 5,
+      "stem": "A 40-year-old man undergoes renal biopsy for nephrotic syndrome. Damage at which two structures of the glomerular filtration barrier accounts for most cases of nephrotic syndrome?",
+      "choices": [
+        "Mesangium and afferent arteriole",
+        "Endothelial fenestrae and Bowman capsule",
+        "GBM and podocytes",
+        "Tubular brush border and basement membrane",
+        "Juxtaglomerular cells and macula densa"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. The mesangium and arterioles are not the principal sites of injury in nephrotic syndrome.",
+        "Incorrect. Endothelial pores allow filtration but are not the main site of injury producing nephrotic syndrome.",
+        "Correct. Most nephrotic diseases result from abnormalities of the GBM and/or the podocytes, which together form the size and negative-charge barrier.",
+        "Incorrect. The tubular brush border is not part of the glomerular filtration barrier.",
+        "Incorrect. The JGA regulates renin secretion, not filtration permeability."
+      ]
+    },
+    {
+      "id": 6,
+      "stem": "A 35-year-old woman with biopsy-proven nephrotic syndrome shows effaced podocyte foot processes on electron microscopy. Which property of the glomerular filter is most directly disrupted, allowing albumin to enter the urine?",
+      "choices": [
+        "Hydrostatic pressure gradient",
+        "Negative charge barrier",
+        "Tubular reabsorption of albumin",
+        "Mesangial contractility",
+        "Macula densa sensing"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. The hydrostatic gradient is not the protein-selective barrier.",
+        "Correct. Loss of the negative charge barrier in the GBM and podocytes lets negatively charged proteins like albumin pass into the urine.",
+        "Incorrect. Tubular reabsorption is not the principal barrier preventing albumin from being filtered.",
+        "Incorrect. Mesangial contractility regulates filtration surface area, not the charge barrier.",
+        "Incorrect. The macula densa senses tubular NaCl and does not form the filtration barrier."
+      ]
+    },
+    {
+      "id": 7,
+      "stem": "A 9-year-old boy with nephrotic syndrome has a renal biopsy. Light microscopy is unremarkable, but electron microscopy shows diffuse podocyte foot process effacement as the only abnormality. Which diagnosis is most consistent with these findings?",
+      "choices": [
+        "Diabetic kidney disease",
+        "Minimal change disease",
+        "Membranoproliferative GN",
+        "Amyloidosis",
+        "FSGS"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Diabetic kidney disease shows mesangial proliferation and basement membrane thickening, not isolated effacement.",
+        "Correct. In minimal change disease, podocyte effacement is the only abnormality seen on microscopy.",
+        "Incorrect. MPGN shows GBM thickening and a tram-track appearance with immune deposits.",
+        "Incorrect. Amyloidosis shows amyloid deposits within the glomerulus, not isolated effacement.",
+        "Incorrect. FSGS shows segmental sclerosis in some glomeruli in addition to effacement."
+      ]
+    },
+    {
+      "id": 8,
+      "stem": "A 60-year-old woman with newly diagnosed multiple myeloma develops nephrotic-range proteinuria. Which mechanism best explains how myeloma causes glomerular injury?",
+      "choices": [
+        "Anti-PLA2 receptor antibodies",
+        "Nonenzymatic glycation of GBM proteins",
+        "Light chain deposition in the GBM",
+        "ENaC overactivity in the collecting duct",
+        "Renal artery thrombosis"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Anti-PLA2 receptor antibodies are seen in membranous nephropathy, not myeloma.",
+        "Incorrect. Nonenzymatic glycation is the mechanism in diabetic kidney disease.",
+        "Correct. Neoplastic B cells secrete large amounts of light chains that filter through and damage the GBM, producing secondary nephrotic syndrome.",
+        "Incorrect. ENaC overactivity causes Liddle syndrome, not myeloma kidney disease.",
+        "Incorrect. Myeloma does not characteristically cause renal artery thrombosis."
+      ]
+    },
+    {
+      "id": 9,
+      "stem": "A 55-year-old man with longstanding poorly controlled type 2 diabetes has biopsy-confirmed diabetic kidney disease. Which mechanism best explains the glomerular damage?",
+      "choices": [
+        "Immune complex deposition",
+        "Anti-GBM antibodies",
+        "Nonenzymatic glycation of proteins",
+        "Light chain deposition",
+        "Drug-induced podocyte toxicity"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Diabetic kidney disease is noninflammatory; immune complexes are not the mechanism.",
+        "Incorrect. Anti-GBM disease is a different, antibody-mediated nephritic disease.",
+        "Correct. High glucose nonenzymatic glycation of glomerular proteins plus elevated capillary hydrostatic pressure produce mesangial expansion, GBM thickening, and sclerosis.",
+        "Incorrect. Light chain deposition is the mechanism in myeloma and amyloidosis.",
+        "Incorrect. Drug toxicity is not the mechanism in diabetic kidney disease."
+      ]
+    },
+    {
+      "id": 10,
+      "stem": "A 70-year-old woman with biopsy-proven amyloidosis has heavy proteinuria. Which mechanism best explains her nephrotic syndrome?",
+      "choices": [
+        "Amyloid light chains depositing in glomeruli",
+        "Antibody-mediated podocyte destruction",
+        "ENaC overexpression",
+        "Glomerular ischemia from arteriolar occlusion",
+        "Tubular obstruction by Tamm-Horsfall protein"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Abnormal B cells produce huge amounts of amyloid light chains that filter into and accumulate in the glomerulus, damaging the GBM.",
+        "Incorrect. Amyloidosis is a noninflammatory deposition disease, not antibody-mediated podocyte injury.",
+        "Incorrect. ENaC overexpression causes Liddle syndrome, not amyloidosis.",
+        "Incorrect. Glomerular ischemia is not the mechanism of amyloid nephropathy.",
+        "Incorrect. Tamm-Horsfall protein casts cause tubular pathology, not nephrotic-range proteinuria."
+      ]
+    },
+    {
+      "id": 11,
+      "stem": "A 50-year-old man with nephrotic syndrome has serum albumin of 2.2 g/dL. Why does the liver fail to keep serum albumin normal in nephrotic syndrome?",
+      "choices": [
+        "Liver synthesis is suppressed by ADH",
+        "Hepatic albumin gene is silenced",
+        "Urinary loss exceeds hepatic synthesis",
+        "Albumin is consumed by inflammation",
+        "Albumin is sequestered in mesangium"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. ADH does not suppress hepatic albumin synthesis.",
+        "Incorrect. There is no gene silencing; the liver continues to make albumin.",
+        "Correct. Albumin lost in the urine drops the serum concentration, and the liver cannot synthesize fast enough to keep up.",
+        "Incorrect. Nephrotic syndrome is not characterized by inflammatory albumin consumption.",
+        "Incorrect. Albumin is not sequestered in the mesangium."
+      ]
+    },
+    {
+      "id": 12,
+      "stem": "A 45-year-old man with nephrotic syndrome has marked lower extremity edema. Which mechanism is described in the brick as the main contributor to nephrotic edema?",
+      "choices": [
+        "Primary renal tubular sodium retention",
+        "Increased capillary hydrostatic pressure",
+        "Lymphatic obstruction",
+        "Heart failure",
+        "Hypothyroidism"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. The brick identifies primary renal tubular sodium retention (overfilling) as the main mechanism of nephrotic edema.",
+        "Incorrect. Increased hydrostatic pressure is not the primary mechanism in nephrotic syndrome.",
+        "Incorrect. Lymphatic obstruction causes lymphedema, not nephrotic edema.",
+        "Incorrect. Heart failure causes congestive edema by a different mechanism.",
+        "Incorrect. Hypothyroid myxedema is unrelated to nephrotic edema."
+      ]
+    },
+    {
+      "id": 13,
+      "stem": "A 52-year-old woman with nephrotic syndrome has hypoalbuminemia and edema. Through which secondary mechanism does hypoalbuminemia further drive sodium retention in nephrotic syndrome?",
+      "choices": [
+        "Suppression of ADH",
+        "Direct ENaC blockade",
+        "Activation of the RAAS",
+        "Increased ANP secretion",
+        "Inhibition of aldosterone"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Hypoalbuminemia does not suppress ADH.",
+        "Incorrect. Hypoalbuminemia does not directly block ENaC.",
+        "Correct. Low oncotic pressure shifts fluid into the interstitium, lowering circulating volume and activating RAAS, which drives renal sodium reabsorption.",
+        "Incorrect. ANP would promote sodium loss, opposite of what is seen.",
+        "Incorrect. Aldosterone is stimulated, not inhibited, in this setting."
+      ]
+    },
+    {
+      "id": 14,
+      "stem": "A 48-year-old man with nephrotic syndrome has total cholesterol 320 mg/dL and elevated LDL. According to the brick, which mechanism contributes to nephrotic hyperlipidemia?",
+      "choices": [
+        "Bile acid malabsorption",
+        "Increased hepatic lipoprotein output",
+        "Increased peripheral LDL clearance",
+        "Decreased dietary cholesterol intake",
+        "Pancreatic exocrine insufficiency"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Bile acid malabsorption is not a brick-cited mechanism.",
+        "Correct. Increased hepatic lipoprotein production, along with urinary lipoprotein loss and decreased catabolism, drives nephrotic hyperlipidemia.",
+        "Incorrect. Lipoprotein catabolism is decreased, not increased.",
+        "Incorrect. Diet is not the mechanism cited in the brick.",
+        "Incorrect. Pancreatic insufficiency is unrelated to nephrotic hyperlipidemia."
+      ]
+    },
+    {
+      "id": 15,
+      "stem": "A 38-year-old woman with newly diagnosed nephrotic syndrome develops a left lower extremity DVT. Loss of which class of urinary proteins best explains her thrombotic risk?",
+      "choices": [
+        "Immunoglobulins",
+        "Anticoagulants",
+        "Acute phase reactants",
+        "Albumin",
+        "Apolipoproteins"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Loss of IgG predisposes to infection, not thrombosis.",
+        "Correct. Loss of anticoagulant proteins (e.g., antithrombin) in the urine increases the risk of DVT, renal vein thrombosis, and PE.",
+        "Incorrect. Acute phase reactants are not the relevant lost protein.",
+        "Incorrect. Albumin loss causes hypoalbuminemia and edema, not thrombosis directly.",
+        "Incorrect. Apolipoprotein loss contributes to dyslipidemia, not thrombosis."
+      ]
+    },
+    {
+      "id": 16,
+      "stem": "A 7-year-old boy with nephrotic syndrome develops Streptococcus pneumoniae peritonitis. Loss of which urinary protein best explains his susceptibility to infection?",
+      "choices": [
+        "Antithrombin",
+        "Albumin",
+        "IgG",
+        "Transferrin",
+        "Ceruloplasmin"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Antithrombin loss predisposes to thrombosis, not infection.",
+        "Incorrect. Albumin loss leads to edema, not increased infection risk.",
+        "Correct. Loss of IgG in the urine renders nephrotic patients more susceptible to infection.",
+        "Incorrect. Transferrin loss can contribute to anemia but is not the brick's stated reason for infection risk.",
+        "Incorrect. Ceruloplasmin loss is not cited as a cause of infection susceptibility."
+      ]
+    },
+    {
+      "id": 17,
+      "stem": "A 35-year-old man with new lower extremity edema has 4+ proteinuria on dipstick. The dipstick test detects which urinary protein?",
+      "choices": [
+        "Light chains",
+        "Albumin",
+        "Tamm-Horsfall protein",
+        "Hemoglobin",
+        "Myoglobin"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. The dipstick does not detect positively charged proteins like immunoglobulin light chains.",
+        "Correct. The urine dipstick detects only urinary albumin; nephrotic syndrome typically shows 4+.",
+        "Incorrect. Tamm-Horsfall protein is not detected by the dipstick.",
+        "Incorrect. Hemoglobin reacts with the blood pad, not the protein pad.",
+        "Incorrect. Myoglobin is detected on the blood pad, not the protein pad."
+      ]
+    },
+    {
+      "id": 18,
+      "stem": "A 60-year-old man with multiple myeloma has bony pain and fatigue. His urine dipstick is negative for protein, yet a 24-hour collection reveals 5 g of protein. Why might the dipstick miss his urinary protein?",
+      "choices": [
+        "Dipstick misses light chains",
+        "Dipstick misses albumin",
+        "Dipstick is too sensitive",
+        "Light chains are reabsorbed completely",
+        "Dipstick requires alkaline urine"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. The urine dipstick detects only albumin and misses positively charged urinary proteins like immunoglobulin light chains seen in myeloma.",
+        "Incorrect. The dipstick is the standard test for albumin.",
+        "Incorrect. The issue is selectivity, not sensitivity.",
+        "Incorrect. Light chains are not completely reabsorbed in myeloma.",
+        "Incorrect. The dipstick does not require alkaline urine to detect protein."
+      ]
+    },
+    {
+      "id": 19,
+      "stem": "A 42-year-old woman has 4+ urine protein on dipstick. According to the brick, which spot urine protein/creatinine ratio is consistent with nephrotic-range proteinuria?",
+      "choices": [
+        ">0.15",
+        ">0.5",
+        ">1.0",
+        ">2.0",
+        ">3.5"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. 0.15 is the upper limit of normal.",
+        "Incorrect. Above the normal range but below the nephrotic cutoff.",
+        "Incorrect. 1.0 indicates significant proteinuria but is below the nephrotic range.",
+        "Incorrect. 2.0 is heavy proteinuria but still below the nephrotic threshold.",
+        "Correct. A spot urine protein/creatinine ratio >3.5 (or >3.5 g on a 24-hour collection) indicates nephrotic-range proteinuria."
+      ]
+    },
+    {
+      "id": 20,
+      "stem": "A 50-year-old woman with nephrotic-range proteinuria has a urinalysis that also shows dysmorphic RBCs and RBC casts. What does this combination of findings suggest?",
+      "choices": [
+        "Pure nephrotic syndrome",
+        "Overlapping nephritic disease",
+        "Urinary tract infection",
+        "Renal calculi",
+        "Bladder cancer"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Dysmorphic RBCs and RBC casts are not features of pure nephrotic syndrome.",
+        "Correct. Hematuria, dysmorphic RBCs, and RBC casts indicate an overlapping nephritic component (e.g., lupus nephritis, MPGN).",
+        "Incorrect. UTI typically has pyuria and bacteriuria, not RBC casts.",
+        "Incorrect. Renal calculi cause hematuria but not RBC casts or nephrotic-range proteinuria.",
+        "Incorrect. Bladder cancer causes painless hematuria but not the RBC casts or proteinuria pattern described."
+      ]
+    },
+    {
+      "id": 21,
+      "stem": "A 40-year-old man with biopsy-proven membranous nephropathy is undergoing serologic workup. Which antibody is most strongly associated with primary membranous nephropathy?",
+      "choices": [
+        "Anti-GBM",
+        "ANCA",
+        "Anti-PLA2 receptor",
+        "Anti-dsDNA",
+        "Anti-streptolysin O"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Anti-GBM is associated with Goodpasture syndrome.",
+        "Incorrect. ANCA is associated with vasculitides such as GPA.",
+        "Correct. Anti-PLA2 receptor antibodies are positive in primary membranous nephropathy.",
+        "Incorrect. Anti-dsDNA is associated with lupus nephritis.",
+        "Incorrect. ASO titers are associated with post-streptococcal glomerulonephritis."
+      ]
+    },
+    {
+      "id": 22,
+      "stem": "A 5-year-old previously healthy boy presents with sudden-onset facial and lower extremity edema, 4+ urine protein, and serum albumin 1.8 g/dL. Per the brick, what is the next step?",
+      "choices": [
+        "Empiric prednisone, no biopsy",
+        "Renal biopsy first",
+        "Cyclophosphamide",
+        "Plasmapheresis",
+        "Observation only"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. In young children, minimal change disease is the most likely cause, and empiric prednisone is given without biopsy; treatment response confirms the diagnosis.",
+        "Incorrect. Biopsy is generally not done in children with new nephrotic syndrome because of the high pre-test probability of minimal change disease.",
+        "Incorrect. Cyclophosphamide is not first-line in pediatric nephrotic syndrome.",
+        "Incorrect. Plasmapheresis is not the standard initial therapy in this setting.",
+        "Incorrect. Observation alone is not appropriate for a child with overt nephrotic syndrome."
+      ]
+    },
+    {
+      "id": 23,
+      "stem": "A 65-year-old woman with 12 years of poorly controlled diabetes, retinopathy, and proteinuria of 6 g/24 h is being managed for presumed diabetic nephropathy. Per the brick, when is renal biopsy generally NOT required?",
+      "choices": [
+        "Lupus nephritis",
+        "Membranous nephropathy",
+        "Diabetic nephropathy",
+        "FSGS",
+        "MPGN"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Lupus nephritis usually requires biopsy to define class.",
+        "Incorrect. Membranous nephropathy is typically diagnosed by biopsy.",
+        "Correct. Diabetic kidney disease has a predictable pattern and clear underlying cause, and biopsy is usually unnecessary.",
+        "Incorrect. FSGS requires biopsy for diagnosis.",
+        "Incorrect. MPGN requires biopsy to confirm."
+      ]
+    },
+    {
+      "id": 24,
+      "stem": "A 55-year-old man with newly diagnosed nephrotic syndrome has BP 138/86. Which medication class should all adult patients with nephrotic syndrome receive, regardless of blood pressure?",
+      "choices": [
+        "Beta-blocker",
+        "Calcium channel blocker",
+        "Loop diuretic",
+        "ACE inhibitor or ARB",
+        "Thiazide diuretic"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Beta-blockers are not recommended for all nephrotic patients.",
+        "Incorrect. CCBs lower blood pressure but do not provide the antiproteinuric and renoprotective effects.",
+        "Incorrect. Loop diuretics treat edema but are not given to all nephrotic patients regardless of BP.",
+        "Correct. All adults with nephrotic syndrome (or any abnormal proteinuria) should receive an ACE inhibitor or ARB to lower BP, lower proteinuria, and slow progression, regardless of starting BP.",
+        "Incorrect. Thiazides are used for hypertension and edema but are not the universally recommended renoprotective class."
+      ]
+    },
+    {
+      "id": 25,
+      "stem": "A 58-year-old man with chronic nephrotic syndrome has LDL of 180 mg/dL and total cholesterol of 290 mg/dL. Per the brick, which medication is recommended to reduce his cardiovascular risk?",
+      "choices": [
+        "Niacin",
+        "Fibrate",
+        "Statin",
+        "Bile acid sequestrant",
+        "Omega-3 fatty acids"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Niacin is not the brick's recommended therapy for nephrotic hyperlipidemia.",
+        "Incorrect. Fibrates target triglycerides and are not the brick's recommendation.",
+        "Correct. Statins should be used to control hyperlipidemia in chronic nephrotic syndrome because of the increased risk of atherosclerotic disease and cardiovascular mortality.",
+        "Incorrect. Bile acid sequestrants are not the recommended therapy in this setting.",
+        "Incorrect. Omega-3 fatty acids are not the brick's recommendation."
+      ]
+    }
+  ]
+}

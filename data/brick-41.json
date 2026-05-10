@@ -1,0 +1,469 @@
+{
+  "id": 41,
+  "title": "Minimal Change Disease",
+  "questions": [
+    {
+      "id": 1,
+      "stem": "A 4-year-old girl is brought to the pediatrician for periorbital swelling and 1+ pitting edema in her lower extremities. Urine dipstick shows 4+ protein. Among glomerular diseases, what is the most common cause of nephrotic syndrome in children younger than 10 years?",
+      "choices": [
+        "Membranous nephropathy",
+        "Minimal change disease",
+        "Focal segmental glomerulosclerosis",
+        "Membranoproliferative GN",
+        "IgA nephropathy"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Membranous nephropathy is a more common cause in adults, not young children.",
+        "Correct. MCD causes approximately 90% of nephrotic syndrome cases in children younger than 10, with a peak incidence between 2 and 6 years of age.",
+        "Incorrect. FSGS is a more severe glomerular disease and is not the leading pediatric cause.",
+        "Incorrect. MPGN is associated with low complement and is not the leading pediatric nephrotic syndrome.",
+        "Incorrect. IgA nephropathy classically presents with nephritic features, not nephrotic syndrome."
+      ]
+    },
+    {
+      "id": 2,
+      "stem": "A 35-year-old man with new-onset nephrotic syndrome is being evaluated. According to the brick, approximately what percentage of nondiabetic adult nephrotic syndrome cases is due to minimal change disease?",
+      "choices": ["1%", "8%", "25%", "50%", "90%"],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. The brick cites a higher figure than 1%.",
+        "Correct. MCD accounts for approximately 8% of nondiabetic nephrotic syndrome in adults.",
+        "Incorrect. This overstates MCD's contribution in adults.",
+        "Incorrect. This greatly overstates MCD's adult contribution.",
+        "Incorrect. 90% is the pediatric figure (children under 10), not the adult figure."
+      ]
+    },
+    {
+      "id": 3,
+      "stem": "A 5-year-old boy with newly diagnosed nephrotic syndrome undergoes a kidney biopsy. The pathologist examines the specimen with light microscopy and reports no abnormalities. Why is the disease called \"minimal change\" disease?",
+      "choices": [
+        "No proteinuria seen",
+        "Damage seen only on EM",
+        "Glomeruli appear sclerotic",
+        "Mild interstitial fibrosis",
+        "Damage limited to tubules"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. MCD always has heavy proteinuria; the \"minimal change\" refers to histology, not the clinical picture.",
+        "Correct. MCD is so named because glomerular damage cannot be seen on light microscopy and is visible only via electron microscopy, which shows podocyte foot process effacement.",
+        "Incorrect. Glomerular sclerosis is the hallmark of FSGS, not MCD.",
+        "Incorrect. Interstitial fibrosis is not the defining histologic feature of MCD.",
+        "Incorrect. MCD damages glomerular podocytes, not tubular cells."
+      ]
+    },
+    {
+      "id": 4,
+      "stem": "A 6-year-old child presents with severe edema, hyperlipidemia, and heavy proteinuria. Which clinical syndrome is characteristic of minimal change disease?",
+      "choices": [
+        "Nephritic syndrome",
+        "Nephrotic syndrome",
+        "Acute tubular necrosis",
+        "Acute interstitial nephritis",
+        "Renal tubular acidosis"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Nephritic syndrome features hematuria and hypertension; MCD presents with nephrotic features.",
+        "Correct. MCD presents with nephrotic syndrome, marked by severe edema, hyperlipidemia, and increased risk of infections.",
+        "Incorrect. ATN is an intrinsic AKI from ischemia or toxins, not a glomerular disease.",
+        "Incorrect. AIN typically follows drug exposure and presents with sterile pyuria, not nephrotic-range proteinuria.",
+        "Incorrect. RTA is a tubular disorder of acid-base balance, not a glomerular disease."
+      ]
+    },
+    {
+      "id": 5,
+      "stem": "A 4-year-old girl with MCD presents with diffuse swelling. According to the brick, where does edema characteristically appear first in pediatric MCD?",
+      "choices": [
+        "Around the eyes",
+        "Sacral region",
+        "Hands and wrists",
+        "Pulmonary alveoli",
+        "Pericardial sac"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. In children, MCD edema often manifests first as periorbital swelling (around the eyes).",
+        "Incorrect. Sacral edema is typical of bedridden adults; pediatric MCD usually presents periorbitally.",
+        "Incorrect. The brick highlights periorbital and gravity-dependent edema, not predominantly hand swelling.",
+        "Incorrect. Pulmonary edema is not the characteristic initial finding in pediatric MCD.",
+        "Incorrect. Pericardial effusion is not the typical presenting feature of pediatric MCD."
+      ]
+    },
+    {
+      "id": 6,
+      "stem": "A 32-year-old man with newly diagnosed MCD has 24-hour urine protein of 6 g. Which serum lab parameter is typically normal or only modestly elevated at presentation?",
+      "choices": [
+        "Serum albumin",
+        "Serum creatinine",
+        "Serum lipids",
+        "Urine protein",
+        "Serum complement"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Serum albumin is usually low (hypoalbuminemia) due to urinary protein losses.",
+        "Correct. Kidney function as indicated by serum creatinine or eGFR is usually normal or only modestly elevated in MCD at presentation.",
+        "Incorrect. Hyperlipidemia is a feature of nephrotic syndrome and is typically elevated.",
+        "Incorrect. Urine protein is markedly elevated in MCD, not normal.",
+        "Incorrect. Serum complement is normal in MCD, but the question asks about a serum parameter that may be normal or modestly elevated; creatinine is the brick's specific mention."
+      ]
+    },
+    {
+      "id": 7,
+      "stem": "A 60-year-old woman is found to have new nephrotic syndrome and is diagnosed with MCD on biopsy. Workup is undertaken to identify a secondary cause. Which malignancy is most classically associated with secondary MCD?",
+      "choices": [
+        "Renal cell carcinoma",
+        "Multiple myeloma",
+        "Hodgkin lymphoma",
+        "Colon adenocarcinoma",
+        "Melanoma"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Renal cell carcinoma is not the brick's classic MCD-associated malignancy.",
+        "Incorrect. Multiple myeloma is associated with light chain cast nephropathy, not MCD.",
+        "Correct. Lymphomas (and leukemias) are recognized secondary causes of MCD; the brick specifically highlights Hodgkin lymphoma.",
+        "Incorrect. Colon adenocarcinoma is not a classic MCD trigger in the brick.",
+        "Incorrect. Melanoma is not listed as a secondary cause of MCD in the brick."
+      ]
+    },
+    {
+      "id": 8,
+      "stem": "A 55-year-old man has chronic low back pain managed with daily ibuprofen and develops new-onset nephrotic syndrome. Biopsy reveals MCD. Which class of drug is the most likely trigger?",
+      "choices": [
+        "Beta-blockers",
+        "ACE inhibitors",
+        "NSAIDs",
+        "Statins",
+        "Calcium channel blockers"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Beta-blockers are not listed as MCD triggers in the brick.",
+        "Incorrect. ACE inhibitors are used to treat MCD-related proteinuria, not cause MCD.",
+        "Correct. NSAIDs are a recognized drug cause of secondary MCD, along with antibiotics and lithium.",
+        "Incorrect. Statins are not implicated as MCD triggers in the brick.",
+        "Incorrect. Calcium channel blockers are not listed among MCD triggers."
+      ]
+    },
+    {
+      "id": 9,
+      "stem": "A 28-year-old man with bipolar disorder on long-term mood-stabilizer therapy develops nephrotic-range proteinuria. Which medication is implicated as a cause of secondary MCD?",
+      "choices": ["Valproate", "Lithium", "Lamotrigine", "Quetiapine", "Sertraline"],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Valproate is not listed as a secondary MCD cause in the brick.",
+        "Correct. Lithium is one of the drugs (along with NSAIDs and antibiotics) the brick specifically lists as a secondary cause of MCD.",
+        "Incorrect. Lamotrigine is not implicated.",
+        "Incorrect. Quetiapine is not listed as a secondary MCD trigger.",
+        "Incorrect. Sertraline is not associated with secondary MCD in the brick."
+      ]
+    },
+    {
+      "id": 10,
+      "stem": "A 7-year-old boy develops nephrotic syndrome the week after a bee sting. Aside from drugs and malignancy, which broad category does the brick list as a secondary cause of MCD?",
+      "choices": [
+        "Allergic reactions",
+        "Trauma",
+        "Heavy metal exposure",
+        "Vaccinations",
+        "Vigorous exercise"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Allergic reactions (e.g., ragweed, fungi, bee stings) are listed as secondary causes of MCD.",
+        "Incorrect. Trauma is not a brick-listed cause of MCD.",
+        "Incorrect. Heavy metal exposure is not listed as an MCD trigger.",
+        "Incorrect. Vaccinations are not specified as MCD triggers in the brick.",
+        "Incorrect. Exercise is not a brick-listed cause of MCD."
+      ]
+    },
+    {
+      "id": 11,
+      "stem": "A renal pathologist examines a biopsy from a 9-year-old with nephrotic syndrome on electron microscopy. The image shows the podocytes appearing smeared against the basement membrane with loss of distinct foot processes. What is this finding called?",
+      "choices": [
+        "Wire-loop lesions",
+        "Spike and dome appearance",
+        "Foot process effacement",
+        "Mesangial proliferation",
+        "Subendothelial deposits"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Wire-loop lesions are characteristic of lupus nephritis.",
+        "Incorrect. Spike-and-dome on silver stain suggests membranous nephropathy.",
+        "Correct. Foot process effacement is the EM hallmark of MCD: podocyte foot processes are obliterated and the cells smear against the GBM.",
+        "Incorrect. Mesangial proliferation is seen in IgA nephropathy and other proliferative disorders.",
+        "Incorrect. Subendothelial deposits are characteristic of MPGN and lupus nephritis."
+      ]
+    },
+    {
+      "id": 12,
+      "stem": "A medical student asks why so much albumin is lost in MCD despite the basement membrane appearing intact. According to the brick, the loss of which podocyte property allows small negatively charged proteins to pass into the urine?",
+      "choices": [
+        "Positive charge",
+        "Negative charge",
+        "Hydrophobicity",
+        "Cilia function",
+        "Mitochondrial density"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Podocytes carry a negative, not positive, charge.",
+        "Correct. Podocytes normally repel negatively charged molecules like albumin; in MCD they lose part of their negative charge, allowing albumin to leak into the tubular fluid.",
+        "Incorrect. Hydrophobicity of podocytes is not the brick's mechanism.",
+        "Incorrect. Podocytes do not function via cilia in the brick's filtration model.",
+        "Incorrect. Mitochondrial density is not implicated in MCD pathogenesis."
+      ]
+    },
+    {
+      "id": 13,
+      "stem": "A 30-year-old woman with primary MCD is undergoing pathophysiology workup. Aside from podocyte effacement, which immune mechanism does the brick implicate in the pathogenesis of primary MCD?",
+      "choices": [
+        "B/T-cell dysfunction",
+        "Neutrophil overactivation",
+        "Complement-driven cell lysis",
+        "Eosinophilic infiltration",
+        "Mast cell degranulation"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. MCD is associated with both B-cell and T-cell dysfunction and possibly circulating factors that increase GBM permeability.",
+        "Incorrect. Neutrophilic mechanisms are not the brick's MCD pathogenesis.",
+        "Incorrect. Complement is normal in MCD, and complement-driven lysis is not the implicated mechanism.",
+        "Incorrect. Eosinophils are not central to the brick's MCD pathogenesis.",
+        "Incorrect. Mast cells are not implicated in MCD by the brick."
+      ]
+    },
+    {
+      "id": 14,
+      "stem": "A 5-year-old child has nephrotic syndrome with 24-hour urine protein of 5 g and serum albumin of 2.0 g/dL. According to the brick, which threshold defines nephrotic-range proteinuria?",
+      "choices": [
+        ">0.5 g/24 hr",
+        ">1 g/24 hr",
+        ">2 g/24 hr",
+        ">3.5 g/24 hr",
+        ">10 g/24 hr"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. This is below the brick's nephrotic-range cutoff.",
+        "Incorrect. This is below the brick's nephrotic-range cutoff.",
+        "Incorrect. This is below the brick's nephrotic-range cutoff.",
+        "Correct. Nephrotic-range proteinuria is defined as >3.5 g/24 hours, or a spot urine protein:creatinine ratio >3.5.",
+        "Incorrect. The brick cites 3.5 g/24 hours, not 10 g/24 hours, as the nephrotic threshold."
+      ]
+    },
+    {
+      "id": 15,
+      "stem": "A 40-year-old woman with new nephrotic syndrome has a positive serum anti-phospholipase A2 receptor antibody test. According to the brick, this finding suggests which diagnosis?",
+      "choices": [
+        "Minimal change disease",
+        "Membranous nephropathy",
+        "Lupus nephritis",
+        "Diabetic nephropathy",
+        "FSGS"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. A positive anti-PLA2R indicates membranous nephropathy, not MCD.",
+        "Correct. A positive anti-phospholipase A2 receptor antibody indicates membranous nephropathy, not MCD.",
+        "Incorrect. Lupus nephritis is suggested by ANA, anti-dsDNA, and low complement.",
+        "Incorrect. Diabetic nephropathy is suggested by a known history of diabetes or elevated A1c.",
+        "Incorrect. FSGS is diagnosed by biopsy showing segmental sclerosis, not by anti-PLA2R."
+      ]
+    },
+    {
+      "id": 16,
+      "stem": "A 25-year-old man with new nephrotic syndrome has serum complement (C3, C4) measured. According to the brick, what should the complement levels be in MCD?",
+      "choices": [
+        "Markedly elevated",
+        "Normal",
+        "Low C3 only",
+        "Low C4 only",
+        "Both C3 and C4 low"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Complement is not elevated in MCD.",
+        "Correct. Serum complement should be normal in MCD; it is low in MPGN and lupus nephritis.",
+        "Incorrect. Low C3 is associated with MPGN or post-infectious GN, not MCD.",
+        "Incorrect. Low C4 alone is more typical of cryoglobulinemic disease.",
+        "Incorrect. Both C3 and C4 low is classic for lupus nephritis, not MCD."
+      ]
+    },
+    {
+      "id": 17,
+      "stem": "A 45-year-old woman with newly suspected nephrotic syndrome is undergoing serologic workup. The brick notes that one common condition must be ruled out as the most common cause of proteinuria. Which is it?",
+      "choices": [
+        "Diabetic kidney disease",
+        "Hepatitis C infection",
+        "HIV-associated nephropathy",
+        "Multiple myeloma",
+        "Lupus nephritis"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Diabetic kidney disease is the most common cause of proteinuria; the brick recommends checking fasting glucose or HbA1c if diabetes is not already known.",
+        "Incorrect. Hepatitis C is checked but is not the most common cause of proteinuria.",
+        "Incorrect. HIV testing is part of workup, but HIV is not the leading cause of proteinuria.",
+        "Incorrect. Multiple myeloma is a less common cause of proteinuria than diabetes.",
+        "Incorrect. Lupus is checked with ANA/anti-dsDNA but is not the most common cause."
+      ]
+    },
+    {
+      "id": 18,
+      "stem": "A 6-year-old boy presents with periorbital edema and 4+ proteinuria. He has no hypertension, no rash, normal complement, and is otherwise well. According to the brick, what is the next best step?",
+      "choices": [
+        "Renal biopsy",
+        "Empiric corticosteroids",
+        "Plasmapheresis",
+        "Cyclophosphamide",
+        "ACE inhibitor monotherapy"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Correct response is empiric steroids: in children ages 1-10, biopsy can be deferred because >90% of nephrotic syndrome is MCD and steroids are tried first.",
+        "Correct. In children ages 1 to 10 with typical features, MCD is so likely that biopsy is deferred and empiric corticosteroid therapy is begun; biopsy is reserved for nonresponders.",
+        "Incorrect. Plasmapheresis is not the brick's first-line treatment for pediatric MCD.",
+        "Incorrect. Cyclophosphamide is not first-line; corticosteroids are.",
+        "Incorrect. ACE inhibitors are supportive but are not first-line in steroid-naive pediatric MCD."
+      ]
+    },
+    {
+      "id": 19,
+      "stem": "A 38-year-old man with new-onset adult nephrotic syndrome (5 g/24 hr proteinuria, normal complement, negative serologies) is being evaluated. According to the brick, what is required to establish the diagnosis of MCD in adults?",
+      "choices": [
+        "24-hour urine alone",
+        "Renal ultrasound",
+        "Renal biopsy",
+        "Empiric steroid trial",
+        "Serum anti-PLA2R antibody"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. A 24-hour urine quantifies proteinuria but does not establish the diagnosis.",
+        "Incorrect. Imaging cannot diagnose MCD.",
+        "Correct. In adults, renal biopsy is required for diagnosis of MCD.",
+        "Incorrect. Empiric steroids are appropriate in young children but not for adult diagnosis.",
+        "Incorrect. Anti-PLA2R indicates membranous nephropathy, not MCD."
+      ]
+    },
+    {
+      "id": 20,
+      "stem": "A 6-year-old girl is diagnosed clinically with MCD and started on prednisone. Which medication is the first-line treatment for minimal change disease?",
+      "choices": [
+        "Cyclophosphamide",
+        "Furosemide",
+        "Ibuprofen",
+        "Metoprolol",
+        "Prednisone"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. Cyclophosphamide is not first-line therapy for MCD.",
+        "Incorrect. Furosemide provides supportive diuresis but does not treat the underlying disease.",
+        "Incorrect. Ibuprofen is itself a recognized cause of secondary MCD.",
+        "Incorrect. Metoprolol does not treat MCD.",
+        "Correct. MCD is treated with corticosteroids such as prednisone, often in high doses; most patients respond well."
+      ]
+    },
+    {
+      "id": 21,
+      "stem": "A 42-year-old woman with MCD develops severe steroid side effects (uncontrolled hyperglycemia, weight gain, mood changes) on high-dose prednisone. According to the brick, which agent can be added to allow a reduced steroid dose?",
+      "choices": [
+        "Rituximab",
+        "Cyclosporine",
+        "Methotrexate",
+        "Azathioprine",
+        "Mycophenolate"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Rituximab is used in some refractory glomerular diseases but is not the brick's recommendation here.",
+        "Correct. The brick specifies that cyclosporine can be added for patients with steroid adverse effects, allowing a reduced steroid dose.",
+        "Incorrect. Methotrexate is not the brick's listed steroid-sparing agent for MCD.",
+        "Incorrect. Azathioprine is not the brick's listed steroid-sparing agent for MCD.",
+        "Incorrect. Mycophenolate is not the brick's listed steroid-sparing agent for MCD."
+      ]
+    },
+    {
+      "id": 22,
+      "stem": "A 50-year-old man with MCD does not respond to corticosteroid therapy. The brick recommends supportive care including a medication that lowers proteinuria and slows progression of renal disease. Which class is this?",
+      "choices": [
+        "ACE inhibitors",
+        "Beta-blockers",
+        "Loop diuretics",
+        "Calcium channel blockers",
+        "Aldosterone antagonists"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. ACE inhibitors lower proteinuria and slow progression of renal disease in nonresponders to immunosuppression.",
+        "Incorrect. Beta-blockers are not the brick's recommended supportive therapy for nephrotic-range proteinuria.",
+        "Incorrect. Loop diuretics treat edema but do not reduce proteinuria or slow progression.",
+        "Incorrect. Calcium channel blockers control blood pressure but are not the brick's specific antiproteinuric agent.",
+        "Incorrect. Aldosterone antagonists are not the brick's recommended antiproteinuric drug for MCD."
+      ]
+    },
+    {
+      "id": 23,
+      "stem": "The pediatrician counsels parents about the prognosis of childhood MCD. According to the brick, what proportion of children with nephrotic syndrome respond to corticosteroid therapy?",
+      "choices": [
+        "5% to 10%",
+        "20% to 30%",
+        "40% to 50%",
+        "65% to 75%",
+        "80% to 90%"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. This is the spontaneous remission rate cited for adults, not the pediatric steroid-response rate.",
+        "Incorrect. The pediatric steroid-response rate is much higher.",
+        "Incorrect. The pediatric steroid-response rate is higher than this.",
+        "Incorrect. The pediatric steroid-response rate is higher than this.",
+        "Correct. In children, 80% to 90% of nephrotic syndrome cases respond to corticosteroid therapy."
+      ]
+    },
+    {
+      "id": 24,
+      "stem": "A 28-year-old man with MCD initially responds to prednisone but relapses several months later and ultimately fails to respond to repeat therapy. According to the brick, into which more severe glomerular disease can MCD evolve?",
+      "choices": [
+        "Membranous nephropathy",
+        "Diabetic nephropathy",
+        "FSGS",
+        "IgA nephropathy",
+        "Membranoproliferative GN"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. MCD does not classically evolve into membranous nephropathy.",
+        "Incorrect. Diabetic nephropathy arises from diabetes, not from MCD progression.",
+        "Correct. Some patients with steroid-unresponsive or relapsing MCD evolve into focal segmental glomerulosclerosis (FSGS) with renal scarring.",
+        "Incorrect. IgA nephropathy is not the disease MCD evolves into in the brick.",
+        "Incorrect. MPGN is not the disease MCD evolves into in the brick."
+      ]
+    },
+    {
+      "id": 25,
+      "stem": "A 30-year-old man with new nephrotic syndrome has a kidney biopsy. Light microscopy and immunofluorescence are normal, but electron microscopy shows diffuse podocyte foot process effacement. Which finding most distinguishes MCD from other nephrotic causes such as membranous nephropathy?",
+      "choices": [
+        "Podocyte effacement on EM",
+        "Heavy proteinuria",
+        "Hypoalbuminemia",
+        "Normal LM and IF microscopy",
+        "Severe edema"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Podocyte foot process effacement is common to many nephrotic diseases, not unique to MCD.",
+        "Incorrect. Heavy proteinuria is shared by all nephrotic diseases.",
+        "Incorrect. Hypoalbuminemia is shared by all nephrotic syndromes.",
+        "Correct. MCD is unique in that light microscopy and immunofluorescence are normal (no immune complexes); only EM shows abnormalities (foot process effacement).",
+        "Incorrect. Edema is shared by all causes of nephrotic syndrome."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,475 @@
+{
+  "id": 45,
+  "title": "Nephritic Syndrome",
+  "questions": [
+    {
+      "id": 1,
+      "stem": "A 16-year-old boy is brought in for tea-colored urine. Two weeks ago he had a sore throat. BP is 134/80 mm Hg and urinalysis shows red blood cells and red cell casts. Which finding is universal in nephritic syndrome?",
+      "choices": ["Hypoalbuminemia", "Hyperlipidemia", "Massive proteinuria", "Hematuria", "Oliguria"],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Hypoalbuminemia is a feature of nephrotic syndrome from heavy proteinuria.",
+        "Incorrect. Hyperlipidemia is part of the nephrotic, not nephritic, syndrome.",
+        "Incorrect. Proteinuria in nephritic syndrome is mild to moderate (<2 g/24 h), not massive.",
+        "Correct. Hematuria is present in all cases of nephritic syndrome and reflects glomerular inflammation.",
+        "Incorrect. Oliguria occurs only in severe (RPGN) cases, not all nephritic patients."
+      ]
+    },
+    {
+      "id": 2,
+      "stem": "A 28-year-old man has hematuria, edema, and BP 152/94 mm Hg. A 24-hour urine collection shows 1.2 g of protein. How does this proteinuria compare with that of nephrotic syndrome?",
+      "choices": [
+        "Heavier than nephrotic range",
+        "Identical, both are >3.5 g/24 h",
+        "Mild to moderate, <2 g/24 h",
+        "Always absent in nephritic disease",
+        "Always >10 g/24 h"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Nephritic proteinuria is lighter than the heavy nephrotic-range proteinuria.",
+        "Incorrect. >=3.5 g/24 h defines nephrotic syndrome, not nephritic.",
+        "Correct. Nephritic syndrome typically has mild to moderate proteinuria (<2 g/24 h), unlike the heavier proteinuria of nephrotic syndrome.",
+        "Incorrect. Variable proteinuria is part of the nephritic picture; it is not absent.",
+        "Incorrect. >10 g/24 h would be far in the nephrotic range."
+      ]
+    },
+    {
+      "id": 3,
+      "stem": "A 40-year-old woman has nephritic syndrome with rising serum creatinine. According to the brick, what is the unifying pathophysiologic mechanism across the various causative diseases?",
+      "choices": [
+        "Podocyte foot process effacement",
+        "Glomerular immune inflammation",
+        "Tubular obstruction by casts",
+        "Renal artery stenosis",
+        "Interstitial fibrosis"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Foot process effacement is a hallmark of minimal change disease, a nephrotic process.",
+        "Correct. An inflammatory glomerular immune response is common to all the disorders that produce nephritic syndrome.",
+        "Incorrect. Cast-driven tubular obstruction is not the unifying mechanism.",
+        "Incorrect. Renal artery stenosis is a vascular cause of hypertension, not nephritic syndrome.",
+        "Incorrect. Interstitial fibrosis is a chronic feature, not the inflammatory mechanism the brick highlights."
+      ]
+    },
+    {
+      "id": 4,
+      "stem": "A 32-year-old man with nephritic syndrome undergoes biopsy. The pathologist describes increased mesangial, endothelial, and parietal epithelial cells with infiltrating neutrophils. Which feature is being described?",
+      "choices": [
+        "Membrane thickening only",
+        "Podocyte effacement",
+        "Tubulointerstitial nephritis",
+        "Glomerular sclerosis",
+        "Glomerular hypercellularity"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. Membrane thickening alone (e.g., membranous nephropathy) is associated with nephrotic syndrome.",
+        "Incorrect. Podocyte effacement is a hallmark of nephrotic, not nephritic, syndrome.",
+        "Incorrect. Tubulointerstitial nephritis affects tubules and interstitium, not the glomerulus.",
+        "Incorrect. Sclerosis describes scarring, not active proliferation.",
+        "Correct. Proliferative glomerular disease is characterized by glomerular hypercellularity from mesangial, endothelial, parietal epithelial, and inflammatory cells."
+      ]
+    },
+    {
+      "id": 5,
+      "stem": "A 50-year-old woman presents with rapidly rising serum creatinine and oliguria. Renal biopsy shows proliferating parietal epithelial cells, macrophages, and fibroblasts filling Bowman space. Which finding is described?",
+      "choices": [
+        "Tram-track basement membrane",
+        "Mesangial expansion",
+        "Spike-and-dome deposits",
+        "Glomerular crescents",
+        "Diffuse tubular atrophy"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Tram-tracking is seen in MPGN but does not describe the Bowman space lesion.",
+        "Incorrect. Mesangial expansion is seen in many GNs but is not the crescent described.",
+        "Incorrect. Spike-and-dome deposits describe membranous nephropathy, a nephrotic disease.",
+        "Correct. Glomerular crescents form in Bowman space from proliferating parietal epithelial cells, macrophages, and fibroblasts and are characteristic of RPGN.",
+        "Incorrect. Tubular atrophy is a chronic finding unrelated to crescent formation."
+      ]
+    },
+    {
+      "id": 6,
+      "stem": "A 55-year-old woman develops oliguria and a serum creatinine that doubles over a few weeks. Biopsy shows crescents in most glomeruli. Which clinical syndrome does this define?",
+      "choices": [
+        "Acute interstitial nephritis",
+        "RPGN",
+        "Nephrotic syndrome",
+        "Chronic kidney disease",
+        "Renal artery stenosis"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Acute interstitial nephritis is a tubulointerstitial process, not crescentic glomerular disease.",
+        "Correct. Rapidly progressive glomerulonephritis is defined by rapidly falling GFR and crescents on biopsy, most often from anti-GBM disease or GPA.",
+        "Incorrect. Nephrotic syndrome is defined by heavy proteinuria, not crescents.",
+        "Incorrect. Chronic kidney disease evolves over months to years, not weeks.",
+        "Incorrect. Renal artery stenosis is a vascular disorder, not crescentic GN."
+      ]
+    },
+    {
+      "id": 7,
+      "stem": "A 22-year-old man has hemoptysis, dyspnea, and hematuria with red cell casts. Serum creatinine is rising rapidly. Which serologic test is most likely to confirm the diagnosis?",
+      "choices": [
+        "Anti-GBM antibodies",
+        "Anti-streptolysin O",
+        "Anti-dsDNA",
+        "p-ANCA",
+        "Hepatitis C antibody"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Anti-GBM antibodies confirm anti-GBM disease (Goodpasture syndrome), which causes pulmonary hemorrhage and crescentic GN.",
+        "Incorrect. ASO suggests poststreptococcal GN, which does not typically cause hemoptysis.",
+        "Incorrect. Anti-dsDNA suggests lupus nephritis.",
+        "Incorrect. p-ANCA is associated with eosinophilic granulomatosis with polyangiitis, not anti-GBM disease.",
+        "Incorrect. Hepatitis C antibody points toward MPGN with cryoglobulinemia, not Goodpasture."
+      ]
+    },
+    {
+      "id": 8,
+      "stem": "A 30-year-old man develops gross hematuria 1 day after the onset of a viral upper respiratory infection. He has no rash, arthritis, or extrarenal symptoms. Which glomerular disease is most likely?",
+      "choices": [
+        "Granulomatosis with polyangiitis",
+        "Anti-GBM disease",
+        "Lupus nephritis",
+        "IgA nephropathy",
+        "Postinfectious GN"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. GPA presents with sinusitis, rash, and dyspnea in addition to renal disease.",
+        "Incorrect. Anti-GBM disease causes pulmonary hemorrhage in addition to nephritis.",
+        "Incorrect. Lupus nephritis is preceded by SLE with rash, arthritis, and serologies.",
+        "Correct. IgA nephropathy classically presents with hematuria during or shortly after a viral upper respiratory infection, with no extrarenal signs.",
+        "Incorrect. Postinfectious GN typically follows strep pharyngitis or skin infection by 1-2 weeks, not concurrent with a URI."
+      ]
+    },
+    {
+      "id": 9,
+      "stem": "An 11-year-old girl has hematuria, mild edema, and BP 138/86 mm Hg 2 weeks after a sore throat treated with amoxicillin. C3 is low and ASO is positive. Which diagnosis is most likely?",
+      "choices": [
+        "IgA nephropathy",
+        "Membranous nephropathy",
+        "Anti-GBM disease",
+        "Poststreptococcal GN",
+        "Granulomatosis with polyangiitis"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. IgA nephropathy follows a URI within days, not 1-2 weeks, and ASO is not the marker.",
+        "Incorrect. Membranous nephropathy is a nephrotic, not nephritic, disease.",
+        "Incorrect. Anti-GBM disease causes pulmonary hemorrhage and confirmatory anti-GBM antibodies.",
+        "Correct. Hematuria 1-2 weeks after strep pharyngitis with low C3 and a positive ASO titer is classic for poststreptococcal (postinfectious) GN.",
+        "Incorrect. GPA presents with sinusitis, purpura, and a positive c-ANCA, not a recent strep infection."
+      ]
+    },
+    {
+      "id": 10,
+      "stem": "A 26-year-old woman has malar rash, arthritis, hematuria with red cell casts, and 3.6 g/24 h proteinuria. Both nephritic and nephrotic features are present. Which disease most often produces this overlap?",
+      "choices": [
+        "IgA nephropathy",
+        "Anti-GBM disease",
+        "Lupus nephritis",
+        "Postinfectious GN",
+        "Granulomatosis with polyangiitis"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. IgA nephropathy can be nephritic or nephrotic but rarely both at the same time and lacks the SLE features.",
+        "Incorrect. Anti-GBM disease produces severe nephritis with hemoptysis, not nephrotic-range proteinuria.",
+        "Correct. Lupus nephritis can present simultaneously with both nephritic and nephrotic features and is suggested by the rash, arthritis, and lab profile.",
+        "Incorrect. PSGN does not typically reach nephrotic-range proteinuria.",
+        "Incorrect. GPA features sinusitis and purpura, not the lupus profile."
+      ]
+    },
+    {
+      "id": 11,
+      "stem": "A 45-year-old man with chronic hepatitis C develops hematuria, hypertension, and reduced GFR. Cryoglobulins are positive and serum C3 is low. Which glomerular disease is most likely?",
+      "choices": [
+        "Minimal change disease",
+        "Anti-GBM disease",
+        "IgA nephropathy",
+        "Membranous nephropathy",
+        "MPGN"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. Minimal change disease is a pediatric nephrotic disease.",
+        "Incorrect. Anti-GBM disease is not associated with hepatitis C or cryoglobulinemia.",
+        "Incorrect. IgA nephropathy follows a URI and is not associated with cryoglobulins or low C3.",
+        "Incorrect. Membranous nephropathy is a nephrotic disease.",
+        "Correct. Hepatitis C with cryoglobulinemia and low complement is the classic setup for membranoproliferative GN."
+      ]
+    },
+    {
+      "id": 12,
+      "stem": "A 60-year-old man has sinusitis, purpuric rash, dyspnea, hematuria with red cell casts, and rising creatinine. Which serologic test is most likely positive?",
+      "choices": [
+        "Anti-streptolysin O",
+        "Anti-GBM antibody",
+        "Anti-dsDNA",
+        "c-ANCA",
+        "Cryoglobulins"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. ASO suggests poststreptococcal GN.",
+        "Incorrect. Anti-GBM disease produces hemoptysis, not sinusitis.",
+        "Incorrect. Anti-dsDNA suggests lupus nephritis, with arthritis and rash but not sinusitis.",
+        "Correct. Granulomatosis with polyangiitis presents with sinusitis, rash, and dyspnea and is associated with a positive c-ANCA.",
+        "Incorrect. Cryoglobulins are tied to hepatitis C-associated MPGN."
+      ]
+    },
+    {
+      "id": 13,
+      "stem": "A 38-year-old woman with a long history of asthma develops fever, abdominal pain, neuropathy, and purpura. Hematuria and red cell casts are noted, peripheral eosinophilia is present, and p-ANCA is positive. Which disease is most likely?",
+      "choices": [
+        "Lupus nephritis",
+        "IgA vasculitis",
+        "GPA",
+        "Anti-GBM disease",
+        "EGPA"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. Lupus nephritis lacks asthma history and eosinophilia.",
+        "Incorrect. IgA vasculitis presents with purpura, arthralgia, and abdominal pain but not asthma or eosinophilia.",
+        "Incorrect. GPA presents with sinusitis and a positive c-ANCA, not asthma or p-ANCA.",
+        "Incorrect. Anti-GBM disease causes pulmonary hemorrhage, not asthma-like illness.",
+        "Correct. Asthma history, eosinophilia, neuropathy, and a positive p-ANCA are classic for eosinophilic granulomatosis with polyangiitis."
+      ]
+    },
+    {
+      "id": 14,
+      "stem": "A 7-year-old boy has palpable purpura on the buttocks, abdominal pain, arthralgias, and hematuria. He has no antecedent strep infection. Which disease is most likely?",
+      "choices": [
+        "IgA vasculitis",
+        "Postinfectious GN",
+        "Anti-GBM disease",
+        "Lupus nephritis",
+        "Granulomatosis with polyangiitis"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. IgA vasculitis classically presents with purpura, arthralgias, abdominal pain, and nephritis in children.",
+        "Incorrect. Postinfectious GN follows a strep infection by 1-2 weeks and lacks the purpura/arthralgia syndrome.",
+        "Incorrect. Anti-GBM disease causes hemoptysis and is rare in children.",
+        "Incorrect. Lupus nephritis is uncommon in young boys and has different serologies.",
+        "Incorrect. GPA produces sinusitis and dyspnea, not the IgA vasculitis triad."
+      ]
+    },
+    {
+      "id": 15,
+      "stem": "A 34-year-old woman with nephritic syndrome has urine microscopy showing red blood cells. Which urinary finding is highly specific for glomerular disease?",
+      "choices": [
+        "Hyaline casts",
+        "Waxy casts",
+        "RBC casts",
+        "Crystalluria",
+        "Pyuria"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Hyaline casts are nonspecific and seen in many conditions, including normal concentrated urine.",
+        "Incorrect. Waxy casts indicate chronic kidney disease, not specifically glomerular disease.",
+        "Correct. Red blood cell casts are highly specific for glomerular disease and strongly suggest nephritic syndrome.",
+        "Incorrect. Crystalluria reflects stone disease or metabolic disorders, not glomerular injury.",
+        "Incorrect. Pyuria suggests urinary tract infection or interstitial nephritis."
+      ]
+    },
+    {
+      "id": 16,
+      "stem": "A 29-year-old man has hematuria. Urine microscopy shows abnormally shaped red blood cells with surface blebs and irregular contours. Which interpretation is most appropriate?",
+      "choices": [
+        "Hemolysis in serum",
+        "Likely lower urinary tract bleeding",
+        "Specimen contamination",
+        "Likely glomerular bleeding",
+        "Normal finding"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Serum hemolysis is unrelated to urine RBC morphology.",
+        "Incorrect. Lower tract bleeding (e.g., stones, tumors) typically yields isomorphic RBCs.",
+        "Incorrect. Contamination would not produce a uniform dysmorphic pattern.",
+        "Correct. Dysmorphic RBCs are suggestive of glomerular disease and nephritic syndrome.",
+        "Incorrect. Dysmorphic RBCs are pathologic, not normal."
+      ]
+    },
+    {
+      "id": 17,
+      "stem": "A 42-year-old woman with suspected nephritic syndrome has serum complement measured. Which combination of complement findings is characteristic of lupus nephritis?",
+      "choices": [
+        "Normal C3, normal C4",
+        "High C3 and high C4",
+        "Low C3 only, normal C4",
+        "High C3, low C4",
+        "Low C3, low C4"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. Normal complements would not fit the brick's described pattern for lupus nephritis.",
+        "Incorrect. Both elevated complements would not suggest active glomerular consumption.",
+        "Incorrect. Low C3 alone with normal C4 is more typical of postinfectious GN or MPGN.",
+        "Incorrect. High C3 with low C4 is not the lupus pattern in this brick.",
+        "Correct. Lupus nephritis classically shows low C3 and low C4, distinguishing it from PSGN and MPGN, in which only C3 is low."
+      ]
+    },
+    {
+      "id": 18,
+      "stem": "A 33-year-old woman has nephritic syndrome and a low C3. Which set of diagnoses should be considered based on this finding alone?",
+      "choices": [
+        "PSGN, lupus nephritis, MPGN",
+        "Anti-GBM disease, IgA nephropathy",
+        "Minimal change disease, FSGS",
+        "GPA, anti-GBM disease",
+        "IgA vasculitis, IgA nephropathy"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Postinfectious GN, lupus nephritis, and membranoproliferative GN all classically present with low C3.",
+        "Incorrect. Anti-GBM disease and IgA nephropathy do not typically lower complement.",
+        "Incorrect. Minimal change disease and FSGS are nephrotic and do not lower complement.",
+        "Incorrect. GPA and anti-GBM disease are pauci-immune or anti-GBM-mediated and do not consume C3.",
+        "Incorrect. IgA-mediated diseases do not typically lower complement."
+      ]
+    },
+    {
+      "id": 19,
+      "stem": "A 50-year-old woman has nephritic syndrome and rapidly rising serum creatinine over a few weeks. According to the brick, when is renal biopsy always indicated?",
+      "choices": [
+        "Mild stable hematuria, normal Cr",
+        "Two weeks after strep infection",
+        "Rapidly rising serum creatinine",
+        "Asymptomatic microscopic hematuria",
+        "Isolated low-grade proteinuria"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Stable mild hematuria with normal renal function may be observed without immediate biopsy.",
+        "Incorrect. Suspected PSGN is usually managed supportively without biopsy.",
+        "Correct. Biopsy is always needed in RPGN because early treatment of causes like anti-GBM disease and GPA is critical to preserving kidney function.",
+        "Incorrect. Asymptomatic microscopic hematuria does not by itself mandate biopsy.",
+        "Incorrect. Isolated low-grade proteinuria is not the brick's indication for required biopsy."
+      ]
+    },
+    {
+      "id": 20,
+      "stem": "A 9-year-old boy has hematuria, low C3, and a positive ASO titer 2 weeks after strep pharyngitis. Renal function is normal. Which best describes the management?",
+      "choices": [
+        "Plasmapheresis",
+        "High-dose cyclophosphamide",
+        "Mainly supportive care",
+        "Urgent renal biopsy",
+        "Long-term prednisone"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Plasmapheresis is reserved for anti-GBM disease.",
+        "Incorrect. Cyclophosphamide is used for severe lupus nephritis or GPA, not PSGN.",
+        "Correct. PSGN is managed supportively with fluid restriction, diuretics for edema, and BP control; most patients recover spontaneously.",
+        "Incorrect. PSGN typically does not require biopsy because the diagnosis is clinically obvious and treatment would not change.",
+        "Incorrect. Long-term prednisone is not standard for PSGN."
+      ]
+    },
+    {
+      "id": 21,
+      "stem": "A 35-year-old man with biopsy-proven anti-GBM disease has rising creatinine and pulmonary hemorrhage. Beyond immunosuppression, which therapy is specifically indicated?",
+      "choices": [
+        "Antibiotics",
+        "Hemodialysis",
+        "ACE inhibitor monotherapy",
+        "Loop diuretic infusion",
+        "Plasmapheresis"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. Antibiotics have no role in this autoimmune disease.",
+        "Incorrect. Hemodialysis is supportive for renal failure but does not treat the antibody-mediated disease.",
+        "Incorrect. An ACE inhibitor alone does not address the immunologic injury in anti-GBM disease.",
+        "Incorrect. Loop diuretics treat volume overload but not the underlying disease.",
+        "Correct. Anti-GBM disease requires plasmapheresis to remove the damaging circulating antibodies."
+      ]
+    },
+    {
+      "id": 22,
+      "stem": "A 55-year-old man with biopsy-proven lupus nephritis is started on disease-modifying therapy. Which class of drugs is the mainstay for this and other inflammatory glomerular diseases?",
+      "choices": [
+        "Beta-blockers",
+        "Statins",
+        "Immunosuppressive drugs",
+        "Calcium channel blockers",
+        "Loop diuretics"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Beta-blockers do not treat the underlying glomerular inflammation.",
+        "Incorrect. Statins manage hyperlipidemia, not the immunologic injury.",
+        "Correct. Immunosuppressive drugs such as prednisone and cyclophosphamide are the mainstay for inflammatory glomerular diseases like lupus nephritis and GPA.",
+        "Incorrect. Calcium channel blockers lower blood pressure but do not modify glomerular disease.",
+        "Incorrect. Loop diuretics are supportive for edema, not curative."
+      ]
+    },
+    {
+      "id": 23,
+      "stem": "A 48-year-old woman with chronic glomerular disease has BP 144/92 mm Hg and 1.8 g/24 h proteinuria. Which medication class is preferred to lower BP, reduce proteinuria, and slow progression?",
+      "choices": [
+        "ACE inhibitor or ARB",
+        "Thiazide diuretic",
+        "Beta-blocker",
+        "Calcium channel blocker",
+        "Alpha-blocker"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. ACE inhibitors or ARBs lower BP, reduce proteinuria, and slow progression of chronic glomerular disease by reducing intraglomerular pressure.",
+        "Incorrect. Thiazides lower BP but do not specifically reduce proteinuria or slow glomerular progression.",
+        "Incorrect. Beta-blockers do not have the same antiproteinuric effect.",
+        "Incorrect. Calcium channel blockers lower BP but do not preferentially reduce proteinuria.",
+        "Incorrect. Alpha-blockers are not first-line for nephritic patients with proteinuria."
+      ]
+    },
+    {
+      "id": 24,
+      "stem": "A 62-year-old man with nephritic syndrome from GPA develops a GFR of 8 mL/min, confusion, and serum K+ of 6.4 mEq/L. According to the brick, which intervention is now needed?",
+      "choices": [
+        "Discontinue immunosuppression",
+        "Increased ACE inhibitor dose",
+        "Renal biopsy",
+        "Plasma cryoprecipitate",
+        "Dialysis"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. Stopping immunosuppression would worsen the underlying disease.",
+        "Incorrect. ACE inhibitors can worsen hyperkalemia and reduce GFR further in this setting.",
+        "Incorrect. The diagnosis is already known; biopsy will not address the acute uremia.",
+        "Incorrect. Cryoprecipitate has no role in uremia management.",
+        "Correct. Dialysis is indicated when GFR falls to very low levels and uremic signs, hyperkalemia, or acidosis occur."
+      ]
+    },
+    {
+      "id": 25,
+      "stem": "A 19-year-old man with hematuria has C3 measured as part of his work-up. According to the brick, which group of nephritic diseases is associated with a low C3?",
+      "choices": [
+        "IgA nephropathy and Alport",
+        "PSGN, lupus nephritis, and MPGN",
+        "Anti-GBM disease and GPA",
+        "Membranous nephropathy and FSGS",
+        "Minimal change disease and Alport"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. IgA nephropathy and Alport syndrome do not typically lower C3.",
+        "Correct. Postinfectious GN, lupus nephritis, and membranoproliferative GN are the classic low-C3 nephritic diseases in the brick.",
+        "Incorrect. Anti-GBM disease and GPA do not consume complement; they are antibody- or pauci-immune-mediated.",
+        "Incorrect. Membranous nephropathy and FSGS are nephrotic diseases without C3 consumption.",
+        "Incorrect. Minimal change disease and Alport syndrome are not associated with low C3."
+      ]
+    }
+  ]
+}
