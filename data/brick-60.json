@@ -1,0 +1,481 @@
+{
+  "id": 60,
+  "title": "Wilms Tumor",
+  "questions": [
+    {
+      "id": 1,
+      "stem": "A 3-year-old boy is brought to clinic after his mother felt a hard lump in his left flank while bathing him. He is otherwise asymptomatic and meeting milestones. Examination reveals a small, firm, non-tender mass in the left lower quadrant. Which is the most common presenting finding of Wilms tumor?",
+      "choices": [
+        "Painless palpable abdominal mass",
+        "Gross hematuria",
+        "Recurrent fever",
+        "Severe abdominal pain",
+        "Hydronephrosis"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. The most common presenting feature is a painless, palpable abdominal mass, often noticed by a parent or on routine exam.",
+        "Incorrect. Hematuria can occur but is less common than a palpable mass.",
+        "Incorrect. Fever is an uncommon presenting feature.",
+        "Incorrect. Wilms tumor classically presents painlessly.",
+        "Incorrect. Hydronephrosis is not the typical presenting finding."
+      ]
+    },
+    {
+      "id": 2,
+      "stem": "A 4-year-old girl is found to have a unilateral renal mass on ultrasound. Biopsy is avoided, and resection is planned. Histology of similar tumors classically shows three cell types. Which combination defines the triphasic pattern of Wilms tumor?",
+      "choices": [
+        "Blastemal, epithelial, adipose",
+        "Endothelial, epithelial, blastemal",
+        "Blastemal, stromal, epithelial",
+        "Blastemal, skeletal muscle, bone",
+        "Blastemal, adipose, skeletal muscle"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Adipose tissue is not part of the classic triphasic pattern.",
+        "Incorrect. Endothelial cells are not one of the three defining components.",
+        "Correct. Wilms tumor classically shows a triphasic pattern of blastemal, stromal, and epithelial cells.",
+        "Incorrect. Skeletal muscle and bone are not part of the classic pattern.",
+        "Incorrect. Adipose and skeletal muscle are not components of the triphasic pattern."
+      ]
+    },
+    {
+      "id": 3,
+      "stem": "A 2-year-old boy with a newly diagnosed Wilms tumor has pathology described as 'favorable histology'. Which feature defines unfavorable histology in Wilms tumor?",
+      "choices": [
+        "Predominantly stromal component",
+        "Anaplastic pleomorphic nuclei",
+        "Classic triphasic pattern",
+        "Tubule and rosette formation",
+        "Loose myxoid stroma"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. A stromal-predominant pattern does not define unfavorable histology.",
+        "Correct. Unfavorable histology is defined by anaplastic cells that are large with pleomorphic, hyperchromatic nuclei.",
+        "Incorrect. The triphasic pattern is the typical microscopic appearance, not an unfavorable feature.",
+        "Incorrect. Tubules and rosettes are part of the epithelial component, not anaplasia.",
+        "Incorrect. Myxoid stroma is a stromal feature, not anaplasia."
+      ]
+    },
+    {
+      "id": 4,
+      "stem": "A 2-year-old child with WAGR syndrome is found to have a renal mass on screening ultrasound. WAGR is associated with a germline deletion of which gene and chromosomal location?",
+      "choices": [
+        "WT2 at 11p15",
+        "CDKN1C at 11p15.5",
+        "RB1 at 13q14",
+        "WT1 at 11p13",
+        "IGF2 at 11p15.5"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. WT2 is on chromosome 11 but is not the gene deleted in WAGR.",
+        "Incorrect. CDKN1C at 11p15.5 is implicated in Beckwith-Wiedemann syndrome.",
+        "Incorrect. RB1 is the retinoblastoma gene, unrelated to WAGR.",
+        "Correct. WAGR is caused by a germline deletion of the WT1 gene at 11p13.",
+        "Incorrect. IGF2 at 11p15.5 is implicated in Beckwith-Wiedemann syndrome."
+      ]
+    },
+    {
+      "id": 5,
+      "stem": "A 3-year-old girl presents with absent irises, ambiguous genitalia, intellectual disability, and a left abdominal mass. Which genetic syndrome best explains her presentation?",
+      "choices": [
+        "Beckwith-Wiedemann syndrome",
+        "Denys-Drash syndrome",
+        "WAGR syndrome",
+        "Li-Fraumeni syndrome",
+        "Turner syndrome"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Beckwith-Wiedemann features overgrowth, macroglossia, and omphalocele, not aniridia.",
+        "Incorrect. Denys-Drash includes nephropathy and disorders of sexual development but not aniridia.",
+        "Correct. WAGR is the combination of Wilms tumor, aniridia, genitourinary anomalies, and intellectual disability.",
+        "Incorrect. Li-Fraumeni is a TP53-related cancer predisposition without aniridia.",
+        "Incorrect. Turner syndrome is not associated with Wilms tumor or aniridia."
+      ]
+    },
+    {
+      "id": 6,
+      "stem": "A 4-year-old boy is brought in with chronic kidney disease, ambiguous external genitalia, and a newly found renal mass. Genetic testing reveals a germline missense mutation in WT1. Which syndrome is this?",
+      "choices": [
+        "WAGR syndrome",
+        "Denys-Drash syndrome",
+        "Beckwith-Wiedemann syndrome",
+        "Li-Fraumeni syndrome",
+        "Klinefelter syndrome"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. WAGR is caused by a deletion of WT1, not a missense mutation.",
+        "Correct. Denys-Drash syndrome combines chronic kidney disease, disorders of sexual development, and Wilms tumor, caused by a germline WT1 missense mutation.",
+        "Incorrect. Beckwith-Wiedemann is an imprinting disorder at 11p15.5, not a WT1 missense mutation.",
+        "Incorrect. Li-Fraumeni involves TP53 mutations, not WT1.",
+        "Incorrect. Klinefelter is a sex chromosome aneuploidy unrelated to Wilms tumor."
+      ]
+    },
+    {
+      "id": 7,
+      "stem": "A neonate is noted to have macroglossia, hemihypertrophy, omphalocele, and organomegaly. The pediatrician recommends serial renal ultrasounds. Which syndrome does this child have?",
+      "choices": [
+        "WAGR syndrome",
+        "Denys-Drash syndrome",
+        "Beckwith-Wiedemann syndrome",
+        "Tuberous sclerosis",
+        "Von Hippel-Lindau"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. WAGR features aniridia and genitourinary anomalies, not macroglossia or omphalocele.",
+        "Incorrect. Denys-Drash features nephropathy and disorders of sexual development.",
+        "Correct. Beckwith-Wiedemann is an overgrowth syndrome with macroglossia, hemihypertrophy, omphalocele, and organomegaly, and predisposes to Wilms tumor.",
+        "Incorrect. Tuberous sclerosis is associated with angiomyolipomas, not Wilms tumor.",
+        "Incorrect. Von Hippel-Lindau predisposes to renal cell carcinoma, not Wilms tumor."
+      ]
+    },
+    {
+      "id": 8,
+      "stem": "A 2-year-old with Beckwith-Wiedemann syndrome is enrolled in a tumor surveillance program. According to the brick, how often and until what age should abdominal ultrasound screening occur in this patient?",
+      "choices": [
+        "Every 6 months until age 5",
+        "Every 3 months until age 7",
+        "Yearly until age 10",
+        "Every 3 months until age 5",
+        "Every 12 months until age 18"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. The brick specifies a 3-month interval until age 7 for BWS.",
+        "Correct. Surveillance for Beckwith-Wiedemann syndrome is every 3 months until age 7.",
+        "Incorrect. Yearly screening is not the recommended interval.",
+        "Incorrect. The 3-month-until-age-5 schedule applies to WAGR and WT1-related syndromes.",
+        "Incorrect. Annual screening until age 18 is not the recommended schedule."
+      ]
+    },
+    {
+      "id": 9,
+      "stem": "A 3-year-old boy is found to have a left-sided abdominal mass on routine exam. The pediatrician wants to obtain initial imaging that avoids radiation exposure. Which is the most appropriate first imaging study?",
+      "choices": [
+        "Renal ultrasound",
+        "Abdominal CT with contrast",
+        "Abdominal MRI",
+        "Plain abdominal radiograph",
+        "Renal scintigraphy"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Renal ultrasound is first-line because it avoids radiation exposure in children.",
+        "Incorrect. CT is used after ultrasound confirms a tumor, to evaluate spread.",
+        "Incorrect. MRI is used after initial confirmation, not as the first study.",
+        "Incorrect. Plain radiographs do not adequately characterize a renal mass.",
+        "Incorrect. Renal scintigraphy is not the recommended initial imaging."
+      ]
+    },
+    {
+      "id": 10,
+      "stem": "A 4-year-old girl is diagnosed with a renal mass on ultrasound. The oncology team wants to evaluate the extent of disease and look for metastases before surgery. Which imaging modality is most appropriate next?",
+      "choices": [
+        "Repeat ultrasound",
+        "Plain X-ray",
+        "PET scan",
+        "CT scan",
+        "Bone scan"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Repeat ultrasound does not adequately stage the tumor.",
+        "Incorrect. Plain X-ray lacks the detail needed for staging.",
+        "Incorrect. PET scan is not the standard staging modality described in the brick.",
+        "Correct. After ultrasound confirms a tumor, CT scanning (or MRI) is used to evaluate the extent of spread and metastasis.",
+        "Incorrect. Bone scan is not part of the routine staging workup."
+      ]
+    },
+    {
+      "id": 11,
+      "stem": "A 3-year-old boy with a suspected Wilms tumor is being evaluated. The pediatric oncology team discusses whether to perform a percutaneous biopsy. Which best describes the role of biopsy in Wilms tumor?",
+      "choices": [
+        "Required for all patients prior to chemotherapy",
+        "Required to differentiate from neuroblastoma",
+        "Rarely done due to risk of tumor seeding",
+        "Standard of care before staging",
+        "Mandatory in unilateral disease"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Biopsy is not routinely required before chemotherapy.",
+        "Incorrect. Imaging features and presentation typically distinguish Wilms from neuroblastoma.",
+        "Correct. Biopsy is rarely performed because it risks seeding the tumor elsewhere in the abdomen.",
+        "Incorrect. Biopsy is not standard prior to staging.",
+        "Incorrect. Biopsy is not mandatory in unilateral disease."
+      ]
+    },
+    {
+      "id": 12,
+      "stem": "A 4-year-old child has a 6 cm left renal Wilms tumor with no extra-renal extension and no lymph node involvement. The team is planning treatment. Which best describes the role of surgery in Wilms tumor management?",
+      "choices": [
+        "Never used as first treatment",
+        "Reserved only for stage 4 disease",
+        "First, except with distant metastases",
+        "Contraindicated in favorable histology",
+        "Only after radiation therapy"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Surgery is in fact the first treatment in most cases.",
+        "Incorrect. Surgery is most beneficial at lower stages, not reserved for stage 4.",
+        "Correct. Surgery is performed first in all cases except those with distant metastases.",
+        "Incorrect. Surgery is appropriate and often curative in favorable histology.",
+        "Incorrect. Radiation is given after surgery, not before."
+      ]
+    },
+    {
+      "id": 13,
+      "stem": "A 3-year-old girl with a stage III Wilms tumor is started on combination chemotherapy. One agent binds tubulin and inhibits microtubule formation, arresting cells at metaphase. Which drug is this?",
+      "choices": [
+        "Doxorubicin",
+        "Dactinomycin",
+        "Vincristine",
+        "Cyclophosphamide",
+        "Cisplatin"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Doxorubicin cross-links DNA chains as an anthracycline.",
+        "Incorrect. Dactinomycin intercalates DNA between guanine and cytosine.",
+        "Correct. Vincristine is a vinca alkaloid that binds tubulin, inhibits microtubule formation, and arrests cells at metaphase.",
+        "Incorrect. Cyclophosphamide is an alkylating agent unrelated to microtubule disruption.",
+        "Incorrect. Cisplatin forms DNA cross-links, not microtubule inhibition."
+      ]
+    },
+    {
+      "id": 14,
+      "stem": "A 5-year-old boy with Wilms tumor receives a chemotherapy regimen including a cell cycle-independent agent that intercalates between guanine and cytosine base pairs, inhibiting DNA, RNA, and protein synthesis. Which agent has this mechanism?",
+      "choices": [
+        "Vincristine",
+        "Dactinomycin",
+        "Doxorubicin",
+        "Methotrexate",
+        "5-Fluorouracil"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Vincristine disrupts microtubules, not DNA intercalation.",
+        "Correct. Dactinomycin is a cell cycle-independent chemotherapy that intercalates DNA at guanine-cytosine pairs, inhibiting DNA, RNA, and protein synthesis.",
+        "Incorrect. Doxorubicin is an anthracycline that cross-links DNA chains rather than intercalating at G-C pairs as described.",
+        "Incorrect. Methotrexate inhibits dihydrofolate reductase.",
+        "Incorrect. 5-FU inhibits thymidylate synthase."
+      ]
+    },
+    {
+      "id": 15,
+      "stem": "A 4-year-old with Wilms tumor is treated with an anthracycline that cross-links DNA chains and causes strand breaks, inhibiting DNA replication and transcription. Which drug fits this description?",
+      "choices": [
+        "Vincristine",
+        "Dactinomycin",
+        "Doxorubicin",
+        "Bleomycin",
+        "Etoposide"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Vincristine acts on microtubules, not DNA cross-linking.",
+        "Incorrect. Dactinomycin intercalates DNA but is not an anthracycline.",
+        "Correct. Doxorubicin is an anthracycline that cross-links DNA chains, causing breaks and inhibiting DNA replication and transcription.",
+        "Incorrect. Bleomycin generates free radicals to break DNA but is not used for Wilms in the brick.",
+        "Incorrect. Etoposide inhibits topoisomerase II."
+      ]
+    },
+    {
+      "id": 16,
+      "stem": "A 4-year-old with stage I favorable histology Wilms tumor undergoes successful nephrectomy. The family asks why their child is at risk for kidney problems later in life. Which best explains this risk?",
+      "choices": [
+        "Hyperfiltration of the remaining kidney",
+        "Recurrent pyelonephritis",
+        "Chemotherapy nephrotoxicity",
+        "Radiation glomerulonephritis",
+        "Autoimmune tubulointerstitial disease"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. After unilateral nephrectomy, the remaining kidney compensates but children are at higher long-term risk for chronic kidney disease and hypertension.",
+        "Incorrect. Pyelonephritis is not the mechanism described in the brick.",
+        "Incorrect. The brick attributes long-term risk to nephrectomy, not chemo nephrotoxicity.",
+        "Incorrect. Radiation glomerulonephritis is not the mechanism cited.",
+        "Incorrect. Autoimmune tubulointerstitial disease is not the explanation provided."
+      ]
+    },
+    {
+      "id": 17,
+      "stem": "A 3-year-old girl with a newly diagnosed Wilms tumor is being evaluated for distant disease. Which is the most common site of metastatic spread?",
+      "choices": [
+        "Brain",
+        "Bone marrow",
+        "Lungs",
+        "Skin",
+        "Adrenal glands"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Brain metastases are not the typical pattern in Wilms tumor.",
+        "Incorrect. Bone marrow involvement is not the common metastatic site.",
+        "Correct. Wilms tumor most commonly metastasizes to the lungs.",
+        "Incorrect. Cutaneous metastases are not characteristic of Wilms tumor.",
+        "Incorrect. Adrenal metastases are not the typical spread pattern."
+      ]
+    },
+    {
+      "id": 18,
+      "stem": "A 4-year-old boy with Wilms tumor develops jaundice and elevated liver function tests. Which best explains this finding?",
+      "choices": [
+        "Hepatic metastasis",
+        "Chemotherapy hepatotoxicity",
+        "Hepatitis B reactivation",
+        "Gilbert syndrome",
+        "Biliary atresia"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Rare hepatic metastases from Wilms tumor can lead to jaundice or elevated liver enzymes.",
+        "Incorrect. The brick attributes these findings to hepatic metastasis, not chemo toxicity.",
+        "Incorrect. Hepatitis B reactivation is not the etiology described.",
+        "Incorrect. Gilbert syndrome causes isolated unconjugated bilirubin elevations, not the picture described.",
+        "Incorrect. Biliary atresia presents in early infancy, not the demographic here."
+      ]
+    },
+    {
+      "id": 19,
+      "stem": "A 4-year-old girl with bilateral Wilms tumors presents with new-onset hypertension. According to the brick, in which clinical setting is hypertension most often seen in Wilms tumor?",
+      "choices": [
+        "Pulmonary metastases",
+        "Liver metastases",
+        "Bilateral kidneys",
+        "Favorable histology",
+        "Unilateral stage I disease"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Pulmonary metastases do not typically cause hypertension.",
+        "Incorrect. Liver involvement causes jaundice/LFT changes, not hypertension specifically.",
+        "Correct. Hypertension is more common when both kidneys are involved.",
+        "Incorrect. Favorable histology refers to the absence of anaplasia, not a hypertension risk factor.",
+        "Incorrect. Unilateral stage I disease is least likely to cause hypertension."
+      ]
+    },
+    {
+      "id": 20,
+      "stem": "A pathology resident is examining a Wilms tumor specimen. Which microscopic feature corresponds to the blastemal component?",
+      "choices": [
+        "Loose myxoid connective tissue",
+        "Dense fibrous tissue",
+        "Tubules and rosettes",
+        "Small round blue cells",
+        "Nonfunctional glomeruli"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Loose myxoid tissue is a stromal feature.",
+        "Incorrect. Dense fibrous tissue is a stromal feature.",
+        "Incorrect. Tubules and rosettes are epithelial features.",
+        "Correct. Blastemal cells are undifferentiated small round blue cells representing the most primitive, rapidly proliferating component.",
+        "Incorrect. Nonfunctional glomeruli are epithelial-component structures."
+      ]
+    },
+    {
+      "id": 21,
+      "stem": "A pathologist describes a Wilms tumor specimen as showing tubules, rosettes, and glomeruli-like structures that are nonfunctional. Which histologic component is being described?",
+      "choices": [
+        "Blastemal",
+        "Stromal",
+        "Epithelial",
+        "Anaplastic",
+        "Endothelial"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Blastemal cells are undifferentiated small round blue cells.",
+        "Incorrect. Stromal tissue is supportive connective tissue, loose myxoid or fibrous.",
+        "Correct. The epithelial component forms primitive tubules, rosettes, and nonfunctional glomeruli-like structures.",
+        "Incorrect. Anaplasia is a feature of unfavorable histology, not a normal component.",
+        "Incorrect. Endothelial cells are not part of the classic triphasic pattern."
+      ]
+    },
+    {
+      "id": 22,
+      "stem": "A 4-year-old with stage I Wilms tumor and favorable histology has had a successful unilateral nephrectomy. Which best describes initial management for low-stage disease?",
+      "choices": [
+        "Radiation, then chemotherapy",
+        "Surgery, then possible chemotherapy",
+        "Chemotherapy alone",
+        "Observation alone",
+        "Bone marrow transplant"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Radiation is not the first treatment in low-stage disease.",
+        "Correct. First treatment in low-stage Wilms is surgery, possibly followed by chemotherapy and radiation depending on findings.",
+        "Incorrect. Chemotherapy alone is not the standard initial approach when surgery is feasible.",
+        "Incorrect. Observation alone is not standard for malignant tumors.",
+        "Incorrect. Bone marrow transplant is not the standard initial therapy."
+      ]
+    },
+    {
+      "id": 23,
+      "stem": "A 3-year-old with Wilms tumor has favorable histology on resection. According to the brick, what is the approximate 4-year survival rate range for this group?",
+      "choices": [
+        "10% to 30%",
+        "30% to 50%",
+        "55% to 85%",
+        "85% to 100%",
+        "Less than 10%"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Survival is far higher than 10-30% for favorable histology.",
+        "Incorrect. 30-50% is well below the favorable-histology range.",
+        "Incorrect. 55-85% is the anaplastic (unfavorable) histology range.",
+        "Correct. Four-year survival ranges from 85% to 100% in children with favorable histology.",
+        "Incorrect. Survival is much higher than 10%."
+      ]
+    },
+    {
+      "id": 24,
+      "stem": "A pediatric oncologist describes a Wilms tumor as containing embryonic structures resembling developing kidney. Which mutated tumor suppressor genes are most associated with Wilms tumor and located on chromosome 11?",
+      "choices": [
+        "WT1 or WT2",
+        "TP53 or RB1",
+        "BRCA1 or BRCA2",
+        "APC or DCC",
+        "NF1 or NF2"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Wilms tumor is associated with mutations in the WT1 or WT2 tumor suppressor genes on chromosome 11.",
+        "Incorrect. TP53 and RB1 are tumor suppressors but not the Wilms-associated genes on chromosome 11.",
+        "Incorrect. BRCA1/2 are associated with breast/ovarian cancer.",
+        "Incorrect. APC and DCC are colorectal-cancer-related genes.",
+        "Incorrect. NF1 and NF2 cause neurofibromatosis, not Wilms tumor."
+      ]
+    },
+    {
+      "id": 25,
+      "stem": "A 3-year-old presents with a unilateral, large, well-circumscribed renal mass that does not cross the midline. This anatomic description is characteristic of Wilms tumor and helps distinguish it from which abdominal tumor of childhood that often crosses the midline?",
+      "choices": [
+        "Neuroblastoma",
+        "Hepatoblastoma",
+        "Rhabdomyosarcoma",
+        "Ewing sarcoma",
+        "Pheochromocytoma"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Neuroblastoma is the classic abdominal childhood tumor that crosses the midline, in contrast to Wilms tumor which does not.",
+        "Incorrect. Hepatoblastoma arises in the liver and is not the contrasting midline-crossing tumor emphasized.",
+        "Incorrect. Rhabdomyosarcoma can arise in many sites but is not the canonical contrast to Wilms.",
+        "Incorrect. Ewing sarcoma is primarily a bone tumor.",
+        "Incorrect. Pheochromocytoma arises in the adrenal medulla, not the typical contrast described."
+      ]
+    }
+  ]
+}

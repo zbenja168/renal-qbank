@@ -1,0 +1,481 @@
+{
+  "id": 56,
+  "title": "Histology of the Ureters, Bladder, and Urethra",
+  "questions": [
+    {
+      "id": 1,
+      "stem": "A first-year medical student is reviewing the histology of the urinary tract. The ureters, bladder, and urethra all share a similar three-layer composition. From innermost to outermost, what are these three layers?",
+      "choices": [
+        "Mucosa, muscularis, adventitia",
+        "Serosa, muscularis, mucosa",
+        "Adventitia, mucosa, muscularis",
+        "Muscularis, mucosa, serosa",
+        "Epithelium, submucosa, muscularis"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. From inner to outer, the urinary tract layers are mucosa (epithelium + lamina propria), muscularis (smooth muscle), and an outer adventitia or serosa.",
+        "Incorrect. This reverses the inner-to-outer order.",
+        "Incorrect. Adventitia is the outermost layer, not innermost.",
+        "Incorrect. Mucosa is innermost; muscularis is the middle layer.",
+        "Incorrect. The brick describes a three-layer scheme without a separate submucosa."
+      ]
+    },
+    {
+      "id": 2,
+      "stem": "A histology lab section identifies a stratified epithelium lining the bladder that is described as impermeable to salts and water and capable of flattening when stretched. What is the name of this epithelium?",
+      "choices": [
+        "Simple cuboidal epithelium",
+        "Stratified squamous epithelium",
+        "Transitional epithelium (urothelium)",
+        "Pseudostratified columnar epithelium",
+        "Simple columnar epithelium"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Simple cuboidal lines structures like renal tubules, not the urinary outflow tract.",
+        "Incorrect. Stratified squamous lines the distal urethra and skin, not the bladder.",
+        "Correct. Transitional epithelium (urothelium) is a stratified epithelium that is impermeable to salts and water and can flatten to accommodate distension.",
+        "Incorrect. Pseudostratified columnar lines portions of the urethra, not the bladder.",
+        "Incorrect. Simple columnar epithelium is found in the GI tract, not the urinary system."
+      ]
+    },
+    {
+      "id": 3,
+      "stem": "A medical student at an amusement park drinks several large cups of lemonade and feels his bladder is about to burst. Which property of the bladder epithelium allows it to accommodate large volumes of urine without rupture?",
+      "choices": [
+        "Active reabsorption of urine water",
+        "Layers flatten and unfold",
+        "Cell shedding into the lumen",
+        "Smooth muscle hyperplasia",
+        "Continuous mucus secretion"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. The transitional epithelium is impermeable to water and does not reabsorb urine.",
+        "Correct. Transitional epithelial layers flatten and unfold as the bladder fills, allowing it to accommodate increased volume without bursting.",
+        "Incorrect. Cell shedding is not the described mechanism of accommodation.",
+        "Incorrect. The detrusor relaxes during filling; it does not undergo acute hyperplasia.",
+        "Incorrect. Mucus secretion is not the mechanism for bladder distensibility."
+      ]
+    },
+    {
+      "id": 4,
+      "stem": "On a high-power image of an empty bladder, a student counts approximately six to seven cell layers in the inner epithelium with characteristic surface dome cells. According to the brick, how many cell layers thick is the transitional epithelium of the bladder when not distended?",
+      "choices": [
+        "Single cell layer",
+        "Two cell layers",
+        "Four to five cell layers",
+        "Six or more cell layers",
+        "Twenty or more cell layers"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. The minor calyces are only two layers; the bladder is much thicker.",
+        "Incorrect. Two cell layers describes the minor calyces, not the bladder.",
+        "Incorrect. Four to five layers describes the ureters, not the bladder.",
+        "Correct. The bladder transitional epithelium is six or more cell layers thick when not distended; it appears as few as three when stretched.",
+        "Incorrect. The brick describes six or more layers, not twenty."
+      ]
+    },
+    {
+      "id": 5,
+      "stem": "A pathology resident reviews a cross-section of ureter. The middle layer is described as having three smooth muscle layers. What is the arrangement of these smooth muscle layers in the ureter?",
+      "choices": [
+        "Inner circular, middle longitudinal, outer circular",
+        "Inner and outer longitudinal, middle circular",
+        "Two longitudinal layers only",
+        "A single circular layer",
+        "Inner oblique, middle circular, outer longitudinal"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. This is not the arrangement described for the ureter.",
+        "Correct. The ureter muscularis has an inner longitudinal, middle circular, and outer longitudinal smooth muscle arrangement.",
+        "Incorrect. There are three layers, not two.",
+        "Incorrect. The ureter has three layers, not a single layer.",
+        "Incorrect. The brick does not describe an inner oblique layer in the ureter."
+      ]
+    },
+    {
+      "id": 6,
+      "stem": "A medical student examines a histologic slide of a tubular structure in the retroperitoneum. The outer layer contains blood vessels, nerves, and adipose tissue and blends with the surrounding tissue rather than forming a discrete mesothelial covering. This outer layer is best described as which of the following?",
+      "choices": [
+        "Serosa",
+        "Adventitia",
+        "Lamina propria",
+        "Submucosa",
+        "Muscularis mucosae"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Serosa is a defined outer mesothelial layer found on intraperitoneal organs.",
+        "Correct. Adventitia is loose connective tissue (with vessels, nerves, fat) that blends with surrounding tissue and covers retroperitoneal organs such as the ureters.",
+        "Incorrect. Lamina propria lies beneath the epithelium, not as the outermost layer.",
+        "Incorrect. The brick does not describe a separate submucosa in the urinary tract.",
+        "Incorrect. Muscularis mucosae is a GI-tract feature, not a layer of the ureter."
+      ]
+    },
+    {
+      "id": 7,
+      "stem": "An anatomy review highlights that the urinary bladder, an intraperitoneal organ on its superior surface, is covered by a defined outer layer of mesothelium in that region. What is this outer covering called?",
+      "choices": [
+        "Adventitia",
+        "Serosa",
+        "Mucosa",
+        "Muscularis propria",
+        "Lamina propria"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Adventitia covers most of the rest of the bladder, but the superior surface is covered by serosa.",
+        "Correct. The superior surface of the bladder is covered by serosa (mesothelium), while the rest is covered by adventitia.",
+        "Incorrect. Mucosa is the innermost layer, not the outer covering.",
+        "Incorrect. The muscularis propria (detrusor) is the middle layer.",
+        "Incorrect. Lamina propria is part of the inner mucosa, not the outer covering."
+      ]
+    },
+    {
+      "id": 8,
+      "stem": "A urologist explains to a patient that voluntary urination occurs through contraction of the thick smooth muscle layer of the bladder wall. What is the name of this muscle?",
+      "choices": [
+        "External urethral sphincter",
+        "Bulbospongiosus muscle",
+        "Detrusor muscle",
+        "Pubococcygeus muscle",
+        "Internal oblique muscle"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. The external urethral sphincter is skeletal muscle in the deep perineal pouch, not the bladder wall.",
+        "Incorrect. Bulbospongiosus surrounds the proximal penile urethra, not the bladder.",
+        "Correct. The detrusor muscle (muscularis propria) is the thick smooth muscle layer of the bladder that contracts during micturition.",
+        "Incorrect. Pubococcygeus is part of the pelvic floor, not the bladder wall.",
+        "Incorrect. The internal oblique is an abdominal wall muscle."
+      ]
+    },
+    {
+      "id": 9,
+      "stem": "A medical student examines a cross-section of urinary bladder and notes that the muscularis is strikingly thicker than that of the ureter. Which functional requirement best explains this difference?",
+      "choices": [
+        "Peristaltic movement of urine",
+        "Expelling stored urine",
+        "Voluntary control of micturition",
+        "Resistance to mechanical distension",
+        "Filtration of waste from blood"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Peristalsis is performed by the ureter, not the bladder.",
+        "Correct. The detrusor must generate enough contractile force to expel stored urine, so it is much thicker than the ureteric muscularis.",
+        "Incorrect. Voluntary control comes from the external urethral sphincter (skeletal muscle), not the detrusor.",
+        "Incorrect. Distensibility is provided by transitional epithelium and lamina propria, not by thick muscle.",
+        "Incorrect. Filtration occurs in the kidney, not the bladder."
+      ]
+    },
+    {
+      "id": 10,
+      "stem": "A first-year student is asked to identify the source of voluntary control over micturition. Which structure, surrounding the membranous urethra, provides this voluntary control?",
+      "choices": [
+        "Detrusor smooth muscle",
+        "Internal urethral sphincter",
+        "Bulbospongiosus muscle",
+        "External urethral sphincter",
+        "Corpus spongiosum"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. The detrusor is involuntary smooth muscle and expels urine.",
+        "Incorrect. The internal urethral sphincter is smooth muscle and is not under voluntary control.",
+        "Incorrect. Bulbospongiosus assists ejaculation and emptying but is not the sphincter providing micturition control.",
+        "Correct. The external urethral sphincter is the skeletal muscle of the deep perineal pouch surrounding the membranous urethra and providing voluntary control.",
+        "Incorrect. The corpus spongiosum is erectile tissue, not a sphincter."
+      ]
+    },
+    {
+      "id": 11,
+      "stem": "An anatomy professor lists the four segments of the male urethra in order from the bladder neck distally. Which sequence is correct?",
+      "choices": [
+        "Preprostatic, prostatic, membranous, penile",
+        "Prostatic, preprostatic, penile, membranous",
+        "Membranous, prostatic, preprostatic, penile",
+        "Penile, membranous, prostatic, preprostatic",
+        "Prostatic, membranous, preprostatic, penile"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. The male urethra has four segments in order: preprostatic, prostatic, membranous, and penile (spongy).",
+        "Incorrect. Preprostatic precedes prostatic, not the reverse.",
+        "Incorrect. Membranous lies between prostatic and penile, not at the proximal end.",
+        "Incorrect. This lists the segments in reverse order.",
+        "Incorrect. Membranous follows the prostatic segment but preprostatic comes first."
+      ]
+    },
+    {
+      "id": 12,
+      "stem": "A clinician describes the male urethra to a patient as approximately 20 cm in length. The female urethra is described as which of the following lengths?",
+      "choices": [
+        "1 cm",
+        "3 to 5 cm",
+        "10 to 12 cm",
+        "15 cm",
+        "20 cm"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. 1 cm corresponds to the preprostatic segment, not the female urethra.",
+        "Correct. The female urethra is 3 to 5 cm long.",
+        "Incorrect. The female urethra is shorter than 10 cm.",
+        "Incorrect. The female urethra is much shorter than 15 cm.",
+        "Incorrect. 20 cm describes the male urethra."
+      ]
+    },
+    {
+      "id": 13,
+      "stem": "A 24-year-old woman presents with dysuria and frequency and is diagnosed with a urinary tract infection. The clinician notes she has higher UTI risk than men. Which two anatomic features best explain this difference?",
+      "choices": [
+        "Longer urethra and proximity to vagina",
+        "Shorter urethra and proximity to rectum",
+        "Higher bladder volume and prostatic secretions",
+        "Thicker detrusor and weaker sphincter",
+        "Lower urinary pH and shorter ureters"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. The female urethra is shorter, not longer.",
+        "Correct. A shorter urethra and proximity to the rectum allow bacteria easier access to the bladder, raising UTI risk.",
+        "Incorrect. Prostatic secretions are a male feature; this would lower male risk, not raise female risk.",
+        "Incorrect. Detrusor thickness and sphincter strength are not the brick's stated reason for increased female UTI risk.",
+        "Incorrect. Urinary pH and ureter length are not the cited factors."
+      ]
+    },
+    {
+      "id": 14,
+      "stem": "A medical student studying urethral histology learns that the epithelium changes along its length. Which segment of the male urethra is lined by transitional epithelium?",
+      "choices": [
+        "Preprostatic and prostatic",
+        "Membranous segment only",
+        "Penile segment only",
+        "Distal penile segment",
+        "Bulbous urethra only"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. The preprostatic and prostatic urethral segments are lined by transitional epithelium continuous with the bladder.",
+        "Incorrect. The membranous segment is lined by stratified or pseudostratified columnar epithelium.",
+        "Incorrect. The penile segment is pseudostratified columnar proximally and stratified squamous distally.",
+        "Incorrect. The distal penile segment is stratified squamous, not transitional.",
+        "Incorrect. The brick does not separately describe a bulbous urethra lined by transitional epithelium."
+      ]
+    },
+    {
+      "id": 15,
+      "stem": "A histology student examines a slide of the membranous urethra. Which epithelium most likely lines this segment?",
+      "choices": [
+        "Transitional epithelium",
+        "Simple cuboidal epithelium",
+        "Pseudostratified columnar",
+        "Stratified squamous epithelium",
+        "Simple squamous epithelium"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Transitional epithelium lines the preprostatic and prostatic segments, not the membranous urethra.",
+        "Incorrect. Simple cuboidal is not the epithelium described for any urethral segment.",
+        "Correct. The membranous urethra is lined by stratified or pseudostratified columnar epithelium.",
+        "Incorrect. Stratified squamous lines the distal penile urethra, not the membranous segment.",
+        "Incorrect. Simple squamous epithelium lines vessels and alveoli, not the urethra."
+      ]
+    },
+    {
+      "id": 16,
+      "stem": "A medical student reviews a slide of the distal penile urethra near its external opening. The epithelium is continuous with that of the surrounding penile skin. Which epithelium is expected in this distal segment?",
+      "choices": [
+        "Transitional epithelium",
+        "Stratified squamous epithelium",
+        "Pseudostratified columnar epithelium",
+        "Simple cuboidal epithelium",
+        "Simple columnar epithelium"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Transitional epithelium does not extend to the distal penile urethra.",
+        "Correct. The distal penile urethra is lined by stratified squamous epithelium, continuous with the skin of the penis.",
+        "Incorrect. Pseudostratified columnar lines the proximal penile segment, not the distal end.",
+        "Incorrect. Simple cuboidal does not line any urethral segment described in the brick.",
+        "Incorrect. Simple columnar is not the epithelium of the distal urethra."
+      ]
+    },
+    {
+      "id": 17,
+      "stem": "A medical student examines a cross-section of the penile urethra and identifies the surrounding erectile tissue. Which structure surrounds the penile urethra within the shaft of the penis?",
+      "choices": [
+        "Tunica albuginea",
+        "Corpus cavernosum",
+        "Corpus spongiosum",
+        "Bulbospongiosus muscle",
+        "Detrusor muscle"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. The tunica albuginea is the fibrous sheath around erectile bodies, not the immediate sheath of the urethra.",
+        "Incorrect. The paired corpora cavernosa lie dorsally and do not surround the urethra.",
+        "Correct. The penile urethra within the shaft is surrounded by the corpus spongiosum.",
+        "Incorrect. Bulbospongiosus surrounds the proximal portion of the penile urethra, not the part within the shaft.",
+        "Incorrect. The detrusor is in the bladder wall."
+      ]
+    },
+    {
+      "id": 18,
+      "stem": "An anatomy lab covers the male urethra. Approximately how long is the preprostatic segment?",
+      "choices": [
+        "1 cm",
+        "3 to 4 cm",
+        "6 cm",
+        "10 cm",
+        "15 cm"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. The preprostatic urethra is approximately 1 cm long, extending from the bladder neck to the prostate.",
+        "Incorrect. 3-4 cm describes the prostatic segment.",
+        "Incorrect. 6 cm is not the brick's stated length for any segment.",
+        "Incorrect. 10 cm is far longer than the preprostatic segment.",
+        "Incorrect. 15 cm is closer to the penile segment length, not preprostatic."
+      ]
+    },
+    {
+      "id": 19,
+      "stem": "A medical student is asked about the length of the prostatic urethra as it tunnels through the prostate gland. According to the brick, the prostatic urethra is approximately which length?",
+      "choices": [
+        "1 cm",
+        "~4 cm",
+        "8 cm",
+        "12 cm",
+        "20 cm"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. 1 cm describes the preprostatic and membranous segments.",
+        "Correct. The prostatic urethra is 3 to 4 cm long as it tunnels through the prostate gland.",
+        "Incorrect. 8 cm is not the brick's stated length for the prostatic segment.",
+        "Incorrect. 12 cm is too long for the prostatic urethra.",
+        "Incorrect. 20 cm is the total length of the male urethra."
+      ]
+    },
+    {
+      "id": 20,
+      "stem": "A urology student reviews the histology of transitional epithelium. Where in the urinary tract does transitional epithelium begin, and how many cell layers thick is it at that location?",
+      "choices": [
+        "Renal cortex, single layer",
+        "Minor calyces, two cell layers",
+        "Ureter, four to five cell layers",
+        "Bladder, six or more cell layers",
+        "Membranous urethra, three cell layers"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Transitional epithelium does not line the renal cortex.",
+        "Correct. Transitional epithelium begins in the minor calyces of the kidney, where it is two cell layers thick.",
+        "Incorrect. The ureter has four to five layers, but it is not where transitional epithelium begins.",
+        "Incorrect. The bladder has six or more layers, but it is not the origin point.",
+        "Incorrect. The membranous urethra is lined by stratified or pseudostratified columnar epithelium, not transitional."
+      ]
+    },
+    {
+      "id": 21,
+      "stem": "A medical student examines a histology slide of the bladder mucosa. Beneath the urothelium, the lamina propria is composed of which type of tissue?",
+      "choices": [
+        "Dense regular connective tissue",
+        "Areolar connective tissue",
+        "Skeletal muscle",
+        "Adipose tissue",
+        "Cartilage"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Dense regular connective tissue is found in tendons and ligaments, not bladder lamina propria.",
+        "Correct. The bladder and ureter lamina propria contains loose (areolar) connective tissue, which facilitates folding and stretching.",
+        "Incorrect. The lamina propria is connective tissue, not skeletal muscle.",
+        "Incorrect. Adipose tissue is in the adventitia, not the lamina propria.",
+        "Incorrect. Cartilage is not present in the bladder wall."
+      ]
+    },
+    {
+      "id": 22,
+      "stem": "A medical student notes that the brick uses an analogy comparing the urinary tract wall to an insulated pipe. In this analogy, which functional role corresponds to the muscularis layer?",
+      "choices": [
+        "Forms the pipe itself",
+        "Resists the transported liquid",
+        "Provides outer insulation",
+        "Filters the contents",
+        "Generates the fluid"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. The muscularis is the middle layer and forms the pipe itself in the brick's insulated-pipe analogy.",
+        "Incorrect. Resisting the liquid is the role of the inner mucosa, not the muscularis.",
+        "Incorrect. Outer insulation corresponds to the adventitia or serosa.",
+        "Incorrect. Filtration is a renal function, not the muscularis role in this analogy.",
+        "Incorrect. The urinary tract wall does not generate urine."
+      ]
+    },
+    {
+      "id": 23,
+      "stem": "A medical student compares the female urethra to the male urethra. Which statement about the female urethra is correct according to the brick?",
+      "choices": [
+        "Has four distinct named segments",
+        "Lined entirely by stratified squamous epithelium",
+        "Is 10 to 15 cm long",
+        "Transitional then stratified squamous",
+        "Lacks an external urethral sphincter"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. The female urethra does not have distinct named segments; that is a male feature.",
+        "Incorrect. The female urethra begins with transitional epithelium and transitions to stratified squamous.",
+        "Incorrect. The female urethra is 3 to 5 cm long.",
+        "Correct. The female urethra is lined initially by transitional epithelium and transitions to stratified squamous epithelium distally, mirroring the male pattern.",
+        "Incorrect. The female urethra has an external urethral sphincter where it crosses the urogenital diaphragm."
+      ]
+    },
+    {
+      "id": 24,
+      "stem": "A pathology resident is shown a histologic cross-section of a tubular structure with a stellate lumen, urothelium four to five cells thick, three layers of smooth muscle, and an outer adventitia containing adipose tissue. Which structure is this?",
+      "choices": [
+        "Urinary bladder",
+        "Ureter",
+        "Prostatic urethra",
+        "Penile urethra",
+        "Renal pelvis"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. The bladder has six or more epithelial layers and a much thicker muscularis (detrusor).",
+        "Correct. The ureter has urothelium four to five cells thick, three smooth muscle layers, and an outer adventitia with vessels, nerves, and adipose tissue.",
+        "Incorrect. The prostatic urethra tunnels through the prostate and is not surrounded by adventitia with adipose tissue in this pattern.",
+        "Incorrect. The penile urethra is surrounded by corpus spongiosum, not adventitia with adipose.",
+        "Incorrect. The renal pelvis has a much thinner epithelium and is not described with this three-muscle-layer pattern."
+      ]
+    },
+    {
+      "id": 25,
+      "stem": "A medical student examines a urinary tract section that contains all three epithelial types along its length: transitional, pseudostratified columnar, and stratified squamous. Which structure is this?",
+      "choices": [
+        "Female urethra",
+        "Male membranous urethra",
+        "Male penile urethra",
+        "Male urethra (overall)",
+        "Ureter"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. The female urethra transitions from transitional to stratified squamous but lacks a distinct pseudostratified columnar segment.",
+        "Incorrect. The membranous segment alone is stratified or pseudostratified columnar; it does not contain all three.",
+        "Incorrect. The penile urethra has pseudostratified columnar and stratified squamous, but not transitional.",
+        "Correct. The male urethra as a whole contains all three: transitional (preprostatic/prostatic), pseudostratified columnar (membranous and proximal penile), and stratified squamous (distal penile).",
+        "Incorrect. The ureter is lined only by transitional epithelium."
+      ]
+    }
+  ]
+}

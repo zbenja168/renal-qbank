@@ -54,6 +54,16 @@
     { "id": 52, "title": "Renal Papillary Necrosis", "available": true },
     { "id": 53, "title": "Cystitis and Pyelonephritis", "available": true },
     { "id": 54, "title": "Renal Stones", "available": true },
-    { "id": 55, "title": "Renal: Schistosomiasis", "available": true }
+    { "id": 55, "title": "Renal: Schistosomiasis", "available": true },
+    { "id": 56, "title": "Histology of the Ureters, Bladder, and Urethra", "available": true },
+    { "id": 57, "title": "Congenital Disorders of the Lower Urinary Tract", "available": true },
+    { "id": 58, "title": "Polycystic Kidney Disease", "available": true },
+    { "id": 59, "title": "Medullary Sponge Kidney", "available": true },
+    { "id": 60, "title": "Wilms Tumor", "available": true },
+    { "id": 61, "title": "Renal Cell Carcinoma", "available": true },
+    { "id": 62, "title": "Other Renal Tumors (Oncocytoma and Angiomyolipoma)", "available": true },
+    { "id": 63, "title": "Bladder Cancer", "available": true },
+    { "id": 64, "title": "Micturition", "available": true },
+    { "id": 65, "title": "Bladder Dysfunction: Urinary Incontinence and Neurogenic Bladder", "available": true }
   ]
 }

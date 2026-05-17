@@ -1,0 +1,481 @@
+{
+  "id": 61,
+  "title": "Renal Cell Carcinoma",
+  "questions": [
+    {
+      "id": 1,
+      "stem": "A 62-year-old woman presents with right flank pain and gross hematuria for one week. Renal ultrasound reveals a solid mass in her right kidney rather than the suspected kidney stone. Which malignancy is most likely?",
+      "choices": [
+        "Transitional cell carcinoma",
+        "Renal cell carcinoma",
+        "Wilms tumor",
+        "Renal lymphoma",
+        "Squamous cell carcinoma"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Transitional cell carcinoma typically arises from the renal pelvis or ureter, not the renal parenchyma.",
+        "Correct. RCC is the most common primary renal malignancy of adults and classically presents with hematuria and a solid renal mass.",
+        "Incorrect. Wilms tumor is a pediatric renal tumor, not an adult malignancy.",
+        "Incorrect. Primary renal lymphoma is rare and not the most common renal mass in an adult.",
+        "Incorrect. Squamous cell carcinoma of the kidney is rare and linked to chronic irritation, not this presentation."
+      ]
+    },
+    {
+      "id": 2,
+      "stem": "A 65-year-old man with a 40-pack-year smoking history is diagnosed with renal cell carcinoma. Which risk factor is the most significant modifiable contributor to his disease?",
+      "choices": [
+        "Hypertension",
+        "Obesity",
+        "Tobacco use",
+        "Family history",
+        "Asbestos exposure"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Hypertension is a risk factor but not the most significant.",
+        "Incorrect. Obesity contributes to RCC risk but is not the most significant.",
+        "Correct. Tobacco use is the most significant risk factor; smoking doubles the incidence of RCC.",
+        "Incorrect. Family history matters but is not the leading risk factor.",
+        "Incorrect. Asbestos is an occupational risk factor but not the most significant overall."
+      ]
+    },
+    {
+      "id": 3,
+      "stem": "A 70-year-old man presents with painless gross hematuria, right flank pain, and a palpable right flank mass. He is otherwise asymptomatic. This presentation is known as the classic triad of which condition?",
+      "choices": [
+        "Bladder cancer",
+        "Renal cell carcinoma",
+        "Polycystic kidney disease",
+        "Pyelonephritis",
+        "Nephrolithiasis"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Bladder cancer presents with hematuria but not flank mass and flank pain as a classic triad.",
+        "Correct. The classic triad of hematuria, flank pain, and palpable flank mass is the textbook RCC presentation but occurs in only ~10% of cases.",
+        "Incorrect. PKD presents with bilateral cystic kidneys and hypertension, not this triad.",
+        "Incorrect. Pyelonephritis presents with fever, dysuria, and CVA tenderness.",
+        "Incorrect. Stones cause colicky pain and hematuria but not a palpable mass."
+      ]
+    },
+    {
+      "id": 4,
+      "stem": "A 58-year-old man with newly diagnosed renal cell carcinoma is being counseled on the histologic types. Which subtype accounts for the majority of cases?",
+      "choices": [
+        "Papillary carcinoma",
+        "Chromophobe carcinoma",
+        "Clear cell carcinoma",
+        "Collecting duct carcinoma",
+        "Medullary carcinoma"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Papillary carcinoma accounts for ~15% of RCCs.",
+        "Incorrect. Chromophobe carcinoma is the least common at ~5%.",
+        "Correct. Clear cell carcinoma is the most common subtype, accounting for ~70% of RCCs.",
+        "Incorrect. Collecting duct carcinoma is rare and not among the three main subtypes.",
+        "Incorrect. Medullary carcinoma is rare and associated with sickle cell trait."
+      ]
+    },
+    {
+      "id": 5,
+      "stem": "A pathologist examines a nephrectomy specimen and describes a golden-yellow tumor in the upper pole with areas of hemorrhage and necrosis. Microscopy shows nests of cells with clear cytoplasm. From which structure does this tumor arise?",
+      "choices": [
+        "Distal convoluted tubule",
+        "Collecting duct intercalated cells",
+        "Glomerular podocytes",
+        "Proximal tubular epithelium",
+        "Loop of Henle"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. The distal convoluted tubule gives rise to papillary RCC, not clear cell.",
+        "Incorrect. Intercalated cells of collecting ducts give rise to chromophobe carcinoma.",
+        "Incorrect. Podocytes do not give rise to RCC.",
+        "Correct. Clear cell carcinoma arises from the proximal tubular epithelium; the yellow color is from intracellular lipid accumulation.",
+        "Incorrect. The loop of Henle is not the origin of clear cell RCC."
+      ]
+    },
+    {
+      "id": 6,
+      "stem": "A 45-year-old man is found to have bilateral renal masses, retinal angiomas, and a cerebellar hemangioblastoma. Loss of which chromosome region is most likely responsible?",
+      "choices": [
+        "Chromosome 3p",
+        "Chromosome 5q",
+        "Chromosome 17p",
+        "Chromosome 11p",
+        "Chromosome 22q"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Loss of the short arm (3p) contains the VHL gene locus and underlies clear cell RCC and von Hippel-Lindau disease.",
+        "Incorrect. 5q deletions are associated with myelodysplastic syndromes, not RCC.",
+        "Incorrect. 17p contains TP53 but is not the VHL locus.",
+        "Incorrect. 11p contains the WT1 gene associated with Wilms tumor.",
+        "Incorrect. 22q is associated with NF2 and DiGeorge syndrome."
+      ]
+    },
+    {
+      "id": 7,
+      "stem": "A medical student is studying the molecular biology of clear cell RCC. When the VHL protein is inactive, which transcription factor accumulates and drives oncogenic gene expression?",
+      "choices": [
+        "p53",
+        "MYC",
+        "NF-kB",
+        "HIF-1",
+        "STAT3"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. p53 is a tumor suppressor not regulated by VHL.",
+        "Incorrect. MYC collaborates with HIF in metabolic reprogramming but is not the factor stabilized by VHL loss.",
+        "Incorrect. NF-kB is not the transcription factor targeted by the VHL ubiquitin ligase complex.",
+        "Correct. VHL normally targets HIF-1 for O2-dependent degradation; when VHL is inactive, HIF-1 accumulates and drives VEGF and IGF-1 expression.",
+        "Incorrect. STAT3 is not the substrate of the VHL ubiquitin ligase complex."
+      ]
+    },
+    {
+      "id": 8,
+      "stem": "A 50-year-old man with VHL disease is found to have a clear cell renal mass. Loss of VHL function leads to upregulation of which pro-angiogenic factor?",
+      "choices": [
+        "VEGF",
+        "PDGF",
+        "TGF-beta",
+        "FGF-2",
+        "Angiotensin II"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. HIF-1 accumulation drives VEGF expression, promoting angiogenesis in RCC tumors.",
+        "Incorrect. PDGF is not the brick's stated HIF-driven angiogenic factor in RCC.",
+        "Incorrect. TGF-beta is involved in fibrosis and immunosuppression, not HIF-driven angiogenesis in RCC.",
+        "Incorrect. FGF-2 is angiogenic but not the brick-highlighted HIF target.",
+        "Incorrect. Angiotensin II is a vasoconstrictor, not a HIF-induced angiogenic factor."
+      ]
+    },
+    {
+      "id": 9,
+      "stem": "A 55-year-old man undergoes nephrectomy for a renal mass. Pathology shows multifocal bilateral tumors with papillae lined by neoplastic cells, foamy macrophages in the cores, and psammoma bodies. Which oncogene mutation is most associated?",
+      "choices": [
+        "VHL",
+        "MET",
+        "RET",
+        "BRAF",
+        "KRAS"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. VHL is associated with clear cell carcinoma, not papillary.",
+        "Correct. Papillary RCC arises from the distal convoluted tubule and is associated with MET oncogene mutations.",
+        "Incorrect. RET mutations underlie MEN2 and medullary thyroid cancer.",
+        "Incorrect. BRAF is associated with melanoma and colorectal cancers.",
+        "Incorrect. KRAS is associated with pancreatic and colorectal cancers, not papillary RCC."
+      ]
+    },
+    {
+      "id": 10,
+      "stem": "A nephrectomy specimen shows a small, well-circumscribed tan-brown tumor. Microscopy reveals sheets of pale eosinophilic cells with perinuclear halos. What is the most likely subtype?",
+      "choices": [
+        "Clear cell carcinoma",
+        "Papillary carcinoma",
+        "Chromophobe carcinoma",
+        "Oncocytoma",
+        "Collecting duct carcinoma"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Clear cell carcinoma has clear cytoplasm and a yellow gross appearance.",
+        "Incorrect. Papillary carcinoma shows papillary structures with foam cells, not perinuclear halos.",
+        "Correct. Chromophobe carcinoma arises from collecting duct intercalated cells and shows pale eosinophilic cells with perinuclear halos.",
+        "Incorrect. Oncocytoma is benign and has different histology with abundant mitochondria.",
+        "Incorrect. Collecting duct carcinoma is aggressive and rare, with different histology."
+      ]
+    },
+    {
+      "id": 11,
+      "stem": "A 60-year-old woman with renal cell carcinoma is found to have hypercalcemia despite normal PTH levels and no bone metastases. Which mediator is most likely responsible?",
+      "choices": [
+        "Calcitriol from granulomas",
+        "Calcitonin secretion",
+        "PTH-related peptide",
+        "Vitamin D toxicity",
+        "Direct bone metastases"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Calcitriol-mediated hypercalcemia occurs in granulomatous disease, not RCC.",
+        "Incorrect. Calcitonin lowers calcium and is not the mediator here.",
+        "Correct. RCC commonly secretes PTHrP, producing humoral hypercalcemia of malignancy; resolution often signals successful cancer treatment.",
+        "Incorrect. Dietary vitamin D excess is not the RCC-related mechanism.",
+        "Incorrect. The vignette states there are no bone metastases."
+      ]
+    },
+    {
+      "id": 12,
+      "stem": "A 64-year-old man with renal cell carcinoma is found to have hematocrit of 58% with no smoking history or lung disease. Which paraneoplastic mechanism best explains this finding?",
+      "choices": [
+        "PTHrP secretion",
+        "Tumor erythropoietin",
+        "Ectopic cortisol secretion",
+        "Ectopic calcitonin",
+        "Inappropriate ADH release"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. PTHrP causes hypercalcemia, not polycythemia.",
+        "Correct. RCC can produce erythropoietin, causing elevated hematocrit (secondary polycythemia).",
+        "Incorrect. Cortisol excess causes Cushing features, not polycythemia.",
+        "Incorrect. Calcitonin secretion is not an RCC paraneoplastic feature.",
+        "Incorrect. ADH excess causes SIADH and hyponatremia, not polycythemia."
+      ]
+    },
+    {
+      "id": 13,
+      "stem": "A 67-year-old man with renal cell carcinoma has fatigue and pallor. CBC shows hemoglobin of 9.2 g/dL with normal iron studies. Which paraneoplastic syndrome is most likely?",
+      "choices": [
+        "Iron deficiency anemia",
+        "Anemia of chronic disease",
+        "Autoimmune hemolysis",
+        "Aplastic anemia",
+        "Pernicious anemia"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Iron studies are normal, ruling out iron deficiency.",
+        "Correct. Anemia of chronic disease occurs in 30-90% of RCC patients and is the most common paraneoplastic finding.",
+        "Incorrect. Hemolytic anemia would show elevated LDH and indirect bilirubin.",
+        "Incorrect. Aplastic anemia causes pancytopenia, not the RCC pattern described.",
+        "Incorrect. Pernicious anemia is due to B12 deficiency from intrinsic factor loss."
+      ]
+    },
+    {
+      "id": 14,
+      "stem": "A 58-year-old woman presents with hematuria. Workup is concerning for renal cell carcinoma. Which imaging study is the preferred diagnostic test?",
+      "choices": [
+        "Contrast CT abdomen/pelvis",
+        "Plain abdominal X-ray",
+        "Whole-body bone scan",
+        "FDG-PET scan",
+        "MR angiography of renal vessels"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Contrast-enhanced CT of the abdomen and pelvis is the preferred study for suspected RCC.",
+        "Incorrect. Plain X-ray cannot identify renal masses.",
+        "Incorrect. Bone scan is used for metastatic workup, not initial diagnosis.",
+        "Incorrect. PET scan is not the preferred initial study for RCC.",
+        "Incorrect. MR angiography is not first-line for diagnosis of RCC."
+      ]
+    },
+    {
+      "id": 15,
+      "stem": "A 32-year-old pregnant woman presents with flank pain and hematuria. A renal mass is suspected. Which imaging study is most appropriate?",
+      "choices": [
+        "CT with IV contrast",
+        "Renal ultrasound",
+        "PET scan",
+        "Plain abdominal X-ray",
+        "Bone scan"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. CT with contrast exposes the fetus to radiation and contrast.",
+        "Correct. Renal ultrasound is preferred when patients cannot receive radiation (pregnancy) or IV contrast (decreased kidney function).",
+        "Incorrect. PET scan uses radiation and is not appropriate in pregnancy.",
+        "Incorrect. X-rays use radiation and cannot characterize renal masses.",
+        "Incorrect. Bone scan uses radiation and is not the initial test."
+      ]
+    },
+    {
+      "id": 16,
+      "stem": "A 60-year-old man is diagnosed with a 5 cm renal mass on CT, with imaging features highly suspicious for RCC and no metastases. What is the next step in management?",
+      "choices": [
+        "Needle biopsy before any therapy",
+        "Chemotherapy alone",
+        "Radiation therapy",
+        "Surgical resection",
+        "Watchful waiting only"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Biopsy is typically not required because surgical resection provides both diagnosis and cure.",
+        "Incorrect. RCC is relatively chemoresistant and chemotherapy is not first-line.",
+        "Incorrect. RCC is relatively radioresistant.",
+        "Correct. For localized RCC in surgical candidates, surgical resection (partial or radical nephrectomy) is the standard management.",
+        "Incorrect. Watchful waiting is only considered in older patients with small tumors who are poor surgical candidates."
+      ]
+    },
+    {
+      "id": 17,
+      "stem": "A 55-year-old man undergoes radical nephrectomy for renal cell carcinoma. Which structures are removed in a radical (as opposed to limited) nephrectomy?",
+      "choices": [
+        "Kidney only",
+        "Kidney plus bladder",
+        "Kidney, adrenal, regional nodes",
+        "Both kidneys removed",
+        "Kidney and contralateral adrenal"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Removing only the kidney describes a limited (partial) nephrectomy.",
+        "Incorrect. The bladder is not removed in a standard radical nephrectomy.",
+        "Correct. Radical nephrectomy removes the kidney, the ipsilateral adrenal gland, and nearby lymph nodes.",
+        "Incorrect. The contralateral kidney is preserved.",
+        "Incorrect. Only the ipsilateral adrenal is removed, not the contralateral."
+      ]
+    },
+    {
+      "id": 18,
+      "stem": "A 78-year-old man with severe COPD and heart failure has a small renal mass suspicious for RCC. He is not a surgical candidate. Which option is reasonable?",
+      "choices": [
+        "Cryotherapy or RF ablation",
+        "High-dose chemotherapy",
+        "Whole-body radiation therapy",
+        "Bilateral radical nephrectomy",
+        "Allogeneic bone marrow transplant"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Cryotherapy and radiofrequency ablation are ablative procedures used in patients who are not good surgical candidates.",
+        "Incorrect. RCC is relatively chemoresistant and high-dose chemotherapy is not standard.",
+        "Incorrect. Whole-body radiation is not appropriate therapy.",
+        "Incorrect. Bilateral nephrectomy is not indicated for a unilateral mass.",
+        "Incorrect. Bone marrow transplant has no role in RCC therapy."
+      ]
+    },
+    {
+      "id": 19,
+      "stem": "A 60-year-old woman with metastatic RCC is to receive systemic therapy. Which agent is a checkpoint inhibitor targeting PD-1?",
+      "choices": [
+        "Ipilimumab",
+        "Sunitinib",
+        "Axitinib",
+        "Belzutifan",
+        "Nivolumab"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. Ipilimumab targets CTLA-4, not PD-1.",
+        "Incorrect. Sunitinib is a VEGF/tyrosine kinase inhibitor, not a checkpoint inhibitor.",
+        "Incorrect. Axitinib is a VEGFR tyrosine kinase inhibitor.",
+        "Incorrect. Belzutifan is a HIF-2alpha inhibitor.",
+        "Correct. Nivolumab is an anti-PD-1 checkpoint inhibitor used in metastatic RCC, often combined with ipilimumab."
+      ]
+    },
+    {
+      "id": 20,
+      "stem": "A 62-year-old man with refractory metastatic clear cell RCC is started on belzutifan. What is its mechanism of action?",
+      "choices": [
+        "PD-1 inhibitor",
+        "CTLA-4 inhibitor",
+        "VEGFR tyrosine kinase inhibitor",
+        "HIF-2alpha inhibitor",
+        "mTOR inhibitor"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. PD-1 inhibition describes nivolumab and pembrolizumab.",
+        "Incorrect. CTLA-4 inhibition describes ipilimumab.",
+        "Incorrect. VEGFR TKI describes axitinib or sunitinib.",
+        "Correct. Belzutifan is a HIF-2alpha inhibitor used in refractory RCC; it targets the oncogenic HIF pathway driven by VHL loss.",
+        "Incorrect. mTOR inhibition describes everolimus."
+      ]
+    },
+    {
+      "id": 21,
+      "stem": "A 70-year-old man with metastatic RCC is treated with high-dose interleukin-2. Which severe toxicity should be monitored for?",
+      "choices": [
+        "Capillary leak syndrome",
+        "Idiopathic pulmonary fibrosis",
+        "Severe peripheral neuropathy",
+        "Hemorrhagic pancreatitis",
+        "Dilated cardiomyopathy"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. High-dose IL-2 can cause capillary leak syndrome with hypotension, arrhythmias, renal dysfunction, and multi-organ toxicity.",
+        "Incorrect. Pulmonary fibrosis is not the classic IL-2 toxicity highlighted in the brick.",
+        "Incorrect. Peripheral neuropathy is more typical of platinum or vinca agents.",
+        "Incorrect. Pancreatitis is not the characteristic IL-2 toxicity.",
+        "Incorrect. Cardiomyopathy is not the brick's described IL-2 toxicity."
+      ]
+    },
+    {
+      "id": 22,
+      "stem": "A 65-year-old man with metastatic RCC undergoes nephrectomy despite having distant metastases. What is the primary rationale?",
+      "choices": [
+        "Curative resection",
+        "Cytoreductive surgery",
+        "Diagnostic confirmation only",
+        "Preventing recurrence in the other kidney",
+        "Pain control only"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Surgery in metastatic disease is not curative.",
+        "Correct. Cytoreductive surgery reduces tumor burden in metastatic RCC, an approach unusual for most cancers but used in RCC.",
+        "Incorrect. Diagnosis is typically already established by imaging in metastatic disease.",
+        "Incorrect. RCC tends to be unilateral and metastasizes hematogenously, not to the contralateral kidney via spread.",
+        "Incorrect. Pain control is not the primary rationale for nephrectomy in metastatic disease."
+      ]
+    },
+    {
+      "id": 23,
+      "stem": "A 58-year-old man with renal cell carcinoma has imaging showing tumor extending beyond the kidney capsule. Which structure represents the local boundary the tumor may breach first?",
+      "choices": [
+        "Bowman capsule",
+        "Inner renal capsule",
+        "Gerota fascia",
+        "Posterior peritoneum",
+        "Diaphragmatic crus"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Bowman capsule is a glomerular structure, not a perirenal boundary.",
+        "Incorrect. The inner renal capsule sits closer to the parenchyma; Gerota fascia is the perinephric boundary referenced in staging.",
+        "Correct. RCC may extend locally through the renal (Gerota) fascia into perinephric fat and into the adrenal gland.",
+        "Incorrect. The kidney is retroperitoneal and not bounded by peritoneum directly.",
+        "Incorrect. The diaphragm is superior and not the first local boundary breached."
+      ]
+    },
+    {
+      "id": 24,
+      "stem": "A 60-year-old man with renal cell carcinoma has metastases on staging workup. RCC is unusual among carcinomas because it preferentially metastasizes via which route?",
+      "choices": [
+        "Lymphatic spread",
+        "Hematogenous spread",
+        "Direct seeding via peritoneum",
+        "Perineural invasion",
+        "Transcoelomic spread"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Most carcinomas spread lymphatically; RCC is an exception.",
+        "Correct. RCC has a predilection for hematogenous over lymphatic spread, which is unique among carcinomas; it commonly metastasizes to lungs, bones, liver, and brain.",
+        "Incorrect. Peritoneal seeding is typical of ovarian or gastric cancers.",
+        "Incorrect. Perineural invasion is characteristic of pancreatic and prostate cancers.",
+        "Incorrect. Transcoelomic spread is not the RCC pattern."
+      ]
+    },
+    {
+      "id": 25,
+      "stem": "A 70-year-old man undergoes nephrectomy revealing clear cell RCC confined to the kidney without metastases. What is his approximate 5-year survival rate?",
+      "choices": [
+        "5%",
+        "25%",
+        "50%",
+        "70%",
+        "95%"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. 5% survival is far worse than localized RCC outcomes.",
+        "Incorrect. 25% is too low for nonmetastatic disease.",
+        "Incorrect. 50% is too low for localized RCC.",
+        "Incorrect. 70% is the survival rate for metastatic disease, not localized.",
+        "Correct. The 5-year survival rate for nonmetastatic RCC is up to 95%; metastatic disease is ~70%."
+      ]
+    }
+  ]
+}

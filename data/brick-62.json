@@ -1,0 +1,481 @@
+{
+  "id": 62,
+  "title": "Other Renal Tumors (Oncocytoma and Angiomyolipoma)",
+  "questions": [
+    {
+      "id": 1,
+      "stem": "A 65-year-old woman undergoes abdominal CT for vague flank pain. A well-circumscribed, mahogany-brown renal mass with a possible central stellate scar is resected. Pathology shows no necrosis. From which cell type does this tumor originate?",
+      "choices": [
+        "Proximal tubule epithelial cells",
+        "Glomerular visceral podocytes",
+        "Collecting duct intercalated cells",
+        "Perivascular epithelioid cells",
+        "Glomerular mesangial cells"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Proximal tubule cells give rise to clear cell renal cell carcinoma.",
+        "Incorrect. Podocytes are visceral epithelial cells of the glomerulus, not the origin of oncocytoma.",
+        "Correct. Renal oncocytoma is thought to originate from intercalated cells of the collecting duct.",
+        "Incorrect. Perivascular epithelioid cells give rise to angiomyolipoma.",
+        "Incorrect. Mesangial cells are glomerular support cells and are unrelated to oncocytoma."
+      ]
+    },
+    {
+      "id": 2,
+      "stem": "A 70-year-old man undergoes nephrectomy for a renal mass. The resected tumor is mahogany brown, well-circumscribed but not encapsulated, with a central stellate scar and no necrosis. Which diagnosis fits best?",
+      "choices": [
+        "Renal cell carcinoma",
+        "Renal oncocytoma",
+        "Angiomyolipoma",
+        "Wilms tumor",
+        "Urothelial carcinoma"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. RCC is golden yellow with hemorrhage and necrosis.",
+        "Correct. Mahogany-brown color, sharp circumscription without a capsule, no necrosis, and a central stellate scar are characteristic of renal oncocytoma.",
+        "Incorrect. AML contains gross fat and is not described as mahogany brown.",
+        "Incorrect. Wilms tumor is a pediatric tumor, not a finding in older adults.",
+        "Incorrect. Urothelial carcinoma arises in the urinary tract lining, not as a brown parenchymal mass."
+      ]
+    },
+    {
+      "id": 3,
+      "stem": "A 68-year-old man with an incidental renal mass undergoes biopsy. Histology shows large cells with small benign-appearing nuclei, no mitotic figures, and intensely eosinophilic cytoplasm. Which organelle accounts for the cytoplasmic appearance?",
+      "choices": [
+        "Lysosomes",
+        "Peroxisomes",
+        "Rough endoplasmic reticulum",
+        "Mitochondria",
+        "Golgi apparatus"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Lysosomes do not produce the diffusely eosinophilic appearance described.",
+        "Incorrect. Peroxisomes are not the source of cytoplasmic eosinophilia in oncocytoma.",
+        "Incorrect. Abundant RER would impart basophilia, not eosinophilia.",
+        "Correct. Oncocytes contain abundant mitochondria, giving the cytoplasm its intense eosinophilic appearance.",
+        "Incorrect. The Golgi apparatus is not responsible for the eosinophilic cytoplasm of oncocytes."
+      ]
+    },
+    {
+      "id": 4,
+      "stem": "A 72-year-old man has a 4-cm renal mass detected incidentally on CT. He has no symptoms. According to the brick, what fraction of patients with renal oncocytoma are asymptomatic?",
+      "choices": [
+        "About 25%",
+        "About 50%",
+        "About 75%",
+        "Essentially 0%",
+        "Essentially 100%"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Only a minority of patients have symptoms; the asymptomatic fraction is higher.",
+        "Incorrect. The brick specifies a higher proportion than half.",
+        "Correct. About three-quarters (75%) of patients with renal oncocytoma are asymptomatic.",
+        "Incorrect. A small fraction do have symptoms such as hematuria or flank pain.",
+        "Incorrect. Some patients are symptomatic, so the asymptomatic fraction is not 100%."
+      ]
+    },
+    {
+      "id": 5,
+      "stem": "A 60-year-old man with a renal oncocytoma develops gross hematuria, flank pain, and a palpable flank mass. This triad is most classically associated with which malignancy that oncocytoma can mimic?",
+      "choices": [
+        "Wilms tumor",
+        "Bladder squamous cell carcinoma",
+        "Renal cell carcinoma",
+        "Urothelial carcinoma",
+        "Adrenal cortical carcinoma"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Wilms tumor is a pediatric tumor and does not share this adult triad.",
+        "Incorrect. Bladder SCC presents with terminal hematuria, not a flank mass triad.",
+        "Correct. The triad of hematuria, flank pain, and flank mass is classically described for renal cell carcinoma, and oncocytoma can mimic it.",
+        "Incorrect. Urothelial carcinoma typically presents with painless hematuria, not this triad.",
+        "Incorrect. Adrenal cortical carcinoma is not the tumor associated with this triad."
+      ]
+    },
+    {
+      "id": 6,
+      "stem": "A 55-year-old man undergoes resection of a renal mass. Gross examination reveals invasion into the renal vein and perirenal fat. Which feature does this finding argue against?",
+      "choices": [
+        "Renal oncocytoma",
+        "Clear cell RCC",
+        "Papillary RCC",
+        "Sarcomatoid RCC",
+        "Collecting duct carcinoma"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Renal oncocytomas never grossly invade renal vessels or perirenal fat; such invasion essentially excludes oncocytoma and favors RCC.",
+        "Incorrect. Clear cell RCC commonly invades the renal vein.",
+        "Incorrect. Papillary RCC can invade vessels and perirenal fat.",
+        "Incorrect. Sarcomatoid RCC is aggressive and can show vascular invasion.",
+        "Incorrect. Collecting duct carcinoma is malignant and can invade adjacent structures."
+      ]
+    },
+    {
+      "id": 7,
+      "stem": "A 66-year-old man undergoes CT for hematuria. A small, sharply demarcated renal lesion with a central stellate scar is seen. Why does the brick still recommend surgical resection despite the suggestive imaging?",
+      "choices": [
+        "Stellate scar always indicates malignancy",
+        "Imaging cannot reliably exclude RCC",
+        "Oncocytomas frequently metastasize early",
+        "Oncocytomas are highly radiosensitive tumors",
+        "Resection prevents tuberous sclerosis onset"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. A central stellate scar is characteristic of oncocytoma but is also seen in RCC.",
+        "Correct. Imaging cannot reliably distinguish oncocytoma from RCC, so resection is performed to exclude malignancy.",
+        "Incorrect. Oncocytomas are benign and do not metastasize.",
+        "Incorrect. Radiotherapy is not the management strategy described in the brick.",
+        "Incorrect. Tuberous sclerosis is associated with angiomyolipoma, not oncocytoma."
+      ]
+    },
+    {
+      "id": 8,
+      "stem": "A 71-year-old patient is diagnosed with a 3-cm renal oncocytoma. According to the brick, which management is most appropriate?",
+      "choices": [
+        "Surgical resection",
+        "Watchful waiting only",
+        "Radiation therapy alone",
+        "Interleukin-2 immunotherapy",
+        "Empiric antibiotics"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Surgical resection is the most common treatment because oncocytoma cannot reliably be distinguished from RCC preoperatively.",
+        "Incorrect. Watchful waiting alone is not the standard because malignancy cannot be excluded by imaging.",
+        "Incorrect. Radiation therapy is not the standard treatment for oncocytoma.",
+        "Incorrect. IL-2 immunotherapy is used for metastatic RCC, not benign oncocytoma.",
+        "Incorrect. Antibiotics have no role in treating a renal tumor."
+      ]
+    },
+    {
+      "id": 9,
+      "stem": "A 64-year-old man with a small renal oncocytoma wishes to preserve as much functional kidney tissue as possible. Which surgical option does the brick describe for this purpose?",
+      "choices": [
+        "Radical nephrectomy",
+        "Bilateral nephrectomy",
+        "Partial nephrectomy",
+        "Ureteral stenting",
+        "Adrenalectomy"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Radical nephrectomy removes the entire kidney and sacrifices normal tissue.",
+        "Incorrect. Bilateral nephrectomy would leave the patient anephric.",
+        "Correct. Partial nephrectomy can be used to preserve normal kidney tissue when resecting an oncocytoma.",
+        "Incorrect. Ureteral stenting addresses obstruction, not parenchymal tumors.",
+        "Incorrect. Adrenalectomy targets the adrenal gland, not the kidney."
+      ]
+    },
+    {
+      "id": 10,
+      "stem": "A 78-year-old man with multiple comorbidities is found to have a small renal oncocytoma. He is a poor surgical candidate. Which non-surgical option does the brick list as an alternative?",
+      "choices": [
+        "Therapeutic plasma exchange therapy",
+        "Cisplatin-based chemoembolization",
+        "External beam radiation therapy",
+        "Cryoablation or radiofrequency ablation",
+        "Chronic outpatient hemodialysis"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Plasma exchange is not used for solid renal tumors.",
+        "Incorrect. Cisplatin chemoembolization is not the brick's described alternative.",
+        "Incorrect. External beam radiation is not described as standard therapy.",
+        "Correct. Cryoablation and radiofrequency ablation are described as alternatives to surgical resection.",
+        "Incorrect. Hemodialysis treats renal failure, not renal tumors."
+      ]
+    },
+    {
+      "id": 11,
+      "stem": "A 45-year-old woman is found to have a renal mass composed grossly of fat, smooth muscle, and abnormal blood vessels. Which tumor is this?",
+      "choices": [
+        "Renal oncocytoma",
+        "Wilms tumor",
+        "Angiomyolipoma",
+        "Clear cell RCC",
+        "Urothelial carcinoma"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Oncocytomas are composed of eosinophilic oncocytes, not fat and smooth muscle.",
+        "Incorrect. Wilms tumor contains blastemal, stromal, and epithelial elements, not classical AML components.",
+        "Correct. Angiomyolipoma is composed of blood vessels (angio), smooth muscle (myo), and fat (lipo).",
+        "Incorrect. Clear cell RCC consists of polygonal clear cells, not the three AML components.",
+        "Incorrect. Urothelial carcinoma arises from urothelium and does not contain fat and smooth muscle."
+      ]
+    },
+    {
+      "id": 12,
+      "stem": "A 14-year-old boy with hypopigmented skin macules, facial angiofibromas, and epilepsy is found on imaging to have multiple bilateral renal masses with gross fat. Which underlying genetic syndrome is most likely?",
+      "choices": [
+        "Von Hippel-Lindau",
+        "Neurofibromatosis type 1",
+        "Neurofibromatosis type 2",
+        "Sturge-Weber syndrome",
+        "Tuberous sclerosis"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. VHL is associated with clear cell RCC and hemangioblastomas, not AML.",
+        "Incorrect. NF1 features neurofibromas and cafe-au-lait spots, not AML.",
+        "Incorrect. NF2 causes bilateral vestibular schwannomas, not AML.",
+        "Incorrect. Sturge-Weber features port-wine stains and leptomeningeal angiomas, not AML.",
+        "Correct. Tuberous sclerosis features angiofibromas, hypopigmented macules, epilepsy, and renal AMLs."
+      ]
+    },
+    {
+      "id": 13,
+      "stem": "A 22-year-old woman with tuberous sclerosis has multiple bilateral renal angiomyolipomas. Loss-of-function mutations in which gene pair underlie her tumors?",
+      "choices": [
+        "VHL and HIF1A",
+        "TSC1 and TSC2",
+        "BRCA1 and BRCA2",
+        "MLH1 and MSH2",
+        "RB1 and TP53"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. VHL mutations cause Von Hippel-Lindau syndrome, not tuberous sclerosis.",
+        "Correct. AML in tuberous sclerosis is caused by loss-of-function mutations in the TSC1 and TSC2 tumor suppressor genes.",
+        "Incorrect. BRCA mutations predispose to breast and ovarian cancers.",
+        "Incorrect. MLH1 and MSH2 are mismatch repair genes in Lynch syndrome.",
+        "Incorrect. RB1 and TP53 are tumor suppressors not specifically tied to AML."
+      ]
+    },
+    {
+      "id": 14,
+      "stem": "A 50-year-old woman has a sporadic renal angiomyolipoma found incidentally. According to the brick, which demographic pattern fits sporadic AML?",
+      "choices": [
+        "Children, male predominance",
+        "Adults >40-50, female-predominant",
+        "Adults >40-50, male predominance",
+        "Young adults, no sex predilection",
+        "Strictly elderly women only"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Sporadic AML is a tumor of adults, not children.",
+        "Correct. Sporadic AML usually occurs in adults over 40-50 with a female-to-male ratio of about 4:1.",
+        "Incorrect. The brick describes a female, not male, predominance for sporadic AML.",
+        "Incorrect. Young patients with no sex predilection describes TSC-associated AML.",
+        "Incorrect. The age range described is over 40-50, not strictly elderly."
+      ]
+    },
+    {
+      "id": 15,
+      "stem": "A 35-year-old woman with a 7-cm renal angiomyolipoma presents with sudden severe flank pain, gross hematuria, hypotension, and a drop in hemoglobin. Which complication is most likely?",
+      "choices": [
+        "Acute pyelonephritis",
+        "Renal vein thrombosis",
+        "Retroperitoneal hemorrhage",
+        "Acute tubular necrosis",
+        "Malignant transformation"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Pyelonephritis presents with fever and pyuria, not hemorrhagic shock.",
+        "Incorrect. Renal vein thrombosis does not typically cause hemorrhagic shock from AML.",
+        "Correct. Dilated abnormal vessels in AML can rupture, producing retroperitoneal hemorrhage with hypotension and anemia.",
+        "Incorrect. ATN is a tubular injury, not a hemorrhagic complication of AML.",
+        "Incorrect. Malignant transformation is rare and does not cause this acute presentation."
+      ]
+    },
+    {
+      "id": 16,
+      "stem": "A 40-year-old woman with a known angiomyolipoma is admitted with hemorrhagic shock. The brick notes the retroperitoneal space can occultly hold up to what volume of blood?",
+      "choices": [
+        "Up to 500 mL",
+        "Up to 1 L",
+        "Up to 2 L",
+        "Up to 4 L",
+        "Up to 10 L"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. The retroperitoneum can accommodate far more than 500 mL.",
+        "Incorrect. 1 L is below the threshold described in the brick.",
+        "Incorrect. The brick specifies a larger volume than 2 L.",
+        "Correct. The retroperitoneal space can hold up to 4 L of blood without becoming externally visible.",
+        "Incorrect. 10 L exceeds the brick's stated capacity."
+      ]
+    },
+    {
+      "id": 17,
+      "stem": "A 38-year-old woman undergoes resection of a renal AML. Histology shows thick-walled vessels, spindle-shaped smooth muscle cells, and adipose tissue. Which AML variant is this?",
+      "choices": [
+        "Epithelioid AML variant",
+        "Classic angiomyolipoma",
+        "Papillary AML variant",
+        "Sarcomatoid AML variant",
+        "Cystic AML variant"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. The epithelioid variant contains large eosinophilic epithelial-like cells.",
+        "Correct. The classic AML variant contains thick-walled vessels, spindle-shaped smooth muscle cells, and adipose tissue.",
+        "Incorrect. Papillary architecture is a feature of papillary RCC, not classic AML.",
+        "Incorrect. Sarcomatoid features describe aggressive RCC, not classic AML.",
+        "Incorrect. A cystic variant is not the histology described."
+      ]
+    },
+    {
+      "id": 18,
+      "stem": "A 52-year-old man with renal AML undergoes resection. Histology shows large epithelial-like eosinophilic cells. Which complication is most associated with this AML variant?",
+      "choices": [
+        "Spontaneous tumor regression",
+        "Dystrophic calcification only",
+        "Conversion to renal oncocytoma",
+        "Malignant transformation",
+        "Fistula formation to colon"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Spontaneous regression is not the described concern.",
+        "Incorrect. Calcification is not the typical concern; AMLs are usually identified by fat, not calcium.",
+        "Incorrect. AML does not convert to oncocytoma.",
+        "Correct. The epithelioid variant of AML may transform into a malignant tumor with distant metastases.",
+        "Incorrect. Fistula formation to bowel is not the brick's described complication."
+      ]
+    },
+    {
+      "id": 19,
+      "stem": "A 48-year-old woman has a renal mass discovered on imaging. Which imaging feature on CT scan helps distinguish angiomyolipoma from renal cell carcinoma?",
+      "choices": [
+        "Central stellate scar",
+        "Macroscopic fat, no calcifications",
+        "Golden yellow cut surface",
+        "Renal cortical thinning only",
+        "Diffuse dense calcifications"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. A central stellate scar is characteristic of oncocytoma, not AML.",
+        "Correct. Macroscopic fat without calcifications on CT helps distinguish AML from RCC; fat appears as a darker density area.",
+        "Incorrect. Golden yellow color is a gross pathologic finding of RCC, not an imaging finding.",
+        "Incorrect. Cortical thinning is nonspecific and does not distinguish AML from RCC.",
+        "Incorrect. Calcifications are typical of RCC and argue against AML."
+      ]
+    },
+    {
+      "id": 20,
+      "stem": "A 55-year-old man has a suspected renal AML. According to the brick, which two imaging modalities are preferred for diagnosis?",
+      "choices": [
+        "CT or MRI",
+        "Plain radiograph or fluoroscopy",
+        "PET-CT or bone scan",
+        "Mammography or DEXA",
+        "Scintigraphy or arteriography"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Computed tomography and magnetic resonance imaging are the two preferred imaging modalities for diagnosing AML.",
+        "Incorrect. Plain films and fluoroscopy do not characterize renal masses adequately.",
+        "Incorrect. PET-CT and bone scan are not the preferred modalities for AML.",
+        "Incorrect. Mammography and DEXA evaluate breasts and bone density, not the kidney.",
+        "Incorrect. Scintigraphy and arteriography are not the brick's preferred modalities."
+      ]
+    },
+    {
+      "id": 21,
+      "stem": "A 42-year-old woman has an asymptomatic 35-mm renal AML found on CT. According to the brick, what is the most appropriate management?",
+      "choices": [
+        "Immediate radical nephrectomy",
+        "Embolization within 24 hours",
+        "Adjuvant chemotherapy",
+        "Surveillance imaging",
+        "Renal transplant evaluation"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Asymptomatic small AMLs do not require immediate nephrectomy.",
+        "Incorrect. Embolization is reserved for large or symptomatic lesions.",
+        "Incorrect. AML is benign in most cases and chemotherapy is not indicated.",
+        "Correct. Asymptomatic small AMLs are managed with surveillance imaging.",
+        "Incorrect. Transplant evaluation is unrelated to small asymptomatic AML."
+      ]
+    },
+    {
+      "id": 22,
+      "stem": "A 50-year-old man has a 7-cm symptomatic renal AML with recurrent flank pain. Which two interventional options does the brick list for large or symptomatic tumors?",
+      "choices": [
+        "Watchful waiting or oral steroids",
+        "Embolization or partial nephrectomy",
+        "Radiation therapy or interleukin-2 infusion",
+        "Plasmapheresis or chronic hemodialysis",
+        "Antibiotic prophylaxis or NSAIDs"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Steroids are not indicated for AML; large symptomatic tumors require intervention.",
+        "Correct. Large (>60 mm) or symptomatic AMLs can be embolized via intravascular catheter or resected with partial nephrectomy.",
+        "Incorrect. Radiation and IL-2 are not the brick's listed interventions for AML.",
+        "Incorrect. Plasmapheresis and dialysis do not treat AML.",
+        "Incorrect. Antibiotics and NSAIDs do not address the tumor itself."
+      ]
+    },
+    {
+      "id": 23,
+      "stem": "A 25-year-old woman with tuberous sclerosis has multiple rapidly growing bilateral AMLs. Which medication targets the underlying pathway and can shrink these tumors while preserving renal function?",
+      "choices": [
+        "Cyclosporine",
+        "Everolimus",
+        "Tacrolimus",
+        "Hydroxyurea",
+        "Methotrexate"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Cyclosporine is a calcineurin inhibitor used for immunosuppression, not AML shrinkage.",
+        "Correct. Everolimus is an mTOR inhibitor that can reduce AML size and preserve renal function in TSC-associated disease.",
+        "Incorrect. Tacrolimus is a calcineurin inhibitor, not an mTOR inhibitor.",
+        "Incorrect. Hydroxyurea is used for sickle cell disease and myeloproliferative disorders.",
+        "Incorrect. Methotrexate is an antimetabolite, not an mTOR inhibitor."
+      ]
+    },
+    {
+      "id": 24,
+      "stem": "A medical student is reading about everolimus for tuberous sclerosis-associated AML. The drug inhibits a serine/threonine kinase regulating cell growth and metabolism. What is this target?",
+      "choices": [
+        "mTOR",
+        "JAK2",
+        "BRAF",
+        "EGFR",
+        "VEGF receptor"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. mTOR (mammalian target of rapamycin) is a serine/threonine kinase that regulates cell growth and metabolism; everolimus inhibits it.",
+        "Incorrect. JAK2 is targeted by ruxolitinib in myeloproliferative neoplasms.",
+        "Incorrect. BRAF is targeted by vemurafenib in melanoma.",
+        "Incorrect. EGFR is targeted by drugs like erlotinib for lung cancer.",
+        "Incorrect. VEGF receptors are targeted by drugs like sunitinib, not everolimus."
+      ]
+    },
+    {
+      "id": 25,
+      "stem": "A 60-year-old man with acute cholecystitis has an incidental small left kidney lesion found on abdominal ultrasound. He has no urinary symptoms and no history of tuberous sclerosis. On follow-up CT, which feature would most strongly favor angiomyolipoma over oncocytoma?",
+      "choices": [
+        "Mahogany-brown gross color",
+        "Central stellate scar",
+        "Hemorrhage and necrosis",
+        "Macroscopic fat on CT",
+        "Renal vein invasion"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Mahogany-brown color is a gross pathologic feature of oncocytoma.",
+        "Incorrect. A central stellate scar suggests oncocytoma (or RCC), not AML.",
+        "Incorrect. Hemorrhage and necrosis favor RCC over either oncocytoma or AML.",
+        "Correct. Macroscopic fat on CT is the helpful radiographic feature pointing toward AML.",
+        "Incorrect. Renal vein invasion strongly suggests RCC, not AML or oncocytoma."
+      ]
+    }
+  ]
+}

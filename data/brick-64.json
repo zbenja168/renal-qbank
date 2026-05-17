@@ -1,0 +1,481 @@
+{
+  "id": 64,
+  "title": "Micturition",
+  "questions": [
+    {
+      "id": 1,
+      "stem": "A 62-year-old man is undergoing urodynamic testing. During the storage phase of micturition, what is the activity of the detrusor muscle and urethral sphincters?",
+      "choices": [
+        "Detrusor contraction with sphincter relaxation",
+        "Both detrusor and sphincters relaxed",
+        "Detrusor relaxed with sphincters contracted",
+        "Detrusor contracted with sphincters contracted",
+        "Detrusor relaxed with sphincters relaxed"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. This is the voiding pattern, not storage.",
+        "Incorrect. Relaxed sphincters during storage would cause incontinence.",
+        "Correct. Storage requires a relaxed detrusor for low-pressure filling and contracted internal and external sphincters to maintain continence.",
+        "Incorrect. A contracted detrusor would oppose filling and define voiding, not storage.",
+        "Incorrect. Both relaxed would produce leakage; storage actively contracts the sphincters."
+      ]
+    },
+    {
+      "id": 2,
+      "stem": "A medical student is reviewing the autonomic control of micturition. Which neural output pattern describes the storage phase?",
+      "choices": [
+        "Parasympathetic active, pudendal inhibited",
+        "Parasympathetic active, pudendal active",
+        "Sympathetic active, pudendal inhibited",
+        "Sympathetic active, pudendal active",
+        "Sympathetic inhibited, pudendal inhibited"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. This describes voiding, not storage.",
+        "Incorrect. Parasympathetic dominance drives voiding by contracting the detrusor.",
+        "Incorrect. Pudendal activity must be present during storage to contract the EUS.",
+        "Correct. Storage requires sympathetic dominance (T10-L2) plus active pudendal nerve output to keep the EUS contracted.",
+        "Incorrect. Loss of both would produce incontinence, not storage."
+      ]
+    },
+    {
+      "id": 3,
+      "stem": "A 70-year-old woman with urinary retention is started on bethanechol. Which receptor on the detrusor mediates sustained contraction via Gq/PLC and intracellular calcium?",
+      "choices": [
+        "Beta-3 adrenergic",
+        "M3 muscarinic",
+        "Alpha-1 adrenergic",
+        "Nicotinic",
+        "M2 muscarinic"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Beta-3 receptors raise cAMP and relax the detrusor during storage.",
+        "Correct. M3 muscarinic receptors on the detrusor signal via Gq/PLC, raising intracellular calcium and driving sustained contraction during voiding.",
+        "Incorrect. Alpha-1 receptors act on the internal sphincter, not the detrusor.",
+        "Incorrect. Nicotinic receptors mediate EUS contraction via the pudendal nerve.",
+        "Incorrect. M2 amplifies contraction by suppressing cAMP-mediated relaxation but does not directly raise calcium."
+      ]
+    },
+    {
+      "id": 4,
+      "stem": "A 68-year-old man with overactive bladder is prescribed mirabegron. Which receptor does this drug target on the detrusor to promote relaxation?",
+      "choices": [
+        "M3 muscarinic",
+        "Alpha-1 adrenergic",
+        "Beta-3 adrenergic",
+        "Nicotinic",
+        "M2 muscarinic"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. M3 contracts the detrusor; blocking it (not agonizing) would relax the bladder.",
+        "Incorrect. Alpha-1 receptors are on the IUS, not the detrusor.",
+        "Correct. Beta-3 receptors on the detrusor activate adenylyl cyclase, raising cAMP and relaxing smooth muscle to allow low-pressure filling.",
+        "Incorrect. Nicotinic receptors are on the striated EUS, not the detrusor.",
+        "Incorrect. M2 amplifies M3 contraction; it does not drive relaxation."
+      ]
+    },
+    {
+      "id": 5,
+      "stem": "A 55-year-old man with BPH is treated with tamsulosin to lower outlet resistance. Tamsulosin acts on which receptor at the internal urethral sphincter?",
+      "choices": [
+        "Beta-3 adrenergic receptor",
+        "M3 muscarinic receptor",
+        "Nicotinic acetylcholine receptor",
+        "Alpha-1 adrenergic",
+        "M2 muscarinic receptor"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Beta-3 receptors are on the detrusor, not the IUS.",
+        "Incorrect. M3 receptors are on the detrusor.",
+        "Incorrect. Nicotinic receptors are on the striated EUS.",
+        "Correct. Alpha-1 receptors on the IUS signal via Gq/IP3 to contract the smooth muscle; alpha-1 blockade relaxes the IUS and reduces outlet resistance.",
+        "Incorrect. M2 receptors are on the detrusor, not the IUS."
+      ]
+    },
+    {
+      "id": 6,
+      "stem": "The external urethral sphincter is composed of striated muscle under voluntary control. Which receptor type mediates its contraction?",
+      "choices": [
+        "Alpha-1 adrenergic receptor",
+        "Nicotinic",
+        "M3 muscarinic receptor",
+        "Beta-3 adrenergic receptor",
+        "M2 muscarinic receptor"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Alpha-1 receptors act on the smooth-muscle IUS, not the striated EUS.",
+        "Correct. The pudendal nerve releases ACh onto nicotinic receptors of the striated EUS, contracting it during storage.",
+        "Incorrect. M3 receptors are on detrusor smooth muscle.",
+        "Incorrect. Beta-3 receptors are on the detrusor.",
+        "Incorrect. M2 receptors are on the detrusor."
+      ]
+    },
+    {
+      "id": 7,
+      "stem": "Which spinal cord levels give rise to the sympathetic fibers that travel via the hypogastric nerve to mediate the storage phase?",
+      "choices": [
+        "S2-S4",
+        "L4-S1",
+        "T10-L2",
+        "C7-T1",
+        "T1-T4"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. S2-S4 gives rise to parasympathetic and pudendal fibers.",
+        "Incorrect. L4-S1 is not the origin of bladder sympathetic output.",
+        "Correct. Sympathetic fibers arise from T10-L2 and travel via the hypogastric nerve to maintain storage.",
+        "Incorrect. C7-T1 supplies sympathetic outflow to the head and upper limbs.",
+        "Incorrect. T1-T4 supplies cardiac sympathetic outflow, not the bladder."
+      ]
+    },
+    {
+      "id": 8,
+      "stem": "A 45-year-old woman is being taught about parasympathetic control of voiding. Which nerve carries parasympathetic fibers from S2-S4 to the detrusor?",
+      "choices": [
+        "Pudendal nerve",
+        "Hypogastric nerve",
+        "Pelvic nerve",
+        "Obturator nerve",
+        "Genitofemoral nerve"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. The pudendal nerve carries somatic motor fibers to the EUS.",
+        "Incorrect. The hypogastric nerve carries sympathetic (T10-L2) fibers.",
+        "Correct. The pelvic nerve carries parasympathetic fibers from S2-S4 to the detrusor, releasing ACh during voiding.",
+        "Incorrect. The obturator nerve innervates the medial thigh, not the bladder.",
+        "Incorrect. The genitofemoral nerve is not the bladder parasympathetic pathway."
+      ]
+    },
+    {
+      "id": 9,
+      "stem": "A 30-year-old man with a sacral spinal injury cannot voluntarily contract his external urethral sphincter. Which motor nucleus has been affected?",
+      "choices": [
+        "Onuf's nucleus",
+        "Edinger-Westphal nucleus",
+        "Nucleus ambiguus",
+        "Dorsal motor nucleus of vagus",
+        "Barrington's nucleus"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Onuf's nucleus in S2-S4 contains the somatic motor neurons whose axons form the pudendal nerve and contract the EUS.",
+        "Incorrect. Edinger-Westphal supplies parasympathetics to the eye.",
+        "Incorrect. Nucleus ambiguus supplies pharyngeal/laryngeal muscles via cranial nerves.",
+        "Incorrect. Dorsal motor nucleus of vagus drives parasympathetic output to thoracic and abdominal viscera.",
+        "Incorrect. Barrington's nucleus is the pontine micturition center, not the EUS motor nucleus."
+      ]
+    },
+    {
+      "id": 10,
+      "stem": "A 40-year-old patient feels the urge to urinate as the bladder fills. Which afferent fibers detect bladder wall stretch and initiate this signal?",
+      "choices": [
+        "C fibers",
+        "A-alpha fibers",
+        "A-beta fibers",
+        "Myelinated A-delta fibers",
+        "B fibers"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. C fibers carry slow pain and nociception, not normal stretch.",
+        "Incorrect. A-alpha fibers innervate skeletal muscle proprioceptors.",
+        "Incorrect. A-beta fibers carry cutaneous touch and pressure.",
+        "Correct. A-delta myelinated afferents in the bladder wall encode volume and tension and transmit via the pelvic nerve to the spinal cord.",
+        "Incorrect. B fibers are preganglionic autonomic, not sensory afferents."
+      ]
+    },
+    {
+      "id": 11,
+      "stem": "A 60-year-old man with a midbrain lesion has impaired ability to gate the voiding signal based on cortical input. Which structure has been affected?",
+      "choices": [
+        "Pontine micturition center",
+        "Periaqueductal gray",
+        "Onuf's nucleus",
+        "Anterior cingulate cortex",
+        "Sacral spinal cord"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. The PMC is in the dorsal pons, not the midbrain.",
+        "Correct. The periaqueductal gray in the midbrain receives A-delta bladder signals and cortical input, gating whether the voiding reflex proceeds.",
+        "Incorrect. Onuf's nucleus is in the sacral cord, not the midbrain.",
+        "Incorrect. The anterior cingulate provides cortical modulation but is not the midbrain relay.",
+        "Incorrect. The sacral cord houses parasympathetic and somatic motor neurons, not midbrain relays."
+      ]
+    },
+    {
+      "id": 12,
+      "stem": "A 58-year-old woman has a discrete pontine lesion and loses coordinated voiding with simultaneous detrusor contraction and sphincter relaxation. Which structure has been affected?",
+      "choices": [
+        "Periaqueductal gray",
+        "Onuf's nucleus",
+        "Pontine micturition center",
+        "Prefrontal cortex",
+        "Sacral parasympathetic nucleus"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. The PAG is in the midbrain, not the pons.",
+        "Incorrect. Onuf's nucleus is sacral and controls only the EUS.",
+        "Correct. The pontine micturition center (Barrington's nucleus) simultaneously activates sacral parasympathetic neurons and inhibits Onuf's nucleus; lesions disrupt this coordination.",
+        "Incorrect. The prefrontal cortex modulates the threshold for voiding but is not the brainstem coordinator.",
+        "Incorrect. The sacral parasympathetic nucleus is the output, not the coordinator."
+      ]
+    },
+    {
+      "id": 13,
+      "stem": "A 35-year-old man can voluntarily defer voiding when a bathroom is unavailable. Which cortical region exerts tonic inhibitory control over the PAG-PMC pathway during storage?",
+      "choices": [
+        "Primary motor cortex",
+        "Prefrontal cortex",
+        "Occipital cortex",
+        "Primary somatosensory cortex",
+        "Temporal cortex"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. The primary motor cortex drives voluntary movement, not micturition deferral.",
+        "Correct. The prefrontal cortex (along with the anterior cingulate) tonically inhibits the PAG-PMC pathway during storage, raising the voiding threshold.",
+        "Incorrect. The occipital cortex processes vision.",
+        "Incorrect. The primary somatosensory cortex processes touch, not voiding modulation.",
+        "Incorrect. The temporal cortex is involved in memory and auditory processing."
+      ]
+    },
+    {
+      "id": 14,
+      "stem": "A 28-year-old man with an incomplete spinal cord injury above the sacral cord still reflexively increases EUS tone when he coughs. Which protective reflex is preserved?",
+      "choices": [
+        "PAG gating reflex",
+        "Cortical deferral reflex",
+        "Bulbocavernosus reflex",
+        "Guarding reflex",
+        "Pontine voiding reflex"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. PAG gating requires intact supraspinal pathways.",
+        "Incorrect. Cortical deferral requires intact prefrontal cortex pathways.",
+        "Incorrect. The bulbocavernosus reflex involves anal sphincter contraction with glans stimulation, not bladder continence.",
+        "Correct. The guarding reflex is a spinal loop that activates pudendal motor neurons via sacral interneurons, reinforcing EUS contraction independent of supraspinal control.",
+        "Incorrect. The pontine voiding reflex requires an intact PMC and supraspinal input."
+      ]
+    },
+    {
+      "id": 15,
+      "stem": "A 62-year-old man with urinary urgency and incontinence is found to have involuntary detrusor contractions during bladder filling. Which term best describes this finding?",
+      "choices": [
+        "Detrusor-sphincter dyssynergia",
+        "Detrusor overactivity",
+        "Atonic bladder",
+        "Stress incontinence",
+        "Overflow incontinence"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Dyssynergia describes failure of detrusor-sphincter coordination during voiding, not premature contractions during filling.",
+        "Correct. Detrusor overactivity is premature, involuntary detrusor contractions during filling that overwhelm sphincter resistance and produce urgency and leakage.",
+        "Incorrect. An atonic bladder fails to contract, producing retention, not urgency.",
+        "Incorrect. Stress incontinence is leakage with increased abdominal pressure, not from involuntary contractions.",
+        "Incorrect. Overflow incontinence reflects a failure to empty, not detrusor overactivity."
+      ]
+    },
+    {
+      "id": 16,
+      "stem": "A 50-year-old man has incomplete bladder emptying because his EUS fails to relax while the detrusor contracts. Which term describes this dysfunction?",
+      "choices": [
+        "Detrusor overactivity",
+        "Stress incontinence",
+        "Dyssynergia",
+        "Detrusor underactivity",
+        "Atonic bladder"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Detrusor overactivity is premature filling-phase contractions, not failed coordination during voiding.",
+        "Incorrect. Stress incontinence is leakage with raised abdominal pressure.",
+        "Correct. Detrusor-sphincter dyssynergia is failure of coordinated detrusor contraction with sphincter relaxation, causing incomplete or obstructed voiding.",
+        "Incorrect. Detrusor underactivity is weak contraction, not sphincter discoordination.",
+        "Incorrect. An atonic bladder cannot contract at all."
+      ]
+    },
+    {
+      "id": 17,
+      "stem": "A medical student traces the signaling pathway downstream of M3 muscarinic receptor activation on the detrusor. Which second-messenger system is engaged?",
+      "choices": [
+        "Gs/cAMP/PKA",
+        "Gi/inhibition of adenylyl cyclase",
+        "Gq/PLC/IP3-DAG",
+        "Tyrosine kinase/MAPK",
+        "Guanylyl cyclase/cGMP"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Gs/cAMP is the beta-3 pathway, which causes relaxation.",
+        "Incorrect. M2 uses Gi to inhibit cAMP but does not directly produce contraction.",
+        "Correct. M3 receptors signal through Gq and phospholipase C, generating IP3 that raises intracellular calcium for detrusor contraction.",
+        "Incorrect. Tyrosine kinase/MAPK is not the muscarinic signaling pathway.",
+        "Incorrect. cGMP signaling is engaged by nitric oxide, not muscarinic receptors."
+      ]
+    },
+    {
+      "id": 18,
+      "stem": "A 25-year-old man tries to suppress urination when a stretch signal first arrives. Where do the A-delta bladder afferents synapse before ascending to the brainstem?",
+      "choices": [
+        "Lumbar spinal cord",
+        "Cervical spinal cord",
+        "Sacral spinal cord",
+        "Medulla",
+        "Hypothalamus"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Bladder afferents enter via the pelvic nerve at sacral, not lumbar, levels.",
+        "Incorrect. Cervical levels do not receive bladder afferents.",
+        "Correct. A-delta fibers transmit via the pelvic nerve to the sacral spinal cord, where they ascend to the PAG.",
+        "Incorrect. The medulla is not the primary entry site for bladder afferents.",
+        "Incorrect. The hypothalamus is not the relay for bladder stretch."
+      ]
+    },
+    {
+      "id": 19,
+      "stem": "An 80-year-old man with severe BPH cannot empty his bladder because the bladder neck remains closed during attempted voiding. Withdrawal of which signal normally allows the internal sphincter to open during voiding?",
+      "choices": [
+        "Pudendal nicotinic activity",
+        "Parasympathetic M3 activity",
+        "Sympathetic alpha-1 tone",
+        "Beta-3 detrusor signaling",
+        "Somatic cortical drive"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Pudendal withdrawal opens the EUS, not the IUS.",
+        "Incorrect. Parasympathetic M3 activity drives detrusor contraction; it does not open the IUS.",
+        "Correct. Withdrawal of sympathetic alpha-1 tone on the IUS allows the bladder neck to open during voiding.",
+        "Incorrect. Beta-3 signaling acts on the detrusor, not the IUS.",
+        "Incorrect. Somatic cortical drive controls the EUS, not the IUS."
+      ]
+    },
+    {
+      "id": 20,
+      "stem": "During voiding, the pontine micturition center sends inhibitory signals to which sacral structure to allow EUS relaxation?",
+      "choices": [
+        "Sacral parasympathetic nucleus",
+        "Onuf's nucleus",
+        "Dorsal column nuclei",
+        "Clarke's nucleus",
+        "Nucleus gracilis"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. The PMC excites, not inhibits, sacral parasympathetic neurons to contract the detrusor.",
+        "Correct. The PMC inhibits Onuf's nucleus, suppressing pudendal activity and allowing the EUS to relax during voiding.",
+        "Incorrect. Dorsal column nuclei carry fine touch and proprioception.",
+        "Incorrect. Clarke's nucleus relays proprioception to the cerebellum.",
+        "Incorrect. Nucleus gracilis is a dorsal column relay, not a micturition target."
+      ]
+    },
+    {
+      "id": 21,
+      "stem": "A 75-year-old man has urinary retention. His detrusor fails to generate sustained contractions despite intact parasympathetic input. Which receptor normally amplifies M3-driven contraction by suppressing cAMP-mediated relaxation?",
+      "choices": [
+        "Alpha-1 adrenergic",
+        "Beta-3 adrenergic",
+        "M2 muscarinic",
+        "Nicotinic",
+        "M1 muscarinic"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Alpha-1 receptors are on the IUS, not the detrusor.",
+        "Incorrect. Beta-3 activation raises cAMP and relaxes the detrusor.",
+        "Correct. M2 receptors on the detrusor suppress cAMP-mediated relaxation, amplifying M3-driven contraction.",
+        "Incorrect. Nicotinic receptors are on the striated EUS.",
+        "Incorrect. M1 is not the brick's described detrusor muscarinic subtype."
+      ]
+    },
+    {
+      "id": 22,
+      "stem": "A 38-year-old woman with multiple sclerosis develops dyssynergic voiding. Which best explains the mechanism of incomplete emptying?",
+      "choices": [
+        "Failure of M3 receptor activation on detrusor",
+        "Incomplete suppression of storage signals",
+        "Loss of A-delta afferent input from bladder wall",
+        "Excessive beta-3 stimulation of detrusor smooth muscle",
+        "Pure detrusor underactivity from age-related atrophy"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. M3 activation may be intact; dyssynergia is a coordination, not activation, problem.",
+        "Correct. Voiding requires active suppression of storage signals; failure to fully suppress sympathetic or pudendal activity produces detrusor-sphincter dyssynergia and incomplete emptying.",
+        "Incorrect. Loss of A-delta input would impair urge sensation, not coordination.",
+        "Incorrect. Beta-3 stimulation relaxes the detrusor, producing retention but not dyssynergia.",
+        "Incorrect. Pure underactivity gives weak contractions without the coordination failure."
+      ]
+    },
+    {
+      "id": 23,
+      "stem": "An anatomy lecturer emphasizes that the EUS is the primary site of voluntary continence. Which property of the EUS makes this true?",
+      "choices": [
+        "Smooth muscle under autonomic control",
+        "Smooth muscle under somatic control",
+        "Striated, somatic control",
+        "Striated muscle under sympathetic control",
+        "Cardiac-type muscle under vagal control"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Smooth muscle under autonomic control describes the IUS, not the EUS.",
+        "Incorrect. Smooth muscle is not under somatic control.",
+        "Correct. The EUS is striated muscle innervated by the somatic pudendal nerve from Onuf's nucleus, making it the primary site of voluntary continence.",
+        "Incorrect. Striated muscle is not innervated by the sympathetic system.",
+        "Incorrect. The EUS is not cardiac muscle."
+      ]
+    },
+    {
+      "id": 24,
+      "stem": "A 30-year-old patient is asked what occurs to the internal urethral sphincter during voiding. Which best describes the mechanism by which the IUS opens?",
+      "choices": [
+        "Active contraction of detrusor neck musculature",
+        "Direct parasympathetic inhibition via M3",
+        "Passive opening as bladder neck descends",
+        "Voluntary somatic relaxation",
+        "Active nicotinic relaxation"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Detrusor neck musculature does not actively pull the IUS open.",
+        "Incorrect. M3 receptors contract the detrusor; they do not directly inhibit the IUS.",
+        "Correct. The IUS opens passively as the bladder neck descends during detrusor contraction, aided by withdrawal of sympathetic alpha-1 tone.",
+        "Incorrect. The IUS is smooth muscle and not under somatic voluntary control.",
+        "Incorrect. Nicotinic receptors act on the striated EUS, not the smooth-muscle IUS."
+      ]
+    },
+    {
+      "id": 25,
+      "stem": "A 62-year-old man with urgency and incontinence is suspected of detrusor overactivity. Which underlying disturbance best explains his symptoms within the storage-voiding model?",
+      "choices": [
+        "Failure of EUS striated muscle from pudendal nerve injury",
+        "Loss of A-delta afferent function during bladder filling",
+        "Excess beta-3 detrusor signaling causing relaxation",
+        "Premature parasympathetic detrusor contractions",
+        "Cortical inhibition of the PAG-PMC pathway from prefrontal cortex"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. EUS failure produces stress incontinence, not urgency from involuntary contractions.",
+        "Incorrect. Loss of A-delta input would blunt urge sensation, not cause urgency.",
+        "Incorrect. Excess beta-3 signaling relaxes the detrusor and would cause retention.",
+        "Correct. In detrusor overactivity, parasympathetic activity or detrusor hypersensitivity triggers involuntary contractions during filling, overwhelming sphincter resistance and producing urgency and leakage.",
+        "Incorrect. Cortical inhibition of PAG-PMC supports continence; loss (not presence) of this inhibition would contribute to urgency."
+      ]
+    }
+  ]
+}

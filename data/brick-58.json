@@ -1,0 +1,481 @@
+{
+  "id": 58,
+  "title": "Polycystic Kidney Disease",
+  "questions": [
+    {
+      "id": 1,
+      "stem": "A 42-year-old man presents with right flank pain and gross hematuria for one week. His father and two paternal uncles died young of kidney problems. BP is 166/90 mm Hg and both kidneys are palpable. Which inheritance pattern is most likely?",
+      "choices": [
+        "Autosomal recessive",
+        "X-linked recessive",
+        "Autosomal dominant",
+        "Mitochondrial",
+        "Sporadic"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Autosomal recessive PKD typically presents in infancy or childhood, not at age 42.",
+        "Incorrect. ADPKD is not X-linked; affected fathers transmit to sons.",
+        "Correct. ADPKD is autosomal dominant with complete penetrance; an affected parent transmits the allele with 50% probability.",
+        "Incorrect. Mitochondrial inheritance comes from the mother, not affected paternal relatives.",
+        "Incorrect. The strong paternal family history argues against a sporadic disorder."
+      ]
+    },
+    {
+      "id": 2,
+      "stem": "A 30-year-old woman with newly diagnosed ADPKD asks about her offspring's risk. Assuming her partner is unaffected, what is the probability that each child inherits the disease allele?",
+      "choices": [
+        "0%",
+        "25%",
+        "50%",
+        "75%",
+        "100%"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. ADPKD is dominantly inherited, so offspring are at risk.",
+        "Incorrect. 25% is the risk for autosomal recessive disease with two carrier parents.",
+        "Correct. ADPKD is autosomal dominant, so each child of an affected parent has a 50% chance of inheriting the allele.",
+        "Incorrect. 75% is not a standard Mendelian transmission risk.",
+        "Incorrect. Complete penetrance applies once the allele is inherited, but transmission probability is 50%."
+      ]
+    },
+    {
+      "id": 3,
+      "stem": "A 36-year-old man with ADPKD undergoes genetic testing. Which gene is most commonly responsible for his disease?",
+      "choices": [
+        "PKD1 on chromosome 16",
+        "PKD2 on chromosome 4",
+        "PKHD1 on chromosome 6",
+        "PKD1 on chromosome 4",
+        "PKHD1 on chromosome 16"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. About 80% of ADPKD cases are caused by mutations in PKD1 on chromosome 16, and these cases progress faster.",
+        "Incorrect. PKD2 (chromosome 4) accounts for about 15% of cases, not the majority.",
+        "Incorrect. PKHD1 causes ARPKD, not ADPKD.",
+        "Incorrect. PKD1 is on chromosome 16, not chromosome 4.",
+        "Incorrect. PKHD1 is on chromosome 6 and causes ARPKD."
+      ]
+    },
+    {
+      "id": 4,
+      "stem": "Two 35-year-old brothers both carry pathogenic ADPKD mutations. One has PKD1 disease and the other has PKD2 disease. Which statement about their expected courses is correct?",
+      "choices": [
+        "PKD2 reaches ESRD earlier than PKD1",
+        "PKD1 reaches ESRD earlier than PKD2",
+        "Both progress at identical rates",
+        "Neither will develop ESRD",
+        "PKD2 is more common than PKD1"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. PKD2 disease is generally milder and reaches ESRD later (often 60s).",
+        "Correct. PKD1 mutations are associated with more rapid progression to ESRD and earlier onset (30s-40s).",
+        "Incorrect. PKD1 and PKD2 differ markedly in age of onset and rate of progression.",
+        "Incorrect. Many ADPKD patients eventually develop ESRD requiring renal replacement therapy.",
+        "Incorrect. PKD1 accounts for ~80% of cases; PKD2 only ~15%."
+      ]
+    },
+    {
+      "id": 5,
+      "stem": "A medical student studying ADPKD pathogenesis learns that cysts arise only in a minority of nephrons despite a germline mutation in every cell. Which mechanism best explains this finding?",
+      "choices": [
+        "Variable expressivity of a single mutant allele in all cells",
+        "Mosaic chromosomal trisomy in renal tubules",
+        "Epigenetic silencing of PKD2 by methylation",
+        "X-inactivation in female ADPKD patients",
+        "Somatic second-hit mutation"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. Variable expressivity describes phenotype differences but not the cellular mechanism of cyst formation.",
+        "Incorrect. Trisomy is not the mechanism of ADPKD cyst initiation.",
+        "Incorrect. Epigenetic silencing is not the brick's described mechanism.",
+        "Incorrect. ADPKD affects males and females equally and is not X-linked.",
+        "Correct. The two-hit hypothesis: cysts form only in the <10% of nephrons where a somatic mutation knocks out the remaining wild-type PKD allele."
+      ]
+    },
+    {
+      "id": 6,
+      "stem": "A researcher describes the PKD2 protein as a key regulator of intracellular calcium. Which cellular process is most directly attributed to PKD2 in the brick?",
+      "choices": [
+        "Sodium reabsorption in proximal tubule",
+        "Calcium influx and cell signaling",
+        "Mitochondrial ATP production",
+        "Ribosomal protein synthesis",
+        "Tubular hydrogen secretion"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. PKD2 is not implicated in sodium reabsorption.",
+        "Correct. PKD2 is thought to function in calcium influx and cell-signaling, working in a complex with PKD1.",
+        "Incorrect. PKD2 has no described role in oxidative phosphorylation.",
+        "Incorrect. PKD2 is not a ribosomal regulator.",
+        "Incorrect. Acid-base handling is not PKD2's described function."
+      ]
+    },
+    {
+      "id": 7,
+      "stem": "A 38-year-old woman with ADPKD develops a blood pressure of 158/96 mm Hg. Her creatinine is normal. Which mechanism most likely explains her hypertension?",
+      "choices": [
+        "Primary aldosteronism from adrenal hyperplasia",
+        "RAAS activation from focal renal ischemia",
+        "Coarctation of the aorta",
+        "Pheochromocytoma",
+        "Volume overload from advanced CKD"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Primary aldosteronism is not the mechanism the brick attributes to ADPKD hypertension.",
+        "Correct. Enlarging cysts cause focal parenchymal ischemia, activating the renin-angiotensin-aldosterone system.",
+        "Incorrect. Coarctation is a congenital aortic anomaly, unrelated to ADPKD.",
+        "Incorrect. Pheochromocytoma is not associated with ADPKD.",
+        "Incorrect. Her creatinine is normal, so advanced CKD with volume overload is unlikely."
+      ]
+    },
+    {
+      "id": 8,
+      "stem": "A 40-year-old man with ADPKD has a routine office visit. His blood pressure is 156/96 mm Hg. Serum creatinine is normal. What is the most appropriate first-line therapy?",
+      "choices": [
+        "Tolvaptan",
+        "Beta-blocker",
+        "Calcium channel blocker",
+        "ACE inhibitor",
+        "Low-potassium diet"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Tolvaptan slows cyst progression but is not first-line for hypertension.",
+        "Incorrect. Beta-blockers are not first-line for ADPKD hypertension.",
+        "Incorrect. Calcium channel blockers are not first-line; RAAS blockade is preferred.",
+        "Correct. ACE inhibitors directly block the renin-angiotensin-aldosterone system that drives ADPKD hypertension and are first-line therapy.",
+        "Incorrect. Dietary potassium restriction is not the first-line BP intervention."
+      ]
+    },
+    {
+      "id": 9,
+      "stem": "A 45-year-old woman with ADPKD cannot tolerate her ACE inhibitor due to persistent cough. Which alternative antihypertensive is most appropriate?",
+      "choices": [
+        "Angiotensin receptor blocker",
+        "Hydrochlorothiazide diuretic",
+        "Clonidine",
+        "Spironolactone",
+        "Hydralazine"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. ARBs block the same pathway as ACE inhibitors without causing the bradykinin-mediated cough.",
+        "Incorrect. Thiazides are not the recommended substitute in ADPKD.",
+        "Incorrect. Clonidine is not first or second-line for ADPKD hypertension.",
+        "Incorrect. Spironolactone is not the recommended replacement.",
+        "Incorrect. Hydralazine is not standard substitute therapy here."
+      ]
+    },
+    {
+      "id": 10,
+      "stem": "A 50-year-old man with ADPKD develops fever, flank pain, and dysuria. Blood cultures grow Escherichia coli, and imaging confirms an infected renal cyst. Which antibiotic property is most important for effective therapy?",
+      "choices": [
+        "Beta-lactam ring stability",
+        "Renal excretion concentration",
+        "Lipid solubility",
+        "Strong protein binding",
+        "Bactericidal kinetics"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Beta-lactam stability is not what determines cyst penetration.",
+        "Incorrect. Many renally excreted antibiotics fail to enter cysts effectively.",
+        "Correct. Infected cysts require lipid-soluble agents (e.g., fluoroquinolones, TMP-SMX) for 4-6 weeks because they penetrate the cyst epithelium.",
+        "Incorrect. Protein binding does not determine cyst penetration in this brick.",
+        "Incorrect. Bactericidal vs. bacteriostatic is not the determining feature."
+      ]
+    },
+    {
+      "id": 11,
+      "stem": "A 48-year-old man with ADPKD has a confirmed infected renal cyst from E. coli. Which antibiotic regimen is most appropriate?",
+      "choices": [
+        "IV vancomycin for 7 days",
+        "Oral nitrofurantoin for 5 days",
+        "Ciprofloxacin for 4-6 weeks",
+        "IV gentamicin for 10 days",
+        "Oral amoxicillin for 14 days"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Vancomycin targets gram-positives and does not penetrate cysts well.",
+        "Incorrect. Nitrofurantoin treats lower UTIs but is not lipid-soluble enough for cysts and the duration is too short.",
+        "Correct. Lipid-soluble fluoroquinolones (or TMP-SMX) given for 4-6 weeks are the brick's recommended regimen for infected cysts.",
+        "Incorrect. Aminoglycosides are nephrotoxic and not lipid-soluble; they do not penetrate cysts.",
+        "Incorrect. Amoxicillin does not adequately penetrate cysts."
+      ]
+    },
+    {
+      "id": 12,
+      "stem": "A 39-year-old woman with ADPKD is started on a medication intended to slow the decline in renal function by antagonizing the V2 vasopressin receptor. Which drug is she most likely receiving?",
+      "choices": [
+        "Demeclocycline",
+        "Conivaptan",
+        "Tolvaptan",
+        "Desmopressin",
+        "Lisinopril"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Demeclocycline blocks ADH effect but is not approved for ADPKD progression.",
+        "Incorrect. Conivaptan is a mixed V1a/V2 antagonist, not the approved ADPKD agent.",
+        "Correct. Tolvaptan, a selective V2 receptor antagonist, is approved in the US to mitigate decline in renal function in ADPKD.",
+        "Incorrect. Desmopressin is an ADH agonist, which would worsen cyst growth.",
+        "Incorrect. Lisinopril treats hypertension but does not target V2 receptors."
+      ]
+    },
+    {
+      "id": 13,
+      "stem": "A 41-year-old man with ADPKD asks about extrarenal complications. Which finding is the most common extrarenal manifestation?",
+      "choices": [
+        "Liver cysts",
+        "Intracranial aneurysms",
+        "Mitral valve prolapse",
+        "Colonic diverticula",
+        "Inguinal hernias"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Liver cysts are the most common extrarenal finding in ADPKD; they are typically asymptomatic and discovered incidentally.",
+        "Incorrect. Berry aneurysms occur in roughly 10% of patients and are less common than liver cysts.",
+        "Incorrect. Mitral valve prolapse is a recognized but less common association.",
+        "Incorrect. Colonic diverticula are an extrarenal association but not the most common.",
+        "Incorrect. Hernias are associated but not the most common manifestation."
+      ]
+    },
+    {
+      "id": 14,
+      "stem": "A 44-year-old woman with ADPKD presents with the sudden onset of \"the worst headache of my life.\" CT shows subarachnoid hemorrhage. Which underlying vascular lesion is most likely responsible?",
+      "choices": [
+        "Aortic dissection at the arch",
+        "Cerebral arteriovenous malformation",
+        "Berry aneurysm in circle of Willis",
+        "Intracranial cavernous hemangioma",
+        "Charcot-Bouchard microaneurysm"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Aortic dissection causes chest or back pain, not isolated thunderclap headache.",
+        "Incorrect. AVMs can bleed but are not the classic ADPKD-associated lesion.",
+        "Correct. Intracranial berry aneurysms are 4-5 times more common in ADPKD and rupture causes thunderclap headache from subarachnoid hemorrhage.",
+        "Incorrect. Cavernous hemangiomas are not the ADPKD-linked vascular lesion.",
+        "Incorrect. Charcot-Bouchard aneurysms cause hypertensive intracerebral, not subarachnoid, hemorrhage."
+      ]
+    },
+    {
+      "id": 15,
+      "stem": "A 36-year-old man with ADPKD and a family history of subarachnoid hemorrhage is identified as high-risk for intracranial aneurysm. Which imaging strategy is recommended?",
+      "choices": [
+        "Annual MRI of the brain",
+        "Doppler ultrasound of carotids",
+        "Cerebral angiography every year",
+        "CT angiography every 3-5 years",
+        "PET scan every 5 years"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Annual MRI is not the recommended surveillance modality in the brick.",
+        "Incorrect. Carotid Dopplers do not assess intracranial aneurysms.",
+        "Incorrect. Annual catheter angiography is too invasive for routine screening.",
+        "Correct. High-risk ADPKD patients should undergo high-resolution CT angiography every 3-5 years to assess aneurysm risk.",
+        "Incorrect. PET imaging does not screen for intracranial aneurysms."
+      ]
+    },
+    {
+      "id": 16,
+      "stem": "A 28-year-old healthy sibling of a patient with ADPKD volunteers to donate a kidney. Which is the most appropriate next step regarding the sibling?",
+      "choices": [
+        "Accept because they are young and healthy",
+        "Reject only if they are hypertensive",
+        "Accept if imaging shows no cysts",
+        "Accept if their mutation differs from patient",
+        "Reject because of 50% chance of disease"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. ADPKD can be clinically silent until the 30s-40s; youth alone is not reassuring.",
+        "Incorrect. Absence of hypertension does not exclude ADPKD.",
+        "Correct. Family members being considered as donors should be screened with imaging; absence of cysts (especially after age 40) effectively rules out ADPKD.",
+        "Incorrect. Mutation differences do not exclude ADPKD reliably; imaging is the key step.",
+        "Incorrect. Outright rejection ignores the option to screen and confirm the sibling is unaffected."
+      ]
+    },
+    {
+      "id": 17,
+      "stem": "A 27-year-old man with no symptoms has a parent with ADPKD. He undergoes a renal ultrasound. According to the brick, by what age does absence of cysts effectively rule out ADPKD in an at-risk patient?",
+      "choices": [
+        "Older than 18 years",
+        "Older than 25 years",
+        "Older than 30 years",
+        "Older than 40 years",
+        "Older than 60 years"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Cysts may not yet be visible at 18.",
+        "Incorrect. Some patients still develop visible cysts after 25.",
+        "Incorrect. The brick uses 40, not 30, as the threshold.",
+        "Correct. The brick states that the absence of cysts in an at-risk patient older than 40 rules out ADPKD.",
+        "Incorrect. Waiting until 60 is far later than necessary."
+      ]
+    },
+    {
+      "id": 18,
+      "stem": "A 39-year-old woman with ADPKD develops acute right flank pain and gross hematuria. Imaging shows no obstruction or infection. Which mechanism best explains her presentation?",
+      "choices": [
+        "Bladder squamous cell carcinoma",
+        "Renal vein thrombosis",
+        "Cyst rupture or bleeding",
+        "Acute glomerulonephritis",
+        "Papillary necrosis"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. SCC of the bladder is associated with schistosomiasis, not ADPKD.",
+        "Incorrect. Renal vein thrombosis is not the classic ADPKD complication.",
+        "Correct. Acute flank pain with hematuria in ADPKD is classically caused by cyst rupture or bleeding into a cyst.",
+        "Incorrect. Glomerulonephritis typically presents with proteinuria and RBC casts, not isolated cyst-related pain.",
+        "Incorrect. Papillary necrosis is associated with diabetes, sickle cell, and analgesic nephropathy, not ADPKD."
+      ]
+    },
+    {
+      "id": 19,
+      "stem": "A 47-year-old man with ADPKD develops recurrent renal colic. Stone analysis is ordered. Which stone composition is most commonly seen in ADPKD?",
+      "choices": [
+        "Calcium oxalate",
+        "Struvite",
+        "Cystine",
+        "Uric acid",
+        "Calcium phosphate"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Calcium oxalate is the most common stone in the general population but not the typical ADPKD stone.",
+        "Incorrect. Struvite stones form with urease-producing bacteria, not specifically ADPKD.",
+        "Incorrect. Cystine stones are from cystinuria, an inherited tubular defect.",
+        "Correct. Renal stones occur in 20-25% of ADPKD patients, and uric acid stones are the most common type per the brick.",
+        "Incorrect. Calcium phosphate stones are not the typical ADPKD stone."
+      ]
+    },
+    {
+      "id": 20,
+      "stem": "A pregnant woman whose partner has ARPKD presents for a fetal ultrasound at 28 weeks. Which finding would most strongly suggest ARPKD?",
+      "choices": [
+        "Single horseshoe-shaped fetal kidney",
+        "Dilated ureters with bilateral hydronephrosis",
+        "Normal kidneys with polyhydramnios",
+        "Calyceal scarring and blunting",
+        "Echogenic kidneys with oligohydramnios"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. Horseshoe kidney is a congenital fusion anomaly, not ARPKD.",
+        "Incorrect. Hydronephrosis suggests obstruction, not ARPKD.",
+        "Incorrect. ARPKD causes oligohydramnios, not polyhydramnios.",
+        "Incorrect. Calyceal scarring suggests reflux nephropathy, not ARPKD.",
+        "Correct. ARPKD produces large, echogenic kidneys due to countless tiny cysts, with oligohydramnios from poor fetal urine output."
+      ]
+    },
+    {
+      "id": 21,
+      "stem": "A neonate is born with low-set ears, a flattened nose, clubbed feet, and severe respiratory distress. Prenatal ultrasound showed massively enlarged kidneys and oligohydramnios. Which mechanism explains the constellation of findings?",
+      "choices": [
+        "Trisomy 21 chromosomal abnormalities",
+        "Potter sequence",
+        "Congenital diaphragmatic hernia",
+        "Fetal alcohol syndrome exposure",
+        "Congenital TORCH infection"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Trisomy 21 has different stigmata and is not driven by oligohydramnios.",
+        "Correct. Oligohydramnios in ARPKD limits fetal movement and lung development, causing Potter sequence: pulmonary hypoplasia, limb deformities, and facial abnormalities.",
+        "Incorrect. CDH causes respiratory distress but not the full facial/limb constellation.",
+        "Incorrect. Fetal alcohol syndrome has distinct facial features unrelated to oligohydramnios.",
+        "Incorrect. TORCH infections cause different findings (microcephaly, cataracts, hepatosplenomegaly)."
+      ]
+    },
+    {
+      "id": 22,
+      "stem": "A neonate with ARPKD dies shortly after birth. Which complication is the leading cause of neonatal mortality in this disease?",
+      "choices": [
+        "Acute renal failure",
+        "Cardiac arrhythmia",
+        "Respiratory failure",
+        "Intracranial hemorrhage from prematurity",
+        "Acute hepatic failure"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. While renal function is poor, it is not the immediate cause of neonatal death.",
+        "Incorrect. Arrhythmias are not the leading cause of mortality in ARPKD neonates.",
+        "Correct. Respiratory distress from pulmonary hypoplasia (an oligohydramnios sequela) is the leading cause of morbidity and mortality in ARPKD neonates.",
+        "Incorrect. Intracranial hemorrhage is not the typical cause of death in ARPKD neonates.",
+        "Incorrect. Hepatic fibrosis progresses over time and is not the immediate neonatal killer."
+      ]
+    },
+    {
+      "id": 23,
+      "stem": "A 9-year-old with ARPKD presents with hematemesis, splenomegaly, and ascites. Liver enzymes are near normal. Which mechanism best explains his presentation?",
+      "choices": [
+        "Acute viral hepatitis with cholestasis",
+        "Alcoholic cirrhosis with portal hypertension",
+        "Wilson disease",
+        "Hepatic congestion from heart failure",
+        "Congenital hepatic fibrosis"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. Acute viral hepatitis would show markedly abnormal liver enzymes.",
+        "Incorrect. Alcoholic cirrhosis is implausible in a 9-year-old.",
+        "Incorrect. Wilson disease typically presents with neuropsychiatric or hepatic dysfunction, not portal hypertension with preserved enzymes.",
+        "Incorrect. Cardiac hepatic congestion would show heart failure findings.",
+        "Correct. ARPKD causes progressive hepatic fibrosis with portal hypertension while liver function tests remain normal until late."
+      ]
+    },
+    {
+      "id": 24,
+      "stem": "A 7-year-old with ARPKD develops esophageal varices on surveillance endoscopy. Which agent is most appropriate for primary prevention of variceal bleeding?",
+      "choices": [
+        "Lisinopril",
+        "Tolvaptan",
+        "Furosemide",
+        "Octreotide drip",
+        "Propranolol"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. ACE inhibitors treat hypertension, not variceal bleeding.",
+        "Incorrect. Tolvaptan targets renal cyst progression, not portal hypertension.",
+        "Incorrect. Furosemide reduces ascites but does not prevent variceal bleeding.",
+        "Incorrect. Octreotide drips are used acutely for active variceal hemorrhage, not chronic prophylaxis.",
+        "Correct. Nonspecific beta-blockers (propranolol, nadolol) or band ligation are used for primary prevention of variceal bleeding in ARPKD-related portal hypertension."
+      ]
+    },
+    {
+      "id": 25,
+      "stem": "A medical student compares the gross renal pathology of ADPKD and ARPKD. Which description best fits ARPKD kidneys?",
+      "choices": [
+        "Small fibrosed kidneys with cortical scars",
+        "Enlarged kidneys with corticomedullary junction cysts only",
+        "Smooth enlarged kidneys, diffuse small cysts",
+        "Massively enlarged kidneys with large variable cysts",
+        "Normal-sized kidneys with a single dominant cyst"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Small fibrosed kidneys describe chronic pyelonephritis or end-stage CKD, not ARPKD.",
+        "Incorrect. ARPKD cysts are diffuse in cortex and medulla, not limited to one junction.",
+        "Correct. ARPKD kidneys are smooth and enlarged with numerous small cysts (fusiform dilations of collecting ducts) throughout the cortex and medulla.",
+        "Incorrect. Massively enlarged kidneys with large cysts describe ADPKD, not ARPKD.",
+        "Incorrect. A solitary cyst is a simple cyst, not polycystic disease."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,481 @@
+{
+  "id": 65,
+  "title": "Bladder Dysfunction: Urinary Incontinence and Neurogenic Bladder",
+  "questions": [
+    {
+      "id": 1,
+      "stem": "A 64-year-old woman with three vaginal deliveries reports urine leakage when she laughs, coughs, or sneezes. Pelvic exam and urinalysis are normal. Which type of incontinence does she most likely have?",
+      "choices": [
+        "Urge incontinence",
+        "Overflow incontinence",
+        "Stress incontinence",
+        "Functional incontinence",
+        "Neurogenic bladder"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Urge incontinence presents with sudden urgency from detrusor overactivity, not leakage with cough.",
+        "Incorrect. Overflow incontinence presents with dribbling from retention, not stress maneuvers.",
+        "Correct. Leakage with cough/laugh/sneeze after vaginal deliveries reflects weakened pelvic floor and urethral support.",
+        "Incorrect. Functional incontinence is from mobility or cognitive barriers to reaching a toilet.",
+        "Incorrect. Neurogenic bladder requires a neurologic lesion; her exam is normal."
+      ]
+    },
+    {
+      "id": 2,
+      "stem": "A 72-year-old man with longstanding BPH presents with continuous dribbling, weak stream, and nocturia. Post-void residual is 320 mL. Which type of incontinence is this?",
+      "choices": [
+        "Stress incontinence",
+        "Overflow incontinence",
+        "Urge incontinence",
+        "Functional incontinence",
+        "Mixed incontinence"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Stress incontinence is leakage with increased abdominal pressure.",
+        "Correct. Chronic bladder outlet obstruction causes overdistension, with dribbling once pressure overcomes outlet resistance.",
+        "Incorrect. Urge incontinence is sudden urgency from detrusor overactivity.",
+        "Incorrect. Functional incontinence reflects access problems, not retention.",
+        "Incorrect. Mixed incontinence has features of both stress and urge, not retention."
+      ]
+    },
+    {
+      "id": 3,
+      "stem": "A 58-year-old woman has sudden, intense urges to void followed by leakage, with frequent small-volume urination and nocturia. Urinalysis is negative. Which mechanism best explains her symptoms?",
+      "choices": [
+        "Weak pelvic floor support",
+        "Detrusor underactivity",
+        "Bladder outlet obstruction",
+        "Detrusor hyperactivity",
+        "Urethral sphincter denervation"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Pelvic floor weakness causes stress incontinence, not urgency.",
+        "Incorrect. Detrusor underactivity causes overflow, not urge incontinence.",
+        "Incorrect. Outlet obstruction causes overflow symptoms.",
+        "Correct. Overactive bladder from detrusor hyperactivity drives sudden urgency and small-volume voids.",
+        "Incorrect. Sphincter denervation produces continuous leakage, not urgency."
+      ]
+    },
+    {
+      "id": 4,
+      "stem": "A 70-year-old man on terazosin for BPH develops new leakage with coughing. Which mechanism best explains his worsening incontinence?",
+      "choices": [
+        "Increased detrusor contractility",
+        "Internal sphincter relaxation",
+        "Worsened outlet obstruction",
+        "Antimuscarinic side effect",
+        "Direct diuretic effect"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Alpha-1 blockers do not stimulate detrusor contraction.",
+        "Correct. Alpha-1 blockers relax the internal urethral sphincter, which can cause or worsen stress incontinence.",
+        "Incorrect. Alpha-1 blockers reduce, not worsen, outlet resistance.",
+        "Incorrect. Terazosin is not antimuscarinic.",
+        "Incorrect. Terazosin is not a diuretic."
+      ]
+    },
+    {
+      "id": 5,
+      "stem": "A 45-year-old woman with multiple sclerosis presents with urinary urgency and incontinence. MRI shows a cervical demyelinating lesion. Which bladder pattern is expected?",
+      "choices": [
+        "Flaccid bladder with overflow",
+        "Spastic bladder with urge incontinence",
+        "Stress incontinence from sphincter weakness",
+        "Atonic bladder from peripheral neuropathy",
+        "Normal bladder function"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Flaccid bladder results from sacral or peripheral lesions, not suprasacral cord disease.",
+        "Correct. Suprasacral upper motor neuron lesions cause a spastic (overactive) bladder with urge incontinence.",
+        "Incorrect. Stress incontinence is a support problem, not from demyelination.",
+        "Incorrect. Peripheral neuropathy is not the mechanism in a cervical MS plaque.",
+        "Incorrect. MS spinal cord lesions typically disrupt the micturition reflex."
+      ]
+    },
+    {
+      "id": 6,
+      "stem": "A 35-year-old man sustains a T6 spinal cord injury in an MVA. After spinal shock resolves, which bladder dysfunction is most likely?",
+      "choices": [
+        "Flaccid bladder with overflow incontinence",
+        "Normal voiding",
+        "Spastic bladder with dyssynergia",
+        "Stress incontinence",
+        "Functional incontinence only"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Flaccid bladder follows sacral/infrasacral lesions, not T6.",
+        "Incorrect. SCI above S2 disrupts coordinated voiding.",
+        "Correct. Suprasacral SCI preserves the sacral reflex but loses coordination, producing spastic bladder with detrusor-sphincter dyssynergia.",
+        "Incorrect. Stress incontinence is not the SCI pattern.",
+        "Incorrect. SCI causes neurogenic, not functional, incontinence."
+      ]
+    },
+    {
+      "id": 7,
+      "stem": "A 60-year-old man with severe lumbar disc herniation has urinary retention, saddle anesthesia, and decreased anal tone. Which neurogenic bladder pattern is most likely?",
+      "choices": [
+        "Spastic bladder, urge incontinence",
+        "Flaccid bladder, overflow incontinence",
+        "Normal reflex voiding",
+        "Stress incontinence",
+        "Detrusor-sphincter dyssynergia"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. A spastic pattern requires intact sacral reflex arcs.",
+        "Correct. Cauda equina syndrome damages the S2-S4 sacral reflex, producing a flaccid bladder with overflow incontinence.",
+        "Incorrect. The micturition reflex is disrupted in cauda equina.",
+        "Incorrect. Stress incontinence is unrelated to cauda equina.",
+        "Incorrect. Dyssynergia occurs with suprasacral lesions, not cauda equina."
+      ]
+    },
+    {
+      "id": 8,
+      "stem": "A 65-year-old man with type 2 diabetes for 20 years reports painless bladder distension, weak stream, and overflow leakage. Which mechanism best explains this?",
+      "choices": [
+        "Spinal cord demyelination",
+        "Stroke involving the micturition center",
+        "Peripheral autonomic neuropathy",
+        "Bladder outlet obstruction from BPH alone",
+        "Detrusor hyperactivity"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Diabetes does not typically cause CNS demyelination.",
+        "Incorrect. Stroke causes overactive bladder, not painless distension.",
+        "Correct. Diabetic autonomic neuropathy impairs sensation and detrusor contraction, producing a flaccid bladder with overflow.",
+        "Incorrect. BPH alone causes obstruction; painless distension implies sensory loss.",
+        "Incorrect. Detrusor hyperactivity causes urgency, not painless distension."
+      ]
+    },
+    {
+      "id": 9,
+      "stem": "Which spinal cord lesion is most likely to produce a flaccid neurogenic bladder with overflow incontinence?",
+      "choices": [
+        "Posterior disc herniation at L2",
+        "Cervical spinal cord injury at C5",
+        "Multiple sclerosis plaque at T4 cord",
+        "Anterior disc herniation at L2 level",
+        "Hemorrhage in the pontine micturition center"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. The conus ends near L1-L2; posterior herniation at L2 compresses sacral nerve roots and disrupts the micturition reflex.",
+        "Incorrect. C5 injury produces a suprasacral spastic bladder.",
+        "Incorrect. T4 MS plaque is suprasacral, producing a spastic bladder.",
+        "Incorrect. Anterior disc herniation is less likely to compress the cauda equina.",
+        "Incorrect. Pontine lesions disrupt voluntary control but spare the sacral reflex."
+      ]
+    },
+    {
+      "id": 10,
+      "stem": "A 78-year-old man recovering from a left MCA stroke now has frequent small-volume urination with urgency. Which mechanism best explains his urinary symptoms?",
+      "choices": [
+        "Sacral reflex arc destruction",
+        "Peripheral neuropathy",
+        "Loss of cortical inhibition",
+        "Pelvic floor weakness",
+        "Bladder outlet obstruction"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Stroke spares the sacral reflex arc.",
+        "Incorrect. Stroke affects the CNS, not peripheral nerves.",
+        "Correct. Brain injury removes cortical inhibition of the spinal micturition reflex, producing an overactive bladder.",
+        "Incorrect. Pelvic floor weakness causes stress incontinence, not urgency from stroke.",
+        "Incorrect. Stroke does not cause outlet obstruction."
+      ]
+    },
+    {
+      "id": 11,
+      "stem": "A 68-year-old woman with overactive bladder is started on oxybutynin. What is its primary mechanism of action in the bladder?",
+      "choices": [
+        "Beta-3 receptor agonism",
+        "M3 muscarinic receptor blockade",
+        "Alpha-1 receptor blockade",
+        "Muscarinic receptor agonism",
+        "Direct smooth muscle relaxation"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Mirabegron is the beta-3 agonist; oxybutynin is antimuscarinic.",
+        "Correct. Oxybutynin blocks M3 receptors on the detrusor, reducing involuntary contractions and increasing bladder capacity.",
+        "Incorrect. Alpha-1 blockers target the prostate and bladder neck, not the detrusor.",
+        "Incorrect. Bethanechol is the muscarinic agonist; oxybutynin is the antagonist.",
+        "Incorrect. Oxybutynin acts via receptor blockade, not direct relaxation."
+      ]
+    },
+    {
+      "id": 12,
+      "stem": "A 70-year-old man with urge incontinence is started on tolterodine. Two weeks later he reports dry mouth, constipation, and difficulty voiding with a new post-void residual of 250 mL. What is the best next step?",
+      "choices": [
+        "Increase tolterodine dose",
+        "Add bethanechol",
+        "Switch to mirabegron",
+        "Start tamsulosin",
+        "Add furosemide"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Higher antimuscarinic doses worsen retention and side effects.",
+        "Incorrect. Bethanechol is for hypotonic bladders; combining is not first-line here.",
+        "Correct. Mirabegron, a beta-3 agonist, treats overactive bladder without antimuscarinic effects and is preferred when those limit therapy.",
+        "Incorrect. Tamsulosin treats BPH outlet obstruction, not detrusor overactivity.",
+        "Incorrect. Diuretics worsen incontinence."
+      ]
+    },
+    {
+      "id": 13,
+      "stem": "A 75-year-old man started on mirabegron for overactive bladder returns with elevated blood pressure readings. Which property of mirabegron best explains this finding?",
+      "choices": [
+        "Anticholinergic effect",
+        "Beta-3 adrenergic stimulation",
+        "Direct alpha-1 agonism",
+        "Aldosterone activation",
+        "Sodium retention"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Mirabegron is not antimuscarinic.",
+        "Correct. Beta-3 stimulation can raise blood pressure; this is the key safety concern with mirabegron.",
+        "Incorrect. Mirabegron acts on beta-3, not alpha-1, receptors.",
+        "Incorrect. Aldosterone activation is not its mechanism.",
+        "Incorrect. Sodium retention is not the described effect."
+      ]
+    },
+    {
+      "id": 14,
+      "stem": "A 62-year-old man has a hypotonic neurogenic bladder with urinary retention after pelvic surgery. Which medication directly stimulates detrusor contraction?",
+      "choices": [
+        "Oxybutynin",
+        "Tamsulosin",
+        "Mirabegron",
+        "Bethanechol",
+        "Solifenacin"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Oxybutynin blocks M3 receptors and worsens retention.",
+        "Incorrect. Tamsulosin relaxes the bladder neck but does not stimulate detrusor contraction.",
+        "Incorrect. Mirabegron relaxes the detrusor.",
+        "Correct. Bethanechol is a muscarinic agonist that stimulates M3 receptors to promote detrusor contraction and emptying.",
+        "Incorrect. Solifenacin is antimuscarinic and worsens retention."
+      ]
+    },
+    {
+      "id": 15,
+      "stem": "A 60-year-old man with BPH-related hesitancy, weak stream, and post-void dribbling is started on tamsulosin. What is its mechanism of action?",
+      "choices": [
+        "M3 blockade on the detrusor muscle",
+        "Beta-3 receptor agonism",
+        "Alpha-1 prostate smooth muscle blockade",
+        "5-alpha-reductase inhibition",
+        "Muscarinic receptor agonism"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Antimuscarinics target the detrusor; tamsulosin does not.",
+        "Incorrect. Mirabegron is the beta-3 agonist.",
+        "Correct. Tamsulosin blocks alpha-1 receptors on prostate and bladder neck smooth muscle, reducing outlet resistance.",
+        "Incorrect. Finasteride is the 5-alpha-reductase inhibitor.",
+        "Incorrect. Bethanechol is the muscarinic agonist."
+      ]
+    },
+    {
+      "id": 16,
+      "stem": "A 68-year-old man takes doxazosin for BPH. After his first dose he stands and feels dizzy with near-syncope. Which adverse effect best explains this?",
+      "choices": [
+        "Bronchospasm",
+        "Anticholinergic toxicity",
+        "Orthostatic hypotension",
+        "Serotonin syndrome",
+        "Hyperkalemia"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Bronchospasm is associated with bethanechol, not alpha-1 blockers.",
+        "Incorrect. Doxazosin is not antimuscarinic.",
+        "Correct. Alpha-1 blockers cause orthostatic hypotension, dizziness, and syncope due to vascular smooth muscle relaxation.",
+        "Incorrect. Doxazosin does not cause serotonin syndrome.",
+        "Incorrect. Hyperkalemia is not a typical doxazosin effect."
+      ]
+    },
+    {
+      "id": 17,
+      "stem": "A 70-year-old man with COPD and heart block needs treatment for a hypotonic bladder. Which medication should be used with greatest caution?",
+      "choices": [
+        "Bethanechol",
+        "Oxybutynin",
+        "Mirabegron",
+        "Tamsulosin",
+        "Solifenacin"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Bethanechol is a muscarinic agonist that can cause bronchospasm and bradycardia, dangerous in reactive airway and conduction disease.",
+        "Incorrect. Oxybutynin does not cause bronchospasm or bradycardia.",
+        "Incorrect. Mirabegron raises BP but does not cause bronchospasm.",
+        "Incorrect. Tamsulosin is unrelated to these risks.",
+        "Incorrect. Solifenacin is antimuscarinic and would not worsen these conditions."
+      ]
+    },
+    {
+      "id": 18,
+      "stem": "A 65-year-old postmenopausal woman has urgency, frequency, vaginal dryness, and mild incontinence. Pelvic exam shows atrophic vaginal mucosa. Which treatment best addresses the underlying tissue change?",
+      "choices": [
+        "Oral conjugated estrogen",
+        "Topical vaginal estrogen",
+        "Tamsulosin",
+        "Furosemide",
+        "Bethanechol"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Systemic estrogen carries higher risk; topical is preferred for GU symptoms.",
+        "Correct. Topical vaginal estrogen restores urogenital epithelium and improves urethral coaptation in GSM.",
+        "Incorrect. Tamsulosin treats male BPH, not GSM.",
+        "Incorrect. Diuretics worsen incontinence.",
+        "Incorrect. Bethanechol is for hypotonic bladder, not GSM."
+      ]
+    },
+    {
+      "id": 19,
+      "stem": "A 55-year-old woman with mild stress incontinence after vaginal deliveries wants nonpharmacologic management. Which first-line intervention is most appropriate?",
+      "choices": [
+        "Indwelling Foley catheter",
+        "Pelvic floor Kegel exercises",
+        "Suprapubic catheter placement",
+        "Sacral nerve neuromodulation",
+        "Bladder augmentation surgery"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Catheters are not first-line and carry UTI risk.",
+        "Correct. Pelvic floor exercises strengthen the levator ani and external sphincter, first-line for stress incontinence.",
+        "Incorrect. Suprapubic catheters are reserved for chronic refractory incontinence.",
+        "Incorrect. Neuromodulation is for refractory urge incontinence.",
+        "Incorrect. Augmentation surgery is not first-line."
+      ]
+    },
+    {
+      "id": 20,
+      "stem": "A 70-year-old woman with stress incontinence declines surgery. Which device is most appropriate to physically support the urethra and bladder neck?",
+      "choices": [
+        "Condom catheter",
+        "Indwelling Foley catheter",
+        "Pessary",
+        "Suprapubic catheter",
+        "Intermittent catheter"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Condom catheters are male external collection devices.",
+        "Incorrect. Foley catheters drain but do not support pelvic anatomy.",
+        "Correct. A pessary is inserted vaginally to provide muscular support and reduce stress incontinence.",
+        "Incorrect. Suprapubic catheters drain the bladder, they do not provide support.",
+        "Incorrect. Intermittent catheters drain but do not provide pelvic support."
+      ]
+    },
+    {
+      "id": 21,
+      "stem": "A 55-year-old man with a T8 spinal cord injury requires bladder drainage. Which approach has the lowest infection risk for long-term management?",
+      "choices": [
+        "Indwelling Foley catheter",
+        "Intermittent catheterization",
+        "Suprapubic catheter for all patients",
+        "Continuous bladder irrigation",
+        "No drainage required"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Indwelling catheters carry higher UTI and epididymitis risk.",
+        "Correct. Intermittent catheterization is safer than indwelling Foley for chronic neurogenic bladder management.",
+        "Incorrect. Suprapubic catheters are reserved for chronic cases when other methods fail.",
+        "Incorrect. Continuous irrigation is not standard for neurogenic bladder.",
+        "Incorrect. SCI patients with retention require drainage."
+      ]
+    },
+    {
+      "id": 22,
+      "stem": "A 60-year-old woman with suspected incontinence reports frequency, hesitancy, and incomplete voiding. Which initial test is most important to rule out a treatable cause?",
+      "choices": [
+        "Urodynamic studies",
+        "Cystoscopy",
+        "Urinalysis",
+        "Pelvic MRI",
+        "Renal ultrasound"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Urodynamics is a specialized later test, not first-line.",
+        "Incorrect. Cystoscopy is invasive and not first-line.",
+        "Correct. Urinalysis (with culture if needed) rules out UTI, a common reversible cause of urgency and incontinence.",
+        "Incorrect. MRI is not the initial workup for incontinence.",
+        "Incorrect. Renal ultrasound does not diagnose UTI or incontinence type."
+      ]
+    },
+    {
+      "id": 23,
+      "stem": "A 67-year-old man with suspected overflow incontinence needs noninvasive assessment of post-void residual volume. Which method is most appropriate?",
+      "choices": [
+        "CT scan of the pelvis",
+        "Bladder ultrasound",
+        "MRI of the bladder",
+        "Plain abdominal X-ray",
+        "Serum BUN/creatinine"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. CT involves radiation and is not the standard method.",
+        "Correct. Bladder ultrasound estimates post-void residual without catheterization.",
+        "Incorrect. MRI is not the standard method for PVR measurement.",
+        "Incorrect. X-ray does not quantify bladder volume.",
+        "Incorrect. BUN/creatinine assesses renal function, not bladder volume."
+      ]
+    },
+    {
+      "id": 24,
+      "stem": "A 72-year-old woman has predominant urge incontinence refractory to behavioral therapy, oxybutynin, and mirabegron. Which procedural option is most appropriate?",
+      "choices": [
+        "Midurethral sling",
+        "Artificial urinary sphincter implant",
+        "Periurethral bulking",
+        "Botulinum toxin injection",
+        "Pessary placement"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Slings treat stress incontinence.",
+        "Incorrect. Artificial sphincters address sphincter weakness, not urge.",
+        "Incorrect. Bulking treats stress incontinence.",
+        "Correct. Botulinum toxin injection (or sacral neuromodulation) treats refractory urge incontinence by increasing bladder capacity.",
+        "Incorrect. Pessaries support stress incontinence, not urge."
+      ]
+    },
+    {
+      "id": 25,
+      "stem": "A 50-year-old woman with stress incontinence has failed pelvic floor therapy. Which surgical option is most appropriate?",
+      "choices": [
+        "Sacral neuromodulation",
+        "Botulinum toxin detrusor injection",
+        "Midurethral sling procedure",
+        "Bladder augmentation",
+        "Suprapubic catheter"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Neuromodulation treats urge, not stress, incontinence.",
+        "Incorrect. Botulinum toxin treats detrusor overactivity, not sphincter weakness.",
+        "Correct. Midurethral sling procedures increase urethral support and outlet resistance, treating stress incontinence.",
+        "Incorrect. Augmentation increases bladder capacity for urge incontinence.",
+        "Incorrect. Suprapubic catheter is not a surgical correction for stress incontinence."
+      ]
+    }
+  ]
+}

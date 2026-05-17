@@ -1,0 +1,481 @@
+{
+  "id": 63,
+  "title": "Bladder Cancer",
+  "questions": [
+    {
+      "id": 1,
+      "stem": "A 68-year-old man with a 50 pack-year smoking history presents with two months of intermittent visible blood in his urine. He denies dysuria, fever, or flank pain. Urinalysis confirms gross hematuria without pyuria. Which is the most likely diagnosis?",
+      "choices": [
+        "Urothelial carcinoma",
+        "Acute bacterial cystitis",
+        "Renal cell carcinoma",
+        "IgA nephropathy",
+        "Benign prostatic hyperplasia"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Painless gross hematuria in an older male smoker is the classic presentation of urothelial carcinoma of the bladder.",
+        "Incorrect. Cystitis typically presents with dysuria and pyuria, not isolated painless hematuria.",
+        "Incorrect. RCC can cause hematuria but more often presents with flank pain or mass; bladder cancer is far more linked to smoking.",
+        "Incorrect. IgA nephropathy causes glomerular hematuria with proteinuria and casts, not isolated bladder hematuria.",
+        "Incorrect. BPH causes obstructive voiding symptoms, not painless gross hematuria as the dominant feature."
+      ]
+    },
+    {
+      "id": 2,
+      "stem": "A 72-year-old man undergoing routine workup is found to have 50-60 RBCs per high-power field on urinalysis without WBCs, bacteria, casts, or proteinuria. He has a 40-year smoking history. What is the most appropriate next diagnostic step?",
+      "choices": [
+        "Repeat urinalysis in 6 months",
+        "Trial of antibiotics",
+        "Cystoscopy",
+        "Renal biopsy",
+        "24-hour urine protein"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Unexplained hematuria in a high-risk patient requires evaluation, not deferred follow-up.",
+        "Incorrect. Empiric antibiotics are inappropriate without evidence of infection.",
+        "Correct. Cystoscopy is the gold standard for the initial diagnosis of bladder cancer when hematuria is present.",
+        "Incorrect. No glomerular features (proteinuria, casts) are present to suggest renal parenchymal disease.",
+        "Incorrect. No proteinuria is present; this would not evaluate suspected bladder cancer."
+      ]
+    },
+    {
+      "id": 3,
+      "stem": "A 65-year-old male smoker has a bladder mass identified on cystoscopy. Biopsy is most likely to show which histology?",
+      "choices": [
+        "Squamous cell carcinoma",
+        "Adenocarcinoma",
+        "Small cell carcinoma",
+        "Urothelial carcinoma",
+        "Sarcomatoid carcinoma"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. SCC accounts for only about 5% of bladder cancers and is linked to chronic inflammation.",
+        "Incorrect. Adenocarcinoma of the bladder is rare.",
+        "Incorrect. Small cell carcinoma of the bladder is uncommon.",
+        "Correct. Urothelial (transitional cell) carcinoma is the most common bladder cancer, comprising about 90% of cases.",
+        "Incorrect. Sarcomatoid carcinoma is a rare variant, not the typical histology."
+      ]
+    },
+    {
+      "id": 4,
+      "stem": "A 60-year-old woman who worked for 30 years in a dye factory presents with painless hematuria and is diagnosed with urothelial carcinoma. Exposure to which class of chemicals is most likely responsible?",
+      "choices": [
+        "Aflatoxins",
+        "Arylamines",
+        "Vinyl chloride",
+        "Asbestos fibers",
+        "Polychlorinated biphenyls"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Aflatoxins are linked to hepatocellular carcinoma, not bladder cancer.",
+        "Correct. Occupational arylamine exposure (dyes, rubber, paint) is a recognized cause of UCC, often 15-40 years after first exposure.",
+        "Incorrect. Vinyl chloride is associated with hepatic angiosarcoma.",
+        "Incorrect. Asbestos is linked to mesothelioma and lung cancer.",
+        "Incorrect. PCBs are not the brick's stated bladder cancer risk factor."
+      ]
+    },
+    {
+      "id": 5,
+      "stem": "A 55-year-old woman with severe granulomatosis with polyangiitis treated long-term with cyclophosphamide develops new-onset gross hematuria. Cystoscopy reveals a bladder mass. Which mechanism best explains her increased cancer risk?",
+      "choices": [
+        "Cyclophosphamide hemorrhagic cystitis",
+        "Direct cytotoxicity to glomerular cells",
+        "Bone marrow suppression",
+        "Tubular acidosis",
+        "Renal artery stenosis"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Cyclophosphamide causes hemorrhagic cystitis with bladder inflammation and bleeding, which increases the risk of UCC.",
+        "Incorrect. Glomerular cytotoxicity is not the mechanism for bladder cancer.",
+        "Incorrect. Marrow suppression is a separate cyclophosphamide effect unrelated to bladder carcinogenesis.",
+        "Incorrect. Tubular acidosis is not relevant to bladder cancer risk.",
+        "Incorrect. Renal artery stenosis does not cause bladder cancer."
+      ]
+    },
+    {
+      "id": 6,
+      "stem": "A 70-year-old man treated 25 years earlier with pelvic radiotherapy for prostate cancer now presents with painless hematuria. Cystoscopy identifies a bladder tumor. Which prior exposure is most likely contributing to his current malignancy?",
+      "choices": [
+        "Ionizing radiation",
+        "Pelvic surgery",
+        "Indwelling catheter",
+        "Hormone therapy",
+        "Bisphosphonates"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Pelvic ionizing radiation is a recognized risk factor for bladder cancer, with a latency of several decades.",
+        "Incorrect. Pelvic surgery alone is not the brick's stated risk factor.",
+        "Incorrect. Catheters are linked to infection but not the primary risk emphasized here.",
+        "Incorrect. Hormone therapy for prostate cancer is not a bladder cancer risk factor in the brick.",
+        "Incorrect. Bisphosphonates are not associated with bladder cancer."
+      ]
+    },
+    {
+      "id": 7,
+      "stem": "A 50-year-old woman from rural Egypt presents with terminal hematuria and is found to have a bladder mass. Biopsy shows squamous cell carcinoma with surrounding granulomatous inflammation and parasite eggs. Chronic infection with which organism is most likely responsible?",
+      "choices": [
+        "Schistosoma mansoni",
+        "Schistosoma japonicum",
+        "Schistosoma haematobium",
+        "Echinococcus granulosus",
+        "Trypanosoma cruzi"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. S. mansoni causes intestinal and hepatic disease, not urinary schistosomiasis.",
+        "Incorrect. S. japonicum causes intestinal disease.",
+        "Correct. Chronic S. haematobium infection drives squamous metaplasia of the urothelium, predisposing to SCC of the bladder.",
+        "Incorrect. Echinococcus causes hydatid cysts, not bladder cancer.",
+        "Incorrect. T. cruzi causes Chagas disease, unrelated to bladder cancer."
+      ]
+    },
+    {
+      "id": 8,
+      "stem": "A pathologist examines a high-grade invasive urothelial carcinoma. Loss-of-function mutations in which two genes are most commonly associated with this tumor?",
+      "choices": [
+        "BRCA1 and BRCA2",
+        "TP53 and RB",
+        "APC and KRAS",
+        "MLH1 and MSH2",
+        "VHL and PTEN"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. BRCA mutations are linked to breast and ovarian cancers.",
+        "Correct. High-grade UCC commonly shows loss-of-function mutations in the TP53 and RB tumor suppressor genes.",
+        "Incorrect. APC and KRAS are associated with colorectal cancer.",
+        "Incorrect. MLH1 and MSH2 mutations cause Lynch syndrome (colorectal and endometrial cancers).",
+        "Incorrect. VHL is linked to RCC; PTEN to other malignancies."
+      ]
+    },
+    {
+      "id": 9,
+      "stem": "A 62-year-old man with a newly diagnosed bladder tumor undergoes transurethral biopsy. The pathology report emphasizes one feature as the most important prognostic factor. Which is it?",
+      "choices": [
+        "Tumor size",
+        "Number of lesions",
+        "Depth of basement membrane invasion",
+        "Patient age at diagnosis",
+        "Presence of microscopic hematuria"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Size matters less than whether the tumor has invaded.",
+        "Incorrect. Multifocality affects management but not as strongly as invasion depth.",
+        "Correct. The brick states the most important prognostic factor is the degree to which the tumor invades structures below the basement membrane.",
+        "Incorrect. Age is not the dominant prognostic feature highlighted.",
+        "Incorrect. Microscopic vs gross hematuria does not determine prognosis."
+      ]
+    },
+    {
+      "id": 10,
+      "stem": "A 67-year-old man with newly diagnosed bladder cancer has a biopsy showing dyscohesive, atypical cells with large nuclei, prominent nucleoli, and numerous mitotic figures extending through the basement membrane. Which best describes this lesion?",
+      "choices": [
+        "Noninvasive papillary urothelial carcinoma",
+        "Carcinoma in situ",
+        "Benign papilloma",
+        "High-grade invasive urothelial carcinoma",
+        "Squamous cell carcinoma"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Noninvasive papillary tumors do not breach the basement membrane.",
+        "Incorrect. CIS is a flat lesion confined to the epithelium.",
+        "Incorrect. Benign papillomas do not show high-grade atypia or invasion.",
+        "Correct. Invasion through the basement membrane with dyscohesive atypical cells and mitoses defines high-grade invasive urothelial carcinoma.",
+        "Incorrect. SCC shows keratinization and intercellular bridges, not this urothelial histology."
+      ]
+    },
+    {
+      "id": 11,
+      "stem": "A 65-year-old smoker undergoes cystoscopy with biopsy that shows a flat lesion with full-thickness epithelial atypia but no invasion through the basement membrane. Which best describes this finding?",
+      "choices": [
+        "Invasive urothelial carcinoma",
+        "Noninvasive papillary lesion",
+        "Carcinoma in situ",
+        "Reactive atypia",
+        "Squamous metaplasia"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Invasive UCC extends through the basement membrane.",
+        "Incorrect. Papillary lesions are stalked, not flat.",
+        "Correct. CIS is a flat lesion with cytologic features of malignancy confined to the epithelium.",
+        "Incorrect. Reactive atypia lacks the malignant cytology described.",
+        "Incorrect. Squamous metaplasia features squamous cells, not full-thickness urothelial atypia."
+      ]
+    },
+    {
+      "id": 12,
+      "stem": "A 72-year-old man presents with painless gross hematuria for three weeks. He has occasional flank discomfort. Imaging reveals right-sided hydronephrosis. Which mechanism best explains the hydronephrosis?",
+      "choices": [
+        "Tumor obstructing the ureter",
+        "Glomerular inflammation",
+        "Renal artery thrombosis",
+        "Bladder rupture",
+        "Urethral stricture"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. A bladder tumor blocking the ureteral orifice causes urine backup and hydronephrosis with flank pain.",
+        "Incorrect. Glomerular disease does not cause obstructive hydronephrosis.",
+        "Incorrect. Renal artery thrombosis causes ischemia, not hydronephrosis.",
+        "Incorrect. Bladder rupture causes urinary peritonitis, not hydronephrosis.",
+        "Incorrect. A urethral stricture would cause bilateral, not unilateral, hydronephrosis."
+      ]
+    },
+    {
+      "id": 13,
+      "stem": "A 55-year-old woman with gross hematuria is being evaluated. Her clinician first wants to exclude common mimickers before pursuing cancer workup. Which initial finding would suggest cystitis rather than malignancy?",
+      "choices": [
+        "Pyuria with bacteriuria",
+        "Painless hematuria",
+        "Tobacco smoking history",
+        "Microscopic hematuria only",
+        "Hydronephrosis"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Pyuria and bacteriuria suggest cystitis; both are absent in malignancy.",
+        "Incorrect. Painless hematuria is more typical of malignancy than cystitis.",
+        "Incorrect. Smoking history raises cancer suspicion, not infection.",
+        "Incorrect. Microscopic hematuria alone does not distinguish cystitis from cancer.",
+        "Incorrect. Hydronephrosis suggests obstruction by a mass, not cystitis."
+      ]
+    },
+    {
+      "id": 14,
+      "stem": "A 60-year-old man with hematuria has urinalysis showing RBCs with associated proteinuria and red cell casts. Which is the most likely source of his hematuria?",
+      "choices": [
+        "Bladder tumor",
+        "Urothelial carcinoma of the renal pelvis",
+        "Glomerular disease",
+        "Ureteral stone",
+        "Prostatic bleeding"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Bladder tumors produce isolated hematuria without casts.",
+        "Incorrect. Renal pelvis UCC also produces isolated hematuria, not casts.",
+        "Correct. Proteinuria and red cell casts indicate a glomerular source of hematuria.",
+        "Incorrect. Stones cause hematuria with colicky pain but not casts.",
+        "Incorrect. Prostatic bleeding does not produce red cell casts."
+      ]
+    },
+    {
+      "id": 15,
+      "stem": "A 67-year-old man is being evaluated for unexplained hematuria. Which test is the gold standard for initial diagnosis of bladder cancer?",
+      "choices": [
+        "Abdominal ultrasound",
+        "Urine culture",
+        "Cystoscopy",
+        "PSA measurement",
+        "Plain film of the pelvis"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Ultrasound may detect masses but is not the gold standard.",
+        "Incorrect. Urine culture evaluates infection, not malignancy.",
+        "Correct. Cystoscopy with biopsy is the gold standard for the initial diagnosis of bladder cancer.",
+        "Incorrect. PSA evaluates prostate cancer, not bladder cancer.",
+        "Incorrect. Plain films are not sensitive for bladder masses."
+      ]
+    },
+    {
+      "id": 16,
+      "stem": "A 70-year-old woman with confirmed bladder cancer needs evaluation of the upper urinary tract for possible urothelial lesions in the ureters or renal pelvis. Which imaging modality is most appropriate?",
+      "choices": [
+        "Plain abdominal radiograph",
+        "Renal ultrasound only",
+        "CT with IV contrast",
+        "Voiding cystourethrogram",
+        "DMSA scan"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Plain films do not adequately image the urothelium.",
+        "Incorrect. Ultrasound has limited sensitivity for upper-tract urothelial lesions.",
+        "Correct. CT (or MRI) with IV contrast images the upper urinary tract for urothelial disease.",
+        "Incorrect. VCUG evaluates reflux, not urothelial malignancy.",
+        "Incorrect. DMSA evaluates renal cortical scarring."
+      ]
+    },
+    {
+      "id": 17,
+      "stem": "A 68-year-old man with bladder cancer is being staged. The pathology report describes a tumor confined to the epithelium without invasion. Which stage does this represent?",
+      "choices": [
+        "Stage 0",
+        "Stage 1",
+        "Stage 2",
+        "Stage 3",
+        "Stage 4"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Tumor confined to the epithelium (in situ) is stage 0.",
+        "Incorrect. Stage 1 involves invasion below the epithelium.",
+        "Incorrect. Stage 2 involves muscle invasion.",
+        "Incorrect. Stage 3 involves perivesical extension.",
+        "Incorrect. Stage 4 involves distant metastasis."
+      ]
+    },
+    {
+      "id": 18,
+      "stem": "A 65-year-old man has bladder cancer with imaging showing bone and liver metastases. Which stage does this represent?",
+      "choices": [
+        "Stage 0",
+        "Stage 1",
+        "Stage 2",
+        "Stage 3",
+        "Stage 4"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. Stage 0 is in situ disease.",
+        "Incorrect. Stage 1 is localized below the epithelium.",
+        "Incorrect. Stage 2 involves muscle invasion without distant spread.",
+        "Incorrect. Stage 3 involves perivesical extension without distant metastasis.",
+        "Correct. Distant metastasis (bone or liver) defines stage 4 bladder cancer."
+      ]
+    },
+    {
+      "id": 19,
+      "stem": "A 62-year-old man undergoes cystoscopic biopsy showing noninvasive papillary urothelial carcinoma confined to the epithelium. Which treatment is most appropriate?",
+      "choices": [
+        "Radical cystectomy alone",
+        "Resection plus intravesical BCG",
+        "Systemic cisplatin chemotherapy",
+        "Pelvic radiation therapy",
+        "Observation only"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Radical cystectomy is reserved for muscle-invasive disease.",
+        "Correct. Superficial disease is treated with cystoscopic local resection plus intravesical chemotherapy or BCG.",
+        "Incorrect. Systemic chemotherapy is used for invasive or metastatic disease.",
+        "Incorrect. Radiation is not first-line for superficial UCC in the brick.",
+        "Incorrect. Observation is inadequate for malignant lesions."
+      ]
+    },
+    {
+      "id": 20,
+      "stem": "A 64-year-old man with superficial bladder cancer is started on intravesical BCG. Which best describes this agent?",
+      "choices": [
+        "Platinum-based chemotherapy",
+        "Live attenuated Mycobacterium bovis",
+        "Anti-PD-1 monoclonal antibody",
+        "Antimetabolite nucleoside analog",
+        "Anti-Nectin-4 antibody-drug conjugate"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Cisplatin is a platinum agent used for invasive disease, not BCG.",
+        "Correct. BCG is a live attenuated form of Mycobacterium bovis that induces local inflammation to treat superficial UCC.",
+        "Incorrect. Pembrolizumab is the PD-1 inhibitor, not BCG.",
+        "Incorrect. Gemcitabine is the antimetabolite given intravesically; BCG is the mycobacterium.",
+        "Incorrect. Enfortumab targets Nectin-4 and is used for metastatic disease."
+      ]
+    },
+    {
+      "id": 21,
+      "stem": "A 60-year-old man received intravesical BCG for superficial bladder cancer six months ago. He returns for a routine pre-employment screening. Which result is expected?",
+      "choices": [
+        "Positive TB skin test",
+        "Active pulmonary tuberculosis",
+        "Positive HIV test",
+        "Hepatitis B surface antigen positive",
+        "Elevated procalcitonin"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Patients who receive intravesical BCG develop a positive TB skin test even though they do not have clinical tuberculosis.",
+        "Incorrect. BCG does not cause clinical TB.",
+        "Incorrect. BCG does not affect HIV serology.",
+        "Incorrect. BCG is unrelated to hepatitis B.",
+        "Incorrect. Procalcitonin is not the expected finding."
+      ]
+    },
+    {
+      "id": 22,
+      "stem": "A 58-year-old man has muscle-invasive bladder cancer without distant metastasis. Which is the standard management approach?",
+      "choices": [
+        "Intravesical BCG alone",
+        "Cystoscopic resection alone",
+        "Observation with repeat cystoscopy",
+        "Neoadjuvant cisplatin then cystectomy",
+        "Intravesical gemcitabine only"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. BCG is for non-muscle-invasive disease.",
+        "Incorrect. Local resection alone does not treat muscle-invasive disease.",
+        "Incorrect. Observation is inappropriate for invasive cancer.",
+        "Correct. Muscle-invasive bladder cancer is managed with neoadjuvant cisplatin-based chemotherapy followed by radical cystectomy.",
+        "Incorrect. Intravesical therapy is for superficial disease, not muscle-invasive."
+      ]
+    },
+    {
+      "id": 23,
+      "stem": "A 70-year-old man with metastatic urothelial carcinoma has tumor testing reveal a specific FGFR mutation. Which targeted therapy is most appropriate?",
+      "choices": [
+        "Erdafitinib",
+        "Imatinib",
+        "Rituximab",
+        "Trastuzumab",
+        "Bevacizumab"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Erdafitinib is a gene-targeted FGFR inhibitor used for invasive or metastatic UCC with an FGFR mutation.",
+        "Incorrect. Imatinib targets BCR-ABL and KIT, not FGFR.",
+        "Incorrect. Rituximab targets CD20 on B cells.",
+        "Incorrect. Trastuzumab targets HER2.",
+        "Incorrect. Bevacizumab is an anti-VEGF antibody."
+      ]
+    },
+    {
+      "id": 24,
+      "stem": "A 65-year-old man with metastatic urothelial carcinoma is being started on combination targeted immunotherapy. Which pair is most appropriate?",
+      "choices": [
+        "Rituximab and cisplatin",
+        "Enfortumab and pembrolizumab",
+        "Imatinib and gemcitabine",
+        "Trastuzumab and paclitaxel",
+        "Cetuximab and methotrexate"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Rituximab is not used for UCC.",
+        "Correct. Enfortumab (anti-Nectin-4) plus pembrolizumab (PD-1 inhibitor) is used for invasive and metastatic UCC.",
+        "Incorrect. Imatinib is not used for UCC.",
+        "Incorrect. Trastuzumab targets HER2 and is not the brick's regimen for UCC.",
+        "Incorrect. Cetuximab is not used in the bladder cancer regimen described."
+      ]
+    },
+    {
+      "id": 25,
+      "stem": "A 60-year-old man is diagnosed with squamous cell carcinoma of the bladder. Which feature most likely characterizes his disease compared to UCC?",
+      "choices": [
+        "Earlier stage at diagnosis",
+        "Better 5-year survival than UCC",
+        "Treatment with intravesical BCG",
+        "Strong link to cyclophosphamide use",
+        "Muscle-invasive at diagnosis"
+      ],
+      "answer": 4,
+      "explanations": [
+        "Incorrect. SCC is typically found at later stages, not earlier.",
+        "Incorrect. SCC has a poor prognosis with 33-48% 5-year survival.",
+        "Incorrect. Radical cystectomy, not intravesical BCG, is the standard treatment for SCC.",
+        "Incorrect. SCC is linked to chronic inflammation (e.g., S. haematobium), not cyclophosphamide.",
+        "Correct. SCC of the bladder is usually high-grade and muscle-invasive at the time of diagnosis."
+      ]
+    }
+  ]
+}

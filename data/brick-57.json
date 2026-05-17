@@ -1,0 +1,481 @@
+{
+  "id": 57,
+  "title": "Congenital Disorders of the Lower Urinary Tract",
+  "questions": [
+    {
+      "id": 1,
+      "stem": "A newborn boy is found to have bilateral hydronephrosis on prenatal ultrasound. The pediatric urology team explains that the ureter normally enters the bladder wall at an oblique angle to prevent backflow. From which embryologic structure does the ureter develop?",
+      "choices": [
+        "Ureteric bud",
+        "Pelvic part of the urogenital sinus",
+        "Allantois",
+        "Paramesonephric duct",
+        "Metanephric blastema"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. The ureter develops from the ureteric bud, an outgrowth of the mesonephric duct.",
+        "Incorrect. The pelvic urogenital sinus forms the bladder and prostatic urethra, not the ureter.",
+        "Incorrect. The allantois forms the urachus, not the ureter.",
+        "Incorrect. The paramesonephric duct gives rise to female reproductive structures.",
+        "Incorrect. The metanephric blastema becomes the nephrons, not the ureter."
+      ]
+    },
+    {
+      "id": 2,
+      "stem": "A 3-year-old girl with three prior febrile UTIs undergoes voiding cystourethrogram showing retrograde flow of contrast from the bladder into the right ureter and renal pelvis. Which embryologic abnormality best explains primary vesicoureteral reflux?",
+      "choices": [
+        "Shortened intramural ureter",
+        "Aberrant renal artery compression",
+        "Premature ureteric bud branching",
+        "Failed allantois obliteration",
+        "Persistent urethral folds"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Primary VUR results from a shortened intramural ureter segment, weakening the flap-valve at the ureterovesical junction.",
+        "Incorrect. An aberrant renal artery causes UPJ obstruction, not primary VUR.",
+        "Incorrect. Premature ureteric bud branching causes ureteral duplication.",
+        "Incorrect. Failed allantois obliteration produces urachal anomalies.",
+        "Incorrect. Persistent urethral folds describe posterior urethral valves."
+      ]
+    },
+    {
+      "id": 3,
+      "stem": "A 5-year-old boy has bilateral hydroureter and hydronephrosis. Workup reveals bladder neck narrowing causing elevated intravesical pressure with reflux into both ureters. This presentation is most consistent with which entity?",
+      "choices": [
+        "Primary VUR",
+        "Secondary VUR",
+        "UPJ obstruction",
+        "Ureteral duplication",
+        "Urachal cyst"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Primary VUR arises from a defective ureterovesical junction, not distal obstruction.",
+        "Correct. Secondary VUR results from obstruction distal to the ureteric orifice, forcing urine backward and typically causing bilateral reflux.",
+        "Incorrect. UPJ obstruction does not cause reflux from the bladder into the ureters.",
+        "Incorrect. Ureteral duplication does not classically present with bladder neck obstruction.",
+        "Incorrect. A urachal cyst connects bladder apex to umbilicus and does not cause bilateral reflux."
+      ]
+    },
+    {
+      "id": 4,
+      "stem": "A 4-year-old girl with recurrent pyelonephritis is suspected of having vesicoureteral reflux. Which imaging study is the gold standard for diagnosis?",
+      "choices": [
+        "Renal ultrasound only",
+        "CT urography with contrast",
+        "Voiding cystourethrogram",
+        "MRI of the pelvis",
+        "DMSA renal cortical scan"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Ultrasound may show hydronephrosis but does not directly visualize reflux.",
+        "Incorrect. CT urography is not the standard test for diagnosing VUR.",
+        "Correct. Voiding cystourethrogram (VCUG) is the gold standard and demonstrates retrograde flow during micturition.",
+        "Incorrect. MRI is not the standard modality for VUR.",
+        "Incorrect. DMSA detects renal scarring but does not directly diagnose reflux."
+      ]
+    },
+    {
+      "id": 5,
+      "stem": "A 6-year-old girl with severe long-standing vesicoureteral reflux develops elevated creatinine and renal scarring on imaging. Which mechanism best explains her declining kidney function?",
+      "choices": [
+        "Glomerular immune complex deposition",
+        "High-pressure reflux scarring parenchyma",
+        "Direct bacterial invasion of glomeruli",
+        "Tubular obstruction by crystal deposits",
+        "Bilateral renal artery stenosis"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Immune complex deposition causes glomerulonephritis, not reflux nephropathy.",
+        "Correct. Persistent high-pressure reflux scars renal parenchyma, producing reflux nephropathy and renal impairment.",
+        "Incorrect. Bacterial invasion of glomeruli is not the brick's mechanism for reflux nephropathy.",
+        "Incorrect. Crystal-induced tubular obstruction is not the described process.",
+        "Incorrect. Renal artery stenosis is unrelated to VUR."
+      ]
+    },
+    {
+      "id": 6,
+      "stem": "A 2-year-old boy is found to have intermittent right flank pain and a palpable abdominal mass. Imaging reveals unilateral right-sided hydronephrosis with a normal ureter and bladder. Which condition is most likely?",
+      "choices": [
+        "Vesicoureteral reflux",
+        "Posterior urethral valves",
+        "UPJ obstruction",
+        "Bladder exstrophy",
+        "Patent urachus"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. VUR typically causes hydroureter along with hydronephrosis.",
+        "Incorrect. PUV causes bilateral hydroureter and hydronephrosis, not isolated unilateral hydronephrosis.",
+        "Correct. UPJ obstruction narrows the junction between renal pelvis and ureter, producing hydronephrosis without hydroureter.",
+        "Incorrect. Bladder exstrophy presents with an exposed bladder mucosa at birth.",
+        "Incorrect. Patent urachus produces umbilical urine leakage, not isolated hydronephrosis."
+      ]
+    },
+    {
+      "id": 7,
+      "stem": "A 7-month-old infant has worsening unilateral hydronephrosis on serial ultrasounds. Surgical exploration reveals an aberrant vessel crossing the renal pelvis and compressing the ureter. Which structure is most often responsible?",
+      "choices": [
+        "Aberrant renal artery",
+        "Persistent allantoic vessel",
+        "Internal iliac vein",
+        "Inferior mesenteric artery",
+        "Splenic artery branch"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. An aberrant renal artery crossing the ureter can externally compress it, causing UPJ obstruction.",
+        "Incorrect. Persistent allantoic vessels are not the described vascular cause.",
+        "Incorrect. The internal iliac vein does not classically cause UPJ obstruction.",
+        "Incorrect. The inferior mesenteric artery is not implicated in UPJ obstruction.",
+        "Incorrect. The splenic artery is not anatomically positioned to compress the UPJ."
+      ]
+    },
+    {
+      "id": 8,
+      "stem": "A neonate has an abnormal prenatal ultrasound showing a distended renal collecting system with dilated calyces surrounding compressed parenchyma. The radiologist describes a 'bear paw' pattern. Which diagnosis is most likely?",
+      "choices": [
+        "Vesicoureteral reflux",
+        "Bladder exstrophy",
+        "Urachal cyst",
+        "UPJ obstruction",
+        "Posterior urethral valves"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. VUR is diagnosed with VCUG, not by the bear paw ultrasound pattern.",
+        "Incorrect. Bladder exstrophy shows exposed bladder mucosa, not a bear paw pattern.",
+        "Incorrect. Urachal cysts appear as midline fluid collections, not a bear paw pattern.",
+        "Correct. UPJ obstruction classically produces hydronephrosis with the bear paw pattern of dilated calyces surrounding compressed parenchyma.",
+        "Incorrect. PUV classically shows the keyhole sign, not the bear paw pattern."
+      ]
+    },
+    {
+      "id": 9,
+      "stem": "A 4-year-old girl with continuous urinary dribbling between normal voids is found on imaging to have two ureters draining the left kidney, with the upper-pole ureter inserting into the vagina. Which embryologic event explains this finding?",
+      "choices": [
+        "Failure of urogenital sinus closure",
+        "Allantois persistence with ectopic tract",
+        "Two ureteric buds, ectopic insertion",
+        "Shortened intramural ureter segment",
+        "Persistent posterior urethral folds"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Urogenital sinus closure failure underlies bladder exstrophy.",
+        "Incorrect. Allantois persistence causes urachal anomalies.",
+        "Correct. Complete ureteral duplication arises when two ureteric buds form, and abnormal migration can lead to ectopic insertion (vagina in females, prostatic urethra in males).",
+        "Incorrect. A shortened intramural ureter causes primary VUR, not duplication.",
+        "Incorrect. Persistent urethral folds describe posterior urethral valves."
+      ]
+    },
+    {
+      "id": 10,
+      "stem": "A 5-year-old girl has continuous urinary incontinence despite normal voiding patterns. Imaging shows a duplicated collecting system on the right with one ureter inserting ectopically. Which anatomic feature best explains her incontinence?",
+      "choices": [
+        "Bladder wall hypertrophy from outlet block",
+        "Ectopic ureter bypassing the sphincter",
+        "Reflux into the upper pole moiety",
+        "Bladder neck stenosis with overflow",
+        "Detrusor overactivity from inflammation"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Bladder hypertrophy is seen with outlet obstruction, not ectopic ureteral insertion.",
+        "Correct. Ectopic ureteral insertion (e.g., into the vagina) bypasses the urethral sphincter, causing continuous incontinence in girls.",
+        "Incorrect. Reflux causes infections and renal scarring but not continuous leakage.",
+        "Incorrect. Bladder neck stenosis causes outlet obstruction, not continuous incontinence.",
+        "Incorrect. Detrusor overactivity is not the mechanism described for ectopic insertion."
+      ]
+    },
+    {
+      "id": 11,
+      "stem": "A newborn has a complete ureteral duplication on imaging. Compared with partial duplication, complete duplication most strongly increases the risk of which complications?",
+      "choices": [
+        "VUR, hydronephrosis, UTIs",
+        "Anterior abdominal wall defect",
+        "Posterior urethral obstruction",
+        "Bilateral renal artery stenosis",
+        "Adult urachal adenocarcinoma"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Complete duplication, especially with ectopic insertion, increases the risk of VUR, hydronephrosis, and UTIs.",
+        "Incorrect. Bladder exstrophy is a separate embryologic defect.",
+        "Incorrect. PUV is a urethral anomaly, not a duplication complication.",
+        "Incorrect. Renal artery stenosis is unrelated to ureteral duplication.",
+        "Incorrect. Urachal carcinoma is associated with urachal remnants, not duplication."
+      ]
+    },
+    {
+      "id": 12,
+      "stem": "A newborn boy is delivered at term, and on physical exam the lower abdominal wall has an exposed, moist, red bladder mucosa. Which embryologic event best explains this finding?",
+      "choices": [
+        "Failed obliteration of the allantois",
+        "Persistent posterior urethral folds",
+        "Premature ureteric bud branching",
+        "Incomplete lower-abdominal mesoderm migration",
+        "Aberrant crossing renal artery"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Failed allantois obliteration causes urachal anomalies.",
+        "Incorrect. Persistent urethral folds underlie PUV, not exstrophy.",
+        "Incorrect. Premature ureteric bud branching causes ureteral duplication.",
+        "Correct. Bladder exstrophy results from incomplete migration of mesoderm between ectoderm and endoderm, leaving the bladder mucosa exposed.",
+        "Incorrect. An aberrant renal artery causes UPJ obstruction."
+      ]
+    },
+    {
+      "id": 13,
+      "stem": "A male newborn with bladder exstrophy is evaluated by the multidisciplinary urology team. Which management approach is most appropriate?",
+      "choices": [
+        "Observation alone with diapering",
+        "Long-term indwelling Foley catheter",
+        "Staged surgical reconstruction",
+        "Endoscopic valve ablation",
+        "Vesicoamniotic shunt"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Observation alone leaves the bladder exposed and worsens outcomes.",
+        "Incorrect. A long-term Foley does not address the open bladder or anterior wall defect.",
+        "Correct. Bladder exstrophy is treated with complex, staged surgical reconstruction to close the bladder and abdominal wall and restore continence.",
+        "Incorrect. Endoscopic valve ablation treats PUV, not exstrophy.",
+        "Incorrect. Vesicoamniotic shunting is a fetal intervention for PUV."
+      ]
+    },
+    {
+      "id": 14,
+      "stem": "A 2-day-old neonate has urine leaking continuously from the umbilicus. Imaging confirms a tract connecting the bladder apex to the umbilicus. Which embryologic structure failed to obliterate?",
+      "choices": [
+        "Ureteric bud",
+        "Mesonephric duct",
+        "Allantois",
+        "Metanephric blastema",
+        "Urogenital sinus"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. The ureteric bud forms the ureter and collecting system.",
+        "Incorrect. The mesonephric duct gives rise to male genital structures and the ureteric bud.",
+        "Correct. The allantois normally obliterates to form the urachus (median umbilical ligament); failure produces a patent urachus connecting bladder to umbilicus.",
+        "Incorrect. The metanephric blastema forms nephrons.",
+        "Incorrect. The urogenital sinus forms the bladder and urethra, not the urachal tract."
+      ]
+    },
+    {
+      "id": 15,
+      "stem": "A 6-month-old presents with a tender, fluctuant midline lower-abdominal mass between the umbilicus and pubic symphysis. Imaging shows a fluid collection with closed ends along the urachal tract. Which diagnosis is most likely?",
+      "choices": [
+        "Patent urachus",
+        "Urachal cyst",
+        "Urachal sinus",
+        "Vesicourachal diverticulum",
+        "Bladder exstrophy"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Patent urachus causes urine leakage from the umbilicus, not a closed midline cyst.",
+        "Correct. A urachal cyst is a midportion remnant with both ends closed; trapped fluid can become infected, producing a tender mass.",
+        "Incorrect. A urachal sinus opens at the umbilicus with persistent drainage.",
+        "Incorrect. Vesicourachal diverticulum is an outpouching from the bladder apex.",
+        "Incorrect. Bladder exstrophy presents with an exposed bladder, not an internal cyst."
+      ]
+    },
+    {
+      "id": 16,
+      "stem": "A 3-month-old has chronic umbilical drainage but no urine output from the umbilicus. Imaging shows a tract open at the umbilical end with a closed bladder end. Which urachal anomaly is most consistent?",
+      "choices": [
+        "Patent urachus",
+        "Urachal cyst",
+        "Urachal sinus",
+        "Vesicourachal diverticulum",
+        "Omphalocele"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Patent urachus has both ends open, producing urine drainage.",
+        "Incorrect. A urachal cyst has both ends closed.",
+        "Correct. A urachal sinus has an open umbilical end with closed bladder end, causing persistent umbilical drainage.",
+        "Incorrect. Vesicourachal diverticulum opens into the bladder, not the umbilicus.",
+        "Incorrect. Omphalocele is an abdominal wall defect, not a urachal anomaly."
+      ]
+    },
+    {
+      "id": 17,
+      "stem": "A newborn boy was noted to have oligohydramnios on prenatal ultrasound. At birth he has a palpable bladder, weak urinary stream, and bilateral hydroureter with hydronephrosis. Which diagnosis is most likely?",
+      "choices": [
+        "Bilateral UPJ obstruction",
+        "Posterior urethral valves",
+        "Bladder exstrophy",
+        "Vesicoureteral reflux",
+        "Urachal cyst"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Bilateral UPJ obstruction is uncommon and does not classically cause a thickened bladder or weak stream.",
+        "Correct. PUV in males causes outlet obstruction, oligohydramnios, bilateral hydroureter/hydronephrosis, and a thickened bladder with poor stream.",
+        "Incorrect. Bladder exstrophy presents with an externally visible bladder.",
+        "Incorrect. VUR alone does not produce a thickened bladder or poor urinary stream.",
+        "Incorrect. A urachal cyst does not cause oligohydramnios or outlet obstruction."
+      ]
+    },
+    {
+      "id": 18,
+      "stem": "A male newborn with posterior urethral valves is found to have pulmonary hypoplasia at birth. Which prenatal event best explains this complication?",
+      "choices": [
+        "Polyhydramnios from impaired swallowing",
+        "Oligohydramnios from low urine output",
+        "Compression by enlarged fetal kidneys",
+        "Aspiration of meconium-stained fluid",
+        "Maternal tobacco smoking exposure"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. PUV reduces, not increases, amniotic fluid volume.",
+        "Correct. Outlet obstruction reduces fetal urine output into the amniotic cavity, producing oligohydramnios, which impairs lung development and causes pulmonary hypoplasia.",
+        "Incorrect. Enlarged kidneys do not directly cause pulmonary hypoplasia.",
+        "Incorrect. Aspiration of fluid is not the cited mechanism in the brick.",
+        "Incorrect. Maternal smoking is unrelated to the PUV mechanism described."
+      ]
+    },
+    {
+      "id": 19,
+      "stem": "An infant boy undergoes prenatal ultrasound that shows a dilated bladder with a dilated posterior urethra, producing a characteristic radiologic appearance. Which sign best matches this description?",
+      "choices": [
+        "Bear paw sign",
+        "Keyhole sign",
+        "Double bubble sign",
+        "Whirlpool sign",
+        "String sign"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. The bear paw pattern reflects UPJ obstruction hydronephrosis.",
+        "Correct. The keyhole sign (dilated posterior urethra plus dilated bladder) is classic for posterior urethral valves on prenatal ultrasound.",
+        "Incorrect. The double bubble sign is seen in duodenal atresia.",
+        "Incorrect. The whirlpool sign suggests midgut volvulus.",
+        "Incorrect. The string sign is associated with intestinal stenosis or Crohn disease."
+      ]
+    },
+    {
+      "id": 20,
+      "stem": "A 2-week-old boy is suspected to have posterior urethral valves. Which test is the gold standard for confirming the diagnosis?",
+      "choices": [
+        "Renal ultrasound only",
+        "Abdominal MRI with contrast",
+        "Voiding cystourethrogram",
+        "DMSA cortical scan",
+        "Serum creatinine trend"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Ultrasound is supportive but not the gold standard.",
+        "Incorrect. MRI is not the standard diagnostic test for PUV.",
+        "Correct. Voiding cystourethrogram is the gold standard for diagnosing PUV.",
+        "Incorrect. DMSA assesses cortical scarring, not the urethra.",
+        "Incorrect. Creatinine reflects function but does not confirm the anatomic diagnosis."
+      ]
+    },
+    {
+      "id": 21,
+      "stem": "A 1-month-old male is diagnosed with posterior urethral valves and bilateral hydroureter. Which intervention is the primary postnatal management?",
+      "choices": [
+        "Endoscopic valve ablation",
+        "Bilateral nephrostomy tubes alone",
+        "Long-term prophylactic antibiotics alone",
+        "Renal transplantation",
+        "Vesicoamniotic shunt"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Endoscopic valve ablation relieves the urethral obstruction and is the primary postnatal treatment.",
+        "Incorrect. Nephrostomies alone do not address the urethral obstruction.",
+        "Incorrect. Antibiotics may be used adjunctively but do not treat the underlying valves.",
+        "Incorrect. Transplantation is reserved for ESRD, not initial PUV management.",
+        "Incorrect. Vesicoamniotic shunting is a prenatal, not postnatal, intervention."
+      ]
+    },
+    {
+      "id": 22,
+      "stem": "A fetus with severe posterior urethral valves and oligohydramnios is being evaluated for prenatal intervention. Which procedure is under investigation to improve outcomes?",
+      "choices": [
+        "Vesicoamniotic shunting",
+        "In utero endoscopic ablation",
+        "Fetal nephrectomy",
+        "Maternal corticosteroids only",
+        "Amnioinfusion of saline"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Vesicoamniotic shunting places a tube between fetal bladder and amniotic sac, restoring fluid levels and reducing renal backpressure.",
+        "Incorrect. In utero endoscopic ablation is not the brick's described intervention.",
+        "Incorrect. Fetal nephrectomy is not a recognized prenatal intervention for PUV.",
+        "Incorrect. Maternal corticosteroids alone do not address PUV obstruction.",
+        "Incorrect. Saline amnioinfusion is not the brick's described approach."
+      ]
+    },
+    {
+      "id": 23,
+      "stem": "A pediatric urologist explains why posterior urethral valves only occur in male infants. Which embryologic fact best supports this sex specificity?",
+      "choices": [
+        "Females lack a urogenital sinus",
+        "Female bladder develops from the allantois",
+        "Females lack a prostatic urethra",
+        "Females have a longer urethra",
+        "Females have absent ureteric buds"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Both sexes have a urogenital sinus during development.",
+        "Incorrect. The bladder forms from the urogenital sinus in both sexes.",
+        "Correct. PUV is a malformation of the prostatic urethra, a structure only present in males.",
+        "Incorrect. The female urethra is shorter, not longer, than the male urethra.",
+        "Incorrect. Females have ureteric buds; the urethra, not the ureter, is involved in PUV."
+      ]
+    },
+    {
+      "id": 24,
+      "stem": "A 38-week newborn male has prenatal bilateral hydronephrosis, a thickened bladder wall, and a palpable lower abdominal mass with a weak urinary stream. Which feature best distinguishes posterior urethral valves from vesicoureteral reflux in this case?",
+      "choices": [
+        "Bilateral hydronephrosis on imaging",
+        "Outlet obstruction with wall thickening",
+        "Recurrent urinary tract infections",
+        "Prenatal ultrasound detection",
+        "Occurrence in male infants"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Bilateral hydronephrosis can occur in both PUV and severe VUR.",
+        "Correct. PUV causes bladder outlet obstruction with wall thickening; VUR causes reflux without outlet obstruction or wall thickening.",
+        "Incorrect. Recurrent UTIs occur in both conditions.",
+        "Incorrect. Both can be detected prenatally.",
+        "Incorrect. Male sex alone does not distinguish PUV from VUR."
+      ]
+    },
+    {
+      "id": 25,
+      "stem": "A 10-year-old boy with a history of posterior urethral valves now has progressive proteinuria and rising creatinine. Which long-term complication does this presentation represent?",
+      "choices": [
+        "Late-onset bladder exstrophy",
+        "Reflux nephropathy and CKD",
+        "Urachal adenocarcinoma development",
+        "Acute postinfectious glomerulonephritis",
+        "Fibromuscular renal artery stenosis"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Bladder exstrophy is congenital and apparent at birth, not a late complication.",
+        "Correct. Persistent reflux and outlet obstruction in PUV lead to reflux nephropathy and progressive chronic kidney disease, sometimes ESRD in childhood.",
+        "Incorrect. Urachal carcinoma is a rare adult complication of urachal remnants.",
+        "Incorrect. Acute glomerulonephritis is immunologic and not a typical PUV sequela.",
+        "Incorrect. Renal artery stenosis is unrelated to PUV."
+      ]
+    }
+  ]
+}

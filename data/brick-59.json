@@ -1,0 +1,481 @@
+{
+  "id": 59,
+  "title": "Medullary Sponge Kidney",
+  "questions": [
+    {
+      "id": 1,
+      "stem": "A 30-year-old man presents to the ED for the third time in 2 years with flank pain and hematuria. CT shows a 4 mm calcified ureteral stone and incidentally notes multiple cystic dilations in the renal medulla bilaterally. Which condition best explains the incidental finding?",
+      "choices": [
+        "Autosomal dominant polycystic kidney disease",
+        "Medullary sponge kidney",
+        "Simple renal cysts",
+        "Acquired cystic kidney disease",
+        "Renal cell carcinoma"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. ADPKD produces cysts throughout the cortex and medulla and enlarged kidneys, not medulla-limited cystic dilations.",
+        "Correct. Medullary sponge kidney causes malformation of the terminal collecting ducts with small cystic dilations confined to the renal medulla and recurrent calcium stones.",
+        "Incorrect. Simple renal cysts are solitary and cortical, not clustered cystic dilations in the medulla.",
+        "Incorrect. Acquired cystic kidney disease occurs in patients with chronic kidney disease on long-term dialysis.",
+        "Incorrect. RCC produces a solid mass, not bilateral medullary cystic dilations."
+      ]
+    },
+    {
+      "id": 2,
+      "stem": "A 28-year-old asymptomatic woman is found to have medullary sponge kidney on imaging done for an unrelated reason. Which anatomic structure is malformed in this disease?",
+      "choices": [
+        "Glomerulus",
+        "Proximal tubule",
+        "Loop of Henle",
+        "Terminal collecting ducts",
+        "Renal pelvis"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. The glomerulus is not the structure malformed in MSK.",
+        "Incorrect. The proximal tubule is in the cortex and is not affected.",
+        "Incorrect. The loop of Henle is not the site of the malformation.",
+        "Correct. MSK is characterized by malformation and cystic dilatation of the terminal (distal) collecting ducts within the renal medulla.",
+        "Incorrect. The renal pelvis is normal; the abnormality is in the medullary collecting ducts."
+      ]
+    },
+    {
+      "id": 3,
+      "stem": "A medical student is reviewing the embryologic basis of medullary sponge kidney. Which developmental disruption is proposed to underlie the disease?",
+      "choices": [
+        "Failure of pronephros regression in utero",
+        "Mesonephric duct agenesis with renal aplasia",
+        "Ureteric bud-blastema interface defect",
+        "Abnormal cloacal septation in week 6",
+        "Persistent allantois with urachal cyst"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Pronephros regression is not implicated in MSK.",
+        "Incorrect. Mesonephric duct agenesis would cause more severe renal malformations.",
+        "Correct. MSK is proposed to arise from a disruption at the interface between the ureteric bud and metanephric blastema during embryogenesis, leading to distal collecting duct dilatation.",
+        "Incorrect. Cloacal septation defects produce anorectal and urogenital anomalies, not MSK.",
+        "Incorrect. A persistent allantois forms a urachal anomaly, not MSK."
+      ]
+    },
+    {
+      "id": 4,
+      "stem": "Researchers have proposed a candidate gene that may contribute to medullary sponge kidney, though no definitive cause has been established. Which gene has been studied?",
+      "choices": [
+        "PKD1",
+        "PKD2",
+        "GDNF",
+        "NPHP1",
+        "UMOD"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. PKD1 mutations cause autosomal dominant polycystic kidney disease.",
+        "Incorrect. PKD2 is the second ADPKD gene, not implicated in MSK.",
+        "Correct. Mutations in the glial cell-derived neurotropic factor (GDNF) gene have been proposed as a possible cause of MSK, although no definitive genetic cause is established.",
+        "Incorrect. NPHP1 mutations cause nephronophthisis.",
+        "Incorrect. UMOD mutations cause autosomal dominant tubulointerstitial kidney disease."
+      ]
+    },
+    {
+      "id": 5,
+      "stem": "A 35-year-old man with medullary sponge kidney is being counseled about his condition. What is the most common clinical course of MSK?",
+      "choices": [
+        "Progressive renal failure by age 40",
+        "Required dialysis within 10 years",
+        "Asymptomatic for life",
+        "Severe hypertension requiring multiple drugs",
+        "Nephrotic syndrome"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Progression to renal failure is rare in MSK.",
+        "Incorrect. Dialysis is not the expected course; kidney function is usually preserved.",
+        "Correct. Most patients with MSK remain asymptomatic for life; symptomatic disease typically manifests as stones, UTIs, or hematuria.",
+        "Incorrect. Severe hypertension is not a defining feature of MSK.",
+        "Incorrect. MSK is a tubular/collecting duct disorder and does not cause nephrotic syndrome."
+      ]
+    },
+    {
+      "id": 6,
+      "stem": "A 45-year-old man with known medullary sponge kidney presents with recurrent flank pain. Which symptom is the most common presentation in symptomatic MSK?",
+      "choices": [
+        "Lower extremity edema",
+        "Heavy proteinuria",
+        "Enlarged palpable kidneys",
+        "Flank pain",
+        "Acute kidney injury"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Edema is not a feature of MSK.",
+        "Incorrect. Proteinuria is not the presenting symptom.",
+        "Incorrect. Kidneys are typically normal in size in MSK.",
+        "Correct. Symptomatic MSK most commonly presents with symptoms of kidney stones, especially flank pain and hematuria.",
+        "Incorrect. Acute kidney injury is rare and not the typical presentation."
+      ]
+    },
+    {
+      "id": 7,
+      "stem": "A 32-year-old woman with MSK develops recurrent urinary frequency and dysuria. Which complication does this finding suggest?",
+      "choices": [
+        "Nephrotic syndrome",
+        "Urinary tract infection",
+        "Renal cell carcinoma",
+        "Bladder cancer",
+        "Acute glomerulonephritis"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Nephrotic syndrome presents with edema and proteinuria, not dysuria.",
+        "Correct. Patients with MSK have an increased risk of urinary tract infections, presenting with urinary frequency and dysuria.",
+        "Incorrect. RCC typically presents with hematuria, flank pain, and a mass, not isolated dysuria.",
+        "Incorrect. Bladder cancer presents with painless hematuria, not dysuria as the dominant symptom.",
+        "Incorrect. Acute glomerulonephritis presents with hematuria, hypertension, and edema."
+      ]
+    },
+    {
+      "id": 8,
+      "stem": "A 14-year-old boy with hemihypertrophy, macroglossia, and a history of omphalocele is found to have cystic dilations of the medullary collecting ducts on imaging. Which syndrome is most likely associated?",
+      "choices": [
+        "Beckwith-Wiedemann",
+        "Tuberous sclerosis",
+        "Von Hippel-Lindau",
+        "Alport syndrome",
+        "Turner syndrome"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Beckwith-Wiedemann syndrome (hemihypertrophy, macroglossia, omphalocele, gigantism) is among the conditions associated with MSK.",
+        "Incorrect. Tuberous sclerosis is associated with angiomyolipomas, not MSK.",
+        "Incorrect. VHL is associated with renal cell carcinoma and hemangioblastomas.",
+        "Incorrect. Alport syndrome causes hereditary nephritis and sensorineural deafness.",
+        "Incorrect. Turner syndrome is associated with horseshoe kidney, not MSK."
+      ]
+    },
+    {
+      "id": 9,
+      "stem": "A 20-year-old man with joint hyperlaxity, long extremities, and lens dislocation is incidentally found to have MSK. Which connective tissue disorder is most likely associated?",
+      "choices": [
+        "Ehlers-Danlos syndrome",
+        "Marfan syndrome",
+        "Osteogenesis imperfecta",
+        "Loeys-Dietz syndrome",
+        "Pseudoxanthoma elasticum"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Ehlers-Danlos features hyperextensible skin and joint hypermobility but is not the brick's listed MSK association.",
+        "Correct. Marfan syndrome (joint laxity, aortic root dilation, lens dislocation) is among the conditions associated with MSK.",
+        "Incorrect. OI causes brittle bones, blue sclerae, and is not associated with MSK.",
+        "Incorrect. Loeys-Dietz causes aortic aneurysms and is not associated with MSK.",
+        "Incorrect. Pseudoxanthoma elasticum affects elastic fibers in skin, eyes, and vasculature, not MSK."
+      ]
+    },
+    {
+      "id": 10,
+      "stem": "A 36-year-old man with MSK undergoes a CT scan with contrast. Which radiographic appearance is most characteristic of MSK?",
+      "choices": [
+        "Bilateral enlarged kidneys with multiple cortical cysts",
+        "Staghorn calculus filling renal pelvis",
+        "Paintbrush appearance of renal medulla",
+        "Hydronephrosis with cortical thinning",
+        "Bilateral small echogenic kidneys"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Bilateral enlarged kidneys with cortical cysts describe ADPKD.",
+        "Incorrect. A staghorn calculus suggests struvite stones from chronic infection.",
+        "Correct. CT with contrast or IVP shows a paintbrush (calyceal brush-like) appearance from contrast pooling in dilated medullary tubules in MSK.",
+        "Incorrect. Hydronephrosis with cortical thinning reflects chronic obstruction, not MSK.",
+        "Incorrect. Bilateral small echogenic kidneys reflect chronic kidney disease, not MSK."
+      ]
+    },
+    {
+      "id": 11,
+      "stem": "A 27-year-old woman undergoes renal ultrasound for evaluation of recurrent stones. The study reports echogenic medullary pyramids. Which diagnosis is most consistent?",
+      "choices": [
+        "Acute pyelonephritis",
+        "MSK",
+        "Renal artery stenosis",
+        "Diabetic nephropathy",
+        "Membranous nephropathy"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Pyelonephritis shows enlarged kidneys with hypoechoic areas, not echogenic pyramids.",
+        "Correct. Renal ultrasound in MSK can show echogenic medullary pyramids from the cystic dilations and interstitial calcifications, though findings may be subtle.",
+        "Incorrect. Renal artery stenosis shows asymmetric kidney size and is diagnosed with Doppler.",
+        "Incorrect. Diabetic nephropathy does not produce echogenic medullary pyramids.",
+        "Incorrect. Membranous nephropathy is a glomerular disease and has no characteristic ultrasound finding."
+      ]
+    },
+    {
+      "id": 12,
+      "stem": "A 40-year-old man with MSK has a histologic specimen examined after partial nephrectomy for unrelated reasons. Which histologic features are most characteristic?",
+      "choices": [
+        "Cellular crescents within Bowman space of glomeruli",
+        "Dilated medullary ducts with interstitial calcium deposits",
+        "Diffuse tubular atrophy with cortical interstitial fibrosis",
+        "Sclerotic glomeruli with diffuse mesangial expansion",
+        "Caseating granulomas with multinucleated giant cells"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Crescents indicate rapidly progressive glomerulonephritis.",
+        "Correct. MSK histology shows cystic dilations of the medullary collecting ducts with interstitial calcifications appearing as black deposits on stain.",
+        "Incorrect. Cortical tubular atrophy is a nonspecific chronic injury pattern, not MSK.",
+        "Incorrect. Sclerotic glomeruli with mesangial expansion suggest diabetic nephropathy.",
+        "Incorrect. Caseating granulomas indicate tuberculosis or sarcoid involvement."
+      ]
+    },
+    {
+      "id": 13,
+      "stem": "A 38-year-old man with MSK has serum bicarbonate of 18 mEq/L, urine pH of 6.5, and a normal anion gap metabolic acidosis. Which complication does this represent?",
+      "choices": [
+        "Type 1 (distal) renal tubular acidosis",
+        "Type 2 (proximal) renal tubular acidosis",
+        "Type 4 renal tubular acidosis",
+        "Lactic acidosis",
+        "Diabetic ketoacidosis"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. MSK can be complicated by distal RTA from poor renal secretion of hydrogen ions, producing a non-anion-gap acidosis with inappropriately alkaline urine.",
+        "Incorrect. Type 2 RTA reflects proximal bicarbonate reabsorption failure and is not the brick's listed MSK complication.",
+        "Incorrect. Type 4 RTA is associated with hypoaldosteronism and hyperkalemia.",
+        "Incorrect. Lactic acidosis is an anion-gap acidosis from impaired tissue oxygenation.",
+        "Incorrect. DKA produces an anion-gap acidosis with ketones, not the picture described."
+      ]
+    },
+    {
+      "id": 14,
+      "stem": "A 42-year-old woman with MSK reports polyuria and polydipsia. Workup reveals dilute urine that does not concentrate after water deprivation or desmopressin. Which complication explains her findings?",
+      "choices": [
+        "Central diabetes insipidus",
+        "Nephrogenic DI",
+        "Primary polydipsia",
+        "Syndrome of inappropriate ADH",
+        "Cerebral salt wasting"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Central DI responds to desmopressin because ADH deficiency is corrected.",
+        "Correct. MSK can cause nephrogenic diabetes insipidus from decreased renal concentrating ability at the distal nephron, with no response to desmopressin.",
+        "Incorrect. Primary polydipsia responds to water restriction and is not caused by tubular dysfunction.",
+        "Incorrect. SIADH causes hyponatremia and concentrated urine, not polyuria.",
+        "Incorrect. Cerebral salt wasting causes hyponatremia with volume depletion, not the picture described."
+      ]
+    },
+    {
+      "id": 15,
+      "stem": "A 50-year-old woman with longstanding MSK has a noncontrast CT scan showing diffuse parenchymal calcifications throughout both kidneys. Which complication does this represent?",
+      "choices": [
+        "Nephrolithiasis",
+        "Renal cell carcinoma",
+        "Nephrocalcinosis",
+        "Polycystic kidney disease",
+        "Renal infarction"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Nephrolithiasis refers to discrete stones, not diffuse parenchymal calcification.",
+        "Incorrect. RCC is a solid mass, not diffuse calcification.",
+        "Correct. Nephrocalcinosis, or diffuse renal parenchymal calcification, is a recognized complication of MSK from abnormal distal tubular function.",
+        "Incorrect. ADPKD produces cysts, not diffuse calcification.",
+        "Incorrect. Renal infarction produces wedge-shaped perfusion defects, not diffuse calcification."
+      ]
+    },
+    {
+      "id": 16,
+      "stem": "A 33-year-old man with recurrent stones is diagnosed with MSK. He undergoes stone analysis. Which stone composition is most common in MSK?",
+      "choices": [
+        "Calcium stones",
+        "Cholesterol stones",
+        "Cystine stones",
+        "Struvite stones",
+        "Uric acid stones"
+      ],
+      "answer": 0,
+      "explanations": [
+        "Correct. Calcium stones are the most common type of renal stone in patients with MSK.",
+        "Incorrect. Cholesterol stones form in the gallbladder, not the kidney.",
+        "Incorrect. Cystine stones occur in cystinuria, not as the typical MSK stone.",
+        "Incorrect. Struvite stones form in chronic urease-producing UTIs, not as the primary MSK stone.",
+        "Incorrect. Uric acid stones occur in low urine pH or gout, not as the typical MSK stone."
+      ]
+    },
+    {
+      "id": 17,
+      "stem": "A 31-year-old woman with MSK has had three calcium stones in the past year. She is counseled on prevention. Which recommendation is first-line?",
+      "choices": [
+        "Bed rest and reduced physical activity in the home",
+        "High-calcium diet with vitamin D supplementation",
+        "Immediate surgical removal of asymptomatic small stones",
+        "Increased fluids and dietary modification",
+        "Lifelong daily antibiotic prophylaxis with nitrofurantoin"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. Activity restriction does not prevent stone formation.",
+        "Incorrect. High calcium and vitamin D supplementation can worsen hypercalciuria-driven stone risk.",
+        "Incorrect. Small stones often pass spontaneously; immediate surgery is not first-line prevention.",
+        "Correct. First-line prevention of recurrent stones in MSK is increased fluid intake combined with dietary modifications.",
+        "Incorrect. Antibiotic prophylaxis treats infections but does not prevent calcium stone recurrence."
+      ]
+    },
+    {
+      "id": 18,
+      "stem": "A 36-year-old woman with MSK and recurrent calcium stones has a 24-hour urine showing hypercalciuria. Which pharmacologic agent is recommended to reduce urinary calcium excretion?",
+      "choices": [
+        "Loop diuretic",
+        "Thiazide diuretic",
+        "Acetazolamide",
+        "Potassium-sparing diuretic",
+        "Mannitol"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. Loop diuretics increase urinary calcium excretion and worsen stone risk.",
+        "Correct. Thiazide diuretics lower urinary calcium excretion and are used for stone prevention in MSK with hypercalciuria.",
+        "Incorrect. Acetazolamide alkalinizes the urine and can promote calcium phosphate stones.",
+        "Incorrect. Potassium-sparing diuretics have a minimal effect on urinary calcium and are not first-line for stone prevention.",
+        "Incorrect. Mannitol is an osmotic agent used acutely, not for chronic stone prevention."
+      ]
+    },
+    {
+      "id": 19,
+      "stem": "A 29-year-old man with MSK presents with fever, dysuria, and CVA tenderness. Urinalysis shows pyuria and bacteriuria. Which is the appropriate next step in management?",
+      "choices": [
+        "Observation alone",
+        "Increased fluid intake only",
+        "Antimicrobial therapy",
+        "Immediate nephrectomy",
+        "Systemic corticosteroid therapy"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. UTIs in MSK require antimicrobial treatment, not observation.",
+        "Incorrect. Fluids alone are inadequate for an established UTI.",
+        "Correct. UTIs in MSK are treated with appropriate antimicrobial therapy, as in any patient with a UTI.",
+        "Incorrect. Nephrectomy is not indicated for UTI management.",
+        "Incorrect. Corticosteroids worsen infection and are not indicated."
+      ]
+    },
+    {
+      "id": 20,
+      "stem": "A 40-year-old man with MSK asks about his long-term outlook. Which best describes the prognosis of MSK?",
+      "choices": [
+        "Most progress to end-stage renal disease",
+        "Most require kidney transplant by age 50",
+        "Excellent; renal function usually preserved",
+        "Rapid decline within 5 years of diagnosis",
+        "Universal progression to nephrotic syndrome"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Progression to ESRD is rare and occurs only with recurrent obstruction or infection.",
+        "Incorrect. Transplant is not typically needed for MSK.",
+        "Correct. MSK has an excellent prognosis; renal function tends to remain normal unless there is recurrent obstruction or infection.",
+        "Incorrect. Rapid renal decline is not the typical course of MSK.",
+        "Incorrect. Nephrotic syndrome is not a feature of MSK."
+      ]
+    },
+    {
+      "id": 21,
+      "stem": "A 38-year-old patient with MSK has a CT scan with contrast. Where are the cystic dilations and contrast pooling located?",
+      "choices": [
+        "Renal cortex only",
+        "Renal medulla only",
+        "Cortex and medulla equally",
+        "Renal pelvis only",
+        "Ureter only"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. The cortex is not involved in MSK.",
+        "Correct. The cystic dilations of MSK are confined to the renal medulla; the cortex is not involved.",
+        "Incorrect. MSK spares the cortex; involvement is medulla-limited.",
+        "Incorrect. The renal pelvis is not the site of MSK cystic dilations.",
+        "Incorrect. The ureter is not involved in MSK."
+      ]
+    },
+    {
+      "id": 22,
+      "stem": "A 25-year-old man with MSK is brought in by family because he had a febrile UTI 2 years ago and now has flank pain. Imaging shows obstructing stone with hydronephrosis. The disease is described as causing what?",
+      "choices": [
+        "Acquired loss of functioning glomeruli over time",
+        "Congenital malformation of collecting ducts",
+        "Autoimmune destruction of nephrons by antibodies",
+        "Ischemic vascular insult to the renal cortex",
+        "Tumor compression of the renal pelvis and ureter"
+      ],
+      "answer": 1,
+      "explanations": [
+        "Incorrect. MSK does not involve acquired glomerular loss.",
+        "Correct. MSK is a congenital condition characterized by malformation of the terminal collecting ducts in the medullary pyramids.",
+        "Incorrect. MSK is not autoimmune.",
+        "Incorrect. MSK is not vascular in origin.",
+        "Incorrect. MSK is not caused by tumor compression."
+      ]
+    },
+    {
+      "id": 23,
+      "stem": "A 33-year-old woman is being worked up for medullary sponge kidney. Which lab pattern is consistent with MSK?",
+      "choices": [
+        "Markedly elevated serum creatinine with oliguria",
+        "Severe hyperkalemia requiring urgent therapy",
+        "Hematuria with low serum bicarbonate",
+        "Massive proteinuria with hypoalbuminemia and edema",
+        "Marked anion-gap metabolic acidosis with high lactate"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. Serum creatinine is typically normal in MSK; renal function is preserved.",
+        "Incorrect. Severe hyperkalemia is not a feature of MSK.",
+        "Correct. There are no specific lab findings, but patients may have hematuria, stone-disease urine crystals, and decreased serum bicarbonate from distal RTA.",
+        "Incorrect. Massive proteinuria suggests nephrotic syndrome, not MSK.",
+        "Incorrect. The acidosis of MSK is a non-anion-gap acidosis from distal RTA, not an anion-gap acidosis."
+      ]
+    },
+    {
+      "id": 24,
+      "stem": "A 45-year-old man with MSK undergoes a CT IVU. The radiologist describes streaky contrast filling dilated tubules within the renal medulla. What is this finding called?",
+      "choices": [
+        "Doughnut sign",
+        "Putty kidney",
+        "Comma-shaped sign",
+        "Paintbrush appearance",
+        "Onion-skin appearance"
+      ],
+      "answer": 3,
+      "explanations": [
+        "Incorrect. The doughnut sign is associated with other imaging contexts, not MSK.",
+        "Incorrect. Putty kidney refers to chronic tuberculous calcification.",
+        "Incorrect. Comma-shaped sign is not the MSK descriptor.",
+        "Correct. The paintbrush (calyceal brush-like) appearance describes streaky contrast filling dilated medullary tubules on IVP or CT-IVU and is characteristic of MSK.",
+        "Incorrect. Onion-skin appearance describes Ewing sarcoma periosteal reaction, not MSK."
+      ]
+    },
+    {
+      "id": 25,
+      "stem": "A 30-year-old man with MSK passes a small calcified ureteral stone after IV fluids and analgesia. He is counseled on long-term management. Which best summarizes MSK treatment?",
+      "choices": [
+        "Curative surgical resection of all medullary cysts",
+        "Lifelong immunosuppression with steroids",
+        "Treat stones, UTIs, and pain",
+        "Early dialysis access placement for ESRD",
+        "Daily systemic corticosteroid therapy"
+      ],
+      "answer": 2,
+      "explanations": [
+        "Incorrect. There is no curative surgical treatment for the cystic dilations of MSK.",
+        "Incorrect. MSK is not autoimmune; immunosuppression has no role.",
+        "Correct. The only treatment in MSK targets complications: stones, UTIs, and flank pain. The underlying malformation does not require treatment.",
+        "Incorrect. Most patients never progress to dialysis-requiring disease.",
+        "Incorrect. Corticosteroids have no role in MSK management."
+      ]
+    }
+  ]
+}
