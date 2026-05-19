@@ -3,6 +3,7 @@
 const LETTERS = ["A", "B", "C", "D", "E"];
 const STORAGE_PREFIX = "renalqbank_brick_";
 const MIX_SELECTION_KEY = "renalqbank_mix_selection";
+const MISSED_BRICK_ID = "missed";
 const QUESTIONS_PER_BRICK = 25;
 const WEEK_1_BRICKS = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21];
 const WEEK_2_BRICKS = [22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39];
@@ -84,6 +85,85 @@ function brickFilePath(brickId) {
   return `data/brick-${brickId}.json`;
 }
 
+function collectMissedFromStorage() {
+  const out = [];
+  for (let i = 0; i < localStorage.length; i++) {
+    const key = localStorage.key(i);
+    if (!key || !key.startsWith(STORAGE_PREFIX) || !key.endsWith("_basic")) continue;
+    const middle = key.slice(STORAGE_PREFIX.length, -"_basic".length);
+    const brickId = parseInt(middle, 10);
+    if (!Number.isInteger(brickId) || brickId <= 0) continue;
+    let parsed;
+    try { parsed = JSON.parse(localStorage.getItem(key)); } catch (e) { continue; }
+    if (!parsed || !parsed.answers) continue;
+    for (const qid in parsed.answers) {
+      if (parsed.answers[qid] && parsed.answers[qid].correct === false) {
+        out.push({ brickId, qid });
+      }
+    }
+  }
+  return out;
+}
+
+async function buildMissedBrick() {
+  const missed = collectMissedFromStorage();
+  if (missed.length === 0) return null;
+
+  const uniqueBrickIds = [...new Set(missed.map((m) => m.brickId))];
+  const sourceBricks = await Promise.all(
+    uniqueBrickIds.map((id) =>
+      loadBrickJson(id).then((b) => ({ id, brick: b })).catch(() => ({ id, brick: null }))
+    )
+  );
+  const brickById = new Map(sourceBricks.filter((b) => b.brick).map((b) => [b.id, b.brick]));
+
+  const allQuestions = [];
+  for (const m of missed) {
+    const sourceBrick = brickById.get(m.brickId);
+    if (!sourceBrick) continue;
+    const srcQ = sourceBrick.questions.find((q) => String(q.id) === String(m.qid));
+    if (!srcQ) continue;
+    allQuestions.push({
+      ...srcQ,
+      id: `${m.brickId}-${srcQ.id}`,
+      sourceBrickId: m.brickId,
+      sourceBrickTitle: sourceBrick.title,
+      sourceQId: srcQ.id,
+    });
+  }
+  if (allQuestions.length === 0) return null;
+
+  const stored = loadProgress(MISSED_BRICK_ID);
+  const storedOrderIds = Array.isArray(stored.orderIds) ? stored.orderIds : null;
+  const currentIds = allQuestions.map((q) => q.id);
+
+  let questions;
+  if (
+    storedOrderIds &&
+    storedOrderIds.length === currentIds.length &&
+    storedOrderIds.every((id) => currentIds.includes(id))
+  ) {
+    const byId = new Map(allQuestions.map((q) => [q.id, q]));
+    questions = storedOrderIds.map((id) => byId.get(id)).filter(Boolean);
+  } else {
+    shuffleInPlace(allQuestions);
+    questions = allQuestions;
+    saveProgress(MISSED_BRICK_ID, {
+      ...stored,
+      orderIds: questions.map((q) => q.id),
+      current: 0,
+    });
+  }
+
+  return {
+    id: MISSED_BRICK_ID,
+    title: `Missed questions · ${questions.length}`,
+    questions,
+    isMixed: true,
+    isMissed: true,
+  };
+}
+
 /* ============ Home page ============ */
 async function renderHome() {
   const grid = document.getElementById("brick-grid");
@@ -102,6 +182,29 @@ async function renderHome() {
   const availableIds = new Set(sorted.filter((b) => b.available !== false).map((b) => b.id));
 
   const selection = new Set(loadMixSelection().filter((id) => availableIds.has(id)));
+
+  function refreshMissedBanner() {
+    const banner = document.getElementById("missed-banner");
+    if (!banner) return;
+    const missedCount = collectMissedFromStorage().filter((m) => availableIds.has(m.brickId)).length;
+    if (missedCount === 0) {
+      banner.hidden = true;
+      return;
+    }
+    banner.hidden = false;
+    const countEl = document.getElementById("missed-count");
+    if (countEl) countEl.textContent = String(missedCount);
+  }
+
+  refreshMissedBanner();
+
+  const missedStartBtn = document.getElementById("missed-start");
+  if (missedStartBtn) {
+    missedStartBtn.addEventListener("click", () => {
+      clearProgress(MISSED_BRICK_ID);
+      window.location.href = "quiz.html?missed=1";
+    });
+  }
 
   function refreshMixBar() {
     const bar = document.getElementById("mix-bar");
@@ -312,9 +415,22 @@ async function renderQuiz() {
 
   const brickId = parseInt(params.get("brick"), 10);
   const bricksParam = params.get("bricks");
+  const isMissedMode = params.get("missed") === "1";
 
   let brick;
-  if (bricksParam) {
+  if (isMissedMode) {
+    try {
+      brick = await buildMissedBrick();
+    } catch (e) {
+      brick = null;
+    }
+    if (!brick) {
+      area.innerHTML = '<div class="notice">No missed questions yet — get some wrong first! <a href="index.html">Back to bricks</a>.</div>';
+      return;
+    }
+    titleEl.textContent = brick.title;
+    document.title = `Renal QBank — Missed (${brick.questions.length})`;
+  } else if (bricksParam) {
     const ids = bricksParam
       .split(",")
       .map((s) => parseInt(s, 10))
@@ -547,6 +663,7 @@ function drawQuestion(state, q, area, advance, jumpTo, paletteEl, counterEl, isN
         const correct = idx === q.answer;
         state.progress.answers[q.id] = { selected: idx, correct };
         saveProgress(state.brick.id, state.progress);
+        writeBackToSource(state, q, idx, correct);
         lockTableRows(idx, true);
         updateScoreBadge(state, true);
         renderPalette(state, paletteEl, jumpTo);
@@ -674,6 +791,7 @@ function drawQuestion(state, q, area, advance, jumpTo, paletteEl, counterEl, isN
       const correct = idx === q.answer;
       state.progress.answers[q.id] = { selected: idx, correct };
       saveProgress(state.brick.id, state.progress);
+      writeBackToSource(state, q, idx, correct);
       lockChoices(idx, true);
       updateScoreBadge(state, true);
       renderPalette(state, paletteEl, jumpTo);
@@ -752,6 +870,15 @@ function drawQuestion(state, q, area, advance, jumpTo, paletteEl, counterEl, isN
   if (existing) {
     lockChoices(existing.selected, false);
   }
+}
+
+function writeBackToSource(state, q, selectedIdx, correct) {
+  if (!state.brick.isMissed) return;
+  if (q.sourceBrickId == null || q.sourceQId == null) return;
+  const srcProgress = loadProgress(q.sourceBrickId);
+  srcProgress.answers = srcProgress.answers || {};
+  srcProgress.answers[q.sourceQId] = { selected: selectedIdx, correct };
+  saveProgress(q.sourceBrickId, srcProgress);
 }
 
 function updateScoreBadge(state, pulse) {
