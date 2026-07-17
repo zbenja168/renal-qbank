@@ -122,7 +122,7 @@
       "choices": [
         "It dissolves existing cysts immediately",
         "It increases blood pressure to improve kidney perfusion",
-        "It reduces cyst formation and slows the decline in renal function",
+        "It reduces cyst formation",
         "It replaces dialysis",
         "It treats associated hypertension"
       ],
@@ -274,7 +274,7 @@
       "choices": [
         "Add demeclocycline",
         "Continue at the same dose",
-        "Stop tolvaptan; avoid in liver disease",
+        "Stop tolvaptan",
         "Increase the tolvaptan dose",
         "Switch to a higher-protein diet"
       ],
@@ -293,7 +293,7 @@
       "choices": [
         "Decreased ADH receptor sensitivity",
         "Increased renal clearance of ketoconazole",
-        "Inhibition of CYP3A4 increasing tolvaptan levels",
+        "Inhibition of CYP3A4",
         "Synergistic vasoconstriction",
         "Tolvaptan-induced hyperglycemia"
       ],

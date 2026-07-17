@@ -5,7 +5,13 @@
     {
       "id": 1,
       "stem": "A 10-year-old girl is found to have a blood pressure of 146/92 mm Hg on a routine physical. Repeat readings are nearly identical. Initial labs reveal a low serum potassium and a high serum chloride. Which hereditary renal transport disorder is most consistent with this presentation?",
-      "choices": ["Bartter syndrome", "Fanconi syndrome", "Gitelman syndrome", "Liddle syndrome", "Primary hyperaldosteronism"],
+      "choices": [
+        "Bartter syndrome",
+        "Fanconi syndrome",
+        "Gitelman syndrome",
+        "Liddle syndrome",
+        "Primary hyperaldosteronism"
+      ],
       "answer": 3,
       "explanations": [
         "Incorrect. Bartter syndrome presents in infancy or childhood with hypotension and salt wasting, not hypertension.",
@@ -18,7 +24,13 @@
     {
       "id": 2,
       "stem": "A 4-month-old infant born prematurely after a pregnancy complicated by polyhydramnios is brought in for failure to thrive. The parents report excessive urination and recurrent dehydration episodes. Labs show hypokalemia, metabolic alkalosis, hypocalcemia, and hypomagnesemia. Which transporter is most likely defective?",
-      "choices": ["ENaC", "NCC", "Na+/H+ exchanger", "NKCC", "Na+/K+ ATPase"],
+      "choices": [
+        "ENaC",
+        "NCC",
+        "Na+/H+ exchanger",
+        "NKCC",
+        "Na+/K+ ATPase"
+      ],
       "answer": 3,
       "explanations": [
         "Incorrect. ENaC gain-of-function causes Liddle syndrome, which presents with hypertension in older children.",
@@ -31,7 +43,13 @@
     {
       "id": 3,
       "stem": "A 22-year-old woman presents with intermittent muscle cramping, fatigue, and a craving for salty foods. She has normal blood pressure. Labs reveal hypokalemia, metabolic alkalosis, and hypomagnesemia. Genetic testing confirms a defect in a transporter normally inhibited by which class of medications?",
-      "choices": ["ACE inhibitors", "Carbonic anhydrase inhibitors", "Loop diuretics", "Potassium-sparing diuretics", "Thiazide diuretics"],
+      "choices": [
+        "ACE inhibitors",
+        "Carbonic anhydrase inhibitors",
+        "Loop diuretics",
+        "Potassium-sparing diuretics",
+        "Thiazide diuretics"
+      ],
       "answer": 4,
       "explanations": [
         "Incorrect. ACE inhibitors target the renin-angiotensin system, not a tubular cotransporter affected in Gitelman syndrome.",
@@ -44,7 +62,13 @@
     {
       "id": 4,
       "stem": "A 16-year-old boy is diagnosed with Liddle syndrome after presenting with hypertension and hypokalemia. Which inheritance pattern best describes this disorder?",
-      "choices": ["Autosomal dominant", "Autosomal recessive", "Mitochondrial", "X-linked dominant", "X-linked recessive"],
+      "choices": [
+        "Autosomal dominant",
+        "Autosomal recessive",
+        "Mitochondrial",
+        "X-linked dominant",
+        "X-linked recessive"
+      ],
       "answer": 0,
       "explanations": [
         "Correct. Liddle syndrome is an autosomal dominant disorder caused by gain-of-function mutations in genes encoding ENaC subunits.",
@@ -57,7 +81,13 @@
     {
       "id": 5,
       "stem": "A 25-year-old man presents with hypertension, hypokalemia, and metabolic alkalosis. His plasma renin and aldosterone levels are both low. He is started on spironolactone, but his blood pressure and potassium do not improve. Which medication is most likely to correct his underlying defect?",
-      "choices": ["Amiloride", "Eplerenone", "Furosemide", "Hydrochlorothiazide", "Indomethacin"],
+      "choices": [
+        "Amiloride",
+        "Eplerenone",
+        "Furosemide",
+        "Hydrochlorothiazide",
+        "Indomethacin"
+      ],
       "answer": 0,
       "explanations": [
         "Correct. Liddle syndrome causes ENaC to be 'stuck on' independent of aldosterone signaling; amiloride directly blocks the overactive ENaC and corrects sodium retention.",
@@ -70,7 +100,13 @@
     {
       "id": 6,
       "stem": "Which finding most reliably distinguishes Liddle syndrome from Bartter and Gitelman syndromes on initial laboratory and clinical evaluation?",
-      "choices": ["Elevated blood pressure", "Hypokalemia", "Metabolic alkalosis", "Polyuria with nocturia", "Salt craving and cramps"],
+      "choices": [
+        "Elevated blood pressure",
+        "Hypokalemia",
+        "Metabolic alkalosis",
+        "Polyuria with nocturia",
+        "Salt craving and cramps"
+      ],
       "answer": 0,
       "explanations": [
         "Correct. All three disorders share hypokalemia and metabolic alkalosis, but elevated blood pressure is unique to Liddle syndrome; Bartter and Gitelman are associated with normal or low blood pressure.",
@@ -83,7 +119,13 @@
     {
       "id": 7,
       "stem": "A 14-year-old boy with Bartter syndrome is noted to have recurrent kidney stones on imaging. Which urinary abnormality best explains the development of these stones?",
-      "choices": ["Hypercalciuria", "Hyperoxaluria", "Hyperuricosuria", "Hypocitraturia", "Hypomagnesuria"],
+      "choices": [
+        "Hypercalciuria",
+        "Hyperoxaluria",
+        "Hyperuricosuria",
+        "Hypocitraturia",
+        "Hypomagnesuria"
+      ],
       "answer": 0,
       "explanations": [
         "Correct. Loss of NKCC function reduces the lumen-positive potential in the thick ascending limb, decreasing paracellular calcium reabsorption and producing hypercalciuria, which can lead to kidney stones.",
@@ -96,7 +138,13 @@
     {
       "id": 8,
       "stem": "A 19-year-old woman with Gitelman syndrome reports painful, swollen knees. Imaging shows calcium pyrophosphate deposition (chondrocalcinosis) in multiple joints. Which electrolyte abnormality is most directly responsible for this finding?",
-      "choices": ["Hypocalcemia", "Hypochloremia", "Hypokalemia", "Hypomagnesemia", "Hyponatremia"],
+      "choices": [
+        "Hypocalcemia",
+        "Hypochloremia",
+        "Hypokalemia",
+        "Hypomagnesemia",
+        "Hyponatremia"
+      ],
       "answer": 3,
       "explanations": [
         "Incorrect. Hypocalcemia is not the brick's stated cause of chondrocalcinosis in these patients.",
@@ -109,7 +157,13 @@
     {
       "id": 9,
       "stem": "A 30-year-old woman is found to have unexplained, asymptomatic hypokalemia on routine bloodwork. Further testing shows hypochloremic metabolic alkalosis, hypomagnesemia, normal blood pressure, and elevated plasma renin and aldosterone levels. Which disorder is most likely?",
-      "choices": ["Bartter syndrome", "Gitelman syndrome", "Liddle syndrome", "Primary hyperaldosteronism", "Renal artery stenosis"],
+      "choices": [
+        "Bartter syndrome",
+        "Gitelman syndrome",
+        "Liddle syndrome",
+        "Primary hyperaldosteronism",
+        "Renal artery stenosis"
+      ],
       "answer": 1,
       "explanations": [
         "Incorrect. Bartter syndrome typically presents earlier in life with more severe symptoms.",
@@ -125,7 +179,7 @@
       "choices": [
         "Decreased glomerular filtration of potassium",
         "Direct potassium loss through defective NKCC",
-        "Increased distal sodium delivery drives ENaC and aldosterone-stimulated K+ secretion",
+        "Increased distal sodium delivery drives K+ secretion",
         "Intracellular potassium shift from alkalosis",
         "Reduced proximal tubule potassium reabsorption"
       ],
@@ -312,7 +366,13 @@
     {
       "id": 20,
       "stem": "Which disorder is the most common of the three hereditary renal transport disorders covered in this brick?",
-      "choices": ["Bartter syndrome", "Fanconi syndrome", "Gitelman syndrome", "Liddle syndrome", "Pseudohypoaldosteronism"],
+      "choices": [
+        "Bartter syndrome",
+        "Fanconi syndrome",
+        "Gitelman syndrome",
+        "Liddle syndrome",
+        "Pseudohypoaldosteronism"
+      ],
       "answer": 2,
       "explanations": [
         "Incorrect. Bartter syndrome occurs in approximately 1 in 1,000,000 individuals, making it less common than Gitelman.",

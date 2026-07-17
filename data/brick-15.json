@@ -24,7 +24,13 @@
     {
       "id": 2,
       "stem": "A 50-year-old man with HFrEF on furosemide and enalapril continues to have worsening edema and pulmonary congestion. Adding which agent would most likely reduce morbidity and mortality?",
-      "choices": ["Acetazolamide", "Amiloride", "Lisinopril", "Spironolactone", "Triamterene"],
+      "choices": [
+        "Acetazolamide",
+        "Amiloride",
+        "Lisinopril",
+        "Spironolactone",
+        "Triamterene"
+      ],
       "answer": 3,
       "explanations": [
         "Incorrect. Acetazolamide is not the mortality-reducing agent in HFrEF.",
@@ -37,7 +43,13 @@
     {
       "id": 3,
       "stem": "A 55-year-old man with bilateral adrenal hyperplasia treated with spironolactone develops gynecomastia, decreased libido, and erectile dysfunction. Which drug should he be switched to?",
-      "choices": ["Amiloride", "Eplerenone", "Furosemide", "Thiazide", "Triamterene"],
+      "choices": [
+        "Amiloride",
+        "Eplerenone",
+        "Furosemide",
+        "Thiazide",
+        "Triamterene"
+      ],
       "answer": 1,
       "explanations": [
         "Incorrect. Amiloride is potassium-sparing but does not specifically address aldosterone-driven hypertension as effectively.",
@@ -50,7 +62,13 @@
     {
       "id": 4,
       "stem": "Which medication should NOT be combined with potassium-sparing diuretics due to risk of hyperkalemia?",
-      "choices": ["Acetazolamide", "Aspirin", "Hydrochlorothiazide", "Losartan", "Penicillin"],
+      "choices": [
+        "Acetazolamide",
+        "Aspirin",
+        "Hydrochlorothiazide",
+        "Losartan",
+        "Penicillin"
+      ],
       "answer": 3,
       "explanations": [
         "Incorrect. Acetazolamide does not raise serum potassium.",
@@ -82,7 +100,13 @@
     {
       "id": 6,
       "stem": "A 40-year-old woman with acne, hirsutism, and oligomenorrhea is diagnosed with PCOS. Which potassium-sparing diuretic is most appropriate to address her hyperandrogenic symptoms?",
-      "choices": ["Amiloride", "Eplerenone", "Furosemide", "Spironolactone", "Triamterene"],
+      "choices": [
+        "Amiloride",
+        "Eplerenone",
+        "Furosemide",
+        "Spironolactone",
+        "Triamterene"
+      ],
       "answer": 3,
       "explanations": [
         "Incorrect. Amiloride lacks antiandrogen activity.",
@@ -114,7 +138,13 @@
     {
       "id": 8,
       "stem": "A 62-year-old woman with hypertension, hypokalemia, and metabolic alkalosis is found to have bilateral adrenal hyperplasia with elevated aldosterone. Which agent is the preferred medical therapy?",
-      "choices": ["Amiloride", "Furosemide", "Hydrochlorothiazide", "Spironolactone", "Triamterene"],
+      "choices": [
+        "Amiloride",
+        "Furosemide",
+        "Hydrochlorothiazide",
+        "Spironolactone",
+        "Triamterene"
+      ],
       "answer": 3,
       "explanations": [
         "Incorrect. Amiloride does not block aldosterone receptors.",
@@ -222,7 +252,13 @@
     {
       "id": 14,
       "stem": "A 65-year-old man with chronic kidney disease (eGFR 25) and hypertension is started on spironolactone. Which adverse effect is of particular concern?",
-      "choices": ["Anion gap acidosis", "Hyperkalemia", "Hypocalcemia", "Hyponatremia", "Volume overload"],
+      "choices": [
+        "Anion gap acidosis",
+        "Hyperkalemia",
+        "Hypocalcemia",
+        "Hyponatremia",
+        "Volume overload"
+      ],
       "answer": 1,
       "explanations": [
         "Incorrect. Spironolactone is associated with normal-anion-gap acidosis, not high-anion-gap.",
@@ -311,7 +347,13 @@
     {
       "id": 19,
       "stem": "A figure illustrates aldosterone antagonist action. Aldosterone antagonists inhibit which basolateral pump in the principal cell?",
-      "choices": ["Apical ENaC", "Apical K+ channel", "Basolateral H+/K+-ATPase", "Basolateral Na+/K+-ATPase", "NKCC2"],
+      "choices": [
+        "Apical ENaC",
+        "Apical K+ channel",
+        "Basolateral H+/K+-ATPase",
+        "Basolateral Na+/K+-ATPase",
+        "NKCC2"
+      ],
       "answer": 3,
       "explanations": [
         "Incorrect. ENaC is apical and is the target of ENaC blockers.",
@@ -328,7 +370,7 @@
         "It activates Na+/K+-ATPase",
         "It directly closes apical potassium channels by binding K+",
         "It enhances aldosterone secretion",
-        "Lower intracellular Na+ makes the cell electronegative, reducing K+ loss",
+        "Lower intracellular Na+ makes the cell electronegative",
         "It opens basolateral Cl- channels"
       ],
       "answer": 3,
@@ -343,7 +385,13 @@
     {
       "id": 21,
       "stem": "A 40-year-old man on hydrochlorothiazide for hypertension develops persistent hypokalemia. Which agent is most appropriate to add?",
-      "choices": ["Acetazolamide", "Furosemide", "Lisinopril alone", "Mannitol", "Triamterene"],
+      "choices": [
+        "Acetazolamide",
+        "Furosemide",
+        "Lisinopril alone",
+        "Mannitol",
+        "Triamterene"
+      ],
       "answer": 4,
       "explanations": [
         "Incorrect. Acetazolamide can worsen hypokalemia.",
@@ -356,7 +404,13 @@
     {
       "id": 22,
       "stem": "Spironolactone is structurally similar to which class of molecules, accounting for its off-target effects?",
-      "choices": ["Amino acids", "Catecholamines", "Cytokines", "Nucleotides", "Steroid hormones"],
+      "choices": [
+        "Amino acids",
+        "Catecholamines",
+        "Cytokines",
+        "Nucleotides",
+        "Steroid hormones"
+      ],
       "answer": 4,
       "explanations": [
         "Incorrect. Spironolactone is not similar to amino acids.",
@@ -409,7 +463,7 @@
       "stem": "An aldosterone receptor antagonist's net renal effect is BEST summarized as:",
       "choices": [
         "Block bicarbonate reabsorption proximally",
-        "Block sodium reabsorption and potassium secretion in the collecting duct",
+        "Block sodium reabsorption and potassium secretion",
         "Increase potassium excretion and decrease sodium excretion",
         "Increase urea reabsorption in the medulla",
         "Promote calcium reabsorption distally"

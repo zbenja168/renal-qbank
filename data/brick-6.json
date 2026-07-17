@@ -101,7 +101,7 @@
       "id": 6,
       "stem": "A 65-year-old man with osteoarthritis takes ibuprofen daily. He develops a modest decline in GFR. The drug most likely reduced GFR by altering which mechanism?",
       "choices": [
-        "Inhibition of vasodilatory prostaglandins, leading to afferent constriction",
+        "Inhibition of vasodilatory prostaglandins",
         "Direct inhibition of angiotensin II at the efferent arteriole",
         "Increased plasma oncotic pressure",
         "Mesangial cell relaxation, increasing Kf",
@@ -330,7 +330,7 @@
       "stem": "A frail 82-year-old woman with severe muscle wasting has a serum creatinine of 0.6 mg/dL. Her clinician is concerned that creatinine-based estimates overstate her true kidney function. The most likely reason is that:",
       "choices": [
         "Tubular secretion is markedly increased in cachexia",
-        "Reduced muscle mass lowers creatinine production, falsely low serum Cr",
+        "Reduced muscle mass lowers creatinine production",
         "Albuminuria spuriously raises serum creatinine assays",
         "Non-renal creatinine elimination is suppressed in older adults",
         "Glomerular Kf is increased by sarcopenia"
@@ -387,7 +387,7 @@
       "stem": "A 50-year-old woman is admitted with septic shock and develops acute kidney injury. Her serum creatinine over the first 12 hours is nearly unchanged despite hourly urine output declining sharply. Which limitation of creatinine best explains this finding?",
       "choices": [
         "Tubular secretion is suppressed in sepsis",
-        "Creatinine kinetics lag behind acute GFR changes by 24-48 hours",
+        "Creatinine kinetics lag behind acute GFR changes",
         "Creatinine is metabolized rapidly during inflammation",
         "Sepsis increases muscle mass acutely",
         "Cystatin C interferes with creatinine assays"

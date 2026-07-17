@@ -62,7 +62,13 @@
     {
       "id": 4,
       "stem": "A patient with normal kidney function has a GFR of 180 L/day and a plasma Na+ of 140 mEq/L. What is her filtered load of sodium per day?",
-      "choices": ["180 mEq/day", "1,400 mEq/day", "14,000 mEq/day", "25,200 mEq/day", "180,000 mEq/day"],
+      "choices": [
+        "180 mEq/day",
+        "1,400 mEq/day",
+        "14,000 mEq/day",
+        "25,200 mEq/day",
+        "180,000 mEq/day"
+      ],
       "answer": 3,
       "explanations": [
         "Incorrect. This is the GFR in liters, not the filtered load.",
@@ -75,7 +81,13 @@
     {
       "id": 5,
       "stem": "A 50-year-old man eats a salty pizza, increasing his sodium intake. The kidneys respond by reducing fractional reabsorption. Approximately what fraction of filtered sodium is normally reabsorbed before any urinary loss?",
-      "choices": ["50%", "70%", "85%", "95%", "98–99%"],
+      "choices": [
+        "50%",
+        "70%",
+        "85%",
+        "95%",
+        "98–99%"
+      ],
       "answer": 4,
       "explanations": [
         "Incorrect. Far more than half of filtered sodium is reabsorbed.",
@@ -148,7 +160,7 @@
       "choices": [
         "Na+/K+/2Cl- cotransporter",
         "Na+/Cl- cotransporter",
-        "Epithelial sodium channel (ENaC)",
+        "Epithelial sodium channel",
         "Aquaporin-2",
         "Na+/H+ exchanger"
       ],
@@ -185,7 +197,7 @@
       "stem": "A 35-year-old man stands quickly, and his BP transiently drops, lowering GFR and reducing tubular Na+ delivery. The macula densa senses low [Na+] and signals juxtaglomerular cells. Which sequence correctly describes the resulting tubuloglomerular feedback?",
       "choices": [
         "Afferent constriction, efferent dilation, decreased GFR",
-        "Afferent dilation, efferent constriction (Ang II), increased GFR",
+        "Afferent dilation, efferent constriction, increased GFR",
         "Afferent dilation only, increased GFR",
         "Efferent dilation only, decreased GFR",
         "Decreased renin release, decreased GFR"
@@ -202,7 +214,13 @@
     {
       "id": 12,
       "stem": "Which structure in the juxtaglomerular apparatus directly senses tubular sodium and chloride and signals to JG cells?",
-      "choices": ["Mesangial cells", "Macula densa", "Bowman capsule", "Efferent arteriole", "Podocytes"],
+      "choices": [
+        "Mesangial cells",
+        "Macula densa",
+        "Bowman capsule",
+        "Efferent arteriole",
+        "Podocytes"
+      ],
       "answer": 1,
       "explanations": [
         "Incorrect. Mesangial cells provide structural support and contractility; they do not sense tubular Na+/Cl-.",
@@ -293,7 +311,7 @@
       "stem": "Where is BNP primarily released, and under what stimulus?",
       "choices": [
         "Adrenal cortex; hyperkalemia",
-        "Cardiac chambers; chamber stretch in volume overload",
+        "Cardiac chambers; chamber stretch",
         "JG cells; low renal perfusion",
         "Posterior pituitary; high plasma osmolality",
         "Macula densa; low tubular Na+"

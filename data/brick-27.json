@@ -5,7 +5,13 @@
     {
       "id": 1,
       "stem": "A 27-year-old healthy adult is studied as part of a physiology experiment. Investigators measure his arterial pH every hour for 24 hours and find it remains within a narrow range. Which of the following best represents the normal physiologic range of arterial pH that the body works to maintain?",
-      "choices": ["6.80 to 7.20", "7.00 to 7.30", "7.20 to 7.40", "7.35 to 7.45", "7.45 to 7.65"],
+      "choices": [
+        "6.80 to 7.20",
+        "7.00 to 7.30",
+        "7.20 to 7.40",
+        "7.35 to 7.45",
+        "7.45 to 7.65"
+      ],
       "answer": 3,
       "explanations": [
         "Incorrect. This range is well below normal and is incompatible with normal protein function.",
@@ -37,7 +43,13 @@
     {
       "id": 3,
       "stem": "A nutritionist counsels a patient on a high-protein diet about the source of fixed acids. Approximately 50-100 mmol of non-volatile acid is produced daily from protein metabolism. Which organ is responsible for excreting these non-volatile acids?",
-      "choices": ["Lungs", "Liver", "Kidneys", "Skin", "Gastrointestinal tract"],
+      "choices": [
+        "Lungs",
+        "Liver",
+        "Kidneys",
+        "Skin",
+        "Gastrointestinal tract"
+      ],
       "answer": 2,
       "explanations": [
         "Incorrect. The lungs excrete volatile acid as CO2; they cannot excrete fixed acids like sulfuric or phosphoric acid.",
@@ -107,7 +119,13 @@
     {
       "id": 7,
       "stem": "A pharmacology student studies bicarbonate reabsorption. In the proximal tubule, an apical antiporter exchanges intracellular H+ for luminal Na+, providing the H+ that drives the conversion of filtered HCO3- to CO2 and H2O. Which transporter performs this apical exchange?",
-      "choices": ["NBCe1", "NHE3", "Na+/K+-ATPase", "ROMK", "ENaC"],
+      "choices": [
+        "NBCe1",
+        "NHE3",
+        "Na+/K+-ATPase",
+        "ROMK",
+        "ENaC"
+      ],
       "answer": 1,
       "explanations": [
         "Incorrect. NBCe1 is the basolateral Na+/HCO3- cotransporter that returns bicarbonate to blood.",
@@ -272,7 +290,13 @@
     {
       "id": 16,
       "stem": "A 28-year-old patient with a normal acid-base status has a urine pH measured. Across the range of normal acid-base perturbations the human kidney can handle, what is the typical range of urine pH described in the brick?",
-      "choices": ["3.0 to 5.0", "4.6 to 6.0", "4.6 to 8.0", "5.5 to 7.4", "6.0 to 9.0"],
+      "choices": [
+        "3.0 to 5.0",
+        "4.6 to 6.0",
+        "4.6 to 8.0",
+        "5.5 to 7.4",
+        "6.0 to 9.0"
+      ],
       "answer": 2,
       "explanations": [
         "Incorrect. Urine cannot reach a pH as low as 3.0 in vivo.",
@@ -361,7 +385,13 @@
     {
       "id": 21,
       "stem": "A 34-year-old woman with severe diabetic ketoacidosis has dramatically increased renal acid excretion. The ammonia-ammonium buffer system can be upregulated dramatically during acidosis. By approximately what factor can ammonium excretion increase during systemic acidosis according to the brick?",
-      "choices": ["Less than 2-fold", "About 5-fold", "Roughly 10-fold", "Over 300-fold", "Cannot be upregulated"],
+      "choices": [
+        "Less than 2-fold",
+        "About 5-fold",
+        "Roughly 10-fold",
+        "Over 300-fold",
+        "Cannot be upregulated"
+      ],
       "answer": 3,
       "explanations": [
         "Incorrect. The increase is far greater than 2-fold.",
@@ -393,7 +423,13 @@
     {
       "id": 23,
       "stem": "A 24-year-old woman is admitted with severe metabolic acidosis. The kidney generates new bicarbonate as part of ammoniagenesis. Which proximal tubule substrate is metabolized to produce both NH4+ and new HCO3-?",
-      "choices": ["Glucose", "Glutamine", "Glycine", "Glutathione", "Glycogen"],
+      "choices": [
+        "Glucose",
+        "Glutamine",
+        "Glycine",
+        "Glutathione",
+        "Glycogen"
+      ],
       "answer": 1,
       "explanations": [
         "Incorrect. Glucose is reabsorbed in the PT but is not the source of NH4+ and HCO3-.",
@@ -428,7 +464,7 @@
       "choices": [
         "Inhibits proximal NHE3",
         "Decreases aldosterone and distal H+ secretion",
-        "Intracellular acidosis drives H+ secretion and HCO3- reclamation",
+        "Intracellular acidosis drives H+ secretion",
         "Stimulates pendrin HCO3- secretion",
         "Inhibits proximal ammoniagenesis"
       ],

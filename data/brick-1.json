@@ -5,7 +5,13 @@
     {
       "id": 1,
       "stem": "A 32-year-old woman undergoes abdominal CT for right flank pain. The radiologist notes that the right kidney lies approximately 1 cm inferior to the left kidney, a finding considered normal. Which adjacent structure is most directly responsible for this anatomic asymmetry?",
-      "choices": ["Adrenal gland", "Diaphragm", "Liver", "Psoas major", "Quadratus lumborum"],
+      "choices": [
+        "Adrenal gland",
+        "Diaphragm",
+        "Liver",
+        "Psoas major",
+        "Quadratus lumborum"
+      ],
       "answer": 2,
       "explanations": [
         "Incorrect. Adrenal glands sit superior to both kidneys but do not displace them.",
@@ -18,7 +24,13 @@
     {
       "id": 2,
       "stem": "During a posterior surgical approach to the kidney, a surgeon retracts the 12th rib superiorly and identifies the muscle lying immediately posterior to the lower pole of the kidney along its lateral aspect. Which muscle is the surgeon most likely identifying?",
-      "choices": ["Diaphragm", "Iliopsoas", "Latissimus dorsi", "Psoas major", "Quadratus lumborum"],
+      "choices": [
+        "Diaphragm",
+        "Iliopsoas",
+        "Latissimus dorsi",
+        "Psoas major",
+        "Quadratus lumborum"
+      ],
       "answer": 4,
       "explanations": [
         "Incorrect. The diaphragm overlaps the superior third of the kidney, not the lower pole.",
@@ -69,7 +81,13 @@
     {
       "id": 5,
       "stem": "A 55-year-old man passes a renal calculus that originated in a renal pyramid. Imaging just before passage demonstrates the stone lodged at the most proximal site within the renal pelvis. Through which structure did urine most recently flow before reaching this location?",
-      "choices": ["Major calyx", "Minor calyx", "Renal capsule", "Renal column", "Renal cortex"],
+      "choices": [
+        "Major calyx",
+        "Minor calyx",
+        "Renal capsule",
+        "Renal column",
+        "Renal cortex"
+      ],
       "answer": 0,
       "explanations": [
         "Correct. The drainage path is renal papilla → minor calyx → major calyx → renal pelvis → ureter, so urine most recently passed through a major calyx before reaching the renal pelvis.",
@@ -372,7 +390,7 @@
         "External iliac",
         "Inguinal",
         "Internal iliac",
-        "Para-aortic (lumbar)"
+        "Para-aortic"
       ],
       "answer": 4,
       "explanations": [
@@ -405,7 +423,13 @@
     {
       "id": 23,
       "stem": "A 38-year-old man with a complete spinal cord transection at T8 retains intact sympathetic outflow that mediates bladder storage. These sympathetic preganglionic fibers most likely arise from which spinal cord segments?",
-      "choices": ["T6–T8", "T10–T12", "L1–L2", "S2–S4", "S5–Co1"],
+      "choices": [
+        "T6–T8",
+        "T10–T12",
+        "L1–L2",
+        "S2–S4",
+        "S5–Co1"
+      ],
       "answer": 2,
       "explanations": [
         "Incorrect. T6–T8 sympathetic outflow does not innervate the bladder.",

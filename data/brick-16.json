@@ -43,7 +43,13 @@
     {
       "id": 3,
       "stem": "Which solute will NOT cause water movement across cell membranes?",
-      "choices": ["Albumin", "BUN (urea)", "Glucose", "Mannitol", "Sodium"],
+      "choices": [
+        "Albumin",
+        "BUN (urea)",
+        "Glucose",
+        "Mannitol",
+        "Sodium"
+      ],
       "answer": 1,
       "explanations": [
         "Incorrect. Albumin contributes to oncotic pressure across vascular membranes.",
@@ -56,7 +62,13 @@
     {
       "id": 4,
       "stem": "A 78-year-old woman with chronic hyponatremia (Na+ 118 mEq/L) develops seizures in the ED. Which initial fluid therapy is most appropriate?",
-      "choices": ["0.45% NaCl", "0.9% NaCl", "3% hypertonic saline", "D5W", "Lactated Ringer's"],
+      "choices": [
+        "0.45% NaCl",
+        "0.9% NaCl",
+        "3% hypertonic saline",
+        "D5W",
+        "Lactated Ringer's"
+      ],
       "answer": 2,
       "explanations": [
         "Incorrect. Hypotonic saline would worsen hyponatremia.",
@@ -69,7 +81,13 @@
     {
       "id": 5,
       "stem": "In a Darrow-Yannet diagram, the height of each compartment box represents:",
-      "choices": ["Compartment volume", "Membrane permeability", "Oncotic pressure", "Osmolality level", "Total solute amount"],
+      "choices": [
+        "Compartment volume",
+        "Membrane permeability",
+        "Oncotic pressure",
+        "Osmolality level",
+        "Total solute amount"
+      ],
       "answer": 3,
       "explanations": [
         "Incorrect. Width represents volume, not height.",
@@ -368,7 +386,7 @@
       "id": 21,
       "stem": "A patient with sepsis-induced hypovolemia is being resuscitated. The clinician chooses isotonic crystalloid. Which compartment effect is intended?",
       "choices": [
-        "Expand ECF (intravascular and interstitial)",
+        "Expand ECF",
         "Expand ICF only",
         "Free water replacement of ICF",
         "Pure shift of water from ICF to ECF",
@@ -386,7 +404,13 @@
     {
       "id": 22,
       "stem": "Which solute is normally the principal effective osmole determining ECF tonicity?",
-      "choices": ["Bicarbonate", "Calcium", "Glucose", "Potassium", "Sodium"],
+      "choices": [
+        "Bicarbonate",
+        "Calcium",
+        "Glucose",
+        "Potassium",
+        "Sodium"
+      ],
       "answer": 4,
       "explanations": [
         "Incorrect. Bicarbonate is not the principal tonicity determinant.",
@@ -418,7 +442,13 @@
     {
       "id": 24,
       "stem": "Which solute can become a clinically important effective osmole in hyperosmolar hyperglycemic state (HHS)?",
-      "choices": ["Albumin", "Bicarbonate", "Glucose", "Sodium", "Urea"],
+      "choices": [
+        "Albumin",
+        "Bicarbonate",
+        "Glucose",
+        "Sodium",
+        "Urea"
+      ],
       "answer": 2,
       "explanations": [
         "Incorrect. Albumin is an oncotic, not osmotic, contributor.",
@@ -431,7 +461,13 @@
     {
       "id": 25,
       "stem": "A 62-year-old man with prolonged vomiting/diarrhea, confusion, and abnormal sodium and glucose levels has lost ECF volume. The MOST appropriate INITIAL fluid is:",
-      "choices": ["0.45% NaCl", "0.9% NaCl or LR", "20% mannitol", "3% hypertonic saline", "D5W"],
+      "choices": [
+        "0.45% NaCl",
+        "0.9% NaCl or LR",
+        "20% mannitol",
+        "3% hypertonic saline",
+        "D5W"
+      ],
       "answer": 1,
       "explanations": [
         "Incorrect. Hypotonic saline does not adequately restore ECF volume.",

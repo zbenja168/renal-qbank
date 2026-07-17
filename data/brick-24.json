@@ -5,7 +5,13 @@
     {
       "id": 1,
       "stem": "A 45-year-old woman has a routine metabolic panel drawn during an annual physical. Her total serum calcium is 9.4 mg/dL. Approximately what fraction of this circulating calcium is in the ionized (free) form available for physiologic activity?",
-      "choices": ["10%", "30%", "50%", "70%", "99%"],
+      "choices": [
+        "10%",
+        "30%",
+        "50%",
+        "70%",
+        "99%"
+      ],
       "answer": 2,
       "explanations": [
         "Incorrect. Roughly 10% of circulating calcium is bound to anions, not the ionized fraction.",
@@ -94,7 +100,13 @@
     {
       "id": 6,
       "stem": "A medical student is reviewing the buffering role of phosphate. At a normal blood pH of 7.40, which phosphate species is the predominant form in serum?",
-      "choices": ["H3PO4", "H2PO4-", "HPO4 2-", "PO4 3-", "Calcium phosphate"],
+      "choices": [
+        "H3PO4",
+        "H2PO4-",
+        "HPO4 2-",
+        "PO4 3-",
+        "Calcium phosphate"
+      ],
       "answer": 2,
       "explanations": [
         "Incorrect. H3PO4 has pKa1 ≈ 2.1, far below physiologic pH.",
@@ -107,7 +119,13 @@
     {
       "id": 7,
       "stem": "A 60-year-old woman has serum total calcium of 7.8 mg/dL and serum albumin of 2.0 g/dL. Using the traditional correction formula presented in the brick, what is her corrected calcium?",
-      "choices": ["7.0 mg/dL", "7.8 mg/dL", "8.6 mg/dL", "9.4 mg/dL", "10.2 mg/dL"],
+      "choices": [
+        "7.0 mg/dL",
+        "7.8 mg/dL",
+        "8.6 mg/dL",
+        "9.4 mg/dL",
+        "10.2 mg/dL"
+      ],
       "answer": 3,
       "explanations": [
         "Incorrect. This is below the measured value and does not use the correction formula.",
@@ -120,7 +138,13 @@
     {
       "id": 8,
       "stem": "A nephrology fellow is reviewing renal divalent handling. In a healthy adult, approximately what percentage of the filtered calcium load is reabsorbed by the kidney over the course of a day?",
-      "choices": ["10-20%", "50-60%", "70-80%", "85-90%", "98-99%"],
+      "choices": [
+        "10-20%",
+        "50-60%",
+        "70-80%",
+        "85-90%",
+        "98-99%"
+      ],
       "answer": 4,
       "explanations": [
         "Incorrect. Only a tiny fraction of filtered calcium is excreted; the vast majority is reabsorbed.",
@@ -133,7 +157,13 @@
     {
       "id": 9,
       "stem": "A medical student is mapping segmental phosphate handling. According to the brick, approximately what percentage of filtered phosphate is reabsorbed in the proximal tubule?",
-      "choices": ["10%", "25%", "50%", "70%", "85%"],
+      "choices": [
+        "10%",
+        "25%",
+        "50%",
+        "70%",
+        "85%"
+      ],
       "answer": 4,
       "explanations": [
         "Incorrect. About 10% of filtered phosphate is excreted, not reabsorbed in the PT.",
@@ -168,7 +198,7 @@
       "choices": [
         "Apical Na/Ca antiporter",
         "Basolateral Ca-ATPase",
-        "Paracellular flow down lumen-positive potential",
+        "Paracellular flow",
         "Apical calcitriol-stimulated channel",
         "Vesicular endocytosis"
       ],
@@ -264,7 +294,7 @@
         "DCT apical calcium channel activation",
         "NKCC2 inhibition in the TAL",
         "Calcium-sensing receptor inhibition",
-        "Volume depletion raising proximal reabsorption",
+        "Volume depletion",
         "PTH stimulation"
       ],
       "answer": 3,

@@ -120,7 +120,7 @@
       "id": 7,
       "stem": "A patient with severe metabolic acidemia has serum K+ of 6.0 mEq/L. Which transcellular mechanism best explains the hyperkalemia?",
       "choices": [
-        "H+ moves into cells, K+ moves out to maintain electroneutrality",
+        "H+ moves into cells, K+ moves out",
         "K+ is actively secreted into the ECF by the Na+/K+-ATPase",
         "Increased aldosterone shifts K+ out of cells",
         "Increased β2 stimulation",
@@ -160,7 +160,7 @@
       "choices": [
         "Increased aldosterone-driven K+ secretion",
         "Decreased GFR and reduced K+ excretion",
-        "ATP depletion opens muscle K+ channels, releasing K+",
+        "ATP depletion opens muscle K+ channels",
         "Insulin surge drives K+ out of cells",
         "Osmotic drag from glucose loading"
       ],
@@ -273,7 +273,7 @@
       "stem": "A 65-year-old man on long-term loop diuretic therapy for CHF develops hypokalemia. Which mechanism most directly explains the diuretic-induced K+ loss?",
       "choices": [
         "Direct inhibition of ROMK channels in principal cells overriding aldosterone-mediated distal K+ secretion",
-        "Increased Na+ delivery to the distal nephron raises ENaC-driven secretion of K+, augmented by flow-mediated BK activation",
+        "Increased Na+ delivery to the distal nephron raises ENaC-driven secretion of K+",
         "Aldosterone receptor blockade",
         "Activation of H+/K+-ATPase",
         "Decreased GFR"
@@ -406,7 +406,7 @@
       "stem": "A patient is on furosemide and develops both hypokalemia and metabolic alkalosis. The brick explains this combination as part of which compounded effect?",
       "choices": [
         "Acidemia worsening hypokalemia",
-        "Alkalemia worsens hypokalemia via K+ secretion",
+        "Alkalemia worsens hypokalemia",
         "Hyperkalemia masking acidosis",
         "Decreased aldosterone causing alkalosis",
         "Inhibition of carbonic anhydrase"

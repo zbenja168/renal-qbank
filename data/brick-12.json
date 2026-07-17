@@ -43,7 +43,13 @@
     {
       "id": 3,
       "stem": "Per the brick's potency table, 1 mg of bumetanide produces the same diuretic effect as approximately how many mg of furosemide?",
-      "choices": ["1 mg", "10 mg", "20 mg", "40 mg", "100 mg"],
+      "choices": [
+        "1 mg",
+        "10 mg",
+        "20 mg",
+        "40 mg",
+        "100 mg"
+      ],
       "answer": 3,
       "explanations": [
         "Incorrect. Bumetanide is roughly 40-fold more potent than furosemide.",
@@ -210,7 +216,7 @@
       "stem": "A 65-year-old man on chronic furosemide also takes daily ibuprofen for arthritis. He notes worsening edema. Which mechanism best explains the diminished diuretic response?",
       "choices": [
         "NSAIDs increase aldosterone secretion",
-        "NSAIDs inhibit renal prostaglandins, reducing diuretic efficacy",
+        "NSAIDs inhibit renal prostaglandins",
         "NSAIDs activate Na+/K+/2Cl- cotransporter",
         "NSAIDs increase intestinal absorption of furosemide",
         "NSAIDs precipitate furosemide in the urine"
@@ -360,7 +366,13 @@
     {
       "id": 20,
       "stem": "Which of the following loop diuretics is associated with the highest risk of ototoxicity per the brick?",
-      "choices": ["Furosemide", "Bumetanide", "Torsemide", "Ethacrynic acid", "Spironolactone"],
+      "choices": [
+        "Furosemide",
+        "Bumetanide",
+        "Torsemide",
+        "Ethacrynic acid",
+        "Spironolactone"
+      ],
       "answer": 3,
       "explanations": [
         "Incorrect. Furosemide can cause ototoxicity but less commonly than ethacrynic acid.",
@@ -430,7 +442,13 @@
     {
       "id": 24,
       "stem": "If a patient is taking 40 mg of furosemide and is switched to bumetanide for improved efficacy, what is the equivalent bumetanide dose?",
-      "choices": ["0.5 mg", "1 mg", "10 mg", "20 mg", "40 mg"],
+      "choices": [
+        "0.5 mg",
+        "1 mg",
+        "10 mg",
+        "20 mg",
+        "40 mg"
+      ],
       "answer": 1,
       "explanations": [
         "Incorrect. This is too low for equivalence.",
