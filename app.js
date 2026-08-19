@@ -788,6 +788,7 @@ function drawQuestion(state, q, area, advance, jumpTo, paletteEl, counterEl, isN
   // The Examplify skin prints the real range ("Answers: A - E") above the options.
   list.dataset.last = LETTERS[q.choices.length - 1] || "";
   const choiceButtons = [];
+  const eyeButtons = [];
 
   q.choices.forEach((text, idx) => {
     const btn = document.createElement("button");
@@ -830,14 +831,45 @@ function drawQuestion(state, q, area, advance, jumpTo, paletteEl, counterEl, isN
     });
 
     choiceButtons.push(btn);
-    list.appendChild(btn);
+
+    // Cross-out: only the exam skins show it (see skins.css). It rules an
+    // option out without answering, the way the real software does, so it has
+    // to be its own control rather than part of the option button.
+    const row = document.createElement("div");
+    row.className = "choice-row";
+    row.appendChild(btn);
+
+    const eye = document.createElement("button");
+    eye.type = "button";
+    eye.className = "choice-eye";
+    const setEyeLabel = () => {
+      const on = eye.classList.contains("on");
+      eye.setAttribute("aria-pressed", on ? "true" : "false");
+      eye.setAttribute(
+        "aria-label",
+        (on ? "Restore" : "Cross out") + " answer " + LETTERS[idx]
+      );
+    };
+    setEyeLabel();
+    eye.addEventListener("click", () => {
+      eye.classList.toggle("on");
+      btn.classList.toggle("struck");
+      setEyeLabel();
+    });
+    row.appendChild(eye);
+    eyeButtons.push(eye);
+
+    list.appendChild(row);
   });
 
   area.appendChild(list);
 
   function lockChoices(selectedIdx, animate) {
     const apply = () => {
+      // Answering settles the question, so the cross-outs stop applying.
+      eyeButtons.forEach((eye) => eye.remove());
       choiceButtons.forEach((btn, idx) => {
+        btn.classList.remove("struck");
         btn.classList.add("locked");
         btn.disabled = true;
         if (idx === q.answer) btn.classList.add("correct");
