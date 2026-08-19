@@ -502,6 +502,36 @@ async function renderQuiz() {
     }
   }
 
+  // Exam chrome: flagging is local to this brick, and the bottom navigation
+  // reuses the same jump/advance the palette already goes through.
+  state.flags = new Set(loadFlags(brick.id));
+  const flagBtn = document.getElementById("exam-flag");
+  if (flagBtn) {
+    flagBtn.addEventListener("click", function () {
+      const q = brick.questions[state.progress.current];
+      if (!q) return;
+      if (state.flags.has(q.id)) state.flags.delete(q.id);
+      else state.flags.add(q.id);
+      saveFlags(brick.id, Array.from(state.flags));
+      updateExamChrome(state);
+    });
+  }
+  const prevBtn = document.getElementById("examfoot-prev");
+  if (prevBtn) {
+    prevBtn.addEventListener("click", function () {
+      if (state.progress.current > 0) jumpTo(state.progress.current - 1);
+    });
+  }
+  const nextBtn = document.getElementById("examfoot-next");
+  if (nextBtn) nextBtn.addEventListener("click", advance);
+
+  // The skin lands asynchronously (it waits on the entitlement check), so the
+  // labels have to be rewritten once it does — "Item 3 of 40" vs "Question # 3".
+  new MutationObserver(function () { updateExamChrome(state); }).observe(
+    document.documentElement,
+    { attributes: true, attributeFilter: ["data-skin"] }
+  );
+
   function renderQuestion() {
     const q = state.brick.questions[state.progress.current];
     const isNewQuestion = state.lastRenderedId !== q.id;
@@ -896,8 +926,68 @@ function updateScoreBadge(state, pulse) {
 }
 
 function updateCounter(state, el) {
-  if (!el) return;
-  el.textContent = `Question ${state.progress.current + 1} of ${state.brick.questions.length}`;
+  if (el) {
+    el.textContent = `Question ${state.progress.current + 1} of ${state.brick.questions.length}`;
+  }
+  updateExamChrome(state);
+}
+
+/* ---------------------------------------------------------- exam chrome ---
+   The item bar and bottom navigation the exam skins re-dress. They are in the
+   page at all times and hidden by CSS when no skin is on, so the quiz code has
+   one path to keep up to date rather than two. */
+
+const FLAG_KEY = (brickId) => `renal_qbank_flags_${brickId}`;
+
+function loadFlags(brickId) {
+  try {
+    const raw = localStorage.getItem(FLAG_KEY(brickId));
+    const parsed = raw ? JSON.parse(raw) : [];
+    return Array.isArray(parsed) ? parsed : [];
+  } catch (e) {
+    return [];
+  }
+}
+
+function saveFlags(brickId, ids) {
+  try {
+    localStorage.setItem(FLAG_KEY(brickId), JSON.stringify(ids));
+  } catch (e) {
+    /* private mode — flags just don't persist */
+  }
+}
+
+function updateExamChrome(state) {
+  const skin = document.documentElement.getAttribute("data-skin") || "off";
+  const total = state.brick.questions.length;
+  const idx = state.progress.current;
+  const q = state.brick.questions[idx];
+
+  const itemNo = document.getElementById("exam-itemno");
+  if (itemNo) {
+    itemNo.textContent =
+      skin === "nbme"
+        ? `Item ${idx + 1} of ${total}`
+        : `Question # ${idx + 1} of ${total}`;
+  }
+
+  const flagBtn = document.getElementById("exam-flag");
+  if (flagBtn && q) {
+    const on = state.flags ? state.flags.has(q.id) : false;
+    flagBtn.classList.toggle("on", on);
+    flagBtn.textContent = on
+      ? skin === "nbme" ? "☑ Mark" : "UNFLAG QUESTION"
+      : skin === "nbme" ? "☐ Mark" : "FLAG QUESTION";
+  }
+
+  const count = document.getElementById("examfoot-count");
+  if (count) count.textContent = `${idx + 1} OF ${total} QUESTIONS`;
+
+  const prev = document.getElementById("examfoot-prev");
+  if (prev) prev.disabled = idx === 0;
+
+  const next = document.getElementById("examfoot-next");
+  if (next) next.textContent = idx < total - 1 ? "Next" : "Finish";
 }
 
 function renderPalette(state, paletteEl, jumpTo) {

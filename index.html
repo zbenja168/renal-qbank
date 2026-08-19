@@ -5,7 +5,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Renal QBank</title>
   <link rel="stylesheet" href="style.css" />
+  <link rel="stylesheet" href="skins.css" />
   <script defer src="https://activetransport.app/static/tool-track.js"></script>
+  <script src="skins.js"></script>
 </head>
 <body>
   <header class="site-header">
@@ -41,6 +43,7 @@
         </div>
       </div>
       <p class="bricks-hint">Tap <span class="bricks-hint-pill">+</span> on multiple cards to build a mixed quiz with questions interleaved across bricks.</p>
+      <div id="skin-picker"></div>
       <div id="brick-grid" class="brick-grid"></div>
     </section>
   </main>
@@ -65,7 +68,7 @@
   </footer>
 
   <script src="app.js"></script>
-  <script>renderHome();</script>
+  <script>renderHome(); ATSkin.renderPicker(document.getElementById("skin-picker"));</script>
   <a class="at-badge" href="https://activetransport.app" target="_blank" rel="noopener noreferrer" title="Made by Active Transport — AI NBME questions from your notes"><span class="at-logo"><span class="m m1"></span><span class="m m2"></span><span class="m m3"></span><span class="ch"></span><span class="pt"></span></span><span class="t"><span class="at-word" style="font-size:.82rem">Active Transport</span><small>AI NBME questions &rarr;</small></span></a>
 </body>
 </html>

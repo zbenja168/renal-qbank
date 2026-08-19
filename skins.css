@@ -1,0 +1,375 @@
+/* ============================================================================
+   EXAM SKINS — Renal QBank
+
+   The same feature as the React QBanks, written against this repo's own
+   markup: everything hangs off [data-skin] on <html>. The QBank is dark by
+   default, so each skin first re-points the theme variables and then supplies
+   the chrome — Examplify's left question palette and pale blue navigation bar,
+   or NBME's slim item bar and navy strip.
+
+   No third-party logos, wordmarks or icons: this is a resemblance of layout,
+   which is what makes practice feel real, and nothing is copied from either
+   product.
+   ========================================================================== */
+
+/* Exam chrome lives in the DOM at all times so the quiz code can keep it
+   updated; without a skin it simply isn't shown. */
+.exam-itembar,
+.examfoot { display: none; }
+
+/* --------------------------------------------------------- shared, skinned --- */
+html[data-skin] .exam-itembar {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  flex-wrap: wrap;
+  margin: 0 0 16px;
+}
+html[data-skin] .exam-itemno { font-weight: 600; }
+html[data-skin] .exam-flag { cursor: pointer; font-family: inherit; }
+
+html[data-skin] .examfoot {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 20;
+  padding: 12px 22px 12px 200px; /* clears the Active Transport badge */
+}
+html[data-skin] .examfoot-nav { display: flex; gap: 12px; }
+html[data-skin] .examfoot button {
+  min-width: 120px;
+  padding: 10px 18px;
+  cursor: pointer;
+  font-weight: 600;
+  font-family: inherit;
+  font-size: 0.92rem;
+}
+html[data-skin] .examfoot button:disabled { cursor: not-allowed; }
+
+/* The header's back link, score badge and counter are the QBank's own
+   furniture; in exam mode the chrome carries the same information. */
+html[data-skin] .quiz-header .back-link,
+html[data-skin] .score-badge,
+html[data-skin] .quiz-counter,
+html[data-skin] .quiz-actions { display: none; }
+html[data-skin] .quiz-main { padding-bottom: 110px; }
+html[data-skin] #question-area { animation: none; }
+/* The default theme paints a dark radial glow on <html>; on a light field it
+   reads as a smudge behind the page, so both skins paint it out. */
+html[data-skin] { background: #ffffff; }
+/* Exam chrome runs edge to edge, not inside the reading column. */
+html[data-skin] .quiz-header .container { max-width: none; }
+
+/* --------------------------------------------------------------- Examplify ---
+   Laptop-testing look: light field, dark slate top bar with a green rule, a
+   numbered palette down the left, pill answers, pale blue navigation bar. */
+html[data-skin='examplify'] {
+  --bg: #ffffff;
+  --bg-elev: #eceff1;
+  --bg-elev-2: #e4eaed;
+  --bg-elev-3: #dde4e8;
+  --border: #d7dde0;
+  --border-strong: #b9c3c9;
+  --text: #1c2226;
+  --text-muted: #546e7a;
+  --text-faint: #78909c;
+  --accent: #2196f3;
+  --accent-soft: rgba(33, 150, 243, 0.10);
+  --radius: 999px;
+  --radius-sm: 4px;
+}
+html[data-skin='examplify'] body {
+  background: #ffffff;
+  color: #1c2226;
+  font-family: 'Segoe UI', Roboto, Arial, sans-serif;
+}
+html[data-skin='examplify'] .quiz-header {
+  background: #26333d;
+  border-bottom: 3px solid #4caf50;
+  backdrop-filter: none;
+  -webkit-backdrop-filter: none;
+}
+html[data-skin='examplify'] .quiz-brick-title {
+  color: #eceff1;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  font-size: 0.88rem;
+}
+html[data-skin='examplify'] .quiz-header-row { padding: 12px 22px; }
+
+html[data-skin='examplify'] .quiz-main {
+  padding-left: 118px;
+  max-width: 1000px;
+}
+html[data-skin='examplify'] .question-stem { color: #1c2226; }
+
+html[data-skin='examplify'] .exam-itemno { font-size: 1.1rem; color: #263238; }
+html[data-skin='examplify'] .exam-flag {
+  background: #f5a623;
+  color: #fff;
+  border: 0;
+  border-radius: 999px;
+  padding: 9px 20px;
+  font-size: 0.8rem;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+}
+html[data-skin='examplify'] .exam-flag.on { background: #ef8f00; }
+
+html[data-skin='examplify'] .choices::before {
+  content: 'Answers';
+  display: block;
+  margin-bottom: 4px;
+  font-size: 0.95rem;
+  color: #37474f;
+}
+html[data-skin='examplify'] .choice {
+  background: #eceff1;
+  border: 2px solid transparent;
+  border-radius: 999px;
+  padding: 14px 22px;
+}
+html[data-skin='examplify'] .choice:hover:not(:disabled):not(.locked) {
+  background: #e4eaed;
+  border-color: transparent;
+  transform: none;
+}
+html[data-skin='examplify'] .choice-letter {
+  background: transparent;
+  border: 0;
+  color: #37474f;
+  font-weight: 500;
+}
+html[data-skin='examplify'] .choice-text { color: #1c2226; }
+html[data-skin='examplify'] .choice.locked.correct {
+  background: #ffffff;
+  border-color: #2196f3;
+}
+html[data-skin='examplify'] .choice.locked.incorrect.selected {
+  background: #fdecea;
+  border-color: #e57373;
+}
+
+/* The palette becomes the left rail. */
+html[data-skin='examplify'] .palette {
+  position: fixed;
+  top: 56px;
+  bottom: 58px;
+  left: 0;
+  width: 76px;
+  z-index: 15;
+  margin: 0;
+  padding: 14px 0;
+  border-top: 0;
+  border-right: 1px solid #d7dde0;
+  background: #f4f6f7;
+  flex-wrap: nowrap;
+  flex-direction: column;
+  align-items: center;
+  gap: 12px;
+  overflow-y: auto;
+}
+html[data-skin='examplify'] .palette::-webkit-scrollbar { width: 6px; }
+html[data-skin='examplify'] .palette::-webkit-scrollbar-thumb {
+  background: #c3ccd1;
+  border-radius: 3px;
+}
+html[data-skin='examplify'] .palette-btn {
+  width: 38px;
+  height: 38px;
+  flex: none;
+  border-radius: 50%;
+  border: 1.5px solid #cfd8dc;
+  background: transparent;
+  color: #62727b;
+  font-size: 0.92rem;
+  font-weight: 500;
+}
+html[data-skin='examplify'] .palette-btn:hover { transform: none; color: #37474f; }
+html[data-skin='examplify'] .palette-btn.correct,
+html[data-skin='examplify'] .palette-btn.incorrect {
+  border-color: #2196f3;
+  color: #1976d2;
+  background: transparent;
+}
+html[data-skin='examplify'] .palette-btn.current {
+  background: #2196f3;
+  border-color: #2196f3;
+  color: #fff;
+  font-weight: 700;
+}
+
+html[data-skin='examplify'] .examfoot {
+  background: #dbeaf5;
+  border-top: 1px solid #b9d3e6;
+}
+html[data-skin='examplify'] .examfoot-count {
+  color: #37474f;
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+}
+html[data-skin='examplify'] .examfoot button {
+  border: 0;
+  border-radius: 3px;
+  background: #2196f3;
+  color: #ffffff;
+}
+html[data-skin='examplify'] .examfoot button:disabled {
+  background: #cfd8dc;
+  color: #90a4ae;
+}
+
+/* -------------------------------------------------------------------- NBME ---
+   Board-exam look: white field, narrow measure, navy slab top and bottom,
+   plain radio rows, Arial, and no palette. */
+html[data-skin='nbme'] {
+  --bg: #ffffff;
+  --bg-elev: #ffffff;
+  --bg-elev-2: #f4f7fa;
+  --bg-elev-3: #eef4fb;
+  --border: #d7dde3;
+  --border-strong: #9aa8b5;
+  --text: #111418;
+  --text-muted: #4a5560;
+  --text-faint: #6b7785;
+  --accent: #1b3a5c;
+  --accent-soft: rgba(27, 58, 92, 0.08);
+  --radius: 2px;
+  --radius-sm: 2px;
+}
+html[data-skin='nbme'] body {
+  background: #ffffff;
+  color: #111418;
+  font-family: Arial, Helvetica, sans-serif;
+}
+html[data-skin='nbme'] .quiz-header {
+  background: #1b3a5c;
+  border-bottom: 3px solid #0e2439;
+  backdrop-filter: none;
+  -webkit-backdrop-filter: none;
+}
+html[data-skin='nbme'] .quiz-brick-title { color: #ffffff; font-size: 0.95rem; }
+html[data-skin='nbme'] .quiz-header-row { padding: 12px 22px; }
+
+html[data-skin='nbme'] .palette { display: none; }
+html[data-skin='nbme'] .quiz-main { max-width: 780px; margin: 0 auto; }
+html[data-skin='nbme'] .question-stem {
+  color: #111418;
+  font-size: 1.02rem;
+  line-height: 1.65;
+  margin-top: 26px;
+}
+
+html[data-skin='nbme'] .exam-itembar {
+  border-bottom: 1px solid #d7dde3;
+  padding-bottom: 10px;
+}
+html[data-skin='nbme'] .exam-itemno { font-size: 0.95rem; color: #1b3a5c; }
+html[data-skin='nbme'] .exam-flag {
+  background: transparent;
+  border: 1px solid #9aa8b5;
+  border-radius: 2px;
+  padding: 5px 12px;
+  font-size: 0.8rem;
+  color: #1b3a5c;
+}
+html[data-skin='nbme'] .exam-flag.on { background: #fff3cd; border-color: #d3a029; }
+
+html[data-skin='nbme'] .choices { gap: 2px; }
+html[data-skin='nbme'] .choice {
+  background: transparent;
+  border: 0;
+  border-radius: 0;
+  padding: 7px 4px;
+}
+html[data-skin='nbme'] .choice:hover:not(:disabled):not(.locked) {
+  background: #eef4fb;
+  transform: none;
+}
+html[data-skin='nbme'] .choice-letter {
+  background: #ffffff;
+  color: #111418;
+  border: 1.5px solid #6b7785;
+  border-radius: 50%;
+  width: 1.35rem;
+  height: 1.35rem;
+  font-size: 0.78rem;
+  margin-top: 0.15rem;
+}
+html[data-skin='nbme'] .choice-text { color: #111418; line-height: 1.55; }
+html[data-skin='nbme'] .choice.locked.correct {
+  background: #eef7ee;
+  border: 0;
+}
+html[data-skin='nbme'] .choice.locked.incorrect.selected {
+  background: #fdecea;
+  border: 0;
+}
+
+html[data-skin='nbme'] .examfoot {
+  background: #1b3a5c;
+  border-top: 3px solid #0e2439;
+}
+html[data-skin='nbme'] .examfoot-count {
+  color: #cfe0f0;
+  font-size: 0.78rem;
+  letter-spacing: 0.04em;
+}
+html[data-skin='nbme'] .examfoot button {
+  border: 1px solid #7fa3c4;
+  border-radius: 2px;
+  background: #2c5c8f;
+  color: #ffffff;
+}
+html[data-skin='nbme'] .examfoot button:disabled {
+  background: #24466b;
+  color: #7d94ab;
+  border-color: #3d6489;
+}
+
+/* ------------------------------------------------------- the skin picker --- */
+.skin-picker { margin: 0 0 8px; }
+.skin-picker-label {
+  display: block;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--text-faint);
+  margin-bottom: 8px;
+}
+.skin-picker-row { display: flex; gap: 8px; flex-wrap: wrap; }
+.skin-btn {
+  padding: 7px 14px;
+  font-size: 13px;
+  font-family: inherit;
+  color: var(--text-muted);
+  background: var(--bg-elev);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  cursor: pointer;
+  transition: border-color var(--t-fast) var(--ease), color var(--t-fast) var(--ease);
+}
+.skin-btn:hover:not(:disabled) { border-color: var(--border-strong); color: var(--text); }
+.skin-btn.active {
+  border-color: var(--accent);
+  color: var(--accent);
+  background: var(--accent-soft);
+}
+.skin-btn:disabled { opacity: 0.45; cursor: not-allowed; }
+.skin-picker-note { font-size: 12px; color: var(--text-faint); margin: 8px 0 0; }
+.skin-picker-note a { color: var(--accent); }
+
+@media (max-width: 720px) {
+  html[data-skin='examplify'] .palette { display: none; }
+  html[data-skin='examplify'] .quiz-main { padding-left: 22px; }
+  html[data-skin] .examfoot { padding-left: 22px; justify-content: flex-end; }
+  html[data-skin] .examfoot-count { display: none; }
+  html[data-skin] .examfoot button { min-width: 92px; }
+}

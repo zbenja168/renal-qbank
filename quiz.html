@@ -5,7 +5,10 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Renal QBank &mdash; Quiz</title>
   <link rel="stylesheet" href="style.css" />
+  <link rel="stylesheet" href="skins.css" />
   <script defer src="https://activetransport.app/static/tool-track.js"></script>
+  <script src="skins.js"></script>
+  <script>ATSkin.restore();</script>
 </head>
 <body>
   <header class="quiz-header">
@@ -28,12 +31,24 @@
   </header>
 
   <main class="container quiz-main">
+    <div id="exam-itembar" class="exam-itembar">
+      <span id="exam-itemno" class="exam-itemno"></span>
+      <button id="exam-flag" class="exam-flag" type="button"></button>
+    </div>
     <div id="question-area"></div>
     <div id="palette" class="palette" aria-label="Question navigation"></div>
     <div class="quiz-actions">
       <button id="reset-brick" class="btn btn-ghost btn-small" type="button">Reset brick</button>
     </div>
   </main>
+
+  <div id="examfoot" class="examfoot">
+    <span id="examfoot-count" class="examfoot-count"></span>
+    <div class="examfoot-nav">
+      <button id="examfoot-prev" type="button">Previous</button>
+      <button id="examfoot-next" type="button">Next</button>
+    </div>
+  </div>
 
   <script src="app.js"></script>
   <script>renderQuiz();</script>
