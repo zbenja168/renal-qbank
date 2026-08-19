@@ -34,9 +34,15 @@
     <div id="exam-itembar" class="exam-itembar">
       <span id="exam-itemno" class="exam-itemno"></span>
       <button id="exam-flag" class="exam-flag" type="button"></button>
+      <span class="exam-more" aria-hidden="true">&bull;&bull;&bull;</span>
     </div>
     <div id="question-area"></div>
-    <div id="palette" class="palette" aria-label="Question navigation"></div>
+    <div class="palette-rail">
+      <span class="palette-head">FILTER &rsaquo;</span>
+      <span class="palette-chev" data-dir="up" aria-hidden="true"></span>
+      <div id="palette" class="palette" aria-label="Question navigation"></div>
+      <span class="palette-chev" data-dir="down" aria-hidden="true"></span>
+    </div>
     <div class="quiz-actions">
       <button id="reset-brick" class="btn btn-ghost btn-small" type="button">Reset brick</button>
     </div>

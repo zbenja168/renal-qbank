@@ -373,3 +373,276 @@ html[data-skin='nbme'] .examfoot button:disabled {
   html[data-skin] .examfoot-count { display: none; }
   html[data-skin] .examfoot button { min-width: 92px; }
 }
+
+/* ============================================================================
+   FIDELITY PASS — the same corrections made to the React QBanks, written
+   against this repo's markup: navy on near-white, an outlined flag pill that
+   only fills once flagged, filled palette discs, full-round answer pills with
+   the eye at the right, and a pale footer with pill buttons.
+   ========================================================================== */
+
+/* The rail wrapper is a plain container until a skin turns it into chrome. */
+.palette-head,
+.palette-chev,
+.exam-more { display: none; }
+
+html[data-skin='examplify'] {
+  --exam-navy: #1b4f72;
+  --exam-navy-deep: #16405c;
+  --exam-ink: #16232c;
+}
+
+html[data-skin='examplify'] .exam-itembar { padding: 4px 0 18px; margin-bottom: 0; }
+html[data-skin='examplify'] .exam-itemno {
+  font-size: 0.95rem;
+  font-weight: 700;
+  color: var(--exam-ink);
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+}
+html[data-skin='examplify'] .exam-itemno::after {
+  content: '';
+  width: 8px;
+  height: 8px;
+  border-right: 2px solid var(--exam-ink);
+  border-bottom: 2px solid var(--exam-ink);
+  transform: translateY(-3px) rotate(45deg);
+}
+html[data-skin='examplify'] .exam-flag {
+  background: #ffffff;
+  color: var(--exam-navy);
+  border: 1.5px solid var(--exam-navy);
+  border-radius: 999px;
+  padding: 8px 20px;
+  font-size: 0.76rem;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+}
+html[data-skin='examplify'] .exam-flag.on {
+  background: #f5a623;
+  border-color: #f5a623;
+  color: #ffffff;
+}
+html[data-skin] .exam-more { margin-left: auto; }
+html[data-skin='examplify'] .exam-more {
+  display: inline;
+  color: var(--exam-navy-deep);
+  font-size: 1.35rem;
+  letter-spacing: 0.08em;
+  line-height: 1;
+}
+
+html[data-skin='examplify'] .quiz-main {
+  max-width: none;
+  padding-left: 112px;
+  padding-right: 30px;
+}
+html[data-skin='examplify'] .question-stem {
+  font-size: 0.97rem;
+  line-height: 1.55;
+  margin-bottom: 26px;
+  color: var(--exam-ink);
+}
+
+html[data-skin='examplify'] .choices::before {
+  content: 'Answers: A - ' attr(data-last);
+  font-size: 0.85rem;
+  font-weight: 700;
+  color: var(--exam-ink);
+  margin-bottom: 10px;
+}
+html[data-skin='examplify'] .choice {
+  background: #eff0f0;
+  border: 1px solid #e3e5e6;
+  border-radius: 999px;
+  padding: 15px 26px;
+  gap: 16px;
+  min-height: 54px;
+  align-items: center;
+}
+html[data-skin='examplify'] .choice-letter {
+  font-weight: 700;
+  font-size: 0.95rem;
+  color: var(--exam-ink);
+}
+html[data-skin='examplify'] .choice-text { font-size: 0.95rem; color: var(--exam-ink); }
+html[data-skin='examplify'] .choice:not(.locked)::after {
+  content: '';
+  margin-left: auto;
+  flex: none;
+  width: 21px;
+  height: 21px;
+  opacity: 0.62;
+  background: no-repeat center/21px url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%2316232c' stroke-width='1.7'><path d='M1.6 12S5.2 5.8 12 5.8 22.4 12 22.4 12 18.8 18.2 12 18.2 1.6 12 1.6 12Z'/><circle cx='12' cy='12' r='3.1'/></svg>");
+}
+html[data-skin='examplify'] .choice.locked.correct {
+  background: #ffffff;
+  border: 2px solid var(--exam-navy);
+}
+
+/* The rail: head, a caret at each end, and the numbers scrolling between. */
+html[data-skin='examplify'] .palette-rail {
+  position: fixed;
+  top: 49px;
+  bottom: 58px;
+  left: 0;
+  width: 84px;
+  z-index: 15;
+  display: flex;
+  flex-direction: column;
+  background: #ffffff;
+  border-right: 1px solid #e2e5e7;
+  padding: 12px 0;
+}
+html[data-skin='examplify'] .palette-head {
+  display: block;
+  color: var(--exam-navy-deep);
+  font-size: 0.72rem;
+  font-weight: 700;
+  padding: 0 0 6px 12px;
+}
+html[data-skin='examplify'] .palette-chev {
+  display: block;
+  height: 26px;
+  flex: none;
+  position: relative;
+}
+html[data-skin='examplify'] .palette-chev::before {
+  content: '';
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 10px;
+  height: 10px;
+  border-left: 2px solid #6b7b86;
+  border-top: 2px solid #6b7b86;
+}
+html[data-skin='examplify'] .palette-chev[data-dir='up']::before {
+  transform: translate(-50%, -30%) rotate(45deg);
+}
+html[data-skin='examplify'] .palette-chev[data-dir='down']::before {
+  transform: translate(-50%, -70%) rotate(-135deg);
+}
+html[data-skin='examplify'] .palette {
+  position: static;
+  width: auto;
+  flex: 1 1 auto;
+  margin: 0;
+  padding: 6px 0;
+  border: 0;
+  background: transparent;
+  overflow-y: auto;
+  gap: 14px;
+  scrollbar-width: thin;
+}
+html[data-skin='examplify'] .palette-btn {
+  width: 44px;
+  height: 44px;
+  border: 0;
+  background: transparent;
+  color: #7c8791;
+  font-size: 0.95rem;
+  font-weight: 500;
+  border-radius: 50%;
+}
+html[data-skin='examplify'] .palette-btn.correct,
+html[data-skin='examplify'] .palette-btn.incorrect {
+  background: var(--exam-navy);
+  border: 0;
+  color: #ffffff;
+  font-weight: 600;
+}
+html[data-skin='examplify'] .palette-btn.current {
+  background: #ffffff;
+  border: 2px solid var(--exam-navy);
+  color: var(--exam-ink);
+  font-weight: 600;
+}
+
+html[data-skin='examplify'] .examfoot {
+  background: #eef4f9;
+  border-top: 1px solid #dde6ee;
+  padding-top: 14px;
+  padding-bottom: 14px;
+}
+html[data-skin='examplify'] .examfoot-count {
+  color: var(--exam-ink);
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+}
+html[data-skin='examplify'] .examfoot button {
+  border-radius: 999px;
+  min-width: 150px;
+  padding: 12px 22px;
+  font-size: 0.95rem;
+  font-weight: 500;
+}
+html[data-skin='examplify'] #examfoot-prev {
+  background: #ffffff;
+  border: 1px solid #cfd9e2;
+  color: var(--exam-ink);
+}
+html[data-skin='examplify'] #examfoot-prev:disabled {
+  background: #f4f6f8;
+  border-color: #e2e7ec;
+  color: #a8b2ba;
+}
+html[data-skin='examplify'] #examfoot-next {
+  background: var(--exam-navy);
+  border: 1px solid var(--exam-navy);
+  color: #ffffff;
+}
+html[data-skin='examplify'] .quiz-header {
+  background: #16232c;
+  border-bottom: 0;
+}
+
+/* ------------------------------------------------------------------ NBME ---
+   Item number and Mark live in their own grey band under the blue chrome. */
+html[data-skin='nbme'] .palette-rail { display: none; }
+html[data-skin='nbme'] .quiz-header { background: #12457c; border-bottom: 1px solid #0c3157; }
+html[data-skin='nbme'] .exam-itembar {
+  position: fixed;
+  top: 49px;
+  left: 0;
+  right: 0;
+  z-index: 14;
+  margin: 0;
+  padding: 9px 22px;
+  background: #eef1f4;
+  border-bottom: 1px solid #c9d2da;
+}
+html[data-skin='nbme'] .exam-itemno { font-weight: 700; color: #16232c; }
+html[data-skin='nbme'] .exam-flag {
+  background: #ffffff;
+  border: 1px solid #8b98a5;
+  color: #16232c;
+  font-size: 0.78rem;
+  padding: 4px 12px;
+}
+html[data-skin='nbme'] .exam-flag.on { background: #fdf3d3; border-color: #c9a227; }
+html[data-skin='nbme'] .quiz-main {
+  max-width: 900px;
+  margin: 0 0 0 44px;
+  padding-top: 108px;
+}
+html[data-skin='nbme'] .examfoot { background: #12457c; border-top: 1px solid #0c3157; }
+html[data-skin='nbme'] .examfoot button {
+  border: 1px solid #7ea6cc;
+  border-radius: 3px;
+  background: #1c5b8f;
+  color: #ffffff;
+}
+html[data-skin='nbme'] .examfoot button:disabled {
+  background: #17416a;
+  color: #86a2bd;
+  border-color: #3a6b98;
+}
+
+@media (max-width: 720px) {
+  html[data-skin='examplify'] .palette-rail { display: none; }
+  html[data-skin='examplify'] .quiz-main { padding-left: 22px; }
+  html[data-skin='nbme'] .quiz-main { margin-left: 0; }
+}

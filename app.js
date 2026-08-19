@@ -785,6 +785,8 @@ function drawQuestion(state, q, area, advance, jumpTo, paletteEl, counterEl, isN
 
   const list = document.createElement("div");
   list.className = "choices";
+  // The Examplify skin prints the real range ("Answers: A - E") above the options.
+  list.dataset.last = LETTERS[q.choices.length - 1] || "";
   const choiceButtons = [];
 
   q.choices.forEach((text, idx) => {
@@ -966,9 +968,7 @@ function updateExamChrome(state) {
   const itemNo = document.getElementById("exam-itemno");
   if (itemNo) {
     itemNo.textContent =
-      skin === "nbme"
-        ? `Item ${idx + 1} of ${total}`
-        : `Question # ${idx + 1} of ${total}`;
+      skin === "nbme" ? `Item ${idx + 1} of ${total}` : `Question ${idx + 1}`;
   }
 
   const flagBtn = document.getElementById("exam-flag");
