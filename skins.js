@@ -46,16 +46,28 @@
   function saved() {
     try {
       var s = localStorage.getItem(STORE);
-      return s === "examplify" || s === "nbme" ? s : "off";
+      return s === "examplify" || s === "examplify-dark" || s === "nbme" ? s : "off";
     } catch (e) {
       return "off";
     }
   }
 
+  // "examplify-dark" is Examplify's dark theme, not a different interface: it
+  // sets data-skin="examplify" plus data-skin-mode="dark", so every layout rule
+  // keeps treating it as Examplify and only the palette changes.
   function apply(skin) {
+    var el = document.documentElement;
     try {
-      if (skin === "off") document.documentElement.removeAttribute("data-skin");
-      else document.documentElement.setAttribute("data-skin", skin);
+      if (skin === "off") {
+        el.removeAttribute("data-skin");
+        el.removeAttribute("data-skin-mode");
+      } else if (skin === "examplify-dark") {
+        el.setAttribute("data-skin", "examplify");
+        el.setAttribute("data-skin-mode", "dark");
+      } else {
+        el.setAttribute("data-skin", skin);
+        el.removeAttribute("data-skin-mode");
+      }
       localStorage.setItem(STORE, skin);
     } catch (e) {
       /* private mode — the skin still applies for this page view */
@@ -83,10 +95,11 @@
   var OPTIONS = [
     { id: "off", label: "Off" },
     { id: "examplify", label: "Examplify Skin" },
+    { id: "examplify-dark", label: "Examplify Dark" },
     { id: "nbme", label: "NBME Skin" },
   ];
 
-  /** Three-button picker; locked until the reader is signed in. */
+  /** Skin picker; locked until the reader is signed in. */
   function renderPicker(host) {
     if (!host) return;
     host.innerHTML = "";

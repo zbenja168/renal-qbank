@@ -694,3 +694,125 @@ html[data-skin='examplify'] .choice.struck .choice-letter {
 html[data-skin='examplify'] .choice:not(.locked)::after { content: none; }
 /* Room for the control at the right-hand end of the pill. */
 html[data-skin='examplify'] .choice { padding-right: 62px; }
+
+/* ============================================================================
+   EXAMPLIFY — DARK THEME
+
+   Examplify's own dark setting, not a separate interface: data-skin stays
+   "examplify" so every layout rule above still applies and only the palette is
+   restated. This QBank is dark by default, so the theme variables mostly go
+   back to something near their originals.
+   ========================================================================== */
+html[data-skin='examplify'][data-skin-mode='dark'] {
+  --exam-navy: #4a9eda;
+  --exam-navy-deep: #7db6e6;
+  --exam-ink: #e6e9ec;
+  --bg: #202427;
+  --bg-elev: #2b3034;
+  --bg-elev-2: #333a3f;
+  --bg-elev-3: #3a4147;
+  --border: #33383d;
+  --border-strong: #4a5158;
+  --text: #e6e9ec;
+  --text-muted: #b9c1c8;
+  --text-faint: #8b959c;
+  --accent: #4a9eda;
+  --accent-soft: rgba(74, 158, 218, 0.14);
+  color-scheme: dark;
+}
+html[data-skin='examplify'][data-skin-mode='dark'],
+html[data-skin='examplify'][data-skin-mode='dark'] body { background: #202427; color: var(--exam-ink); }
+
+html[data-skin='examplify'][data-skin-mode='dark'] .quiz-header {
+  background: #15181a;
+  border-bottom: 1px solid #000;
+}
+html[data-skin='examplify'][data-skin-mode='dark'] .quiz-brick-title { color: #d6dade; }
+
+html[data-skin='examplify'][data-skin-mode='dark'] .question-stem { color: var(--exam-ink); }
+html[data-skin='examplify'][data-skin-mode='dark'] .exam-itemno { color: var(--exam-ink); }
+html[data-skin='examplify'][data-skin-mode='dark'] .exam-itemno::after {
+  border-right-color: var(--exam-ink);
+  border-bottom-color: var(--exam-ink);
+}
+html[data-skin='examplify'][data-skin-mode='dark'] .exam-flag {
+  background: transparent;
+  color: var(--exam-navy);
+  border-color: var(--exam-navy);
+}
+html[data-skin='examplify'][data-skin-mode='dark'] .exam-flag.on {
+  background: #d98b1f;
+  border-color: #d98b1f;
+  color: #16191b;
+}
+html[data-skin='examplify'][data-skin-mode='dark'] .exam-more { color: var(--exam-navy-deep); }
+
+html[data-skin='examplify'][data-skin-mode='dark'] .choices::before { color: #c6ccd2; }
+html[data-skin='examplify'][data-skin-mode='dark'] .choice {
+  background: #2b3034;
+  border-color: #383e43;
+}
+html[data-skin='examplify'][data-skin-mode='dark'] .choice:hover:not(:disabled):not(.locked) {
+  background: #333a3f;
+}
+html[data-skin='examplify'][data-skin-mode='dark'] .choice-letter,
+html[data-skin='examplify'][data-skin-mode='dark'] .choice-text { color: var(--exam-ink); }
+html[data-skin='examplify'][data-skin-mode='dark'] .choice.locked.correct {
+  background: #1f3a2a;
+  border-color: #4caf7d;
+}
+html[data-skin='examplify'][data-skin-mode='dark'] .choice.locked.incorrect.selected {
+  background: #3d2426;
+  border-color: #c96a6a;
+}
+html[data-skin='examplify'][data-skin-mode='dark'] .choice.struck { background: #24282b; }
+html[data-skin='examplify'][data-skin-mode='dark'] .choice.struck .choice-text,
+html[data-skin='examplify'][data-skin-mode='dark'] .choice.struck .choice-letter { color: #6f7a83; }
+html[data-skin='examplify'][data-skin-mode='dark'] .choice-eye {
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23c6ccd2' stroke-width='1.7'><path d='M1.6 12S5.2 5.8 12 5.8 22.4 12 22.4 12 18.8 18.2 12 18.2 1.6 12 1.6 12Z'/><circle cx='12' cy='12' r='3.1'/></svg>");
+}
+html[data-skin='examplify'][data-skin-mode='dark'] .choice-eye.on {
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23c6ccd2' stroke-width='1.7'><path d='M3.2 5.4 20.8 18.6'/><path d='M1.6 12S5.2 5.8 12 5.8 22.4 12 22.4 12 18.8 18.2 12 18.2 1.6 12 1.6 12Z'/><circle cx='12' cy='12' r='3.1'/></svg>");
+}
+
+html[data-skin='examplify'][data-skin-mode='dark'] .palette-rail {
+  background: #1a1d20;
+  border-right-color: #33383d;
+}
+html[data-skin='examplify'][data-skin-mode='dark'] .palette-head { color: var(--exam-navy-deep); }
+html[data-skin='examplify'][data-skin-mode='dark'] .palette-chev::before {
+  border-left-color: #7f8a93;
+  border-top-color: #7f8a93;
+}
+html[data-skin='examplify'][data-skin-mode='dark'] .palette-btn { color: #98a3ac; }
+html[data-skin='examplify'][data-skin-mode='dark'] .palette-btn.correct,
+html[data-skin='examplify'][data-skin-mode='dark'] .palette-btn.incorrect {
+  background: #2f6f9e;
+  color: #f2f5f7;
+}
+html[data-skin='examplify'][data-skin-mode='dark'] .palette-btn.current {
+  background: transparent;
+  border-color: var(--exam-navy);
+  color: var(--exam-navy);
+}
+
+html[data-skin='examplify'][data-skin-mode='dark'] .examfoot {
+  background: #1a1d20;
+  border-top-color: #000;
+}
+html[data-skin='examplify'][data-skin-mode='dark'] .examfoot-count { color: #b9c1c8; }
+html[data-skin='examplify'][data-skin-mode='dark'] #examfoot-prev {
+  background: #2c3237;
+  border-color: #434a50;
+  color: #dfe4e8;
+}
+html[data-skin='examplify'][data-skin-mode='dark'] #examfoot-prev:disabled {
+  background: #23272a;
+  border-color: #32373b;
+  color: #666f77;
+}
+html[data-skin='examplify'][data-skin-mode='dark'] #examfoot-next {
+  background: #2f6f9e;
+  border-color: #2f6f9e;
+  color: #ffffff;
+}
