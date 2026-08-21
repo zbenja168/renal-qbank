@@ -952,6 +952,13 @@ function updateScoreBadge(state, pulse) {
   const percentEl = document.getElementById("score-percent");
   if (fractionEl) fractionEl.textContent = `${stats.correct}/${stats.answered}`;
   if (percentEl) percentEl.textContent = stats.percent === null ? "—" : `${stats.percent}%`;
+  // The exam skins hide the score badge, so they get their own one-line version.
+  const examScore = document.getElementById("exam-score");
+  if (examScore) {
+    examScore.textContent = stats.answered
+      ? `${stats.answered} answered · ${stats.percent}% correct`
+      : "0 answered";
+  }
   if (pulse && badge) {
     badge.classList.remove("pulse");
     void badge.offsetWidth;

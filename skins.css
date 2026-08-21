@@ -816,3 +816,47 @@ html[data-skin='examplify'][data-skin-mode='dark'] #examfoot-next {
   border-color: #2f6f9e;
   color: #ffffff;
 }
+
+/* ============================================================================
+   SCORED PALETTE + RUNNING SCORE
+
+   A departure from the real software, which never tells you how you are doing
+   mid-block — but this is a qbank, and knowing which ones you got wrong is the
+   point of reviewing.
+   ========================================================================== */
+.exam-score { display: none; }
+html[data-skin] .exam-score {
+  display: inline;
+  margin-left: auto;
+  font-size: 0.82rem;
+  white-space: nowrap;
+}
+html[data-skin='examplify'] .exam-score { color: #d6dade; }
+html[data-skin='nbme'] .exam-score { color: #dbe6f2; }
+
+html[data-skin='examplify'] .palette-btn.correct {
+  background: #2e9e63;
+  border: 0;
+  color: #ffffff;
+  font-weight: 600;
+}
+html[data-skin='examplify'] .palette-btn.incorrect {
+  background: transparent;
+  border: 2px solid #d0453f;
+  color: #d0453f;
+  font-weight: 600;
+}
+html[data-skin='examplify'] .palette-btn.current {
+  box-shadow: 0 0 0 3px rgba(27, 79, 114, 0.18);
+}
+html[data-skin='examplify'][data-skin-mode='dark'] .palette-btn.correct {
+  background: #35a86c;
+  color: #10161a;
+}
+html[data-skin='examplify'][data-skin-mode='dark'] .palette-btn.incorrect {
+  border-color: #e2635c;
+  color: #e2635c;
+}
+html[data-skin='examplify'][data-skin-mode='dark'] .palette-btn.current {
+  box-shadow: 0 0 0 3px rgba(74, 158, 218, 0.22);
+}
