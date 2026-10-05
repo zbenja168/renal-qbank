@@ -1,69 +1,459 @@
 {
   "bricks": [
-    { "id": 1, "title": "Anatomy of the Urinary System", "available": true },
-    { "id": 2, "title": "Development of the Urinary System", "available": true },
-    { "id": 3, "title": "Congenital Disorders of the Kidney", "available": true },
-    { "id": 4, "title": "Histology of the Renal Corpuscle and Renal Tubular System", "available": true },
-    { "id": 5, "title": "Glomerular Function", "available": true },
-    { "id": 6, "title": "Glomerular Filtration Rate (GFR)", "available": true },
-    { "id": 7, "title": "Renal Clearance", "available": true },
-    { "id": 8, "title": "Regulation of Renal Blood Flow", "available": true },
-    { "id": 9, "title": "Nephron Segmental Physiology", "available": true },
-    { "id": 10, "title": "Sodium Homeostasis", "available": true },
-    { "id": 11, "title": "Potassium Homeostasis", "available": true },
-    { "id": 12, "title": "Loop Diuretics", "available": true },
-    { "id": 13, "title": "Thiazide Diuretics", "available": true },
-    { "id": 14, "title": "Osmotic Diuretics", "available": true },
-    { "id": 15, "title": "Potassium-Sparing Diuretics", "available": true },
-    { "id": 16, "title": "Composition of Body Fluids and Compartments", "available": true },
-    { "id": 17, "title": "Water Regulation", "available": true },
-    { "id": 18, "title": "Hyponatremia", "available": true },
-    { "id": 19, "title": "Hypernatremia", "available": true },
-    { "id": 20, "title": "Antidiuretic Hormone Agonists", "available": true },
-    { "id": 21, "title": "Antidiuretic Hormone Receptor Antagonists", "available": true },
-    { "id": 22, "title": "Hypokalemia", "available": true },
-    { "id": 23, "title": "Hyperkalemia", "available": true },
-    { "id": 24, "title": "Renal Calcium and Phosphate Regulation", "available": true },
-    { "id": 25, "title": "Magnesium Homeostasis", "available": true },
-    { "id": 26, "title": "Hereditary Renal Transport Disorders", "available": true },
-    { "id": 27, "title": "Mechanisms of Acid-Base Transport", "available": true },
-    { "id": 28, "title": "Metabolic Acidosis", "available": true },
-    { "id": 29, "title": "Metabolic Alkalosis", "available": true },
-    { "id": 30, "title": "Respiratory Acidosis", "available": true },
-    { "id": 31, "title": "Respiratory Alkalosis", "available": true },
-    { "id": 32, "title": "Carbonic Anhydrase Inhibitors", "available": true },
-    { "id": 33, "title": "Fanconi Syndrome", "available": true },
-    { "id": 34, "title": "Acute Kidney Injury", "available": true },
-    { "id": 35, "title": "Chronic Kidney Disease", "available": true },
-    { "id": 36, "title": "End-Stage Kidney Disease and Kidney Replacement Therapy", "available": true },
-    { "id": 37, "title": "Renal Laboratory Tests", "available": true },
-    { "id": 38, "title": "Renal Imaging", "available": true },
-    { "id": 39, "title": "Hematuria", "available": true },
-    { "id": 40, "title": "Nephrotic Syndrome", "available": true },
-    { "id": 41, "title": "Minimal Change Disease", "available": true },
-    { "id": 42, "title": "Focal Segmental Glomerulosclerosis", "available": true },
-    { "id": 43, "title": "Membranoproliferative Glomerulonephritis", "available": true },
-    { "id": 44, "title": "Membranous Nephropathy", "available": true },
-    { "id": 45, "title": "Nephritic Syndrome", "available": true },
-    { "id": 46, "title": "Postinfectious Glomerulonephritis", "available": true },
-    { "id": 47, "title": "Anti-GBM Disease (Goodpasture Syndrome)", "available": true },
-    { "id": 48, "title": "Alport Syndrome", "available": true },
-    { "id": 49, "title": "Diabetic Kidney Disease", "available": true },
-    { "id": 50, "title": "Acute Tubular Necrosis", "available": true },
-    { "id": 51, "title": "Acute Interstitial Nephritis", "available": true },
-    { "id": 52, "title": "Renal Papillary Necrosis", "available": true },
-    { "id": 53, "title": "Cystitis and Pyelonephritis", "available": true },
-    { "id": 54, "title": "Renal Stones", "available": true },
-    { "id": 55, "title": "Renal: Schistosomiasis", "available": true },
-    { "id": 56, "title": "Histology of the Ureters, Bladder, and Urethra", "available": true },
-    { "id": 57, "title": "Congenital Disorders of the Lower Urinary Tract", "available": true },
-    { "id": 58, "title": "Polycystic Kidney Disease", "available": true },
-    { "id": 59, "title": "Medullary Sponge Kidney", "available": true },
-    { "id": 60, "title": "Wilms Tumor", "available": true },
-    { "id": 61, "title": "Renal Cell Carcinoma", "available": true },
-    { "id": 62, "title": "Other Renal Tumors (Oncocytoma and Angiomyolipoma)", "available": true },
-    { "id": 63, "title": "Bladder Cancer", "available": true },
-    { "id": 64, "title": "Micturition", "available": true },
-    { "id": 65, "title": "Bladder Dysfunction: Urinary Incontinence and Neurogenic Bladder", "available": true }
+    {
+      "id": 1,
+      "title": "Anatomy of the Urinary System",
+      "available": true,
+      "weekName": "Week 1",
+      "sessionName": "Session 1"
+    },
+    {
+      "id": 2,
+      "title": "Development of the Urinary System",
+      "available": true,
+      "weekName": "Week 1",
+      "sessionName": "Session 1"
+    },
+    {
+      "id": 3,
+      "title": "Congenital Disorders of the Kidney",
+      "available": true,
+      "weekName": "Week 1",
+      "sessionName": "Session 1"
+    },
+    {
+      "id": 4,
+      "title": "Histology of the Renal Corpuscle and Renal Tubular System",
+      "available": true,
+      "weekName": "Week 1",
+      "sessionName": "Session 1"
+    },
+    {
+      "id": 5,
+      "title": "Glomerular Function",
+      "available": true,
+      "weekName": "Week 1",
+      "sessionName": "Session 1"
+    },
+    {
+      "id": 6,
+      "title": "Glomerular Filtration Rate (GFR)",
+      "available": true,
+      "weekName": "Week 1",
+      "sessionName": "Session 1"
+    },
+    {
+      "id": 7,
+      "title": "Renal Clearance",
+      "available": true,
+      "weekName": "Week 1",
+      "sessionName": "Session 1"
+    },
+    {
+      "id": 8,
+      "title": "Regulation of Renal Blood Flow",
+      "available": true,
+      "weekName": "Week 1",
+      "sessionName": "Session 1"
+    },
+    {
+      "id": 9,
+      "title": "Nephron Segmental Physiology",
+      "available": true,
+      "weekName": "Week 1",
+      "sessionName": "Session 2"
+    },
+    {
+      "id": 10,
+      "title": "Sodium Homeostasis",
+      "available": true,
+      "weekName": "Week 1",
+      "sessionName": "Session 2"
+    },
+    {
+      "id": 11,
+      "title": "Potassium Homeostasis",
+      "available": true,
+      "weekName": "Week 1",
+      "sessionName": "Session 2"
+    },
+    {
+      "id": 12,
+      "title": "Loop Diuretics",
+      "available": true,
+      "weekName": "Week 1",
+      "sessionName": "Session 2"
+    },
+    {
+      "id": 13,
+      "title": "Thiazide Diuretics",
+      "available": true,
+      "weekName": "Week 1",
+      "sessionName": "Session 2"
+    },
+    {
+      "id": 14,
+      "title": "Osmotic Diuretics",
+      "available": true,
+      "weekName": "Week 1",
+      "sessionName": "Session 2"
+    },
+    {
+      "id": 15,
+      "title": "Potassium-Sparing Diuretics",
+      "available": true,
+      "weekName": "Week 1",
+      "sessionName": "Session 2"
+    },
+    {
+      "id": 16,
+      "title": "Composition of Body Fluids and Compartments",
+      "available": true,
+      "weekName": "Week 1",
+      "sessionName": "Session 3"
+    },
+    {
+      "id": 17,
+      "title": "Water Regulation",
+      "available": true,
+      "weekName": "Week 1",
+      "sessionName": "Session 3"
+    },
+    {
+      "id": 18,
+      "title": "Hyponatremia",
+      "available": true,
+      "weekName": "Week 1",
+      "sessionName": "Session 3"
+    },
+    {
+      "id": 19,
+      "title": "Hypernatremia",
+      "available": true,
+      "weekName": "Week 1",
+      "sessionName": "Session 3"
+    },
+    {
+      "id": 20,
+      "title": "Antidiuretic Hormone Agonists",
+      "available": true,
+      "weekName": "Week 1",
+      "sessionName": "Session 3"
+    },
+    {
+      "id": 21,
+      "title": "Antidiuretic Hormone Receptor Antagonists",
+      "available": true,
+      "weekName": "Week 1",
+      "sessionName": "Session 3"
+    },
+    {
+      "id": 22,
+      "title": "Hypokalemia",
+      "available": true,
+      "weekName": "Week 2",
+      "sessionName": "Session 1"
+    },
+    {
+      "id": 23,
+      "title": "Hyperkalemia",
+      "available": true,
+      "weekName": "Week 2",
+      "sessionName": "Session 1"
+    },
+    {
+      "id": 24,
+      "title": "Renal Calcium and Phosphate Regulation",
+      "available": true,
+      "weekName": "Week 2",
+      "sessionName": "Session 1"
+    },
+    {
+      "id": 25,
+      "title": "Magnesium Homeostasis",
+      "available": true,
+      "weekName": "Week 2",
+      "sessionName": "Session 1"
+    },
+    {
+      "id": 26,
+      "title": "Hereditary Renal Transport Disorders",
+      "available": true,
+      "weekName": "Week 2",
+      "sessionName": "Session 1"
+    },
+    {
+      "id": 27,
+      "title": "Mechanisms of Acid-Base Transport",
+      "available": true,
+      "weekName": "Week 2",
+      "sessionName": "Session 2"
+    },
+    {
+      "id": 28,
+      "title": "Metabolic Acidosis",
+      "available": true,
+      "weekName": "Week 2",
+      "sessionName": "Session 2"
+    },
+    {
+      "id": 29,
+      "title": "Metabolic Alkalosis",
+      "available": true,
+      "weekName": "Week 2",
+      "sessionName": "Session 2"
+    },
+    {
+      "id": 30,
+      "title": "Respiratory Acidosis",
+      "available": true,
+      "weekName": "Week 2",
+      "sessionName": "Session 2"
+    },
+    {
+      "id": 31,
+      "title": "Respiratory Alkalosis",
+      "available": true,
+      "weekName": "Week 2",
+      "sessionName": "Session 2"
+    },
+    {
+      "id": 32,
+      "title": "Carbonic Anhydrase Inhibitors",
+      "available": true,
+      "weekName": "Week 2",
+      "sessionName": "Session 2"
+    },
+    {
+      "id": 33,
+      "title": "Fanconi Syndrome",
+      "available": true,
+      "weekName": "Week 2",
+      "sessionName": "Session 2"
+    },
+    {
+      "id": 34,
+      "title": "Acute Kidney Injury",
+      "available": true,
+      "weekName": "Week 2",
+      "sessionName": "Session 3"
+    },
+    {
+      "id": 35,
+      "title": "Chronic Kidney Disease",
+      "available": true,
+      "weekName": "Week 2",
+      "sessionName": "Session 3"
+    },
+    {
+      "id": 36,
+      "title": "End-Stage Kidney Disease and Kidney Replacement Therapy",
+      "available": true,
+      "weekName": "Week 2",
+      "sessionName": "Session 3"
+    },
+    {
+      "id": 37,
+      "title": "Renal Laboratory Tests",
+      "available": true,
+      "weekName": "Week 2",
+      "sessionName": "Session 3"
+    },
+    {
+      "id": 38,
+      "title": "Renal Imaging",
+      "available": true,
+      "weekName": "Week 2",
+      "sessionName": "Session 3"
+    },
+    {
+      "id": 39,
+      "title": "Hematuria",
+      "available": true,
+      "weekName": "Week 2",
+      "sessionName": "Session 3"
+    },
+    {
+      "id": 40,
+      "title": "Nephrotic Syndrome",
+      "available": true,
+      "weekName": "Week 3",
+      "sessionName": "Session 1"
+    },
+    {
+      "id": 41,
+      "title": "Minimal Change Disease",
+      "available": true,
+      "weekName": "Week 3",
+      "sessionName": "Session 1"
+    },
+    {
+      "id": 42,
+      "title": "Focal Segmental Glomerulosclerosis",
+      "available": true,
+      "weekName": "Week 3",
+      "sessionName": "Session 1"
+    },
+    {
+      "id": 43,
+      "title": "Membranoproliferative Glomerulonephritis",
+      "available": true,
+      "weekName": "Week 3",
+      "sessionName": "Session 1"
+    },
+    {
+      "id": 44,
+      "title": "Membranous Nephropathy",
+      "available": true,
+      "weekName": "Week 3",
+      "sessionName": "Session 1"
+    },
+    {
+      "id": 45,
+      "title": "Nephritic Syndrome",
+      "available": true,
+      "weekName": "Week 3",
+      "sessionName": "Session 2"
+    },
+    {
+      "id": 46,
+      "title": "Postinfectious Glomerulonephritis",
+      "available": true,
+      "weekName": "Week 3",
+      "sessionName": "Session 2"
+    },
+    {
+      "id": 47,
+      "title": "Anti-GBM Disease (Goodpasture Syndrome)",
+      "available": true,
+      "weekName": "Week 3",
+      "sessionName": "Session 2"
+    },
+    {
+      "id": 48,
+      "title": "Alport Syndrome",
+      "available": true,
+      "weekName": "Week 3",
+      "sessionName": "Session 2"
+    },
+    {
+      "id": 49,
+      "title": "Diabetic Kidney Disease",
+      "available": true,
+      "weekName": "Week 3",
+      "sessionName": "Session 2"
+    },
+    {
+      "id": 50,
+      "title": "Acute Tubular Necrosis",
+      "available": true,
+      "weekName": "Week 3",
+      "sessionName": "Session 3"
+    },
+    {
+      "id": 51,
+      "title": "Acute Interstitial Nephritis",
+      "available": true,
+      "weekName": "Week 3",
+      "sessionName": "Session 3"
+    },
+    {
+      "id": 52,
+      "title": "Renal Papillary Necrosis",
+      "available": true,
+      "weekName": "Week 3",
+      "sessionName": "Session 3"
+    },
+    {
+      "id": 53,
+      "title": "Cystitis and Pyelonephritis",
+      "available": true,
+      "weekName": "Week 3",
+      "sessionName": "Session 3"
+    },
+    {
+      "id": 54,
+      "title": "Renal Stones",
+      "available": true,
+      "weekName": "Week 3",
+      "sessionName": "Session 3"
+    },
+    {
+      "id": 55,
+      "title": "Renal: Schistosomiasis",
+      "available": true,
+      "weekName": "Week 3",
+      "sessionName": "Session 3"
+    },
+    {
+      "id": 56,
+      "title": "Histology of the Ureters, Bladder, and Urethra",
+      "available": true,
+      "weekName": "Week 4",
+      "sessionName": "Session 1"
+    },
+    {
+      "id": 57,
+      "title": "Congenital Disorders of the Lower Urinary Tract",
+      "available": true,
+      "weekName": "Week 4",
+      "sessionName": "Session 1"
+    },
+    {
+      "id": 58,
+      "title": "Polycystic Kidney Disease",
+      "available": true,
+      "weekName": "Week 4",
+      "sessionName": "Session 1"
+    },
+    {
+      "id": 59,
+      "title": "Medullary Sponge Kidney",
+      "available": true,
+      "weekName": "Week 4",
+      "sessionName": "Session 1"
+    },
+    {
+      "id": 60,
+      "title": "Wilms Tumor",
+      "available": true,
+      "weekName": "Week 4",
+      "sessionName": "Session 1"
+    },
+    {
+      "id": 61,
+      "title": "Renal Cell Carcinoma",
+      "available": true,
+      "weekName": "Week 4",
+      "sessionName": "Session 1"
+    },
+    {
+      "id": 62,
+      "title": "Other Renal Tumors (Oncocytoma and Angiomyolipoma)",
+      "available": true,
+      "weekName": "Week 4",
+      "sessionName": "Session 1"
+    },
+    {
+      "id": 63,
+      "title": "Bladder Cancer",
+      "available": true,
+      "weekName": "Week 4",
+      "sessionName": "Session 1"
+    },
+    {
+      "id": 64,
+      "title": "Micturition",
+      "available": true,
+      "weekName": "Week 4",
+      "sessionName": "Session 2"
+    },
+    {
+      "id": 65,
+      "title": "Bladder Dysfunction: Urinary Incontinence and Neurogenic Bladder",
+      "available": true,
+      "weekName": "Week 4",
+      "sessionName": "Session 2"
+    }
   ]
 }

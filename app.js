@@ -239,7 +239,24 @@ async function renderHome() {
 
   function renderCards() {
     grid.innerHTML = "";
+    // Week / Session headers in class-schedule order (manifest weekName /
+    // sessionName, 2026-10-05). Full-width rows inside the card grid.
+    let lastWeek = null, lastSession = null;
     for (const brick of sorted) {
+      if (brick.weekName && brick.weekName !== lastWeek) {
+        const h = document.createElement("div");
+        h.className = "grid-week";
+        h.textContent = brick.weekName;
+        grid.appendChild(h);
+        lastWeek = brick.weekName; lastSession = null;
+      }
+      if (brick.sessionName && brick.sessionName !== lastSession) {
+        const h = document.createElement("div");
+        h.className = "grid-session";
+        h.textContent = brick.sessionName;
+        grid.appendChild(h);
+        lastSession = brick.sessionName;
+      }
       const total = QUESTIONS_PER_BRICK;
       const progress = loadProgress(brick.id);
       const stats = progressStats(progress, total);
